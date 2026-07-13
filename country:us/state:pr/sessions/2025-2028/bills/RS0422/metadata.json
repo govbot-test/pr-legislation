@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RS0422",
+  "title": "Para enmendar la Secci\u00f3n 3 de la R. del S. 105, aprobada el 14 de octubre de 2025, que orden\u00f3 a la Comisi\u00f3n de Desarrollo Econ\u00f3mico, Peque\u00f1os Negocios, Banca, Comercio, Seguros y Cooperativismo del Senado de Puerto Rico, realizar un estudio general sobre los procesos de elaboraci\u00f3n, adopci\u00f3n, aprobaci\u00f3n y/o actualizaci\u00f3n de los planes de ordenamiento territorial, por parte de los municipios en la Isla, con el prop\u00f3sito de identificar alternativas viables dirigidas a que los setenta y ocho (78) municipios tengan dichos planes y puedan asumir ciertas competencias de la Junta de Planificaci\u00f3n y de la Oficina de Gerencia de Permisos; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs422"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-01-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-01-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado conforme a la Regla 18.3",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nitza  Moran Trinidad - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nitza  Moran Trinidad - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160194/rs0422-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-29",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado conforme a la Regla 18.3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160194/RS422-VS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160194/rs0422a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160194",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:54Z"
+  }
+}

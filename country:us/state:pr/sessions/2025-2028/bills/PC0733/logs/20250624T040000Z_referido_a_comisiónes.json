@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referido a Comisi\u00f3n(es)",
+    "occurred_at": "2025-06-24T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/156535",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC0733"
+}

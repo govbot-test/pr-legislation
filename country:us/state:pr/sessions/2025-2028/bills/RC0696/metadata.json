@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0696",
+  "title": "Para ordenar a la Comisi\u00f3n correspondiente de la C\u00e1mara de Representantes de Puerto Rico a realizar una investigaci\u00f3n abarcadora sobre la escala salarial, clasificaci\u00f3n de puestos, condiciones de compensaci\u00f3n y justicia salarial de los empleados del Centro de Servicios al Conductor, CESCO, y de la Director\u00eda de Servicios al Conductor, DISCO, adscritos al Departamento de Transportaci\u00f3n y Obras P\u00fablicas, DTOP; evaluar si la compensaci\u00f3n vigente guarda proporci\u00f3n con la carga operacional, la responsabilidad administrativa, el servicio directo al ciudadano y la complejidad de las funciones que desempe\u00f1a dicho personal; y recomendar las medidas legislativas, administrativas y presupuestarias necesarias para atender cualquier rezago, inequidad o disparidad salarial que se identifique.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc696"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sergio  E. Est\u00e9vez V\u00e9lez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sergio  E. Est\\u00e9vez V\\u00e9lez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161157/RC0696.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-05-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161157",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:01Z"
+  }
+}

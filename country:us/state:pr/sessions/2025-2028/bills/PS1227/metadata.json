@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1227",
+  "title": "Para crear la \u201cLey para el Desarrollo de Capacitaci\u00f3n Pesquera, Manejo Postcaptura,\nComercializaci\u00f3n Legal y Valor A\u00f1adido en Puerto Rico\u201d, a los fines de establecer la\npol\u00edtica p\u00fablica del Gobierno de Puerto Rico para promover la capacitaci\u00f3n t\u00e9cnica,\nocupacional, empresarial y pr\u00e1ctica de pescadores y de personas vinculadas a la\ncadena de valor pesquera; disponer para la creaci\u00f3n, coordinaci\u00f3n y fortalecimiento\nde programas de formaci\u00f3n en manejo postcaptura, fileteo, empaque, conservaci\u00f3n,\ninocuidad, trazabilidad, documentaci\u00f3n, mercadeo, comercializaci\u00f3n legal y valor\na\u00f1adido del producto pesquero o acu\u00e1tico; establecer mecanismos de coordinaci\u00f3n\ninteragencial e institucional; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1227"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161115/ps1227-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161115",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1376",
+  "title": "Para a\u00f1adir una nueva Secci\u00f3n 1.7 a la Ley N\u00fam. 38-2017, seg\u00fan enmendada, conocida\ncomo \u201cLey de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico\u201d, a\nlos fines de requerir la identificaci\u00f3n y revisi\u00f3n peri\u00f3dica de los formularios dirigidos al\np\u00fablico por las agencias; disponer que dichos formularios deber\u00e1n revisarse al menos\nuna vez cada cinco (5) a\u00f1os; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1376"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161647/ps1376-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161647",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:56Z"
+  }
+}

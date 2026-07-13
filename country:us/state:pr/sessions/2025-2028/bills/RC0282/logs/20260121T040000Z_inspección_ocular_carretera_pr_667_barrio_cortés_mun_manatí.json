@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Inspecci\u00f3n Ocular:  Carretera PR 667 Barrio Cort\u00e9s, Mun. Manat\u00ed",
+    "occurred_at": "2026-01-21T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/155439",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RC0282"
+}

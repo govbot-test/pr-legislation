@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC1184",
+  "title": "Para crear el Programa de Revitalizaci\u00f3n \u201cCorredor del Norte\u201d con el prop\u00f3sito de transformar los cascos urbanos de los municipios desde Toa Alta hasta Quebradillas en distritos de uso mixto que integren vivienda asequible, comercio local y turismo cultural; establecer \u201cZonas de Incentivo Urbano\u201d con beneficios fiscales para nuevos comercios; crear una oficina de permisos de \u201cv\u00eda r\u00e1pida\u201d para proyectos de rehabilitaci\u00f3n de estructuras abandonadas; implementar el redise\u00f1o de infraestructura vial bajo el modelo de \u201cCalles Completas\u201d y urbanismo t\u00e1ctico; establecer un sistema de transporte colectivo entre cascos urbanos; crear el sello \u201cIdentidad del Norte\u201d para la especializaci\u00f3n econ\u00f3mica por distrito; establecer comit\u00e9s de gesti\u00f3n comunitaria; facultar a las agencias concernidas; asignar fondos; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-pc1184"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-03-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-03-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #2",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #2",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jerry   Nieves Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jerry   Nieves Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edgardo   Feliciano S\u00e1nchez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Edgardo   Feliciano S\\u00e1nchez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160707/PC1184.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-03-12",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160707",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:00Z"
+  }
+}

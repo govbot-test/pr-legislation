@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Aprobado sin enmiendas",
+    "occurred_at": "2025-06-25T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/152680",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PS0145"
+}

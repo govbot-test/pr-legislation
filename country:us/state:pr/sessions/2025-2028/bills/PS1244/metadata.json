@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1244",
+  "title": "Para enmendar el inciso (n) del Art\u00edculo 4 de la Ley N\u00fam. 180-1998, seg\u00fan enmendada,\nconocida como \u201cLey de Vacaciones y Licencia por Enfermedad de Puerto Rico\u201d a los\nfines de extender sus beneficios a los empleados de negocios que empleen quince (15)\nempleados o menos, de modo que puedan disponer de los d\u00edas acumulados por\nconcepto de la licencia por enfermedad hasta un m\u00e1ximo de cinco (5) d\u00edas, siempre\nque mantengan un balance m\u00ednimo de cinco (5) d\u00edas, para atender el cuidado y\nbienestar por raz\u00f3n de enfermedad de sus hijos o hijas, su c\u00f3nyuge, su madre o su\npadre; el cuidado y atenci\u00f3n por raz\u00f3n de enfermedad de menores, personas de edad\navanzada o con impedimentos sobre las cuales tenga custodia legal.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1244"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161172/ps1244-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161172",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:00Z"
+  }
+}

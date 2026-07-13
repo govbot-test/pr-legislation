@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1274",
+  "title": "\u201cPara enmendar los Art\u00edculos 2, 3, 4 y 8 de la Ley N\u00fam. 139 de 13 de julio de 2011, seg\u00fan enmendada,\nconocida como la \u201cLey del Derecho sobre la Propia Imagen\u201d; a\u00f1adir un nuevo Art\u00edculo 3-A a dicha\nLey; a los fines de establecer requisitos espec\u00edficos de consentimiento para el uso de imagen, voz,\nnombre, apariencia, atributos reconocibles, grabaciones, fotograf\u00edas, material audiovisual, contenido\npromocional, representaciones digitales, avatares, imagen sint\u00e9tica, voz clonada o cualquier otra\nmodalidad de identidad reconocible de una persona en relaciones laborales, educativas, contractuales,\npromocionales o de prestaci\u00f3n de servicios; disponer que dicho consentimiento deber\u00e1 ser escrito,\nespec\u00edfico, informado, separado del contrato principal y revocable prospectivamente, salvo\ntransferencia v\u00e1lida conforme a derecho; regular el uso posterior a la terminaci\u00f3n de una relaci\u00f3n\nlaboral, educativa, contractual o promocional; incluir expresamente el uso, alteraci\u00f3n, recreaci\u00f3n o\nsimulaci\u00f3n de imagen o voz mediante inteligencia artificial o tecnolog\u00edas an\u00e1logas; establecer\nremedios de cese, remoci\u00f3n, interdicto, preservaci\u00f3n de evidencia digital, divulgaci\u00f3n de usos\nrealizados, da\u00f1os y honorarios; aclarar las excepciones aplicables a expresi\u00f3n noticiosa, pol\u00edtica,\nart\u00edstica, acad\u00e9mica, investigativa, cr\u00edtica, comentario, s\u00e1tira o parodia; y para otros fines\nrelacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1274"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161237/ps1274-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161237",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

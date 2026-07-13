@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1245",
+  "title": "Para enmendar los Art\u00edculos 97, 98, 389, 406, 411, 580, 595, 655, 658, 682 y 1641; y derogar\nlos Art\u00edculos 107, 381, 382 y 639 al 652, ambos inclusive, de la Ley 55-2020, seg\u00fan\nenmendada, conocida como el \u201cC\u00f3digo Civil de Puerto Rico de 2020\u201d; y para otros\nfines relacionados; enmendar el Art\u00edculo 2 de la Ley 338-1998, seg\u00fan enmendada,\nconocida como la \u201cCarta de los Derechos del Ni\u00f1o\u201d; enmendar el Art\u00edculo 4 del\nC\u00f3digo de Comercio de 1932, seg\u00fan enmendado; enmendar el inciso (a) del Art\u00edculo\n2 de la Ley 296-2012, seg\u00fan enmendada, conocida como la \u201cLey Uniforme de\nProcedimientos de Protecci\u00f3n y Jurisdicci\u00f3n en Casos de Tutela de Adultos de Puerto\nRico\u201d; y enmendar los Art\u00edculos 1, 2, 4 y 6, enmendar y reenumerar los Art\u00edculos 2, 3,\n4, 5, 6, 7, 8, 9, 10, 11, 12 y 13 como los Art\u00edculos 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 y 14 de la\nLey 176-2008, seg\u00fan enmendada, conocida como la \u201cLey para el Acceso a los Servicios\nEsenciales de las Personas con Impedimentos Significativos, Mayores de 21 A\u00f1os\u201d, a\nlos fines de establecer la mayor\u00eda de edad a los dieciocho (18) a\u00f1os; armonizar el\nordenamiento jur\u00eddico con dicho cambio y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1245"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:59Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:59Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:59Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n H\u00e9ctor Mart\u00ednez Col\u00f3n",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161173/ps1245-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161173",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:59Z"
+  }
+}

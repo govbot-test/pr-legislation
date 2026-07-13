@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0938",
+  "title": "Para enmendar la Secci\u00f3n 2032.01 del Cap\u00edtulo 2 de la Ley N\u00fam. 60 de 1 de julio\nde 2019, conocida como el \"C\u00f3digo de Incentivos de Puerto Rico\", seg\u00fan enmendada, a\nlos fines de a\u00f1adir un nuevo inciso (g) que cree un cr\u00e9dito contributivo por contrataci\u00f3n\nlocal en el sector de salud; establecer un cr\u00e9dito del 20% sobre la n\u00f3mina pagada a\nempleados locales en clusters m\u00e9dicos o consultorios especializados; condicionar el\ncr\u00e9dito a un t\u00e9rmino m\u00ednimo de tres (3) a\u00f1os de retenci\u00f3n de empleo; promover la\ndescentralizaci\u00f3n de servicios m\u00e9dicos especializados alrededor de la isla; requerir\nfiscalizaci\u00f3n estricta por el Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC);\ny para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps938"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-01-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159711/ps0938-26.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-13",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159711/ps0938-Inf (neg).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159711",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:01Z"
+  }
+}

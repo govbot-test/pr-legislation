@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1265",
+  "title": "\u201cPara a\u00f1adir un nuevo Art\u00edculo 4-B a la Ley N\u00fam. 118 de 22 de julio de 1974, seg\u00fan enmendada,\nconocida como la \u201cLey de la Junta de Libertad Bajo Palabra\u201d, a los fines de establecer una regla\nprospectiva de aplicabilidad temporal para futuras enmiendas penales, correccionales o relacionadas\ncon los t\u00e9rminos, c\u00f3mputos, requisitos, exclusiones, condiciones o criterios de elegibilidad al privilegio\nde libertad bajo palabra; requerir que toda legislaci\u00f3n futura que altere dichos t\u00e9rminos disponga\nexpresamente si aplica prospectivamente, retroactivamente o a casos pendientes ante la Junta de\nLibertad Bajo Palabra; establecer criterios m\u00ednimos para la evaluaci\u00f3n administrativa de leyes\nposteriores, cl\u00e1usulas de reserva, derechos adquiridos, expectativas de evaluaci\u00f3n y exclusiones\nestatutarias; requerir determinaciones escritas y fundamentadas por parte de la Junta cuando decline\njurisdicci\u00f3n o determine la aplicabilidad de una ley posterior; ordenar la adopci\u00f3n o revisi\u00f3n de\nreglamentaci\u00f3n compatible; establecer cl\u00e1usula de interpretaci\u00f3n, separabilidad y vigencia; y para otros\nfines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1265"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161228/ps1265-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161228",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

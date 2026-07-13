@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "1er Informe de Comit\u00e9 de Conferencia rendido",
+    "occurred_at": "2026-02-17T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-amendment"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/154926",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC0505"
+}

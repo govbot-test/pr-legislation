@@ -1,0 +1,61 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCC0380",
+  "title": "Para ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, creado mediante la Ley 26-2017, seg\u00fan enmendada, conocida como \u201cLey de Cumplimiento con el Plan Fiscal\u201d, evaluar conforme a las disposiciones de la Ley y Reglamento, la transferencia, por compraventa, usufructo o cualquier otro negocio jur\u00eddico contemplado en dicha Ley, al Gobierno Municipal de Mayag\u00fcez el inmueble, otrora Escuela de Nivel Elemental denominada Castillo en el Municipio de Mayag\u00fcez , identificado y marcado por el Centro de Recaudaciones de Ingresos Municipales (CRIM) con los d\u00edgitos 259-066-008-01 como registro catastral; con el prop\u00f3sito de ejecutar en dicha edificaci\u00f3n un proyecto integral para elaborar e implementar programas que beneficien a la comunidad mediante un convenio con la misma y as\u00ed llevar a cabo actividades de desarrollo deportivo, recreativo y educativo, dirigido a ni\u00f1os, j\u00f3venes y adultos; igualmente, servicios sociales esenciales, programas de bienestar social y desarrollo comunitario, incluyendo todas sus instalaciones y edificaciones; establecer condiciones suspensivas para cualquier transferencia de t\u00edtulo; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rcc380"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lilibeth  Rosas Vargas - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lilibeth  Rosas Vargas - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161638",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:59Z"
+  }
+}

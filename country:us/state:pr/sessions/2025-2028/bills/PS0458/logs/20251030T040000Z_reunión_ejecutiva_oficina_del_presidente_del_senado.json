@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reuni\u00f3n Ejecutiva: Oficina del Presidente del Senado",
+    "occurred_at": "2025-10-30T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/154662",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PS0458"
+}

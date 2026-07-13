@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1060",
+  "title": "Para enmendar los art\u00edculos 2, 3, 4, 5, 6, 7 y 8, derogar los art\u00edculos 9 y 10, y reenumerar\nlos actuales art\u00edculos 11 y 12, como los art\u00edculos 9 y 10, respectivamente, en la Ley\n247-2015, conocida como \u201cLey para la Promoci\u00f3n de Bolsas Reusables y la\nReglamentaci\u00f3n del Uso de Bolsas Pl\u00e1sticas en Puerto Rico\u201d, con el prop\u00f3sito de\nactualizar y simplificar sus disposiciones, concentrando en el Departamento de\nRecursos Naturales y Ambientales, la exclusiva encomienda de fiscalizar la\naplicaci\u00f3n de la misma; destinar los recaudos que se generen por la imposici\u00f3n de\nmultas administrativas, para que el antes mencionado Departamento, lleve a cabo\ncampa\u00f1as educativas dirigidas a informar a la comunidad en general sobre la\nimplantaci\u00f3n de esta Ley y la importancia de reducir y minimizar el uso de las\nbolsas pl\u00e1sticas, considerando sus procedimientos de elaboraci\u00f3n, sus altos costos\necon\u00f3micos y sus insostenibles costos ambientales; y para que la Agencia adopte la\nreglamentaci\u00f3n que estime pertinente; enmendar el Art\u00edculo 18-A de la Ley 70-1992,\nseg\u00fan enmendada, conocida como \u201cLey para la Reducci\u00f3n y el Reciclaje de\nDesperdicios S\u00f3lidos en Puerto Rico\u201d, con el prop\u00f3sito de aclarar que, la\nresponsabilidad de instalar envases para la recuperaci\u00f3n y el reciclaje de bolsas\npl\u00e1sticas le competer\u00e1 a los establecimientos comerciales a los que no les apliquen\nlas disposiciones de la Ley 247, antes citada, por ser estos los que utilizan bolsas\npl\u00e1sticas en sus comercios; y enmendar la Secci\u00f3n 4050.06 de la Ley 1-2011, seg\u00fan\nenmendada, conocida como \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d, a\nlos efectos de establecer que, a partir del 1 de julio de 2026, la totalidad del producto\nde los recaudos del impuesto sobre ventas y uso, por concepto de la venta de bolsas\nde papel o bolsas reusables, seg\u00fan definidas en la Ley 247, supra, por parte de los\nestablecimientos comerciales cubiertos por dicha Ley, a sus clientes, le ser\u00e1 remitido al Departamento de Recursos Naturales y Ambientales, para financiar el desarrollo\ne implantaci\u00f3n del \u201cPrograma para la Reducci\u00f3n y el Reciclaje de Desperdicios\nS\u00f3lidos\u201d, establecido de conformidad con el Art\u00edculo 9 de la Ley 70, antes citada; y\npara otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1060"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-02-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-02-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-02-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nitza  Moran Trinidad - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nitza  Moran Trinidad - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160374/ps1060-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-06",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160374",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:01Z"
+  }
+}

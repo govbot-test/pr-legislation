@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0693",
+  "title": "Para ordenar a la Comisi\u00f3n de Seguridad P\u00fablica de la C\u00e1mara de Representantes que realice una investigaci\u00f3n sobre el presunto esquema de trasiego de drogas a cambio de votos de los confinados en el proceso eleccionario de 2024; si el Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n (DCR) fue notificado de la existencia de una investigaci\u00f3n federal sobre gangas presionando a confinados para que votaran de cierta manera, y si cooper\u00f3 con la misma o recibi\u00f3 requerimientos por parte de cualquier agencia federal; si empleados del DCR estaban involucrados en la operaci\u00f3n clandestina, y si hubo pesquisas internas del DCR al respecto, incluyendo su resoluci\u00f3n; si campa\u00f1as pol\u00edticas en Puerto Rico participaron activamente del esquema para obtener un beneficio electoral; si hubo concesi\u00f3n de privilegios a confinados que votaron de determinada manera o, por el contrario, castigos a quienes no siguieran dichas instrucciones; qu\u00e9 medidas de seguridad o protocolos adopt\u00f3 el DCR luego de la acusaci\u00f3n federal contra la ganga Grupo 31, tambi\u00e9n conocida como \u201cLos Tiburones\u201d, en diciembre de 2024; si el Departamento de Justicia de Puerto Rico ha recibido referidos para investigar denuncias de fraude electoral perpetrado por gangas de confinados en instituciones del DCR, y su resoluci\u00f3n; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc693"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:02Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:02Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H\u00e9ctor E. Ferrer Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor E. Ferrer Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161145/RC0693.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161145",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:02Z"
+  }
+}

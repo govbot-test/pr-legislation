@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Enviado a la Gobernadora",
+    "occurred_at": "2025-04-10T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/154194",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PS0413"
+}

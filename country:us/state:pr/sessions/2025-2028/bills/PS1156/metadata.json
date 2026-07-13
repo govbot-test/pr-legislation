@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1156",
+  "title": "Para enmendar el Art\u00edculo 8.4A y a\u00f1adir, inmediatamente despu\u00e9s del mismo, los nuevos  Art\u00edculos 8.4A-1, 8.4A-2, 8.4A-3 y 8.4A-4 a la Ley 161-2009, seg\u00fan enmendada, conocida  como la \u201cLey para la Reforma del Proceso de Permisos de Puerto Rico\u201d, a los fines de  optimizar el Permiso \u00danico Incidental Operacional como un tr\u00e1mite accesorio  verdaderamente expedito; establecer su naturaleza accesoria y limitada respecto al permiso o autorizaci\u00f3n matriz; disponer listas taxativas o delimitadas de supuestos elegibles; prohibir la reapertura o reexamen de asuntos ya adjudicados o satisfechos mediante el permiso principal, salvo circunstancias excepcionales; autorizar, como regla \ngeneral, su evaluaci\u00f3n y expedici\u00f3n por Profesionales Autorizados en los casos que cumplan con los criterios establecidos por ley y reglamento; disponer para t\u00e9rminos abreviados, documentaci\u00f3n estandarizada e integraci\u00f3n obligatoria al Sistema Unificado de Informaci\u00f3n o Single Business Portal; permitir que la Autorizaci\u00f3n para Corte, Poda o Trasplante de \u00c1rboles pueda solicitarse junto al permiso de construcci\u00f3n cuando proceda; establecer mecanismos de cierre formal simplificado; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1156"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160782/ps1156-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160782",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

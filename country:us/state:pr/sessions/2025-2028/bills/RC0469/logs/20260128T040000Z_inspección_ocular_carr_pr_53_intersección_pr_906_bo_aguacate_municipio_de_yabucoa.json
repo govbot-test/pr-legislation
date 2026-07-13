@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Inspecci\u00f3n Ocular:  Carr. PR 53 Intersecci\u00f3n PR 906 Bo. Aguacate, Municipio de Yabucoa",
+    "occurred_at": "2026-01-28T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/158916",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RC0469"
+}

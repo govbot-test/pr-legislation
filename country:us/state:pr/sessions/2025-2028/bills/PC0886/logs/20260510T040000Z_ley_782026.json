@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Ley 78-2026",
+    "occurred_at": "2026-05-10T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/158830",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC0886"
+}

@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC1287",
+  "title": "Para a\u00f1adir el Art\u00edculo 16-B a la Ley N\u00fam. 24 de 22 de abril de 1931, seg\u00fan enmendada y conocida como \u201cLey del Registro General de Puerto Rico\u201d, a los fines de facultar a que el Registrador de cada Registro Demogr\u00e1fico de cada Distrito tenga la obligaci\u00f3n de notificar, mensualmente, al Presidente de la Comisi\u00f3n Estatal de Elecciones las defunciones del Distrito, a los efectos de que este d\u00e9 de baja en el sistema electoral y elimine de la lista de electores a esos fenecidos; establecer que dicha notificaci\u00f3n habr\u00e1 de ser emitida dentro de los primeros (15) d\u00edas del mes siguiente y el Presidente de la Comisi\u00f3n Estatal de Elecciones, en un periodo no mayor de diez (10) d\u00edas, vendr\u00e1 obligado a eliminar y dar de baja del sistema a tales fenecidos; ordenar a que la Puerto Rico Innovation and Technology Service (PRITS) garantice que esta notificaci\u00f3n se lleve a cabo de manera r\u00e1pida y con todos los par\u00e1metros de ciberseguridad; establecer que los registradores distritales en conjunto con el Presidente de la Comisi\u00f3n Estatal de Elecciones emitir\u00e1n cada seis (6) meses un informe a la Asamblea Legislativa en torno a la cantidad par de defunciones por distrito y bajas en el sistema electoral de Puerto Rico; y para otros fines relacionados",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-pc1287"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161285/PC1287.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161285",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:56Z"
+  }
+}

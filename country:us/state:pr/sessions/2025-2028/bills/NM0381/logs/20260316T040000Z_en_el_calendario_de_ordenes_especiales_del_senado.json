@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "En el Calendario de Ordenes Especiales del Senado",
+    "occurred_at": "2026-03-16T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/160584",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "NM0381"
+}

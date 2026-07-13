@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC1123",
+  "title": "Para establecer la \u201cLey para la Revitalizaci\u00f3n de Viviendas Abandonadas a trav\u00e9s de Cr\u00e9ditos y Exenciones Contributivas en Puerto Rico\u201d, a fin de proveer incentivos contributivos a las personas naturales, jur\u00eddicas, entidades u organizaciones sin fines lucrativos, cooperativas y corporaciones, que rehabiliten propiedades inmuebles abandonadas, as\u00ed certificadas por el Departamento de la Vivienda y los municipios correspondientes, una vez realizado el debido proceso de ley, en \u00e1reas deterioradas para promover las viviendas asequibles; disponer objetivos; definiciones; criterios; designaciones; facultades y deberes; requisitos de elegibilidad de la propiedad inmueble y del propietario; administraci\u00f3n y certificaci\u00f3n; criterios de solicitud; incentivos; condiciones para el incentivo y exenci\u00f3n; controles, fiscalizaci\u00f3n, penalidades y reversi\u00f3n; reglamentaci\u00f3n; e informe de impacto fiscal.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-pc1123"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-02-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:02Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-02-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:02Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-02-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:02Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #2",
+      "date": "2026-05-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160441/PC1123.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160441",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:02Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Aprobado sin enmiendas",
+    "occurred_at": "2026-02-17T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/160443",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RKS0018"
+}

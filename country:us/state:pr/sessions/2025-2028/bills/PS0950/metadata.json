@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0950",
+  "title": "Para crear el Programa de Internado Cl\u00ednico de Psicolog\u00eda y Trabajo Social en el\nNegociado de la Polic\u00eda de Puerto Rico, con el fin de proporcionar servicios pro bono de\nsalud mental a los polic\u00edas y familiares de polic\u00edas ca\u00eddos en las 13 regiones policiacas;\nenmendar el Art\u00edculo 5 de la Ley N\u00fam. 96 de 4 de junio de 1983, seg\u00fan enmendada,\nconocida como la \"Ley para Reglamentar la Pr\u00e1ctica de la Psicolog\u00eda en Puerto Rico\",\npara a\u00f1adir un nuevo inciso (k) que establezca como requisito para la obtenci\u00f3n o\nrenovaci\u00f3n de la licencia de psic\u00f3logo la prestaci\u00f3n de un m\u00ednimo de 40 horas pro bono\nen dicho programa; enmendar el Art\u00edculo 6 de la Ley N\u00fam. 171 de 9 de agosto de 2002,\nseg\u00fan enmendada, conocida como la \"Ley para Reglamentar la Profesi\u00f3n de Trabajo\nSocial en Puerto Rico\", para a\u00f1adir un nuevo inciso (l) que establezca como requisito\npara la obtenci\u00f3n o renovaci\u00f3n de la licencia de trabajador social cl\u00ednico la prestaci\u00f3n de\nun m\u00ednimo de 40 horas pro bono en dicho programa; y para otros fines relacionados",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps950"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159723/ps0950-26.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159723/ps0950-Inf (neg)_compressed.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159723",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

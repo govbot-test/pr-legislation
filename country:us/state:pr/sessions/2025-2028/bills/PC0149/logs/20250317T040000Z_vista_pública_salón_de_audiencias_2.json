@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #2",
+    "occurred_at": "2025-03-17T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/152789",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC0149"
+}

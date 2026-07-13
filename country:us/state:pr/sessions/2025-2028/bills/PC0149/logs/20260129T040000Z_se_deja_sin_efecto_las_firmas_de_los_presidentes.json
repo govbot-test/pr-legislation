@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Se deja sin efecto las firmas de los Presidentes",
+    "occurred_at": "2026-01-29T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/152789",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC0149"
+}

@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1201",
+  "title": "Para a\u00f1adir un Cap\u00edtulo 5 de la Ley N\u00fam. 194-2011, seg\u00fan enmendada, conocida como \n\u201cC\u00f3digo de Seguro de Salud de Puerto Rico\u201d, a fin de garantizar que todos los planes \nm\u00e9dicos p\u00fablicos y privados incluyan cobertura para terapias con c\u00e9lulas madre \ndebidamente aprobadas por las autoridades regulatorias, adem\u00e1s de establecer \npar\u00e1metros para su autorizaci\u00f3n, fiscalizaci\u00f3n y acceso equitativo; enmendar el \nArt\u00edculo III de la Ley N\u00fam. 72-1993, seg\u00fan enmendada, conocida como \"Ley de la \nAdministraci\u00f3n de Seguros de Salud de Puerto Rico\", para a\u00f1adir nuevos incisos (h), \n(i), (j), (ff), (mm), (nn) y (oo), redesignar los actuales incisos (h) al (j) como incisos (k) \nal (m), los actuales incisos (k) al (bb) como incisos (n) al (ee), y los actuales incisos (cc) \nal (hh) como incisos (gg) al (ll), y redesignar los incisos subsiguientes seg\u00fan \ncorresponda; y a\u00f1adir un inciso (g) del subinciso (1) del inciso \u201cCubierta C\u201d de la \nSecci\u00f3n 6 del Art\u00edculo VI de la Ley N\u00fam. 72-1993, seg\u00fan enmendada, conocida como \n\u201cLey de la Administraci\u00f3n de Seguros de Salud de Puerto Rico\u201d, con el prop\u00f3sito de \nestablecer que todo plan de salud en Puerto Rico, incluyendo el Plan Vital, provea \ncobertura para tratamientos con c\u00e9lulas madre, y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1201"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160957/ps1201-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160957",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:58Z"
+  }
+}

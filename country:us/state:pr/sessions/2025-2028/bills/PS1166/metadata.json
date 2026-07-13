@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1166",
+  "title": "Para enmendar el inciso (2) del apartado (a) de la Secci\u00f3n 2054.05 del Subcap\u00edtulo D del \nCap\u00edtulo 5 del Subt\u00edtulo B de la Ley N\u00fam. 1-2011, seg\u00fan enmendada, conocida como\n\u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d; adicionar un inciso (22) al \napartado (a) del Art\u00edculo 10 de la Ley N\u00fam. 4 de 11 de octubre de 1985, seg\u00fan \nenmendada, conocida como \u201cLey de la Oficina del Comisionado de Instituciones \nFinancieras\u2019; adicionar un nuevo inciso (e) al Art\u00edculo 3; redesignar los actuales \nincisos (e) a (m) como nuevos incisos (f) a (n) del Plan de Reorganizaci\u00f3n N\u00fam. 3 de \n22 de junio de 1994, seg\u00fan enmendado, que establece el Departamento de Hacienda, \na fin de disponer que los fondos que se otorgar\u00e1n a los herederos, legatarios o \nbeneficiarios del causante, ser\u00e1n con el objetivo de pagar los gastos funerarios y \ncuentas corrientes; establecer que en la negativa de las instituciones financieras de \ndesembolsar dichos fondos, tendr\u00e1n la potestad de instar un proceso de queja ante \nel Comisionado de Instituciones Financieras, quien dispondr\u00e1 reglamentariamente,\nen coordinaci\u00f3n con el Secretario de Hacienda, normas uniformes a seguir para este \nfin, incluyendo moratorias de pago y una campa\u00f1a informativa dirigida a\nconcienciar sobre los procesos acogidos a estos efectos; y realizar correcciones \ngramaticales.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1166"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-03-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160844/ps1166-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160844",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:56Z"
+  }
+}

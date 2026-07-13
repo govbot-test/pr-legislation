@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Inspecci\u00f3n Ocular: Aeropuerto Luis Mu\u00f1oz Mar\u00edn",
+    "occurred_at": "2025-11-07T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/156540",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RS0237"
+}

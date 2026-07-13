@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reuni\u00f3n Ejecutiva:  Oficina de la Comisi\u00f3n",
+    "occurred_at": "2025-07-13T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/153754",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RC0142"
+}

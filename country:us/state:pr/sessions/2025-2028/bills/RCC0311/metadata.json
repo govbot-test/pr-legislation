@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCC0311",
+  "title": "Para ordenar al Puerto Rico Innovation and Technology Service (PRITS), en coordinaci\u00f3n con el Departamento de Justicia, el Departamento de Seguridad P\u00fablica, el Negociado de la Polic\u00eda de Puerto Rico, el Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n, la Junta de Libertad Bajo Palabra y el Poder Judicial, dise\u00f1ar, desarrollar e implementar una aplicaci\u00f3n digital oficial del Gobierno de Puerto Rico, accesible en todas las plataformas electr\u00f3nicas y dispositivos m\u00f3viles, que integre el Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores, seg\u00fan establecido mediante la Ley 266-2004, seg\u00fan enmendada, y el Registro de Personas Convictas por Violaciones a la Ley N\u00fam. 54 de 15 de agosto de 1989, seg\u00fan enmendada, conocida como \u201cLey de Prevenci\u00f3n e Intervenci\u00f3n con la Violencia Dom\u00e9stica\u201d, seg\u00fan dispuesto mediante la Ley 29-2017, seg\u00fan enmendada, entre otros registros compatibles con este prop\u00f3sito, con el fin de crear una plataforma de f\u00e1cil acceso, \u00e1gil, uniforme y de mayor alcance para mantener informada y protegida a la ciudadan\u00eda; establecer par\u00e1metros b\u00e1sicos de funcionalidad, ciberseguridad; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rcc311"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-03-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-03-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gretchen M. Hau - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gretchen M. Hau - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edgardo   Feliciano S\u00e1nchez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Edgardo   Feliciano S\\u00e1nchez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160718/RCC0311.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-03-12",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160718",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

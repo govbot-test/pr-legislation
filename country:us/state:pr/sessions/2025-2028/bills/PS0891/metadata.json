@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0891",
+  "title": "Para enmendar el Art\u00edculo 3.002 de la Ley N\u00fam. 81 de 30 de agosto de 1991, seg\u00fan\nenmendada, conocida como \u201cLey de Municipios Aut\u00f3nomos del Estado Libre\nAsociado de Puerto Rico\u201d, a los fines de facultar al Alcalde a flexibilizar requisitos\neducativos, tales como el grado de bachillerato, para el nombramiento en posiciones\ndirectivas o de dif\u00edcil reclutamiento que no requieran licencia profesional para su\ndesempe\u00f1o, cuando se justifique por remuneraci\u00f3n insuficiente en el plan de\nclasificaci\u00f3n y retribuci\u00f3n del municipio; establecer criterios claros para dicha\nflexibilizaci\u00f3n, priorizando experiencia profesional y m\u00e9rito; requerir justificaci\u00f3n\ndocumentada y aprobaci\u00f3n de la Legislatura Municipal; y para otros fines\nrelacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps891"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-12-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-01-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2026-02-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159564/ps0891-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159564",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

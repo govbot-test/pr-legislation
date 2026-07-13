@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1264",
+  "title": "Para enmendar los Art\u00edculos 2, 3, 18, 19, 31 y 38, y a\u00f1adir un nuevo Art\u00edculo 21-E\na la Ley N\u00fam. 24 de 22 de abril de 1931, seg\u00fan enmendada, conocida como \u201cLey del\nRegistro Demogr\u00e1fico de Puerto Rico\u201d, a los fines de establecer el procedimiento de\ninscripci\u00f3n de nacimiento de menores nacidos mediante t\u00e9cnicas de reproducci\u00f3n\nhumana asistida o gestaci\u00f3n por subrogaci\u00f3n; disponer los documentos requeridos para\nla inscripci\u00f3n; establecer el efecto registral de la orden judicial prenatal, determinaci\u00f3n\njudicial de filiaci\u00f3n, reconocimiento voluntario, consentimiento procreativo v\u00e1lido o\ndocumento autorizado por ley; proteger la confidencialidad de la informaci\u00f3n m\u00e9dica,\ngen\u00e9tica, reproductiva, contractual, judicial y registral; prohibir que el certificado p\u00fablico\nrevele la forma de concepci\u00f3n, la utilizaci\u00f3n de gametos o embriones donados, la\nidentidad de la persona donante, la existencia de un acuerdo de gestaci\u00f3n por\nsubrogaci\u00f3n o la identidad de la persona gestante; facultar al Departamento de Salud a\nrevisar formularios, protocolos, sistemas y reglamentos del Registro Demogr\u00e1fico; y para\notros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1264"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161227/ps1264-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161227",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:01Z"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0601",
+  "title": "Para ordenar al Departamento de la Familia del Gobierno de Puerto Rico que certifique e informe a la C\u00e1mara de Representantes la existencia, base legal, requisitos, procedimientos, t\u00e9rminos y salvaguardas aplicables a cualquier mecanismo vigente de entrega o colocaci\u00f3n voluntaria de menores en cuidado sustituto, incluida la \u201cAutorizaci\u00f3n Voluntaria para Ubicaci\u00f3n de un Menor en Cuidado Sustituto\u201d reconocida en la Ley N\u00fam. 57-2023; disponer la evaluaci\u00f3n de viabilidad para que la tramitaci\u00f3n administrativa inicial y/o la formalizaci\u00f3n del acuerdo correspondiente se complete en un t\u00e9rmino no mayor de cuarenta y ocho (48) horas, sin menoscabo de la seguridad del menor y del debido proceso; y, de no existir reglamentaci\u00f3n, protocolo formal o procedimiento operativo vigente que permita la implementaci\u00f3n uniforme de dicho mecanismo, ordenar el dise\u00f1o y sometimiento de una propuesta formal de programa administrativo, con salvaguardas y coordinaci\u00f3n interagencial, para consideraci\u00f3n legislativa y fiscalizadora",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc601"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-02-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-02-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-02-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Odalys  Gonz\u00e1lez Gonz\u00e1lez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Odalys  Gonz\\u00e1lez Gonz\\u00e1lez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160407/RC0601.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-02-06",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160407",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:56Z"
+  }
+}

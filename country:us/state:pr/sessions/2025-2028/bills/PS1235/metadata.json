@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1235",
+  "title": "\u201cPara crear la \u201cLey para la Regulaci\u00f3n Integral de la Terapia Intravenosa Nutricional (Sueroterapia) en Puerto Rico\u201d; establecer una pol\u00edtica p\u00fablica clara que diferencie la sueroterapia nutricional de la hidrataci\u00f3n intravenosa est\u00e1ndar, garantizando as\u00ed la m\u00e1xima seguridad para los pacientes; definir los requisitos de formaci\u00f3n obligatorios para los profesionales autorizados a prescribir, supervisar y administrar esta terapia, reconociendo la formaci\u00f3n doctoral de los Doctores en Medicina Naturop\u00e1tica (NDs) y estableciendo un est\u00e1ndar m\u00ednimo de competencia t\u00e9cnica de diecis\u00e9is (16) horas para todos los profesionales; enmendar la Ley de Farmacia (Ley 247-2004) para incluir a los Doctores en Medicina Naturop\u00e1tica y a los Centros de Terapia Intravenosa como establecimientos sujetos a licenciamiento y fiscalizaci\u00f3n por el Departamento de Salud; ordenar a las respectivas Juntas Examinadoras la revisi\u00f3n y el atempero de sus reglamentos para garantizar la salud p\u00fablica y la fiscalizaci\u00f3n de sus profesionales; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1235"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Luis A. Negr\u00f3n L\u00f3pez",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161149/ps1235-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161149",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:58Z"
+  }
+}

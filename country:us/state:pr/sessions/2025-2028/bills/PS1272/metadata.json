@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1272",
+  "title": "\u201cPara enmendar los Art\u00edculos 2, 3, 4, 5, 9, 10, 12 y 15 de la Ley N\u00fam. 160 de 17 de noviembre de\n2001, seg\u00fan enmendada, conocida como la \u201cLey de Declaraci\u00f3n previa de voluntad sobre tratamiento\nm\u00e9dico\u201d; a\u00f1adir unos nuevos Art\u00edculos 4-A, 9-A y 10-A a dicha Ley; a los fines de ampliar y aclarar\nlos derechos de las personas en torno a decisiones cl\u00ednicas al final de la vida; reconocer expresamente\nla planificaci\u00f3n anticipada de cuidado, la orden m\u00e9dica de tratamiento al final de la vida, el cuidado\npaliativo, la sedaci\u00f3n paliativa, el manejo adecuado del dolor, el rechazo o retiro de tratamientos\nm\u00e9dicos, la evaluaci\u00f3n de tratamientos f\u00fatiles o m\u00e9dicamente no beneficiosos, la intervenci\u00f3n de\ncomit\u00e9s de \u00e9tica cl\u00ednica y el deber de no abandono cl\u00ednico; establecer deberes de orientaci\u00f3n,\ndocumentaci\u00f3n, coordinaci\u00f3n y cumplimiento para m\u00e9dicos e instituciones de servicios de salud;\ndisponer protecciones de responsabilidad para profesionales e instituciones que act\u00faen de buena fe\nconforme a la voluntad v\u00e1lida del paciente; ordenar la preparaci\u00f3n de formularios y gu\u00edas uniformes; y\npara otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1272"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Relevado de Comisi\u00f3n(es)",
+      "date": "2026-05-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Descargado en Senado",
+      "date": "2026-05-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-05-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Derrotado a viva voz",
+      "date": "2026-05-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161235/ps1272-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161235",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:00Z"
+  }
+}

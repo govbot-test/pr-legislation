@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCC0254",
+  "title": "Para reasignar a la Oficina de Obras P\u00fablicas del Municipio de Bayam\u00f3n, la cantidad setenta y cuatro mil d\u00f3lares ($74,000), provenientes de la R.C. N\u00fam. 18-2005, Secci\u00f3n 1, cinco mil d\u00f3lares ($5,000); R.C. N\u00fam. 108-2009, Secci\u00f3n 1, Inciso d cuatro mil doscientos d\u00f3lares ($4,200); R.C. N\u00fam. 153-2009, Secci\u00f3n 1, Apartado A, mil setecientos d\u00f3lares ($1,700); R.C. N\u00fam. 233-2009, Secci\u00f3n 1, Apartado A, mil d\u00f3lares ($1,000); R.C. N\u00fam. 140-2010, Secci\u00f3n 1, cuatro mil d\u00f3lares ($4,000); R.C. N\u00fam. 145-2011, Secci\u00f3n 1, Apartado A, Inciso 2, mil seiscientos d\u00f3lares ($1,600); R.C. N\u00fam. 6-2012, Secci\u00f3n 1, Apartado 18, once mil quinientos d\u00f3lares ($11,500); R.C. N\u00fam. 91-2012, Secci\u00f3n 1, Apartado B, Inciso 17, Sub Inciso 9, quince mil d\u00f3lares ($15,000); R.C. N\u00fam. 161-2012, Secci\u00f3n 1, Apartado A, Inciso 2, mil d\u00f3lares ($1,000); R.C. N\u00fam. 187-2012, Secci\u00f3n 1, Apartado A, Inciso 3, dos mil d\u00f3lares ($2,000); R.C. N\u00fam. 18-2017, Secci\u00f3n 1, Apartado 16, Incisos c y d veintisiete mil d\u00f3lares ($27,000); para ser utilizados seg\u00fan se desglosa en la Secci\u00f3n 1 de esta Resoluci\u00f3n Conjunta; y para autorizar el pago de los fondos reasignados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rcc254"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-12-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-01-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Luis  P\u00e9rez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  P\\u00e9rez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159554/RCC0254.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-12-17",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159554",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:53Z"
+  }
+}

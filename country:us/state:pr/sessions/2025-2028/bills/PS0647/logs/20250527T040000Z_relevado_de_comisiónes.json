@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Relevado de Comisi\u00f3n(es)",
+    "occurred_at": "2025-05-27T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/156174",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PS0647"
+}

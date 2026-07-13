@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0723",
+  "title": "Para ordenar a la Comisi\u00f3n de lo Jur\u00eddico de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la utilizaci\u00f3n, efectividad, implantaci\u00f3n y administraci\u00f3n de las \u00f3rdenes de protecci\u00f3n expedidas al amparo de la Ley N\u00fam. 54 de 15 de agosto de 1989, seg\u00fan enmendada, conocida como la \u201cLey para la Prevenci\u00f3n e Intervenci\u00f3n con la Violencia Dom\u00e9stica\u201d; la Ley N\u00fam. 284 de 21 de agosto de 1999, seg\u00fan enmendada, conocida como la \u201cLey Contra el Acecho en Puerto Rico\u201d; la Ley 148-2015, seg\u00fan enmendada, conocida como la \u201cLey para la Protecci\u00f3n de las V\u00edctimas de Violencia Sexual en Puerto Rico\u201d; y la Ley 57-2023, seg\u00fan enmendada, conocida como la \u201cLey para la Prevenci\u00f3n del Maltrato, Preservaci\u00f3n de la Unidad Familiar y para la Seguridad, Bienestar y Protecci\u00f3n de los Menores\u201d, incluyendo el an\u00e1lisis de estad\u00edsticas relacionadas con solicitudes, concesiones, denegatorias, incumplimientos y procesamiento criminal por violaciones a \u00f3rdenes de protecci\u00f3n; la evaluaci\u00f3n de los protocolos de an\u00e1lisis de riesgo y letalidad utilizados por las agencias concernidas; el impacto de la legislaci\u00f3n vigente sobre la protecci\u00f3n de v\u00edctimas; la uniformidad en la aplicaci\u00f3n de los criterios utilizados por los tribunales en las distintas regiones judiciales de Puerto Rico; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc723"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161479/RC0723.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161479",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:00Z"
+  }
+}

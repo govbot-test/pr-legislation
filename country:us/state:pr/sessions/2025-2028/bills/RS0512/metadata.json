@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RS0512",
+  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Bienestar Social del Senado de Puerto Rico, en\nconjunto con la Comisi\u00f3n de Familia, Mujer, Personas de la Tercera Edad y\nPoblaci\u00f3n con Diversidad Funcional e Impedimentos del Senado de Puerto Rico a\nllevar a cabo una investigaci\u00f3n sobre el cumplimiento del Gobierno de Puerto Rico,\nel Departamento de la Familia, la Oficina de Gerencia y Presupuesto, las agencias\nconcernidas y la Comisi\u00f3n para Combatir la Pobreza Infantil y la Desigualdad Social\nen Puerto Rico con las disposiciones de la Ley N\u00fam. 84-2021, conocida como la \u201cLey\nde Pol\u00edtica P\u00fablica de Puerto Rico para Combatir la Pobreza Infantil y la\nDesigualdad Social\u201d; evaluar el estado actual de la Comisi\u00f3n creada por dicha Ley;\nexaminar la composici\u00f3n, nombramientos, reuniones, plan de trabajo, informes, uso\nde fondos, cumplimiento de metas, coordinaci\u00f3n interagencial, creaci\u00f3n de\nsubcomit\u00e9s, recomendaciones de pol\u00edtica p\u00fablica y dem\u00e1s deberes impuestos por\ndicha Ley; autorizar la citaci\u00f3n de funcionarios, requerimiento de documentos,\ncelebraci\u00f3n de vistas p\u00fablicas, vistas ejecutivas, inspecciones oculares, referidos a\nagencias con jurisdicci\u00f3n y cualquier otro tr\u00e1mite necesario para cumplir con esta\ninvestigaci\u00f3n; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs512"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joanne  Rodr\\u00edguez Veve - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161262/rs0512-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-18",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161262/rs0512-Inf (negativo).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161262",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:54Z"
+  }
+}

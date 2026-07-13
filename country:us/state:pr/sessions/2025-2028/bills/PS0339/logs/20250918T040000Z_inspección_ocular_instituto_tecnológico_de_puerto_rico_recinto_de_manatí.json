@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Inspecci\u00f3n Ocular: Instituto Tecnol\u00f3gico de Puerto Rico, Recinto de Manat\u00ed",
+    "occurred_at": "2025-09-18T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/153847",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PS0339"
+}

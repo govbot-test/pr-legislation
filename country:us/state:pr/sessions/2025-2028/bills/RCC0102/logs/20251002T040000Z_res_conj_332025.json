@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Res. Conj.  33-2025",
+    "occurred_at": "2025-10-02T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/155271",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RCC0102"
+}

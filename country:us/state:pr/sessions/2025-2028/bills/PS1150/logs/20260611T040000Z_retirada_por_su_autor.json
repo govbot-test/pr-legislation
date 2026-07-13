@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Retirada por su Autor",
+    "occurred_at": "2026-06-11T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/160771",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PS1150"
+}

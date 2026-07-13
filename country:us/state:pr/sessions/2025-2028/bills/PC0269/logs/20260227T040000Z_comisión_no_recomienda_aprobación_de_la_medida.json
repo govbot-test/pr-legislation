@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+    "occurred_at": "2026-02-27T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/153234",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC0269"
+}

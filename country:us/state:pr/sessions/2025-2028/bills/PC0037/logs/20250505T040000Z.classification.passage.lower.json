@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+    "occurred_at": "2025-05-05T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/152542",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC0037"
+}

@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1283",
+  "title": "Para enmendar los incisos (aa) y (gg) del Art\u00edculo 1.2 y el inciso (c) del Art\u00edculo 4.7 de la \nLey N\u00fam. 1-2012, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica de la Oficina de \u00c9tica \nGubernamental de Puerto Rico\u201d, a los fines de aclarar las definiciones de \u201cpersona \nprivada\u201d y \u201cservidor p\u00fablico\u201d; establecer expresamente que los contratistas \nindependientes, consultores, asesores externos, proveedores de bienes o servicios, \nconcesionarios, licitadores, participantes en procesos de compras, entidades sin fines de \nlucro, corporaciones privadas y dem\u00e1s personas naturales o jur\u00eddicas que mantengan una \nrelaci\u00f3n contractual, profesional, consultiva, comercial, colaborativa o administrativa con \nel Gobierno no ser\u00e1n considerados servidores p\u00fablicos por el solo hecho de contratar, \nasesorar, colaborar, recibir fondos, participar en procesos administrativos o prestar \nservicios al Gobierno; disponer los criterios excepcionales bajo los cuales una persona \nprivada podr\u00e1 ser considerada servidor p\u00fablico para fines de esta Ley cuando su \ncontrato, designaci\u00f3n o encomienda equivalga sustancialmente a un puesto o cargo \np\u00fablico, o cuando se le haya delegado expresamente autoridad p\u00fablica decisional; \ncodificar el est\u00e1ndar probatorio de prueba clara, robusta y convincente en los \nprocedimientos administrativos sancionadores de la Oficina de \u00c9tica Gubernamental; \nestablecer el peso probatorio aplicable cuando se alegue que una persona privada debe \nser tratada como servidor p\u00fablico; ordenar la revisi\u00f3n de reglamentos, gu\u00edas, protocolos, \nmanuales y materiales educativos; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1283"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161277/ps1283-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161277",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:54Z"
+  }
+}

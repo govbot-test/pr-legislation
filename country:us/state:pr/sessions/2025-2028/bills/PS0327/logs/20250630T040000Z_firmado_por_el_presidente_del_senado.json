@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Firmado por el Presidente del Senado",
+    "occurred_at": "2025-06-30T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/153833",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PS0327"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Inspecci\u00f3n Ocular: Carretera PR 420 KM 7.8 Municipio de Moca",
+    "occurred_at": "2025-10-29T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/153911",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RS0064"
+}

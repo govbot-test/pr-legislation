@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1155",
+  "title": "Para a\u00f1adir, inmediatamente despu\u00e9s del Art\u00edculo 15.2, los nuevos Art\u00edculos 15.3, 15.4, 15.5, 15.6, 15.7, 15.8 y 15.9 a la Ley 161-2009, seg\u00fan enmendada, conocida como la \u201cLey para la Reforma del Proceso de Permisos de Puerto Rico\u201d, a los fines de establecer la pol\u00edtica p\u00fablica de simplificaci\u00f3n y homologaci\u00f3n de los distritos de calificaci\u00f3n en \nPuerto Rico; ordenar a la Junta de Planificaci\u00f3n la revisi\u00f3n integral de los distritos de calificaci\u00f3n vigentes y la adopci\u00f3n de una Matriz Uniforme de Equivalencias de Distritos de Calificaci\u00f3n basada en criterios de intensidad y capacidad de uso; disponer para la reducci\u00f3n de redundancias, la armonizaci\u00f3n de nomenclaturas y la uniformidad \ninterpretativa entre el Reglamento Conjunto, el Plan de Uso de Terrenos y los planes territoriales municipales; establecer criterios rectores para la transici\u00f3n ordenada al nuevo esquema simplificado; proteger los usos, permisos, autorizaciones y derechos adquiridos conforme a ley; disponer para la armonizaci\u00f3n cartogr\u00e1fica y reglamentaria \nde los municipios aut\u00f3nomos con jerarqu\u00eda reconocida al amparo de la Ley 161-2009 y del C\u00f3digo Municipal de Puerto Rico; establecer informes peri\u00f3dicos a la Asamblea Legislativa; fijar t\u00e9rminos para su cumplimiento; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1155"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160783/ps1155-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160783",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:58Z"
+  }
+}

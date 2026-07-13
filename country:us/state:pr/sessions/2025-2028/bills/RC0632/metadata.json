@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0632",
+  "title": "Para ordenar a la C\u00e1mara de Representantes de Puerto Rico, reunida en Comisi\u00f3n Total y a tenor con las disposiciones de la Regla 18.5 del Reglamento de la C\u00e1mara de Representantes de Puerto Rico, realizar una Sesi\u00f3n Especial de Interpelaci\u00f3n al Secretario del Departamento de Transportaci\u00f3n y Obras P\u00fablicas de Puerto Rico, Edwin Gonz\u00e1lez Montalvo, a los efectos de requerir informaci\u00f3n relativa a las imputaciones divulgadas en la prensa a partir del 11 de febrero de 2026 relacionadas con alegadas irregularidades que la involucran en la administraci\u00f3n de un negocio de inspecci\u00f3n de veh\u00edculos de motor en Yabucoa, de nombre Yabucoa Auto Service; as\u00ed como sobre las imputaciones hechas por un funcionario p\u00fablico que labora o laboraba en el Departamento de Transportaci\u00f3n y Obras P\u00fablicas a los fines de que la secretaria del Departamento de Vivienda, Ciary P\u00e9rez Pe\u00f1a reclam\u00f3 su despido y que se tomaran represalias contra \u00e9l por haber intervenido, ejerciendo las funciones de su cargo, con la administraci\u00f3n alegadamente fraudulenta de procesos de inspecci\u00f3n de veh\u00edculos de motor en el referido negocio; asimismo indagar si la secretaria Ciary P\u00e9rez Pe\u00f1a obtuvo una reducci\u00f3n de multa impuesta por irregularidades en las operaciones del negocio Yabucoa Auto Service y, de haber sido as\u00ed, indagar sobre la forma en que se gestion\u00f3 tal reducci\u00f3n de multa y los fundamentos para su otorgaci\u00f3n; tambi\u00e9n, para auscultar si, de ser veraces las imputaciones publicadas, la Secretaria del Departamento de la Vivienda y el interpelado mismo, pudieron haber incurrido en violaci\u00f3n de la Ley de \u00c9tica Gubernamental, del C\u00f3digo Penal, o de cualquier otra ley que rija en Puerto Rico; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc632"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-02-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-02-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-02-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H\u00e9ctor E. Ferrer Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor E. Ferrer Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160589/RC0632.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-02-25",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160589",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:58Z"
+  }
+}

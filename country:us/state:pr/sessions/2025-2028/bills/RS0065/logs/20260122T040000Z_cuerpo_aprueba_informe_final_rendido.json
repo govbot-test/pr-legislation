@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Cuerpo aprueba informe final rendido",
+    "occurred_at": "2026-01-22T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/153912",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RS0065"
+}

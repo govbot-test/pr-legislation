@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+    "occurred_at": "2026-04-13T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-amendment"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/159618",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RS0390"
+}

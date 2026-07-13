@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Informe Final Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
+    "occurred_at": "2025-10-17T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/153559",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "RC0132"
+}

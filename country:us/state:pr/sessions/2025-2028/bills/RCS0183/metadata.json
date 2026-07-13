@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCS0183",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP) de Puerto\nRico, en coordinaci\u00f3n con el Departamento de Educaci\u00f3n, La Autoridad de\nEdificios P\u00fablicos y cualquier otra agencia pertinente del Gobierno de Puerto\nRico, evaluar y realizar, conforme a las disposiciones legales y reglamentarias\naplicables, la transferencia, cesi\u00f3n, usufructo o cualquier otro negocio jur\u00eddico\nautorizado, por el valor nominal de un d\u00f3lar ($1.00), del inmueble conocido\ncomo la antigua Escuela La Mina, localizada en el Barrio Cubuy, sector R\u00edo\nBlanco del Municipio de Naguabo; incluyendo el solar, finca registral, predio y\nestructuras que componen dicho inmueble, a favor del Comit\u00e9 Desarrollo Barrio\nCubuy, Inc. entidad comunitaria sin fines de lucro representativa del sector; a los\nfines de formalizar su titularidad y utilizaci\u00f3n como centro comunitario, centro\nde operaciones de emergencia, refugio temporero, espacio de turismo\ncomunitario sostenible, centro cultural y educativo, as\u00ed como plataforma para\nactividades dirigidas a promover la sostenibilidad econ\u00f3mica y social del\nproyecto; establecer condiciones restrictivas y de reversi\u00f3n; y para otros fines\nrelacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rcs183"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161212/rcs0183-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161212",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:53Z"
+  }
+}

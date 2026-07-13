@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0952",
+  "title": "Para enmendar el Art\u00edculo 2 de la Ley N\u00fam. 278 de 29 de noviembre de 1998,\nseg\u00fan enmendada, conocida como la \"Ley de Pesquer\u00edas de Puerto Rico\", a los fines de\na\u00f1adir nuevos incisos (u), (v), (w) y (x) que definan t\u00e9rminos relacionados con el\nRegistro Unificado de Pescadores; a\u00f1adir un nuevo Art\u00edculo 9A que cree el Registro\nUnificado de Pescadores en Puerto Rico, integrando a todos los pescadores comerciales,\nrecreativos y de subsistencia, estableciendo requisitos de inscripci\u00f3n obligatoria,\nadministraci\u00f3n por el Departamento de Recursos Naturales y Ambientales (DRNA),\nfines de conservaci\u00f3n, recopilaci\u00f3n de estad\u00edsticas pesqueras, seguridad y manejo\nsostenible de los recursos marinos; enmendar el Art\u00edculo 4 del Reglamento de Pesca de\nPuerto Rico (Reglamento N\u00fam. 7949 de 2010) para a\u00f1adir nuevos incisos 4.95, 4.96, 4.97\ny 4.98 que definan t\u00e9rminos relacionados; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps952"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159725/ps0952-26.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159725",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:57Z"
+  }
+}

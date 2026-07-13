@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Se da consentimiento para incluir medida en agenda de presente sesi\u00f3n",
+    "occurred_at": "2026-06-08T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2028",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://sutra.oslpr.org/medidas/161446",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PC1298"
+}

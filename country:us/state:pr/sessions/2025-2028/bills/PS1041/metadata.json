@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1041",
+  "title": "Para establecer la \u201cLey para la Protecci\u00f3n de Datos Personales en Aplicaciones de \nSalud y Servicios de Telemedicina\u201d; definir t\u00e9rminos relacionados con consentimientos \nexpl\u00edcitos y auditor\u00edas en el contexto de la telemedicina y telesalud; requerir la obtenci\u00f3n \nde consentimientos expl\u00edcitos para el procesamiento de datos personales de salud en \naplicaciones y servicios de telemedicina; exigir auditor\u00edas peri\u00f3dicas anuales de sistemas \nde seguridad y privacidad por parte de proveedores; enmendar el Art\u00edculo 2 de la Ley \nN\u00fam. 168-2018, seg\u00fan enmendada, conocida como la \u201cLey para Reglamentar la Pr\u00e1ctica \nde la Telemedicina en Puerto Rico\u201d, a los fines de incorporar definiciones de \n\u201cconsentimiento expl\u00edcito\u201d, \u201cauditor\u00eda\u201d y \u201cdatos personales de salud\u201d; enmendar el \nArt\u00edculo 3 de la Ley N\u00fam. 168-2018 para incluir requisitos de consentimiento y auditor\u00edas \nen los deberes de los proveedores; enmendar el Art\u00edculo 2 de la Ley N\u00fam. 48-2020, \nconocida como la \u201cLey para Reglamentar la Pr\u00e1ctica de la Telesalud y Ciberterapia en \nPuerto Rico\u201d, a los fines de incorporar las mismas definiciones; enmendar el Art\u00edculo 4 \nde la Ley N\u00fam. 48-2020 para integrar obligaciones de consentimiento y auditor\u00edas; \nestablecer sanciones por incumplimiento conforme a la Ley N\u00fam. 111 de 2005; delegar \nfiscalizaci\u00f3n al Departamento de Salud sin impacto presupuestario adicional; y para otros \nfines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1041"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160273/ps1041-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160273/ps1041-Inf (negativo).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-01",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/160273",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:58Z"
+  }
+}

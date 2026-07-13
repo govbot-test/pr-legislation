@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1270",
+  "title": "\u201cPara enmendar los Art\u00edculos 1, 2, 6, 8, 24, 26, 27 y 28 de la Ley N\u00fam. 296 de 25 de diciembre de 2002,\nseg\u00fan enmendada, conocida como la \u201cLey de Donaciones Anat\u00f3micas de Puerto Rico\u201d; a\u00f1adir unos\nnuevos Art\u00edculos 27-A y 27-B a dicha Ley; a los fines de establecer la pol\u00edtica p\u00fablica de donaci\u00f3n\nanat\u00f3mica solidaria en Puerto Rico mediante un modelo de consentimiento presunto limitado, informado\ny revocable, sujeto al derecho absoluto de exclusi\u00f3n voluntaria; crear el Registro de Exclusi\u00f3n\nVoluntaria de Donaci\u00f3n Anat\u00f3mica; disponer los mecanismos para que toda persona mayor de edad\npueda expresar, modificar o revocar su exclusi\u00f3n; proteger la privacidad de la informaci\u00f3n relacionada\ncon donaci\u00f3n o exclusi\u00f3n; establecer salvaguardas para menores de edad, personas no identificadas,\ncasos bajo investigaci\u00f3n forense, objeciones religiosas o manifestaciones fehacientes de oposici\u00f3n;\ndisponer que la condici\u00f3n de donante potencial no podr\u00e1 afectar decisiones cl\u00ednicas, tratamiento m\u00e9dico,\ncertificaci\u00f3n de muerte, esfuerzos de resucitaci\u00f3n, retiro de soporte vital o manejo del paciente;\nestablecer deberes de orientaci\u00f3n, verificaci\u00f3n, notificaci\u00f3n sensible, documentaci\u00f3n y coordinaci\u00f3n\nentre hospitales, la Junta de Disposici\u00f3n de Cuerpos, \u00d3rganos y Tejidos Humanos, la Organizaci\u00f3n de\nRecuperaci\u00f3n de \u00d3rganos, el Departamento de Salud y el Departamento de Transportaci\u00f3n y Obras\nP\u00fablicas; establecer una campa\u00f1a educativa previa a la implementaci\u00f3n; disponer penalidades; y para\notros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1270"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161233/ps1270-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161233",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:01Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0968",
+  "title": "Para disponer que la Oficina de Gerencia de Permisos es una instrumentalidad p\u00fablica\ndel Gobierno de Puerto Rico; establecer su autonom\u00eda operacional; enmendar el\nArt\u00edculo 5 del Plan de Reorganizaci\u00f3n 4-1994; eliminar el Cap\u00edtulo XII y\nreenumerar los Cap\u00edtulos XIII, XIV, XV, XVI y XVII de la Ley N\u00fam. 141-2018,\nconocida como \u201cLey de Ejecuci\u00f3n del Plan de Reorganizaci\u00f3n del Departamento\nde Desarrollo Econ\u00f3mico y Comercio de 2018\u201d; enmendar los Art\u00edculos 1.5, 2.1, 2.2,\n2.3, 2.3A, 2.3C, 2.3D, 2.3E, 2.4, 2.5, 2.8, 2.9, 2.12, 2.14, 2.16, 2.17, 2.20, 3.1, 3.2, 3.3, 4.1,\n5.1, 5.2, 5.3, 6.2, 6.3, 6.5, 7.2, 7.7, 7.9, 7.11, 8.2, 8.4, 8.5, 8.8A, 8.11, 9.3, 19.12 y 19.13 de\nla Ley N\u00fam. 161-2009, conocida como la \u201cLey para la Reforma del Proceso de\nPermisos de Puerto Rico\u201d; disponer que su Director Ejecutivo deber\u00e1 ser un\nfuncionario nombrado por la Gobernadora de Puerto Rico y contar con el consejo y\nconsentimiento del Senado de Puerto Rico; establecer el salario anual del Director\nEjecutivo; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps968"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Mar\u00eda Mart\u00ednez de P\u00e9rez Almiroty",
+      "date": "2026-02-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159776/ps0968-26.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-01-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159776",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:01Z"
+  }
+}
