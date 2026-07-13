@@ -1,0 +1,286 @@
+Title: Para crear la “Ley de Protección Responsable para la Salud” o “Ley PROSALUD”,
+Official Title: Para crear la “Ley de Protección Responsable para la Salud” o “Ley PROSALUD”,
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1006
+29 de enero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+a los fines de establecer límites en las compensaciones por daños no pecuniarios en
+demandas por impericia médica contra profesionales de la salud privados, con el
+propósito de mitigar el impacto de litigios frívolos y reclamaciones excesivas que elevan
+los costos de seguros de malpractice, contribuyendo a la escasez de médicos especialistas
+en la Isla; fijar dichos límites en cuantías razonables y equilibradas; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El sistema de salud en Puerto Rico enfrenta una crisis profunda caracterizada por
+una escasez alarmante de médicos, particularmente especialistas, que amenaza el acceso
+oportuno y equitativo a servicios médicos esenciales. Según estudios recientes, como el
+informe de la Junta de Supervisión Fiscal de 2025, Puerto Rico podría quedarse sin
+suficientes especialistas para tratar condiciones crónicas de alto impacto como diabetes
+tipo 2, fallo cardíaco congestivo e hipertensión para el año 2030, con proyecciones que
+indican una deficiencia crítica en áreas rurales y una distribución desigual de
+profesionales.
+2
+Esta escasez se agrava por el éxodo masivo de médicos —más de 15,000 en la
+última década, según datos del Departamento de Salud—, impulsado por factores como
+retos financieros, interferencias de aseguradoras privadas y, de manera significativa, los
+altos costos de pólizas de seguros por responsabilidad profesional (malpractice), que se
+disparan debido a litigios frívolos, excesivamente costosos y reclamaciones por
+negligencia que resultan en veredictos millonarios.
+Estos costos elevados disuaden a especialistas de establecer o mantener prácticas
+en la Isla, ya que las primas de seguros pueden representar hasta el 30% de sus ingresos
+anuales, según análisis de la Asociación Médica Americana y estudios locales. Por
+ejemplo, en municipios como Ponce y Arecibo, la falta de especialistas en cardiología y
+endocrinología ha generado listas de espera prolongadas y migración de pacientes a
+Estados Unidos continental, exacerbando la brecha en la atención.
+De otra parte, investigaciones del National Bureau of Economic Research (NBER)
+y la Government Accountability Office (GAO) demuestran que los aumentos en primas
+de seguro de responsabilidad profesional llevan a médicos a relocalizarse o reducir
+servicios, impactando directamente los precios de la atención médica y la disponibilidad
+de cobertura.
+El Gobierno de Puerto Rico ya cuenta con protecciones similares mediante la Ley
+Núm. 104 de 1955, según enmendada, que limita la responsabilidad por daños en
+acciones contra el gobierno y sus empleados, incluyendo médicos en instituciones
+públicas, a $75,000 por reclamante individual y $150,000 cuando los daños afectan a
+múltiples personas. Esta medida ha estabilizado los costos operativos del sistema público
+sin menoscabar la rendición de cuentas.
+Sin embargo, los profesionales privados carecen de salvaguardas análogas, lo que
+genera una disparidad que incentiva la práctica exclusiva en el sector público o la
+emigración. Proyectos legislativos previos y la Ley Núm. 136-2006 que establece límites
+en ciertos contextos médico-hospitalarios, ilustran precedentes locales para reformas
+controladas.
+3
+Estudios empíricos, como los publicados en Health Affairs y el Journal of the
+American Medical Association, confirman que topes en daños no pecuniarios (como
+angustias mentales o sufrimiento) reducen las primas de seguros en hasta un 10-20% en
+jurisdicciones con reformas similares, atrayendo médicos y mejorando el acceso a
+cuidados. Estados como California, quienes han establecido un tope de $250,000 han visto
+estabilización en costos, sin aumento significativo en incidentes de negligencia. En
+Puerto Rico, donde la inflación ha añadido miles de millones a pérdidas por malpractice
+según informes de The Doctors Company, un tope mayor al del Estado equilibraría la
+protección de pacientes con la necesidad de retener y atraer talento médico, fomentando
+inversiones en servicios especializados y mitigando litigios frívolos.
+Esta nueva ley, conocida como “Ley PROSALUD”, es esencial para fortalecer el
+sistema de salud, promover la equidad territorial y asegurar la sostenibilidad económica
+de la práctica médica en la Isla, atrayendo apoyo de sectores médicos, pacientes y
+aseguradoras al enfatizar una protección responsable y accesible.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. Título.
+2 Esta Ley se conocerá como la “Ley de Protección Responsable para la Salud” o
+3 “Ley PROSALUD”.
+4 Artículo 2. Definiciones.
+5 Para los propósitos de esta Ley, los siguientes términos tendrán el significado que
+6 a continuación se expresa:
+7 (a) Profesionales de la salud privados: Médicos generalistas o especialistas,
+8 cirujanos, dentistas, enfermeros, terapeutas, paramédicos y otros proveedores de
+9 servicios de salud que operen en prácticas privadas, entidades no gubernamentales, o a
+10 través de subcontrataciones con terceros, incluyendo aquellos que ofrezcan servicios a
+4
+1 domicilio, consultas presenciales o remotas mediante tecnologías digitales como
+2 telemedicina, plataformas virtuales o aplicaciones móviles, excluyendo aquellos
+3 cubiertos por la Ley Núm. 104 de 1955.
+4 Esta definición abarca entidades que subcontraten servicios médicos, tales como
+5 clínicas independientes, grupos médicos asociados, proveedores de atención en el hogar
+6 o servicios de consulta en línea, siempre que no sean parte del sector público.
+7 (b) Daños no pecuniarios: Compensaciones por conceptos intangibles como
+8 angustias mentales, sufrimiento emocional, dolor físico no cuantificable o pérdida de
+9 disfrute de la vida, excluyendo daños pecuniarios demostrables como gastos médicos,
+10 pérdida de ingresos o costos de rehabilitación.
+11 (c) Impericia médica: Culpa o negligencia en la prestación de servicios médicos
+12 que cause daños, según definido en el Código Civil de Puerto Rico, incluyendo actos u
+13 omisiones ocurridos en entornos presenciales, a domicilio o remotos a través de medios
+14 tecnológicos, tales como diagnósticos virtuales, prescripciones electrónicas o consultas
+15 por video.
+16 Artículo 3. Límites en Compensaciones.
+17 En demandas por impericia médica contra profesionales de la salud privados o
+18 entidades no gubernamentales, las compensaciones por daños no pecuniarios no
+19 excederán la suma de doscientos cincuenta mil (250,000) dólares por reclamante
+20 individual.
+21 Cuando los daños afecten a múltiples reclamantes derivados del mismo incidente,
+22 el tope agregado no superará los setecientos cincuenta mil (750,000) dólares. Esta
+5
+1 limitación no aplicará a daños pecuniarios demostrables, ni a casos de dolo intencional,
+2 conducta temeraria grave o violaciones a derechos constitucionales.
+3 La aplicación de estos topes requerirá evidencia documentada de la clasificación
+4 del daño, y estará sujeta a revisión judicial para asegurar proporcionalidad y justicia.
+5 Estos límites no se aplicarán retroactivamente a causas de acción surgidas antes de
+6 la vigencia de esta Ley.
+7 Artículo 4. Aplicabilidad y Excepciones.
+8 Esta Ley aplicará exclusivamente a acciones civiles por impericia médica en el
+9 sector privado, sin afectar reclamaciones contra el Estado o sus empleados bajo la Ley
+10 Núm. 104 de 1955. Se exceptúan casos donde se demuestre fraude, ocultamiento
+11 intencional de evidencia o violaciones éticas graves certificadas por el Colegio de Médicos
+12 Cirujanos de Puerto Rico.
+13 Artículo 5. Facultades Regulatorias.
+14 Se faculta al Departamento de Salud y al Colegio de Médicos Cirujanos de Puerto
+15 Rico a adoptar regulaciones complementarias para implementar esta Ley, incluyendo
+16 guías para clasificar daños, mecanismos de monitoreo del impacto en costos de seguros
+17 y retención de médicos, en consulta con la Oficina del Comisionado de Seguros.
+18 Artículo 6. Cláusula de Separabilidad.
+19 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o
+20 inválida por un tribunal competente, dicha declaración no afectará las demás
+21 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+22 Artículo 7. Vigencia.
+6
+1 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3  .r L r l f d e l e l c p d n p e p i m c p d l s p c e d l J d S F d 2 P R p q s u d c e á r y u d d d]
+[DELETED:  d a l f e c y r p s a d l A M A y e l P h g l d p y m d p a s d r p l a m a r o r 1 d 1 s e q l l r p d e c e g y s e i m e i a $ p r i y $ c l d a a u d q i l p e e e s p o l c c m i p l p r]
+[DELETED:  e c l p e H A y e J o t M A c q t e d n p ( c r s a m y m e a a e c s a s e i d n  E l p m e l I a a d s m p y P d l s p M g o e d e t p y o p d]
+[DELETED:  c p o r m t d c p v o a m e a D n p C p c i c n g l c p d n p n l s d d c m ( d p r t a n s l s c m ( d E]
+[DELETED:  1 d 1 S e c d s d f o c d d e L f d i n o p u t c d d n a l d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1006
+29 de enero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para crear la “Ley de Protección Responsable para la Salud” o “Ley PROSALUD”,
+a los fines de establecer límites en las compensaciones por daños no pecuniarios en
+demandas por impericia médica contra profesionales de la salud privados, con el
+propósito de mitigar el impacto de litigios frívolos y reclamaciones excesivas que elevan
+los costos de seguros de malpractice, contribuyendo a la escasez de médicos especialistas
+en la Isla; fijar dichos límites en cuantías razonables y equilibradas; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El sistema de salud en Puerto Rico enfrenta una crisis profunda caracterizada por
+una escasez alarmante de médicos, particularmente especialistas, que amenaza el acceso
+oportuno y equitativo a servicios médicos esenciales. Según estudios recientes, como el
+informe de la Junta de Supervisión Fiscal de 2025, Puerto Rico podría quedarse sin
+suficientes especialistas para tratar condiciones crónicas de alto impacto como diabetes
+tipo 2, fallo cardíaco congestivo e hipertensión para el año 2030, con proyecciones que
+indican una deficiencia crítica en áreas rurales y una distribución desigual de
+profesionales.
+
+2
+Esta escasez se agrava por el éxodo masivo de médicos —más de 15,000 en la
+última década, según datos del Departamento de Salud—, impulsado por factores como
+retos financieros, interferencias de aseguradoras privadas y, de manera significativa, los
+altos costos de pólizas de seguros por responsabilidad profesional (malpractice), que se
+disparan debido a litigios frívolos, excesivamente costosos y reclamaciones por
+negligencia que resultan en veredictos millonarios.
+Estos costos elevados disuaden a especialistas de establecer o mantener prácticas
+en la Isla, ya que las primas de seguros pueden representar hasta el 30% de sus ingresos
+anuales, según análisis de la Asociación Médica Americana y estudios locales. Por
+ejemplo, en municipios como Ponce y Arecibo, la falta de especialistas en cardiología y
+endocrinología ha generado listas de espera prolongadas y migración de pacientes a
+Estados Unidos continental, exacerbando la brecha en la atención.
+De otra parte, investigaciones del National Bureau of Economic Research (NBER)
+y la Government Accountability Office (GAO) demuestran que los aumentos en primas
+de seguro de responsabilidad profesional llevan a médicos a relocalizarse o reducir
+servicios, impactando directamente los precios de la atención médica y la disponibilidad
+de cobertura.
+El Gobierno de Puerto Rico ya cuenta con protecciones similares mediante la Ley
+Núm. 104 de 1955, según enmendada, que limita la responsabilidad por daños en
+acciones contra el gobierno y sus empleados, incluyendo médicos en instituciones
+públicas, a $75,000 por reclamante individual y $150,000 cuando los daños afectan a
+múltiples personas. Esta medida ha estabilizado los costos operativos del sistema público
+sin menoscabar la rendición de cuentas.
+Sin embargo, los profesionales privados carecen de salvaguardas análogas, lo que
+genera una disparidad que incentiva la práctica exclusiva en el sector público o la
+emigración. Proyectos legislativos previos y la Ley Núm. 136-2006 que establece límites
+en ciertos contextos médico-hospitalarios, ilustran precedentes locales para reformas
+controladas.
+
+3
+Estudios empíricos, como los publicados en Health Affairs y el Journal of the
+American Medical Association, confirman que topes en daños no pecuniarios (como
+angustias mentales o sufrimiento) reducen las primas de seguros en hasta un 10-20% en
+jurisdicciones con reformas similares, atrayendo médicos y mejorando el acceso a
+cuidados. Estados como California, quienes han establecido un tope de $250,000 han visto
+estabilización en costos, sin aumento significativo en incidentes de negligencia. En
+Puerto Rico, donde la inflación ha añadido miles de millones a pérdidas por malpractice
+según informes de The Doctors Company, un tope mayor al del Estado equilibraría la
+protección de pacientes con la necesidad de retener y atraer talento médico, fomentando
+inversiones en servicios especializados y mitigando litigios frívolos.
+Esta nueva ley, conocida como “Ley PROSALUD”, es esencial para fortalecer el
+sistema de salud, promover la equidad territorial y asegurar la sostenibilidad económica
+de la práctica médica en la Isla, atrayendo apoyo de sectores médicos, pacientes y
+aseguradoras al enfatizar una protección responsable y accesible.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. Título.
+2 Esta Ley se conocerá como la “Ley de Protección Responsable para la Salud” o
+3 “Ley PROSALUD”.
+4 Artículo 2. Definiciones.
+5 Para los propósitos de esta Ley, los siguientes términos tendrán el significado que
+6 a continuación se expresa:
+7 (a) Profesionales de la salud privados: Médicos generalistas o especialistas,
+8 cirujanos, dentistas, enfermeros, terapeutas, paramédicos y otros proveedores de
+9 servicios de salud que operen en prácticas privadas, entidades no gubernamentales, o a
+10 través de subcontrataciones con terceros, incluyendo aquellos que ofrezcan servicios a
+
+4
+1 domicilio, consultas presenciales o remotas mediante tecnologías digitales como
+2 telemedicina, plataformas virtuales o aplicaciones móviles, excluyendo aquellos
+3 cubiertos por la Ley Núm. 104 de 1955.
+4 Esta definición abarca entidades que subcontraten servicios médicos, tales como
+5 clínicas independientes, grupos médicos asociados, proveedores de atención en el hogar
+6 o servicios de consulta en línea, siempre que no sean parte del sector público.
+7 (b) Daños no pecuniarios: Compensaciones por conceptos intangibles como
+8 angustias mentales, sufrimiento emocional, dolor físico no cuantificable o pérdida de
+9 disfrute de la vida, excluyendo daños pecuniarios demostrables como gastos médicos,
+10 pérdida de ingresos o costos de rehabilitación.
+11 (c) Impericia médica: Culpa o negligencia en la prestación de servicios médicos
+12 que cause daños, según definido en el Código Civil de Puerto Rico, incluyendo actos u
+13 omisiones ocurridos en entornos presenciales, a domicilio o remotos a través de medios
+14 tecnológicos, tales como diagnósticos virtuales, prescripciones electrónicas o consultas
+15 por video.
+16 Artículo 3. Límites en Compensaciones.
+17 En demandas por impericia médica contra profesionales de la salud privados o
+18 entidades no gubernamentales, las compensaciones por daños no pecuniarios no
+19 excederán la suma de doscientos cincuenta mil (250,000) dólares por reclamante
+20 individual.
+21 Cuando los daños afecten a múltiples reclamantes derivados del mismo incidente,
+22 el tope agregado no superará los setecientos cincuenta mil (750,000) dólares. Esta
+
+5
+1 limitación no aplicará a daños pecuniarios demostrables, ni a casos de dolo intencional,
+2 conducta temeraria grave o violaciones a derechos constitucionales.
+3 La aplicación de estos topes requerirá evidencia documentada de la clasificación
+4 del daño, y estará sujeta a revisión judicial para asegurar proporcionalidad y justicia.
+5 Estos límites no se aplicarán retroactivamente a causas de acción surgidas antes de
+6 la vigencia de esta Ley.
+7 Artículo 4. Aplicabilidad y Excepciones.
+8 Esta Ley aplicará exclusivamente a acciones civiles por impericia médica en el
+9 sector privado, sin afectar reclamaciones contra el Estado o sus empleados bajo la Ley
+10 Núm. 104 de 1955. Se exceptúan casos donde se demuestre fraude, ocultamiento
+11 intencional de evidencia o violaciones éticas graves certificadas por el Colegio de Médicos
+12 Cirujanos de Puerto Rico.
+13 Artículo 5. Facultades Regulatorias.
+14 Se faculta al Departamento de Salud y al Colegio de Médicos Cirujanos de Puerto
+15 Rico a adoptar regulaciones complementarias para implementar esta Ley, incluyendo
+16 guías para clasificar daños, mecanismos de monitoreo del impacto en costos de seguros
+17 y retención de médicos, en consulta con la Oficina del Comisionado de Seguros.
+18 Artículo 6. Cláusula de Separabilidad.
+19 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o
+20 inválida por un tribunal competente, dicha declaración no afectará las demás
+21 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+22 Artículo 7. Vigencia.
+
+6
+1 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3  .r L r l f d e l e l c p d n p e p i m c p d l s p c e d l J d S F d 2 P R p q s u d c e á r y u d d d]
+[DELETED:  d a l f e c y r p s a d l A M A y e l P h g l d p y m d p a s d r p l a m a r o r 1 d 1 s e q l l r p d e c e g y s e i m e i a $ p r i y $ c l d a a u d q i l p e e e s p o l c c m i p l p r]
+[DELETED:  e c l p e H A y e J o t M A c q t e d n p ( c r s a m y m e a a e c s a s e i d n  E l p m e l I a a d s m p y P d l s p M g o e d e t p y o p d]
+[DELETED:  c p o r m t d c p v o a m e a D n p C p c i c n g l c p d n p n l s d d c m ( d p r t a n s l s c m ( d E]
+[DELETED:  1 d 1 S e c d s d f o c d d e L f d i n o p u t c d d n a l d]
