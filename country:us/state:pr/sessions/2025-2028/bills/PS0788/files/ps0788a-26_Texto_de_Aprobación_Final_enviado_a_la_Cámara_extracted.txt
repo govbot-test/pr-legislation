@@ -1,0 +1,302 @@
+Title: Coautores el señor González López; las señoras Pérez Soto, Román Rodriguez; los señores Rosa
+Official Title: Coautores el señor González López; las señoras Pérez Soto, Román Rodriguez; los señores Rosa
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(22 DE ENERO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 788
+15 de octubre de 2025
+Presentado por el señor Reyes Berríos
+Ramos, Santos Ortiz y Toledo López
+Referido a las Comisiones de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos
+del Consumidor; y de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para enmendar los Artículos 1.78, 2.13, 2.14 y 2.48 de la Ley 22-2000, según enmendada,
+conocida como “Ley de Vehículos y Tránsito de Puerto Rico”, a los fines de
+autorizar al Departamento de Transportación y Obras Públicas (DTOP) a emitir,
+mantener y validar digitalmente los permisos de vehículos de motor, arrastres y
+semiarrastres mediante la plataforma Cesco Digital u otra plataforma autorizada
+por dicha Agencia; disponer que dichos permisos digitales tendrán la misma
+validez que los permisos físicos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La tecnología ha transformado la gestión gubernamental y la relación del
+ciudadano con el Estado. En Puerto Rico, el Departamento de Transportación y Obras
+Públicas (DTOP) ha avanzado hacia la digitalización de trámites esenciales,
+particularmente a través de la plataforma Cesco Digital, donde los conductores pueden
+acceder a su licencia de conducir digital, conforme lo autorizado por la Ley 141-2020. No
+obstante, la legislación vigente aún limita la validez formal del permiso de vehículo de
+motor al documento físico, creando una disonancia normativa que impide reconocer
+plenamente los permisos digitales expedidos por el DTOP. Esta falta de equivalencia
+legal puede derivar en sanciones injustas a conductores que, aún cumpliendo con su
+2
+obligación de renovación y pago de derechos, no porten copia física del permiso de
+vehículo.
+Dicho lo anterior, esta legislación busca armonizar la Ley 22-2000, según
+enmendada, conocida como “Ley de Vehículos y Tránsito de Puerto Rico”, con las
+disposiciones tecnológicas modernas, reconociendo expresamente que el permiso digital
+de vehículo emitido y verificado a través de Cesco Digital, tiene la misma validez y efecto
+legal que el documento físico. Esta Ley se inserta dentro de la política pública de
+modernización gubernamental y simplificación de procesos, fomentando la eficiencia, la
+transparencia y la conveniencia para los ciudadanos sin comprometer la fiscalización o la
+seguridad vial.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se enmienda el Artículo 1.78 de la Ley 22-2000, según enmendada,
+2 para que lea como sigue:
+3 “Artículo 1.78. — Permiso de vehículo de motor o arrastre.
+4 "Permiso de vehículo de motor o arrastre" Significará el certificado de inscripción
+5 de un vehículo de motor o arrastre, expedido por el Secretario, autorizando a un vehículo
+6 de motor o arrastre a transitar por las vías públicas de Puerto Rico. Solo se exhibirá en el
+7 vehículo de motor un (1) marbete durante el año de vigencia del pago de derechos.
+8 El permiso podrá emitirse y mantenerse en formato físico o digital, mediante la
+9 plataforma oficial Cesco Digital u otra plataforma autorizada por el DTOP. El permiso
+10 digital tendrá la misma validez y efecto legal que el permiso físico impreso.”
+11 Sección 2.– Se enmienda el Artículo 2.13 de la Ley 22-2000, según enmendada, para
+12 que lea como sigue:
+3
+1 “Artículo 2.13. — Certificado de título y permiso de vehículos de motor, arrastres o
+2 semiarrastres.
+3 Una vez aceptada la inscripción de un vehículo de motor, arrastre o semiarrastre el
+4 Secretario le expedirá al dueño, previo el pago de los derechos correspondientes, un
+5 certificado de título en el cual se hará constar la fecha de su expedición, número de título
+6 asignado, nombre y dirección física y postal, y los últimos cuatro dígitos del número de
+7 seguro social del dueño, nombres y direcciones de las personas con gravámenes sobre
+8 dicho vehículo de motor, arrastre o semiarrastre, y una descripción completa del mismo,
+9 incluyendo marca, modelo y número de identificación del vehículo (vehicle identification
+10 number o VIN) número de la tablilla, o nombre del conductor certificado en el caso de
+11 arrendamientos financieros, donde fueron trasferidas las multas o gravámenes, así como
+12 cualquier otra información que el Secretario estime conveniente o necesaria para
+13 identificar los mismos para su inscripción. Este certificado se conocerá como el certificado
+14 de título del vehículo, según sea el caso. Toda transacción relacionada con la titularidad
+15 del vehículo de motor, arrastre o semiarrastre se hará al dorso del certificado, previa
+16 cancelación de los gravámenes que puedan existir y con los derechos correspondientes.
+17 El Secretario proveerá en el reverso del certificado de título, un formulario para la
+18 formalización del traspaso o reasignación del mismo, a tenor con los requisitos
+19 establecidos en esta Ley.
+20 Además del certificado de título, a solicitud del titular del vehículo, el Secretario
+21 emitirá un permiso del vehículo de motor, arrastre o semiarrastre el cual constituirá la
+22 autorización para transitar por las vías públicas de Puerto Rico con la tablilla del dueño,
+4
+1 previo el pago de los derechos correspondientes. En el permiso se deberá incluir un
+2 campo o espacio en el cual se identifique al asegurador del SRO que fue seleccionado en
+3 el Formulario de Selección por el dueño o conductor del vehículo. Este permiso impreso,
+4 fotocopia legible del mismo, en tarjeta digitalizada, o en formato digital mediante la
+5 plataforma oficial Cesco Digital u otra plataforma autorizada por el DTOP, será llevado
+6 continuamente en el vehículo de motor, arrastre o semiarrastre, o portado por la persona
+7 que lo conduzca. La fotocopia legible o en tarjeta digitalizada del permiso no será válida
+8 para efectuar transacciones de los vehículos. El permiso digital emitido por Cesco Digital
+9 u otra plataforma autorizada por el DTOP tendrá la misma validez y efecto legal que el
+10 permiso físico.
+11 El permiso concedido a los vehículos de motor, arrastre o semiarrastre para transitar
+12 por las vías públicas, tendrá una fecha de expedición y de expiración.”
+13 Sección 3. – Se enmienda el Artículo 2.14 de la Ley 22-2000, según enmendada, para
+14 que lea como sigue:
+15 “Artículo 2.14 Renovación de autorización de vehículos de motor, arrastres o
+16 semiarrastres.
+17 …
+18 …
+19 …
+20 El permiso renovado podrá expedirse, mantenerse y verificarse electrónicamente,
+21 mediante la plataforma Cesco Digital u otra plataforma autorizada por el DTOP, teniendo
+22 dicha versión digital la misma validez que el documento físico.”
+5
+1 Sección 4. – Se enmiendan los incisos (c) y (v) del Artículo 2.48 de la Ley 22-
+2 2000, según enmendada, para que lean como sigue:
+3 “Artículo 2.48. – Actos ilegales y penalidades.
+4 …
+5 (c) Conducir un vehículo de motor o tirar de un arrastre o semiarrastre por las vías
+6 públicas, sin llevar en el mismo, copia del permiso, físico o en formato digital, mediante
+7 la plataforma Cesco Digital u otra plataforma autorizada por el DTOP, los documentos o
+8 membretes que en sustitución de dicho permiso autorizan a dicho vehículo a transitar.
+9 Toda persona que viole esta disposición incurrirá en falta administrativa y será
+10 sancionada con multa de cien (100) dólares.
+11 …
+12 (v) Conducir un vehículo de motor, arrastre o semiarrastre sin portar el permiso del
+13 mismo, sea en formato físico o en formato digital, mediante la plataforma Cesco Digital
+14 u otra plataforma autorizada por el DTOP, una vez hayan transcurrido treinta (30) días
+15 después que dicho vehículo haya sido inscrito por el concesionario o institución
+16 financiera en el Departamento. Toda persona que viole esta disposición incurrirá en falta
+17 administrativa y será sancionada con multa de cincuenta (50) dólares. Los vehículos de
+18 servicio público podrán transitar con la autorización para sustituir que les haya sido
+19 expedida por la Comisión de Servicio Público hasta la tramitación final de la sustitución,
+20 siempre y cuando el titular del vehículo no tenga deuda alguna pendiente de pago ante
+21 dicha agencia.
+22 (w)…
+6
+1 (x)…”
+2 Sección 5.– Reglamentación
+3 El Secretario del DTOP promulgará, dentro de un periodo de ciento veinte (120)
+4 días, contados a partir de la aprobación de esta Ley, la reglamentación y procedimientos
+5 necesarios para implantar sus disposiciones.
+6 Sección 6.– Separabilidad
+7 Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por un
+8 tribunal con jurisdicción, esto no invalidará el resto de las disposiciones de esta Ley.
+9 Sección 7.– Vigencia
+10 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:    2  .dL  8daL c “ d V y T d P R a l f d d A d q d p d t l m t h t l g g y l r d ( h a h l d d t e a d f c u d n q i r]
+[DELETED:  d r y p d d n p c f d p d l a e l b a l L 2 s c c “ d V y T d P R c l q e d f  E L s i d d l p p dA E]
+[DELETED: A U o i q e S e c o n p S p e e r d c d t u f p l d t o r d m a t c l r ]
+[DELETED:  e p d l d c E e p s d i u l d e t d o e f d m l ES“ 2 R d a d v d m a o……E]
+[DELETED:  S“…( p q v e d i e f a y s…( q d v h s i p e c o i(]
+[DELETED: (SESS c p d e L f d n o i p uSE]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(22 DE ENERO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 788
+15 de octubre de 2025
+Presentado por el señor Reyes Berríos
+Coautores el señor González López; las señoras Pérez Soto, Román Rodriguez; los señores Rosa
+Ramos, Santos Ortiz y Toledo López
+Referido a las Comisiones de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos
+del Consumidor; y de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para enmendar los Artículos 1.78, 2.13, 2.14 y 2.48 de la Ley 22-2000, según enmendada,
+conocida como “Ley de Vehículos y Tránsito de Puerto Rico”, a los fines de
+autorizar al Departamento de Transportación y Obras Públicas (DTOP) a emitir,
+mantener y validar digitalmente los permisos de vehículos de motor, arrastres y
+semiarrastres mediante la plataforma Cesco Digital u otra plataforma autorizada
+por dicha Agencia; disponer que dichos permisos digitales tendrán la misma
+validez que los permisos físicos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La tecnología ha transformado la gestión gubernamental y la relación del
+ciudadano con el Estado. En Puerto Rico, el Departamento de Transportación y Obras
+Públicas (DTOP) ha avanzado hacia la digitalización de trámites esenciales,
+particularmente a través de la plataforma Cesco Digital, donde los conductores pueden
+acceder a su licencia de conducir digital, conforme lo autorizado por la Ley 141-2020. No
+obstante, la legislación vigente aún limita la validez formal del permiso de vehículo de
+motor al documento físico, creando una disonancia normativa que impide reconocer
+plenamente los permisos digitales expedidos por el DTOP. Esta falta de equivalencia
+legal puede derivar en sanciones injustas a conductores que, aún cumpliendo con su
+
+2
+obligación de renovación y pago de derechos, no porten copia física del permiso de
+vehículo.
+Dicho lo anterior, esta legislación busca armonizar la Ley 22-2000, según
+enmendada, conocida como “Ley de Vehículos y Tránsito de Puerto Rico”, con las
+disposiciones tecnológicas modernas, reconociendo expresamente que el permiso digital
+de vehículo emitido y verificado a través de Cesco Digital, tiene la misma validez y efecto
+legal que el documento físico. Esta Ley se inserta dentro de la política pública de
+modernización gubernamental y simplificación de procesos, fomentando la eficiencia, la
+transparencia y la conveniencia para los ciudadanos sin comprometer la fiscalización o la
+seguridad vial.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se enmienda el Artículo 1.78 de la Ley 22-2000, según enmendada,
+2 para que lea como sigue:
+3 “Artículo 1.78. — Permiso de vehículo de motor o arrastre.
+4 "Permiso de vehículo de motor o arrastre" Significará el certificado de inscripción
+5 de un vehículo de motor o arrastre, expedido por el Secretario, autorizando a un vehículo
+6 de motor o arrastre a transitar por las vías públicas de Puerto Rico. Solo se exhibirá en el
+7 vehículo de motor un (1) marbete durante el año de vigencia del pago de derechos.
+8 El permiso podrá emitirse y mantenerse en formato físico o digital, mediante la
+9 plataforma oficial Cesco Digital u otra plataforma autorizada por el DTOP. El permiso
+10 digital tendrá la misma validez y efecto legal que el permiso físico impreso.”
+11 Sección 2.– Se enmienda el Artículo 2.13 de la Ley 22-2000, según enmendada, para
+12 que lea como sigue:
+
+3
+1 “Artículo 2.13. — Certificado de título y permiso de vehículos de motor, arrastres o
+2 semiarrastres.
+3 Una vez aceptada la inscripción de un vehículo de motor, arrastre o semiarrastre el
+4 Secretario le expedirá al dueño, previo el pago de los derechos correspondientes, un
+5 certificado de título en el cual se hará constar la fecha de su expedición, número de título
+6 asignado, nombre y dirección física y postal, y los últimos cuatro dígitos del número de
+7 seguro social del dueño, nombres y direcciones de las personas con gravámenes sobre
+8 dicho vehículo de motor, arrastre o semiarrastre, y una descripción completa del mismo,
+9 incluyendo marca, modelo y número de identificación del vehículo (vehicle identification
+10 number o VIN) número de la tablilla, o nombre del conductor certificado en el caso de
+11 arrendamientos financieros, donde fueron trasferidas las multas o gravámenes, así como
+12 cualquier otra información que el Secretario estime conveniente o necesaria para
+13 identificar los mismos para su inscripción. Este certificado se conocerá como el certificado
+14 de título del vehículo, según sea el caso. Toda transacción relacionada con la titularidad
+15 del vehículo de motor, arrastre o semiarrastre se hará al dorso del certificado, previa
+16 cancelación de los gravámenes que puedan existir y con los derechos correspondientes.
+17 El Secretario proveerá en el reverso del certificado de título, un formulario para la
+18 formalización del traspaso o reasignación del mismo, a tenor con los requisitos
+19 establecidos en esta Ley.
+20 Además del certificado de título, a solicitud del titular del vehículo, el Secretario
+21 emitirá un permiso del vehículo de motor, arrastre o semiarrastre el cual constituirá la
+22 autorización para transitar por las vías públicas de Puerto Rico con la tablilla del dueño,
+
+4
+1 previo el pago de los derechos correspondientes. En el permiso se deberá incluir un
+2 campo o espacio en el cual se identifique al asegurador del SRO que fue seleccionado en
+3 el Formulario de Selección por el dueño o conductor del vehículo. Este permiso impreso,
+4 fotocopia legible del mismo, en tarjeta digitalizada, o en formato digital mediante la
+5 plataforma oficial Cesco Digital u otra plataforma autorizada por el DTOP, será llevado
+6 continuamente en el vehículo de motor, arrastre o semiarrastre, o portado por la persona
+7 que lo conduzca. La fotocopia legible o en tarjeta digitalizada del permiso no será válida
+8 para efectuar transacciones de los vehículos. El permiso digital emitido por Cesco Digital
+9 u otra plataforma autorizada por el DTOP tendrá la misma validez y efecto legal que el
+10 permiso físico.
+11 El permiso concedido a los vehículos de motor, arrastre o semiarrastre para transitar
+12 por las vías públicas, tendrá una fecha de expedición y de expiración.”
+13 Sección 3. – Se enmienda el Artículo 2.14 de la Ley 22-2000, según enmendada, para
+14 que lea como sigue:
+15 “Artículo 2.14 Renovación de autorización de vehículos de motor, arrastres o
+16 semiarrastres.
+17 …
+18 …
+19 …
+20 El permiso renovado podrá expedirse, mantenerse y verificarse electrónicamente,
+21 mediante la plataforma Cesco Digital u otra plataforma autorizada por el DTOP, teniendo
+22 dicha versión digital la misma validez que el documento físico.”
+
+5
+1 Sección 4. – Se enmiendan los incisos (c) y (v) del Artículo 2.48 de la Ley 22-
+2 2000, según enmendada, para que lean como sigue:
+3 “Artículo 2.48. – Actos ilegales y penalidades.
+4 …
+5 (c) Conducir un vehículo de motor o tirar de un arrastre o semiarrastre por las vías
+6 públicas, sin llevar en el mismo, copia del permiso, físico o en formato digital, mediante
+7 la plataforma Cesco Digital u otra plataforma autorizada por el DTOP, los documentos o
+8 membretes que en sustitución de dicho permiso autorizan a dicho vehículo a transitar.
+9 Toda persona que viole esta disposición incurrirá en falta administrativa y será
+10 sancionada con multa de cien (100) dólares.
+11 …
+12 (v) Conducir un vehículo de motor, arrastre o semiarrastre sin portar el permiso del
+13 mismo, sea en formato físico o en formato digital, mediante la plataforma Cesco Digital
+14 u otra plataforma autorizada por el DTOP, una vez hayan transcurrido treinta (30) días
+15 después que dicho vehículo haya sido inscrito por el concesionario o institución
+16 financiera en el Departamento. Toda persona que viole esta disposición incurrirá en falta
+17 administrativa y será sancionada con multa de cincuenta (50) dólares. Los vehículos de
+18 servicio público podrán transitar con la autorización para sustituir que les haya sido
+19 expedida por la Comisión de Servicio Público hasta la tramitación final de la sustitución,
+20 siempre y cuando el titular del vehículo no tenga deuda alguna pendiente de pago ante
+21 dicha agencia.
+22 (w)…
+
+6
+1 (x)…”
+2 Sección 5.– Reglamentación
+3 El Secretario del DTOP promulgará, dentro de un periodo de ciento veinte (120)
+4 días, contados a partir de la aprobación de esta Ley, la reglamentación y procedimientos
+5 necesarios para implantar sus disposiciones.
+6 Sección 6.– Separabilidad
+7 Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por un
+8 tribunal con jurisdicción, esto no invalidará el resto de las disposiciones de esta Ley.
+9 Sección 7.– Vigencia
+10 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:    2  .dL  8daL c “ d V y T d P R a l f d d A d q d p d t l m t h t l g g y l r d ( h a h l d d t e a d f c u d n q i r]
+[DELETED:  d r y p d d n p c f d p d l a e l b a l L 2 s c c “ d V y T d P R c l q e d f  E L s i d d l p p dA E]
+[DELETED: A U o i q e S e c o n p S p e e r d c d t u f p l d t o r d m a t c l r ]
+[DELETED:  e p d l d c E e p s d i u l d e t d o e f d m l ES“ 2 R d a d v d m a o……E]
+[DELETED:  S“…( p q v e d i e f a y s…( q d v h s i p e c o i(]
+[DELETED: (SESS c p d e L f d n o i p uSE]

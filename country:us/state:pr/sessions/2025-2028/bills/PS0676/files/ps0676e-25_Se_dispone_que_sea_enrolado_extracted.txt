@@ -1,0 +1,411 @@
+Title: Para añadir un nuevo inciso (b) al Artículo 87 de la Ley Núm. 146-2012, según
+Official Title: Para añadir un nuevo inciso (b) al Artículo 87 de la Ley Núm. 146-2012, según
+Number of Sections: 4
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 676)
+LEY
+enmendada, conocida como “Código Penal de Puerto Rico”; renumerar los
+actuales incisos (b), (c), (d) y (e), como incisos (c), (d), (e) y (f), respectivamente, a
+los fines de establecer el periodo de prescripción de diez (10) años en delitos de
+apropiación ilegal agravada, fraude y lavado de dinero cuando la cuantía de tales
+actos ascienda a quinientos mil dólares ($500,000) o más; enmendar los Artículos
+
+Section 2:
+9.05 y 9.06 de la Ley Núm. 255-2002, según enmendada, conocida como “Ley de
+Sociedades Cooperativas de Ahorro y Crédito de 2002”; y enmendar el Artículo
+409 de la Ley Núm. 60 de 18 de junio de 1963, según enmendada, conocida como
+“Ley Uniforme de Valores”, a los fines de establecer un período prescriptivo de
+diez (10) años en los delitos y penalidades tipificados en estas Leyes; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El fraude y los delitos financieros continúan siendo una amenaza significativa
+para la economía de Puerto Rico y el bienestar de sus ciudadanos. Nuestro Código
+Penal define el fraude como aquellos actos u omisiones que realiza una persona, con
+el propósito de defraudar, que afectan derechos o intereses patrimoniales sobre bienes
+inmuebles o bienes muebles de esa persona, del Estado o de un tercero, en perjuicio
+de estos; o, que introduzca a otra persona a realizarlos.1 Los esquemas de fraude
+0F
+pueden ser simples como complejos, pero siempre resultan en el menoscabo de los
+derechos o intereses patrimoniales de una persona en particular, ya sea natural o
+jurídica.
+El fraude en Puerto Rico es un mal que arropa a nuestra sociedad desde tiempos
+inmemoriales. Es conocido que las crisis económicas contribuyen, en cierta manera, al
+aumento en los casos de fraude y apropiación ilegal. Sin embargo, este tipo de delitos
+trascienden a nivel mundial. Según el Internet Crime Report 2024, publicado por el
+Federal Bureau of Investigations (FBI, por sus siglas en inglés), en Estados Unidos se
+reportaron 859,532 querellas de fraude cibernético. Las pérdidas totales asociadas a
+esta modalidad de fraude superaron los $16.6 mil millones, lo que representa un
+aumento de 33%, comparado con el año anterior.
+A nivel local, el panorama es igualmente preocupante. Según el mismo informe,
+Puerto Rico ocupa la posición número 45 entre todos los estados y territorios de EE.
+UU., en número de querellas, con 2,241 reportadas. En términos de pérdidas
+financieras, Puerto Rico se ubicó en el puesto número 31, con pérdidas totales de
+1 Art. 202 del “Código Penal de Puerto Rico”, Ley Núm. 146-2012
+2
+$91,363,707. En este renglón, California sigue liderando con el mayor número de
+querellas (96,265) y pérdidas ($2.53 mil millones) en 2024.2 Cabe destacar que estas
+1F
+cifras representan solo los casos reportados, por lo que las pérdidas reales podrían ser
+mayores. Además, se ha observado un aumento significativo en los intentos de fraude
+digital en los últimos años, afectando principalmente a sectores como viajes y
+entretenimiento, telecomunicaciones, comercio electrónico y servicios financieros.3
+2F
+Por su parte, según las estadísticas más recientes recopiladas por el Colegio de
+Contadores Públicos Autorizados (CCPA), presentadas en un estudio titulado Retrato
+del Fraude en Puerto Rico 2020, el impacto económico del fraude en Puerto Rico es
+alarmante, estimándose en aproximadamente $2,381.7 millones, lo que representa
+cerca del 3.5% de los ingresos brutos de la Isla. El estudio también reveló que, de
+aquellas personas víctimas de fraude, solo el 36% lograron recuperar la pérdida
+porque no estaban bien asegurados.4 Esta cifra subraya la urgente necesidad de
+3F
+fortalecer nuestros mecanismos legales para combatir estos delitos de manera más
+efectiva.
+Entre los esquemas de fraude también se encuentra el ocupacional, que se
+define como aquellos actos cometidos por empleados con el objetivo de obtener
+beneficios económicos por medio de la utilización indebida o la apropiación ilegal de
+los recursos organizacionales, incluyendo la apropiación de activos, corrupción y
+manipulación de estados financieros. Los esquemas de fraude pueden ser cometidos
+por uno o más empleados en una empresa y conllevan pérdidas cuantiosas. Este tipo
+de fraude representa una amenaza significativa para la economía local, afectando al
+
+Section 3:
+3.5% de las ventas en Puerto Rico, equivalente a $2,400 millones anuales.5 Entre los
+4F
+principales factores que contribuyen al aumento en los casos de fraude ocupacional
+están la ausencia de controles internos (31%); la anulación de los controles existentes
+(19%); y, la falta de revisión gerencial (13%).6 Estos datos ponen de manifiesto la
+5F
+magnitud del problema y su impacto directo en el sector empresarial y, por extensión,
+en la economía general de Puerto Rico.
+La complejidad y sofisticación de estos esquemas de fraude plantean múltiples
+desafíos para su detección y procesamiento, requiriendo conocimiento técnico y
+especializado, tanto de los agentes investigadores, fiscales y jueces. El Colegio de
+2 Fbi.gov, https://www.fbi.gov/news/press-releases/fbi-releases-annual-internet-crime-report. Consultado el 29 de junio de
+
+Section 4:
+2025.
+3 Rivera, Ivelisse. “Significativo el impacto del fraude en las empresas en Puerto Rico”. Revista seguros Puerto Rico, el 21 de
+diciembre de 2023. Recuperado el 27 de febrero de 2025, de: https://revistaseguros.com/significativo-el-impacto-del-fraude-
+en-las-empresas-en-puerto-rico/2023/21/21/26/empresas/.
+4 Rivera, Ivelisse. “Significativo el impacto del fraude en las empresas en Puerto Rico”. Revista seguros Puerto Rico, el 21 de
+diciembre de 2023. Recuperado el 26 de febrero de 2025, de: https://revistaseguros.com/significativo-el-impacto-del-fraude-
+en-las-empresas-en-puerto-rico/2023/21/21/26/empresas/.
+5 Id.
+6 Cabrera Rivera, Janet. Incidencia del Fraude Ocupacional: Resultados en Investigación realizada en Empresas Privadas del Área
+Metropolitana adscritas a la Cámara de Comercio de Puerto Rico. Recuperado el 26 de febrero de 2025, de:
+https://camarapr.myserver.casa/Camara-en-Accion-18-19/18-nov-15/mensaje/Resultados-investigacion.pdf. Consultado el
+27 de febrero de 2025.
+3
+Contadores Públicos Autorizados de Puerto Rico (CCPA) reconoce que las auditorías
+son el método más eficaz para detectar si, en efecto, ha ocurrido un fraude. No
+obstante, las investigaciones y auditorías necesarias para descubrir y documentar
+estos delitos a menudo requieren períodos prolongados, que pueden extenderse por
+varios años. Esta realidad choca con el actual término prescriptivo de cinco (5) años
+establecido en nuestro Código Penal para radicar una acción criminal en la mayoría
+de los delitos de fraude y apropiación ilegal.
+Por otro lado, las cooperativas, por su calidad de instituciones financieras, son
+susceptibles a complejos esquemas de fraude que presentan desafíos significativos
+para su detección. Por tanto, reconociendo la importancia de investigar y procesar
+estos esquemas de fraude, especialmente aquellos que involucran grandes sumas de
+dinero, resulta imperativo extender el período de prescripción a diez (10) años para
+los delitos de apropiación ilegal agravada, fraude y lavado de dinero cuando la cuantía
+involucrada ascienda a quinientos mil dólares ($500,000) o más. Esta medida
+representa un paso crucial en nuestros esfuerzos por combatir el fraude y los delitos
+financieros en Puerto Rico, en aras de salvaguardar la seguridad económica de nuestra
+Isla.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se añade un nuevo inciso (b) al Artículo 87 de la Ley Núm. 146-2012,
+según enmendada, y se reenumeran los actuales incisos (b), (c), (d) y (e), como incisos
+(c), (d), (e) y (f), respectivamente, para que lea como sigue:
+“Artículo 87.- Prescripción
+“La acción penal prescribirá:
+(a) A los cinco (5) años, en los delitos graves, y en los delitos graves clasificados
+en la ley especial.
+(b) A los diez (10) años en los delitos de apropiación ilegal agravada, fraude y
+lavado de dinero; cuando la cuantía ascienda a quinientos mil dólares ($500,000) o
+más.
+(c) Al año, en los delitos menos graves, salvo los provenientes de infracciones a
+las leyes fiscales y todo delito menos grave, cometido por funcionarios o
+empleados públicos en el desempeño de sus funciones, que prescribirán a los cinco
+(5) años.
+(d) Los delitos de encubrimiento y conspiración prescribirán a los diez (10)
+años, cuando se cometan en relación al delito de asesinato.
+(e) A los diez (10) años, en los delitos de homicidio.
+(f) A los veinte (20) años, en los delitos de agresión sexual, incesto y actos
+lascivos.
+4
+Lo dispuesto en los incisos (a), (b) y (c) de este Artículo no aplica a las leyes
+especiales, cuyos delitos tengan un período prescriptivo mayor al aquí propuesto.”
+Sección 2.– Se enmienda el Artículo 9.05 de la Ley Núm. 255-2002, según
+enmendada, para que lea como sigue:
+“Artículo 9.05. – Delitos Graves
+(a) Incurrirá en delito grave y convicto que fuere será castigado con pena de
+reclusión por un término fijo de seis (6) años, todo miembro de la Junta de
+Directores, de los comités y todo funcionario ejecutivo, empleado o agente de una
+cooperativa que:
+(1) …
+(2) …
+(3) …
+(4) …
+(b) …
+(1) …
+(2) …
+(c) …
+(d) …
+La acción penal para los delitos dispuestos en este Artículo prescribirá a los diez
+(10) años.”
+Sección 3.– Se enmienda el Artículo 9.06 de la Ley Núm. 255-2002, según
+enmendada, para que lea como sigue:
+“Artículo 9.06. – Delitos Contra los Fondos de las Cooperativas
+Será castigado con pena de reclusión por un término fijo de ocho (8) años todo
+miembro de la Junta, de los comités, funcionario, empleado o agente de una
+cooperativa y toda persona encargada de recibir, guardar, traspasar o desembolsar
+fondos de una cooperativa que realice uno o más de los siguientes actos:
+(a) …
+(b) …
+(c) …
+(d) …
+(e) …
+(f) …
+(g) …
+5
+(h) …
+(i) …
+(j) …
+(k) …
+Toda persona que no sea miembro de la Junta, de los comités ni funcionario
+ejecutivo, empleado o agente de una cooperativa que sea culpable de uno o más de los
+actos prohibidos en este Artículo, independientemente de si obtuvo o no lucro
+económico personal, será sancionada con la pena aquí dispuesta. La acción penal para
+los delitos dispuestos en este Artículo prescribirá a los diez (10) años.”
+Sección 4.– Se enmienda el Artículo 409 de la Ley Núm. 60 de 18 de junio de 1963,
+según enmendada, para que lea como sigue:
+“Artículo 409. – (Penalidades) –
+(a) Cualquier persona que voluntariamente viole cualquier disposición de
+esta Ley, excepto el Artículo 404, o que voluntariamente viole cualquier
+reglamento u orden promulgada de acuerdo con las disposiciones de esta Ley, o
+que voluntariamente viole el Artículo 404 sabiendo que la declaración hecha es
+falsa o engañosa en cualquier aspecto material, una vez fuere convicta será
+castigada con una multa que no será menor de quinientos (500) dólares ni mayor
+de diez mil (10,000) dólares, o con pena de reclusión por un término que no será
+menor de seis (6) meses ni mayor de cinco (5) años, o ambas penas. Ningún
+procedimiento podrá incoarse después de transcurridos diez (10) años de la
+alegada violación.
+(b) …
+(c) …
+(d) …”
+Sección 5.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED:  a u n i ( a A 8 d l L N.1 s c c “ P d P R r l.  o i d u p e p y s n o , m d f s l $ m m l q r u e n d q c 2 r E t d p P]
+[DELETED:  E e r C s l c e m n d.  e l ú a a p a s c v y. e e a $ m l q r p v d f s e 3 l r l p n e b a.  c s l u n d l e d f t s e e o q s c a a c p e c e o d o r o i l a d a c y.  y l f d r g (. E d p d m l p s d y p r c t y,t d l a i f y j E C d, , ,..]
+[DELETED:  e m mse p d s e e h o u f N l i y a n p d y d a a q m d ( o m E m.1 l f y t d m g c p f o A l v ( a e l d d a s i y a]
+[DELETED: S 2 S e e A 9 d l L N.2 s)I p u t f d s ( a t m d l J d)…)…)…)…)…)…)…)…)… 3 S e e A 9 d l L N 2 soc d l J d l c f e o a d u)…)…)…)…)…)…)…]
+[DELETED: )…)…)…)… p q n s m d l J d l c n f p e e A i d s o o n l)C L e e A 4 o q v v c o e e c a m u v f c s d s ( m n m d c ( a o a p N p i d d tsd ( a d l)…)…)…]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 676)
+LEY
+Para añadir un nuevo inciso (b) al Artículo 87 de la Ley Núm. 146-2012, según
+enmendada, conocida como “Código Penal de Puerto Rico”; renumerar los
+actuales incisos (b), (c), (d) y (e), como incisos (c), (d), (e) y (f), respectivamente, a
+los fines de establecer el periodo de prescripción de diez (10) años en delitos de
+apropiación ilegal agravada, fraude y lavado de dinero cuando la cuantía de tales
+actos ascienda a quinientos mil dólares ($500,000) o más; enmendar los Artículos
+9.05 y 9.06 de la Ley Núm. 255-2002, según enmendada, conocida como “Ley de
+Sociedades Cooperativas de Ahorro y Crédito de 2002”; y enmendar el Artículo
+409 de la Ley Núm. 60 de 18 de junio de 1963, según enmendada, conocida como
+“Ley Uniforme de Valores”, a los fines de establecer un período prescriptivo de
+diez (10) años en los delitos y penalidades tipificados en estas Leyes; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El fraude y los delitos financieros continúan siendo una amenaza significativa
+para la economía de Puerto Rico y el bienestar de sus ciudadanos. Nuestro Código
+Penal define el fraude como aquellos actos u omisiones que realiza una persona, con
+el propósito de defraudar, que afectan derechos o intereses patrimoniales sobre bienes
+inmuebles o bienes muebles de esa persona, del Estado o de un tercero, en perjuicio
+de estos; o, que introduzca a otra persona a realizarlos.1 Los esquemas de fraude
+0F
+pueden ser simples como complejos, pero siempre resultan en el menoscabo de los
+derechos o intereses patrimoniales de una persona en particular, ya sea natural o
+jurídica.
+El fraude en Puerto Rico es un mal que arropa a nuestra sociedad desde tiempos
+inmemoriales. Es conocido que las crisis económicas contribuyen, en cierta manera, al
+aumento en los casos de fraude y apropiación ilegal. Sin embargo, este tipo de delitos
+trascienden a nivel mundial. Según el Internet Crime Report 2024, publicado por el
+Federal Bureau of Investigations (FBI, por sus siglas en inglés), en Estados Unidos se
+reportaron 859,532 querellas de fraude cibernético. Las pérdidas totales asociadas a
+esta modalidad de fraude superaron los $16.6 mil millones, lo que representa un
+aumento de 33%, comparado con el año anterior.
+A nivel local, el panorama es igualmente preocupante. Según el mismo informe,
+Puerto Rico ocupa la posición número 45 entre todos los estados y territorios de EE.
+UU., en número de querellas, con 2,241 reportadas. En términos de pérdidas
+financieras, Puerto Rico se ubicó en el puesto número 31, con pérdidas totales de
+1 Art. 202 del “Código Penal de Puerto Rico”, Ley Núm. 146-2012
+
+2
+$91,363,707. En este renglón, California sigue liderando con el mayor número de
+querellas (96,265) y pérdidas ($2.53 mil millones) en 2024.2 Cabe destacar que estas
+1F
+cifras representan solo los casos reportados, por lo que las pérdidas reales podrían ser
+mayores. Además, se ha observado un aumento significativo en los intentos de fraude
+digital en los últimos años, afectando principalmente a sectores como viajes y
+entretenimiento, telecomunicaciones, comercio electrónico y servicios financieros.3
+2F
+Por su parte, según las estadísticas más recientes recopiladas por el Colegio de
+Contadores Públicos Autorizados (CCPA), presentadas en un estudio titulado Retrato
+del Fraude en Puerto Rico 2020, el impacto económico del fraude en Puerto Rico es
+alarmante, estimándose en aproximadamente $2,381.7 millones, lo que representa
+cerca del 3.5% de los ingresos brutos de la Isla. El estudio también reveló que, de
+aquellas personas víctimas de fraude, solo el 36% lograron recuperar la pérdida
+porque no estaban bien asegurados.4 Esta cifra subraya la urgente necesidad de
+3F
+fortalecer nuestros mecanismos legales para combatir estos delitos de manera más
+efectiva.
+Entre los esquemas de fraude también se encuentra el ocupacional, que se
+define como aquellos actos cometidos por empleados con el objetivo de obtener
+beneficios económicos por medio de la utilización indebida o la apropiación ilegal de
+los recursos organizacionales, incluyendo la apropiación de activos, corrupción y
+manipulación de estados financieros. Los esquemas de fraude pueden ser cometidos
+por uno o más empleados en una empresa y conllevan pérdidas cuantiosas. Este tipo
+de fraude representa una amenaza significativa para la economía local, afectando al
+3.5% de las ventas en Puerto Rico, equivalente a $2,400 millones anuales.5 Entre los
+4F
+principales factores que contribuyen al aumento en los casos de fraude ocupacional
+están la ausencia de controles internos (31%); la anulación de los controles existentes
+(19%); y, la falta de revisión gerencial (13%).6 Estos datos ponen de manifiesto la
+5F
+magnitud del problema y su impacto directo en el sector empresarial y, por extensión,
+en la economía general de Puerto Rico.
+La complejidad y sofisticación de estos esquemas de fraude plantean múltiples
+desafíos para su detección y procesamiento, requiriendo conocimiento técnico y
+especializado, tanto de los agentes investigadores, fiscales y jueces. El Colegio de
+2 Fbi.gov, https://www.fbi.gov/news/press-releases/fbi-releases-annual-internet-crime-report. Consultado el 29 de junio de
+2025.
+3 Rivera, Ivelisse. “Significativo el impacto del fraude en las empresas en Puerto Rico”. Revista seguros Puerto Rico, el 21 de
+diciembre de 2023. Recuperado el 27 de febrero de 2025, de: https://revistaseguros.com/significativo-el-impacto-del-fraude-
+en-las-empresas-en-puerto-rico/2023/21/21/26/empresas/.
+4 Rivera, Ivelisse. “Significativo el impacto del fraude en las empresas en Puerto Rico”. Revista seguros Puerto Rico, el 21 de
+diciembre de 2023. Recuperado el 26 de febrero de 2025, de: https://revistaseguros.com/significativo-el-impacto-del-fraude-
+en-las-empresas-en-puerto-rico/2023/21/21/26/empresas/.
+5 Id.
+6 Cabrera Rivera, Janet. Incidencia del Fraude Ocupacional: Resultados en Investigación realizada en Empresas Privadas del Área
+Metropolitana adscritas a la Cámara de Comercio de Puerto Rico. Recuperado el 26 de febrero de 2025, de:
+https://camarapr.myserver.casa/Camara-en-Accion-18-19/18-nov-15/mensaje/Resultados-investigacion.pdf. Consultado el
+27 de febrero de 2025.
+
+3
+Contadores Públicos Autorizados de Puerto Rico (CCPA) reconoce que las auditorías
+son el método más eficaz para detectar si, en efecto, ha ocurrido un fraude. No
+obstante, las investigaciones y auditorías necesarias para descubrir y documentar
+estos delitos a menudo requieren períodos prolongados, que pueden extenderse por
+varios años. Esta realidad choca con el actual término prescriptivo de cinco (5) años
+establecido en nuestro Código Penal para radicar una acción criminal en la mayoría
+de los delitos de fraude y apropiación ilegal.
+Por otro lado, las cooperativas, por su calidad de instituciones financieras, son
+susceptibles a complejos esquemas de fraude que presentan desafíos significativos
+para su detección. Por tanto, reconociendo la importancia de investigar y procesar
+estos esquemas de fraude, especialmente aquellos que involucran grandes sumas de
+dinero, resulta imperativo extender el período de prescripción a diez (10) años para
+los delitos de apropiación ilegal agravada, fraude y lavado de dinero cuando la cuantía
+involucrada ascienda a quinientos mil dólares ($500,000) o más. Esta medida
+representa un paso crucial en nuestros esfuerzos por combatir el fraude y los delitos
+financieros en Puerto Rico, en aras de salvaguardar la seguridad económica de nuestra
+Isla.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se añade un nuevo inciso (b) al Artículo 87 de la Ley Núm. 146-2012,
+según enmendada, y se reenumeran los actuales incisos (b), (c), (d) y (e), como incisos
+(c), (d), (e) y (f), respectivamente, para que lea como sigue:
+“Artículo 87.- Prescripción
+“La acción penal prescribirá:
+(a) A los cinco (5) años, en los delitos graves, y en los delitos graves clasificados
+en la ley especial.
+(b) A los diez (10) años en los delitos de apropiación ilegal agravada, fraude y
+lavado de dinero; cuando la cuantía ascienda a quinientos mil dólares ($500,000) o
+más.
+(c) Al año, en los delitos menos graves, salvo los provenientes de infracciones a
+las leyes fiscales y todo delito menos grave, cometido por funcionarios o
+empleados públicos en el desempeño de sus funciones, que prescribirán a los cinco
+(5) años.
+(d) Los delitos de encubrimiento y conspiración prescribirán a los diez (10)
+años, cuando se cometan en relación al delito de asesinato.
+(e) A los diez (10) años, en los delitos de homicidio.
+(f) A los veinte (20) años, en los delitos de agresión sexual, incesto y actos
+lascivos.
+
+4
+Lo dispuesto en los incisos (a), (b) y (c) de este Artículo no aplica a las leyes
+especiales, cuyos delitos tengan un período prescriptivo mayor al aquí propuesto.”
+Sección 2.– Se enmienda el Artículo 9.05 de la Ley Núm. 255-2002, según
+enmendada, para que lea como sigue:
+“Artículo 9.05. – Delitos Graves
+(a) Incurrirá en delito grave y convicto que fuere será castigado con pena de
+reclusión por un término fijo de seis (6) años, todo miembro de la Junta de
+Directores, de los comités y todo funcionario ejecutivo, empleado o agente de una
+cooperativa que:
+(1) …
+(2) …
+(3) …
+(4) …
+(b) …
+(1) …
+(2) …
+(c) …
+(d) …
+La acción penal para los delitos dispuestos en este Artículo prescribirá a los diez
+(10) años.”
+Sección 3.– Se enmienda el Artículo 9.06 de la Ley Núm. 255-2002, según
+enmendada, para que lea como sigue:
+“Artículo 9.06. – Delitos Contra los Fondos de las Cooperativas
+Será castigado con pena de reclusión por un término fijo de ocho (8) años todo
+miembro de la Junta, de los comités, funcionario, empleado o agente de una
+cooperativa y toda persona encargada de recibir, guardar, traspasar o desembolsar
+fondos de una cooperativa que realice uno o más de los siguientes actos:
+(a) …
+(b) …
+(c) …
+(d) …
+(e) …
+(f) …
+(g) …
+
+5
+(h) …
+(i) …
+(j) …
+(k) …
+Toda persona que no sea miembro de la Junta, de los comités ni funcionario
+ejecutivo, empleado o agente de una cooperativa que sea culpable de uno o más de los
+actos prohibidos en este Artículo, independientemente de si obtuvo o no lucro
+económico personal, será sancionada con la pena aquí dispuesta. La acción penal para
+los delitos dispuestos en este Artículo prescribirá a los diez (10) años.”
+Sección 4.– Se enmienda el Artículo 409 de la Ley Núm. 60 de 18 de junio de 1963,
+según enmendada, para que lea como sigue:
+“Artículo 409. – (Penalidades) –
+(a) Cualquier persona que voluntariamente viole cualquier disposición de
+esta Ley, excepto el Artículo 404, o que voluntariamente viole cualquier
+reglamento u orden promulgada de acuerdo con las disposiciones de esta Ley, o
+que voluntariamente viole el Artículo 404 sabiendo que la declaración hecha es
+falsa o engañosa en cualquier aspecto material, una vez fuere convicta será
+castigada con una multa que no será menor de quinientos (500) dólares ni mayor
+de diez mil (10,000) dólares, o con pena de reclusión por un término que no será
+menor de seis (6) meses ni mayor de cinco (5) años, o ambas penas. Ningún
+procedimiento podrá incoarse después de transcurridos diez (10) años de la
+alegada violación.
+(b) …
+(c) …
+(d) …”
+Sección 5.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED:  a u n i ( a A 8 d l L N.1 s c c “ P d P R r l.  o i d u p e p y s n o , m d f s l $ m m l q r u e n d q c 2 r E t d p P]
+[DELETED:  E e r C s l c e m n d.  e l ú a a p a s c v y. e e a $ m l q r p v d f s e 3 l r l p n e b a.  c s l u n d l e d f t s e e o q s c a a c p e c e o d o r o i l a d a c y.  y l f d r g (. E d p d m l p s d y p r c t y,t d l a i f y j E C d, , ,..]
+[DELETED:  e m mse p d s e e h o u f N l i y a n p d y d a a q m d ( o m E m.1 l f y t d m g c p f o A l v ( a e l d d a s i y a]
+[DELETED: S 2 S e e A 9 d l L N.2 s)I p u t f d s ( a t m d l J d)…)…)…)…)…)…)…)…)… 3 S e e A 9 d l L N 2 soc d l J d l c f e o a d u)…)…)…)…)…)…)…]
+[DELETED: )…)…)…)… p q n s m d l J d l c n f p e e A i d s o o n l)C L e e A 4 o q v v c o e e c a m u v f c s d s ( m n m d c ( a o a p N p i d d tsd ( a d l)…)…)…]

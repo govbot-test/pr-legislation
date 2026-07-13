@@ -1,0 +1,306 @@
+Title: Para crear la Ley “Programa Piloto de Centralización de Servicios para Personas con
+Official Title: Para crear la Ley “Programa Piloto de Centralización de Servicios para Personas con
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1260
+11 de mayo de 2026
+Presentado por el señor Colon La Santa
+Referido a:
+LEY
+Discapacidad”, mejor conocida como la “Ley CENTRA”, a los fines de establecer un
+programa piloto que centralice los servicios interagenciales del Gobierno de Puerto
+Rico dirigidos a personas con discapacidad, incluyendo aquellas diagnosticadas
+dentro del espectro autista, con el fin de facilitar su acceso y manejo eficiente de
+dichos servicios; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+En Puerto Rico, miles de personas viven con condiciones que constituyen algún tipo
+de discapacidad, incluyendo aquellas diagnosticadas dentro del Trastorno del Espectro
+Autista (TEA). Esta población frecuentemente enfrenta barreras significativas para
+acceder a los servicios que les ofrece el Gobierno, debido a la dispersión de
+responsabilidades entre agencias y la falta de mecanismos de coordinación efectiva.
+Actualmente, personas con discapacidad y sus familias deben visitar múltiples
+agencias, completar formularios duplicados, someter documentos varias veces, y
+navegar procesos burocráticos complejos para recibir los servicios a los que tienen
+derecho. Esta realidad no solo es ineficiente, sino que vulnera la dignidad de esta
+población.
+2
+Ante esto, es necesario crear un modelo centralizado, que permita agrupar los
+servicios de distintas agencias en un solo punto de contacto físico y/o virtual, con el
+propósito de brindar orientación, facilitar procesos y garantizar una experiencia digna,
+accesible y eficiente.
+Por tanto, mediante la creación de la “Ley CENTRA” se establecerá un programa
+piloto para centralizar los servicios gubernamentales dirigidos a personas con
+discapacidad, incluyendo individuos dentro del espectro autista, garantizando el
+principio de inclusión y equidad en la prestación de servicios.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá como la “Ley Centra – Programa Piloto de
+3 Centralización de Servicios para Personas con Discapacidad”.
+4 Artículo 2.- Declaración de Política Pública.
+5 El Senado de Puerto Rico reconoce la necesidad de establecer un sistema
+6 centralizado e interagencial de prestación de servicios gubernamentales para
+7 personas con discapacidad. Esta Ley establece como política pública promover la
+8 eficiencia, accesibilidad y coordinación entre agencias mediante modelos
+9 innovadores centrados en las necesidades de esta población.
+10 Artículo 3.- Definiciones.
+11 Los siguientes términos usados en esta Ley tendrán el significado que a
+12 continuación se expresa:
+13 (a) “Personas con discapacidad” — Toda persona que tiene un impedimento
+14 físico, mental o sensorial que limita sustancialmente una o más actividades
+3
+1 esenciales de la vida (tales como cuidar de sí mismo, realizar tareas manuales, ver,
+2 oír, comer, dormir, caminar, pararse, levantarse, doblarse, hablar, respirar, aprender,
+3 leer, concentrarse, pensar, comunicarse, trabajar o funciones corporales mayores
+4 como las del sistema inmunológico, digestivo, neurológico, entre otras); o que tiene
+5 un historial o récord medico de tal impedimento; en cumplimiento con los
+6 estándares establecidos en la Americans with Disabilities Act (ADA, 42, U.S.C. 12101
+7 et seq., según enmendada por la ADA Amendments Act del 2008) y las leyes de
+8 Puerto Rico, incluyendo la Ley Núm.. 44 de 2 de julio de 1985 (Ley para prohibir el
+9 discrimen contra personas con impedimentos físicos o mentales) y la Ley 238-2004
+10 (Carta de Derechos de las Personas con Impedimentos), según enmendadas. Se
+11 incluye específicamente impedimentos sensoriales que afecten sustancialmente la
+12 audición, visión, tacto, olfato o habla, así como condiciones como la obesidad
+13 mórbida cuando limite sustancialmente actividades principales de la vida. También
+14 incluye, pero no se limita, a personas con discapacidades visibles o invisibles, así
+15 como aquellas diagnosticadas con trastorno del espectro autista (TEA).
+16 (b) “Trastorno del Espectro Autista (TEA)” — Condición del neurodesarrollo
+17 caracterizada por desafíos en la comunicación social y patrones repetitivos de
+18 conducta, intereses o actividades. La manifestación del TEA varía ampliamente entre
+19 individuos, por lo que se utiliza el término “espectro”.
+20 (c) “Servicios Interagenciales” —Aquellos servicios provistos, coordinados o
+21 fiscalizados por múltiples agencias del Gobierno de Puerto Rico, tales como
+4
+1 evaluación médica, educativa, vocacional, psicológica, legal, ocupacional o de apoyo
+2 social, que están dirigidos a personas con discapacidad.
+3 (d) “Oficina Piloto” — Centro físico o virtual establecido como parte del Programa
+4 CENTRA, donde se centralizan servicios, orientación y trámites dirigidos a personas con
+5 diversidad funcional bajo este programa.
+6 (e) “Programa CENTRA” —Nombre corto para el “Programa Piloto de
+7 Centralización de Servicios para Personas con Discapacidad”, creado mediante esta
+8 Ley, bajo la coordinación de la Defensoría de las Personas con Impedimentos.
+9 (f) “Coordinación Interagencial” — Proceso mediante el cual dos o más
+10 agencias gubernamentales colaboran activamente para brindar servicios de manera
+11 integrada, continua y sin duplicidad a un beneficiario.
+12 Artículo 4.- Creación del Programa Piloto
+13 Se crea el Programa Piloto de Centralización de Servicios para Personas con
+14 Discapacidad (CENTRA), bajo la coordinación de la Defensoría de las Personas con
+15 Impedimentos (DPI), en conjunto con:
+16 (a) Departamento de la Familia
+17 (b) Departamento de Salud
+18 (c) Departamento de Educación
+19 (d) Administración de Rehabilitación Vocacional
+20 (e) Departamento del Trabajo y Recursos Humanos
+21 (f) Centro de Servicios al Conductor (CESCO)
+5
+1 (g) Oficina de Protección y Defensa de las Personas con Impedimentos de
+2 Puerto Rico.
+3 El programa establecerá, al menos, un centro piloto físico o virtual donde se
+4 brinde orientación, recepción de solicitudes y coordinación interagencial para la
+5 prestación de servicios dirigidos a personas con discapacidad.
+6 Artículo 5.- Funciones.
+7 El Programa CENTRA tendrá las siguientes funciones:
+8 (a) Servir como punto de entrada único para los servicios disponibles a
+9 personas con discapacidad.
+10 (b) Coordinar internamente con las agencias participantes la evaluación,
+11 canalización y seguimiento de solicitudes.
+12 (c) Proveer personal capacitado para trabajar con personas con discapacidad y
+13 en procesos interagenciales.
+14 (d) Utilizar plataformas tecnológicas para evitar duplicación de documentos y
+15 procesos.
+16 (e) Garantizar accesibilidad física, tecnológica y lingüística, conforme a la Ley
+17 ADA y otras disposiciones aplicables.
+18 (f) Establecer un sistema de evaluación de desempeño e informes periódicos
+19 de resultados.
+20 Artículo 6 – Duración del Programa Piloto.
+21 Este programa piloto tendrá una duración de dos (2) años desde la aprobación
+22 de esta Ley. La Defensoría de las Personas con Impedimentos rendirá un informe
+6
+1 ante la Asamblea Legislativa al cumplirse el primer año y al finalizar el segundo,
+2 incluyendo estadísticas, recomendaciones y un análisis de viabilidad para expandir
+3 el modelo a nivel isla.
+4 Artículo 7.- Presupuesto
+5 Para el año fiscal 2026-2027, las agencias participantes identificaran, dentro de
+6 sus presupuestos vigentes, recursos disponibles para lograr cumplir con los
+7 propósitos esbozados en esta Ley. A partir del año fiscal 2027-2028 las agencias
+8 concernidas realizarán las peticiones presupuestarias correspondientes para dar
+9 continuidad al Programa. Adicional a lo anterior, las agencias participantes deberán
+10 firmar un Memorando de Entendimiento (MOU, por sus siglas en inglés) que regule
+11 el uso de los fondos asignados, asegurando que estos estén alineados con los
+12 servicios y oficios que se ofrecerán a la población participante. Además, se podrán
+13 utilizar fondos federales existentes que estén disponibles para estos fines.
+14 Artículo 8.- Reglamentación
+15 Las agencias participantes deberán, en un término no mayor de ciento veinte
+16 (120) días desde la aprobación de esta Ley, adoptar la reglamentación necesaria para
+17 la ejecución del programa piloto, en coordinación con OPPI y PRITS.
+18 Artículo 7 – Vigencia.
+19 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3 ar L r d a p c d i a d d e a c e f d f s a y m e d ( E p f e b s p a l s q l o e G d a l d d p c d y s f d v m c f d s d v v y p b c p r l s a l q t E r n s e i s q v l d d e]
+[DELETED:  e e n c u m c q p a l p c l s g d a p c i i d d e a g e L s c c l “ C – P P d S d P R r l n d e u s e i d p d s g p c d E L e c p p p l a y c e a m m  s t u e e L t e s q a m o s q l s u o m a]
+[DELETED:  c p c t o f c m h o r m d t i e c c l s s e p l A A A d 2 y l l d d D d l P c I s e  S e i s q a s l v t o o h a c c c l o p n s l a p c d v o i a p d e l c s y p r d p m a d G d P R t c]
+[DELETED:  C C d s c s o y t d a p c d “ C — c p e “ P d “ I — P m e c d o mA]
+[DELETED:  O d P y D d l P c I d o r d s y c i p l S c p d e ú p l s d a C i c l a p l e]
+[DELETED:  p v r d p l c c l e e e L  A p d a f 2 l a r l p p c p d  u d l f a a q e e a c l]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1260
+11 de mayo de 2026
+Presentado por el señor Colon La Santa
+Referido a:
+LEY
+Para crear la Ley “Programa Piloto de Centralización de Servicios para Personas con
+Discapacidad”, mejor conocida como la “Ley CENTRA”, a los fines de establecer un
+programa piloto que centralice los servicios interagenciales del Gobierno de Puerto
+Rico dirigidos a personas con discapacidad, incluyendo aquellas diagnosticadas
+dentro del espectro autista, con el fin de facilitar su acceso y manejo eficiente de
+dichos servicios; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+En Puerto Rico, miles de personas viven con condiciones que constituyen algún tipo
+de discapacidad, incluyendo aquellas diagnosticadas dentro del Trastorno del Espectro
+Autista (TEA). Esta población frecuentemente enfrenta barreras significativas para
+acceder a los servicios que les ofrece el Gobierno, debido a la dispersión de
+responsabilidades entre agencias y la falta de mecanismos de coordinación efectiva.
+Actualmente, personas con discapacidad y sus familias deben visitar múltiples
+agencias, completar formularios duplicados, someter documentos varias veces, y
+navegar procesos burocráticos complejos para recibir los servicios a los que tienen
+derecho. Esta realidad no solo es ineficiente, sino que vulnera la dignidad de esta
+población.
+
+2
+Ante esto, es necesario crear un modelo centralizado, que permita agrupar los
+servicios de distintas agencias en un solo punto de contacto físico y/o virtual, con el
+propósito de brindar orientación, facilitar procesos y garantizar una experiencia digna,
+accesible y eficiente.
+Por tanto, mediante la creación de la “Ley CENTRA” se establecerá un programa
+piloto para centralizar los servicios gubernamentales dirigidos a personas con
+discapacidad, incluyendo individuos dentro del espectro autista, garantizando el
+principio de inclusión y equidad en la prestación de servicios.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá como la “Ley Centra – Programa Piloto de
+3 Centralización de Servicios para Personas con Discapacidad”.
+4 Artículo 2.- Declaración de Política Pública.
+5 El Senado de Puerto Rico reconoce la necesidad de establecer un sistema
+6 centralizado e interagencial de prestación de servicios gubernamentales para
+7 personas con discapacidad. Esta Ley establece como política pública promover la
+8 eficiencia, accesibilidad y coordinación entre agencias mediante modelos
+9 innovadores centrados en las necesidades de esta población.
+10 Artículo 3.- Definiciones.
+11 Los siguientes términos usados en esta Ley tendrán el significado que a
+12 continuación se expresa:
+13 (a) “Personas con discapacidad” — Toda persona que tiene un impedimento
+14 físico, mental o sensorial que limita sustancialmente una o más actividades
+
+3
+1 esenciales de la vida (tales como cuidar de sí mismo, realizar tareas manuales, ver,
+2 oír, comer, dormir, caminar, pararse, levantarse, doblarse, hablar, respirar, aprender,
+3 leer, concentrarse, pensar, comunicarse, trabajar o funciones corporales mayores
+4 como las del sistema inmunológico, digestivo, neurológico, entre otras); o que tiene
+5 un historial o récord medico de tal impedimento; en cumplimiento con los
+6 estándares establecidos en la Americans with Disabilities Act (ADA, 42, U.S.C. 12101
+7 et seq., según enmendada por la ADA Amendments Act del 2008) y las leyes de
+8 Puerto Rico, incluyendo la Ley Núm.. 44 de 2 de julio de 1985 (Ley para prohibir el
+9 discrimen contra personas con impedimentos físicos o mentales) y la Ley 238-2004
+10 (Carta de Derechos de las Personas con Impedimentos), según enmendadas. Se
+11 incluye específicamente impedimentos sensoriales que afecten sustancialmente la
+12 audición, visión, tacto, olfato o habla, así como condiciones como la obesidad
+13 mórbida cuando limite sustancialmente actividades principales de la vida. También
+14 incluye, pero no se limita, a personas con discapacidades visibles o invisibles, así
+15 como aquellas diagnosticadas con trastorno del espectro autista (TEA).
+16 (b) “Trastorno del Espectro Autista (TEA)” — Condición del neurodesarrollo
+17 caracterizada por desafíos en la comunicación social y patrones repetitivos de
+18 conducta, intereses o actividades. La manifestación del TEA varía ampliamente entre
+19 individuos, por lo que se utiliza el término “espectro”.
+20 (c) “Servicios Interagenciales” —Aquellos servicios provistos, coordinados o
+21 fiscalizados por múltiples agencias del Gobierno de Puerto Rico, tales como
+
+4
+1 evaluación médica, educativa, vocacional, psicológica, legal, ocupacional o de apoyo
+2 social, que están dirigidos a personas con discapacidad.
+3 (d) “Oficina Piloto” — Centro físico o virtual establecido como parte del Programa
+4 CENTRA, donde se centralizan servicios, orientación y trámites dirigidos a personas con
+5 diversidad funcional bajo este programa.
+6 (e) “Programa CENTRA” —Nombre corto para el “Programa Piloto de
+7 Centralización de Servicios para Personas con Discapacidad”, creado mediante esta
+8 Ley, bajo la coordinación de la Defensoría de las Personas con Impedimentos.
+9 (f) “Coordinación Interagencial” — Proceso mediante el cual dos o más
+10 agencias gubernamentales colaboran activamente para brindar servicios de manera
+11 integrada, continua y sin duplicidad a un beneficiario.
+12 Artículo 4.- Creación del Programa Piloto
+13 Se crea el Programa Piloto de Centralización de Servicios para Personas con
+14 Discapacidad (CENTRA), bajo la coordinación de la Defensoría de las Personas con
+15 Impedimentos (DPI), en conjunto con:
+16 (a) Departamento de la Familia
+17 (b) Departamento de Salud
+18 (c) Departamento de Educación
+19 (d) Administración de Rehabilitación Vocacional
+20 (e) Departamento del Trabajo y Recursos Humanos
+21 (f) Centro de Servicios al Conductor (CESCO)
+
+5
+1 (g) Oficina de Protección y Defensa de las Personas con Impedimentos de
+2 Puerto Rico.
+3 El programa establecerá, al menos, un centro piloto físico o virtual donde se
+4 brinde orientación, recepción de solicitudes y coordinación interagencial para la
+5 prestación de servicios dirigidos a personas con discapacidad.
+6 Artículo 5.- Funciones.
+7 El Programa CENTRA tendrá las siguientes funciones:
+8 (a) Servir como punto de entrada único para los servicios disponibles a
+9 personas con discapacidad.
+10 (b) Coordinar internamente con las agencias participantes la evaluación,
+11 canalización y seguimiento de solicitudes.
+12 (c) Proveer personal capacitado para trabajar con personas con discapacidad y
+13 en procesos interagenciales.
+14 (d) Utilizar plataformas tecnológicas para evitar duplicación de documentos y
+15 procesos.
+16 (e) Garantizar accesibilidad física, tecnológica y lingüística, conforme a la Ley
+17 ADA y otras disposiciones aplicables.
+18 (f) Establecer un sistema de evaluación de desempeño e informes periódicos
+19 de resultados.
+20 Artículo 6 – Duración del Programa Piloto.
+21 Este programa piloto tendrá una duración de dos (2) años desde la aprobación
+22 de esta Ley. La Defensoría de las Personas con Impedimentos rendirá un informe
+
+6
+1 ante la Asamblea Legislativa al cumplirse el primer año y al finalizar el segundo,
+2 incluyendo estadísticas, recomendaciones y un análisis de viabilidad para expandir
+3 el modelo a nivel isla.
+4 Artículo 7.- Presupuesto
+5 Para el año fiscal 2026-2027, las agencias participantes identificaran, dentro de
+6 sus presupuestos vigentes, recursos disponibles para lograr cumplir con los
+7 propósitos esbozados en esta Ley. A partir del año fiscal 2027-2028 las agencias
+8 concernidas realizarán las peticiones presupuestarias correspondientes para dar
+9 continuidad al Programa. Adicional a lo anterior, las agencias participantes deberán
+10 firmar un Memorando de Entendimiento (MOU, por sus siglas en inglés) que regule
+11 el uso de los fondos asignados, asegurando que estos estén alineados con los
+12 servicios y oficios que se ofrecerán a la población participante. Además, se podrán
+13 utilizar fondos federales existentes que estén disponibles para estos fines.
+14 Artículo 8.- Reglamentación
+15 Las agencias participantes deberán, en un término no mayor de ciento veinte
+16 (120) días desde la aprobación de esta Ley, adoptar la reglamentación necesaria para
+17 la ejecución del programa piloto, en coordinación con OPPI y PRITS.
+18 Artículo 7 – Vigencia.
+19 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 ar L r d a p c d i a d d e a c e f d f s a y m e d ( E p f e b s p a l s q l o e G d a l d d p c d y s f d v m c f d s d v v y p b c p r l s a l q t E r n s e i s q v l d d e]
+[DELETED:  e e n c u m c q p a l p c l s g d a p c i i d d e a g e L s c c l “ C – P P d S d P R r l n d e u s e i d p d s g p c d E L e c p p p l a y c e a m m  s t u e e L t e s q a m o s q l s u o m a]
+[DELETED:  c p c t o f c m h o r m d t i e c c l s s e p l A A A d 2 y l l d d D d l P c I s e  S e i s q a s l v t o o h a c c c l o p n s l a p c d v o i a p d e l c s y p r d p m a d G d P R t c]
+[DELETED:  C C d s c s o y t d a p c d “ C — c p e “ P d “ I — P m e c d o mA]
+[DELETED:  O d P y D d l P c I d o r d s y c i p l S c p d e ú p l s d a C i c l a p l e]
+[DELETED:  p v r d p l c c l e e e L  A p d a f 2 l a r l p p c p d  u d l f a a q e e a c l]

@@ -1,0 +1,508 @@
+Title: Presentado por la señora Santiago Negrón y el señor González Costa
+Official Title: Presentado por la señora Santiago Negrón y el señor González Costa
+Number of Sections: 2
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1320
+15 de junio de 2026
+Referido a la Comisión de
+LEY
+Para establecer la “Ley del derecho a la desconexión digital”, con el fin de reconocer a
+toda persona empleada su derecho a la desconexión de comunicaciones electrónicas
+relacionadas con su empleo fuera de horas laborales; y para establecer otras
+disposiciones complementarias.
+EXPOSICIÓN DE MOTIVOS
+El Gobierno de Puerto Rico tiene como política pública respetar y garantizar los
+derechos consagrados en la Declaración Universal de Derechos Humanos, adoptada por
+la Asamblea General de la Organización de las Naciones Unidas el 10 de diciembre de
+
+Section 2:
+1948. El Artículo 12 de dicho instrumento internacional, que es norma imperativa entre
+el cuerpo de normas del derecho internacional consuetudinario, establece que “[n]adie
+será objeto de injerencias arbitrarias en su vida privada, ni su familia, ni cualquier
+entidad, ni de ataques a su honra o su reputación. Toda persona tiene derecho a la
+protección de la ley contra tales injerencias o ataques”. La Constitución de Puerto Rico
+recoge expresamente este derecho en la Sección 8 del Artículo II al disponer que “[t]oda
+persona tiene derecho a protección de ley contra ataques abusivos a su honra, a su
+reputación y a su vida privada o familiar”.
+2
+El desarrollo de nuevas tecnologías ha alterado la manera en la que nos
+relacionamos los seres humanos. Ese cambio ha afectado significativamente el ámbito
+laboral. Hasta hace algunas décadas, la gran mayoría de la fuerza laboral realizaba sus
+labores dentro de un tiempo determinado y en un lugar específico. La jornada laboral
+de ocho (8) horas diarias fue una de las grandes conquistas obtenidas con el esfuerzo y
+el sudor de la clase trabajadora. Ésta ayudó a reducir la explotación de la persona
+empleada y a mejorar sus condiciones de vida dentro y fuera de su empleo.
+En el mundo actual, la popularidad de dispositivos electrónicos portátiles ha
+reducido la línea tajante entre nuestra vida privada y nuestro empleo. La posibilidad de
+comunicarse con una persona en cualquier parte del mundo a cualquier hora del día ya
+no es una idea abstracta, sino una realidad cotidiana que requiere analizar
+cuidadosamente medidas para proteger la vida privada de la ciudadanía de presiones
+indebidas por parte de sus patronos.
+Particularmente a raíz de la pandemia suscitada por la propagación del
+Coronavirus (COVID–19), y el aumento exponencial en el trabajo remoto engendrado
+en ese contexto, se ha desdibujado como nunca la frontera entre el horario de trabajo y
+el tiempo personal y familiar. Muchos patronos presumen que la disponibilidad
+inmediata y permanente que supone la red de telecomunicaciones implica que el
+personal de trabajo debe estar disponible para atender asuntos laborales
+ininterrumpidamente, creándose circunstancias de potencial explotación no
+contempladas en la Ley. De no actuar prontamente para reglamentar este aspecto del
+teletrabajo, continuaría la precarización de la clase trabajadora al sometérsele
+injustamente al arbitrio de su patrono las veinticuatro horas del día.
+En reconocimiento de este nuevo escenario, otros países han adoptado políticas
+públicas para proteger la intimidad de la persona empleada fuera de sus horas
+laborables. Así surgió lo que ha comenzado a denominarse como “derecho a la
+desconexión digital”. Este derecho busca proteger la facultad de las personas de
+desconectarse de su empleo, reconociéndoles primordialmente la potestad de negarse a
+responder a comunicaciones electrónicas relacionadas con su empleo fuera de horas
+3
+laborables. En 2017, Francia convirtió en ley el derecho a la desconexión digital que su
+Corte Suprema ya había reconocido desde 2004. Con el fin de atemperar su ley
+doméstica a directrices de la Unión Europea, en diciembre de 2018 España incorporó el
+derecho a la desconexión digital en el Artículo 88 de su Ley Orgánica de Protección de
+Datos Personales y Garantía de los Derechos Digitales. Otros países también evalúan
+reconocer estatutariamente este derecho y han introducido proyectos de ley a esos
+efectos. Tal es el caso de Italia y Filipinas. Asimismo, aun sin legislación aplicable,
+algunas compañías multinacionales han comenzado a establecer políticas internas para
+proteger el derecho a la desconexión digital.
+La importancia de respetar el derecho a la desconexión digital de la clase obrera
+aplica igualmente en la esfera pública. Cuando el Gobierno de Puerto Rico actúa como
+patrono, tiene la obligación de respetar el espacio íntimo del personal que labora
+diariamente para ofrecer servicios de calidad a nuestra ciudadanía. Con esta medida
+hacemos justicia a estas personas, a la vez que establecemos las excepciones necesarias
+para salvaguardar la seguridad y la salud de nuestro pueblo.
+Con el propósito de hacer cumplir la política pública referida, la Asamblea
+Legislativa reconoce estatutariamente en Puerto Rico el derecho a la desconexión digital
+como corolario del derecho a la intimidad protegido por el derecho internacional y por
+nuestra Constitución, y del derecho a no ser obligada a trabajar en exceso de la jornada
+laboral ordinaria.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se denomina “Ley del derecho a la desconexión digital”.
+3 Artículo 2.- Declaración de Política Pública
+4 Es política pública del Gobierno de Puerto Rico respetar y garantizar los
+5 derechos consagrados en la Declaración Universal de Derechos Humanos, adoptada por
+4
+1 la Asamblea General de la Organización de las Naciones Unidas el 10 de diciembre de
+2 1948. El Artículo 12 de dicho instrumento internacional, que es norma imperativa entre
+3 el cuerpo de normas del derecho internacional consuetudinario, establece que “[n]adie
+4 será objeto de injerencias arbitrarias en su vida privada, ni su familia, ni cualquier
+5 entidad, ni de ataques a su honra o su reputación. Toda persona tiene derecho a la
+6 protección de la ley contra tales injerencias o ataques”. La Constitución de Puerto Rico
+7 recoge expresamente este derecho en la Sección 8 del Artículo II al disponer que “[t]oda
+8 persona tiene derecho a protección de ley contra ataques abusivos a su honra, a su
+9 reputación y a su vida privada o familiar”.
+10 En vista del impacto significativo que ha tenido el desarrollo de nuevas
+11 tecnologías en el área de las comunicaciones sobre el balance necesario entre la vida
+12 laboral y la vida privada de una persona empleada, corrientes modernas a través del
+13 mundo han comenzado a reconocer la importancia de salvaguardar el derecho a la
+14 desconexión digital. Con el propósito de hacer cumplir la política pública referida, es
+15 necesario reconocer estatutariamente en Puerto Rico el derecho a la desconexión digital
+16 como corolario del derecho a la intimidad protegido por el derecho internacional y por
+17 nuestra Constitución.
+18 Artículo 3.- Definiciones
+19 Para los fines de esta Ley, las siguientes palabras y frases tendrán el significado
+20 señalado a continuación:
+5
+1 a) Comunicaciones electrónicas – Cualquier correo electrónico, mensaje de texto,
+2 videollamada, información o comunicación cursada telemáticamente a través
+3 de medios digitales o electrónicos.
+4 b) Emergencia — Evento serio y repentino, o un cambio imprevisto de
+5 circunstancias, que requiere acción inmediata para prevenir, controlar o
+6 remediar un daño inminente.
+7 c) Persona Empleada — Toda persona que trabaje para cualquier agencia,
+8 corporación, municipio, instrumentalidad o subdivisión política de cualquier
+9 rama del Gobierno de Puerto Rico que emplee o permita trabajar a cualquier
+10 persona mediante compensación, así como para cualquier patrono en la
+11 empresa privada, y que reciba compensación por sus servicios. No incluye a
+12 contratistas independientes.
+13 d) Patrono — Toda persona natural o jurídica que emplee o permita trabajar a
+14 cualquier persona empleada mediante compensación.
+15 e) Represalia — Cualquier amenaza, amonestación, descenso, despido,
+16 suspensión, reducción de horas laborables, o cualquier otra acción de empleo
+17 adversa contra una persona empleada por haber ejercido, o intentado ejercer,
+18 cualquier derecho reconocido por esta Ley.
+19 Artículo 4.- Derecho a la desconexión digital
+20 Ningún patrono podrá requerir a una persona empleada que acceda o responda
+21 a comunicaciones electrónicas relacionadas con el empleo fuera de horas laborables,
+22 excepto en caso de emergencia, sean dichas comunicaciones generadas por el propio
+6
+1 patrono o sus subalternos, supervisores, clientes, contratistas o cualquier otra persona
+2 intermediaria. Esto incluye el derecho a desconectarse de geolocalizadores,
+3 comúnmente conocidos como “GPS” por sus siglas en inglés.
+4 Artículo 5.- Política sobre uso de dispositivos electrónicos
+5 Todo patrono adoptará una política escrita sobre el uso de dispositivos
+6 electrónicos para enviar y recibir correos electrónicos, mensajes de texto o cualquier otra
+7 comunicación digital relacionada con el empleo durante horas no laborables por parte
+8 de sus personas empleadas. Dicha política incluirá:
+9 (a) El horario de trabajo para cada clase de persona empleada por el patrono; y
+10 (b) Las categorías de tiempo libre bajo compensación, incluyendo, pero sin
+11 limitarse a, días de vacaciones y enfermedad a los que tenga derecho la
+12 persona empleada. El uso de dicho tiempo libre bajo compensación se
+13 considerará tiempo no laborable para efectos de esta Ley.
+14 Artículo 6.- Excepciones
+15 Esta Ley no aplicará a personas empleadas de confianza en el Gobierno de
+16 Puerto Rico ni a aquellas personas empleadas cuyos términos de empleo les requieran
+17 estar disponibles veinticuatro (24) horas al día en los días en que trabajen, en cuyo caso
+18 sólo aplicará en los días libres de dichas personas empleadas, incluido su tiempo libre
+19 bajo compensación. Tampoco aplicará a ninguna persona empleada que ofrezca
+20 servicios directos de salud o de emergencia en un hospital, o institución análoga, o en
+21 cualquier agencia de seguridad pública comprendida en la Ley Núm. 20-2017, según
+7
+1 enmendada, mejor conocida como la “Ley del Departamento de Seguridad Pública de
+2 Puerto Rico”.
+3 Artículo 7.- Derecho a presentar querellas
+4 Toda persona empleada que alegue una violación de su derecho a la desconexión
+5 al amparo de esta Ley tendrá derecho a presentar una querella en el Departamento del
+6 Trabajo y Recursos Humanos. El Secretario o Secretaria del Departamento establecerá
+7 por reglamento el proceso administrativo mediante el cual se tramitarán las querellas
+8 presentadas, el cual deberá cumplir con la Ley Núm. 38-2017, según enmendada, mejor
+9 conocida como la “Ley de Procedimiento Administrativo Uniforme”, siempre que no
+10 conflija con lo dispuesto en esta Ley.
+11 Artículo 8.- Prohibición de represalias e interferencias
+12 Ningún patrono podrá tomar represalias, o amenazar con tomarlas, contra una
+13 persona empleada por ésta haber ejercido, o intentado ejercer, cualquier derecho
+14 reconocido por esta Ley, ni interferir con ninguna investigación, procedimiento o vista
+15 realizada al amparo de esta.
+16 Artículo 9.- Notificación de derechos
+17 Todo patrono deberá proveer a toda persona empleada nueva, al comenzar su
+18 empleo, y a toda persona empleada actual, dentro de sesenta (60) días de haber entrado
+19 en vigor esta Ley, notificación escrita en español e inglés acerca de su derecho a la
+20 desconexión al amparo de esta Ley, así como de su derecho a que el patrono no tome
+21 represalias en su contra por ejercer su derecho y a presentar una querella ante el
+22 Departamento del Trabajo y Recursos Humanos en caso de violación. En lugar de
+8
+1 proveer dicha notificación a cada persona empleada, el patrono podrá optar por colocar
+2 de forma conspicua la notificación en el lugar del empleo del patrono, en un área
+3 accesible a los empleados.
+4 Cualquier persona o entidad que viole intencionalmente los requisitos de
+5 notificación establecidos en este Artículo estará sujeta a una multa administrativa de
+6 hasta quinientos dólares ($500) por cada persona empleada a la que no se le haya
+7 notificado adecuadamente.
+8 Artículo 10.- Penalidades
+9 El Departamento del Trabajo y Recursos Humanos pondrá en vigor las
+10 disposiciones de esta Ley. Al hacerlo, deberá establecer un sistema que utilice múltiples
+11 medios de comunicación para recibir querellas relacionadas con el incumplimiento de
+12 esta Ley e investigar prontamente las querellas recibidas por el Departamento.
+13 Toda persona que alegue una violación a esta Ley tendrá derecho a presentar
+14 una querella ante el Departamento del Trabajo y Recursos Humanos dentro del término
+15 de un (1) año desde el momento en que la persona supo, o debió saber, de la violación
+16 alegada. El Departamento mantendrá confidencial la identidad de toda persona
+17 querellante a menos que la divulgación de la identidad de dicha persona querellante sea
+18 necesaria para resolver la investigación o sea requerida por ley, en cuyo caso el
+19 Departamento deberá notificarle a la persona querellante que su identidad será
+20 divulgada.
+21 El Departamento del Trabajo y Recursos Humanos tendrá facultad para imponer
+22 las multas establecidas en esta Ley y para conceder a toda persona empleada o
+9
+1 exempleada un remedio adecuado. Dicho remedio deberá incluir, como mínimo, lo
+2 siguiente:
+3 (1) Por cada instancia en que se le requiera a una persona empleada acceder a
+4 comunicaciones electrónicas relacionadas con su empleo, quinientos dólares
+5 ($500) de compensación;
+6 (2) Por cada instancia de represalia ilegal que no conlleve despido, compensación
+7 completa de salarios y beneficios dejados de percibir; y
+8 (3) Por cada instancia de despido injustificado del empleo, compensación completa
+9 de salarios y beneficios dejados de percibir y el derecho a ser reinstalado en su
+10 puesto.
+11 Nada de lo dispuesto anteriormente se entenderá como una limitación al derecho
+12 de la persona afectada a reclamar resarcimiento por los daños y perjuicios ocasionados
+13 por actos del patrono en violación de esta Ley.
+14 Cualquier entidad o persona que sea hallada en violación de las disposiciones de
+15 esta Ley pagará al Gobierno de Puerto Rico una multa administrativa a determinarse
+16 conforme a los siguientes parámetros:
+17 (1) De no menos de quinientos dólares ($500) por la primera violación;
+18 (2) De no menos de setecientos cincuenta dólares ($750) por violaciones
+19 subsiguientes que ocurran dentro de dos (2) años de la primera; y
+20 (3) De no menos de mil dólares ($1,000) por cada violación subsiguiente.
+21 Los mínimos establecidos en el párrafo precedente no limitarán la autoridad del
+22 Departamento de imponer una multa administrativa mayor si así lo determinara
+10
+1 adecuado, conforme a lo establecido en la Sección 7.1 de la Ley Núm. 38-2017, según
+2 enmendada.
+3 El Departamento deberá informar anualmente en su página de internet el
+4 número y la naturaleza de las querellas recibidas; los resultados de las investigaciones
+5 realizadas, incluyendo el número de querellas sin fundamento y el número de
+6 notificaciones de violación emitidas; el número y la naturaleza de las adjudicaciones; y
+7 el tiempo promedio que toma resolver una querella presentada al amparo de esta Ley.
+8 Artículo 11.- Cláusula de separabilidad
+9 Si alguna de las disposiciones de esta Ley o su aplicación fuere declarada
+10 inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la ejecutabilidad
+11 y vigor de las restantes disposiciones que no hayan sido objeto de dictamen adverso.
+12 Artículo 12.- Cláusula de vigencia
+13 Esta Ley comenzará a regir inmediatamente luego de su aprobación.
+[DELETED:  Aa3 S.r L  ay G c s e f d h l y p e o o d i a e s v p n s f n c n d a a s h o s r T p t d a l t d a p d l c a a a s h a s]
+[DELETED:  d d n t h a l m e l q n s d l c t É a a r l e d l p e m a l p d d e p h e u i a s u r c q r a a r d l p s p l p d t p y f M p p q l d y p q s l r d t i q e d t d e d p a a l c c d p e n c l p d l c t a s p p l i d l p e f d s h A s l q h c a d c “ a l d E d b p l f d l p d a c e r c s e f d h]
+[DELETED:  S y h r d 2 C e f d a s l e e d y h i p d l a e T e e c d I y F A a s l a t l o d r e e í d p q l e p d h c l p p r l AAEAE p p d G d P R r y g l]
+[DELETED:  o d i a e s v p n s f n c n d a a s h o s r T p t d a l t d a p d l c a a a s h a sE v d i s q h t e d d n h c a r l i d s e d a lAP]
+[DELETED: )C)E — E s y r o u c i d q r a i p p c o)P E — T p q t p c a m c a c p c p e l)P)R — C a a d dA c e r c e e f d h l]
+[DELETED:  E i e d a d d gAT p a u p e s e u d d)E)L c d t l b c i p s a d d v y e a l q t d l e E u d d t l b c s L n a a p e d c e e G d c T a a n p e q o]
+[DELETED:  e p é h e o i e c d)d  v e L n e e e e i a d s d a l e s c p e s d y a p u q a e d T y R H e c d v E l d]
+[DELETED:  f c l n e e l d e d p e u á p o e q v i l r d q d ( p c p e a l q n s l h D d T y R H p e v l E D m c l i d t p p r l i o s r p l e c c e d n a l p q q s i s m e e e L y p c a t p e o]
+[DELETED:  u r a D r d i c m l)P c i e q s l r a u p e a a e r c s e q d)P)P)D)D n m d s c d ( p v)D d i u m a m s a l d]
+[DELETED:  D d i a e s p d i e i e n d q s f y e n d a d l d d e L o s a f d.C]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1320
+15 de junio de 2026
+Presentado por la señora Santiago Negrón y el señor González Costa
+Referido a la Comisión de
+LEY
+Para establecer la “Ley del derecho a la desconexión digital”, con el fin de reconocer a
+toda persona empleada su derecho a la desconexión de comunicaciones electrónicas
+relacionadas con su empleo fuera de horas laborales; y para establecer otras
+disposiciones complementarias.
+EXPOSICIÓN DE MOTIVOS
+El Gobierno de Puerto Rico tiene como política pública respetar y garantizar los
+derechos consagrados en la Declaración Universal de Derechos Humanos, adoptada por
+la Asamblea General de la Organización de las Naciones Unidas el 10 de diciembre de
+1948. El Artículo 12 de dicho instrumento internacional, que es norma imperativa entre
+el cuerpo de normas del derecho internacional consuetudinario, establece que “[n]adie
+será objeto de injerencias arbitrarias en su vida privada, ni su familia, ni cualquier
+entidad, ni de ataques a su honra o su reputación. Toda persona tiene derecho a la
+protección de la ley contra tales injerencias o ataques”. La Constitución de Puerto Rico
+recoge expresamente este derecho en la Sección 8 del Artículo II al disponer que “[t]oda
+persona tiene derecho a protección de ley contra ataques abusivos a su honra, a su
+reputación y a su vida privada o familiar”.
+
+2
+El desarrollo de nuevas tecnologías ha alterado la manera en la que nos
+relacionamos los seres humanos. Ese cambio ha afectado significativamente el ámbito
+laboral. Hasta hace algunas décadas, la gran mayoría de la fuerza laboral realizaba sus
+labores dentro de un tiempo determinado y en un lugar específico. La jornada laboral
+de ocho (8) horas diarias fue una de las grandes conquistas obtenidas con el esfuerzo y
+el sudor de la clase trabajadora. Ésta ayudó a reducir la explotación de la persona
+empleada y a mejorar sus condiciones de vida dentro y fuera de su empleo.
+En el mundo actual, la popularidad de dispositivos electrónicos portátiles ha
+reducido la línea tajante entre nuestra vida privada y nuestro empleo. La posibilidad de
+comunicarse con una persona en cualquier parte del mundo a cualquier hora del día ya
+no es una idea abstracta, sino una realidad cotidiana que requiere analizar
+cuidadosamente medidas para proteger la vida privada de la ciudadanía de presiones
+indebidas por parte de sus patronos.
+Particularmente a raíz de la pandemia suscitada por la propagación del
+Coronavirus (COVID–19), y el aumento exponencial en el trabajo remoto engendrado
+en ese contexto, se ha desdibujado como nunca la frontera entre el horario de trabajo y
+el tiempo personal y familiar. Muchos patronos presumen que la disponibilidad
+inmediata y permanente que supone la red de telecomunicaciones implica que el
+personal de trabajo debe estar disponible para atender asuntos laborales
+ininterrumpidamente, creándose circunstancias de potencial explotación no
+contempladas en la Ley. De no actuar prontamente para reglamentar este aspecto del
+teletrabajo, continuaría la precarización de la clase trabajadora al sometérsele
+injustamente al arbitrio de su patrono las veinticuatro horas del día.
+En reconocimiento de este nuevo escenario, otros países han adoptado políticas
+públicas para proteger la intimidad de la persona empleada fuera de sus horas
+laborables. Así surgió lo que ha comenzado a denominarse como “derecho a la
+desconexión digital”. Este derecho busca proteger la facultad de las personas de
+desconectarse de su empleo, reconociéndoles primordialmente la potestad de negarse a
+responder a comunicaciones electrónicas relacionadas con su empleo fuera de horas
+
+3
+laborables. En 2017, Francia convirtió en ley el derecho a la desconexión digital que su
+Corte Suprema ya había reconocido desde 2004. Con el fin de atemperar su ley
+doméstica a directrices de la Unión Europea, en diciembre de 2018 España incorporó el
+derecho a la desconexión digital en el Artículo 88 de su Ley Orgánica de Protección de
+Datos Personales y Garantía de los Derechos Digitales. Otros países también evalúan
+reconocer estatutariamente este derecho y han introducido proyectos de ley a esos
+efectos. Tal es el caso de Italia y Filipinas. Asimismo, aun sin legislación aplicable,
+algunas compañías multinacionales han comenzado a establecer políticas internas para
+proteger el derecho a la desconexión digital.
+La importancia de respetar el derecho a la desconexión digital de la clase obrera
+aplica igualmente en la esfera pública. Cuando el Gobierno de Puerto Rico actúa como
+patrono, tiene la obligación de respetar el espacio íntimo del personal que labora
+diariamente para ofrecer servicios de calidad a nuestra ciudadanía. Con esta medida
+hacemos justicia a estas personas, a la vez que establecemos las excepciones necesarias
+para salvaguardar la seguridad y la salud de nuestro pueblo.
+Con el propósito de hacer cumplir la política pública referida, la Asamblea
+Legislativa reconoce estatutariamente en Puerto Rico el derecho a la desconexión digital
+como corolario del derecho a la intimidad protegido por el derecho internacional y por
+nuestra Constitución, y del derecho a no ser obligada a trabajar en exceso de la jornada
+laboral ordinaria.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se denomina “Ley del derecho a la desconexión digital”.
+3 Artículo 2.- Declaración de Política Pública
+4 Es política pública del Gobierno de Puerto Rico respetar y garantizar los
+5 derechos consagrados en la Declaración Universal de Derechos Humanos, adoptada por
+
+4
+1 la Asamblea General de la Organización de las Naciones Unidas el 10 de diciembre de
+2 1948. El Artículo 12 de dicho instrumento internacional, que es norma imperativa entre
+3 el cuerpo de normas del derecho internacional consuetudinario, establece que “[n]adie
+4 será objeto de injerencias arbitrarias en su vida privada, ni su familia, ni cualquier
+5 entidad, ni de ataques a su honra o su reputación. Toda persona tiene derecho a la
+6 protección de la ley contra tales injerencias o ataques”. La Constitución de Puerto Rico
+7 recoge expresamente este derecho en la Sección 8 del Artículo II al disponer que “[t]oda
+8 persona tiene derecho a protección de ley contra ataques abusivos a su honra, a su
+9 reputación y a su vida privada o familiar”.
+10 En vista del impacto significativo que ha tenido el desarrollo de nuevas
+11 tecnologías en el área de las comunicaciones sobre el balance necesario entre la vida
+12 laboral y la vida privada de una persona empleada, corrientes modernas a través del
+13 mundo han comenzado a reconocer la importancia de salvaguardar el derecho a la
+14 desconexión digital. Con el propósito de hacer cumplir la política pública referida, es
+15 necesario reconocer estatutariamente en Puerto Rico el derecho a la desconexión digital
+16 como corolario del derecho a la intimidad protegido por el derecho internacional y por
+17 nuestra Constitución.
+18 Artículo 3.- Definiciones
+19 Para los fines de esta Ley, las siguientes palabras y frases tendrán el significado
+20 señalado a continuación:
+
+5
+1 a) Comunicaciones electrónicas – Cualquier correo electrónico, mensaje de texto,
+2 videollamada, información o comunicación cursada telemáticamente a través
+3 de medios digitales o electrónicos.
+4 b) Emergencia — Evento serio y repentino, o un cambio imprevisto de
+5 circunstancias, que requiere acción inmediata para prevenir, controlar o
+6 remediar un daño inminente.
+7 c) Persona Empleada — Toda persona que trabaje para cualquier agencia,
+8 corporación, municipio, instrumentalidad o subdivisión política de cualquier
+9 rama del Gobierno de Puerto Rico que emplee o permita trabajar a cualquier
+10 persona mediante compensación, así como para cualquier patrono en la
+11 empresa privada, y que reciba compensación por sus servicios. No incluye a
+12 contratistas independientes.
+13 d) Patrono — Toda persona natural o jurídica que emplee o permita trabajar a
+14 cualquier persona empleada mediante compensación.
+15 e) Represalia — Cualquier amenaza, amonestación, descenso, despido,
+16 suspensión, reducción de horas laborables, o cualquier otra acción de empleo
+17 adversa contra una persona empleada por haber ejercido, o intentado ejercer,
+18 cualquier derecho reconocido por esta Ley.
+19 Artículo 4.- Derecho a la desconexión digital
+20 Ningún patrono podrá requerir a una persona empleada que acceda o responda
+21 a comunicaciones electrónicas relacionadas con el empleo fuera de horas laborables,
+22 excepto en caso de emergencia, sean dichas comunicaciones generadas por el propio
+
+6
+1 patrono o sus subalternos, supervisores, clientes, contratistas o cualquier otra persona
+2 intermediaria. Esto incluye el derecho a desconectarse de geolocalizadores,
+3 comúnmente conocidos como “GPS” por sus siglas en inglés.
+4 Artículo 5.- Política sobre uso de dispositivos electrónicos
+5 Todo patrono adoptará una política escrita sobre el uso de dispositivos
+6 electrónicos para enviar y recibir correos electrónicos, mensajes de texto o cualquier otra
+7 comunicación digital relacionada con el empleo durante horas no laborables por parte
+8 de sus personas empleadas. Dicha política incluirá:
+9 (a) El horario de trabajo para cada clase de persona empleada por el patrono; y
+10 (b) Las categorías de tiempo libre bajo compensación, incluyendo, pero sin
+11 limitarse a, días de vacaciones y enfermedad a los que tenga derecho la
+12 persona empleada. El uso de dicho tiempo libre bajo compensación se
+13 considerará tiempo no laborable para efectos de esta Ley.
+14 Artículo 6.- Excepciones
+15 Esta Ley no aplicará a personas empleadas de confianza en el Gobierno de
+16 Puerto Rico ni a aquellas personas empleadas cuyos términos de empleo les requieran
+17 estar disponibles veinticuatro (24) horas al día en los días en que trabajen, en cuyo caso
+18 sólo aplicará en los días libres de dichas personas empleadas, incluido su tiempo libre
+19 bajo compensación. Tampoco aplicará a ninguna persona empleada que ofrezca
+20 servicios directos de salud o de emergencia en un hospital, o institución análoga, o en
+21 cualquier agencia de seguridad pública comprendida en la Ley Núm. 20-2017, según
+
+7
+1 enmendada, mejor conocida como la “Ley del Departamento de Seguridad Pública de
+2 Puerto Rico”.
+3 Artículo 7.- Derecho a presentar querellas
+4 Toda persona empleada que alegue una violación de su derecho a la desconexión
+5 al amparo de esta Ley tendrá derecho a presentar una querella en el Departamento del
+6 Trabajo y Recursos Humanos. El Secretario o Secretaria del Departamento establecerá
+7 por reglamento el proceso administrativo mediante el cual se tramitarán las querellas
+8 presentadas, el cual deberá cumplir con la Ley Núm. 38-2017, según enmendada, mejor
+9 conocida como la “Ley de Procedimiento Administrativo Uniforme”, siempre que no
+10 conflija con lo dispuesto en esta Ley.
+11 Artículo 8.- Prohibición de represalias e interferencias
+12 Ningún patrono podrá tomar represalias, o amenazar con tomarlas, contra una
+13 persona empleada por ésta haber ejercido, o intentado ejercer, cualquier derecho
+14 reconocido por esta Ley, ni interferir con ninguna investigación, procedimiento o vista
+15 realizada al amparo de esta.
+16 Artículo 9.- Notificación de derechos
+17 Todo patrono deberá proveer a toda persona empleada nueva, al comenzar su
+18 empleo, y a toda persona empleada actual, dentro de sesenta (60) días de haber entrado
+19 en vigor esta Ley, notificación escrita en español e inglés acerca de su derecho a la
+20 desconexión al amparo de esta Ley, así como de su derecho a que el patrono no tome
+21 represalias en su contra por ejercer su derecho y a presentar una querella ante el
+22 Departamento del Trabajo y Recursos Humanos en caso de violación. En lugar de
+
+8
+1 proveer dicha notificación a cada persona empleada, el patrono podrá optar por colocar
+2 de forma conspicua la notificación en el lugar del empleo del patrono, en un área
+3 accesible a los empleados.
+4 Cualquier persona o entidad que viole intencionalmente los requisitos de
+5 notificación establecidos en este Artículo estará sujeta a una multa administrativa de
+6 hasta quinientos dólares ($500) por cada persona empleada a la que no se le haya
+7 notificado adecuadamente.
+8 Artículo 10.- Penalidades
+9 El Departamento del Trabajo y Recursos Humanos pondrá en vigor las
+10 disposiciones de esta Ley. Al hacerlo, deberá establecer un sistema que utilice múltiples
+11 medios de comunicación para recibir querellas relacionadas con el incumplimiento de
+12 esta Ley e investigar prontamente las querellas recibidas por el Departamento.
+13 Toda persona que alegue una violación a esta Ley tendrá derecho a presentar
+14 una querella ante el Departamento del Trabajo y Recursos Humanos dentro del término
+15 de un (1) año desde el momento en que la persona supo, o debió saber, de la violación
+16 alegada. El Departamento mantendrá confidencial la identidad de toda persona
+17 querellante a menos que la divulgación de la identidad de dicha persona querellante sea
+18 necesaria para resolver la investigación o sea requerida por ley, en cuyo caso el
+19 Departamento deberá notificarle a la persona querellante que su identidad será
+20 divulgada.
+21 El Departamento del Trabajo y Recursos Humanos tendrá facultad para imponer
+22 las multas establecidas en esta Ley y para conceder a toda persona empleada o
+
+9
+1 exempleada un remedio adecuado. Dicho remedio deberá incluir, como mínimo, lo
+2 siguiente:
+3 (1) Por cada instancia en que se le requiera a una persona empleada acceder a
+4 comunicaciones electrónicas relacionadas con su empleo, quinientos dólares
+5 ($500) de compensación;
+6 (2) Por cada instancia de represalia ilegal que no conlleve despido, compensación
+7 completa de salarios y beneficios dejados de percibir; y
+8 (3) Por cada instancia de despido injustificado del empleo, compensación completa
+9 de salarios y beneficios dejados de percibir y el derecho a ser reinstalado en su
+10 puesto.
+11 Nada de lo dispuesto anteriormente se entenderá como una limitación al derecho
+12 de la persona afectada a reclamar resarcimiento por los daños y perjuicios ocasionados
+13 por actos del patrono en violación de esta Ley.
+14 Cualquier entidad o persona que sea hallada en violación de las disposiciones de
+15 esta Ley pagará al Gobierno de Puerto Rico una multa administrativa a determinarse
+16 conforme a los siguientes parámetros:
+17 (1) De no menos de quinientos dólares ($500) por la primera violación;
+18 (2) De no menos de setecientos cincuenta dólares ($750) por violaciones
+19 subsiguientes que ocurran dentro de dos (2) años de la primera; y
+20 (3) De no menos de mil dólares ($1,000) por cada violación subsiguiente.
+21 Los mínimos establecidos en el párrafo precedente no limitarán la autoridad del
+22 Departamento de imponer una multa administrativa mayor si así lo determinara
+
+10
+1 adecuado, conforme a lo establecido en la Sección 7.1 de la Ley Núm. 38-2017, según
+2 enmendada.
+3 El Departamento deberá informar anualmente en su página de internet el
+4 número y la naturaleza de las querellas recibidas; los resultados de las investigaciones
+5 realizadas, incluyendo el número de querellas sin fundamento y el número de
+6 notificaciones de violación emitidas; el número y la naturaleza de las adjudicaciones; y
+7 el tiempo promedio que toma resolver una querella presentada al amparo de esta Ley.
+8 Artículo 11.- Cláusula de separabilidad
+9 Si alguna de las disposiciones de esta Ley o su aplicación fuere declarada
+10 inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la ejecutabilidad
+11 y vigor de las restantes disposiciones que no hayan sido objeto de dictamen adverso.
+12 Artículo 12.- Cláusula de vigencia
+13 Esta Ley comenzará a regir inmediatamente luego de su aprobación.
+
+[DELETED:  Aa3 S.r L  ay G c s e f d h l y p e o o d i a e s v p n s f n c n d a a s h o s r T p t d a l t d a p d l c a a a s h a s]
+[DELETED:  d d n t h a l m e l q n s d l c t É a a r l e d l p e m a l p d d e p h e u i a s u r c q r a a r d l p s p l p d t p y f M p p q l d y p q s l r d t i q e d t d e d p a a l c c d p e n c l p d l c t a s p p l i d l p e f d s h A s l q h c a d c “ a l d E d b p l f d l p d a c e r c s e f d h]
+[DELETED:  S y h r d 2 C e f d a s l e e d y h i p d l a e T e e c d I y F A a s l a t l o d r e e í d p q l e p d h c l p p r l AAEAE p p d G d P R r y g l]
+[DELETED:  o d i a e s v p n s f n c n d a a s h o s r T p t d a l t d a p d l c a a a s h a sE v d i s q h t e d d n h c a r l i d s e d a lAP]
+[DELETED: )C)E — E s y r o u c i d q r a i p p c o)P E — T p q t p c a m c a c p c p e l)P)R — C a a d dA c e r c e e f d h l]
+[DELETED:  E i e d a d d gAT p a u p e s e u d d)E)L c d t l b c i p s a d d v y e a l q t d l e E u d d t l b c s L n a a p e d c e e G d c T a a n p e q o]
+[DELETED:  e p é h e o i e c d)d  v e L n e e e e i a d s d a l e s c p e s d y a p u q a e d T y R H e c d v E l d]
+[DELETED:  f c l n e e l d e d p e u á p o e q v i l r d q d ( p c p e a l q n s l h D d T y R H p e v l E D m c l i d t p p r l i o s r p l e c c e d n a l p q q s i s m e e e L y p c a t p e o]
+[DELETED:  u r a D r d i c m l)P c i e q s l r a u p e a a e r c s e q d)P)P)D)D n m d s c d ( p v)D d i u m a m s a l d]
+[DELETED:  D d i a e s p d i e i e n d q s f y e n d a d l d d e L o s a f d.C]

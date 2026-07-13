@@ -1,0 +1,311 @@
+Title: Presentada por la señora Santiago Negrón y el señor González Costa
+Official Title: Presentada por la señora Santiago Negrón y el señor González Costa
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 456
+11 de marzo de 2026
+Referida a la Comisión de Asuntos Internos
+RESOLUCIÓN
+Para ordenar a la Comisión de lo Jurídico del Senado de Puerto Rico realizar una
+investigación en la que identifique si existe en la Rama Ejecutiva un mecanismo
+uniforme establecido para la modificación, reducción o condonación de multas
+administrativas que no se desprenda de los procedimientos formales de
+reconsideración y apelación; exponga los mecanismos informales que pudieran
+haberse adoptado en las agencias para la modificación, reducción o condonación de
+multas administrativas de no haberse establecido un procedimiento uniforme, y la
+fuente jurídica al amparo de la cual se reclama la autoridad para modificar, reducir
+o condonar la cuantía o severidad de multas administrativas; evalúe si las agencias
+o algún funcionario de la Rama Ejecutiva han actuado de forma arbitraria o
+caprichosa, en exceso de las prerrogativas delegadas por la Asamblea Legislativa,
+para modificar, reducir o condonar las multas impuestas por jueces administrativos
+u otros funcionarios autorizados mediante legislación especial; y examine si el
+Capítulo VII de la Ley 38-2017, según enmendada, denominada “Ley de
+Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, que versa
+sobre sobre penalidades administrativas, se adhiere al principio constitucional de
+proporcionalidad.
+EXPOSICIÓN DE MOTIVOS
+La Ley 38-2017, según enmendada, denominada “Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico”, instituye un canal que le permite
+al Estado reglamentar conductas, adjudicar derechos y dirimir controversias mediante
+2
+procesos que, en diversos sentidos, se perciben como análogos a los establecidos en las
+reglas de procedimiento civil o criminal utilizadas en la Rama Judicial o a los procesos
+propios de la Asamblea Legislativa. No obstante, la vía administrativa se distingue, en
+principio, por contener un énfasis mayor en incorporar la participación ciudadana,
+guardar la economía procesal, y canalizar el peritaje especializado que demandan asuntos
+técnicos y complejos en la ejecución de la política pública, sin abandonar el requerimiento
+constitucional de salvaguardar el debido proceso de ley.
+Como corolario de las facultades cuasi legislativas conferidas a las agencias de la
+Rama Ejecutiva para reglamentar conductas, y de los procesos adjudicativos de
+naturaleza cuasi judicial que la ley vislumbra, la Ley 38-2017, según enmendada, extiende
+a las agencias el poder de imponer penalidades administrativas. Esa facultad surge de su
+Sección 7.1 que lee:
+Sección 7.1. — Multas Administrativas.
+Toda violación a las leyes que administran las agencias o a los
+reglamentos emitidos al amparo de las mismas podrá ser penalizada con
+multas administrativas que no excederán de cinco mil (5,000) dólares por
+cada violación.
+En caso de que la ley especial de que se trate sólo provea penalidades
+criminales, el jefe de la agencia, a su opción, podrá radicar una querella
+administrativa al amparo de esta Sección para procesar el caso por la vía
+administrativa.
+Si la ley especial de que se trate dispone una penalidad
+administrativa mayor a la que se establece en esta Sección, la agencia podrá
+imponer la penalidad mayor.
+Los jueces administrativos son los funcionarios que de ordinario ejercen la facultad
+conferida a las agencias para imponer multas tras la adjudicación de los méritos de una
+querella. Sin embargo, resulta medular subrayar que las prerrogativas administrativas –
+incluida la facultad reconocida de forma general a una agencia o, de forma específica, a
+un juez administrativo, para imponer penalidades– son potestades limitadas por la
+legislación. Así lo esboza claramente la doctrina del Tribunal Supremo de Puerto Rico:
+3
+[H]emos sentenciado … que las agencias administrativas solamente
+pueden ejercer los poderes que su ley habilitadora expresamente les ha
+otorgado y lo [sic] que sean indispensables para llevar a cabo su
+encomienda primordial.”1
+[L]a autoridad conferida a una entidad administrativa estará sujeta a la
+delegación de aquellos poderes que le hayan sido específicamente
+conferidos por la Asamblea Legislativa en su ley habilitadora... Cónsono
+con lo anterior, un organismo administrativo no podrá asumir jurisdicción
+sobre un asunto a menos que esté claramente autorizado en ley para ello...
+Consecuentemente, las agencias administrativas no pueden actuar más allá
+de los poderes que le fueron delegados en el estatuto habilitador, “de
+manera que toda actuación administrativa que no obedezca el poder que le
+fue conferido mediante legislación debe catalogarse como ultra vires, y por
+ende, nula”.2
+En lo que respecta a la Sección 7.1 de la Ley 38-2017, previamente citada, por
+tratarse de una sanción cuya cuantía límite es uniforme (hasta $5,000.00 por cada
+violación), la penalidad no siempre es capaz de guardar proporcionalidad con la
+infracción cometida. De hecho, fuera de otras disposiciones particulares que pudieran
+surgir de leyes especiales, una multa de $5,000.00 podría considerarse excesivamente laxa
+o irracionalmente severa en comparación con el daño causado por determinada violación
+de ley o reglamento. Sin embargo, el ordenamiento provee remedios formales que
+permiten replantearse la procedencia o severidad de una multa administrativa sobre una
+parte adversamente afectada. Se trata de los mecanismos de reconsideración ante el foro
+administrativo y la revisión judicial mediante apelación. Estos se reglamentan en la
+Sección 3.15 y el Capítulo IV del estatuto referido, respectivamente.
+Como mecanismo alterno, la Asamblea Legislativa ostenta la facultad
+constitucional de declarar, mediante legislación, la extensión de una amnistía de
+aplicación general para liberar al pueblo, total o parcialmente, de la responsabilidad
+incurrida como resultado de la conducta ilícita perdonada. Lo que no contempla la “Ley
+1 Muñoz Barrientos v. ELA, 2023 TSPR 105. (Citas omitidas).
+2 Comisionado de Seguros de Puerto Rico v. CODEPOLA, 2019 TSPR 116. (Citas omitidas).
+4
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico” es un
+mecanismo uniforme para la modificación, reducción o condonación de multas
+administrativas ajeno a los procedimientos formales de reconsideración y apelación. La
+ley tampoco extiende esa facultad de forma expresa a las agencias. Por consiguiente,
+cualquier actuación ejercida para modificar, reducir o condonar multas administrativas
+realizada fuera de los procesos ordinarios, ajena a consideraciones expresas que surjan
+de alguna ley especial o amparada en una amnistía de aplicación general extendida por
+la Asamblea Legislativa, debe considerarse arbitraria y caprichosa y, por lo tanto, ilícita
+y ultra vires.
+Durante los pasados meses, en Puerto Rico se han denunciado y documentado
+instancias en las que las agencias de la Rama Ejecutiva han actuado para modificar la
+cuantía de multas administrativas sin identificar el motivo, sin explicación racional y sin
+un fundamento jurídico expreso. Se destaca, por ejemplo, lo ocurrido con el centro de
+inspección Yabucoa Auto Service HM, localizado en el barrio Juan Martín, del mismo
+municipio. A esa entidad se le adjudicó la comisión de 1,975 transacciones de marbetes
+fraudulentos, por lo cual se le impuso una multa ascendente a $987,500.00; esto es, $500.00
+por cada transacción fraudulenta. Sin embargo, la multa fue inexplicadamente rebajada
+a $5,000.00. El Senado de Puerto Rico, en el ejercicio de su prerrogativa constitucional
+para fiscalizar las acciones de la Rama Ejecutiva, le ordena a su Comisión de lo Jurídico
+investigar la procedencia de lo que a todas luces parece constituir un fracaso a la justicia.
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1.- Se ordena a la Comisión de lo Jurídico del Senado de Puerto Rico
+2 realizar una investigación en la que:
+3 (1) identifique si existe en la Rama Ejecutiva un mecanismo uniforme
+4 establecido para la modificación, reducción o condonación de multas
+5
+1 administrativas que no se desprenda de los procedimientos formales de
+2 reconsideración y apelación;
+3 (2) exponga los mecanismos informales que pudieran haberse adoptado en las
+4 agencias para la modificación, reducción o condonación de multas
+5 administrativas de no haberse establecido un procedimiento uniforme, y la
+6 fuente jurídica al amparo de la cual se reclama la autoridad para modificar,
+7 reducir o condonar la cuantía o severidad de multas administrativas;
+8 (3) evalúe si las agencias o algún funcionario de la Rama Ejecutiva han actuado
+9 de forma arbitraria o caprichosa, en exceso de las prerrogativas delegadas
+10 por la Asamblea Legislativa, para modificar, reducir o condonar las multas
+11 impuestas por jueces administrativos u otros funcionarios autorizados
+12 mediante legislación especial; y
+13 (4) examine si el Capítulo VII de la Ley 38-2017, según enmendada,
+14 denominada “Ley de Procedimiento Administrativo Uniforme del
+15 Gobierno de Puerto Rico”, que versa sobre sobre penalidades
+16 administrativas, se adhiere al principio constitucional de proporcionalidad.
+17 Sección 2.- La Comisión rendirá un informe con sus hallazgos, conclusiones y
+18 recomendaciones dentro de ciento veinte (120) días después de la aprobación de esta
+19 Resolución.
+20 Sección 3.- Esta Resolución comenzará a regir inmediatamente después de su
+21 aprobación.
+[DELETED:    3  .rL  rlay  G o a l C d l J d S d P R r u e p l m r o c d m q n s d d l p f d y a e l m i q p a f d l R E h a d f a o o f a m l e y e s e V d l L 3 s e d “ d L 3 s e d “ d P]
+[DELETED:  p c u é m e i l p c E p r c y d l p a d v a l l q a l a o a l l l e d q s t d u p j a p i p s p l p l]
+[DELETED:  s … q a a s p h y l [] q s i p l a c s” d a p q l h s e l p q l f d e e e h “. S d u s c c l e u ( $ p c l p n s e c d g p c l l o r S e e o p r f q y l r j m a E s r e l m a l A L o l f d d m l l e d u a d g p l a p t o p d l r  ,  ,]
+[DELETED:  P A U d G d P R e u u p l m r o c d m P   , l e e b J M d m A S H)i s e e l R E u m u p l m r o c d m]
+[DELETED: )e p l m r o c d m)e p j a u o f a)e s e C V d l L 3 s e “ d P A U d d P R q v s s p]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 456
+11 de marzo de 2026
+Presentada por la señora Santiago Negrón y el señor González Costa
+Referida a la Comisión de Asuntos Internos
+RESOLUCIÓN
+Para ordenar a la Comisión de lo Jurídico del Senado de Puerto Rico realizar una
+investigación en la que identifique si existe en la Rama Ejecutiva un mecanismo
+uniforme establecido para la modificación, reducción o condonación de multas
+administrativas que no se desprenda de los procedimientos formales de
+reconsideración y apelación; exponga los mecanismos informales que pudieran
+haberse adoptado en las agencias para la modificación, reducción o condonación de
+multas administrativas de no haberse establecido un procedimiento uniforme, y la
+fuente jurídica al amparo de la cual se reclama la autoridad para modificar, reducir
+o condonar la cuantía o severidad de multas administrativas; evalúe si las agencias
+o algún funcionario de la Rama Ejecutiva han actuado de forma arbitraria o
+caprichosa, en exceso de las prerrogativas delegadas por la Asamblea Legislativa,
+para modificar, reducir o condonar las multas impuestas por jueces administrativos
+u otros funcionarios autorizados mediante legislación especial; y examine si el
+Capítulo VII de la Ley 38-2017, según enmendada, denominada “Ley de
+Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, que versa
+sobre sobre penalidades administrativas, se adhiere al principio constitucional de
+proporcionalidad.
+EXPOSICIÓN DE MOTIVOS
+La Ley 38-2017, según enmendada, denominada “Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico”, instituye un canal que le permite
+al Estado reglamentar conductas, adjudicar derechos y dirimir controversias mediante
+
+2
+procesos que, en diversos sentidos, se perciben como análogos a los establecidos en las
+reglas de procedimiento civil o criminal utilizadas en la Rama Judicial o a los procesos
+propios de la Asamblea Legislativa. No obstante, la vía administrativa se distingue, en
+principio, por contener un énfasis mayor en incorporar la participación ciudadana,
+guardar la economía procesal, y canalizar el peritaje especializado que demandan asuntos
+técnicos y complejos en la ejecución de la política pública, sin abandonar el requerimiento
+constitucional de salvaguardar el debido proceso de ley.
+Como corolario de las facultades cuasi legislativas conferidas a las agencias de la
+Rama Ejecutiva para reglamentar conductas, y de los procesos adjudicativos de
+naturaleza cuasi judicial que la ley vislumbra, la Ley 38-2017, según enmendada, extiende
+a las agencias el poder de imponer penalidades administrativas. Esa facultad surge de su
+Sección 7.1 que lee:
+Sección 7.1. — Multas Administrativas.
+Toda violación a las leyes que administran las agencias o a los
+reglamentos emitidos al amparo de las mismas podrá ser penalizada con
+multas administrativas que no excederán de cinco mil (5,000) dólares por
+cada violación.
+En caso de que la ley especial de que se trate sólo provea penalidades
+criminales, el jefe de la agencia, a su opción, podrá radicar una querella
+administrativa al amparo de esta Sección para procesar el caso por la vía
+administrativa.
+Si la ley especial de que se trate dispone una penalidad
+administrativa mayor a la que se establece en esta Sección, la agencia podrá
+imponer la penalidad mayor.
+Los jueces administrativos son los funcionarios que de ordinario ejercen la facultad
+conferida a las agencias para imponer multas tras la adjudicación de los méritos de una
+querella. Sin embargo, resulta medular subrayar que las prerrogativas administrativas –
+incluida la facultad reconocida de forma general a una agencia o, de forma específica, a
+un juez administrativo, para imponer penalidades– son potestades limitadas por la
+legislación. Así lo esboza claramente la doctrina del Tribunal Supremo de Puerto Rico:
+
+3
+[H]emos sentenciado … que las agencias administrativas solamente
+pueden ejercer los poderes que su ley habilitadora expresamente les ha
+otorgado y lo [sic] que sean indispensables para llevar a cabo su
+encomienda primordial.”1
+[L]a autoridad conferida a una entidad administrativa estará sujeta a la
+delegación de aquellos poderes que le hayan sido específicamente
+conferidos por la Asamblea Legislativa en su ley habilitadora... Cónsono
+con lo anterior, un organismo administrativo no podrá asumir jurisdicción
+sobre un asunto a menos que esté claramente autorizado en ley para ello...
+Consecuentemente, las agencias administrativas no pueden actuar más allá
+de los poderes que le fueron delegados en el estatuto habilitador, “de
+manera que toda actuación administrativa que no obedezca el poder que le
+fue conferido mediante legislación debe catalogarse como ultra vires, y por
+ende, nula”.2
+En lo que respecta a la Sección 7.1 de la Ley 38-2017, previamente citada, por
+tratarse de una sanción cuya cuantía límite es uniforme (hasta $5,000.00 por cada
+violación), la penalidad no siempre es capaz de guardar proporcionalidad con la
+infracción cometida. De hecho, fuera de otras disposiciones particulares que pudieran
+surgir de leyes especiales, una multa de $5,000.00 podría considerarse excesivamente laxa
+o irracionalmente severa en comparación con el daño causado por determinada violación
+de ley o reglamento. Sin embargo, el ordenamiento provee remedios formales que
+permiten replantearse la procedencia o severidad de una multa administrativa sobre una
+parte adversamente afectada. Se trata de los mecanismos de reconsideración ante el foro
+administrativo y la revisión judicial mediante apelación. Estos se reglamentan en la
+Sección 3.15 y el Capítulo IV del estatuto referido, respectivamente.
+Como mecanismo alterno, la Asamblea Legislativa ostenta la facultad
+constitucional de declarar, mediante legislación, la extensión de una amnistía de
+aplicación general para liberar al pueblo, total o parcialmente, de la responsabilidad
+incurrida como resultado de la conducta ilícita perdonada. Lo que no contempla la “Ley
+1 Muñoz Barrientos v. ELA, 2023 TSPR 105. (Citas omitidas).
+2 Comisionado de Seguros de Puerto Rico v. CODEPOLA, 2019 TSPR 116. (Citas omitidas).
+
+4
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico” es un
+mecanismo uniforme para la modificación, reducción o condonación de multas
+administrativas ajeno a los procedimientos formales de reconsideración y apelación. La
+ley tampoco extiende esa facultad de forma expresa a las agencias. Por consiguiente,
+cualquier actuación ejercida para modificar, reducir o condonar multas administrativas
+realizada fuera de los procesos ordinarios, ajena a consideraciones expresas que surjan
+de alguna ley especial o amparada en una amnistía de aplicación general extendida por
+la Asamblea Legislativa, debe considerarse arbitraria y caprichosa y, por lo tanto, ilícita
+y ultra vires.
+Durante los pasados meses, en Puerto Rico se han denunciado y documentado
+instancias en las que las agencias de la Rama Ejecutiva han actuado para modificar la
+cuantía de multas administrativas sin identificar el motivo, sin explicación racional y sin
+un fundamento jurídico expreso. Se destaca, por ejemplo, lo ocurrido con el centro de
+inspección Yabucoa Auto Service HM, localizado en el barrio Juan Martín, del mismo
+municipio. A esa entidad se le adjudicó la comisión de 1,975 transacciones de marbetes
+fraudulentos, por lo cual se le impuso una multa ascendente a $987,500.00; esto es, $500.00
+por cada transacción fraudulenta. Sin embargo, la multa fue inexplicadamente rebajada
+a $5,000.00. El Senado de Puerto Rico, en el ejercicio de su prerrogativa constitucional
+para fiscalizar las acciones de la Rama Ejecutiva, le ordena a su Comisión de lo Jurídico
+investigar la procedencia de lo que a todas luces parece constituir un fracaso a la justicia.
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1.- Se ordena a la Comisión de lo Jurídico del Senado de Puerto Rico
+2 realizar una investigación en la que:
+3 (1) identifique si existe en la Rama Ejecutiva un mecanismo uniforme
+4 establecido para la modificación, reducción o condonación de multas
+
+5
+1 administrativas que no se desprenda de los procedimientos formales de
+2 reconsideración y apelación;
+3 (2) exponga los mecanismos informales que pudieran haberse adoptado en las
+4 agencias para la modificación, reducción o condonación de multas
+5 administrativas de no haberse establecido un procedimiento uniforme, y la
+6 fuente jurídica al amparo de la cual se reclama la autoridad para modificar,
+7 reducir o condonar la cuantía o severidad de multas administrativas;
+8 (3) evalúe si las agencias o algún funcionario de la Rama Ejecutiva han actuado
+9 de forma arbitraria o caprichosa, en exceso de las prerrogativas delegadas
+10 por la Asamblea Legislativa, para modificar, reducir o condonar las multas
+11 impuestas por jueces administrativos u otros funcionarios autorizados
+12 mediante legislación especial; y
+13 (4) examine si el Capítulo VII de la Ley 38-2017, según enmendada,
+14 denominada “Ley de Procedimiento Administrativo Uniforme del
+15 Gobierno de Puerto Rico”, que versa sobre sobre penalidades
+16 administrativas, se adhiere al principio constitucional de proporcionalidad.
+17 Sección 2.- La Comisión rendirá un informe con sus hallazgos, conclusiones y
+18 recomendaciones dentro de ciento veinte (120) días después de la aprobación de esta
+19 Resolución.
+20 Sección 3.- Esta Resolución comenzará a regir inmediatamente después de su
+21 aprobación.
+
+[DELETED:    3  .rL  rlay  G o a l C d l J d S d P R r u e p l m r o c d m q n s d d l p f d y a e l m i q p a f d l R E h a d f a o o f a m l e y e s e V d l L 3 s e d “ d L 3 s e d “ d P]
+[DELETED:  p c u é m e i l p c E p r c y d l p a d v a l l q a l a o a l l l e d q s t d u p j a p i p s p l p l]
+[DELETED:  s … q a a s p h y l [] q s i p l a c s” d a p q l h s e l p q l f d e e e h “. S d u s c c l e u ( $ p c l p n s e c d g p c l l o r S e e o p r f q y l r j m a E s r e l m a l A L o l f d d m l l e d u a d g p l a p t o p d l r  ,  ,]
+[DELETED:  P A U d G d P R e u u p l m r o c d m P   , l e e b J M d m A S H)i s e e l R E u m u p l m r o c d m]
+[DELETED: )e p l m r o c d m)e p j a u o f a)e s e C V d l L 3 s e “ d P A U d d P R q v s s p]
