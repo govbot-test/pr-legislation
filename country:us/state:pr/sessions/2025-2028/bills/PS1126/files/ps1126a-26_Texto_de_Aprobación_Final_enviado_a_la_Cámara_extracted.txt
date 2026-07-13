@@ -1,0 +1,565 @@
+Title: Coautores la señora Barlucea Rodríguez; los señores Colón La Santa, González López; la señora
+Official Title: Coautores la señora Barlucea Rodríguez; los señores Colón La Santa, González López; la señora
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(11 DE MAYO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1126
+9 de marzo de 2026
+Presentado por el señor Reyes Berríos
+Pérez Soto; y el señor Sánchez Álvarez
+Referido a la Comisión de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para enmendar los Artículos 2, 3, 4, 6, 7, 10 y añadir los nuevos Artículos 7-A y 11-A de
+la Ley Núm. 40-2024, según enmendada, conocida como “Ley de Ciberseguridad
+del Estado Libre Asociado de Puerto Rico”, con el propósito de fortalecer el marco
+jurídico de ciberseguridad del Gobierno de Puerto Rico, reforzar la resiliencia digital
+y la continuidad de servicios esenciales, ampliar facultades regulatorias y establecer
+mecanismos de supervisión, notificación y financiamiento; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La transformación digital del Gobierno de Puerto Rico ha dejado de ser una
+aspiración programática para convertirse en una realidad operativa indispensable. La
+prestación de servicios públicos, la continuidad gubernamental, la protección de
+información sensitiva y el desarrollo económico sostenible son temas que se deben
+atender en esta transformación. La creciente interconexión de sistemas, la dependencia
+de infraestructuras tecnológicas y la utilización intensiva de plataformas digitales han
+ampliado significativamente la superficie de exposición a amenazas cibernéticas cada vez
+más sofisticadas, persistentes y coordinadas.
+2
+La aprobación de la Ley Núm. 40-2024, según enmendada, conocida como la “Ley
+de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, constituyó un paso
+decisivo en la creación de un marco normativo para atender la seguridad de los recursos
+de información gubernamentales. Dicha legislación estableció estándares mínimos de
+ciberseguridad, creó la figura del Principal Oficial de Seguridad Cibernética (CISO) y
+formalizó la Oficina para la Evaluación de Incidentes Cibernéticos adscrita al Puerto Rico
+Innovation and Technology Service (PRITS). Con ello, se reconoció que la protección de
+los datos gubernamentales es esencial para garantizar la confidencialidad, integridad y
+disponibilidad de la información pública.
+No obstante, el entorno digital evoluciona a un ritmo que supera el ciclo ordinario
+de actualización legislativa. Los ataques mediante ransomware, la explotación de
+vulnerabilidades en la cadena de suministro tecnológica, el uso malicioso de
+herramientas basadas en inteligencia artificial, la suplantación digital y los ataques
+coordinados contra infraestructuras críticas evidencian que la ciberseguridad ya no es
+únicamente un asunto técnico, sino un componente estructural de la seguridad pública,
+la estabilidad económica y la gobernanza democrática.
+La experiencia reciente demuestra que la interrupción de servicios esenciales tales
+como energía, agua, telecomunicaciones, sistemas financieros, salud o logística crítica
+puede generar efectos sistémicos inmediatos sobre la economía y la seguridad de la
+población. En ese contexto, la protección del ciberespacio y la resiliencia digital deben
+concebirse como elementos estratégicos de seguridad y desarrollo económico, no
+meramente como obligaciones administrativas de cumplimiento mínimo.
+Las mejores prácticas internacionales han avanzado hacia modelos regulatorios que
+integran múltiples aspectos. Entre los aspectos antes referidos comúnmente se incluye la
+gestión de riesgos basada en criticidad, supervisión de operadores de infraestructuras
+críticas, obligación de notificación temprana de incidentes, fiscalización de la cadena de
+suministro digital y adopción de estándares técnicos armonizados con marcos como el
+National Institute of Standards and Technology (NIST) y estándares internacionales ISO.
+3
+Estos modelos reconocen que la resiliencia digital requiere coordinación centralizada,
+ejecución descentralizada y una clara delimitación de responsabilidades entre el sector
+público y el sector privado.
+La Ley Núm. 40-2024, según enmendada, conocida como “Ley de Ciberseguridad
+del Estado Libre Asociado de Puerto Rico” (Ley 40), estableció un andamiaje inicial
+adecuado, pero su enfoque principal se circunscribe al ámbito gubernamental directo y a
+estándares mínimos de cumplimiento. Resulta necesario fortalecer dicho marco para
+incorporar un enfoque integral que atienda la clasificación de incidentes por niveles de
+severidad. Además, entendemos necesario que se reduzca el término de notificación para
+incidentes críticos, la supervisión de proveedores tecnológicos según su nivel de
+criticidad, la integridad de la cadena de suministro de software, la obligación de planes
+de continuidad de negocios y recuperación ante desastres, y un régimen sancionador
+proporcional que tenga verdadero efecto disuasivo.
+Asimismo, se hace indispensable robustecer la autoridad técnica del Principal
+Oficial de Seguridad Cibernética y de la Oficina adscrita a PRITS. Para lograr lo antes
+dicho se deben dotar de facultades regulatorias claras para emitir normas técnicas
+vinculantes, coordinar respuestas interinstitucionales ante emergencias cibernéticas y
+fiscalizar el cumplimiento en sectores críticos. La gobernanza efectiva en materia de
+ciberseguridad exige claridad normativa, supervisión activa y capacidad de respuesta
+inmediata.
+Por otro lado, la inversión en ciberseguridad debe concebirse como un habilitador
+del desarrollo económico. Un ecosistema digital seguro fomenta la inversión, fortalece la
+confianza en los servicios gubernamentales y posiciona a Puerto Rico como una
+jurisdicción confiable para la innovación tecnológica y la economía digital. La adopción
+de incentivos para certificaciones reconocidas internacionalmente, la creación de
+mecanismos de financiamiento para fortalecer la resiliencia digital y el desarrollo de
+talento especializado constituyen elementos esenciales de una política pública moderna
+en esta materia.
+4
+La presente medida tiene como propósito enmendar la Ley Núm. 40-2024 para
+actualizar y fortalecer el marco jurídico vigente, alinearlo con estándares
+contemporáneos, integrar un enfoque de resiliencia digital basado en riesgo y criticidad,
+reforzar la gobernanza centralizada de la ciberseguridad y establecer obligaciones claras,
+proporcionales y fiscalizables para entidades públicas y privadas cuya operación incida
+sobre servicios esenciales e infraestructuras críticas. Mediante estas enmiendas, la
+Asamblea Legislativa reafirma su compromiso con la protección de la información
+pública, continuidad gubernamental, estabilidad económica y seguridad digital de
+Puerto Rico. Reconociendo que en la era tecnológica la defensa del ciberespacio es
+inseparable de la defensa de la integridad institucional y del bienestar colectivo.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2 de la Ley 40-2024, según enmendada, conocida
+2 como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para que lea
+3 como sigue:
+4 “Artículo 2.- Aplicabilidad.
+5 Las disposiciones de esta Ley son aplicables a la Rama Ejecutiva, incluyendo todo
+6 departamento, junta, dependencia, comisión, negociado, oficina, agencia, administración
+7 u organismo, subdivisión política, corporaciones públicas y municipios. De igual forma
+8 aplica a cualquier persona natural o jurídica que haga negocios o tenga contratos con el
+9 Gobierno, incluyendo, de forma no exhaustiva, a las personas privadas que desempeñan
+10 funciones y servicios públicos, pero solamente con respecto a las funciones y servicios
+11 públicos desempeñados; a todo ejercicio de administración pública o privada en el que
+12 se hubieren dedicado o invertido fondos o recursos públicos (directa o indirectamente),
+5
+1 o sobre la cual se hubiere ejercido la autoridad de cualquier servidor público, en cuanto
+2 a los datos que se generan como producto de tales actividades.
+3 Las disposiciones de esta Ley también serán aplicables a todo operador de
+4 infraestructura crítica o proveedor de servicios esenciales, independientemente de que
+5 medie o no relación contractual directa con el Gobierno, cuando la interrupción,
+6 degradación o compromiso de sus sistemas pueda afectar la continuidad de servicios
+7 esenciales, la seguridad pública, la estabilidad económica o la continuidad
+8 gubernamental.”
+9 Sección 2.- Se enmienda el Artículo 3 de la Ley 40-2024, según enmendada,
+10 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+11 que lea como sigue:
+12 “Artículo 3.- Política Pública.
+13 Se establece como política pública en Puerto Rico lo siguiente:
+14 1. …
+15 …
+16 10. Reconocer la resiliencia digital y la continuidad operacional de los servicios
+17 esenciales como componentes estratégicos de la seguridad pública y el desarrollo
+18 económico, adoptando un enfoque basado en riesgo y criticidad, armonizado con
+19 estándares reconocidos internacionalmente tales como NIST, ISO/IEC 27001 e ISO
+20 22301.”
+6
+1 Sección 3.- Se enmienda el Artículo 4 de la Ley 40-2024, según enmendada, conocida
+2 como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para que lea
+3 como sigue:
+4 “Artículo 4. — Definiciones.
+5 Para propósitos de esta Ley y salvo que otra cosa se disponga en la misma, los
+6 siguientes términos tendrán el significado expresado a continuación:
+7 (a) …
+8 (dd) “Servicios esenciales” — aquellos servicios cuya interrupción pueda afectar
+9 significativamente la salud, seguridad, economía o bienestar colectivo, incluyendo,
+10 sin limitarse, a energía, agua, telecomunicaciones, finanzas, salud, transporte,
+11 logística crítica y sistemas gubernamentales estratégicos.
+12 (ee) “Operador crítico” — toda persona natural o jurídica, pública o privada, que
+13 administre, opere o controle infraestructura crítica o servicios esenciales.
+14 (ff) “Cadena de suministro digital” — conjunto de procesos, componentes,
+15 software, hardware y servicios interconectados que intervienen en el desarrollo,
+16 provisión y mantenimiento de sistemas tecnológicos utilizados por el Gobierno.
+17 (gg) “Gestión de riesgos cibernéticos” — proceso continuo de identificación,
+18 evaluación, mitigación y monitoreo de amenazas y vulnerabilidades que puedan
+19 afectar los Recursos de información.
+20 (hh) “Plan de Continuidad y Recuperación” — documento formal que establece
+21 procedimientos para garantizar la continuidad operacional y la recuperación ante
+22 incidentes cibernéticos o desastres tecnológicos.
+7
+1 (ii) “Relación entre categorías” - Para efectos de esta Ley, los términos ‘proveedor
+2 de servicios contratados’, ‘proveedor de servicios esenciales’ y ‘operador crítico’
+3 constituyen categorías distintas. El término ‘proveedor de servicios contratados’ se
+4 refiere a entidades con relación contractual directa con el Gobierno; el término
+5 ‘proveedor de servicios esenciales’ se refiere a entidades cuya operación impacta
+6 servicios esenciales independientemente de relación contractual; y el término
+7 ‘operador crítico’ comprende aquellas entidades, públicas o privadas, cuya operación
+8 o control de infraestructura crítica o servicios esenciales representa un riesgo
+9 significativo para la seguridad pública, estabilidad económica o continuidad
+10 gubernamental. PRITS establecerá mediante reglamento los criterios de clasificación
+11 y la interacción entre dichas categorías.
+12 Se dispone que los términos definidos en este Artículo deberán utilizarse de forma
+13 consistente a través de toda la Ley. Cualquier referencia a entidades reguladas deberá
+14 interpretarse conforme a las categorías aquí definidas, evitando duplicidad o
+15 ambigüedad en su aplicación.”
+16 Sección 4.- Se enmienda el Artículo 6 de la Ley 40-2024, según enmendada,
+17 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+18 que lea como sigue:
+19 “Artículo 6. – Principal Oficial de Seguridad Cibernética (Chief Information Security
+20 Officer) del Gobierno.
+21 Se crea el cargo de Principal Oficial de Seguridad Cibernética (Chief Information
+22 Security Officer) del Gobierno, quien estará adscrito al PRITS, pero gozará de cierto nivel
+8
+1 de autonomía para llevar a cabo sus funciones de manera independiente utilizando los
+2 recursos provistos por PRITS. …
+3 …
+4 El Principal Oficial de Seguridad Cibernética trabajará en coordinación con el
+5 Instituto y con el personal que cada Agencia designe para llevar a cabo tales funciones,
+6 en la confección y ejecución de las estrategias para proteger la información pública del
+7 Gobierno.
+8 El Principal Oficial de Seguridad Cibernética tendrá facultad para emitir normas
+9 técnicas obligatorias y vinculantes aplicables a las Agencias y a los operadores críticos
+10 cubiertos por esta Ley, incluyendo estándares mínimos de seguridad, protocolos de
+11 notificación, requisitos de auditoría y medidas de mitigación. Asimismo, podrá
+12 recomendar al Gobernador la declaración de una emergencia cibernética cuando las
+13 circunstancias lo ameriten.”
+14 Sección 5.- Se enmienda el Artículo 7 de la Ley 40-2024, según enmendada,
+15 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+16 que lea como sigue:
+17 “Artículo 7. – Estándares y principios mínimos de Ciberseguridad.
+18 Toda Agencia y todo Proveedor de servicios contratados deberá cumplir y
+19 asegurarse que toda persona natural o jurídica que haga negocios o contrate con ellos
+20 cumpla con al menos los siguientes Estándares y principios mínimos de Ciberseguridad:
+21 (1) …
+22 …
+9
+1 (10) Los Proveedores de servicios contratados de tecnología de la información y
+2 comunicaciones compartirán información y notificarán en un término no mayor de
+3 veinticuatro (24) horas al PRITS y a la Agencia contratante cuando descubran un
+4 incidente de seguridad cibernética o un incidente potencial que pueda poner en Riesgo
+5 los datos, productos de software, Firmware o los servicios confidenciales del Gobierno o
+6 de cualquier persona natural o jurídica;
+7 …
+8 (20) PRITS adoptará mediante reglamento un sistema de clasificación de
+9 incidentes de seguridad cibernética en niveles bajo, medio, alto y crítico, conforme al
+10 impacto potencial sobre la confidencialidad, integridad, disponibilidad, continuidad
+11 operacional y seguridad pública, estableciendo para cada nivel obligaciones específicas
+12 de notificación, respuesta y mitigación.
+13 (21) Todo proveedor clasificado como de alto o crítico impacto deberá mantener y
+14 proveer a PRITS un inventario actualizado de componentes de software (Software Bill of
+15 Materials – SBOM) conforme a estándares reconocidos, así como evidenciar un proceso
+16 formal de gestión de vulnerabilidades y aplicación de parchos de seguridad dentro de
+17 términos razonables establecidos por reglamento.”
+18 Sección 6.- Se enmienda el Artículo 10 de la Ley 40-2024, según enmendada,
+19 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+20 que lea como sigue:
+21 “Artículo 10. – Sanciones.
+10
+1 PRITS podrá imponer multas administrativas, conforme a lo establecido en la “Ley
+2 de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, Ley 38-2017,
+3 según enmendada, que no excederán de cinco mil (5,000) dólares por cada
+4 incumplimiento con lo dispuesto en esta Ley.
+5 …”
+6 Sección 7.- Se añade un nuevo Artículo 7-A a la Ley 40-2024, según enmendada,
+7 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, que
+8 leerá como sigue:
+9 “Artículo 7-A. – Planes de Continuidad y Recuperación.
+10 Toda Agencia y todo operador crítico deberá desarrollar, mantener y actualizar
+11 anualmente un Plan de Continuidad y Recuperación ante Incidentes Cibernéticos, el cual
+12 deberá ser sometido a PRITS para fines de evaluación y validación. Dichos planes
+13 deberán ser sometidos a pruebas periódicas no menos de una (1) vez al año o con mayor
+14 frecuencia según determine PRITS mediante reglamento.”
+15 Sección 8.- Se añade un nuevo Artículo 11-A a la Ley 40-2024, según enmendada,
+16 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, que
+17 leerá como sigue:
+18 “Artículo 11-A. — Fondo de Resiliencia Digital.
+19 Se crea el Fondo de Resiliencia Digital adscrito a PRITS, con el propósito de
+20 financiar iniciativas de prevención, detección, respuesta y recuperación ante incidentes
+21 cibernéticos, así como programas de capacitación y certificación en ciberseguridad.
+11
+1 El Fondo podrá nutrirse de asignaciones legislativas, fondos federales, multas
+2 administrativas impuestas bajo esta Ley y cualquier otra fuente autorizada por ley. Las
+3 multas administrativas que nutran el Fondo tendrán como propósito exclusivo fortalecer
+4 la capacidad institucional de prevención, detección, respuesta y recuperación ante
+5 incidentes cibernéticos, y no se interpretarán como un mecanismo para la imposición
+6 indiscriminada de sanciones, sino como una herramienta para fomentar el cumplimiento
+7 y la sostenibilidad del sistema de ciberseguridad.”
+8 Sección 9.- Reglamentación.
+9 Se ordena a la PRITS a enmendar aquella reglamentación que sea necesaria para
+10 cumplir con las disposiciones y propósitos de esta Ley en un término de noventa (90)
+11 días, luego de aprobada esta Ley.
+12 Sección 10.- Vigencia
+13 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:   A 3  arL   d s n y f y p o f t d d G d P R h d d s u d s p l c g l p d s y e d e s s t q s d]
+[DELETED:  C d E L A d P R c u p a l L a m r l e d e l c d s t e u m d b e i a l s d y l a g e s i s l e y l s d l c e e d s y d e n]
+[DELETED:  E L A d P R ( 4 e u a i c l s d p t s s n d s h i r l a t d P s d d d f r c p e n t c r i a e c y e l s g y p a P R c u i p c r i l c d d f p f l r d y e d d]
+[DELETED:  p m t c p e l L N 4 p y f e m j v a c e s e e i c  M e e l L r s c c l p d l i c g e e y s d d R  R q e l e t l d d c e]
+[DELETED:  d d e L t s a a t o d o n r c d c e G c l i l s p l e e o l c 2 S e e A 3 d l L 4 s e e c p p e P R l s … l r d y l c o d l s c c e d l s p y e d r i t c  N I 2 e I 2]
+[DELETED:  … l a e a t f s t “ d s d — c d p c h y s i q i e e d “ d r c — p c d i m y m d a y v q p r]
+[DELETED:  s c ‘ d s e y ‘ c a e c r c d c e G e t d s e s r a e c o i e i d r c y e t c d i c o s e r u r p l s p e e o c c a l c a d e d o 4 S e e A 6 d l L 4 s e ( O ( S]
+[DELETED:  P O d S C t e c c e p e L i e m d s p d r d a y m d m A p a G l d d u e c c l 5 S e e A 7 d l L 4 s e A y t P d s c d c y]
+[DELETED: )L c i y n e u t n m d ( h a P y a l A c c d u P a m r u s d c d p s l c i d c S M 6 S e e A 1 d l L 4 s e]
+[DELETED:  e q n e d c m ( d p c s s a P p f d e y v D p c e F d R D a a P c e p d]
+[DELETED:  F p n d a l f f m c i d p d r y r a]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(11 DE MAYO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1126
+9 de marzo de 2026
+Presentado por el señor Reyes Berríos
+Coautores la señora Barlucea Rodríguez; los señores Colón La Santa, González López; la señora
+Pérez Soto; y el señor Sánchez Álvarez
+Referido a la Comisión de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para enmendar los Artículos 2, 3, 4, 6, 7, 10 y añadir los nuevos Artículos 7-A y 11-A de
+la Ley Núm. 40-2024, según enmendada, conocida como “Ley de Ciberseguridad
+del Estado Libre Asociado de Puerto Rico”, con el propósito de fortalecer el marco
+jurídico de ciberseguridad del Gobierno de Puerto Rico, reforzar la resiliencia digital
+y la continuidad de servicios esenciales, ampliar facultades regulatorias y establecer
+mecanismos de supervisión, notificación y financiamiento; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La transformación digital del Gobierno de Puerto Rico ha dejado de ser una
+aspiración programática para convertirse en una realidad operativa indispensable. La
+prestación de servicios públicos, la continuidad gubernamental, la protección de
+información sensitiva y el desarrollo económico sostenible son temas que se deben
+atender en esta transformación. La creciente interconexión de sistemas, la dependencia
+de infraestructuras tecnológicas y la utilización intensiva de plataformas digitales han
+ampliado significativamente la superficie de exposición a amenazas cibernéticas cada vez
+más sofisticadas, persistentes y coordinadas.
+
+2
+La aprobación de la Ley Núm. 40-2024, según enmendada, conocida como la “Ley
+de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, constituyó un paso
+decisivo en la creación de un marco normativo para atender la seguridad de los recursos
+de información gubernamentales. Dicha legislación estableció estándares mínimos de
+ciberseguridad, creó la figura del Principal Oficial de Seguridad Cibernética (CISO) y
+formalizó la Oficina para la Evaluación de Incidentes Cibernéticos adscrita al Puerto Rico
+Innovation and Technology Service (PRITS). Con ello, se reconoció que la protección de
+los datos gubernamentales es esencial para garantizar la confidencialidad, integridad y
+disponibilidad de la información pública.
+No obstante, el entorno digital evoluciona a un ritmo que supera el ciclo ordinario
+de actualización legislativa. Los ataques mediante ransomware, la explotación de
+vulnerabilidades en la cadena de suministro tecnológica, el uso malicioso de
+herramientas basadas en inteligencia artificial, la suplantación digital y los ataques
+coordinados contra infraestructuras críticas evidencian que la ciberseguridad ya no es
+únicamente un asunto técnico, sino un componente estructural de la seguridad pública,
+la estabilidad económica y la gobernanza democrática.
+La experiencia reciente demuestra que la interrupción de servicios esenciales tales
+como energía, agua, telecomunicaciones, sistemas financieros, salud o logística crítica
+puede generar efectos sistémicos inmediatos sobre la economía y la seguridad de la
+población. En ese contexto, la protección del ciberespacio y la resiliencia digital deben
+concebirse como elementos estratégicos de seguridad y desarrollo económico, no
+meramente como obligaciones administrativas de cumplimiento mínimo.
+Las mejores prácticas internacionales han avanzado hacia modelos regulatorios que
+integran múltiples aspectos. Entre los aspectos antes referidos comúnmente se incluye la
+gestión de riesgos basada en criticidad, supervisión de operadores de infraestructuras
+críticas, obligación de notificación temprana de incidentes, fiscalización de la cadena de
+suministro digital y adopción de estándares técnicos armonizados con marcos como el
+National Institute of Standards and Technology (NIST) y estándares internacionales ISO.
+
+3
+Estos modelos reconocen que la resiliencia digital requiere coordinación centralizada,
+ejecución descentralizada y una clara delimitación de responsabilidades entre el sector
+público y el sector privado.
+La Ley Núm. 40-2024, según enmendada, conocida como “Ley de Ciberseguridad
+del Estado Libre Asociado de Puerto Rico” (Ley 40), estableció un andamiaje inicial
+adecuado, pero su enfoque principal se circunscribe al ámbito gubernamental directo y a
+estándares mínimos de cumplimiento. Resulta necesario fortalecer dicho marco para
+incorporar un enfoque integral que atienda la clasificación de incidentes por niveles de
+severidad. Además, entendemos necesario que se reduzca el término de notificación para
+incidentes críticos, la supervisión de proveedores tecnológicos según su nivel de
+criticidad, la integridad de la cadena de suministro de software, la obligación de planes
+de continuidad de negocios y recuperación ante desastres, y un régimen sancionador
+proporcional que tenga verdadero efecto disuasivo.
+Asimismo, se hace indispensable robustecer la autoridad técnica del Principal
+Oficial de Seguridad Cibernética y de la Oficina adscrita a PRITS. Para lograr lo antes
+dicho se deben dotar de facultades regulatorias claras para emitir normas técnicas
+vinculantes, coordinar respuestas interinstitucionales ante emergencias cibernéticas y
+fiscalizar el cumplimiento en sectores críticos. La gobernanza efectiva en materia de
+ciberseguridad exige claridad normativa, supervisión activa y capacidad de respuesta
+inmediata.
+Por otro lado, la inversión en ciberseguridad debe concebirse como un habilitador
+del desarrollo económico. Un ecosistema digital seguro fomenta la inversión, fortalece la
+confianza en los servicios gubernamentales y posiciona a Puerto Rico como una
+jurisdicción confiable para la innovación tecnológica y la economía digital. La adopción
+de incentivos para certificaciones reconocidas internacionalmente, la creación de
+mecanismos de financiamiento para fortalecer la resiliencia digital y el desarrollo de
+talento especializado constituyen elementos esenciales de una política pública moderna
+en esta materia.
+
+4
+La presente medida tiene como propósito enmendar la Ley Núm. 40-2024 para
+actualizar y fortalecer el marco jurídico vigente, alinearlo con estándares
+contemporáneos, integrar un enfoque de resiliencia digital basado en riesgo y criticidad,
+reforzar la gobernanza centralizada de la ciberseguridad y establecer obligaciones claras,
+proporcionales y fiscalizables para entidades públicas y privadas cuya operación incida
+sobre servicios esenciales e infraestructuras críticas. Mediante estas enmiendas, la
+Asamblea Legislativa reafirma su compromiso con la protección de la información
+pública, continuidad gubernamental, estabilidad económica y seguridad digital de
+Puerto Rico. Reconociendo que en la era tecnológica la defensa del ciberespacio es
+inseparable de la defensa de la integridad institucional y del bienestar colectivo.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2 de la Ley 40-2024, según enmendada, conocida
+2 como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para que lea
+3 como sigue:
+4 “Artículo 2.- Aplicabilidad.
+5 Las disposiciones de esta Ley son aplicables a la Rama Ejecutiva, incluyendo todo
+6 departamento, junta, dependencia, comisión, negociado, oficina, agencia, administración
+7 u organismo, subdivisión política, corporaciones públicas y municipios. De igual forma
+8 aplica a cualquier persona natural o jurídica que haga negocios o tenga contratos con el
+9 Gobierno, incluyendo, de forma no exhaustiva, a las personas privadas que desempeñan
+10 funciones y servicios públicos, pero solamente con respecto a las funciones y servicios
+11 públicos desempeñados; a todo ejercicio de administración pública o privada en el que
+12 se hubieren dedicado o invertido fondos o recursos públicos (directa o indirectamente),
+
+5
+1 o sobre la cual se hubiere ejercido la autoridad de cualquier servidor público, en cuanto
+2 a los datos que se generan como producto de tales actividades.
+3 Las disposiciones de esta Ley también serán aplicables a todo operador de
+4 infraestructura crítica o proveedor de servicios esenciales, independientemente de que
+5 medie o no relación contractual directa con el Gobierno, cuando la interrupción,
+6 degradación o compromiso de sus sistemas pueda afectar la continuidad de servicios
+7 esenciales, la seguridad pública, la estabilidad económica o la continuidad
+8 gubernamental.”
+9 Sección 2.- Se enmienda el Artículo 3 de la Ley 40-2024, según enmendada,
+10 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+11 que lea como sigue:
+12 “Artículo 3.- Política Pública.
+13 Se establece como política pública en Puerto Rico lo siguiente:
+14 1. …
+15 …
+16 10. Reconocer la resiliencia digital y la continuidad operacional de los servicios
+17 esenciales como componentes estratégicos de la seguridad pública y el desarrollo
+18 económico, adoptando un enfoque basado en riesgo y criticidad, armonizado con
+19 estándares reconocidos internacionalmente tales como NIST, ISO/IEC 27001 e ISO
+20 22301.”
+
+6
+1 Sección 3.- Se enmienda el Artículo 4 de la Ley 40-2024, según enmendada, conocida
+2 como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para que lea
+3 como sigue:
+4 “Artículo 4. — Definiciones.
+5 Para propósitos de esta Ley y salvo que otra cosa se disponga en la misma, los
+6 siguientes términos tendrán el significado expresado a continuación:
+7 (a) …
+8 (dd) “Servicios esenciales” — aquellos servicios cuya interrupción pueda afectar
+9 significativamente la salud, seguridad, economía o bienestar colectivo, incluyendo,
+10 sin limitarse, a energía, agua, telecomunicaciones, finanzas, salud, transporte,
+11 logística crítica y sistemas gubernamentales estratégicos.
+12 (ee) “Operador crítico” — toda persona natural o jurídica, pública o privada, que
+13 administre, opere o controle infraestructura crítica o servicios esenciales.
+14 (ff) “Cadena de suministro digital” — conjunto de procesos, componentes,
+15 software, hardware y servicios interconectados que intervienen en el desarrollo,
+16 provisión y mantenimiento de sistemas tecnológicos utilizados por el Gobierno.
+17 (gg) “Gestión de riesgos cibernéticos” — proceso continuo de identificación,
+18 evaluación, mitigación y monitoreo de amenazas y vulnerabilidades que puedan
+19 afectar los Recursos de información.
+20 (hh) “Plan de Continuidad y Recuperación” — documento formal que establece
+21 procedimientos para garantizar la continuidad operacional y la recuperación ante
+22 incidentes cibernéticos o desastres tecnológicos.
+
+7
+1 (ii) “Relación entre categorías” - Para efectos de esta Ley, los términos ‘proveedor
+2 de servicios contratados’, ‘proveedor de servicios esenciales’ y ‘operador crítico’
+3 constituyen categorías distintas. El término ‘proveedor de servicios contratados’ se
+4 refiere a entidades con relación contractual directa con el Gobierno; el término
+5 ‘proveedor de servicios esenciales’ se refiere a entidades cuya operación impacta
+6 servicios esenciales independientemente de relación contractual; y el término
+7 ‘operador crítico’ comprende aquellas entidades, públicas o privadas, cuya operación
+8 o control de infraestructura crítica o servicios esenciales representa un riesgo
+9 significativo para la seguridad pública, estabilidad económica o continuidad
+10 gubernamental. PRITS establecerá mediante reglamento los criterios de clasificación
+11 y la interacción entre dichas categorías.
+12 Se dispone que los términos definidos en este Artículo deberán utilizarse de forma
+13 consistente a través de toda la Ley. Cualquier referencia a entidades reguladas deberá
+14 interpretarse conforme a las categorías aquí definidas, evitando duplicidad o
+15 ambigüedad en su aplicación.”
+16 Sección 4.- Se enmienda el Artículo 6 de la Ley 40-2024, según enmendada,
+17 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+18 que lea como sigue:
+19 “Artículo 6. – Principal Oficial de Seguridad Cibernética (Chief Information Security
+20 Officer) del Gobierno.
+21 Se crea el cargo de Principal Oficial de Seguridad Cibernética (Chief Information
+22 Security Officer) del Gobierno, quien estará adscrito al PRITS, pero gozará de cierto nivel
+
+8
+1 de autonomía para llevar a cabo sus funciones de manera independiente utilizando los
+2 recursos provistos por PRITS. …
+3 …
+4 El Principal Oficial de Seguridad Cibernética trabajará en coordinación con el
+5 Instituto y con el personal que cada Agencia designe para llevar a cabo tales funciones,
+6 en la confección y ejecución de las estrategias para proteger la información pública del
+7 Gobierno.
+8 El Principal Oficial de Seguridad Cibernética tendrá facultad para emitir normas
+9 técnicas obligatorias y vinculantes aplicables a las Agencias y a los operadores críticos
+10 cubiertos por esta Ley, incluyendo estándares mínimos de seguridad, protocolos de
+11 notificación, requisitos de auditoría y medidas de mitigación. Asimismo, podrá
+12 recomendar al Gobernador la declaración de una emergencia cibernética cuando las
+13 circunstancias lo ameriten.”
+14 Sección 5.- Se enmienda el Artículo 7 de la Ley 40-2024, según enmendada,
+15 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+16 que lea como sigue:
+17 “Artículo 7. – Estándares y principios mínimos de Ciberseguridad.
+18 Toda Agencia y todo Proveedor de servicios contratados deberá cumplir y
+19 asegurarse que toda persona natural o jurídica que haga negocios o contrate con ellos
+20 cumpla con al menos los siguientes Estándares y principios mínimos de Ciberseguridad:
+21 (1) …
+22 …
+
+9
+1 (10) Los Proveedores de servicios contratados de tecnología de la información y
+2 comunicaciones compartirán información y notificarán en un término no mayor de
+3 veinticuatro (24) horas al PRITS y a la Agencia contratante cuando descubran un
+4 incidente de seguridad cibernética o un incidente potencial que pueda poner en Riesgo
+5 los datos, productos de software, Firmware o los servicios confidenciales del Gobierno o
+6 de cualquier persona natural o jurídica;
+7 …
+8 (20) PRITS adoptará mediante reglamento un sistema de clasificación de
+9 incidentes de seguridad cibernética en niveles bajo, medio, alto y crítico, conforme al
+10 impacto potencial sobre la confidencialidad, integridad, disponibilidad, continuidad
+11 operacional y seguridad pública, estableciendo para cada nivel obligaciones específicas
+12 de notificación, respuesta y mitigación.
+13 (21) Todo proveedor clasificado como de alto o crítico impacto deberá mantener y
+14 proveer a PRITS un inventario actualizado de componentes de software (Software Bill of
+15 Materials – SBOM) conforme a estándares reconocidos, así como evidenciar un proceso
+16 formal de gestión de vulnerabilidades y aplicación de parchos de seguridad dentro de
+17 términos razonables establecidos por reglamento.”
+18 Sección 6.- Se enmienda el Artículo 10 de la Ley 40-2024, según enmendada,
+19 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, para
+20 que lea como sigue:
+21 “Artículo 10. – Sanciones.
+
+10
+1 PRITS podrá imponer multas administrativas, conforme a lo establecido en la “Ley
+2 de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, Ley 38-2017,
+3 según enmendada, que no excederán de cinco mil (5,000) dólares por cada
+4 incumplimiento con lo dispuesto en esta Ley.
+5 …”
+6 Sección 7.- Se añade un nuevo Artículo 7-A a la Ley 40-2024, según enmendada,
+7 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, que
+8 leerá como sigue:
+9 “Artículo 7-A. – Planes de Continuidad y Recuperación.
+10 Toda Agencia y todo operador crítico deberá desarrollar, mantener y actualizar
+11 anualmente un Plan de Continuidad y Recuperación ante Incidentes Cibernéticos, el cual
+12 deberá ser sometido a PRITS para fines de evaluación y validación. Dichos planes
+13 deberán ser sometidos a pruebas periódicas no menos de una (1) vez al año o con mayor
+14 frecuencia según determine PRITS mediante reglamento.”
+15 Sección 8.- Se añade un nuevo Artículo 11-A a la Ley 40-2024, según enmendada,
+16 conocida como “Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico”, que
+17 leerá como sigue:
+18 “Artículo 11-A. — Fondo de Resiliencia Digital.
+19 Se crea el Fondo de Resiliencia Digital adscrito a PRITS, con el propósito de
+20 financiar iniciativas de prevención, detección, respuesta y recuperación ante incidentes
+21 cibernéticos, así como programas de capacitación y certificación en ciberseguridad.
+
+11
+1 El Fondo podrá nutrirse de asignaciones legislativas, fondos federales, multas
+2 administrativas impuestas bajo esta Ley y cualquier otra fuente autorizada por ley. Las
+3 multas administrativas que nutran el Fondo tendrán como propósito exclusivo fortalecer
+4 la capacidad institucional de prevención, detección, respuesta y recuperación ante
+5 incidentes cibernéticos, y no se interpretarán como un mecanismo para la imposición
+6 indiscriminada de sanciones, sino como una herramienta para fomentar el cumplimiento
+7 y la sostenibilidad del sistema de ciberseguridad.”
+8 Sección 9.- Reglamentación.
+9 Se ordena a la PRITS a enmendar aquella reglamentación que sea necesaria para
+10 cumplir con las disposiciones y propósitos de esta Ley en un término de noventa (90)
+11 días, luego de aprobada esta Ley.
+12 Sección 10.- Vigencia
+13 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:   A 3  arL   d s n y f y p o f t d d G d P R h d d s u d s p l c g l p d s y e d e s s t q s d]
+[DELETED:  C d E L A d P R c u p a l L a m r l e d e l c d s t e u m d b e i a l s d y l a g e s i s l e y l s d l c e e d s y d e n]
+[DELETED:  E L A d P R ( 4 e u a i c l s d p t s s n d s h i r l a t d P s d d d f r c p e n t c r i a e c y e l s g y p a P R c u i p c r i l c d d f p f l r d y e d d]
+[DELETED:  p m t c p e l L N 4 p y f e m j v a c e s e e i c  M e e l L r s c c l p d l i c g e e y s d d R  R q e l e t l d d c e]
+[DELETED:  d d e L t s a a t o d o n r c d c e G c l i l s p l e e o l c 2 S e e A 3 d l L 4 s e e c p p e P R l s … l r d y l c o d l s c c e d l s p y e d r i t c  N I 2 e I 2]
+[DELETED:  … l a e a t f s t “ d s d — c d p c h y s i q i e e d “ d r c — p c d i m y m d a y v q p r]
+[DELETED:  s c ‘ d s e y ‘ c a e c r c d c e G e t d s e s r a e c o i e i d r c y e t c d i c o s e r u r p l s p e e o c c a l c a d e d o 4 S e e A 6 d l L 4 s e ( O ( S]
+[DELETED:  P O d S C t e c c e p e L i e m d s p d r d a y m d m A p a G l d d u e c c l 5 S e e A 7 d l L 4 s e A y t P d s c d c y]
+[DELETED: )L c i y n e u t n m d ( h a P y a l A c c d u P a m r u s d c d p s l c i d c S M 6 S e e A 1 d l L 4 s e]
+[DELETED:  e q n e d c m ( d p c s s a P p f d e y v D p c e F d R D a a P c e p d]
+[DELETED:  F p n d a l f f m c i d p d r y r a]

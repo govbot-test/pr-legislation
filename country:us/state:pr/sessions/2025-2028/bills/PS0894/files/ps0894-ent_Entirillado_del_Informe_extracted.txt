@@ -1,0 +1,740 @@
+Title: Referido a la Comisión de Educación, Arte y Cultura
+Official Title: Referido a la Comisión de Educación, Arte y Cultura
+Number of Sections: 1
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 894
+23 de diciembre de 2025
+Presentado por el señor Matías Rosario
+LEY
+Para reenumerar el segundo inciso (64) como subinciso (65) y añadir un subinciso (69)
+al inciso (b) del Artículo 2.04 del Capítulo II de la Ley Núm. 85-2018, según
+enmendada, conocida como “Ley de Reforma Educativa de Puerto Rico”, a fin de
+disponer que el Secretario del Departamento de Educación velará por el fiel
+cumplimiento de las responsabilidades fijadas al referido Departamento mediante
+la Ley Núm. 163-2024, conocida como “Ley para la Protección, Seguridad,
+Integración, Bienestar y Desarrollo Integral de las Personas con los Trastornos del
+Espectro Autista”; establecer un programa de capacitación masiva para padres,
+madres, tutores o encargados de personas con discapacidad que padezcan de
+Autismo o Trastornos del Espectro Autista (TEA), así como a estudiantes con esta
+discapacidad cuando ello resulte factible, a fin de brindarles talleres y actividades
+escolares sobre sus los derechos relacionados con el Programa de Educación
+Especial, los recursos y servicios de educación especial para personas con Autismo
+o TEA a ser ofrecidos de conformidad con las leyes y reglamentos estatales y
+federales aplicables; determinar el proceso de querellas para atender controversias
+surgidas en cuanto a los servicios de educación especial, la jurisprudencia local y
+federal de educación especial que les resulte pertinente; proveer los contactos de
+personal escolar disponible para ofrecer orientación al respecto en el
+Departamento; y realizar correcciones técnicas para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 163-2024 (en adelante, “Ley Núm. 163”), conocida como “Ley para
+la Protección, Seguridad, Integración, Bienestar y Desarrollo Integral de las Personas
+con los Trastornos del Espectro Autista (TEA)”, declara la política pública y establece el
+2
+ordenamiento legal necesario en el Gobierno de Puerto Rico para fomentar todos los
+mecanismos y servicios esenciales para el desarrollo integral y el mejor bienestar de las
+personas que padecen de TEA o autismo;1 fija responsabilidades a ciertas entidades
+gubernamentales concernidas; garantiza la continuidad de todos los programas,
+registros, sistemas, centros de información, instrumentos de evaluación, comités y
+demás servicios existentes relacionados con estas personas; fomenta la identificación,
+diagnóstico e intervención temprana a través del ciclo de vida de las mismas y dispone
+para apoyo a sus familias. Asimismo, esta legislación provee para la educación continua
+especializada de los profesionales y demás personal que labora con dichas personas;
+garantiza la continuidad de la cubierta médica para esta población; salvaguarda la
+continuidad del Comité Timón bajo la Ley Núm. 220-2012, según enmendada, conocida
+como “Ley para el Bienestar, Integración y Desarrollo de las Personas con Autismo”
+(derogada por la presente Ley), estableciéndole un nuevo nombre, deberes, funciones y
+responsabilidades para fomentar, facilitar y ejecutar esta política pública; e impone
+penalidades por el incumplimiento con sus disposiciones, entre otras cosas.
+Además de las responsabilidades en común impuestas a las entidades
+gubernamentales por el Artículo 7 de la Ley Núm. 163, este estatuto encomendó al
+1 Para propósitos de la Ley Núm. 163, “Autismo” y “TEA” significan, respectivamente, lo siguiente:
+…“[t]rastorno del neurodesarrollo, según definido por el Manual de Estadística y Diagnóstico de los
+Desórdenes Mentales, Quinta (5ta.) Edición, que típicamente aparece durante los tres primeros años de
+vida. Las personas con autismo pueden presentar síntomas relacionados al deterioro cualitativo en las
+interacciones y patrones sociales, deterioro cualitativo en la comunicación y patrones de
+comportamiento estereotipados y repetitivos. Esta condición causa un impedimento severo y profundo
+en las cogniciones, el pensamiento, la sensación, el lenguaje, y la capacidad para relacionarse con otros
+que continúan manifestándose y agravándose a lo largo del ciclo de vida. Las personas con este
+desorden poseen dificultad en el aprendizaje, la atención, desarrollo e interacción social, modulación de
+sensaciones y emociones. Además, poseen formas estereotipadas e inusuales de reaccionar ante
+situaciones sociales. Ley Núm. 163, Art. 3(c).
+[s]e caracteriza por deficiencias persistentes en la comunicación e interacción social a través de
+múltiples contextos, incluidos los déficits en la reciprocidad social, comportamientos comunicativos no
+verbales utilizados para la interacción social, y habilidades para desarrollar, mantener y comprensión
+de las relaciones. Además de los déficits de comunicación social, el diagnóstico de … [TEA] requiere la
+presencia de patrones de comportamiento restringidos y repetitivos, intereses o actividades. Debido a
+que los síntomas cambian con el desarrollo y pueden estar disimulados por mecanismos
+compensatorios, los criterios de diagnóstico pueden cumplirse con base en información histórica,
+aunque la presentación actual debe causar un deterioro significativo.
+Id., Art. 3(oo).
+3
+Departamento de Educación la responsabilidad de los siguientes asuntos detallados en
+su Artículo 9, el cual parcialmente citamos:
+a) El que la familia, la comunidad, los programas de cuidado y
+desarrollo y la escuela pública puedan identificar y desarrollar
+experiencias y oportunidades de aprendizaje para la formación de las
+personas con … [TEA];
+b) Que los programas educativos tengan un currículo regular y
+vocacional que considere las necesidades especiales de las personas
+con … [TEA], incluyendo alternativas de ubicación escolar menos
+restrictivas y servicios relacionados, de acuerdo con lo establecido en
+la legislación local y federal vigente; los servicios de un asistente, de
+necesitarlo el estudiante; educación individualizada en aquellos casos
+necesarios y los acomodos que permitan su educación, en grupos más
+pequeños. El Programa Educativo Individualizado [PEI] deberá
+adecuarse a las necesidades particulares de cada estudiante con …
+[TEA]. Como parte de los anteriores, el Departamento de Educación
+deberá atender los siguientes asuntos:
+i. Tendrá disponible en las escuelas programas educativos
+especializados para las personas con … [TEA] donde, utilizando
+como referente las prácticas basadas en evidencia, se contemple el
+máximo desarrollo integral de estos, dirigido por un profesional
+licenciado o capacitado en … [TEA]. Este programa tendrá como
+meta el poder trabajar de manera asertiva, entre el estudiante y el
+profesional especializado en autismo, su inclusión paulatina y
+programática al salón regular.
+ii. En escenarios donde un estudiante con … [TEA] por la severidad
+de su diagnóstico no pueda formar parte de una sala de
+aprendizaje con estudiantes de la corriente regular, el
+Departamento deberá tener en cada región educativa una escuela
+o instalación educativa especializada, por sí o mediante contrato o
+acuerdo colaborativo, en la cual se le puedan garantizar los
+4
+servicios educativos de acuerdo con las necesidades particulares
+de este.
+iii. Desarrollar programas especializados para atender la población de
+estudiantes con … [TEA] que se encuentran en la transición
+secundaria para la planificación de su futuro.
+c) Desarrollar programas que aseguren el bienestar, la seguridad, la
+salud y la regulación emocional o sensorial de las personas con …
+[TEA] por medio de la creación de ambientes de aprendizaje
+apropiados, tales como áreas seguras, salones sensoriales, buen trato
+interpersonal y servicios de enfermería, entre otros;
+d) Promover el desarrollo del lenguaje oral y de experiencias para
+fomentar la lectura, la escritura, así como la comunicación verbal y no
+verbal, a través de diferentes medios, incluyendo los recursos y
+tecnologías de la información, en ambientes públicos y escolares,
+promoviendo por lo menos una reevaluación cada año;
+e) Que el cuidado, desarrollo y educación de las personas con … [TEA]
+se ofrezca por personal calificado y licenciado o por un Técnico de
+Conducta Registrado y supervisado, y que haya sido adiestrado para
+trabajar con la población a nivel de pregrado o a través de educación
+continua, según las mejores prácticas establecidas;
+f) El que los programas dirigidos al cuidado, desarrollo y educación de
+las personas con … [TEA], que operen con fondos públicos o
+privados, utilizarán las prácticas apropiadas de acuerdo con las
+necesidades particulares y al nivel de desarrollo de estas personas y
+deberán cumplir con los estándares de calidad, que estén basados en
+investigaciones científicas y basadas en las mejores prácticas de
+intervención o validadas para la población en Puerto Rico;
+g) El que los programas de cuidado, desarrollo y educación para las
+personas con … [TEA], cuenten con un currículo apropiado que
+atienda las dimensiones del desarrollo y áreas para el aprendizaje, y
+que provea los espacios apropiados y el tiempo suficiente para la
+exploración, el descubrimiento e interacción apropiada, y el diálogo
+crítico y reflexivo. En el ambiente escolar se proveerán experiencias
+5
+recreativas y deportivas, clases de dibujo, arte, baile y música, entre
+otras, para el desarrollo pleno de esta población;
+h) El que los programas de cuidado, desarrollo y educación para las
+personas con … [TEA], cuenten con un componente evaluativo que
+incluya procedimientos e instrumentos apropiados para el nivel de
+desarrollo de estas personas, y que atienda las dimensiones del
+desarrollo y las áreas de aprendizaje;
+i) El que los programas de cuidado, desarrollo y educación para las
+personas con … [TEA] estén fundamentados en el respeto a la
+individualidad, particularidades, necesidades y fortalezas de los
+componentes que conforman dicha comunidad;
+j) Gestar y promover que las personas con … [TEA] reciban servicios
+continuos de cuidado y educación, enfatizando las destrezas de vida
+independiente y desarrollo de destrezas laborales como meta para
+lograr su independencia y autosuficiencia económica en su vida
+adulta; y
+k) Ofrecerá los servicios de intervención para la población entre las
+edades de tres (3) a veintiún (21) años, inclusive con … [TEA]. Los
+servicios incluirán, sin que se entienda como una limitación, las
+evaluaciones y terapias necesarias para el desarrollo y aprendizaje,
+terapia ocupacional del habla y lenguaje, psicológicas, psiquiátricas,
+físicas, visuales, de alimentación y disfagia, auditivas y conductuales,
+incluyendo las de análisis de comportamiento aplicado … . Los
+servicios de intervención serán cónsonos a los estipulados en el
+Artículo 6 de esta Ley y en coordinación con el Coordinador de
+Servicios del Departamento de Salud.
+De igual forma, el Artículo 9, supra, señala que el Departamento de Educación se
+encargará de:
+• brindar los servicios de educación especial para las personas con TEA elegibles,
+según lo dispuesto por la legislación vigente, entre las edades de tres (3) a veintiún
+(21) años, inclusive; los cuales abarcarán un Plan Educativo Individualizado (PEI),
+6
+ubicación en el ambiente menos restrictivo, y servicios relacionados necesarios para
+el desarrollo y aprendizaje;
+• contratar el personal docente especializado en educación especial con la certificación
+correspondiente para trabajar con estudiantes con TEA; y ofrecer adiestramientos y
+cursos relacionados con TEA adaptados para todo su personal docente, proveedores
+de servicios relacionados, psicólogos escolares, trabajadores sociales, directores
+escolares, consejeros y otro personal de apoyo, incluyendo empleados del comedor
+escolar, choferes, personal de mantenimiento y asistentes; y
+• contar con un componente evaluativo para establecer elegibilidad y culminar el
+proceso de avalúo en cumplimiento con los protocolos adoptados; los cuales deberán
+incluir procedimientos e instrumentos apropiados para el nivel de desarrollo de los
+estudiantes con TEA, así como atender las dimensiones del desarrollo y las áreas de
+aprendizaje según la edad y nivel de funcionamiento del estudiante.
+En torno a los Programas Educativos, el Artículo 9, supra, manifiesta que con el
+objetivo de asegurar el derecho a una educación de calidad que cobija a todo estudiante,
+el Departamento de Educación: (1) suministrará los apoyos, acomodos y modificaciones
+necesarias para viabilizar la participación de los estudiantes con TEA con sus pares sin
+discapacidad en todas las escuelas públicas; (2) empleará currículos que consideren o
+respondan a las particularidades y necesidades del estudiantado con TEA que
+estimulen el desarrollo de destrezas comunicativas funcionales; destrezas de
+lectoescritura; destrezas socioemocionales que permitan la interacción significativa con
+pares y adultos; conocimiento y destrezas académicas alineadas con los estándares
+adoptados, según corresponda; experiencias recreativas y deportivas, arte, baile y
+música, entre otras; con énfasis en las destrezas necesarias para lograr el mayor grado
+de autosuficiencia posible en la vida adulta; además de acceso a instrucción en escuelas
+de corriente regular, vocacional o especializadas, de acuerdo con sus destrezas y
+aptitudes; y (3) brindará educación especial y servicios relacionados en la ubicación
+menos restrictiva según la legislación vigente; lo cual comprende, de ser necesarios, los
+servicios de un asistente debidamente capacitado y adiestrado, de evaluaciones y
+terapias conductuales, programas especializados como métodos científicamente
+comprobados, y los acomodos que permitan la participación del estudiantado con TEA
+7
+con sus pares sin discapacidad, sin la necesidad de requerir documentación adicional
+para certificar los servicios y acomodos razonables que han sido recomendados con
+anterioridad en las evaluaciones efectuadas.
+Finalmente, en lo que respecta a los procesos de transición a ser ofrecidos por el
+Departamento de Educación, el Artículo 9, supra, establece que estos se brindarán
+conforme a lo dispuesto por la legislación vigente; e identificarán entre las respectivas
+áreas dentro del PEI. Indicándose, que en el proceso de transición de la vida escolar a la
+vida adulta, se garantizará la exposición a experiencias reales de empleo, dentro y fuera
+del ámbito escolar, con el fin de fortalecer destrezas dirigidas a una meta de empleo y
+mayor autosuficiencia, según establecido en el PEI de transición del estudiante.
+Asimismo, el referido Departamento se asegurará de efectuar la contratación o
+designación de un Coordinador Interinstitucional de Servicios a la población con TEA,
+en todas sus regiones educativas.
+Por otro lado, además de los numerosos derechos relativos a la educación,
+otorgados bajo la Ley Núm. 163 a las personas con Autismo o TEA y a sus padres,
+madres, tutores o encargados, el Capítulo X de la Ley Núm. 85-2018, según enmendada,
+conocida como “Ley de Reforma Educativa de Puerto Rico”, establece y regula el
+Programa de Educación Especial del Departamento de Educación. Dicho Programa está
+dirigido a estudiantes elegibles con impedimentos, dentro de los cuales se encuentra el
+Autismo, confiriéndole a estos y a sus familias derechos respecto a la educación especial
+e imponiéndole al Departamento de Educación obligaciones y responsabilidades
+referentes a este Programa.
+Cabe señalar que según las estadísticas publicadas por el Departamento de
+Educación en el año 2020 ─sobre (sobre los estudiantes matriculados en el Programa de
+Educación Especial─ Especial), los TEA se hallaron entre las primeras categorías de
+discapacidad de los estudiantes del sistema de educación pública. Por tanto, la
+Asamblea Legislativa considera necesario que los que padecen de TEA y sus familias se
+encuentren debidamente orientados sobre los derechos de educación especial que les
+asisten y protegen, además de los diversos deberes y responsabilidades que el
+8
+Departamento de Educación tiene que cumplir con relación a tal educación, recogidos
+tanto en la Ley Núm. 163 como en la Ley Núm. 85, supra.
+En atención a esta situación, esta legislación persigue añadir un subinciso (69) al
+inciso (b) del Artículo 2.04 del Capítulo II de la referida Ley Núm. 85, a fin de
+imponerle al Secretario de Educación la responsabilidad de velar por el fiel
+cumplimiento de las responsabilidades fijadas al Departamento por la Ley Núm. 163, y
+establecer un programa de capacitación masiva para padres, madres, tutores o
+encargados de personas con discapacidad que padezcan de Autismo o Trastornos del
+Espectro Autista (TEA). También participarán en dicho programa los estudiantes con
+esta discapacidad, en la medida en que ello resulte factible. Esto, a fin de brindarles
+talleres y actividades escolares sobre sus derechos relacionados con el Programa de
+Educación Especial; los recursos y servicios de educación especial para personas con
+Autismo o TEA, de conformidad con las leyes y reglamentos locales y federales
+aplicables; el proceso de querellas para atender controversias surgidas en cuanto a los
+servicios de educación especial; la jurisprudencia estatal y federal de educación especial
+que les resulte pertinente; y los contactos de personal escolar disponible para ofrecerles
+orientación al respecto en el Departamento. Se exige que las escuelas lleven a cabo los
+referidos talleres y actividades escolares, incluyendo la distribución de material
+informativo impreso sobre los temas anteriormente mencionados, en cumplimiento con
+lo determinado por el Secretario al respecto, al comienzo de cada año escolar, y en
+cualquier otro momento en que el Secretario lo entienda necesario o conveniente.
+Por último, nos percatamos que la Ley Núm. 1-2019 añadió un subinciso (64) al
+inciso (b) del Artículo 2.04, supra, para imponer al Secretario de Educación el deber de
+diseñar e integrar “en el currículo general del sistema público de enseñanza, en todos
+los niveles, actividades escolares y módulos dirigidos a exponer al estudiantado hacia la
+economía de conocimiento.” Con posterioridad, la Ley Núm. 33-2019 también adicionó
+otro subinciso (64) al inciso (b) del referido Artículo, con el propósito de fijar al
+Secretario de Educación la responsabilidad de “[i]mplentar en el currículo escolar, en
+todos los niveles, temas de Mitigación, Adaptación y Resiliencia al Cambio Climático.”
+Por lo cual, actualmente existen dos subincisos (64) para el mismo inciso (b) del
+9
+mencionado Artículo 2.04. Así las cosas, esta Ley busca, además, corregir ese error
+técnico al renumerar el segundo subinciso (64) como subinciso (65) del inciso (b) del
+Artículo 2.04, supra.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se renumera el segundo subinciso (64) como subinciso (65) y se añade un
+2 subinciso (69) al inciso (b) del Artículo 2.04 del Capítulo II de la Ley Núm. 85-2018,
+3 según enmendada, para que se lea como sigue:
+4 “CAPÍTULO II: SISTEMA DE EDUCACIÓN PÚBLICA
+5 Artículo 2.01.- Composición.
+6 …
+7 …
+8 Artículo 2.04.-Deberes y Responsabilidades del Secretario de Educación.
+9 a. …
+10 b. El Secretario deberá:
+11 1. …
+12 63. Establecer programas sobre prevención de violencia doméstica dirigidos a
+13 estudiantes del sistema público, a padres y madres, adaptado a los
+14 diferentes niveles: elementales y secundarios; con énfasis en los aspectos,
+15 sociales y emocionales de la violencia doméstica.
+16 64. Diseñará e integrará en el currículo general del sistema público de
+17 enseñanza, en todos los niveles, actividades escolares y módulos dirigidos
+18 a exponer al estudiantado hacia la economía del conocimiento.
+10
+1 [64.] 65. Implementar en el currículo escolar, en todos los niveles, temas de
+2 Mitigación, Adaptación y Resiliencia al Cambio Climático.
+3 66. Establecer e incorporar en el currículo del Programa de Educación Física,
+4 Estudios Sociales, Español, Historia y cursos electivos a nivel elemental,
+5 intermedio y superior, la enseñanza de la vida, la obra y el legado
+6 deportivo y filantrópico de Roberto Enrique Clemente Walker.
+7 67. Establecerá, en coordinación con el Departamento de Salud, un taller de
+8 enseñanza dirigido a promover la orientación y concienciación sobre
+9 obesidad infantil, diabetes infantil e hipoglucemia infantil. Además,
+10 tendrá la obligación de implementar este currículo a través de los
+11 ofrecimientos académicos regulares, o integrándolo a los programas
+12 académicos y otras modalidades educativas. Las escuelas, con el
+13 asesoramiento del Departamento, proveerán dos (2) horas por año
+14 académico sobre orientación y concienciación sobre la obesidad, la
+15 diabetes y la hipoglucemia en niveles infantiles incluyendo charlas y
+16 material informativo impreso. Estos harán énfasis en la importancia de
+17 prevenir o tratar los padecimientos anteriormente mencionados, así como
+18 orientaciones sobre estilos de vida saludables.
+19 68. Establecer programas, actividades y módulos adaptados para los niveles
+20 elemental, intermedio y superior sobre cuido responsabilidad y protección
+21 de animales, el cual incluirá, sin que se entienda como una limitación, el
+11
+1 orientar al estudiantado sobre el marco legal vigente sobre este importante
+2 asunto, de manera particular la Ley 154- 2008, según enmendada. …
+3 69. Velar por el fiel cumplimiento de las responsabilidades fijadas al Departamento
+4 por la Ley Núm. 163-2024, conocida como “Ley para la Protección, Seguridad,
+5 Integración, Bienestar y Desarrollo Integral de las Personas con los Trastornos
+6 del Espectro Autista”, y establecer, mediante reglamento, orden administrativa
+7 y/o carta circular, un programa de capacitación masiva para padres, madres,
+8 tutores o encargados de personas con discapacidad que padezcan de Autismo o
+9 Trastornos del Espectro Autista (TEA). También participarán en dicho programa
+10 los estudiantes con esta discapacidad, en la medida en que ello resulte factible. Lo
+11 anterior, a fin de brindarles talleres y actividades escolares sobre suslos derechos
+12 relacionados con el Programa de Educación Especial; los recursos y servicios de
+13 educación especial para personas con Autismo o TEA, de conformidad con las
+14 leyes y reglamentos locales y federales aplicables; el proceso de querellas para
+15 atender controversias surgidas en cuanto a los servicios de educación especial; la
+16 jurisprudencia estatal y federal de educación especial que les resulte pertinente; y
+17 los contactos de personal escolar disponible para ofrecerles orientación al respecto
+18 en el Departamento. Disponiéndose, que las escuelas realizarán los referidos
+19 talleres y actividades escolares, incluyendo la distribución de material informativo
+20 impreso sobre los temas anteriormente mencionados, en observancia a lo dispuesto
+21 por el Secretario a tal efecto, al comienzo de cada año escolar, así como o en
+22 cualquier otro momento en que el Secretario lo entienda necesario o conveniente.”
+12
+1 Sección 2.- Esta Ley se interpretará con supremacía sobre cualquiera de las leyes
+2 vigentes al momento de su aprobación que presente, o pueda interpretarse que
+3 presenta, un obstáculo para la consecución de sus objetivos.
+4 Sección 3.- Cualquier orden administrativa, carta circular, memorando o documento
+5 interpretativo que sea inconsistente con las disposiciones de esta Ley o los reglamentos,
+6 órdenes administrativas y/o cartas circulares que se adopten a su amparo, carecerá de
+7 validez y eficacia.
+8 Sección 4.- Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por
+9 un tribunal con jurisdicción, la sentencia a tal efecto no afectará ni invalidará el resto de
+10 esta Ley y su efecto quedará limitado a la disposición objeto de dicho dictamen judicial.
+11 Sección 5.- Esta Ley entrará en vigor inmediatamente después de su aprobación. No
+12 obstante, las actividades escolares y talleres relacionados con el programa de
+13 capacitación masiva deberán estar formalmente diseñados, integrados e implantados a
+14 partir del curso escolar 2026-2027.
+[DELETED: 0A          3  r            i ( d A 2 d C I d l L N 8 s q e S d D d E v p e f L N 1 c c “ p l P S A e u p d c m p p t o e d p c d q p d s s  d r c e P d E T a s o d c c l l y r e y e d p o o a r e e . S B y d]
+[DELETED:  q p d T o a; f r a c e c g l c d t l p s c d i i d e c y e d l q d l c d l c m p e p s l e B I y D A p f f y e e p p e i d l r e c i a l e p e A 7 d l L N 1 e e e a P y p s d c e l c y p d c m y a a l l d c d v L p c e y e A p f e e i d r a c p d p e l c e i s a t d l s c c e d y p e d p m l c d d p c c b e i h]
+[DELETED: )E q l f l c l p d c y y l e p p i y d)Q l p e t u c r y … [ i a d u e m E P E I [ d a p d c e c ….T d e l e p e e e a s i p y.E s d n p f p d u s d c e d l c r e c e l c s l p g l]
+[DELETED: .D c … [ q s e e l t)D p q a e b l s l l p m d l c d a d a)P e d d l o y d e p a t d d m i l r y d l i e a p y e)Q)E p c … [ q o c f p o u l p a d a c l c y b e l m p d)E q l p d c d y e p l c … [ c c u c a q p l e a y e t s p l]
+[DELETED: )E q l p d c d y e p l n d d e p y q a l d d)E q l p d c d y e p l c … [ e f e e r a l p n y f d l)G y d d d l c m p s i y a e e s v)O l s d i p l p e l i s q s e c u l l t n p e d y a l d a d c a … . L d i s c a l e e e 6 d e L y e c c e C d , l s d e e p l p c T e]
+[DELETED:  s r p e t s d c u c e p e e y c e , a l p y n d e c T q e d d d c f d d y a c y d a a c l e s c e r y d a b y c r v o e d a c s d y y ( b e e y s r e l u d u a d c y a d e y c p e c m c]
+[DELETED:  c l s y a r q h s r c d E e A 9 , e q e s b a s e e e P d t d e e r D s a d e l c o o l a d l n d r a l e b c “ d R E d P e y r e i a D d E o y r s q s l e p p e D d   E  l T s h e l p c d d l e d s d e p P t l y p a d l d d y r q e]
+[DELETED:  . ( d A 2 d C I d l r L N 8 a f d a S d E l r d v p e f u p d c m p p m t o l q d y a e s s d r c e P d E l e p p o T d c c l l y r l y f t y a e i l d d m d p e S a r a c d c a e y e , s ( a i ( d r A c e p d f a l c a e d s ( p e m i ( d]
+[DELETED:  A A l c e L b a c e e .  i A C d 8.….E.….E d s p a p y m a a l.D e i e e c g d s p d]
+[DELETED:  I e e c e e t l n t d.E y s l e d l v l o y e l E d a p l o y c s i d i e h i A l o d i e c a t d l a r o i a l p y o m e L e c e d D p d ( h p a s o y c s l o l y l h e n i i c y i i E h é e l i d.E]
+[DELETED: .V c c u p d c m p p mepsd p c T y r l y f a e p d q p e D D q l e r l r e S a t e a c d c a e a c o e.]
+[DELETED:  2 E L s i c s s c d l l a m d s a q p o p i q l a e y t r c e p d]
+
+
+================================================================================
+
+Raw Text:
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 894
+23 de diciembre de 2025
+Presentado por el señor Matías Rosario
+Referido a la Comisión de Educación, Arte y Cultura
+LEY
+Para reenumerar el segundo inciso (64) como subinciso (65) y añadir un subinciso (69)
+al inciso (b) del Artículo 2.04 del Capítulo II de la Ley Núm. 85-2018, según
+enmendada, conocida como “Ley de Reforma Educativa de Puerto Rico”, a fin de
+disponer que el Secretario del Departamento de Educación velará por el fiel
+cumplimiento de las responsabilidades fijadas al referido Departamento mediante
+la Ley Núm. 163-2024, conocida como “Ley para la Protección, Seguridad,
+Integración, Bienestar y Desarrollo Integral de las Personas con los Trastornos del
+Espectro Autista”; establecer un programa de capacitación masiva para padres,
+madres, tutores o encargados de personas con discapacidad que padezcan de
+Autismo o Trastornos del Espectro Autista (TEA), así como a estudiantes con esta
+discapacidad cuando ello resulte factible, a fin de brindarles talleres y actividades
+escolares sobre sus los derechos relacionados con el Programa de Educación
+Especial, los recursos y servicios de educación especial para personas con Autismo
+o TEA a ser ofrecidos de conformidad con las leyes y reglamentos estatales y
+federales aplicables; determinar el proceso de querellas para atender controversias
+surgidas en cuanto a los servicios de educación especial, la jurisprudencia local y
+federal de educación especial que les resulte pertinente; proveer los contactos de
+personal escolar disponible para ofrecer orientación al respecto en el
+Departamento; y realizar correcciones técnicas para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 163-2024 (en adelante, “Ley Núm. 163”), conocida como “Ley para
+la Protección, Seguridad, Integración, Bienestar y Desarrollo Integral de las Personas
+con los Trastornos del Espectro Autista (TEA)”, declara la política pública y establece el
+
+2
+ordenamiento legal necesario en el Gobierno de Puerto Rico para fomentar todos los
+mecanismos y servicios esenciales para el desarrollo integral y el mejor bienestar de las
+personas que padecen de TEA o autismo;1 fija responsabilidades a ciertas entidades
+gubernamentales concernidas; garantiza la continuidad de todos los programas,
+registros, sistemas, centros de información, instrumentos de evaluación, comités y
+demás servicios existentes relacionados con estas personas; fomenta la identificación,
+diagnóstico e intervención temprana a través del ciclo de vida de las mismas y dispone
+para apoyo a sus familias. Asimismo, esta legislación provee para la educación continua
+especializada de los profesionales y demás personal que labora con dichas personas;
+garantiza la continuidad de la cubierta médica para esta población; salvaguarda la
+continuidad del Comité Timón bajo la Ley Núm. 220-2012, según enmendada, conocida
+como “Ley para el Bienestar, Integración y Desarrollo de las Personas con Autismo”
+(derogada por la presente Ley), estableciéndole un nuevo nombre, deberes, funciones y
+responsabilidades para fomentar, facilitar y ejecutar esta política pública; e impone
+penalidades por el incumplimiento con sus disposiciones, entre otras cosas.
+Además de las responsabilidades en común impuestas a las entidades
+gubernamentales por el Artículo 7 de la Ley Núm. 163, este estatuto encomendó al
+1 Para propósitos de la Ley Núm. 163, “Autismo” y “TEA” significan, respectivamente, lo siguiente:
+…“[t]rastorno del neurodesarrollo, según definido por el Manual de Estadística y Diagnóstico de los
+Desórdenes Mentales, Quinta (5ta.) Edición, que típicamente aparece durante los tres primeros años de
+vida. Las personas con autismo pueden presentar síntomas relacionados al deterioro cualitativo en las
+interacciones y patrones sociales, deterioro cualitativo en la comunicación y patrones de
+comportamiento estereotipados y repetitivos. Esta condición causa un impedimento severo y profundo
+en las cogniciones, el pensamiento, la sensación, el lenguaje, y la capacidad para relacionarse con otros
+que continúan manifestándose y agravándose a lo largo del ciclo de vida. Las personas con este
+desorden poseen dificultad en el aprendizaje, la atención, desarrollo e interacción social, modulación de
+sensaciones y emociones. Además, poseen formas estereotipadas e inusuales de reaccionar ante
+situaciones sociales. Ley Núm. 163, Art. 3(c).
+[s]e caracteriza por deficiencias persistentes en la comunicación e interacción social a través de
+múltiples contextos, incluidos los déficits en la reciprocidad social, comportamientos comunicativos no
+verbales utilizados para la interacción social, y habilidades para desarrollar, mantener y comprensión
+de las relaciones. Además de los déficits de comunicación social, el diagnóstico de … [TEA] requiere la
+presencia de patrones de comportamiento restringidos y repetitivos, intereses o actividades. Debido a
+que los síntomas cambian con el desarrollo y pueden estar disimulados por mecanismos
+compensatorios, los criterios de diagnóstico pueden cumplirse con base en información histórica,
+aunque la presentación actual debe causar un deterioro significativo.
+Id., Art. 3(oo).
+
+3
+Departamento de Educación la responsabilidad de los siguientes asuntos detallados en
+su Artículo 9, el cual parcialmente citamos:
+a) El que la familia, la comunidad, los programas de cuidado y
+desarrollo y la escuela pública puedan identificar y desarrollar
+experiencias y oportunidades de aprendizaje para la formación de las
+personas con … [TEA];
+b) Que los programas educativos tengan un currículo regular y
+vocacional que considere las necesidades especiales de las personas
+con … [TEA], incluyendo alternativas de ubicación escolar menos
+restrictivas y servicios relacionados, de acuerdo con lo establecido en
+la legislación local y federal vigente; los servicios de un asistente, de
+necesitarlo el estudiante; educación individualizada en aquellos casos
+necesarios y los acomodos que permitan su educación, en grupos más
+pequeños. El Programa Educativo Individualizado [PEI] deberá
+adecuarse a las necesidades particulares de cada estudiante con …
+[TEA]. Como parte de los anteriores, el Departamento de Educación
+deberá atender los siguientes asuntos:
+i. Tendrá disponible en las escuelas programas educativos
+especializados para las personas con … [TEA] donde, utilizando
+como referente las prácticas basadas en evidencia, se contemple el
+máximo desarrollo integral de estos, dirigido por un profesional
+licenciado o capacitado en … [TEA]. Este programa tendrá como
+meta el poder trabajar de manera asertiva, entre el estudiante y el
+profesional especializado en autismo, su inclusión paulatina y
+programática al salón regular.
+ii. En escenarios donde un estudiante con … [TEA] por la severidad
+de su diagnóstico no pueda formar parte de una sala de
+aprendizaje con estudiantes de la corriente regular, el
+Departamento deberá tener en cada región educativa una escuela
+o instalación educativa especializada, por sí o mediante contrato o
+acuerdo colaborativo, en la cual se le puedan garantizar los
+
+4
+servicios educativos de acuerdo con las necesidades particulares
+de este.
+iii. Desarrollar programas especializados para atender la población de
+estudiantes con … [TEA] que se encuentran en la transición
+secundaria para la planificación de su futuro.
+c) Desarrollar programas que aseguren el bienestar, la seguridad, la
+salud y la regulación emocional o sensorial de las personas con …
+[TEA] por medio de la creación de ambientes de aprendizaje
+apropiados, tales como áreas seguras, salones sensoriales, buen trato
+interpersonal y servicios de enfermería, entre otros;
+d) Promover el desarrollo del lenguaje oral y de experiencias para
+fomentar la lectura, la escritura, así como la comunicación verbal y no
+verbal, a través de diferentes medios, incluyendo los recursos y
+tecnologías de la información, en ambientes públicos y escolares,
+promoviendo por lo menos una reevaluación cada año;
+e) Que el cuidado, desarrollo y educación de las personas con … [TEA]
+se ofrezca por personal calificado y licenciado o por un Técnico de
+Conducta Registrado y supervisado, y que haya sido adiestrado para
+trabajar con la población a nivel de pregrado o a través de educación
+continua, según las mejores prácticas establecidas;
+f) El que los programas dirigidos al cuidado, desarrollo y educación de
+las personas con … [TEA], que operen con fondos públicos o
+privados, utilizarán las prácticas apropiadas de acuerdo con las
+necesidades particulares y al nivel de desarrollo de estas personas y
+deberán cumplir con los estándares de calidad, que estén basados en
+investigaciones científicas y basadas en las mejores prácticas de
+intervención o validadas para la población en Puerto Rico;
+g) El que los programas de cuidado, desarrollo y educación para las
+personas con … [TEA], cuenten con un currículo apropiado que
+atienda las dimensiones del desarrollo y áreas para el aprendizaje, y
+que provea los espacios apropiados y el tiempo suficiente para la
+exploración, el descubrimiento e interacción apropiada, y el diálogo
+crítico y reflexivo. En el ambiente escolar se proveerán experiencias
+
+5
+recreativas y deportivas, clases de dibujo, arte, baile y música, entre
+otras, para el desarrollo pleno de esta población;
+h) El que los programas de cuidado, desarrollo y educación para las
+personas con … [TEA], cuenten con un componente evaluativo que
+incluya procedimientos e instrumentos apropiados para el nivel de
+desarrollo de estas personas, y que atienda las dimensiones del
+desarrollo y las áreas de aprendizaje;
+i) El que los programas de cuidado, desarrollo y educación para las
+personas con … [TEA] estén fundamentados en el respeto a la
+individualidad, particularidades, necesidades y fortalezas de los
+componentes que conforman dicha comunidad;
+j) Gestar y promover que las personas con … [TEA] reciban servicios
+continuos de cuidado y educación, enfatizando las destrezas de vida
+independiente y desarrollo de destrezas laborales como meta para
+lograr su independencia y autosuficiencia económica en su vida
+adulta; y
+k) Ofrecerá los servicios de intervención para la población entre las
+edades de tres (3) a veintiún (21) años, inclusive con … [TEA]. Los
+servicios incluirán, sin que se entienda como una limitación, las
+evaluaciones y terapias necesarias para el desarrollo y aprendizaje,
+terapia ocupacional del habla y lenguaje, psicológicas, psiquiátricas,
+físicas, visuales, de alimentación y disfagia, auditivas y conductuales,
+incluyendo las de análisis de comportamiento aplicado … . Los
+servicios de intervención serán cónsonos a los estipulados en el
+Artículo 6 de esta Ley y en coordinación con el Coordinador de
+Servicios del Departamento de Salud.
+De igual forma, el Artículo 9, supra, señala que el Departamento de Educación se
+encargará de:
+• brindar los servicios de educación especial para las personas con TEA elegibles,
+según lo dispuesto por la legislación vigente, entre las edades de tres (3) a veintiún
+(21) años, inclusive; los cuales abarcarán un Plan Educativo Individualizado (PEI),
+
+6
+ubicación en el ambiente menos restrictivo, y servicios relacionados necesarios para
+el desarrollo y aprendizaje;
+• contratar el personal docente especializado en educación especial con la certificación
+correspondiente para trabajar con estudiantes con TEA; y ofrecer adiestramientos y
+cursos relacionados con TEA adaptados para todo su personal docente, proveedores
+de servicios relacionados, psicólogos escolares, trabajadores sociales, directores
+escolares, consejeros y otro personal de apoyo, incluyendo empleados del comedor
+escolar, choferes, personal de mantenimiento y asistentes; y
+• contar con un componente evaluativo para establecer elegibilidad y culminar el
+proceso de avalúo en cumplimiento con los protocolos adoptados; los cuales deberán
+incluir procedimientos e instrumentos apropiados para el nivel de desarrollo de los
+estudiantes con TEA, así como atender las dimensiones del desarrollo y las áreas de
+aprendizaje según la edad y nivel de funcionamiento del estudiante.
+En torno a los Programas Educativos, el Artículo 9, supra, manifiesta que con el
+objetivo de asegurar el derecho a una educación de calidad que cobija a todo estudiante,
+el Departamento de Educación: (1) suministrará los apoyos, acomodos y modificaciones
+necesarias para viabilizar la participación de los estudiantes con TEA con sus pares sin
+discapacidad en todas las escuelas públicas; (2) empleará currículos que consideren o
+respondan a las particularidades y necesidades del estudiantado con TEA que
+estimulen el desarrollo de destrezas comunicativas funcionales; destrezas de
+lectoescritura; destrezas socioemocionales que permitan la interacción significativa con
+pares y adultos; conocimiento y destrezas académicas alineadas con los estándares
+adoptados, según corresponda; experiencias recreativas y deportivas, arte, baile y
+música, entre otras; con énfasis en las destrezas necesarias para lograr el mayor grado
+de autosuficiencia posible en la vida adulta; además de acceso a instrucción en escuelas
+de corriente regular, vocacional o especializadas, de acuerdo con sus destrezas y
+aptitudes; y (3) brindará educación especial y servicios relacionados en la ubicación
+menos restrictiva según la legislación vigente; lo cual comprende, de ser necesarios, los
+servicios de un asistente debidamente capacitado y adiestrado, de evaluaciones y
+terapias conductuales, programas especializados como métodos científicamente
+comprobados, y los acomodos que permitan la participación del estudiantado con TEA
+
+7
+con sus pares sin discapacidad, sin la necesidad de requerir documentación adicional
+para certificar los servicios y acomodos razonables que han sido recomendados con
+anterioridad en las evaluaciones efectuadas.
+Finalmente, en lo que respecta a los procesos de transición a ser ofrecidos por el
+Departamento de Educación, el Artículo 9, supra, establece que estos se brindarán
+conforme a lo dispuesto por la legislación vigente; e identificarán entre las respectivas
+áreas dentro del PEI. Indicándose, que en el proceso de transición de la vida escolar a la
+vida adulta, se garantizará la exposición a experiencias reales de empleo, dentro y fuera
+del ámbito escolar, con el fin de fortalecer destrezas dirigidas a una meta de empleo y
+mayor autosuficiencia, según establecido en el PEI de transición del estudiante.
+Asimismo, el referido Departamento se asegurará de efectuar la contratación o
+designación de un Coordinador Interinstitucional de Servicios a la población con TEA,
+en todas sus regiones educativas.
+Por otro lado, además de los numerosos derechos relativos a la educación,
+otorgados bajo la Ley Núm. 163 a las personas con Autismo o TEA y a sus padres,
+madres, tutores o encargados, el Capítulo X de la Ley Núm. 85-2018, según enmendada,
+conocida como “Ley de Reforma Educativa de Puerto Rico”, establece y regula el
+Programa de Educación Especial del Departamento de Educación. Dicho Programa está
+dirigido a estudiantes elegibles con impedimentos, dentro de los cuales se encuentra el
+Autismo, confiriéndole a estos y a sus familias derechos respecto a la educación especial
+e imponiéndole al Departamento de Educación obligaciones y responsabilidades
+referentes a este Programa.
+Cabe señalar que según las estadísticas publicadas por el Departamento de
+Educación en el año 2020 ─sobre (sobre los estudiantes matriculados en el Programa de
+Educación Especial─ Especial), los TEA se hallaron entre las primeras categorías de
+discapacidad de los estudiantes del sistema de educación pública. Por tanto, la
+Asamblea Legislativa considera necesario que los que padecen de TEA y sus familias se
+encuentren debidamente orientados sobre los derechos de educación especial que les
+asisten y protegen, además de los diversos deberes y responsabilidades que el
+
+8
+Departamento de Educación tiene que cumplir con relación a tal educación, recogidos
+tanto en la Ley Núm. 163 como en la Ley Núm. 85, supra.
+En atención a esta situación, esta legislación persigue añadir un subinciso (69) al
+inciso (b) del Artículo 2.04 del Capítulo II de la referida Ley Núm. 85, a fin de
+imponerle al Secretario de Educación la responsabilidad de velar por el fiel
+cumplimiento de las responsabilidades fijadas al Departamento por la Ley Núm. 163, y
+establecer un programa de capacitación masiva para padres, madres, tutores o
+encargados de personas con discapacidad que padezcan de Autismo o Trastornos del
+Espectro Autista (TEA). También participarán en dicho programa los estudiantes con
+esta discapacidad, en la medida en que ello resulte factible. Esto, a fin de brindarles
+talleres y actividades escolares sobre sus derechos relacionados con el Programa de
+Educación Especial; los recursos y servicios de educación especial para personas con
+Autismo o TEA, de conformidad con las leyes y reglamentos locales y federales
+aplicables; el proceso de querellas para atender controversias surgidas en cuanto a los
+servicios de educación especial; la jurisprudencia estatal y federal de educación especial
+que les resulte pertinente; y los contactos de personal escolar disponible para ofrecerles
+orientación al respecto en el Departamento. Se exige que las escuelas lleven a cabo los
+referidos talleres y actividades escolares, incluyendo la distribución de material
+informativo impreso sobre los temas anteriormente mencionados, en cumplimiento con
+lo determinado por el Secretario al respecto, al comienzo de cada año escolar, y en
+cualquier otro momento en que el Secretario lo entienda necesario o conveniente.
+Por último, nos percatamos que la Ley Núm. 1-2019 añadió un subinciso (64) al
+inciso (b) del Artículo 2.04, supra, para imponer al Secretario de Educación el deber de
+diseñar e integrar “en el currículo general del sistema público de enseñanza, en todos
+los niveles, actividades escolares y módulos dirigidos a exponer al estudiantado hacia la
+economía de conocimiento.” Con posterioridad, la Ley Núm. 33-2019 también adicionó
+otro subinciso (64) al inciso (b) del referido Artículo, con el propósito de fijar al
+Secretario de Educación la responsabilidad de “[i]mplentar en el currículo escolar, en
+todos los niveles, temas de Mitigación, Adaptación y Resiliencia al Cambio Climático.”
+Por lo cual, actualmente existen dos subincisos (64) para el mismo inciso (b) del
+
+9
+mencionado Artículo 2.04. Así las cosas, esta Ley busca, además, corregir ese error
+técnico al renumerar el segundo subinciso (64) como subinciso (65) del inciso (b) del
+Artículo 2.04, supra.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se renumera el segundo subinciso (64) como subinciso (65) y se añade un
+2 subinciso (69) al inciso (b) del Artículo 2.04 del Capítulo II de la Ley Núm. 85-2018,
+3 según enmendada, para que se lea como sigue:
+4 “CAPÍTULO II: SISTEMA DE EDUCACIÓN PÚBLICA
+5 Artículo 2.01.- Composición.
+6 …
+7 …
+8 Artículo 2.04.-Deberes y Responsabilidades del Secretario de Educación.
+9 a. …
+10 b. El Secretario deberá:
+11 1. …
+12 63. Establecer programas sobre prevención de violencia doméstica dirigidos a
+13 estudiantes del sistema público, a padres y madres, adaptado a los
+14 diferentes niveles: elementales y secundarios; con énfasis en los aspectos,
+15 sociales y emocionales de la violencia doméstica.
+16 64. Diseñará e integrará en el currículo general del sistema público de
+17 enseñanza, en todos los niveles, actividades escolares y módulos dirigidos
+18 a exponer al estudiantado hacia la economía del conocimiento.
+
+10
+1 [64.] 65. Implementar en el currículo escolar, en todos los niveles, temas de
+2 Mitigación, Adaptación y Resiliencia al Cambio Climático.
+3 66. Establecer e incorporar en el currículo del Programa de Educación Física,
+4 Estudios Sociales, Español, Historia y cursos electivos a nivel elemental,
+5 intermedio y superior, la enseñanza de la vida, la obra y el legado
+6 deportivo y filantrópico de Roberto Enrique Clemente Walker.
+7 67. Establecerá, en coordinación con el Departamento de Salud, un taller de
+8 enseñanza dirigido a promover la orientación y concienciación sobre
+9 obesidad infantil, diabetes infantil e hipoglucemia infantil. Además,
+10 tendrá la obligación de implementar este currículo a través de los
+11 ofrecimientos académicos regulares, o integrándolo a los programas
+12 académicos y otras modalidades educativas. Las escuelas, con el
+13 asesoramiento del Departamento, proveerán dos (2) horas por año
+14 académico sobre orientación y concienciación sobre la obesidad, la
+15 diabetes y la hipoglucemia en niveles infantiles incluyendo charlas y
+16 material informativo impreso. Estos harán énfasis en la importancia de
+17 prevenir o tratar los padecimientos anteriormente mencionados, así como
+18 orientaciones sobre estilos de vida saludables.
+19 68. Establecer programas, actividades y módulos adaptados para los niveles
+20 elemental, intermedio y superior sobre cuido responsabilidad y protección
+21 de animales, el cual incluirá, sin que se entienda como una limitación, el
+
+11
+1 orientar al estudiantado sobre el marco legal vigente sobre este importante
+2 asunto, de manera particular la Ley 154- 2008, según enmendada. …
+3 69. Velar por el fiel cumplimiento de las responsabilidades fijadas al Departamento
+4 por la Ley Núm. 163-2024, conocida como “Ley para la Protección, Seguridad,
+5 Integración, Bienestar y Desarrollo Integral de las Personas con los Trastornos
+6 del Espectro Autista”, y establecer, mediante reglamento, orden administrativa
+7 y/o carta circular, un programa de capacitación masiva para padres, madres,
+8 tutores o encargados de personas con discapacidad que padezcan de Autismo o
+9 Trastornos del Espectro Autista (TEA). También participarán en dicho programa
+10 los estudiantes con esta discapacidad, en la medida en que ello resulte factible. Lo
+11 anterior, a fin de brindarles talleres y actividades escolares sobre suslos derechos
+12 relacionados con el Programa de Educación Especial; los recursos y servicios de
+13 educación especial para personas con Autismo o TEA, de conformidad con las
+14 leyes y reglamentos locales y federales aplicables; el proceso de querellas para
+15 atender controversias surgidas en cuanto a los servicios de educación especial; la
+16 jurisprudencia estatal y federal de educación especial que les resulte pertinente; y
+17 los contactos de personal escolar disponible para ofrecerles orientación al respecto
+18 en el Departamento. Disponiéndose, que las escuelas realizarán los referidos
+19 talleres y actividades escolares, incluyendo la distribución de material informativo
+20 impreso sobre los temas anteriormente mencionados, en observancia a lo dispuesto
+21 por el Secretario a tal efecto, al comienzo de cada año escolar, así como o en
+22 cualquier otro momento en que el Secretario lo entienda necesario o conveniente.”
+
+12
+1 Sección 2.- Esta Ley se interpretará con supremacía sobre cualquiera de las leyes
+2 vigentes al momento de su aprobación que presente, o pueda interpretarse que
+3 presenta, un obstáculo para la consecución de sus objetivos.
+4 Sección 3.- Cualquier orden administrativa, carta circular, memorando o documento
+5 interpretativo que sea inconsistente con las disposiciones de esta Ley o los reglamentos,
+6 órdenes administrativas y/o cartas circulares que se adopten a su amparo, carecerá de
+7 validez y eficacia.
+8 Sección 4.- Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por
+9 un tribunal con jurisdicción, la sentencia a tal efecto no afectará ni invalidará el resto de
+10 esta Ley y su efecto quedará limitado a la disposición objeto de dicho dictamen judicial.
+11 Sección 5.- Esta Ley entrará en vigor inmediatamente después de su aprobación. No
+12 obstante, las actividades escolares y talleres relacionados con el programa de
+13 capacitación masiva deberán estar formalmente diseñados, integrados e implantados a
+14 partir del curso escolar 2026-2027.
+
+[DELETED: 0A          3  r            i ( d A 2 d C I d l L N 8 s q e S d D d E v p e f L N 1 c c “ p l P S A e u p d c m p p t o e d p c d q p d s s  d r c e P d E T a s o d c c l l y r e y e d p o o a r e e . S B y d]
+[DELETED:  q p d T o a; f r a c e c g l c d t l p s c d i i d e c y e d l q d l c d l c m p e p s l e B I y D A p f f y e e p p e i d l r e c i a l e p e A 7 d l L N 1 e e e a P y p s d c e l c y p d c m y a a l l d c d v L p c e y e A p f e e i d r a c p d p e l c e i s a t d l s c c e d y p e d p m l c d d p c c b e i h]
+[DELETED: )E q l f l c l p d c y y l e p p i y d)Q l p e t u c r y … [ i a d u e m E P E I [ d a p d c e c ….T d e l e p e e e a s i p y.E s d n p f p d u s d c e d l c r e c e l c s l p g l]
+[DELETED: .D c … [ q s e e l t)D p q a e b l s l l p m d l c d a d a)P e d d l o y d e p a t d d m i l r y d l i e a p y e)Q)E p c … [ q o c f p o u l p a d a c l c y b e l m p d)E q l p d c d y e p l c … [ c c u c a q p l e a y e t s p l]
+[DELETED: )E q l p d c d y e p l n d d e p y q a l d d)E q l p d c d y e p l c … [ e f e e r a l p n y f d l)G y d d d l c m p s i y a e e s v)O l s d i p l p e l i s q s e c u l l t n p e d y a l d a d c a … . L d i s c a l e e e 6 d e L y e c c e C d , l s d e e p l p c T e]
+[DELETED:  s r p e t s d c u c e p e e y c e , a l p y n d e c T q e d d d c f d d y a c y d a a c l e s c e r y d a b y c r v o e d a c s d y y ( b e e y s r e l u d u a d c y a d e y c p e c m c]
+[DELETED:  c l s y a r q h s r c d E e A 9 , e q e s b a s e e e P d t d e e r D s a d e l c o o l a d l n d r a l e b c “ d R E d P e y r e i a D d E o y r s q s l e p p e D d   E  l T s h e l p c d d l e d s d e p P t l y p a d l d d y r q e]
+[DELETED:  . ( d A 2 d C I d l r L N 8 a f d a S d E l r d v p e f u p d c m p p m t o l q d y a e s s d r c e P d E l e p p o T d c c l l y r l y f t y a e i l d d m d p e S a r a c d c a e y e , s ( a i ( d r A c e p d f a l c a e d s ( p e m i ( d]
+[DELETED:  A A l c e L b a c e e .  i A C d 8.….E.….E d s p a p y m a a l.D e i e e c g d s p d]
+[DELETED:  I e e c e e t l n t d.E y s l e d l v l o y e l E d a p l o y c s i d i e h i A l o d i e c a t d l a r o i a l p y o m e L e c e d D p d ( h p a s o y c s l o l y l h e n i i c y i i E h é e l i d.E]
+[DELETED: .V c c u p d c m p p mepsd p c T y r l y f a e p d q p e D D q l e r l r e S a t e a c d c a e a c o e.]
+[DELETED:  2 E L s i c s s c d l l a m d s a q p o p i q l a e y t r c e p d]

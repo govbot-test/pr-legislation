@@ -1,0 +1,195 @@
+Title: Para ordenar al Puerto Rico Innovation and Technology Service (PRITS), realizar un
+Official Title: Para ordenar al Puerto Rico Innovation and Technology Service (PRITS), realizar un
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+(R. C. del S. 1)
+(Conferencia)
+RESOLUCIÓN CONJUNTA
+estudio sobre las brechas en las leyes estatales vigentes de privacidad de datos con
+el fin de proponer las reglas que deban establecerse en torno a la inteligencia
+artificial en Puerto Rico que protejan los intereses de nuestros ciudadanos y la
+competitividad económica de Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Según el National Artificial Intelligence Initiative Act of 2020 la Inteligencia Artificial es
+un sistema computarizado capaz de realizar predicciones, recomendaciones o tomar
+decisiones que influyan en entornos reales o virtuales, de acuerdo con un conjunto de
+objetivos definidos por los seres humanos.1 Los sistemas de inteligencia artificial
+utilizan información proveniente de computadoras y seres humanos para percibir
+entornos reales y virtuales; convertir esas percepciones en modelos mediante análisis
+automatizado; y emplear modelos de inferencia para formular información o
+conclusiones.2
+La inteligencia artificial es un instrumento tecnológico que ha llegado a nuestras
+vidas para quedarse. Por ello, tanto el Congreso de los Estados Unidos como diversos
+estados han presentado legislación en esa dirección. Entre las medidas destacan las
+dirigidas a regular la información que se comparte de los ciudadanos, así como a evitar
+el discrimen que puede generar este tipo de tecnología. Según se ha comprobado,
+existen algoritmos discriminatorios que, en ocasiones, deniegan las mismas
+oportunidades a nuestros ciudadanos.
+A fin de poder determinar cómo debe reglamentarse la inteligencia artificial en el
+futuro es menester ordenar a la agencia con peritaje en esta materia, el Puerto Rico
+Innovation and Technology Service (PRITS), realizar un estudio sobre las brechas en las
+leyes estatales vigentes de privacidad de datos para determinar las reglas específicas
+que deban observarse para que los intereses de nuestros ciudadanos estén debidamente
+protegidos al desarrollarse la inteligencia artificial. Dichas reglas deben velar que se
+proteja de igual forma la competitividad de la economía puertorriqueña, de manera que
+se asegure mantener la confidencialidad, integridad y accesibilidad correspondiente de
+los datos privados frente a técnicas potencialmente invasivas de los desarrolladores de
+inteligencia artificial.
+1 Véase, National Artificial Intelligence Initiative Act of 2020.
+2 Id.
+2
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Orden
+Se ordena al Puerto Rico Innovation and Technology Service (PRITS), realizar un
+estudio sobre las brechas en las leyes estatales vigentes de privacidad de datos frente a
+técnicas potencialmente invasivas de los desarrolladores de inteligencia artificial, con el
+objetivo de que:
+(1) proponga políticas estatales de gobernanza que desarrolle y actualice políticas y
+guías estatales sobre el uso, selección, desarrollo e implantación de sistemas de
+inteligencia artificial en forma consistente con legislación estatal y federal, y
+(2) desarrolle una política de manejo de riesgos que sea razonable y tome en
+consideración las guías y los estándares establecidos y reconocidos a nivel nacional e
+internacional de sistemas de manejo de riesgo para inteligencia artificial.
+(3) en colaboración con las instituciones de educación superior y el sector
+tecnológico, diseñe y publique un marco de mejores prácticas para el uso ético de la
+Inteligencia Artificial en Puerto Rico, basado en los siguientes principios:
+a. Alfabetización Tecnológica: Apoyar a los ciudadanos, empleados públicos y
+partes interesadas de la comunidad para que adquieran alfabetización en
+Inteligencia Artificial (en adelante, IA).
+b. Acceso y Aplicación Práctica: Proveer herramientas y recursos de IA a la
+comunidad para que puedan aplicarlos de manera apropiada, responsable y
+productiva en su vida diaria y profesional.
+c. Educación y Rigor: Diseñar y promover herramientas educativas que
+informen y aborden los aspectos éticos de la integración social de la IA,
+manteniendo el rigor esperado en la preparación académica, administrativa y
+ciudadana.
+d. Protección de la Propiedad Intelectual: Adoptar y promover políticas de
+propiedad intelectual que respondan a la regulación, el derecho y los aspectos
+éticos en el uso y desarrollo de la IA.
+e. Colaboración Multisectorial: Colaborar activamente con todas las partes en el
+ecosistema de la IA (gobierno, academia y sector privado) para compartir
+mejores prácticas en su uso.
+d. Equidad y Mitigación de Sesgos: Contribuir activamente a la identificación y
+eliminación de sesgos (biases) en los sistemas de IA para evitar la discriminación
+algorítmica y garantizar la equidad.
+3
+Artículo 2.– Informe
+Comenzando el 1 de julio del 2027, el Puerto Rico Innovation and Technology
+Service (PRITS) rendirá un informe semestral a la Asamblea Legislativa que deberá
+incluir, pero sin limitarse a lo siguiente:
+(a) gestiones realizadas para adelantar el estudio;
+(b) conclusiones preliminares alcanzadas;
+(c) gastos incurridos durante el semestre objeto del informe y gastos pronosticados
+para el próximo semestre;
+(d) resumen de legislación estatal vigente y legislación federal aprobada sobre el tema;
+y
+(e) cualquier otra documentación relacionada a la confección del informe.
+Artículo 3.- Vigencia
+Esta Resolución Conjunta comenzará a regir inmediatamente después de su
+aprobación.
+[DELETED:  o a P a T f d p l r q d e e t a l i e P R q p l i d n c y l l s c c d r p r o t d p l s h. L s d i a i p d c y s h p p y e m d i p f i o.  i a e u i t q h l a n h p l e e d E l m d l d q p g e t d t S s h c a d q e o d l m e m o a l a c p e e m e P R l a d l i a D r d v q s ]
+[DELETED:  a P a u e s e u s d e i d s d u p d m d r q s r y t e)e c c l i d e s y e s i d l c p q a a e  A y A P P h y r d I a l p q p a d m a r y  E y R D y p h e q y a l a é d l i s d l I e r e e l p a a y  P d l P I A y p p d d l I ( a y s p p c]
+[DELETED:  e 1 d j d 2 e P R I a T ( r u i s a l A L q d)g)c)g i d e s o d i y g p)r)  R C c a r i d d s]
+
+
+================================================================================
+
+Raw Text:
+(R. C. del S. 1)
+(Conferencia)
+RESOLUCIÓN CONJUNTA
+Para ordenar al Puerto Rico Innovation and Technology Service (PRITS), realizar un
+estudio sobre las brechas en las leyes estatales vigentes de privacidad de datos con
+el fin de proponer las reglas que deban establecerse en torno a la inteligencia
+artificial en Puerto Rico que protejan los intereses de nuestros ciudadanos y la
+competitividad económica de Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Según el National Artificial Intelligence Initiative Act of 2020 la Inteligencia Artificial es
+un sistema computarizado capaz de realizar predicciones, recomendaciones o tomar
+decisiones que influyan en entornos reales o virtuales, de acuerdo con un conjunto de
+objetivos definidos por los seres humanos.1 Los sistemas de inteligencia artificial
+utilizan información proveniente de computadoras y seres humanos para percibir
+entornos reales y virtuales; convertir esas percepciones en modelos mediante análisis
+automatizado; y emplear modelos de inferencia para formular información o
+conclusiones.2
+La inteligencia artificial es un instrumento tecnológico que ha llegado a nuestras
+vidas para quedarse. Por ello, tanto el Congreso de los Estados Unidos como diversos
+estados han presentado legislación en esa dirección. Entre las medidas destacan las
+dirigidas a regular la información que se comparte de los ciudadanos, así como a evitar
+el discrimen que puede generar este tipo de tecnología. Según se ha comprobado,
+existen algoritmos discriminatorios que, en ocasiones, deniegan las mismas
+oportunidades a nuestros ciudadanos.
+A fin de poder determinar cómo debe reglamentarse la inteligencia artificial en el
+futuro es menester ordenar a la agencia con peritaje en esta materia, el Puerto Rico
+Innovation and Technology Service (PRITS), realizar un estudio sobre las brechas en las
+leyes estatales vigentes de privacidad de datos para determinar las reglas específicas
+que deban observarse para que los intereses de nuestros ciudadanos estén debidamente
+protegidos al desarrollarse la inteligencia artificial. Dichas reglas deben velar que se
+proteja de igual forma la competitividad de la economía puertorriqueña, de manera que
+se asegure mantener la confidencialidad, integridad y accesibilidad correspondiente de
+los datos privados frente a técnicas potencialmente invasivas de los desarrolladores de
+inteligencia artificial.
+1 Véase, National Artificial Intelligence Initiative Act of 2020.
+2 Id.
+
+2
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Orden
+Se ordena al Puerto Rico Innovation and Technology Service (PRITS), realizar un
+estudio sobre las brechas en las leyes estatales vigentes de privacidad de datos frente a
+técnicas potencialmente invasivas de los desarrolladores de inteligencia artificial, con el
+objetivo de que:
+(1) proponga políticas estatales de gobernanza que desarrolle y actualice políticas y
+guías estatales sobre el uso, selección, desarrollo e implantación de sistemas de
+inteligencia artificial en forma consistente con legislación estatal y federal, y
+(2) desarrolle una política de manejo de riesgos que sea razonable y tome en
+consideración las guías y los estándares establecidos y reconocidos a nivel nacional e
+internacional de sistemas de manejo de riesgo para inteligencia artificial.
+(3) en colaboración con las instituciones de educación superior y el sector
+tecnológico, diseñe y publique un marco de mejores prácticas para el uso ético de la
+Inteligencia Artificial en Puerto Rico, basado en los siguientes principios:
+a. Alfabetización Tecnológica: Apoyar a los ciudadanos, empleados públicos y
+partes interesadas de la comunidad para que adquieran alfabetización en
+Inteligencia Artificial (en adelante, IA).
+b. Acceso y Aplicación Práctica: Proveer herramientas y recursos de IA a la
+comunidad para que puedan aplicarlos de manera apropiada, responsable y
+productiva en su vida diaria y profesional.
+c. Educación y Rigor: Diseñar y promover herramientas educativas que
+informen y aborden los aspectos éticos de la integración social de la IA,
+manteniendo el rigor esperado en la preparación académica, administrativa y
+ciudadana.
+d. Protección de la Propiedad Intelectual: Adoptar y promover políticas de
+propiedad intelectual que respondan a la regulación, el derecho y los aspectos
+éticos en el uso y desarrollo de la IA.
+e. Colaboración Multisectorial: Colaborar activamente con todas las partes en el
+ecosistema de la IA (gobierno, academia y sector privado) para compartir
+mejores prácticas en su uso.
+d. Equidad y Mitigación de Sesgos: Contribuir activamente a la identificación y
+eliminación de sesgos (biases) en los sistemas de IA para evitar la discriminación
+algorítmica y garantizar la equidad.
+
+3
+Artículo 2.– Informe
+Comenzando el 1 de julio del 2027, el Puerto Rico Innovation and Technology
+Service (PRITS) rendirá un informe semestral a la Asamblea Legislativa que deberá
+incluir, pero sin limitarse a lo siguiente:
+(a) gestiones realizadas para adelantar el estudio;
+(b) conclusiones preliminares alcanzadas;
+(c) gastos incurridos durante el semestre objeto del informe y gastos pronosticados
+para el próximo semestre;
+(d) resumen de legislación estatal vigente y legislación federal aprobada sobre el tema;
+y
+(e) cualquier otra documentación relacionada a la confección del informe.
+Artículo 3.- Vigencia
+Esta Resolución Conjunta comenzará a regir inmediatamente después de su
+aprobación.
+
+[DELETED:  o a P a T f d p l r q d e e t a l i e P R q p l i d n c y l l s c c d r p r o t d p l s h. L s d i a i p d c y s h p p y e m d i p f i o.  i a e u i t q h l a n h p l e e d E l m d l d q p g e t d t S s h c a d q e o d l m e m o a l a c p e e m e P R l a d l i a D r d v q s ]
+[DELETED:  a P a u e s e u s d e i d s d u p d m d r q s r y t e)e c c l i d e s y e s i d l c p q a a e  A y A P P h y r d I a l p q p a d m a r y  E y R D y p h e q y a l a é d l i s d l I e r e e l p a a y  P d l P I A y p p d d l I ( a y s p p c]
+[DELETED:  e 1 d j d 2 e P R I a T ( r u i s a l A L q d)g)c)g i d e s o d i y g p)r)  R C c a r i d d s]

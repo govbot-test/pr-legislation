@@ -1,0 +1,1080 @@
+Title: Las conGi6n de ciencia, Tecnologla e Inteligencia Artificial del senado de puerto
+Official Title: Las conGi6n de ciencia, Tecnologla e Inteligencia Artificial del senado de puerto
+Number of Sections: 2
+Source: versions - 1er Informe Comisión rendido con enmiendas
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+CRTGINAL
+RECIEIDO ABR29'26Pil3I29
+Itn*'
+16vnrcn*fusamPR
+TRrll,ll
+GOBIERNO DE PI.JERTO RICO
+20m. Asamblea $a
+Sesi6n
+kgislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del 5.1126
+INFORME POSITTVO
+4a"^Artde2o26
+AL SENADO DE PI,JERTO RICO:
+Rico, previo estudio y consideraci6n de la hoyecto del senado 1126, recomienda a este
+AIto Cuerpo su aprobaci6ry con laa enmiendas contenidae en el entirillado electr6nico
+que Be acompafta.
+ALCANCE DE LA MEDIDA
+ll[/tt
+Para en l m : e * n ! d ar y l ? os r A n r , H culos 2, z, 4, 6, 7, r0 y afradir los nuevos Ar6culos 7-A y 11-A de
+segrln enmedada conocida como Ley de Cibersegu;dad del
+Estado Lib're Asociado de puerto Rico con el prop6sito de fortalecL el marco
+i$aigo de ciberseguridad del Gobiemo de puerto Ricq reforzar la resiliencia
+digital y la continuidad de servicios esenciales, ampliar facultaao r"g"Iito; y
+establecer mecanismos de supervisi6rl notificaci6n y financiamiento; ; p; ;os
+fines relacionados.
+INTRODUCCIoN
+[a Comisi6n de ciencia, Tecnologia e Inteligencia Artificial del senado de puerto
+Rico somete a Ia consideraci6n de este AIto Cuerpo el presente Informe positivo sobre el
+ltoyecto del senad,o 7l26,luego de haber realizado un andisis detallado de la medida y
+evaluado su impacto dentro del marco de la polrtica prlblica de modernizaci6n
+tecnol6gica y kansformaci6n digital del Gobiemo de puerto Rico.
+Ia
+medida propone establecer disposiciones dirigidas a fortarecer la gesti6n
+tecnol6gica gubemamentar y optimizar la prestaci6n de servicios prlblicos medilte h
+integraci6n de heramientas digitares, en ar:rronla con los esfuerzos dirigidos a promover
+un gobierno m6s eficiente, accesible y transparmte. En un entomo donde la tecnologla
+constituye un componente esencial para la operaci6n gubemamenta! la iniciativa
+persigue atemp€rar el funcionamiento de ras agencias a las exigencias contempor6neas
+en materia de servicios digitales.
+Como parte del proceso de evaluaci6n legislativa, la Comisi6n coruider6 el
+memorial explicativo presentado por puerto Rico Innovation and rechnology service, del
+cual surgen seffalamientos rerevantes en tomo a la implementaci6n de ra medida,
+particularmente en aspectos operacionales y adminiskativos relacionados con ra
+capacidad institucional y la distribuci6n de resporuabilidades enbe las entdades
+gubemamentales. A partir de dicho an6risis, se incorporaron enmiendas aI proyecto que
+atienden las observacionm planteadas, procurando viabilizar una ejecuci6n-m6s efectiva
+de Ia polltica priblica propuesta.
+En ese contexto, la Comisi6n concluye que el rtoyecto del senado 1126 adelanta
+objetivos legltimos de politica pdblica dirigidos a fortalecer Ia infraestructura tecnol6gica
+del Gobiemo de Puerto Rico, mejorar Ia eficiencia en la prestaci6n de servicios y
+promover una mayor bansparencia en la gesti6n priblica. por consiguiente, recomienda
+su aprobaci6n con las enmiendas contmidas en el entirillado erectr6nico que
+se
+acompafla.
+ANALISIS DE LA MEDIDA
+u f Atendiendo su responsabilidad y deber ministerial en el estudio y evaluaci6n del
+presente Proyectq la Comisi6n de Ciencia, Tecnolog{a e Inteligencia Artilicial del Senado
+de Puerto Rico analiz6 el memorial explicativo recibido por parte de puerto Rico
+Innovation and rechnology services, de donde se desprende la posici6n expuesta de la
+inskumentalidad consultada:
+PUERTO RICO INNOVATION AND TECHNOLOGY SERVICE
+Ia Puerto Rico Innovation and Technology service comparece mediante memorial
+explicativo en torno al hoyecto del senado 1124 expresando una posici6n favorable a la
+medida, al reconocer la necesidad ds 2ctualizar el marco iuridico de ciberseguridad del
+Gobiemo de Puerto Rico ante el aummto de riesgos y la creciente dependencia de
+sistemas digitales para la prestaci6n de servicios esenciales.
+En su an6lisis, la agencia destaca que el proyecto propone fortalecer la I-ey de
+Ciberseguridad mediante la ampliaci6n de su alcance regulatorio, la incorporaci6n del
+concepto de resiliencia digita! el refuerzo de las facultades del Principal Oficial de
+Seguridad Cibern6tica (CISO), el establecimiento de
+estdndares mlnimos de
+cumplimiento, un r€gimen de sanciones proporcional y la creaci6n de un Fondo de
+Resiliencia Digital. Asimismo, reconoce que la medida se alinea con tendencias
+intemacionales y estdndares como NIST e ISO, adoptando un enfoque basado en riesgo
+y resiliencia.
+- PRITS endosa m'ltiples componentes de la medida incluyendo la extensi6n de ra
+ley a operadores de infraeskuctura crltica y proveedores de servicios esenciales, ra
+incorporaci6n de la rcsiliencia digital como elemento estat6gico, ra ampriaci6n de
+definiciones clave, er fortalecimiento de las facultades del cISo y la reducci6nLl tErmino
+de notificaci6n de incidentes cibern€ticos a 24 horas, por entender que
+dichas
+disposiciones fortalecen ra capacidad de respuesta y er manejo cenkalizado de Ia
+ciberseguridad.
+_ - No obstantg la agencia formula varias observaciones dirigidas a clarificar y
+viabilizar la implementaci6n de la medida. Enke estas, sefrala la necesidad de definir con
+rnayor precisi6n tetminos como "proveedor de servicios esenciales,,, ,,operador crltico,,
+y su relaci6n con concePtos ya existentes en la ley, asi como establecer criterios claros
+para clasificar proveedores de "alto o crftico impacto". De igual forma, recomienda que
+se especifique el m6todo para calcular ingresos en el r€gimen de sanciones, que se
+establezca un t€mrino mlnimo para la realizaci6n de pruelas de continuidad ; ;" ,"
+uniformen ciertos conceptos ut izados "r, "r proytto para evitar ambigttedades
+interpretativas.
+Adem6s, pRITS respalda la creaci6n del Fondo de Resiliencia Digital
+como
+lrlt ::T_T: Piua apoyar la sostenibilidad de Ia polltica priblica en ciberseguridad,
+w oestac.nclo que su financiamiento mediante murtas debe entenderse como un
+inskumento de apoyo y no como un incentivo para la imposici6n indiscriminada de
+sanciones.
+pRlrs
+En conclusi6ry favorece ra aprobaci6n der proyecto del senado 1124 sujeto
+a las recommdaciones formuladas, diri6das principalmente a aclarar *r,""p;; y
+precisar aspectos operacionares, a fin de asegur; una implementaci6n efectiva y
+controversias en su aplicaci6n. ".,rit*
+IMPACTOFISCAL
+En cumplimiento con el Art. 1.007 de la Ley 7-2020, xgttnenmendada,
+conocida
+como el "C6digo Municipal de puerto Rico", la comisi6n suscribiente l r" r"
+medida objeto de este informe no impone una obrigaci6n econ6mica en " e " l . p u r r e i" s " u puesto
+de los gobiernos municipales.
+CONCLUSION
+Luego de examinar el Proyecto del senado 1126 y considerar el memorial
+explicativo presentado por la Puerto Rico Innovation and rechnology service, esta
+Comisi6n concluye que la medida constituye un esfuerzo legislativo dirigido a fortalecer
+el marco jurldico de ciberseguridad del Gobiemo de puerto Rico, en respuesta al aumento
+de riesgos asociados a Ia hansformaci6n digital y la dependencia de sistemas tecnol6gicos
+para la prestaci6n de servicios esenciales.
+El andlisis realizado evidencia que e1 proyecto propone un modelo m6s robusto e
+integral de ciberseguridad, incorporando elementos como la resiliencia digital, la
+ampliaci6n del alcance regulatorio, el fortalecimiento de las facultades del principal
+oficial de seguridad cibern€tica, la adopci6n de estdndares modemos de cumplimiento
+y la creaci6n de mecanismos de supervisi6n y respuesta m6s 6giles. Asimismo, la medida
+se alinea con practicas y est6ndares intemacionales en la materia, promoviendo una
+gesti6n basada en riesgo y continuidad operacional.
+Del memorial evaluado surge que PRITS favorece la aprobaci6n de la medida, a la
+vez que formula recomendaciones dirigidas a precisar definiciones, uniformar conceptos
+y clarificar aspectos operacionales relacionados con su implementaci6n. A juicio de esta
+comisi6ru dichas observaciones resultan razonables y han sido atendidas mediante las
+M
+enmiendas incorporadas al entirillado electr6nico, con el prop6sito de viabilizar una
+aplicaci6n mAs clara, efectiva y consistente del estatuto propuesto.
+En virtud de lo anterior, esta Comisi6n entiende que el Proyecto del Senado 1126
+adelanta la polltica prlblica de fortalecer la seguridad cibem6tica del Gobiemo de Puerto
+Ricq mejorar su capacidad de respuesta ante incidentes y garantizar la continuidad de
+los servicios esenciales. Por consiguiente, recomienda su aprobaci6n con las enmiendas
+contenidas en el entirillado electr6nico que se acompafla.
+POR TODO LO ANTES frPLJESTO, la Comisi6n de Cienci4 Tecnologla e
+Inteligencia Artificid del Senado de Puerto Rico, previo estudio y consideraci6r! tiene a
+bien presentar ante este Alto Cuerpo el Informe Positivo sobre el ltoyecto del Senado
+1126, recomendando su aprobaci6n con las enmiendas contenidas en el entirillado
+electr6nico que ee acompafra.
+Respetuosamente sometido,
+/r
+{
+///*--
+Wilmer Reyes Berioe
+Presidente
+Comisi6n de Ciencia, Tecnologfa
+e Inteligencia Artificial
+(Entirillado Electr6nico)
+GOBIERNO DE PUERTO RICO
+*
+20 Asamblea 3 ." Sesi6n
+Legislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del 5.1126
+9 denarzo de2t?i
+hesentado por el #tot Reys knios
+ah
+Rclerido C-otttisiin de Ciencia, Teotologia e Intcligncia Artifrcirl
+LEY
+Para enmendar los Arficulos 2, 3 , 4, 6, z, r0 y afiadir los nuevos ArHcuros 7-A y 11-A de
+l/at la Ler Num. tlGlsl4 2024. segrln enmeitada, conocida como rry de ciberseguridad
+del Estado ubre Asociado de puerto Rico con el prop6sito de fortalecer .n"r.o
+juridico de ciberseguridad del Gobiemo de puerto Rico, reforzar la resilienci " a i di6tal
+y la continuidad de servicios esenciales, ampliar facultades regulatorias y establler
+mSanismgs de supervisi6ry notificaci6n y financiamientd y p"r" ohos fines
+relacionados.
+HPOSICION DE MOTryOS
+[a
+hansformaci6n digitar del Gobiemo de puerto Rico ha dejado de ser una
+aspiraci6n programdtica para convertirse en una realidad operativa ind.ispensable. ra
+prestaci6n de servicios pdblicog la continuidad gubemamental, la protecci6n de
+inlormaci6n sensitiva y el desarrollo econ6mico sostenible son te.as que se deben
+atender en esta karuformaci6n. [a creciente interconexi6n de sistemas, la deperrdencia
+de infraestructuras tecnol6gicas y la utilizaci6n intensiva de plataformas digitales han
+ampliado significativamente la superficie de exposici6n a amenazas cibern€ticas cada vez
+m6s sofisticadas, persistentes y coordinadas.
+2
+I-a aprobaci6n de la l.ey Ntm. &-2@4 conocida como la "Ley de ciberseguridad
+del Estado ubre Asociado de puerto Rico", constituy6 un paso decisivo en la creaci6n de
+un fiu.rro normativo para atender ra seguridad de los recursos de informaci6n
+gubemamentales. Dicha legislaci6n estableci6 est6ndares mlnimos de ciberseguridad,
+cre6la figura del Principal oficial de seguridad cibemdtica (CISO) y formariz6la oficina
+para la Evaluaci6n de rncidmtes Cibern6ticos adscrita aI puerto Rico Innovation and
+Technology service (pRITS). con elrq se reconoci6 que la protecci6n de los datos
+gubemamentales es esencial para garantizar ra confidenciaridad, integridad y
+disponibilidad de la informaci6n prlblica.
+No obstante, el entorno digitar evoluciona a un ritmo que supera er cicro ordinario
+de acfualizaci6n legislativa. Los ataques mediante raruiomware, la orplotaci6n de
+vulnerabilidades en la cadena de suministro tecnol6gic4 el uso malicioso de
+herramientas basadas en inteligencia artificial, la suplantaci6n digital y los ataques
+ilw
+coordinados contra infraestructuras crlticas evidencian que la ciberseguridad ya no es
+tnicamente ,n as,nto t6cnico, sino un componente estrucfural de la seguridad prlblica,
+la estabilidad econ6mica y la gobernanza democrAtica.
+la
+experiencia reciente demueska que Ia intemrpci6n de servicios esenciales tales
+como energla, agua, telecomunicaciones, sistemas financieros, salud o loglstica crltica
+puede generar efectos sist6micos inmediatos sob're la economla y la seguridad de la
+poblaci6n. En ese contexto, la protecci6n del ciberespacio y la resilimcia digital deben
+concebirse como elemmtos estratEgicos de seguridad y desarrollo econ6mico, no
+merameartre como obligaciones administrativas de cumplimimto minimo.
+las mejores pr6cticas intemacionales han avanzado hacia modelos regulatorios que
+integran multiples aspectos. Entre los aspectos antes referidos comrlnmente se incluye la
+gesti6n de riesgos basada en criticida4 supervisi6n de operadores de infraeskuctuas
+crlticas, obligaci6n de notificaci6n temprana de incidentes, fiscalizaci6n de la cadena de
+suministro digt"l y adopci6n de estdndares t€cnicos armonizados con nvrcos como el
+National lnstitute of Standards and Technology (NISI) y etAndares intemacionales ISO.
+3
+Estos modelos reconocen que la res,ierrcia digitar requiere coordinaci6n cenhari?ad4
+ejecuci6n descmtralizada y una clara delimitaci6n de responsab idades enke el sector
+priblico y el sector privado.
+ta tcy Ndm.4G2024 segfn mmendada, conocida como Lry de Ciberseguridad del
+Estado ubre Asociado de puerto Rico (Iey ,,), estabreci6 un andamiaje iniciar adecuado,
+pero su enfoque principal se ciromrribe al ambito gubemamental directo y a estdndares
+mlnimos de cumptimiento. Resulta necesario fortalecer dicho marco para incorporar un
+enfoque integrar que atienda ra clasificaci6n de incidentes por niveres de severidad.
+Adem6s entendemos necesario que se reduzca er t6rmino de notificaci6n para incidentes
+crlticos, la supervisi6n de proveedores tecnor6gicos seg(rn su niver de criticidad, la
+integridad de Ia cadena de suministro de software, la obligaci6n de planes de continuidad
+de negocios y recuperaci6n ante desastres, y un r€gimen sancionador proporcionar que
+/tt tenga verdadero efecto disuasivo.
+Asimismo, se hace indispensabre robustecer la autoridad t6cnica del principal
+oficial de seguddad Gbem.tica y de la oficina adscrita a pRITS. para lograr lo antes
+dicho se deben dotar de facultades regulatorias claras para emitir normas t€cnicas
+vinculantes, coordinar respuestas interinstitucionales
+ante emergencias cibern.ticas y
+fiscalizar el cumplimiento en sectores crtticos. La gobemarua efectiva en materia de
+ciberseguridad exige claridad normativa, supervisi6n activa y capacidad de respuesta
+inmediata.
+Por otro lado, la inversi6n en ciberseguridad
+debe concebirse como un habilitador
+del desarrollo econ6mico. un ecosistema digitar seguro fomenta la inversi6rl fortalece la
+confianza en los servicios gubernamentales y posiciona a puerto
+Rico como una
+jurisdicci6n
+confiable para la innovaci6n tecnol6gica y ra econo.Ia digitar. La adopci6n
+de incentivos para certificaciones reconociaos internacionalmente, Ia
+creaci6n de
+mecanismos de financiamiento
+para fortalecer la resiliencia drgrtal y er desarro,o
+de
+talento especializado constifuyen
+erementos esenciares de una porltica p(blica modema
+en esta materia.
+4
+Ia presente medida tiene como prop6sito mmmdar la ky N(m. 4a-2024 para
+actualizar y fortalecer er marco jurrdico rigert", arinearlo con
+estandares
+contempor6neos, integrar un enfoque de resilimcia digital basado m riesgo y criticidad
+reforzar la gotrernanza centralizada de la ciberseguridad y establecer obligaciones claras,
+proporcionales y fiscalizables para mtidades pfblicas y privadas cuya operaci6n incida
+sobre servicios esenciales e infraestructuras crfticas. Mediante estas enmiendas, la
+Asamblea Legislativa reafirma su compromiso con la protecci6n de la informaci6n
+pdblic4 continuidad guhmamental, estabilidad econ6mica y seguridad digital de
+Puerto Rico. Reconociendo que en la era tecnol6gica ta defensa del ciberespacio es
+inseparable de la defensa de la integridad irutitucional y del bimestar colectivo.
+DECRE'TASE FOR LA ASAMBLEA LEGISLATIVA DE PTJERTO RICO
+I secci6n 1 .- se enmimda el Ar6culo 2 d e la r,.y 4o-2v24, segrln enmendada, conocida
+ky
+tlttk como de Ciberseguridad del Estado Libre Asociado de puerto Rico, para que lea
+3
+como sigue:
+4
+"Arficulo 2.- Aplicabilidad.
+5
+Las disposiciones de esta Ley son aplicables a la Rama Ejecutiva, incluyendo todo
+6
+departamento, junta, dependencia, comisi6ry negociado, oficina, agencia, administraci6n
+7
+u organismq suMivisi6n pol{tica, corporaciones priblicas y municipios. De igual forma
+8
+aplica a cualquier persona natural o jurldica que haga negocios o tenga conkatos con el
+9
+Gobierno, incluyendo, de forma no exhaustiva, a las personas privadas que desempeflan
+10
+funciones y servicios p(blicos, pero solamente con respecto a las funciones y servicios
+I
+pfblicos desempeffados; a todo ejercicio de administraci6n prlblica o privada en el que
+1
+12
+se hubieren dedicado o invertido fondos o recursos priblicos (directa o indirectamente),
+5
+I o sobre la cual se hubiere ejercido la autori.rad de cualquier servidor pdblicq en oranto
+2 a los datoo que se generan como producto de tales actividades.
+J Los diswsicioncs de esta rzy totrbin w6n aprictbrcs a todo operador de iaftaestructura
+4 critica o powfur de e,oicios e*nciares, infupwrimtennt, q*
+,1" meilic o no rcracitin
+5 cotthactud directa con el Gobicrno, cuando la interupcion,
+o otrpmmin de sas
+6 sisbmas pucda aftctn ra antiauidad ib *tricios e*aciabs, Ia *guridad prnilica, ra estabilidart
+7 eandmica o la anttinuidad. gubrnonental.,,
+8 secci6n 2'- Se enmienda eI Artrculo 3 de ra r,ey 4u2v24, seg(n enmendada,
+*y
+9 conocida como de ciberseguridad del Estado Libre Asociado de puerto Ricq para
+I0 que lea como sigu.e:
+M,
+t) "ArHculo 3.- polltica p(rblica.
+Se
+12 establece como politica pdblica m puerto Rico lo
+siguiente:
+13
+1
+14
+l5 10' fuarccer la resiliencia digital y la antinuidad operacional itc toss ruiciu e*ncialzs omo
+l6
+annponentcs estm*gias de ra *guidad ptibrica y er itesanolro ean6mia,
+airoptaniro un
+17
+enfoque ba*do m nesgo y criticidad, armoniudo an
+estdndares
+recotucidos
+l8 inbrnacianalmmte tabs ono NIST, ISO/IEC 27f//1 e ISO 22301.,,
+l9
+secci6n 3'- se erunimda el Ar(culo 4 de la r*y &w24,segfn
+enmendada, conocida
+20 como [.ey de Ciberseguridad
+del Estado Ubre Asociado de puerto Ricq para que lea
+2t como sigue:
+22 "Artrculo 4. - Definiciones.
+6
+I Para prop6sitos de esta Ley y salvo que otra cosn se disponga en la misma, los
+)
+siguimtes tdrminos tendr6n el significado expresado a continuaci6ru
+3 (a)
+4 (dd) "seruicios e*nciares" - aquerbs servicios cuya interrupcifin pueda afectar
+5 signifcatbamente la sarud, seguidad, eanomta o bienestar abcthn, incruyeado, sin
+6 limitarse, a ercrgi+ agua, tclecomunicaciones, fnanzas, nlud, traasporte, togistica cr{tica y
+7 sistemas gubenamentales estra6gias.
+8 (ee) "operador oitia" - toda per*na tafurar o juidica, pibrica o pnooda, qu
+9 administre, oryte o controle iafracstrucfura critica o *ruicios ewncialzs,
+l0 ffi " Cadena de suministro digttay, - mnjunto de procesos, amponentes, software,
+ll y
+t,, harilware *roicios interanectados que interoimen m el desarroflo, yoaisiin y
+tl
+manteilmimto de sistemas tecaoldgicos utilimdos por et Gobiemo.
+l3 Qd "Gesti6n de riesgos cibemitias" - proceso antinuo de identificacion, eoahnci6n,
+l4 mitigacion y monitorco ile ametums y aulnerabilidailes que puzdan afectar los Reanrsos de
+15 infonnacion."
+l6 fuh) "Plan ile hntinuidad y Recuperaci6n', - documento furmat que estabbce
+t7 proctdimientos para garantiztr la antinuiihd opraciotul y l.a reanperaci6n antc incidentes
+l8 cibernitias o ilesastns tecaol6gius."
+(it
+t9 "Rebci6n entre categorias - Para efectos de estt ltu, los tirminos 'orweeilor de
+20 sfiticios anhatados', 'orweedor de xraiclos e*nciales' y 'operador critico' anstituyen
+2l catccoias distintas. El Ermino 'wooeeihr de seruicios contrataihs' x refiere a mtidadcs an
+22 x
+relaadn coiractual directa on el Gobierno; el Ermino 'orweedor dc seruicios exnciales'
+7
+1 a c1l
+de
+2 el
+o
+3 o ra
+ufl
+4
+es o tal
+5
+to c'n lti
+tre
+6 dichas categoias.',
+,,se
+7
+gfl este b u de
+8 te ln q
+dcberi
+9
+a
+tando
+efl
+10
+aolicac in.,,
+11 Secci6n 4.- Se enmienda el Ar(culo 6 de Ia Ley 48-2024, segrln enmendada,
+,W conocida como ky de ciberseguridad del Estado Libre Asociado de puerto Rico, para
+13 que lea como sigue:
+t4 "Ar(culo 6. - principar oficial de seguridad Cibem.tica (chief Information
+l5
+Security Offices) del Gobiemo.
+t6 se ctea el cargo de principal oficial de seguridad Gbern.tica (chief Infurmation
+17 secun$ offer) der Gobiemq quien estard adrrito al pRrrs, pero gozar6 de cierto nivel
+l8 de autonornla para lrevar a cabo sus funciones de manera independiente utilizando los
+19
+reorrsos provistos por pRITS.
+...
+20
+2t El Principal oficial de seguridad Gbern6tica habajare en cootdinaci6n
+con el
+22 kutituto y con er personal que cada Agencia designe para levar
+a cabo tales funcionee,
+E
+I en la confecci6n y ejecuci6n de las esbategias para proteger Ia informaci6n priblica del
+2
+Gobierno.
+3 EI kincipal ofcial dc *pridad Gbnitica
+tendrd faatrtad pora emitir aormas hicaius
+4 obligatorias y oinatlanbs qliubres a rrc Agncias y a ros operartotes ,tti,,s cubiettos pr ecta
+by,
+5 incluprulo estdadarcs minimos de *guridad,, pmtoolos de rctificacitn, rcryisitos
+de
+6 adibria y medidas de nitigacilin. Asimiffio, W&d norurutar al Gobenabr h dechracihn de
+7 una energencia cilnmitiu
+caondo las circunstarcias lo anaribn.,,
+8 Secci6n 5.- Se enmienda el Ardculo 7 de la lley 4UT/24, seg{n enmendad4
+9 conocida como I-ey de Gberseguridad del Estado Libre Asociado de puerto R.o, p"."
+l0 que lea como sigue:
+ll
+"Arftulo
+
+Section 2:
+7. - Est6ndares y prirrcipios mlninos de Cibersegurida
+l.rttlp
+l/tv Toda Agmcia y todo proveedor de servicios conhatados debera cumplir y
+l3 asegurarse que todo Frsona natural o jurldica que haga negocios o contrate con ellos
+14 cumpla con aI menos los siguimtes Estindares y principioe mlnimos de ciberseguridad:
+15
+(1)
+l6
+17
+(10) L"os Proveedotes de servicios contratados de tecnolo$a de la informaci6n y
+18
+comunicaciones compartir6n informaci6n y notificar6n err un t€nnino no mayor de
+19
+[cuarenta y ocho ($)loeintiaubo (24) horas al pRITS y a la Agerrcia conkatante cuando
+20
+descubran un incidente de seguridad cibern6tica o un incidente potencial que pueda
+2l
+poner en Riesgo los datos, productos de software, Firmware o los servicios confidencialeg
+22
+del Gobiemo o de cualquia perona natural o jurldica;
+9
+I
+2 (20) PRIfs
+adoPtmd mcdiaau ngtanento ua sbtema dc clasifeci1l itc inciibntcs ile
+3 *guridad abrnitia m nioercs bajo, ttuttio, arb y oitia, anftnu at impach potencial *bre ra
+4 onfdencialida{ inhgidad, disprlbilidad, oatiauidad opaciotuJ y *guridad yniliu,
+5 establecienilo wa uda aioer &rigaciones espcifus de notifcacidn, nspucsta y mitigacion.
+6 (21) Todo prcoeedor crasifwdo urc de alto o .,itia inryacto ,cbnd mantercr y prvow a
+7 PRlll"s uz inoentaio actuarizado ire annpnentes de sftuare (hfwate Biil of Mtteriars _
+E sBoM) a $ornc a estthndmes re@nocidos, wi ona wiilznciar un pmceso f ormar de gestion de
+9 oulnerabiliihdcs y aplicacihn fu prctos dc xguflM dentm ile tirmitus mzonablcs estableciilos
+l0 prrcglmunto."
+ll
+secci6n 6'- se enmienda el ArHcuIo 10 de ra t-ey ro,',24, seg(n enmmdada,
+l)w
+conocida como Lcy de ciberseguridad del Estado ub,re Asociado de puerto Rico, para
+l3 que lea como sigue:
+t4 "Arffculo 10. - Sanciones.
+15 [Si alguna Agencia incumpliese con lo dispuesto en esta Ley,la pRIIS podri
+l6 imponer a la Agencia, previa notificacidn y oportunidad
+de ser oida, una multa no
+t7 menot de cincuenta (50) ddhres ni mayor de cien (1.n) ddlares diarios por Incidente,
+l8 por cada dla que incumpla con los Estindarea y principioe
+de cibereeguridad
+segrin
+l9 eetablecidos en eI Articuto 6 de eeta Ley.
+20 Cuando medie obstrucciti+ netlitencia,
+mala fe, temeridad o
+negativa
+2t cap'ichoaa en el manejo o reporte de un ciberataque, Ia pRrfs podri imponer a la
+10
+I
+Agmcia prcvia nodficacirin y oportuni&d de eer oida, una rrulta no menor de rril
+2
+(1,000) drilerec ni m.yc de cinco nril (Srm) ddhreg por cade violaci<in l
+3 PRITS pdrd fupw multas administtatioas pruprciotubs a h gwedad
+dcr
+4
+inatmplimienb, al daio cauudo y al tn rorlo dc Ia ntida4 las cualcs wdnfu asender lwta un
+5
+rudrimo equioatente al cina por cimto (s%) del oato anttracfual apliubb o de la ingresos
+6
+oruales rclacionados on el sruicb aftcrado, sin prjuicb de otms rnalidades onbactuales o
+7
+bgales qlicables.
+8
+9 secci6n 7.- se afrade un nuevo Aruculo 7-A a la l*y 4o-2024, segrln enmendada,
+l0 conocida como [,ey de ciberseguridad del Estado Libre Asociado de puerto Rico, que
+ll
+leer5 como sigue:
+/+,
+t) " 7-A. - Planes de Continuiilail y Recuperucifin.
+l3 Toda Agencia y todo oprador critico deberd desanollar, mantener y acfualimr anualmente
+t4 un Plan de Continuidad y Recaryaci6n ante lncidentes Cibemitkos, el cttal ilcberi ser somztiih
+l5 a PRITS para fnes de nalwci6n y aaliilacifin. Dichos planes deberrin *r smetidos a pruebas
+16
+peri1dicas no menos una 0) wz al afro o con mauor frecaencia determine PRI+S
+1'l
+iwgiliante
+reglamento."
+18
+Secci6n 8.- Se anade un nuevo ArUculo 11-A a la l,ey 4A-2024, seg{n enmendada,
+19
+conocida como Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico, que
+20
+leerA como sigue:
+21 "Arfculo 11-A. - Fondo de Resiliencia Digital'
+ll
+1 Se crea el Fondo de Resilieflcia Digittl adsoito a PRITS, ott el V@b fu fnanciar
+2 iniciatioas de prcoencion, deteccion, rcspueEta y rcatperacihn antc inciilcntes cibzt:ltitby6, asi
+3 amo programas dc copacitacion y certifcacion en cibr*guidad.
+4 El Fondo podn| nutrir* de asignaciones legblatiaas, fondos federulcs, multas
+5 ailministtatioos impuestas bajo esta lzy y cualquier otra fuente outarimda W, W." "Las multas
+6 nu
+la
+7 de ta ante tes
+8 se tn como un mecamsmo la imoosici6n iniliscrimiaada de sanciones, sino amo
+9 ufltL tw el to la tema
+l0 Secci6n 9.- Vigencia
+lt
+Esta Ley comenzar6 a regir inmediatamente despu€s de su aprobaci6n.
+/t/c&
+[DELETED:  7]
+[DELETED:  p a d p f m r r d O]
+[DELETED:  :]
+[DELETED:  c d d g P s q a C l d e P t R C s d a e a]
+[DELETED:  d ( y]
+[DELETED:  t l s p a s l o p i]
+[DELETED:  p]
+[DELETED: 0f a Erc G]
+[DELETED:  h]
+[DELETED:  p a 4 l e A]
+[DELETED:  Fis]
+
+
+================================================================================
+
+Raw Text:
+CRTGINAL
+RECIEIDO ABR29'26Pil3I29
+Itn*'
+16vnrcn*fusamPR
+TRrll,ll
+GOBIERNO DE PI.JERTO RICO
+20m. Asamblea $a
+Sesi6n
+kgislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del 5.1126
+INFORME POSITTVO
+4a"^Artde2o26
+AL SENADO DE PI,JERTO RICO:
+Las conGi6n de ciencia, Tecnologla e Inteligencia Artificial del senado de puerto
+Rico, previo estudio y consideraci6n de la hoyecto del senado 1126, recomienda a este
+AIto Cuerpo su aprobaci6ry con laa enmiendas contenidae en el entirillado electr6nico
+que Be acompafta.
+ALCANCE DE LA MEDIDA
+ll[/tt
+Para en l m : e * n ! d ar y l ? os r A n r , H culos 2, z, 4, 6, 7, r0 y afradir los nuevos Ar6culos 7-A y 11-A de
+segrln enmedada conocida como Ley de Cibersegu;dad del
+Estado Lib're Asociado de puerto Rico con el prop6sito de fortalecL el marco
+i$aigo de ciberseguridad del Gobiemo de puerto Ricq reforzar la resiliencia
+digital y la continuidad de servicios esenciales, ampliar facultaao r"g"Iito; y
+establecer mecanismos de supervisi6rl notificaci6n y financiamiento; ; p; ;os
+fines relacionados.
+INTRODUCCIoN
+[a Comisi6n de ciencia, Tecnologia e Inteligencia Artificial del senado de puerto
+Rico somete a Ia consideraci6n de este AIto Cuerpo el presente Informe positivo sobre el
+ltoyecto del senad,o 7l26,luego de haber realizado un andisis detallado de la medida y
+evaluado su impacto dentro del marco de la polrtica prlblica de modernizaci6n
+tecnol6gica y kansformaci6n digital del Gobiemo de puerto Rico.
+Ia
+medida propone establecer disposiciones dirigidas a fortarecer la gesti6n
+tecnol6gica gubemamentar y optimizar la prestaci6n de servicios prlblicos medilte h
+
+integraci6n de heramientas digitares, en ar:rronla con los esfuerzos dirigidos a promover
+un gobierno m6s eficiente, accesible y transparmte. En un entomo donde la tecnologla
+constituye un componente esencial para la operaci6n gubemamenta! la iniciativa
+persigue atemp€rar el funcionamiento de ras agencias a las exigencias contempor6neas
+en materia de servicios digitales.
+Como parte del proceso de evaluaci6n legislativa, la Comisi6n coruider6 el
+memorial explicativo presentado por puerto Rico Innovation and rechnology service, del
+cual surgen seffalamientos rerevantes en tomo a la implementaci6n de ra medida,
+particularmente en aspectos operacionales y adminiskativos relacionados con ra
+capacidad institucional y la distribuci6n de resporuabilidades enbe las entdades
+gubemamentales. A partir de dicho an6risis, se incorporaron enmiendas aI proyecto que
+atienden las observacionm planteadas, procurando viabilizar una ejecuci6n-m6s efectiva
+de Ia polltica priblica propuesta.
+En ese contexto, la Comisi6n concluye que el rtoyecto del senado 1126 adelanta
+objetivos legltimos de politica pdblica dirigidos a fortalecer Ia infraestructura tecnol6gica
+del Gobiemo de Puerto Rico, mejorar Ia eficiencia en la prestaci6n de servicios y
+promover una mayor bansparencia en la gesti6n priblica. por consiguiente, recomienda
+su aprobaci6n con las enmiendas contmidas en el entirillado erectr6nico que
+se
+acompafla.
+ANALISIS DE LA MEDIDA
+u f Atendiendo su responsabilidad y deber ministerial en el estudio y evaluaci6n del
+presente Proyectq la Comisi6n de Ciencia, Tecnolog{a e Inteligencia Artilicial del Senado
+de Puerto Rico analiz6 el memorial explicativo recibido por parte de puerto Rico
+Innovation and rechnology services, de donde se desprende la posici6n expuesta de la
+inskumentalidad consultada:
+PUERTO RICO INNOVATION AND TECHNOLOGY SERVICE
+Ia Puerto Rico Innovation and Technology service comparece mediante memorial
+explicativo en torno al hoyecto del senado 1124 expresando una posici6n favorable a la
+medida, al reconocer la necesidad ds 2ctualizar el marco iuridico de ciberseguridad del
+Gobiemo de Puerto Rico ante el aummto de riesgos y la creciente dependencia de
+sistemas digitales para la prestaci6n de servicios esenciales.
+En su an6lisis, la agencia destaca que el proyecto propone fortalecer la I-ey de
+Ciberseguridad mediante la ampliaci6n de su alcance regulatorio, la incorporaci6n del
+concepto de resiliencia digita! el refuerzo de las facultades del Principal Oficial de
+
+Seguridad Cibern6tica (CISO), el establecimiento de
+estdndares mlnimos de
+cumplimiento, un r€gimen de sanciones proporcional y la creaci6n de un Fondo de
+Resiliencia Digital. Asimismo, reconoce que la medida se alinea con tendencias
+intemacionales y estdndares como NIST e ISO, adoptando un enfoque basado en riesgo
+y resiliencia.
+- PRITS endosa m'ltiples componentes de la medida incluyendo la extensi6n de ra
+ley a operadores de infraeskuctura crltica y proveedores de servicios esenciales, ra
+incorporaci6n de la rcsiliencia digital como elemento estat6gico, ra ampriaci6n de
+definiciones clave, er fortalecimiento de las facultades del cISo y la reducci6nLl tErmino
+de notificaci6n de incidentes cibern€ticos a 24 horas, por entender que
+dichas
+disposiciones fortalecen ra capacidad de respuesta y er manejo cenkalizado de Ia
+ciberseguridad.
+_ - No obstantg la agencia formula varias observaciones dirigidas a clarificar y
+viabilizar la implementaci6n de la medida. Enke estas, sefrala la necesidad de definir con
+rnayor precisi6n tetminos como "proveedor de servicios esenciales,,, ,,operador crltico,,
+y su relaci6n con concePtos ya existentes en la ley, asi como establecer criterios claros
+para clasificar proveedores de "alto o crftico impacto". De igual forma, recomienda que
+se especifique el m6todo para calcular ingresos en el r€gimen de sanciones, que se
+establezca un t€mrino mlnimo para la realizaci6n de pruelas de continuidad ; ;" ,"
+uniformen ciertos conceptos ut izados "r, "r proytto para evitar ambigttedades
+interpretativas.
+Adem6s, pRITS respalda la creaci6n del Fondo de Resiliencia Digital
+como
+lrlt ::T_T: Piua apoyar la sostenibilidad de Ia polltica priblica en ciberseguridad,
+w oestac.nclo que su financiamiento mediante murtas debe entenderse como un
+inskumento de apoyo y no como un incentivo para la imposici6n indiscriminada de
+sanciones.
+pRlrs
+En conclusi6ry favorece ra aprobaci6n der proyecto del senado 1124 sujeto
+a las recommdaciones formuladas, diri6das principalmente a aclarar *r,""p;; y
+precisar aspectos operacionares, a fin de asegur; una implementaci6n efectiva y
+controversias en su aplicaci6n. ".,rit*
+IMPACTOFISCAL
+En cumplimiento con el Art. 1.007 de la Ley 7-2020, xgttnenmendada,
+conocida
+como el "C6digo Municipal de puerto Rico", la comisi6n suscribiente l r" r"
+medida objeto de este informe no impone una obrigaci6n econ6mica en " e " l . p u r r e i" s " u puesto
+de los gobiernos municipales.
+
+CONCLUSION
+Luego de examinar el Proyecto del senado 1126 y considerar el memorial
+explicativo presentado por la Puerto Rico Innovation and rechnology service, esta
+Comisi6n concluye que la medida constituye un esfuerzo legislativo dirigido a fortalecer
+el marco jurldico de ciberseguridad del Gobiemo de puerto Rico, en respuesta al aumento
+de riesgos asociados a Ia hansformaci6n digital y la dependencia de sistemas tecnol6gicos
+para la prestaci6n de servicios esenciales.
+El andlisis realizado evidencia que e1 proyecto propone un modelo m6s robusto e
+integral de ciberseguridad, incorporando elementos como la resiliencia digital, la
+ampliaci6n del alcance regulatorio, el fortalecimiento de las facultades del principal
+oficial de seguridad cibern€tica, la adopci6n de estdndares modemos de cumplimiento
+y la creaci6n de mecanismos de supervisi6n y respuesta m6s 6giles. Asimismo, la medida
+se alinea con practicas y est6ndares intemacionales en la materia, promoviendo una
+gesti6n basada en riesgo y continuidad operacional.
+Del memorial evaluado surge que PRITS favorece la aprobaci6n de la medida, a la
+vez que formula recomendaciones dirigidas a precisar definiciones, uniformar conceptos
+y clarificar aspectos operacionales relacionados con su implementaci6n. A juicio de esta
+comisi6ru dichas observaciones resultan razonables y han sido atendidas mediante las
+M
+enmiendas incorporadas al entirillado electr6nico, con el prop6sito de viabilizar una
+aplicaci6n mAs clara, efectiva y consistente del estatuto propuesto.
+En virtud de lo anterior, esta Comisi6n entiende que el Proyecto del Senado 1126
+adelanta la polltica prlblica de fortalecer la seguridad cibem6tica del Gobiemo de Puerto
+Ricq mejorar su capacidad de respuesta ante incidentes y garantizar la continuidad de
+los servicios esenciales. Por consiguiente, recomienda su aprobaci6n con las enmiendas
+contenidas en el entirillado electr6nico que se acompafla.
+POR TODO LO ANTES frPLJESTO, la Comisi6n de Cienci4 Tecnologla e
+Inteligencia Artificid del Senado de Puerto Rico, previo estudio y consideraci6r! tiene a
+bien presentar ante este Alto Cuerpo el Informe Positivo sobre el ltoyecto del Senado
+1126, recomendando su aprobaci6n con las enmiendas contenidas en el entirillado
+electr6nico que ee acompafra.
+Respetuosamente sometido,
+
+/r
+{
+///*--
+Wilmer Reyes Berioe
+Presidente
+Comisi6n de Ciencia, Tecnologfa
+e Inteligencia Artificial
+
+(Entirillado Electr6nico)
+GOBIERNO DE PUERTO RICO
+*
+20 Asamblea 3 ." Sesi6n
+Legislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del 5.1126
+9 denarzo de2t?i
+hesentado por el #tot Reys knios
+ah
+Rclerido C-otttisiin de Ciencia, Teotologia e Intcligncia Artifrcirl
+LEY
+Para enmendar los Arficulos 2, 3 , 4, 6, z, r0 y afiadir los nuevos ArHcuros 7-A y 11-A de
+l/at la Ler Num. tlGlsl4 2024. segrln enmeitada, conocida como rry de ciberseguridad
+del Estado ubre Asociado de puerto Rico con el prop6sito de fortalecer .n"r.o
+juridico de ciberseguridad del Gobiemo de puerto Rico, reforzar la resilienci " a i di6tal
+y la continuidad de servicios esenciales, ampliar facultades regulatorias y establler
+mSanismgs de supervisi6ry notificaci6n y financiamientd y p"r" ohos fines
+relacionados.
+HPOSICION DE MOTryOS
+[a
+hansformaci6n digitar del Gobiemo de puerto Rico ha dejado de ser una
+aspiraci6n programdtica para convertirse en una realidad operativa ind.ispensable. ra
+prestaci6n de servicios pdblicog la continuidad gubemamental, la protecci6n de
+inlormaci6n sensitiva y el desarrollo econ6mico sostenible son te.as que se deben
+atender en esta karuformaci6n. [a creciente interconexi6n de sistemas, la deperrdencia
+de infraestructuras tecnol6gicas y la utilizaci6n intensiva de plataformas digitales han
+ampliado significativamente la superficie de exposici6n a amenazas cibern€ticas cada vez
+m6s sofisticadas, persistentes y coordinadas.
+
+2
+I-a aprobaci6n de la l.ey Ntm. &-2@4 conocida como la "Ley de ciberseguridad
+del Estado ubre Asociado de puerto Rico", constituy6 un paso decisivo en la creaci6n de
+un fiu.rro normativo para atender ra seguridad de los recursos de informaci6n
+gubemamentales. Dicha legislaci6n estableci6 est6ndares mlnimos de ciberseguridad,
+cre6la figura del Principal oficial de seguridad cibemdtica (CISO) y formariz6la oficina
+para la Evaluaci6n de rncidmtes Cibern6ticos adscrita aI puerto Rico Innovation and
+Technology service (pRITS). con elrq se reconoci6 que la protecci6n de los datos
+gubemamentales es esencial para garantizar ra confidenciaridad, integridad y
+disponibilidad de la informaci6n prlblica.
+No obstante, el entorno digitar evoluciona a un ritmo que supera er cicro ordinario
+de acfualizaci6n legislativa. Los ataques mediante raruiomware, la orplotaci6n de
+vulnerabilidades en la cadena de suministro tecnol6gic4 el uso malicioso de
+herramientas basadas en inteligencia artificial, la suplantaci6n digital y los ataques
+ilw
+coordinados contra infraestructuras crlticas evidencian que la ciberseguridad ya no es
+tnicamente ,n as,nto t6cnico, sino un componente estrucfural de la seguridad prlblica,
+la estabilidad econ6mica y la gobernanza democrAtica.
+la
+experiencia reciente demueska que Ia intemrpci6n de servicios esenciales tales
+como energla, agua, telecomunicaciones, sistemas financieros, salud o loglstica crltica
+puede generar efectos sist6micos inmediatos sob're la economla y la seguridad de la
+poblaci6n. En ese contexto, la protecci6n del ciberespacio y la resilimcia digital deben
+concebirse como elemmtos estratEgicos de seguridad y desarrollo econ6mico, no
+merameartre como obligaciones administrativas de cumplimimto minimo.
+las mejores pr6cticas intemacionales han avanzado hacia modelos regulatorios que
+integran multiples aspectos. Entre los aspectos antes referidos comrlnmente se incluye la
+gesti6n de riesgos basada en criticida4 supervisi6n de operadores de infraeskuctuas
+crlticas, obligaci6n de notificaci6n temprana de incidentes, fiscalizaci6n de la cadena de
+suministro digt"l y adopci6n de estdndares t€cnicos armonizados con nvrcos como el
+National lnstitute of Standards and Technology (NISI) y etAndares intemacionales ISO.
+
+3
+Estos modelos reconocen que la res,ierrcia digitar requiere coordinaci6n cenhari?ad4
+ejecuci6n descmtralizada y una clara delimitaci6n de responsab idades enke el sector
+priblico y el sector privado.
+ta tcy Ndm.4G2024 segfn mmendada, conocida como Lry de Ciberseguridad del
+Estado ubre Asociado de puerto Rico (Iey ,,), estabreci6 un andamiaje iniciar adecuado,
+pero su enfoque principal se ciromrribe al ambito gubemamental directo y a estdndares
+mlnimos de cumptimiento. Resulta necesario fortalecer dicho marco para incorporar un
+enfoque integrar que atienda ra clasificaci6n de incidentes por niveres de severidad.
+Adem6s entendemos necesario que se reduzca er t6rmino de notificaci6n para incidentes
+crlticos, la supervisi6n de proveedores tecnor6gicos seg(rn su niver de criticidad, la
+integridad de Ia cadena de suministro de software, la obligaci6n de planes de continuidad
+de negocios y recuperaci6n ante desastres, y un r€gimen sancionador proporcionar que
+/tt tenga verdadero efecto disuasivo.
+Asimismo, se hace indispensabre robustecer la autoridad t6cnica del principal
+oficial de seguddad Gbem.tica y de la oficina adscrita a pRITS. para lograr lo antes
+dicho se deben dotar de facultades regulatorias claras para emitir normas t€cnicas
+vinculantes, coordinar respuestas interinstitucionales
+ante emergencias cibern.ticas y
+fiscalizar el cumplimiento en sectores crtticos. La gobemarua efectiva en materia de
+ciberseguridad exige claridad normativa, supervisi6n activa y capacidad de respuesta
+inmediata.
+Por otro lado, la inversi6n en ciberseguridad
+debe concebirse como un habilitador
+del desarrollo econ6mico. un ecosistema digitar seguro fomenta la inversi6rl fortalece la
+confianza en los servicios gubernamentales y posiciona a puerto
+Rico como una
+jurisdicci6n
+confiable para la innovaci6n tecnol6gica y ra econo.Ia digitar. La adopci6n
+de incentivos para certificaciones reconociaos internacionalmente, Ia
+creaci6n de
+mecanismos de financiamiento
+para fortalecer la resiliencia drgrtal y er desarro,o
+de
+talento especializado constifuyen
+erementos esenciares de una porltica p(blica modema
+en esta materia.
+
+4
+Ia presente medida tiene como prop6sito mmmdar la ky N(m. 4a-2024 para
+actualizar y fortalecer er marco jurrdico rigert", arinearlo con
+estandares
+contempor6neos, integrar un enfoque de resilimcia digital basado m riesgo y criticidad
+reforzar la gotrernanza centralizada de la ciberseguridad y establecer obligaciones claras,
+proporcionales y fiscalizables para mtidades pfblicas y privadas cuya operaci6n incida
+sobre servicios esenciales e infraestructuras crfticas. Mediante estas enmiendas, la
+Asamblea Legislativa reafirma su compromiso con la protecci6n de la informaci6n
+pdblic4 continuidad guhmamental, estabilidad econ6mica y seguridad digital de
+Puerto Rico. Reconociendo que en la era tecnol6gica ta defensa del ciberespacio es
+inseparable de la defensa de la integridad irutitucional y del bimestar colectivo.
+DECRE'TASE FOR LA ASAMBLEA LEGISLATIVA DE PTJERTO RICO
+I secci6n 1 .- se enmimda el Ar6culo 2 d e la r,.y 4o-2v24, segrln enmendada, conocida
+ky
+tlttk como de Ciberseguridad del Estado Libre Asociado de puerto Rico, para que lea
+3
+como sigue:
+4
+"Arficulo 2.- Aplicabilidad.
+5
+Las disposiciones de esta Ley son aplicables a la Rama Ejecutiva, incluyendo todo
+6
+departamento, junta, dependencia, comisi6ry negociado, oficina, agencia, administraci6n
+7
+u organismq suMivisi6n pol{tica, corporaciones priblicas y municipios. De igual forma
+8
+aplica a cualquier persona natural o jurldica que haga negocios o tenga conkatos con el
+9
+Gobierno, incluyendo, de forma no exhaustiva, a las personas privadas que desempeflan
+10
+funciones y servicios p(blicos, pero solamente con respecto a las funciones y servicios
+I
+pfblicos desempeffados; a todo ejercicio de administraci6n prlblica o privada en el que
+1
+12
+se hubieren dedicado o invertido fondos o recursos priblicos (directa o indirectamente),
+
+5
+I o sobre la cual se hubiere ejercido la autori.rad de cualquier servidor pdblicq en oranto
+2 a los datoo que se generan como producto de tales actividades.
+J Los diswsicioncs de esta rzy totrbin w6n aprictbrcs a todo operador de iaftaestructura
+4 critica o powfur de e,oicios e*nciares, infupwrimtennt, q*
+,1" meilic o no rcracitin
+5 cotthactud directa con el Gobicrno, cuando la interupcion,
+o otrpmmin de sas
+6 sisbmas pucda aftctn ra antiauidad ib *tricios e*aciabs, Ia *guridad prnilica, ra estabilidart
+7 eandmica o la anttinuidad. gubrnonental.,,
+8 secci6n 2'- Se enmienda eI Artrculo 3 de ra r,ey 4u2v24, seg(n enmendada,
+*y
+9 conocida como de ciberseguridad del Estado Libre Asociado de puerto Ricq para
+I0 que lea como sigu.e:
+M,
+t) "ArHculo 3.- polltica p(rblica.
+Se
+12 establece como politica pdblica m puerto Rico lo
+siguiente:
+13
+1
+14
+l5 10' fuarccer la resiliencia digital y la antinuidad operacional itc toss ruiciu e*ncialzs omo
+l6
+annponentcs estm*gias de ra *guidad ptibrica y er itesanolro ean6mia,
+airoptaniro un
+17
+enfoque ba*do m nesgo y criticidad, armoniudo an
+estdndares
+recotucidos
+l8 inbrnacianalmmte tabs ono NIST, ISO/IEC 27f//1 e ISO 22301.,,
+l9
+secci6n 3'- se erunimda el Ar(culo 4 de la r*y &w24,segfn
+enmendada, conocida
+20 como [.ey de Ciberseguridad
+del Estado Ubre Asociado de puerto Ricq para que lea
+2t como sigue:
+22 "Artrculo 4. - Definiciones.
+
+6
+I Para prop6sitos de esta Ley y salvo que otra cosn se disponga en la misma, los
+)
+siguimtes tdrminos tendr6n el significado expresado a continuaci6ru
+3 (a)
+4 (dd) "seruicios e*nciares" - aquerbs servicios cuya interrupcifin pueda afectar
+5 signifcatbamente la sarud, seguidad, eanomta o bienestar abcthn, incruyeado, sin
+6 limitarse, a ercrgi+ agua, tclecomunicaciones, fnanzas, nlud, traasporte, togistica cr{tica y
+7 sistemas gubenamentales estra6gias.
+8 (ee) "operador oitia" - toda per*na tafurar o juidica, pibrica o pnooda, qu
+9 administre, oryte o controle iafracstrucfura critica o *ruicios ewncialzs,
+l0 ffi " Cadena de suministro digttay, - mnjunto de procesos, amponentes, software,
+ll y
+t,, harilware *roicios interanectados que interoimen m el desarroflo, yoaisiin y
+tl
+manteilmimto de sistemas tecaoldgicos utilimdos por et Gobiemo.
+l3 Qd "Gesti6n de riesgos cibemitias" - proceso antinuo de identificacion, eoahnci6n,
+l4 mitigacion y monitorco ile ametums y aulnerabilidailes que puzdan afectar los Reanrsos de
+15 infonnacion."
+l6 fuh) "Plan ile hntinuidad y Recuperaci6n', - documento furmat que estabbce
+t7 proctdimientos para garantiztr la antinuiihd opraciotul y l.a reanperaci6n antc incidentes
+l8 cibernitias o ilesastns tecaol6gius."
+(it
+t9 "Rebci6n entre categorias - Para efectos de estt ltu, los tirminos 'orweeilor de
+20 sfiticios anhatados', 'orweedor de xraiclos e*nciales' y 'operador critico' anstituyen
+2l catccoias distintas. El Ermino 'wooeeihr de seruicios contrataihs' x refiere a mtidadcs an
+22 x
+relaadn coiractual directa on el Gobierno; el Ermino 'orweedor dc seruicios exnciales'
+
+7
+1 a c1l
+de
+2 el
+o
+3 o ra
+ufl
+4
+es o tal
+5
+to c'n lti
+tre
+6 dichas categoias.',
+,,se
+7
+gfl este b u de
+8 te ln q
+dcberi
+9
+a
+tando
+efl
+10
+aolicac in.,,
+11 Secci6n 4.- Se enmienda el Ar(culo 6 de Ia Ley 48-2024, segrln enmendada,
+,W conocida como ky de ciberseguridad del Estado Libre Asociado de puerto Rico, para
+13 que lea como sigue:
+t4 "Ar(culo 6. - principar oficial de seguridad Cibem.tica (chief Information
+l5
+Security Offices) del Gobiemo.
+t6 se ctea el cargo de principal oficial de seguridad Gbern.tica (chief Infurmation
+17 secun$ offer) der Gobiemq quien estard adrrito al pRrrs, pero gozar6 de cierto nivel
+l8 de autonornla para lrevar a cabo sus funciones de manera independiente utilizando los
+19
+reorrsos provistos por pRITS.
+...
+20
+2t El Principal oficial de seguridad Gbern6tica habajare en cootdinaci6n
+con el
+22 kutituto y con er personal que cada Agencia designe para levar
+a cabo tales funcionee,
+
+E
+I en la confecci6n y ejecuci6n de las esbategias para proteger Ia informaci6n priblica del
+2
+Gobierno.
+3 EI kincipal ofcial dc *pridad Gbnitica
+tendrd faatrtad pora emitir aormas hicaius
+4 obligatorias y oinatlanbs qliubres a rrc Agncias y a ros operartotes ,tti,,s cubiettos pr ecta
+by,
+5 incluprulo estdadarcs minimos de *guridad,, pmtoolos de rctificacitn, rcryisitos
+de
+6 adibria y medidas de nitigacilin. Asimiffio, W&d norurutar al Gobenabr h dechracihn de
+7 una energencia cilnmitiu
+caondo las circunstarcias lo anaribn.,,
+8 Secci6n 5.- Se enmienda el Ardculo 7 de la lley 4UT/24, seg{n enmendad4
+9 conocida como I-ey de Gberseguridad del Estado Libre Asociado de puerto R.o, p"."
+l0 que lea como sigue:
+ll
+"Arftulo
+7. - Est6ndares y prirrcipios mlninos de Cibersegurida
+l.rttlp
+l/tv Toda Agmcia y todo proveedor de servicios conhatados debera cumplir y
+l3 asegurarse que todo Frsona natural o jurldica que haga negocios o contrate con ellos
+14 cumpla con aI menos los siguimtes Estindares y principioe mlnimos de ciberseguridad:
+15
+(1)
+l6
+17
+(10) L"os Proveedotes de servicios contratados de tecnolo$a de la informaci6n y
+18
+comunicaciones compartir6n informaci6n y notificar6n err un t€nnino no mayor de
+19
+[cuarenta y ocho ($)loeintiaubo (24) horas al pRITS y a la Agerrcia conkatante cuando
+20
+descubran un incidente de seguridad cibern6tica o un incidente potencial que pueda
+2l
+poner en Riesgo los datos, productos de software, Firmware o los servicios confidencialeg
+22
+del Gobiemo o de cualquia perona natural o jurldica;
+
+9
+I
+2 (20) PRIfs
+adoPtmd mcdiaau ngtanento ua sbtema dc clasifeci1l itc inciibntcs ile
+3 *guridad abrnitia m nioercs bajo, ttuttio, arb y oitia, anftnu at impach potencial *bre ra
+4 onfdencialida{ inhgidad, disprlbilidad, oatiauidad opaciotuJ y *guridad yniliu,
+5 establecienilo wa uda aioer &rigaciones espcifus de notifcacidn, nspucsta y mitigacion.
+6 (21) Todo prcoeedor crasifwdo urc de alto o .,itia inryacto ,cbnd mantercr y prvow a
+7 PRlll"s uz inoentaio actuarizado ire annpnentes de sftuare (hfwate Biil of Mtteriars _
+E sBoM) a $ornc a estthndmes re@nocidos, wi ona wiilznciar un pmceso f ormar de gestion de
+9 oulnerabiliihdcs y aplicacihn fu prctos dc xguflM dentm ile tirmitus mzonablcs estableciilos
+l0 prrcglmunto."
+ll
+secci6n 6'- se enmienda el ArHcuIo 10 de ra t-ey ro,',24, seg(n enmmdada,
+l)w
+conocida como Lcy de ciberseguridad del Estado ub,re Asociado de puerto Rico, para
+l3 que lea como sigue:
+t4 "Arffculo 10. - Sanciones.
+15 [Si alguna Agencia incumpliese con lo dispuesto en esta Ley,la pRIIS podri
+l6 imponer a la Agencia, previa notificacidn y oportunidad
+de ser oida, una multa no
+t7 menot de cincuenta (50) ddhres ni mayor de cien (1.n) ddlares diarios por Incidente,
+l8 por cada dla que incumpla con los Estindarea y principioe
+de cibereeguridad
+segrin
+l9 eetablecidos en eI Articuto 6 de eeta Ley.
+20 Cuando medie obstrucciti+ netlitencia,
+mala fe, temeridad o
+negativa
+2t cap'ichoaa en el manejo o reporte de un ciberataque, Ia pRrfs podri imponer a la
+
+10
+I
+Agmcia prcvia nodficacirin y oportuni&d de eer oida, una rrulta no menor de rril
+2
+(1,000) drilerec ni m.yc de cinco nril (Srm) ddhreg por cade violaci<in l
+3 PRITS pdrd fupw multas administtatioas pruprciotubs a h gwedad
+dcr
+4
+inatmplimienb, al daio cauudo y al tn rorlo dc Ia ntida4 las cualcs wdnfu asender lwta un
+5
+rudrimo equioatente al cina por cimto (s%) del oato anttracfual apliubb o de la ingresos
+6
+oruales rclacionados on el sruicb aftcrado, sin prjuicb de otms rnalidades onbactuales o
+7
+bgales qlicables.
+8
+9 secci6n 7.- se afrade un nuevo Aruculo 7-A a la l*y 4o-2024, segrln enmendada,
+l0 conocida como [,ey de ciberseguridad del Estado Libre Asociado de puerto Rico, que
+ll
+leer5 como sigue:
+/+,
+t) " 7-A. - Planes de Continuiilail y Recuperucifin.
+l3 Toda Agencia y todo oprador critico deberd desanollar, mantener y acfualimr anualmente
+t4 un Plan de Continuidad y Recaryaci6n ante lncidentes Cibemitkos, el cttal ilcberi ser somztiih
+l5 a PRITS para fnes de nalwci6n y aaliilacifin. Dichos planes deberrin *r smetidos a pruebas
+16
+peri1dicas no menos una 0) wz al afro o con mauor frecaencia determine PRI+S
+1'l
+iwgiliante
+reglamento."
+18
+Secci6n 8.- Se anade un nuevo ArUculo 11-A a la l,ey 4A-2024, seg{n enmendada,
+19
+conocida como Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico, que
+20
+leerA como sigue:
+21 "Arfculo 11-A. - Fondo de Resiliencia Digital'
+
+ll
+1 Se crea el Fondo de Resilieflcia Digittl adsoito a PRITS, ott el V@b fu fnanciar
+2 iniciatioas de prcoencion, deteccion, rcspueEta y rcatperacihn antc inciilcntes cibzt:ltitby6, asi
+3 amo programas dc copacitacion y certifcacion en cibr*guidad.
+4 El Fondo podn| nutrir* de asignaciones legblatiaas, fondos federulcs, multas
+5 ailministtatioos impuestas bajo esta lzy y cualquier otra fuente outarimda W, W." "Las multas
+6 nu
+la
+7 de ta ante tes
+8 se tn como un mecamsmo la imoosici6n iniliscrimiaada de sanciones, sino amo
+9 ufltL tw el to la tema
+l0 Secci6n 9.- Vigencia
+lt
+Esta Ley comenzar6 a regir inmediatamente despu€s de su aprobaci6n.
+/t/c&
+
+[DELETED:  7]
+[DELETED:  p a d p f m r r d O]
+[DELETED:  :]
+[DELETED:  c d d g P s q a C l d e P t R C s d a e a]
+[DELETED:  d ( y]
+[DELETED:  t l s p a s l o p i]
+[DELETED:  p]
+[DELETED: 0f a Erc G]
+[DELETED:  h]
+[DELETED:  p a 4 l e A]
+[DELETED:  Fis]

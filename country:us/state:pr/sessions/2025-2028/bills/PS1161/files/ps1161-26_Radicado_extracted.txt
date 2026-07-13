@@ -1,0 +1,513 @@
+Title: Presentado por el señor Matías Rosario (Por Petición)
+Official Title: Presentado por el señor Matías Rosario (Por Petición)
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1161
+26 de marzo de 2026
+Referido a
+LEY
+Para añadir un nuevo artículo a la Ley Núm. 146-2012, según enmendada, conocida como
+el “Código Penal de Puerto Rico”, a los fines de tipificar como delitos el cobro ilegal
+por asistencia en reclamaciones iniciales de veteranos, la prestación de servicios
+remunerados sin acreditación federal, el cobro de honorarios excesivos por
+representantes autorizados, y la realización de prácticas predatorias o de acceso
+indebido a información de veteranos; establecer agravantes, multas y restitución
+obligatoria; disponer mecanismos de coordinación interagencial para la investigación
+de estas conductas; autorizar la reglamentación necesaria; armonizar esta legislación
+con el marco federal aplicable; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Desde mediados del siglo XIX, la legislación federal de Estados Unidos ha
+prohibido el cobro de honorarios por la asistencia en la preparación y presentación inicial
+de reclamaciones ante el Departamento de Asuntos de Veteranos (DVA), con el firme
+propósito de proteger a los veteranos de prácticas abusivas y garantizar que la "puerta
+de entrada" al sistema sea completamente gratuita y accesible. Históricamente, este
+régimen contaba con sanciones criminales directas que servían como un disuasivo eficaz;
+sin embargo, al aprobarse el Veterans’ Benefits, Health Care, and Information Technology Act
+de 2006 (Public Law 109-461), aunque se autorizó a abogados y agentes acreditados a
+cobrar honorarios razonables tras una decisión inicial para facilitar la representación
+técnica en etapas de apelación, se eliminaron inadvertidamente las penalidades
+2
+criminales directas para quienes cobraran honorarios no autorizados en la fase inicial.
+Este cambio legislativo eliminó el riesgo penal y dejó la conducta supeditada únicamente
+a remedios administrativos o disciplinarios, creando un vacío legal o "loophole" que ha
+permitido la proliferación de los denominados "claim sharks". Estas empresas y personas
+no acreditadas operan fuera del esquema de supervisión del DVA, mercadeándose bajo
+títulos de "coaches", "consultores" o proveedores de "pre-evaluación" para evadir la
+regulación, mientras imponen tarifas predatorias que pueden superar los 20,000 dólares
+por caso o se apropian de múltiplos del aumento mensual de la compensación del
+veterano.
+Reconociendo la magnitud de esta industria, que ya mueve decenas de miles de
+millones de dólares y se ha intensificado tras la aprobación del PACT Act de 2022, el
+Congreso federal ha considerado medidas para reinstaurar el riesgo penal, tales como el
+proyecto S. 740 o "GUARD VA Benefits Act of 2023", el cual cuenta con apoyo bipartita
+para castigar criminalmente a quien solicite, contrate o reciba honorarios no autorizados.
+No obstante, mientras dicha pieza legislativa permanece pendiente de aprobación, el
+vacío penal continúa sin atenderse de manera integral a nivel nacional, trasladando la
+carga de protección al propio veterano, quien debe navegar una estructura de honorarios
+compleja mientras necesita sus beneficios para subsistir.
+En Puerto Rico, la Oficina del Procurador del Veterano (OPV) ha recibido
+información sobre este tipo de prácticas abusivas en Puerto Rico. Personas no acreditadas
+que se presentan como expertas para cobrar sumas significativas sin asumir
+responsabilidad formal, así como a abogados que, a pesar de su profesión legal, facturan
+supuestas "consultorías" en etapas donde el derecho federal prohíbe terminantemente
+cualquier cobro por no poseer la acreditación federal requerida ante el DVA. A esto se
+suman esquemas de fraude más sofisticados, como la reciente acusación federal en la Isla
+contra un empleado de la Administración de Veteranos y otros coacusados por un
+esquema de reclamaciones con condiciones médicas falsas, lo que evidencia el potencial
+de abuso cuando se explotan los vacíos regulatorios vigentes. Las consecuencias de estas
+conductas en Puerto Rico se manifiestan en reclamaciones incompletas o mal tramitadas,
+pérdida de términos procesales y el desvío de recursos económicos escasos de los
+3
+veteranos y sus dependientes hacia servicios ilegales o ineficientes, obligando a los
+reclamantes a acudir tardíamente a la OPV o a las organizaciones de servicio a veteranos
+(VSO’s) debidamente acreditadas, para intentar subsanar daños ya causados. Frente a
+este cuadro, cobra particular relevancia la política pública local de ofrecer asistencia
+gratuita, profesional y accesible, donde la OPV actúa como enlace crítico para gestionar
+beneficios como compensaciones y pensiones, servicios que son completamente libres de
+costo.
+En años recientes ha surgido, además, una modalidad de aprovechamiento que va
+más allá del cobro directo de honorarios por representación ante el DVA. Bajo la
+apariencia de “programas integrales” de apoyo al veterano, algunas entidades privadas
+se mercadean como coordinadoras de servicios financiados por fondos federales,
+empaquetando beneficios de pensión o asignaciones especiales del DVA, como si fuesen
+programas propios. Bajo este modelo, el veterano, su cónyuge o su viuda pueden ser
+inducidos a realizar desembolsos significativos, adelantar pagos por servicios, o asumir
+compromisos contractuales con proveedores específicos, bajo la creencia de que ello es
+requisito para acceder o conservar los beneficios federales a los que tienen derecho.
+Estas prácticas resultan particularmente preocupantes cuando se dirigen a
+veteranos de edad avanzada o con limitaciones funcionales, quienes dependen de
+terceros para completar formularios electrónicos, manejar sus credenciales de acceso y
+coordinar servicios esenciales de cuidado personal. En esos contextos, la línea entre
+“orientación” y “captación comercial” se difumina, y el veterano puede quedar atrapado
+en esquemas donde se condiciona de facto el disfrute de sus beneficios federales a la
+contratación de determinados proveedores o intermediarios, con limitada transparencia
+sobre los costos reales, los conflictos de interés y los mecanismos de reclamación
+disponibles.
+Dado que el actual Código Penal de Puerto Rico (Ley 146-2012) tipifica delitos
+generales como el fraude, pero no recoge expresamente la conducta de cobrar honorarios
+excesivos o en etapas prohibidas utilizando como referencia el régimen federal de
+acreditación, se produce un espacio de relativa impunidad frente a un aprovechamiento
+sistemático de la vulnerabilidad y desconocimiento del veterano. Esta Asamblea
+4
+Legislativa entiende que es jurídicamente viable y conveniente que el Gobierno de Puerto
+Rico, bajo la doctrina de la doble soberanía y en ausencia de un “preemption” federal que
+excluya la intervención estatal en la protección de estos casos, adopte legislación penal
+complementaria que tipifique con claridad estas ofensas. Una ley penal puertorriqueña
+que sancione a quien, con o sin acreditación o autorización del DVA, cobre por servicios
+relacionados a reclamaciones iniciales, o que penalice a representantes acreditados que
+excedan los límites de honorarios de la reglamentación 38 C.F.R. 14.636 o cobren en etapas
+procesales prohibidas, o sin acreditación del DVA, cobre por la prestación de servicios
+relacionados a reclamaciones de beneficios de veteranos, entre otras actuaciones, se
+insertaría como una capa adicional de protección a los veteranos, compatible con el
+diseño federal.
+En los estados de la Unión que han comenzado a responder al problema de los
+llamados “claim sharks”, la tendencia predominante ha sido adoptar legislación orientada
+a la protección al consumidor, declarando ilegales o injustas estas prácticas como
+modalidades de prácticas comerciales desleales o “unfair trade practices”, y prohibiendo o
+limitando contractualmente los cobros de compañías no acreditadas, más que tipificarlas
+como delitos. A la fecha, no se identifican ejemplos específicos de jurisdicciones estatales
+que hayan tipificado como delitos estatales estas prácticas prohibidas a nivel federal, por
+lo que Puerto Rico se colocaría entre las primeras jurisdicciones, y muy probablemente
+podría presentarse como pionera, en tipificar a nivel estatal, de manera específica y
+coherente con el régimen federal, el cobro indebido y el cobro excesivo en reclamaciones
+de beneficios de veteranos. Por ello, la presente Ley no se limita a quienes, abiertamente,
+se presentan como representantes en reclamaciones de beneficios. También atiende a
+aquellas personas o entidades que, aunque se describen como “coordinadores”,
+“facilitadores” o “programas de servicios”, en la práctica condicionan o vinculan su
+compensación económica a la tramitación, obtención o aumento de beneficios federales,
+o al desvío de dichos beneficios hacia proveedores específicos de servicios. La protección
+penal propuesta se dirige a la conducta abusiva, no a los modelos legítimos de prestación
+de servicios de salud o apoyo social que se realizan con transparencia y dentro del marco
+regulatorio aplicable.
+5
+Por tanto, esta Asamblea Legislativa estima imprescindible adoptar medidas
+penales específicas que llenen este vacío normativo, fortaleciendo el modelo de asistencia
+gratuita provisto por la OPV y las organizaciones de servicio a veteranos (VSO’s)
+debidamente acreditadas por el DVA, enviando un mensaje inequívoco de que, en Puerto
+Rico, no se permitirá que nadie se lucre, ilícitamente, del sacrificio, la necesidad y la
+confianza de nuestra noble población veterana.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se añaden los nuevos Artículos 202-A, 202-B, 202-C, 202-D y 202-E al
+2 Artículo 202 de la Ley Núm. 146-2012, según enmendada, conocida como “Código Penal
+3 de Puerto Rico”, para que lean como sigue:
+4 “Artículo 202. - Fraude.
+5 …
+6 (a)…
+7 (b)…
+8 …
+9 Artículo 202-A. - Cobro Ilegal por Asistencia en Reclamaciones Iniciales de Veteranos.
+10 Toda persona, organización, entidad o empresa que, por sí o a través de terceros, solicite,
+11 contrate, cobre o reciba cualquier pago, honorario, compensación o remuneración económica de un
+12 veterano, sus familiares o dependientes, por concepto de asistencia, asesoría, preparación,
+13 presentación o trámite, o cualquier otro servicio directamente vinculado al inicio de una
+14 reclamación inicial de beneficios administrados por el Departamento de Asuntos de Veteranos
+15 federal (DVA), bajo cualquier pretexto o denominación, incurrirá en delito grave de cuarto grado.
+6
+1 El tribunal también impondrá la pena de restitución obligatoria de cualquier suma de dinero
+2 obtenida ilegalmente.
+3 Artículo 202-B. - Representación o Asesoría en Reclamaciones de Veteranos sin
+4 Acreditación Federal.
+5 Toda persona, organización, entidad o empresa que, sin poseer una acreditación o
+6 autorización vigente otorgada por el Departamento de Asuntos de Veteranos de los Estados
+7 Unidos, se promocione como experta en reclamaciones de beneficios de veteranos, ofrezca servicios
+8 de asesoría legal o técnica, o intervenga, directa o indirectamente, incluyendo mediante redes de
+9 proveedores de servicios, a cambio de compensación económica en cualquier etapa de una
+10 reclamación de beneficios de veteranos ante dicha agencia, incurrirá en delito grave de cuarto
+11 grado.
+12 La mera admisión al ejercicio de la abogacía en Puerto Rico o la posesión de cualquier otra
+13 licencia profesional no constituirá defensa frente a este artículo si la persona no cuenta con la
+14 acreditación federal específica requerida. Se exceptúan de este artículo los servicios gratuitos
+15 ofrecidos por Organizaciones de Servicio a Veteranos (VSOs) y la Oficina del Procurador del
+16 Veterano de Puerto Rico.
+17 Artículo 202-C. - Cobro de Honorarios Excesivos o Prohibidos por Representantes
+18 Acreditados.
+19 Incurrirá en delito grave de tercer grado cualquier agente o abogado debidamente
+20 acreditado por el Departamento de Asuntos de Veteranos federal que, en el ejercicio de su
+21 representación ante dicha agencia en la jurisdicción de Puerto Rico:
+7
+1 (1) Cobre o solicite el pago de honorarios que excedan los límites de razonabilidad o los
+2 porcentajes máximos permitidos sobre beneficios retroactivos establecidos en la
+3 reglamentación federal vigente (38 C.F.R. 14.636).
+4 (2) Cobre o solicite el pago de honorarios calculados sobre beneficios futuros o
+5 recurrentes del veterano.
+6 (3) Estipule o reciba pagos en etapas procesales o bajo condiciones expresamente
+7 prohibidas por las normas federales aplicables.
+8 Artículo 202-D. - Prácticas Predatorias y Acceso Ilegal a Información de Veteranos.
+9 Incurrirá en delito grave de tercer grado toda persona o entidad que, con el fin de obtener
+10 un beneficio económico relacionado con una reclamación de beneficios de veteranos:
+11 (1) Solicite, exija o utilice las credenciales de acceso personal, contraseñas o métodos de
+12 autenticación de un veterano para ingresar a portales electrónicos oficiales del
+13 gobierno federal (VA.gov, eBenefits o similares).
+14 (2) Induzca a la contratación de servicios mediante la garantía de un resultado
+15 específico, un aumento determinado en el porcentaje de discapacidad o promesas de
+16 decisiones expeditas fuera del curso ordinario de la agencia.
+17 (3) Utilice denominaciones tales como "coach", "consultor", "gestor" o conceptos de
+18 "preevaluación médica", entre otros, para encubrir servicios de asistencia en
+19 reclamaciones con el propósito de evadir los requisitos de acreditación y los límites
+20 de honorarios federales.
+21 (4) Presente, promocione o comercialice beneficios de pensión, suplementos especiales
+22 o asignaciones económicas administradas por el DVA como si fuesen programas
+8
+1 propios de la persona o entidad, de forma tal que induzca a un veterano, cónyuge o
+2 dependiente a creer que, para acceder o mantener dichos beneficios, debe contratar
+3 servicios de la persona o entidad, adelantar pagos por servicios de cuidado, o utilizar
+4 exclusivamente proveedores designados por esta.
+5 Artículo 202‑E. – Agravantes y Restitución.
+6 En la determinación de la pena para los delitos tipificados en los Artículos 202‑A al 202‑D,
+7 el tribunal considerará como circunstancia agravante el que la víctima sea un adulto mayor de
+8 sesenta y cinco (65) años o una persona declarada legalmente incapaz. En todos los casos, además
+9 de la pena de reclusión, el tribunal impondrá una multa que no será menor del doble de la cantidad
+10 de dinero que el convicto intentó o logró cobrar ilegalmente, y la cancelación de cualquier licencia
+11 de negocio o gestoría en Puerto Rico relacionada con la conducta delictiva. En particular, al valorar
+12 esta agravante, el tribunal podrá considerar si la conducta del convicto se aprovechó de la condición
+13 de dependencia del veterano respecto a servicios de cuidado personal, cuido en el hogar, ama de
+14 llaves o asistencia para actividades esenciales de la vida diaria.”
+15 Sección 2. – Coordinación interagencial.
+16 La Oficina del Procurador del Veterano de Puerto Rico, el Departamento de
+17 Justicia de Puerto Rico y las agencias de seguridad pública establecerán, mediante
+18 acuerdos colaborativos, los mecanismos de intercambio de información necesarios para
+19 referir e investigar posibles violaciones a los Artículos 202-A al 202-E del Código Penal,
+20 tipificados por esta Ley, incluyendo la recepción de referidos del Departamento de
+21 Asuntos de Veteranos de los Estados Unidos y de otras entidades federales y estatales,
+22 incluyendo a los municipios, así como privadas. Dichos acuerdos deberán procurar la
+9
+1 protección de la confidencialidad de los expedientes de reclamaciones de beneficios,
+2 conforme a las leyes y reglamentos federales y estatales aplicables.
+3 Sección 3. – Reglamentación.
+4 El Departamento de Justicia de Puerto Rico y la Oficina del Procurador del
+5 Veterano podrán adoptar la reglamentación necesaria para la implantación efectiva de
+6 esta Ley, incluyendo, sin que se entienda como una limitación, la elaboración de
+7 protocolos de adiestramiento a fiscales e investigadores, y de campañas de orientación a
+8 veteranos y sus familiares sobre sus derechos frente a esquemas de cobro indebido o
+9 excesivo en reclamaciones de beneficios.
+10 Sección 4. – Cláusula de armonización.
+11 Las disposiciones de esta Ley se interpretarán de forma armoniosa y
+12 complementaria con las leyes y reglamentos federales aplicables al sistema de
+13 reclamaciones de beneficios de veteranos y al régimen de acreditación y honorarios ante
+14 el Departamento de Asuntos de Veteranos de los Estados Unidos. Nada de lo aquí
+15 dispuesto se entenderá como una autorización para que el Estado Libre Asociado de
+16 Puerto Rico intervenga en la adjudicación de reclamaciones federales ni en materias
+17 expresamente ocupadas por el Congreso de los Estados Unidos, sino como un ejercicio
+18 legítimo de su poder de razón de estado (“police power”) para proteger a los veteranos
+19 residentes en su territorio frente a prácticas abusivas en la prestación de servicios sujetos
+20 a dicho marco federal.
+21 Sección 5. – Vigencia.
+22 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 3 .r a e r i d v l p d s s a f e c d h e p a y l r d p p o d a a i d v e a m y r m d s X l l f d E U h() e a s s c g y a H e  h r t u d i p f l r e e d a s e i l p]
+[DELETED: """" , d "" " o p d " p e l c o s a d m d a m d l c d  "" P R l O d P d V ( h r s p c e p c s s s a . u e d l A d V y o c p u d t p y e d d r e e d l]
+[DELETED:  y s d h s i o i o a l) c c p r l p p l d o a a d c d d h p r a e D B l m c c d s f p f f p r p p c s d a d e a o c l f q d d s e d c p E e c l l e l c r l c d i y l m d r o e e p u c r e r f d d l v y d d v E A]
+[DELETED: “” , , a r d b d v e o a s c u c a d p a l v c c e“” l p a c d i o i e p c“” p c p e t a n e d m e y p o e q a s d c “ o “ d s e l p c o v s]
+[DELETED:  t e A L e i a m p p l O y l o d s a v ( ,. A T c v s f o d p c d a a p p o t o c o s d v a i d u r f]
+[DELETED:  E o A 2 - R o A e R d V s A T p o e o e q s p u a o a v o p e D d A d V d l E U d p d s a c d c e e c e d u r g L l a f e r S e d e a l s g o V A 2 - C d H E o P p R A I e d g d t g c a o a d a p e D d A d V f q e e e d s r]
+[DELETED:  ()C p m p s b r e e l r ()C o s e p d h c s b f o r ()E o r p e e p o b c e p A I u ()S a d u v p i a p e o d g ()I a l c d s m l g d u r e d ()U " m e o p e s d a e r d ()P o]
+[DELETED:  p d s e A E e s d d d e d l O d P d V d P R e D d d P R y l a d s p e m p e L i l r d r d D d]
+[DELETED:  d l c d l e d r d b D d J d P R y l O d P d L i s q s e c u l l e d d d e L s i d f a y c l l y r f a a s d D d A d V d l E U N d l a R i e l a d r f n e m“” p]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1161
+26 de marzo de 2026
+Presentado por el señor Matías Rosario (Por Petición)
+Referido a
+LEY
+Para añadir un nuevo artículo a la Ley Núm. 146-2012, según enmendada, conocida como
+el “Código Penal de Puerto Rico”, a los fines de tipificar como delitos el cobro ilegal
+por asistencia en reclamaciones iniciales de veteranos, la prestación de servicios
+remunerados sin acreditación federal, el cobro de honorarios excesivos por
+representantes autorizados, y la realización de prácticas predatorias o de acceso
+indebido a información de veteranos; establecer agravantes, multas y restitución
+obligatoria; disponer mecanismos de coordinación interagencial para la investigación
+de estas conductas; autorizar la reglamentación necesaria; armonizar esta legislación
+con el marco federal aplicable; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Desde mediados del siglo XIX, la legislación federal de Estados Unidos ha
+prohibido el cobro de honorarios por la asistencia en la preparación y presentación inicial
+de reclamaciones ante el Departamento de Asuntos de Veteranos (DVA), con el firme
+propósito de proteger a los veteranos de prácticas abusivas y garantizar que la "puerta
+de entrada" al sistema sea completamente gratuita y accesible. Históricamente, este
+régimen contaba con sanciones criminales directas que servían como un disuasivo eficaz;
+sin embargo, al aprobarse el Veterans’ Benefits, Health Care, and Information Technology Act
+de 2006 (Public Law 109-461), aunque se autorizó a abogados y agentes acreditados a
+cobrar honorarios razonables tras una decisión inicial para facilitar la representación
+técnica en etapas de apelación, se eliminaron inadvertidamente las penalidades
+
+2
+criminales directas para quienes cobraran honorarios no autorizados en la fase inicial.
+Este cambio legislativo eliminó el riesgo penal y dejó la conducta supeditada únicamente
+a remedios administrativos o disciplinarios, creando un vacío legal o "loophole" que ha
+permitido la proliferación de los denominados "claim sharks". Estas empresas y personas
+no acreditadas operan fuera del esquema de supervisión del DVA, mercadeándose bajo
+títulos de "coaches", "consultores" o proveedores de "pre-evaluación" para evadir la
+regulación, mientras imponen tarifas predatorias que pueden superar los 20,000 dólares
+por caso o se apropian de múltiplos del aumento mensual de la compensación del
+veterano.
+Reconociendo la magnitud de esta industria, que ya mueve decenas de miles de
+millones de dólares y se ha intensificado tras la aprobación del PACT Act de 2022, el
+Congreso federal ha considerado medidas para reinstaurar el riesgo penal, tales como el
+proyecto S. 740 o "GUARD VA Benefits Act of 2023", el cual cuenta con apoyo bipartita
+para castigar criminalmente a quien solicite, contrate o reciba honorarios no autorizados.
+No obstante, mientras dicha pieza legislativa permanece pendiente de aprobación, el
+vacío penal continúa sin atenderse de manera integral a nivel nacional, trasladando la
+carga de protección al propio veterano, quien debe navegar una estructura de honorarios
+compleja mientras necesita sus beneficios para subsistir.
+En Puerto Rico, la Oficina del Procurador del Veterano (OPV) ha recibido
+información sobre este tipo de prácticas abusivas en Puerto Rico. Personas no acreditadas
+que se presentan como expertas para cobrar sumas significativas sin asumir
+responsabilidad formal, así como a abogados que, a pesar de su profesión legal, facturan
+supuestas "consultorías" en etapas donde el derecho federal prohíbe terminantemente
+cualquier cobro por no poseer la acreditación federal requerida ante el DVA. A esto se
+suman esquemas de fraude más sofisticados, como la reciente acusación federal en la Isla
+contra un empleado de la Administración de Veteranos y otros coacusados por un
+esquema de reclamaciones con condiciones médicas falsas, lo que evidencia el potencial
+de abuso cuando se explotan los vacíos regulatorios vigentes. Las consecuencias de estas
+conductas en Puerto Rico se manifiestan en reclamaciones incompletas o mal tramitadas,
+pérdida de términos procesales y el desvío de recursos económicos escasos de los
+
+3
+veteranos y sus dependientes hacia servicios ilegales o ineficientes, obligando a los
+reclamantes a acudir tardíamente a la OPV o a las organizaciones de servicio a veteranos
+(VSO’s) debidamente acreditadas, para intentar subsanar daños ya causados. Frente a
+este cuadro, cobra particular relevancia la política pública local de ofrecer asistencia
+gratuita, profesional y accesible, donde la OPV actúa como enlace crítico para gestionar
+beneficios como compensaciones y pensiones, servicios que son completamente libres de
+costo.
+En años recientes ha surgido, además, una modalidad de aprovechamiento que va
+más allá del cobro directo de honorarios por representación ante el DVA. Bajo la
+apariencia de “programas integrales” de apoyo al veterano, algunas entidades privadas
+se mercadean como coordinadoras de servicios financiados por fondos federales,
+empaquetando beneficios de pensión o asignaciones especiales del DVA, como si fuesen
+programas propios. Bajo este modelo, el veterano, su cónyuge o su viuda pueden ser
+inducidos a realizar desembolsos significativos, adelantar pagos por servicios, o asumir
+compromisos contractuales con proveedores específicos, bajo la creencia de que ello es
+requisito para acceder o conservar los beneficios federales a los que tienen derecho.
+Estas prácticas resultan particularmente preocupantes cuando se dirigen a
+veteranos de edad avanzada o con limitaciones funcionales, quienes dependen de
+terceros para completar formularios electrónicos, manejar sus credenciales de acceso y
+coordinar servicios esenciales de cuidado personal. En esos contextos, la línea entre
+“orientación” y “captación comercial” se difumina, y el veterano puede quedar atrapado
+en esquemas donde se condiciona de facto el disfrute de sus beneficios federales a la
+contratación de determinados proveedores o intermediarios, con limitada transparencia
+sobre los costos reales, los conflictos de interés y los mecanismos de reclamación
+disponibles.
+Dado que el actual Código Penal de Puerto Rico (Ley 146-2012) tipifica delitos
+generales como el fraude, pero no recoge expresamente la conducta de cobrar honorarios
+excesivos o en etapas prohibidas utilizando como referencia el régimen federal de
+acreditación, se produce un espacio de relativa impunidad frente a un aprovechamiento
+sistemático de la vulnerabilidad y desconocimiento del veterano. Esta Asamblea
+
+4
+Legislativa entiende que es jurídicamente viable y conveniente que el Gobierno de Puerto
+Rico, bajo la doctrina de la doble soberanía y en ausencia de un “preemption” federal que
+excluya la intervención estatal en la protección de estos casos, adopte legislación penal
+complementaria que tipifique con claridad estas ofensas. Una ley penal puertorriqueña
+que sancione a quien, con o sin acreditación o autorización del DVA, cobre por servicios
+relacionados a reclamaciones iniciales, o que penalice a representantes acreditados que
+excedan los límites de honorarios de la reglamentación 38 C.F.R. 14.636 o cobren en etapas
+procesales prohibidas, o sin acreditación del DVA, cobre por la prestación de servicios
+relacionados a reclamaciones de beneficios de veteranos, entre otras actuaciones, se
+insertaría como una capa adicional de protección a los veteranos, compatible con el
+diseño federal.
+En los estados de la Unión que han comenzado a responder al problema de los
+llamados “claim sharks”, la tendencia predominante ha sido adoptar legislación orientada
+a la protección al consumidor, declarando ilegales o injustas estas prácticas como
+modalidades de prácticas comerciales desleales o “unfair trade practices”, y prohibiendo o
+limitando contractualmente los cobros de compañías no acreditadas, más que tipificarlas
+como delitos. A la fecha, no se identifican ejemplos específicos de jurisdicciones estatales
+que hayan tipificado como delitos estatales estas prácticas prohibidas a nivel federal, por
+lo que Puerto Rico se colocaría entre las primeras jurisdicciones, y muy probablemente
+podría presentarse como pionera, en tipificar a nivel estatal, de manera específica y
+coherente con el régimen federal, el cobro indebido y el cobro excesivo en reclamaciones
+de beneficios de veteranos. Por ello, la presente Ley no se limita a quienes, abiertamente,
+se presentan como representantes en reclamaciones de beneficios. También atiende a
+aquellas personas o entidades que, aunque se describen como “coordinadores”,
+“facilitadores” o “programas de servicios”, en la práctica condicionan o vinculan su
+compensación económica a la tramitación, obtención o aumento de beneficios federales,
+o al desvío de dichos beneficios hacia proveedores específicos de servicios. La protección
+penal propuesta se dirige a la conducta abusiva, no a los modelos legítimos de prestación
+de servicios de salud o apoyo social que se realizan con transparencia y dentro del marco
+regulatorio aplicable.
+
+5
+Por tanto, esta Asamblea Legislativa estima imprescindible adoptar medidas
+penales específicas que llenen este vacío normativo, fortaleciendo el modelo de asistencia
+gratuita provisto por la OPV y las organizaciones de servicio a veteranos (VSO’s)
+debidamente acreditadas por el DVA, enviando un mensaje inequívoco de que, en Puerto
+Rico, no se permitirá que nadie se lucre, ilícitamente, del sacrificio, la necesidad y la
+confianza de nuestra noble población veterana.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se añaden los nuevos Artículos 202-A, 202-B, 202-C, 202-D y 202-E al
+2 Artículo 202 de la Ley Núm. 146-2012, según enmendada, conocida como “Código Penal
+3 de Puerto Rico”, para que lean como sigue:
+4 “Artículo 202. - Fraude.
+5 …
+6 (a)…
+7 (b)…
+8 …
+9 Artículo 202-A. - Cobro Ilegal por Asistencia en Reclamaciones Iniciales de Veteranos.
+10 Toda persona, organización, entidad o empresa que, por sí o a través de terceros, solicite,
+11 contrate, cobre o reciba cualquier pago, honorario, compensación o remuneración económica de un
+12 veterano, sus familiares o dependientes, por concepto de asistencia, asesoría, preparación,
+13 presentación o trámite, o cualquier otro servicio directamente vinculado al inicio de una
+14 reclamación inicial de beneficios administrados por el Departamento de Asuntos de Veteranos
+15 federal (DVA), bajo cualquier pretexto o denominación, incurrirá en delito grave de cuarto grado.
+
+6
+1 El tribunal también impondrá la pena de restitución obligatoria de cualquier suma de dinero
+2 obtenida ilegalmente.
+3 Artículo 202-B. - Representación o Asesoría en Reclamaciones de Veteranos sin
+4 Acreditación Federal.
+5 Toda persona, organización, entidad o empresa que, sin poseer una acreditación o
+6 autorización vigente otorgada por el Departamento de Asuntos de Veteranos de los Estados
+7 Unidos, se promocione como experta en reclamaciones de beneficios de veteranos, ofrezca servicios
+8 de asesoría legal o técnica, o intervenga, directa o indirectamente, incluyendo mediante redes de
+9 proveedores de servicios, a cambio de compensación económica en cualquier etapa de una
+10 reclamación de beneficios de veteranos ante dicha agencia, incurrirá en delito grave de cuarto
+11 grado.
+12 La mera admisión al ejercicio de la abogacía en Puerto Rico o la posesión de cualquier otra
+13 licencia profesional no constituirá defensa frente a este artículo si la persona no cuenta con la
+14 acreditación federal específica requerida. Se exceptúan de este artículo los servicios gratuitos
+15 ofrecidos por Organizaciones de Servicio a Veteranos (VSOs) y la Oficina del Procurador del
+16 Veterano de Puerto Rico.
+17 Artículo 202-C. - Cobro de Honorarios Excesivos o Prohibidos por Representantes
+18 Acreditados.
+19 Incurrirá en delito grave de tercer grado cualquier agente o abogado debidamente
+20 acreditado por el Departamento de Asuntos de Veteranos federal que, en el ejercicio de su
+21 representación ante dicha agencia en la jurisdicción de Puerto Rico:
+
+7
+1 (1) Cobre o solicite el pago de honorarios que excedan los límites de razonabilidad o los
+2 porcentajes máximos permitidos sobre beneficios retroactivos establecidos en la
+3 reglamentación federal vigente (38 C.F.R. 14.636).
+4 (2) Cobre o solicite el pago de honorarios calculados sobre beneficios futuros o
+5 recurrentes del veterano.
+6 (3) Estipule o reciba pagos en etapas procesales o bajo condiciones expresamente
+7 prohibidas por las normas federales aplicables.
+8 Artículo 202-D. - Prácticas Predatorias y Acceso Ilegal a Información de Veteranos.
+9 Incurrirá en delito grave de tercer grado toda persona o entidad que, con el fin de obtener
+10 un beneficio económico relacionado con una reclamación de beneficios de veteranos:
+11 (1) Solicite, exija o utilice las credenciales de acceso personal, contraseñas o métodos de
+12 autenticación de un veterano para ingresar a portales electrónicos oficiales del
+13 gobierno federal (VA.gov, eBenefits o similares).
+14 (2) Induzca a la contratación de servicios mediante la garantía de un resultado
+15 específico, un aumento determinado en el porcentaje de discapacidad o promesas de
+16 decisiones expeditas fuera del curso ordinario de la agencia.
+17 (3) Utilice denominaciones tales como "coach", "consultor", "gestor" o conceptos de
+18 "preevaluación médica", entre otros, para encubrir servicios de asistencia en
+19 reclamaciones con el propósito de evadir los requisitos de acreditación y los límites
+20 de honorarios federales.
+21 (4) Presente, promocione o comercialice beneficios de pensión, suplementos especiales
+22 o asignaciones económicas administradas por el DVA como si fuesen programas
+
+8
+1 propios de la persona o entidad, de forma tal que induzca a un veterano, cónyuge o
+2 dependiente a creer que, para acceder o mantener dichos beneficios, debe contratar
+3 servicios de la persona o entidad, adelantar pagos por servicios de cuidado, o utilizar
+4 exclusivamente proveedores designados por esta.
+5 Artículo 202‑E. – Agravantes y Restitución.
+6 En la determinación de la pena para los delitos tipificados en los Artículos 202‑A al 202‑D,
+7 el tribunal considerará como circunstancia agravante el que la víctima sea un adulto mayor de
+8 sesenta y cinco (65) años o una persona declarada legalmente incapaz. En todos los casos, además
+9 de la pena de reclusión, el tribunal impondrá una multa que no será menor del doble de la cantidad
+10 de dinero que el convicto intentó o logró cobrar ilegalmente, y la cancelación de cualquier licencia
+11 de negocio o gestoría en Puerto Rico relacionada con la conducta delictiva. En particular, al valorar
+12 esta agravante, el tribunal podrá considerar si la conducta del convicto se aprovechó de la condición
+13 de dependencia del veterano respecto a servicios de cuidado personal, cuido en el hogar, ama de
+14 llaves o asistencia para actividades esenciales de la vida diaria.”
+15 Sección 2. – Coordinación interagencial.
+16 La Oficina del Procurador del Veterano de Puerto Rico, el Departamento de
+17 Justicia de Puerto Rico y las agencias de seguridad pública establecerán, mediante
+18 acuerdos colaborativos, los mecanismos de intercambio de información necesarios para
+19 referir e investigar posibles violaciones a los Artículos 202-A al 202-E del Código Penal,
+20 tipificados por esta Ley, incluyendo la recepción de referidos del Departamento de
+21 Asuntos de Veteranos de los Estados Unidos y de otras entidades federales y estatales,
+22 incluyendo a los municipios, así como privadas. Dichos acuerdos deberán procurar la
+
+9
+1 protección de la confidencialidad de los expedientes de reclamaciones de beneficios,
+2 conforme a las leyes y reglamentos federales y estatales aplicables.
+3 Sección 3. – Reglamentación.
+4 El Departamento de Justicia de Puerto Rico y la Oficina del Procurador del
+5 Veterano podrán adoptar la reglamentación necesaria para la implantación efectiva de
+6 esta Ley, incluyendo, sin que se entienda como una limitación, la elaboración de
+7 protocolos de adiestramiento a fiscales e investigadores, y de campañas de orientación a
+8 veteranos y sus familiares sobre sus derechos frente a esquemas de cobro indebido o
+9 excesivo en reclamaciones de beneficios.
+10 Sección 4. – Cláusula de armonización.
+11 Las disposiciones de esta Ley se interpretarán de forma armoniosa y
+12 complementaria con las leyes y reglamentos federales aplicables al sistema de
+13 reclamaciones de beneficios de veteranos y al régimen de acreditación y honorarios ante
+14 el Departamento de Asuntos de Veteranos de los Estados Unidos. Nada de lo aquí
+15 dispuesto se entenderá como una autorización para que el Estado Libre Asociado de
+16 Puerto Rico intervenga en la adjudicación de reclamaciones federales ni en materias
+17 expresamente ocupadas por el Congreso de los Estados Unidos, sino como un ejercicio
+18 legítimo de su poder de razón de estado (“police power”) para proteger a los veteranos
+19 residentes en su territorio frente a prácticas abusivas en la prestación de servicios sujetos
+20 a dicho marco federal.
+21 Sección 5. – Vigencia.
+22 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 3 .r a e r i d v l p d s s a f e c d h e p a y l r d p p o d a a i d v e a m y r m d s X l l f d E U h() e a s s c g y a H e  h r t u d i p f l r e e d a s e i l p]
+[DELETED: """" , d "" " o p d " p e l c o s a d m d a m d l c d  "" P R l O d P d V ( h r s p c e p c s s s a . u e d l A d V y o c p u d t p y e d d r e e d l]
+[DELETED:  y s d h s i o i o a l) c c p r l p p l d o a a d c d d h p r a e D B l m c c d s f p f f p r p p c s d a d e a o c l f q d d s e d c p E e c l l e l c r l c d i y l m d r o e e p u c r e r f d d l v y d d v E A]
+[DELETED: “” , , a r d b d v e o a s c u c a d p a l v c c e“” l p a c d i o i e p c“” p c p e t a n e d m e y p o e q a s d c “ o “ d s e l p c o v s]
+[DELETED:  t e A L e i a m p p l O y l o d s a v ( ,. A T c v s f o d p c d a a p p o t o c o s d v a i d u r f]
+[DELETED:  E o A 2 - R o A e R d V s A T p o e o e q s p u a o a v o p e D d A d V d l E U d p d s a c d c e e c e d u r g L l a f e r S e d e a l s g o V A 2 - C d H E o P p R A I e d g d t g c a o a d a p e D d A d V f q e e e d s r]
+[DELETED:  ()C p m p s b r e e l r ()C o s e p d h c s b f o r ()E o r p e e p o b c e p A I u ()S a d u v p i a p e o d g ()I a l c d s m l g d u r e d ()U " m e o p e s d a e r d ()P o]
+[DELETED:  p d s e A E e s d d d e d l O d P d V d P R e D d d P R y l a d s p e m p e L i l r d r d D d]
+[DELETED:  d l c d l e d r d b D d J d P R y l O d P d L i s q s e c u l l e d d d e L s i d f a y c l l y r f a a s d D d A d V d l E U N d l a R i e l a d r f n e m“” p]
