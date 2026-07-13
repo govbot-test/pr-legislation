@@ -1,0 +1,245 @@
+Title: Para enmendar el Artículo 6 de la Ley Núm. 141-2019, según enmendada, conocida como
+Official Title: Para enmendar el Artículo 6 de la Ley Núm. 141-2019, según enmendada, conocida como
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1374
+30 de junio de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+“Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información
+Pública”, a los fines de precisar el contenido del acuse de recibo de las solicitudes de
+información pública; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El derecho de acceso a la información pública requiere procesos claros, trazables y
+confiables. Cuando una persona presenta una solicitud ante una entidad gubernamental,
+debe poder confirmar que su solicitud fue recibida, cuándo fue recibida, cuál número de
+identificación le fue asignado y cómo podrá dar seguimiento al trámite.
+La Ley Núm. 141-2019, según enmendada, ya dispone que el Oficial de
+Información deberá notificar al peticionario que su solicitud fue recibida y el número de
+identificación correspondiente. Sin embargo, la ley no establece con suficiente detalle el
+contenido mínimo de ese acuse de recibo ni la información que debe proveerse al
+solicitante para facilitar el seguimiento de su solicitud.
+2
+En la práctica, la falta de un acuse de recibo claro y uniforme puede generar
+incertidumbre. Un solicitante puede desconocer la fecha exacta de recibo, el medio por el
+cual fue registrada la solicitud, la entidad que la recibió o el contacto disponible para dar
+seguimiento. Esa falta de información puede causar duplicidad de solicitudes, llamadas
+innecesarias, controversias sobre términos y dificultad para verificar el cumplimiento de
+la ley.
+Esta medida atiende ese asunto de manera puntual. No altera los términos de
+contestación, no modifica las excepciones de confidencialidad, no cambia los remedios
+disponibles y no impone requisitos adicionales al ciudadano. Su propósito es precisar el
+contenido mínimo del acuse de recibo que ya contempla la ley, para que sea una
+herramienta real de seguimiento y trazabilidad.
+El acuse de recibo deberá incluir el número de identificación asignado, la fecha de
+recibo, el medio mediante el cual fue recibida la solicitud, la entidad gubernamental que
+la recibió, la información de contacto para seguimiento y una advertencia de que dicho
+acuse no constituye una determinación sobre la procedencia, entrega, denegatoria,
+confidencialidad o disponibilidad de la información solicitada.
+Con esta legislación, la Asamblea Legislativa fortalece la transparencia
+gubernamental, promueve mayor eficiencia administrativa y protege al ciudadano
+mediante un mecanismo sencillo de confirmación y seguimiento. La transparencia no
+depende únicamente de reconocer el derecho de acceso, sino también de establecer
+procesos básicos que permitan ejercer ese derecho de forma efectiva.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 6 de la Ley Núm. 141-2019, según enmendada,
+2 conocida como “Ley de Transparencia y Procedimiento Expedito para el Acceso a la
+3 Información Pública”, para que lea como sigue:
+4 “Artículo 6. — Solicitudes.
+3
+1 Cualquier persona podrá solicitar información pública mediante solicitud escrita
+2 o por vía electrónica, sin necesidad de acreditar algún interés particular o jurídico. La
+3 solicitud de información pública debe ser notificada al Jefe o Director de la agencia o
+4 entidad gubernamental, al Presidente de la Rama Legislativa correspondiente y/o del
+5 Poder Judicial, con copia al Oficial de Información. Las solicitudes de información que no
+6 sean notificadas en cumplimiento con lo antes dispuesto se considerarán defectuosas y
+7 no tendrán el efecto de extinguir el término para divulgar la información.
+8 El Oficial de Información tendrá la responsabilidad de notificar por email, fax o
+9 correo regular a todo peticionario de información o documentación pública que su
+10 solicitud fue recibida y el número de identificación de la misma. Dicha notificación
+11 constituirá el acuse de recibo de la solicitud y deberá incluir, como mínimo:
+12 (a) el número de identificación, referencia o control asignado a la solicitud;
+13 (b) la fecha de recibo de la solicitud;
+14 (c) el medio mediante el cual fue recibida;
+15 (d) el nombre de la entidad gubernamental que la recibió;
+16 (e) la información de contacto disponible para dar seguimiento a la solicitud; y
+17 (f) una advertencia de que el acuse de recibo no constituye una determinación sobre la
+18 procedencia, entrega, denegatoria, confidencialidad o disponibilidad de la información solicitada.
+19 Cuando la solicitud se presente por medios electrónicos, el acuse de recibo podrá emitirse
+20 por el mismo medio. Cuando la solicitud se presente de forma presencial, por correo postal o
+21 mediante entrega física, la entidad gubernamental deberá proveer constancia escrita o electrónica
+22 razonable al solicitante.
+4
+1 La falta de emisión del acuse de recibo no interrumpirá ni extenderá, por sí sola, los
+2 términos aplicables para atender la solicitud de información pública conforme a esta Ley. Tampoco
+3 podrá utilizarse para perjudicar al solicitante cuando la solicitud haya sido presentada ante un
+4 funcionario, correo electrónico, dirección física, dirección postal o enlace publicado por la propia
+5 entidad gubernamental como medio oficial para recibir solicitudes de información pública.
+6 La solicitud de información deberá incluir al menos una dirección postal y una
+7 dirección de correo electrónico para recibir notificaciones, así como una descripción de la
+8 información que solicita. Si el documento solicitado, o el documento en donde se
+9 encuentra la información solicitada, se encuentra disponible en el formato solicitado por
+10 el interesado, la entidad gubernamental deberá proporcionar el acceso al documento en
+11 el formato deseado, salvo justa causa.
+12 …”
+13 Sección 2.- Término de cumplimiento.
+14 Las entidades gubernamentales tendrán un término de noventa (90) días, contado
+15 a partir de la aprobación de esta Ley, para adoptar o actualizar los procedimientos
+16 internos necesarios para cumplir con las disposiciones de esta Ley.
+17 Sección 3.- Guías administrativas.
+18 La Oficina de Gerencia y Presupuesto, en coordinación con la Oficina del
+19 Secretario de Asuntos Públicos de la Oficina del Gobernador u oficina análoga, podrá
+20 emitir guías, instrucciones administrativas o formatos uniformes para facilitar la
+21 implantación de esta Ley en las entidades gubernamentales de la Rama Ejecutiva. La
+5
+1 Rama Legislativa y la Rama Judicial podrán adoptar las normas internas necesarias para
+2 cumplir con las disposiciones aplicables de esta Ley.
+3 Sección 4.- Separabilidad.
+4 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo, disposición,
+5 sección o parte de esta Ley fuera anulada o declarada inconstitucional, la resolución,
+6 dictamen o sentencia a tal efecto dictada no afectará, perjudicará ni invalidará el
+7 remanente de esta Ley.
+8 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración,
+9 palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada o
+10 declarada inconstitucional.
+11 Sección 5.- Vigencia.
+12 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3 .r L r d T y P E p e A a l I L N 1 s e y d q e O d m d e a d r n l i q d p a]
+[DELETED:  l p l f d u a d r c y u p g m d a d r q y c l l p q s u n c u d s l p e d e l l A L f l t p m e a y p a c ú d r e d d a s t d e]
+[DELETED:  r a t p d i o d p q s f r y e n d i d l m D n c ( ( ( ( ( ( p C p m r]
+[DELETED:  L f d e d a d r n i n e p s s l t p f e q s S e d s o e d e d s p d l a d e L p a o a l p O d G y P e c c l O d g i a o f u p f l]
+[DELETED:  o s a t e d n a p n i e l a d s o p q a h s a o]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1374
+30 de junio de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+Para enmendar el Artículo 6 de la Ley Núm. 141-2019, según enmendada, conocida como
+“Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información
+Pública”, a los fines de precisar el contenido del acuse de recibo de las solicitudes de
+información pública; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El derecho de acceso a la información pública requiere procesos claros, trazables y
+confiables. Cuando una persona presenta una solicitud ante una entidad gubernamental,
+debe poder confirmar que su solicitud fue recibida, cuándo fue recibida, cuál número de
+identificación le fue asignado y cómo podrá dar seguimiento al trámite.
+La Ley Núm. 141-2019, según enmendada, ya dispone que el Oficial de
+Información deberá notificar al peticionario que su solicitud fue recibida y el número de
+identificación correspondiente. Sin embargo, la ley no establece con suficiente detalle el
+contenido mínimo de ese acuse de recibo ni la información que debe proveerse al
+solicitante para facilitar el seguimiento de su solicitud.
+
+2
+En la práctica, la falta de un acuse de recibo claro y uniforme puede generar
+incertidumbre. Un solicitante puede desconocer la fecha exacta de recibo, el medio por el
+cual fue registrada la solicitud, la entidad que la recibió o el contacto disponible para dar
+seguimiento. Esa falta de información puede causar duplicidad de solicitudes, llamadas
+innecesarias, controversias sobre términos y dificultad para verificar el cumplimiento de
+la ley.
+Esta medida atiende ese asunto de manera puntual. No altera los términos de
+contestación, no modifica las excepciones de confidencialidad, no cambia los remedios
+disponibles y no impone requisitos adicionales al ciudadano. Su propósito es precisar el
+contenido mínimo del acuse de recibo que ya contempla la ley, para que sea una
+herramienta real de seguimiento y trazabilidad.
+El acuse de recibo deberá incluir el número de identificación asignado, la fecha de
+recibo, el medio mediante el cual fue recibida la solicitud, la entidad gubernamental que
+la recibió, la información de contacto para seguimiento y una advertencia de que dicho
+acuse no constituye una determinación sobre la procedencia, entrega, denegatoria,
+confidencialidad o disponibilidad de la información solicitada.
+Con esta legislación, la Asamblea Legislativa fortalece la transparencia
+gubernamental, promueve mayor eficiencia administrativa y protege al ciudadano
+mediante un mecanismo sencillo de confirmación y seguimiento. La transparencia no
+depende únicamente de reconocer el derecho de acceso, sino también de establecer
+procesos básicos que permitan ejercer ese derecho de forma efectiva.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 6 de la Ley Núm. 141-2019, según enmendada,
+2 conocida como “Ley de Transparencia y Procedimiento Expedito para el Acceso a la
+3 Información Pública”, para que lea como sigue:
+4 “Artículo 6. — Solicitudes.
+
+3
+1 Cualquier persona podrá solicitar información pública mediante solicitud escrita
+2 o por vía electrónica, sin necesidad de acreditar algún interés particular o jurídico. La
+3 solicitud de información pública debe ser notificada al Jefe o Director de la agencia o
+4 entidad gubernamental, al Presidente de la Rama Legislativa correspondiente y/o del
+5 Poder Judicial, con copia al Oficial de Información. Las solicitudes de información que no
+6 sean notificadas en cumplimiento con lo antes dispuesto se considerarán defectuosas y
+7 no tendrán el efecto de extinguir el término para divulgar la información.
+8 El Oficial de Información tendrá la responsabilidad de notificar por email, fax o
+9 correo regular a todo peticionario de información o documentación pública que su
+10 solicitud fue recibida y el número de identificación de la misma. Dicha notificación
+11 constituirá el acuse de recibo de la solicitud y deberá incluir, como mínimo:
+12 (a) el número de identificación, referencia o control asignado a la solicitud;
+13 (b) la fecha de recibo de la solicitud;
+14 (c) el medio mediante el cual fue recibida;
+15 (d) el nombre de la entidad gubernamental que la recibió;
+16 (e) la información de contacto disponible para dar seguimiento a la solicitud; y
+17 (f) una advertencia de que el acuse de recibo no constituye una determinación sobre la
+18 procedencia, entrega, denegatoria, confidencialidad o disponibilidad de la información solicitada.
+19 Cuando la solicitud se presente por medios electrónicos, el acuse de recibo podrá emitirse
+20 por el mismo medio. Cuando la solicitud se presente de forma presencial, por correo postal o
+21 mediante entrega física, la entidad gubernamental deberá proveer constancia escrita o electrónica
+22 razonable al solicitante.
+
+4
+1 La falta de emisión del acuse de recibo no interrumpirá ni extenderá, por sí sola, los
+2 términos aplicables para atender la solicitud de información pública conforme a esta Ley. Tampoco
+3 podrá utilizarse para perjudicar al solicitante cuando la solicitud haya sido presentada ante un
+4 funcionario, correo electrónico, dirección física, dirección postal o enlace publicado por la propia
+5 entidad gubernamental como medio oficial para recibir solicitudes de información pública.
+6 La solicitud de información deberá incluir al menos una dirección postal y una
+7 dirección de correo electrónico para recibir notificaciones, así como una descripción de la
+8 información que solicita. Si el documento solicitado, o el documento en donde se
+9 encuentra la información solicitada, se encuentra disponible en el formato solicitado por
+10 el interesado, la entidad gubernamental deberá proporcionar el acceso al documento en
+11 el formato deseado, salvo justa causa.
+12 …”
+13 Sección 2.- Término de cumplimiento.
+14 Las entidades gubernamentales tendrán un término de noventa (90) días, contado
+15 a partir de la aprobación de esta Ley, para adoptar o actualizar los procedimientos
+16 internos necesarios para cumplir con las disposiciones de esta Ley.
+17 Sección 3.- Guías administrativas.
+18 La Oficina de Gerencia y Presupuesto, en coordinación con la Oficina del
+19 Secretario de Asuntos Públicos de la Oficina del Gobernador u oficina análoga, podrá
+20 emitir guías, instrucciones administrativas o formatos uniformes para facilitar la
+21 implantación de esta Ley en las entidades gubernamentales de la Rama Ejecutiva. La
+
+5
+1 Rama Legislativa y la Rama Judicial podrán adoptar las normas internas necesarias para
+2 cumplir con las disposiciones aplicables de esta Ley.
+3 Sección 4.- Separabilidad.
+4 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo, disposición,
+5 sección o parte de esta Ley fuera anulada o declarada inconstitucional, la resolución,
+6 dictamen o sentencia a tal efecto dictada no afectará, perjudicará ni invalidará el
+7 remanente de esta Ley.
+8 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración,
+9 palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada o
+10 declarada inconstitucional.
+11 Sección 5.- Vigencia.
+12 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 .r L r d T y P E p e A a l I L N 1 s e y d q e O d m d e a d r n l i q d p a]
+[DELETED:  l p l f d u a d r c y u p g m d a d r q y c l l p q s u n c u d s l p e d e l l A L f l t p m e a y p a c ú d r e d d a s t d e]
+[DELETED:  r a t p d i o d p q s f r y e n d i d l m D n c ( ( ( ( ( ( p C p m r]
+[DELETED:  L f d e d a d r n i n e p s s l t p f e q s S e d s o e d e d s p d l a d e L p a o a l p O d G y P e c c l O d g i a o f u p f l]
+[DELETED:  o s a t e d n a p n i e l a d s o p q a h s a o]

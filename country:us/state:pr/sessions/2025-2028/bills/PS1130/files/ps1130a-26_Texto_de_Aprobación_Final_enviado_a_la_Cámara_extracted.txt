@@ -1,0 +1,410 @@
+Title: (Por Petición de la Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto Rico)
+Official Title: (Por Petición de la Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto Rico)
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(14 DE MAYO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1130
+10 de marzo de 2026
+Presentado por la señora Moran Trinidad
+Coautores el señor Colón La Santa; la señora Pérez Soto; los señores Reyes Berríos y Santos
+Ortiz
+Referido a la Comisión de Desarrollo Económico, Pequeños Negocios, Banca, Comercio, Seguros y
+Cooperativismo
+LEY
+Para enmendar los Artículos 3, 4 y 19 de la Ley 114-2001, según enmendada, conocida
+como la “Ley de la Corporación Pública para la Supervisión y Seguro de
+Cooperativas de Puerto Rico”, a los fines de autorizar la publicación de las órdenes
+finales de destitución o inhabilitación emitidas por la Corporación; crear el “Registro
+de Personas Destituidas o Inhabilitadas para Funciones de Dirección o
+Administración en Cooperativas”; autorizar a la Corporación Pública para la
+Supervisión y Seguro de Cooperativas de Puerto Rico (COSSEC) a expedir
+certificaciones sobre el estatus de elegibilidad de personas para ocupar cargos
+directivos o ejecutivos en cooperativas; disponer las facultades reglamentarias
+necesarias; enmendar el Artículo 5.27 de la Ley 255-2002, según enmendada,
+conocida como la “Ley de Sociedades Cooperativas de Ahorro y Crédito de 2002”,
+a los fines de disponer que toda determinación final de separación o inhabilidad sea
+inscrita en el Registro creado mediante esta Ley; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El modelo cooperativo en Puerto Rico requiere de altos estándares de integridad,
+transparencia y responsabilidad fiduciaria para la protección de los socios, depositantes,
+acreedores y del sistema financiero cooperativo en su conjunto. La Corporación Pública
+para la Supervisión y Seguro de Cooperativas de Puerto Rico (COSSEC) ejerce funciones
+2
+de supervisión y de adjudicación cuasi judicial, incluyendo procesos disciplinarios
+dirigidos a destituir o inhabilitar a personas que violen la ley o ejerzan prácticas
+inadecuadas en la Administración de Cooperativas.
+Sin embargo, el Artículo 19 de la Ley 114-2001, según enmendada, impone un régimen
+de estricta confidencialidad que limita la divulgación de las órdenes finales de destitución
+o inhabilitación emitidas por la Corporación. Esta restricción impide a las cooperativas
+conocer si un candidato a Director, miembro de comité o principal funcionario ejecutivo
+ha sido previamente destituido o declarado inelegible por COSSEC, lo cual crea un riesgo
+real para la gobernanza institucional, la integridad del sistema cooperativo y la
+estabilidad del Fondo de Seguro.
+En contraste, los reguladores financieros federales —como la Federal Deposit
+Insurance Corporation (FDIC) y la National Credit Union Administration (NCUA)
+mantienen registros públicos de individuos sujetos a órdenes de remoción, suspensión o
+prohibición. Estos mecanismos fortalecen la transparencia institucional, previenen la
+reincidencia y protegen los intereses de depositantes y entidades supervisadas. El sistema
+cooperativo de Puerto Rico, como sector financiero regulado, debe contar con
+herramientas equivalentes.
+Dicho lo anterior, esta Ley atiende ese vacío normativo y establece un marco legal
+uniforme que permita a COSSEC publicar las órdenes finales de destitución o
+inhabilitación, crear un registro oficial accesible a las cooperativas y autorizar la
+expedición de certificaciones sobre el estatus de elegibilidad de cualquier persona para
+ocupar cargos de dirección o administración. Asimismo, se armonizan las disposiciones
+aplicables de la Ley 255-2002, según enmendada, de manera que toda inhabilidad final y
+firme, ya sea producto de un proceso disciplinario o por impedimentos estatutarios
+vinculados a intervenciones regulatorias, ingrese oportunamente en el registro creado.
+Así las cosas, esta legislación promueve la buena gobernanza, fortalece los procesos
+de selección de oficiales y directores, garantiza mayor transparencia en la administración
+3
+de las cooperativas y protege a los socios y depositantes del sistema financiero
+cooperativo.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.— Se enmienda el Artículo 3 de la Ley 114-2001, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 3. — Definiciones.
+4 A los fines de esta Ley, los siguientes términos y frases tendrán el significado que
+5 a continuación se expresa:
+6 ...
+7 (bb) Registro de Personas Destituidas o Inhabilitadas para Funciones de Dirección
+8 o Administración en Cooperativas — Significa la base de datos oficial administrada
+9 por la Corporación, que contiene la información correspondiente a toda persona que
+10 haya sido destituida o inhabilitada mediante determinación final de la Corporación
+11 para ejercer funciones de dirección, administración o supervisión en una cooperativa
+12 asegurada. Este Registro incluirá la información básica no confidencial relativa a la
+13 persona sujeta a la determinación final, la cooperativa involucrada, el cargo ocupado,
+14 la fecha y fundamento de la determinación y el estatus vigente de la destitución o
+15 inhabilitación, y será accesible conforme a lo dispuesto en esta Ley.”
+16 Sección 2.— Se enmienda el Artículo 4 de la Ley 114-2001, según enmendada, para
+17 que lea como sigue:
+18 “Artículo 4.- Facultades de la Corporación.
+19 (a)…
+4
+1 …
+2 (d) A los fines del descargo de sus funciones y responsabilidades, la Corporación
+3 podrá ejercer todos los poderes, privilegios e inmunidades que para ello se requieran,
+4 incluyendo los siguientes:
+5 (1) …
+6 …
+7 (11) Mediante decisión de su Junta de Directores:
+8 (A)…
+9 …
+10 (D) Establecer mediante reglamento, cualquier disposición dirigida a
+11 crear e implantar el denominado “Registro de Personas Destituidas o
+12 Inhabilitadas para Funciones de Dirección o Administración en
+13 Cooperativas”, incluyendo su diseño, contenido, mantenimiento,
+14 protección y acceso al mismo, así como los procedimientos y requisitos
+15 aplicables a la emisión de las certificaciones a las que se hace referencia
+16 en el inciso (h) del Artículo 19 de esta Ley. La reglamentación
+17 consignará, además, cualquier otro mecanismo necesario para asegurar
+18 la transparencia, confiabilidad y funcionamiento efectivo de este
+19 proceso.
+20 (E) …
+21 …”
+5
+1 Sección 3.- Se enmienda el Artículo 19 de la Ley 114-2001, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 19.- Suspensión y Remoción de Directores y Funcionarios Ejecutivos.
+4 (a)…
+5 …
+6 (e) La orden y las determinaciones de hecho y conclusiones de derecho en que se
+7 fundamente la misma no se harán públicas, ni se divulgarán a nadie, con excepción de
+8 la persona imputada y los directores de la cooperativa concernida, salvo cuando la
+9 Junta de Directores de la Corporación así lo determine por voto de dos terceras (2/3)
+10 partes, o cuando se trate de un proceso de revisión judicial, o cuando la orden
+11 constituya una determinación final y sea incluida en el “Registro de Personas
+12 Destituidas o Inhabilitadas para Funciones de Dirección o Administración en
+13 Cooperativas”, creado por esta Ley.
+14 ...
+15 (g) Se crea el “Registro de Personas Destituidas o Inhabilitadas para Funciones de
+16 Dirección o Administración en Cooperativas”, el cual será administrado por la
+17 Corporación. Este Registro tendrá carácter público y contendrá la información mínima
+18 necesaria relacionada con toda orden final de destitución o inhabilitación, incluyendo
+19 el nombre de la persona, el cargo que ocupaba, la cooperativa afectada, la fecha y
+20 fundamento de la determinación y el estatus vigente de la destitución o inhabilitación.
+21 La Corporación deberá actualizar dicho Registro de forma inmediata tras la emisión
+6
+1 de cada orden final, y garantizar su accesibilidad a las cooperativas aseguradas,
+2 entidades gubernamentales y al público en general.
+3 (h) La Corporación queda facultada para expedir certificaciones oficiales a
+4 solicitud de cualquier cooperativa asegurada, organismo gubernamental o entidad
+5 interesada, en las que se indique si una persona ha sido destituida, se encuentra
+6 inhabilitada o no tiene restricciones para ejercer funciones de dirección o
+7 administración en cooperativas. Estas certificaciones podrán ser utilizadas para
+8 procesos de elección, designación, contratación, cumplimiento regulatorio, diligencia
+9 debida y cualquier otro trámite institucional que requiera conocer la elegibilidad o
+10 historial disciplinario de la persona solicitada.”
+11 Sección 4.- Se enmienda el Artículo 5.27 de la Ley 255-2002, según enmendada,
+12 para que lea como sigue:
+13 “Artículo 5.27.—Facultad de la Corporación para Destituir.
+14 (a)…
+15 (b) Toda persona que sea separada permanentemente de un cargo como miembro
+16 de la Junta o como oficial de esta, o como miembro de cualesquiera de los demás
+17 cuerpos directivos o como funcionario ejecutivo de una cooperativa, estará impedida
+18 de volver a ser electa, designada, nombrada o contratada para ocupar cualesquiera
+19 cargos o empleos en cualquier otra cooperativa, salvo que solicite y obtenga la
+20 aprobación de la Corporación. Una vez la determinación de separación permanente
+21 advenga final y firme, la Corporación inscribirá en el “Registro de Personas
+22 Destituidas o Inhabilitadas para Funciones de Dirección o Administración en
+7
+1 Cooperativas” el nombre de la persona afectada, la cooperativa involucrada, el cargo
+2 que ocupaba y la determinación correspondiente, conforme a lo dispuesto en esta Ley
+3 y en la Ley 114, antes citada.
+4 (c) En caso de una cooperativa que sea objeto de sindicatura, liquidación, fusión
+5 involuntaria, venta de sus activos, orden de cese y desista o cualquier otra intervención
+6 gubernamental que exceda un (1) año, toda persona que durante los tres (3) años
+7 previos a la intervención haya ocupado durante al menos seis (6) meses el cargo de
+8 Director, miembro del comité de supervisión o funcionario ejecutivo estará impedida
+9 de ser electa, designada, nombrada o contratada para ocupar cualesquiera cargos o
+10 empleos en cualquier otra cooperativa, salvo que solicite y obtenga la aprobación
+11 previa de la Corporación. Al momento de la intervención de una cooperativa por la
+12 Corporación, ésta concederá a los directores, miembros del comité de supervisión y
+13 funcionarios ejecutivos cubiertos por este inciso la oportunidad razonable de
+14 demostrar su diligencia en el descargo de sus funciones y obtener con ello la
+15 autorización para ocupar cualesquiera cargos o empleos en cualquier otra cooperativa.
+16 Toda determinación final y firme de inhabilidad emitida por la Corporación al amparo
+17 de este inciso será inscrita en el “Registro de Personas Destituidas o Inhabilitadas para
+18 Funciones de Dirección o Administración en Cooperativas”, consignándose la
+19 información mínima necesaria, conforme a lo establecido en esta Ley y en la precitada
+20 Ley 114.”
+8
+1 Sección 5.- Interpretación
+2 Las disposiciones de esta Ley deberán ser interpretadas liberalmente para alcanzar
+3 sus propósitos.
+4 Sección 6.- Separabilidad
+5 Si algún Artículo, inciso, parte, párrafo, cláusula o precepto de esta Ley o su
+6 aplicación a cualquier persona o circunstancia fuera declarado inconstitucional o nulo,
+7 por un Tribunal con jurisdicción, la sentencia dictada no afectará ni invalidará las
+8 demás disposiciones de esta Ley, sino que su efecto quedará limitado y será extensivo
+9 al artículo, inciso, parte, párrafo, cláusula o precepto de esta Ley, o su aplicación, que
+10 haya sido declarado inconstitucional o nulo; las demás disposiciones permanecerán
+11 en pleno vigor.
+12 Sección 7.- Vigencia
+13 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL   l “ d l C P p l S y S d P D o I p F d D o e C a a l C P p l y S d C d P R ( a e s e e d e d p p o c o e e c d l f r e e A 5 d l L 2 s e]
+[DELETED:  s y d a c j i p d a d o i a p q v l l o e p p l g i l i d s c y l c l r f f — l F D C ( y l N C U A ( E m f l t i p l d P R c s f r d c c q p a C p l ó f d d o c u r o a a l c y a l y s p d u p d o p i e]
+[DELETED:  l c y p a l s y d d s f]
+[DELETED:  p F d D o A e i s d c m e i ( d A 1 d e L L r t c y f e d e]
+[DELETED: ep o c s t d u p d r j o c l o u d f y s i e e “ d P o I p F d D o A e o A e C e c s a p l]
+[DELETED:  c o f y g s a a l c a L C q f p e c o a e l q s i s u p h s d s e o n t r p e f d d o e c E c p s u p o e e c o c s q s y o l f y f l C i e e “ d P o I p F d D o A e]
+[DELETED:  e c o c s q s y o l a e c p e i l o r d s d e e d d s f y o c e l d D o A e C c l]
+[DELETED:  a A i p p c o p d e L o s]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(14 DE MAYO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1130
+10 de marzo de 2026
+Presentado por la señora Moran Trinidad
+(Por Petición de la Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto Rico)
+Coautores el señor Colón La Santa; la señora Pérez Soto; los señores Reyes Berríos y Santos
+Ortiz
+Referido a la Comisión de Desarrollo Económico, Pequeños Negocios, Banca, Comercio, Seguros y
+Cooperativismo
+LEY
+Para enmendar los Artículos 3, 4 y 19 de la Ley 114-2001, según enmendada, conocida
+como la “Ley de la Corporación Pública para la Supervisión y Seguro de
+Cooperativas de Puerto Rico”, a los fines de autorizar la publicación de las órdenes
+finales de destitución o inhabilitación emitidas por la Corporación; crear el “Registro
+de Personas Destituidas o Inhabilitadas para Funciones de Dirección o
+Administración en Cooperativas”; autorizar a la Corporación Pública para la
+Supervisión y Seguro de Cooperativas de Puerto Rico (COSSEC) a expedir
+certificaciones sobre el estatus de elegibilidad de personas para ocupar cargos
+directivos o ejecutivos en cooperativas; disponer las facultades reglamentarias
+necesarias; enmendar el Artículo 5.27 de la Ley 255-2002, según enmendada,
+conocida como la “Ley de Sociedades Cooperativas de Ahorro y Crédito de 2002”,
+a los fines de disponer que toda determinación final de separación o inhabilidad sea
+inscrita en el Registro creado mediante esta Ley; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El modelo cooperativo en Puerto Rico requiere de altos estándares de integridad,
+transparencia y responsabilidad fiduciaria para la protección de los socios, depositantes,
+acreedores y del sistema financiero cooperativo en su conjunto. La Corporación Pública
+para la Supervisión y Seguro de Cooperativas de Puerto Rico (COSSEC) ejerce funciones
+
+2
+de supervisión y de adjudicación cuasi judicial, incluyendo procesos disciplinarios
+dirigidos a destituir o inhabilitar a personas que violen la ley o ejerzan prácticas
+inadecuadas en la Administración de Cooperativas.
+Sin embargo, el Artículo 19 de la Ley 114-2001, según enmendada, impone un régimen
+de estricta confidencialidad que limita la divulgación de las órdenes finales de destitución
+o inhabilitación emitidas por la Corporación. Esta restricción impide a las cooperativas
+conocer si un candidato a Director, miembro de comité o principal funcionario ejecutivo
+ha sido previamente destituido o declarado inelegible por COSSEC, lo cual crea un riesgo
+real para la gobernanza institucional, la integridad del sistema cooperativo y la
+estabilidad del Fondo de Seguro.
+En contraste, los reguladores financieros federales —como la Federal Deposit
+Insurance Corporation (FDIC) y la National Credit Union Administration (NCUA)
+mantienen registros públicos de individuos sujetos a órdenes de remoción, suspensión o
+prohibición. Estos mecanismos fortalecen la transparencia institucional, previenen la
+reincidencia y protegen los intereses de depositantes y entidades supervisadas. El sistema
+cooperativo de Puerto Rico, como sector financiero regulado, debe contar con
+herramientas equivalentes.
+Dicho lo anterior, esta Ley atiende ese vacío normativo y establece un marco legal
+uniforme que permita a COSSEC publicar las órdenes finales de destitución o
+inhabilitación, crear un registro oficial accesible a las cooperativas y autorizar la
+expedición de certificaciones sobre el estatus de elegibilidad de cualquier persona para
+ocupar cargos de dirección o administración. Asimismo, se armonizan las disposiciones
+aplicables de la Ley 255-2002, según enmendada, de manera que toda inhabilidad final y
+firme, ya sea producto de un proceso disciplinario o por impedimentos estatutarios
+vinculados a intervenciones regulatorias, ingrese oportunamente en el registro creado.
+Así las cosas, esta legislación promueve la buena gobernanza, fortalece los procesos
+de selección de oficiales y directores, garantiza mayor transparencia en la administración
+
+3
+de las cooperativas y protege a los socios y depositantes del sistema financiero
+cooperativo.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.— Se enmienda el Artículo 3 de la Ley 114-2001, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 3. — Definiciones.
+4 A los fines de esta Ley, los siguientes términos y frases tendrán el significado que
+5 a continuación se expresa:
+6 ...
+7 (bb) Registro de Personas Destituidas o Inhabilitadas para Funciones de Dirección
+8 o Administración en Cooperativas — Significa la base de datos oficial administrada
+9 por la Corporación, que contiene la información correspondiente a toda persona que
+10 haya sido destituida o inhabilitada mediante determinación final de la Corporación
+11 para ejercer funciones de dirección, administración o supervisión en una cooperativa
+12 asegurada. Este Registro incluirá la información básica no confidencial relativa a la
+13 persona sujeta a la determinación final, la cooperativa involucrada, el cargo ocupado,
+14 la fecha y fundamento de la determinación y el estatus vigente de la destitución o
+15 inhabilitación, y será accesible conforme a lo dispuesto en esta Ley.”
+16 Sección 2.— Se enmienda el Artículo 4 de la Ley 114-2001, según enmendada, para
+17 que lea como sigue:
+18 “Artículo 4.- Facultades de la Corporación.
+19 (a)…
+
+4
+1 …
+2 (d) A los fines del descargo de sus funciones y responsabilidades, la Corporación
+3 podrá ejercer todos los poderes, privilegios e inmunidades que para ello se requieran,
+4 incluyendo los siguientes:
+5 (1) …
+6 …
+7 (11) Mediante decisión de su Junta de Directores:
+8 (A)…
+9 …
+10 (D) Establecer mediante reglamento, cualquier disposición dirigida a
+11 crear e implantar el denominado “Registro de Personas Destituidas o
+12 Inhabilitadas para Funciones de Dirección o Administración en
+13 Cooperativas”, incluyendo su diseño, contenido, mantenimiento,
+14 protección y acceso al mismo, así como los procedimientos y requisitos
+15 aplicables a la emisión de las certificaciones a las que se hace referencia
+16 en el inciso (h) del Artículo 19 de esta Ley. La reglamentación
+17 consignará, además, cualquier otro mecanismo necesario para asegurar
+18 la transparencia, confiabilidad y funcionamiento efectivo de este
+19 proceso.
+20 (E) …
+21 …”
+
+5
+1 Sección 3.- Se enmienda el Artículo 19 de la Ley 114-2001, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 19.- Suspensión y Remoción de Directores y Funcionarios Ejecutivos.
+4 (a)…
+5 …
+6 (e) La orden y las determinaciones de hecho y conclusiones de derecho en que se
+7 fundamente la misma no se harán públicas, ni se divulgarán a nadie, con excepción de
+8 la persona imputada y los directores de la cooperativa concernida, salvo cuando la
+9 Junta de Directores de la Corporación así lo determine por voto de dos terceras (2/3)
+10 partes, o cuando se trate de un proceso de revisión judicial, o cuando la orden
+11 constituya una determinación final y sea incluida en el “Registro de Personas
+12 Destituidas o Inhabilitadas para Funciones de Dirección o Administración en
+13 Cooperativas”, creado por esta Ley.
+14 ...
+15 (g) Se crea el “Registro de Personas Destituidas o Inhabilitadas para Funciones de
+16 Dirección o Administración en Cooperativas”, el cual será administrado por la
+17 Corporación. Este Registro tendrá carácter público y contendrá la información mínima
+18 necesaria relacionada con toda orden final de destitución o inhabilitación, incluyendo
+19 el nombre de la persona, el cargo que ocupaba, la cooperativa afectada, la fecha y
+20 fundamento de la determinación y el estatus vigente de la destitución o inhabilitación.
+21 La Corporación deberá actualizar dicho Registro de forma inmediata tras la emisión
+
+6
+1 de cada orden final, y garantizar su accesibilidad a las cooperativas aseguradas,
+2 entidades gubernamentales y al público en general.
+3 (h) La Corporación queda facultada para expedir certificaciones oficiales a
+4 solicitud de cualquier cooperativa asegurada, organismo gubernamental o entidad
+5 interesada, en las que se indique si una persona ha sido destituida, se encuentra
+6 inhabilitada o no tiene restricciones para ejercer funciones de dirección o
+7 administración en cooperativas. Estas certificaciones podrán ser utilizadas para
+8 procesos de elección, designación, contratación, cumplimiento regulatorio, diligencia
+9 debida y cualquier otro trámite institucional que requiera conocer la elegibilidad o
+10 historial disciplinario de la persona solicitada.”
+11 Sección 4.- Se enmienda el Artículo 5.27 de la Ley 255-2002, según enmendada,
+12 para que lea como sigue:
+13 “Artículo 5.27.—Facultad de la Corporación para Destituir.
+14 (a)…
+15 (b) Toda persona que sea separada permanentemente de un cargo como miembro
+16 de la Junta o como oficial de esta, o como miembro de cualesquiera de los demás
+17 cuerpos directivos o como funcionario ejecutivo de una cooperativa, estará impedida
+18 de volver a ser electa, designada, nombrada o contratada para ocupar cualesquiera
+19 cargos o empleos en cualquier otra cooperativa, salvo que solicite y obtenga la
+20 aprobación de la Corporación. Una vez la determinación de separación permanente
+21 advenga final y firme, la Corporación inscribirá en el “Registro de Personas
+22 Destituidas o Inhabilitadas para Funciones de Dirección o Administración en
+
+7
+1 Cooperativas” el nombre de la persona afectada, la cooperativa involucrada, el cargo
+2 que ocupaba y la determinación correspondiente, conforme a lo dispuesto en esta Ley
+3 y en la Ley 114, antes citada.
+4 (c) En caso de una cooperativa que sea objeto de sindicatura, liquidación, fusión
+5 involuntaria, venta de sus activos, orden de cese y desista o cualquier otra intervención
+6 gubernamental que exceda un (1) año, toda persona que durante los tres (3) años
+7 previos a la intervención haya ocupado durante al menos seis (6) meses el cargo de
+8 Director, miembro del comité de supervisión o funcionario ejecutivo estará impedida
+9 de ser electa, designada, nombrada o contratada para ocupar cualesquiera cargos o
+10 empleos en cualquier otra cooperativa, salvo que solicite y obtenga la aprobación
+11 previa de la Corporación. Al momento de la intervención de una cooperativa por la
+12 Corporación, ésta concederá a los directores, miembros del comité de supervisión y
+13 funcionarios ejecutivos cubiertos por este inciso la oportunidad razonable de
+14 demostrar su diligencia en el descargo de sus funciones y obtener con ello la
+15 autorización para ocupar cualesquiera cargos o empleos en cualquier otra cooperativa.
+16 Toda determinación final y firme de inhabilidad emitida por la Corporación al amparo
+17 de este inciso será inscrita en el “Registro de Personas Destituidas o Inhabilitadas para
+18 Funciones de Dirección o Administración en Cooperativas”, consignándose la
+19 información mínima necesaria, conforme a lo establecido en esta Ley y en la precitada
+20 Ley 114.”
+
+8
+1 Sección 5.- Interpretación
+2 Las disposiciones de esta Ley deberán ser interpretadas liberalmente para alcanzar
+3 sus propósitos.
+4 Sección 6.- Separabilidad
+5 Si algún Artículo, inciso, parte, párrafo, cláusula o precepto de esta Ley o su
+6 aplicación a cualquier persona o circunstancia fuera declarado inconstitucional o nulo,
+7 por un Tribunal con jurisdicción, la sentencia dictada no afectará ni invalidará las
+8 demás disposiciones de esta Ley, sino que su efecto quedará limitado y será extensivo
+9 al artículo, inciso, parte, párrafo, cláusula o precepto de esta Ley, o su aplicación, que
+10 haya sido declarado inconstitucional o nulo; las demás disposiciones permanecerán
+11 en pleno vigor.
+12 Sección 7.- Vigencia
+13 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL   l “ d l C P p l S y S d P D o I p F d D o e C a a l C P p l y S d C d P R ( a e s e e d e d p p o c o e e c d l f r e e A 5 d l L 2 s e]
+[DELETED:  s y d a c j i p d a d o i a p q v l l o e p p l g i l i d s c y l c l r f f — l F D C ( y l N C U A ( E m f l t i p l d P R c s f r d c c q p a C p l ó f d d o c u r o a a l c y a l y s p d u p d o p i e]
+[DELETED:  l c y p a l s y d d s f]
+[DELETED:  p F d D o A e i s d c m e i ( d A 1 d e L L r t c y f e d e]
+[DELETED: ep o c s t d u p d r j o c l o u d f y s i e e “ d P o I p F d D o A e o A e C e c s a p l]
+[DELETED:  c o f y g s a a l c a L C q f p e c o a e l q s i s u p h s d s e o n t r p e f d d o e c E c p s u p o e e c o c s q s y o l f y f l C i e e “ d P o I p F d D o A e]
+[DELETED:  e c o c s q s y o l a e c p e i l o r d s d e e d d s f y o c e l d D o A e C c l]
+[DELETED:  a A i p p c o p d e L o s]

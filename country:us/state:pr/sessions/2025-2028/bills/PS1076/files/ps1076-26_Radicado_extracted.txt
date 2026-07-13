@@ -1,0 +1,263 @@
+Title: Para establecer una tarifa supletoria aplicable al pago de boletos de estacionamiento
+Official Title: Para establecer una tarifa supletoria aplicable al pago de boletos de estacionamiento
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1076
+10 de febrero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+en instituciones hospitalarias para acompañantes de pacientes con hospitalización
+prolongada; definir hospitalización prolongada como estancias de siete (7) días
+consecutivos o más; ordenar al Departamento de Asuntos del Consumidor (DACO) la
+supervisión y regulación de su implementación; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Las hospitalizaciones prolongadas representan un desafío emocional y financiero
+significativo para las familias puertorriqueñas, donde los acompañantes —familiares o
+cuidadores— deben permanecer cerca de los pacientes durante períodos extendidos,
+enfrentando costos adicionales como el estacionamiento en las instalaciones
+hospitalarias. En un contexto donde el sistema de salud de la Isla atiende a una población
+vulnerable, con un promedio de estadía hospitalaria en Estados Unidos de
+aproximadamente 5.5 días, pero con casos prolongados que superan este umbral y
+generan cargas acumuladas, se hace necesario aliviar estas presiones económicas para
+promover el acceso equitativo a la atención y el apoyo familiar durante crisis de salud.
+Actualmente, muchas instituciones hospitalarias en Puerto Rico cobran tarifas
+estándar por estacionamiento, sin mecanismos específicos para reducir costos a
+2
+acompañantes de pacientes con estancias largas, lo que puede desincentivar visitas
+esenciales y agravar el estrés de las familias. Esta medida propone una tarifa supletoria
+—una tasa reducida o descontada aplicable mediante validación— para estos casos,
+definiendo hospitalización prolongada como estancias de siete (7) días consecutivos o
+más. Esta definición se basa en prácticas comunes en jurisdicciones estadounidenses,
+donde estancias prolongadas se consideran a partir de 7 a 14 días para políticas de apoyo,
+reconociendo que superan el promedio y requieren intervenciones especiales para
+mitigar impactos financieros.
+En el ámbito comparado, varios estados de Estados Unidos han implementado
+políticas similares para aliviar el costo del estacionamiento en hospitales. Por ejemplo, en
+Maryland, la legislación HB519 (2025) requiere que los hospitales ofrezcan
+estacionamiento gratuito para pacientes hospitalizados durante toda la duración de su
+admisión, extendiendo beneficios a acompañantes en casos de larga duración. En otros
+estados como Illinois y Iowa, hospitales han reducido tarifas diarias máximas a $10 tras
+quejas de pacientes, ofreciendo pases de 10 días por $25 para visitantes frecuentes en
+tratamientos prolongados.
+Además, centros oncológicos en Estados Unidos proporcionan descuentos semanales
+o mensuales, validaciones y estacionamiento gratuito para pacientes en terapias
+extendidas, reconociendo que estancias de 14 a 21 días o más representan el 14% de los
+días hospitalarios totales y generan costos significativos. Estos modelos, adaptados al
+contexto puertorriqueño, inspiran una tarifa supletoria que reduzca barreras,
+promoviendo la equidad y el bienestar familiar sin alterar drásticamente las operaciones
+hospitalarias.
+Dado que el Departamento de Asuntos del Consumidor (DACO) es la agencia con
+autoridad para regular tarifas máximas, prácticas de cobro y operaciones de áreas de
+estacionamiento público en Puerto Rico —conforme al Reglamento de Áreas de
+Estacionamiento Público (Reglamento 6753) y sus funciones de fiscalización de tarifas
+3
+abusivas o irregulares—, resulta apropiado asignarle la supervisión de esta medida. El
+DACO ya regula tarifas en estacionamientos públicos, incluyendo periodos de gracia en
+accesos a emergencias hospitalarias y ha intervenido en casos de cobros excesivos en
+diversas zonas, lo que lo posiciona como la entidad idónea para garantizar el
+cumplimiento uniforme, la estandarización del proceso de validación y la protección al
+consumidor en este ámbito específico.
+Esta legislación ordena a las instituciones hospitalarias la implementación de esta
+tarifa supletoria, bajo la supervisión y regulación del DACO, para que acompañantes
+puedan solicitarla mediante un proceso simple de validación, como presentación de
+documentación hospitalaria. De esta forma, se fomenta el apoyo a familias durante
+hospitalizaciones prolongadas, alineándose con recomendaciones de políticas de salud
+que priorizan la accesibilidad y la reducción de costos indirectos en atención médica.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá como la "Ley para la Tarifa Supletoria de Estacionamiento en
+3 Instituciones Hospitalarias para Acompañantes de Pacientes con Hospitalización
+4 Prolongada".
+5 Artículo 2.- Definiciones.
+6 Para los propósitos de esta Ley:
+7 a) "Hospitalización prolongada" significa una estancia hospitalaria continua de
+8 siete (7) días o más en una institución hospitalaria.
+9 b) "Acompañante" significa familiares directos, cuidadores designados o personas
+10 autorizadas por el paciente para brindar apoyo durante la hospitalización.
+4
+1 c) "Tarifa supletoria" significa una tasa reducida o descontada, no superior al 50%
+2 de la tarifa estándar diaria, aplicable al pago de boletos de estacionamiento en las
+3 facilidades de la institución hospitalaria.
+4 d) "Institución hospitalaria" significa cualquier hospital público o privado en
+5 Puerto Rico que ofrezca servicios de hospitalización y cuente con facilidades de
+6 estacionamiento controladas.
+7 Artículo 3.- Implementación de la Tarifa Supletoria.
+8 Todas las instituciones hospitalarias en Puerto Rico deberán ofrecer una tarifa
+9 supletoria para el pago de boletos de estacionamiento a acompañantes de pacientes con
+10 hospitalización prolongada. Esta tarifa se aplicará mediante un proceso de validación
+11 sencillo, que incluirá:
+12 a) Presentación de documentación emitida por la institución hospitalaria que
+13 certifique la hospitalización prolongada del paciente y la relación del acompañante.
+14 b) Emisión de pases diarios, semanales o mensuales con la tarifa reducida, según
+15 la duración estimada de la estancia.
+16 c) Exención de cargos adicionales por pérdida de boletos o extensiones razonables,
+17 siempre que se mantenga la validación activa.
+18 El Departamento de Asuntos del Consumidor (DACO) supervisará el
+19 cumplimiento de esta disposición, emitiendo regulaciones dentro de los 90 días
+20 siguientes a la vigencia de esta Ley para estandarizar el proceso de validación, las tarifas
+21 máximas permitidas bajo la tarifa supletoria y los mecanismos de fiscalización.
+22 Artículo 4.- Colaboración y Promoción.
+5
+1 Las instituciones hospitalarias colaborarán con el DACO para informar a pacientes
+2 y acompañantes sobre esta tarifa supletoria mediante carteles visibles en áreas de
+3 admisión, estacionamiento y sitios web institucionales. El DACO promoverá campañas
+4 educativas para maximizar su utilización y garantizar el cumplimiento.
+5 Artículo 5.- Informes.
+6 Cada institución hospitalaria presentará informes anuales al DACO sobre la
+7 implementación de esta tarifa, incluyendo el número de validaciones emitidas, montos
+8 recaudados bajo la tarifa supletoria y recomendaciones para mejoras. El DACO
+9 consolidará estos datos en un informe anual a la Asamblea Legislativa.
+10 Artículo 6.- Cláusula de Separabilidad.
+11 Si cualquier disposición, palabra, oración o inciso de esta Ley fuera impugnado
+12 por cualquier razón ante un tribunal y declarado inconstitucional o nulo, tal sentencia no
+13 afectará, menoscabará o invalidará las restantes disposiciones de esta Ley.
+14 Artículo 7.- Vigencia.
+15 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+[DELETED: 0 A 3 .rL    i h p a d p c h d h p c e d s ( d h p r u d e y f d p c d l p d p e c a c e e e l i c u p d e h e E U d 5 d p c c p q s e u y m i h e P R c t p e s m e p r c a]
+[DELETED:  d p c e l l q p d v t r o d a m v p e c q s e p y r i e p e á c v e d E U h i l l H ( r q l h o m v y e g p p e t p i u t s q r b p e P R — a R d Á d]
+[DELETED:  z l q l p c l e i p g e s m u p s d v c p d h D e f s f e a a f d H p A d P c H]
+[DELETED:  l t e d a a p d b d e e l " h s c h p o p e R q o s d h y c c f d P P d d e p l i h q D d A d C ( s e d e d e r d d l 9 d]
+[DELETED:  a s e t s m c v e á d i h p i a a D s l b l t s y r p m E D]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1076
+10 de febrero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para establecer una tarifa supletoria aplicable al pago de boletos de estacionamiento
+en instituciones hospitalarias para acompañantes de pacientes con hospitalización
+prolongada; definir hospitalización prolongada como estancias de siete (7) días
+consecutivos o más; ordenar al Departamento de Asuntos del Consumidor (DACO) la
+supervisión y regulación de su implementación; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Las hospitalizaciones prolongadas representan un desafío emocional y financiero
+significativo para las familias puertorriqueñas, donde los acompañantes —familiares o
+cuidadores— deben permanecer cerca de los pacientes durante períodos extendidos,
+enfrentando costos adicionales como el estacionamiento en las instalaciones
+hospitalarias. En un contexto donde el sistema de salud de la Isla atiende a una población
+vulnerable, con un promedio de estadía hospitalaria en Estados Unidos de
+aproximadamente 5.5 días, pero con casos prolongados que superan este umbral y
+generan cargas acumuladas, se hace necesario aliviar estas presiones económicas para
+promover el acceso equitativo a la atención y el apoyo familiar durante crisis de salud.
+Actualmente, muchas instituciones hospitalarias en Puerto Rico cobran tarifas
+estándar por estacionamiento, sin mecanismos específicos para reducir costos a
+
+2
+acompañantes de pacientes con estancias largas, lo que puede desincentivar visitas
+esenciales y agravar el estrés de las familias. Esta medida propone una tarifa supletoria
+—una tasa reducida o descontada aplicable mediante validación— para estos casos,
+definiendo hospitalización prolongada como estancias de siete (7) días consecutivos o
+más. Esta definición se basa en prácticas comunes en jurisdicciones estadounidenses,
+donde estancias prolongadas se consideran a partir de 7 a 14 días para políticas de apoyo,
+reconociendo que superan el promedio y requieren intervenciones especiales para
+mitigar impactos financieros.
+En el ámbito comparado, varios estados de Estados Unidos han implementado
+políticas similares para aliviar el costo del estacionamiento en hospitales. Por ejemplo, en
+Maryland, la legislación HB519 (2025) requiere que los hospitales ofrezcan
+estacionamiento gratuito para pacientes hospitalizados durante toda la duración de su
+admisión, extendiendo beneficios a acompañantes en casos de larga duración. En otros
+estados como Illinois y Iowa, hospitales han reducido tarifas diarias máximas a $10 tras
+quejas de pacientes, ofreciendo pases de 10 días por $25 para visitantes frecuentes en
+tratamientos prolongados.
+Además, centros oncológicos en Estados Unidos proporcionan descuentos semanales
+o mensuales, validaciones y estacionamiento gratuito para pacientes en terapias
+extendidas, reconociendo que estancias de 14 a 21 días o más representan el 14% de los
+días hospitalarios totales y generan costos significativos. Estos modelos, adaptados al
+contexto puertorriqueño, inspiran una tarifa supletoria que reduzca barreras,
+promoviendo la equidad y el bienestar familiar sin alterar drásticamente las operaciones
+hospitalarias.
+Dado que el Departamento de Asuntos del Consumidor (DACO) es la agencia con
+autoridad para regular tarifas máximas, prácticas de cobro y operaciones de áreas de
+estacionamiento público en Puerto Rico —conforme al Reglamento de Áreas de
+Estacionamiento Público (Reglamento 6753) y sus funciones de fiscalización de tarifas
+
+3
+abusivas o irregulares—, resulta apropiado asignarle la supervisión de esta medida. El
+DACO ya regula tarifas en estacionamientos públicos, incluyendo periodos de gracia en
+accesos a emergencias hospitalarias y ha intervenido en casos de cobros excesivos en
+diversas zonas, lo que lo posiciona como la entidad idónea para garantizar el
+cumplimiento uniforme, la estandarización del proceso de validación y la protección al
+consumidor en este ámbito específico.
+Esta legislación ordena a las instituciones hospitalarias la implementación de esta
+tarifa supletoria, bajo la supervisión y regulación del DACO, para que acompañantes
+puedan solicitarla mediante un proceso simple de validación, como presentación de
+documentación hospitalaria. De esta forma, se fomenta el apoyo a familias durante
+hospitalizaciones prolongadas, alineándose con recomendaciones de políticas de salud
+que priorizan la accesibilidad y la reducción de costos indirectos en atención médica.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá como la "Ley para la Tarifa Supletoria de Estacionamiento en
+3 Instituciones Hospitalarias para Acompañantes de Pacientes con Hospitalización
+4 Prolongada".
+5 Artículo 2.- Definiciones.
+6 Para los propósitos de esta Ley:
+7 a) "Hospitalización prolongada" significa una estancia hospitalaria continua de
+8 siete (7) días o más en una institución hospitalaria.
+9 b) "Acompañante" significa familiares directos, cuidadores designados o personas
+10 autorizadas por el paciente para brindar apoyo durante la hospitalización.
+
+4
+1 c) "Tarifa supletoria" significa una tasa reducida o descontada, no superior al 50%
+2 de la tarifa estándar diaria, aplicable al pago de boletos de estacionamiento en las
+3 facilidades de la institución hospitalaria.
+4 d) "Institución hospitalaria" significa cualquier hospital público o privado en
+5 Puerto Rico que ofrezca servicios de hospitalización y cuente con facilidades de
+6 estacionamiento controladas.
+7 Artículo 3.- Implementación de la Tarifa Supletoria.
+8 Todas las instituciones hospitalarias en Puerto Rico deberán ofrecer una tarifa
+9 supletoria para el pago de boletos de estacionamiento a acompañantes de pacientes con
+10 hospitalización prolongada. Esta tarifa se aplicará mediante un proceso de validación
+11 sencillo, que incluirá:
+12 a) Presentación de documentación emitida por la institución hospitalaria que
+13 certifique la hospitalización prolongada del paciente y la relación del acompañante.
+14 b) Emisión de pases diarios, semanales o mensuales con la tarifa reducida, según
+15 la duración estimada de la estancia.
+16 c) Exención de cargos adicionales por pérdida de boletos o extensiones razonables,
+17 siempre que se mantenga la validación activa.
+18 El Departamento de Asuntos del Consumidor (DACO) supervisará el
+19 cumplimiento de esta disposición, emitiendo regulaciones dentro de los 90 días
+20 siguientes a la vigencia de esta Ley para estandarizar el proceso de validación, las tarifas
+21 máximas permitidas bajo la tarifa supletoria y los mecanismos de fiscalización.
+22 Artículo 4.- Colaboración y Promoción.
+
+5
+1 Las instituciones hospitalarias colaborarán con el DACO para informar a pacientes
+2 y acompañantes sobre esta tarifa supletoria mediante carteles visibles en áreas de
+3 admisión, estacionamiento y sitios web institucionales. El DACO promoverá campañas
+4 educativas para maximizar su utilización y garantizar el cumplimiento.
+5 Artículo 5.- Informes.
+6 Cada institución hospitalaria presentará informes anuales al DACO sobre la
+7 implementación de esta tarifa, incluyendo el número de validaciones emitidas, montos
+8 recaudados bajo la tarifa supletoria y recomendaciones para mejoras. El DACO
+9 consolidará estos datos en un informe anual a la Asamblea Legislativa.
+10 Artículo 6.- Cláusula de Separabilidad.
+11 Si cualquier disposición, palabra, oración o inciso de esta Ley fuera impugnado
+12 por cualquier razón ante un tribunal y declarado inconstitucional o nulo, tal sentencia no
+13 afectará, menoscabará o invalidará las restantes disposiciones de esta Ley.
+14 Artículo 7.- Vigencia.
+15 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+
+[DELETED: 0 A 3 .rL    i h p a d p c h d h p c e d s ( d h p r u d e y f d p c d l p d p e c a c e e e l i c u p d e h e E U d 5 d p c c p q s e u y m i h e P R c t p e s m e p r c a]
+[DELETED:  d p c e l l q p d v t r o d a m v p e c q s e p y r i e p e á c v e d E U h i l l H ( r q l h o m v y e g p p e t p i u t s q r b p e P R — a R d Á d]
+[DELETED:  z l q l p c l e i p g e s m u p s d v c p d h D e f s f e a a f d H p A d P c H]
+[DELETED:  l t e d a a p d b d e e l " h s c h p o p e R q o s d h y c c f d P P d d e p l i h q D d A d C ( s e d e d e r d d l 9 d]
+[DELETED:  a s e t s m c v e á d i h p i a a D s l b l t s y r p m E D]

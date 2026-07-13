@@ -1,0 +1,704 @@
+Title: Para añadir un Capítulo 5 de la Ley Núm. 194-2011, según enmendada, conocida como
+Official Title: Para añadir un Capítulo 5 de la Ley Núm. 194-2011, según enmendada, conocida como
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1201
+15 de abril de 2026
+Presentado por el señor Ríos Santiago
+Referido a la
+LEY
+“Código de Seguro de Salud de Puerto Rico”, a fin de garantizar que todos los planes
+médicos públicos y privados incluyan cobertura para terapias con células madre
+debidamente aprobadas por las autoridades regulatorias, además de establecer
+parámetros para su autorización, fiscalización y acceso equitativo; enmendar el
+Artículo III de la Ley Núm. 72-1993, según enmendada, conocida como "Ley de la
+Administración de Seguros de Salud de Puerto Rico", para añadir nuevos incisos (h),
+(i), (j), (ff), (mm), (nn) y (oo), redesignar los actuales incisos (h) al (j) como incisos (k)
+al (m), los actuales incisos (k) al (bb) como incisos (n) al (ee), y los actuales incisos (cc)
+al (hh) como incisos (gg) al (ll), y redesignar los incisos subsiguientes según
+corresponda; y añadir un inciso (g) del subinciso (1) del inciso “Cubierta C” de la
+Sección 6 del Artículo VI de la Ley Núm. 72-1993, según enmendada, conocida como
+“Ley de la Administración de Seguros de Salud de Puerto Rico”, con el propósito de
+establecer que todo plan de salud en Puerto Rico, incluyendo el Plan Vital, provea
+cobertura para tratamientos con células madre, y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La medicina regenerativa se ha consolidado como una de las áreas más prometedoras
+de la práctica clínica contemporánea, particularmente por su potencial terapéutico en
+condiciones complejas. Los tratamientos basados en el uso de células madre adultas han
+demostrado eficacia en una amplia gama de afecciones hematológicas, inmunológicas,
+2
+oncológicas y degenerativas. Tal como expone la Food and Drug Administration (FDA),
+más de setenta condiciones han sido tratadas mediante terapias basadas en células
+madre, muchas de ellas aprobadas y aplicadas en Puerto Rico a través de centros
+especializados, como el Centro Comprensivo de Cáncer de la Universidad de Puerto Rico.
+A pesar de este progreso, miles de pacientes en la Isla enfrentan barreras económicas
+severas para acceder a estas terapias porque los planes médicos no están obligados a
+cubrirlas, aun cuando se trate de usos clínicos aprobados y no experimentales. Esto
+provoca desigualdad en el acceso al tratamiento, limita la práctica médica basada en
+evidencia y genera un retraso en comparación con jurisdicciones de Estados Unidos, tales
+como los estados de Texas y Florida, donde se han adelantado políticas que buscan
+promover tratamientos seguros y regulados.
+La Asamblea Legislativa reconoce la urgencia de establecer un marco que no solo
+regule el uso de células madre, sino que también garantice el acceso real a tratamientos
+clínicos aprobados, evitando que su alto costo excluya a los pacientes que más los
+necesitan. Un mandato de cobertura uniforme para todos los planes médicos ampliaría
+las opciones terapéuticas, fomentaría el desarrollo de la medicina avanzada y garantizaría
+la equidad en el acceso a tratamientos que pueden ser vitales para la calidad de vida de
+la gente.
+Por todo lo anterior, esta Asamblea Legislativa decreta la obligación de cubrir
+tratamientos clínicos con células madre bajo criterios médicos claros, estándares
+regulatorios, supervisión adecuada y salvaguardas éticas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se añade un Capítulo 5 de la Ley Núm. 194-2011, según enmendada,
+2 conocida como “Código de Seguro de Salud de Puerto Rico” para que se lea como sigue:
+3 Capítulo 5 — Cobertura de Tratamientos Clínicos con Células Madre
+3
+1 Artículo 5.010. — Título.
+2 Este Capítulo se conocerá y podrá citarse como el Capítulo sobre la Cobertura de
+3 Tratamientos Clínicos con Células Madre.
+4 Artículo 5.020. — Propósito.
+5 El propósito de este Capítulo es establecer las normas para desarrollar, conservar y manejar
+6 los protocolos y procedimientos para la prestación de tratamientos con células madre, así como
+7 otros procesos relacionados con dichos tratamientos, que establezcan las organizaciones de seguros
+8 de salud o aseguradores que proveen estos beneficios de salud.
+9 Artículo 5.030. – Definiciones
+10 A. “Células madre adultas”: células obtenidas de tejidos postnatales (médula ósea, sangre
+11 periférica, grasa, cordón umbilical).
+12 B. “Células madre embrionarias”: células derivadas de embriones humanos.
+13 C. “Células madre hematopoyéticas”: células con la capacidad de generar todas las líneas
+14 celulares sanguíneas, obtenidas principalmente de médula ósea, sangre periférica o sangre de
+15 cordón umbilical, y utilizadas en terapias aprobadas para condiciones hematológicas,
+16 inmunológicas, metabólicas y oncológicas.
+17 D. “Procedimientos no estéticos”: Toda terapia destinada a tratar una condición médica,
+18 excluir dolor, mejorar función orgánica, prevenir deterioro o proveer tratamiento restaurativo. No
+19 incluye usos cosméticos o electivos sin indicación médica.
+20 E. “Trasplante alogénico”: Procedimiento en el cual las células madre provienen de un
+21 donante compatible, ya sea relacionado o no relacionado, y se utilizan para tratar condiciones
+22 clínicas aprobadas.
+4
+1 F. “Trasplante autólogo”: Procedimiento en el cual se recolectan células madre del propio
+2 paciente, se procesan y se rembolsa para su tratamiento clínico aprobado.
+3 G. “Tratamiento clínico con células madre”: Procedimiento médico aprobado por la FDA
+4 o autorizado mediante protocolos clínicos regulados, dirigido a tratar una condición médica
+5 diagnosticada.
+6 Artículo 5.040. – Cobertura Obligatoria.
+7 Todo plan médico en Puerto Rico deberá incluir como cubierta esencial los tratamientos
+8 clínicos con células madre que cuenten con aprobación de la Food and Drug Administration
+9 (FDA). Esta obligación incluye los trasplantes de células madre hematopoyéticas, ya sean
+10 autólogos o alogénicos, así como las terapias regenerativas destinadas al tratamiento de condiciones
+11 hematológicas, inmunológicas, oncológicas, metabólicas o degenerativas.
+12 Además, deberán estar cubiertos todos los servicios relacionados al procedimiento, tales
+13 como la evaluación preoperatoria, hospitalización, procesamiento celular, laboratorios
+14 especializados, seguimiento clínico y los medicamentos indicados como parte del tratamiento.
+15 Ningún plan podrá excluir estas terapias por su naturaleza regenerativa o por ser consideradas
+16 tratamientos avanzados siempre que estén clínicamente aprobados.
+17 Artículo 5.050. – Exclusiones Permitidas.
+18 Los planes médicos podrán excluir de cobertura aquellos tratamientos con células madre
+19 que constituyan un uso exclusivamente cosmético o estético, sin indicación médica, así como los
+20 procedimientos que utilicen células madre embrionarias, salvo en aquellos casos en que la
+21 legislación federal lo permita. Asimismo, podrán excluir tratamientos que no hayan sido aprobados
+22 por la autoridad regulatoria competente o no cuenten con un protocolo clínico aprobado. Las
+5
+1 exclusiones no contempladas en este artículo no podrán invocarse como fundamento para denegar
+2 cobertura bajo esta Ley, salvo disposiciones federales o reglamentos aplicables.
+3 La aseguradora deberá justificar por escrito cualquier denegación, basada exclusivamente
+4 en criterios médicos y regulatorios.
+5 Artículo 5.060. – Equidad en el Acceso y Límites de Copago.
+6 Los planes médicos no podrán imponer copagos, deducibles o costos compartidos mayores
+7 a los aplicados a otros tratamientos médicos complejos, tales como terapias biológicas o
+8 quimioterapia. El programa garantizará cobertura sin limitaciones económicas derivadas de
+9 condiciones preexistentes o del estatus socioeconómico del paciente. Además, se prohíbe todo tipo
+10 de discrimen en la provisión de estos tratamientos, incluyendo discriminación basada en
+11 diagnóstico, edad o pronóstico clínico, asegurando así un acceso equitativo y justo para todos los
+12 beneficiarios.
+13 Artículo 5.070. Sanciones.
+14 Toda violación a este Capítulo estará sujeta a las sanciones establecidas en el Artículo 2.080
+15 de este Código y demás disposiciones aplicables.
+16 Sección 2.- Se enmienda el Artículo III de la Ley Núm. 72-1993, conocida como
+17 "Ley de la Administración de Seguros de Salud de Puerto Rico", según enmendada, para
+18 añadir nuevos incisos (h), (i), (j), (ff), (mm), (nn) y (oo), redesignar los actuales incisos (h)
+19 al (j) como incisos (k) al (m), los actuales incisos (k) al (bb) como incisos (n) al (ee), y los
+20 actuales incisos (cc) al (hh) como incisos (gg) al (ll), y redesignar los incisos subsiguientes
+21 según corresponda, para que lea como sigue:
+22 “ARTÍCULO III. — DEFINICIONES
+6
+1 Sección 1. — Término y frases
+2 Para fines de esta Ley, los siguientes términos y frases tendrán el significado que se
+3 expone a continuación:
+4 (a) Administración: Administración de Seguros de Salud de Puerto Rico.
+5 (b) Alianzas de beneficiarios: Grupos de beneficiarios representados por la
+6 Administración en la negociación de las cubiertas de beneficios del Plan de Salud que
+7 éstos necesiten. Componen estos grupos, beneficiarios del Departamento de Salud u otros
+8 grupos que en el futuro puedan beneficiarse de las actividades de la Administración.
+9 (c) Aportación patronal: Porción del costo de la prima que es pagada por el patrono
+10 del beneficiario.
+11 (d) Aportación personal: Porción del costo de la prima que es pagada por el
+12 beneficiario.
+13 (e) Asegurador: Entidad que asume el riesgo en forma contractual mediante el pago
+14 de una prima, debidamente autorizada por el Comisionado de Seguros para hacer
+15 negocios en Puerto Rico; o entidad con la cual la Administración delega por razón de
+16 vínculo contractual la adjudicación de la procesabilidad del pago por servicios en
+17 aquellos contratos entre la Administración y proveedores participantes.
+18 (f) Auditoría Interna Fiscal: Procedimiento establecido por la Administración para
+19 recopilar la información necesaria que corrobore que los servicios prestados a los
+20 beneficiarios fueron provistos a base de criterios de necesidad y facturados
+21 correctamente.
+7
+1 (g) Beneficiario de Medicare: Aquella persona elegible al Programa Federal de
+2 Medicare y que además cumple con los requisitos para ser beneficiario de la
+3 Administración.
+4 (h) Células madre adultas: Células obtenidas de tejidos postnatales (médula ósea, sangre
+5 periférica, grasa, cordón umbilical).
+6 (i) Células madre embrionarias: Células derivadas de embriones humanos.
+7 (j) Células madre hematopoyéticas: Células con la capacidad de generar todas las líneas
+8 celulares sanguíneas, obtenidas principalmente de médula ósea, sangre periférica o sangre de
+9 cordón umbilical, y utilizadas en terapias aprobadas para condiciones hematológicas,
+10 inmunológicas, metabólicas y oncológicas.
+11 [(h)] (k) Coaseguro: Participación porcentual que tiene el beneficiario de cada pérdida
+12 o porción del costo de recibir un servicio.
+13 [(i)] (l) Comisionado: Comisionado de Seguros de Puerto Rico.
+14 [(j)] (m) Cubierta de beneficios de salud: Todos los beneficios incluidos en un plan de
+15 salud para los beneficiarios.
+16 [(k)] (n) Departamento: Departamento de Salud del Estado Libre Asociado de Puerto
+17 Rico.
+18 [(l)] (o) Director Ejecutivo: Director Ejecutivo de la Administración de Seguros de
+19 Salud de Puerto Rico.
+20 [(m)] (p) Emergencia: Se refiere a una condición médica que se manifiesta por
+21 síntomas agudos de suficiente severidad, incluyendo dolor severo, donde una persona
+22 lega, razonablemente prudente, que tenga un conocimiento promedio de salud y
+8
+1 medicina, pueda esperar que en la ausencia de acción médica inmediata colocaría la salud
+2 de la persona en serio peligro, o resultaría en una seria disfunción de cualquier miembro
+3 u órgano del cuerpo o con respecto a una mujer embarazada que esté sufriendo
+4 contracciones, que no haya suficiente tiempo para transferirla a otras instalaciones antes
+5 del parto, o que transferirla representaría una amenaza a la salud de la mujer o de la
+6 criatura por nacer.
+7 [(n)] (q) Entidad: Cualquier organización con personalidad jurídica propia,
+8 organizada o autorizada a hacer negocios de conformidad con las leyes de Puerto Rico.
+9 [(o)] (r) Facilidades de Salud: Aquéllas definidas en la Ley Núm. 101 de 26 de junio
+10 de 1965, según enmendada.
+11 [(p)] (s) Grupo médico primario: Entidad con o sin fines de lucro, que agrupe o asocie
+12 médicos primarios.
+13 [(q)] (t) Grupo médico de apoyo: Entidad con o sin fines de lucro, que agrupe o asocie
+14 médicos de apoyo.
+15 [(r)] (u) Grupo de proveedores primarios: Entidad con o sin fines de lucro, que agrupe
+16 o asocie proveedores primarios.
+17 [(s)] (v) Junta de Directores: Junta de Directores de la Administración de Seguros de
+18 Salud de Puerto Rico.
+19 [(t)] (w) Ley: Ley de la Administración de Seguros de Salud de Puerto Rico.
+20 [(u)] (x) Médico de apoyo: Profesional proveedor participante que provee servicios
+21 complementarios y de apoyo a los médicos primarios. Para obtener beneficios de éstos,
+22 el beneficiario deberá ser referido por el médico primario. Se considerarán médicos de
+9
+1 apoyo, los siguientes: cardiólogos, endocrinólogos, neurólogos, psiquiatras,
+2 oftalmólogos, radiólogos, nefrólogos, fisiatras, ortopedas, cirujano general y demás
+3 médicos no comprendidos en la definición de médico primario.
+4 [(v)] (y) Médico primario: Profesional proveedor participante que evalúa y da
+5 tratamiento inicialmente a los beneficiarios. Es responsable de determinar los servicios
+6 que precisa el beneficiario, proveer continuidad referir a los beneficiarios a servicios
+7 especializados. Se consideran médicos primarios (Primary Physicians) los siguientes:
+8 médicos generalistas, médicos internistas, médicos de familia, pediatras, ginecólogos y
+9 obstetras.
+10 [(w)] (z) Organizaciones de Servicios de Salud: Son grupos médico primarios, grupos
+11 médicos de apoyo y grupos de proveedores primarios que cumplan los requerimientos
+12 de contratación establecidos por la Administración para ofrecer servicios de salud a
+13 través del modelo de cuidado coordinado. Se incluye bajo esta definición a las
+14 organizaciones de Servicios de Salud, según definidas en la Ley Núm. 113 de 2 de junio
+15 de 1976, según enmendada, conocida como “Ley de Organizaciones de Servicios de
+16 Salud”, incorporada en el Código de Seguros de Puerto Rico (Art. 19.020 et. Seq.)
+17 [(x)] (aa) Pago per capita (capitation): Aquélla parte de la prima pagada al asegurador
+18 que se transfiere al proveedor participante en pago de los beneficios provistos bajo las
+19 cubiertas de beneficios de salud a los beneficiarios que representa la Administración o
+20 aquel pago fijo efectuado por la Administración al proveedor participante por cada
+21 beneficiario.
+10
+1 [(y)] (bb) Plan de salud: Significa cualquier contrato mediante el cual una persona se
+2 compromete a proveer a un beneficiario o grupo de beneficiarios, determinados servicios
+3 de cuidado de salud bien sea directamente o a través de un proveedor de servicios de
+4 salud, o a pagar la totalidad o una parte del costo de tales servicios, en consideración al
+5 pago de una cantidad prefijada en dicho convenio que se entiende devengada
+6 independientemente de si el beneficiario utiliza o no los servicios de cuidado de salud
+7 provistos por el plan. No obstante lo anterior, dicho plan deberá proveer principalmente
+8 para la prestación de servicios de cuidado de salud, a distinción de la mera
+9 indemnización por el costo de tales servicios.
+10 [(z)] (cc) Preautorización: Permiso escrito del asegurador al beneficiario concediendo
+11 la autorización para obtener un beneficio. El beneficiario será responsable de obtener
+12 dicha preautorización del asegurador para obtener los beneficios que requiere la misma.
+13 El no obtener la preautorización cuando sea requerida impide la obtención del beneficio
+14 y la concesión de la preautorización obliga al autorizante al pago del servicio autorizado.
+15 [(aa)] (dd) Prima Remuneración: que se le otorga a un asegurador por asumir un
+16 riesgo mediante un contrato de seguro.
+17 [(bb)] (ee) Prima base: La prima más baja de entre todas las contratadas con los
+18 aseguradores.
+19 (ff) Procedimientos no estéticos: Toda terapia destinada a tratar una condición médica, excluir
+20 dolor, mejorar función orgánica, prevenir deterioro o proveer tratamiento restaurativo. No incluye
+21 usos cosméticos o electivos sin indicación médica.
+11
+1 [(cc)] (gg) Proveedor de servicios de salud: Consistirá de médicos primarios, médicos
+2 de apoyo, servicios primarios, proveedores primarios y organizaciones de servicios de
+3 salud.
+4 [(dd)] (hh) Proveedor participante: Aquel proveedor de servicios de salud contratado
+5 por los aseguradores o por la Administración para ofrecer servicios de salud a la
+6 población representada por la Administración.
+7 [(ee)] (ii) Proveedores primarios: Consistirá de proveedores participantes que sean
+8 laboratorios clínicos, facilidades de radiología, farmacias y hospitales, sin incluir salas de
+9 emergencia.
+10 [(ff)] (jj) Referido: Autorización por escrito emitida por el médico primario
+11 seleccionado que le permita al beneficiario obtener un servicio en otro proveedor
+12 participante en un período determinado.
+13 [(gg)] (kk) Secretario: Secretario del Departamento de Salud.
+14 [(hh)] (ll) Servicios primarios: Las salas de emergencia de los proveedores
+15 participantes.
+16 (mm) Trasplante alogénico: Procedimiento en el cual las células madre provienen de un
+17 donante compatible, ya sea relacionado o no relacionado, y se utilizan para tratar condiciones
+18 clínicas aprobadas.
+19 (nn) Trasplante autólogo: Procedimiento en el que se recolectan células madre del propio
+20 paciente, se procesan y se reinfunden para su tratamiento clínico aprobado.
+12
+1 (oo) Tratamiento clínico con células madre: Procedimiento médico aprobado por la FDA o
+2 autorizado mediante protocolos clínicos regulados, dirigido a tratar una condición médica
+3 diagnosticada.”
+4 Sección 3.- Se añade un inciso (g) del subinciso (1) del inciso “Cubierta C” de la
+5 Sección 6 del Artículo VI de la Ley Núm. 72-1993, conocida como "Ley de la
+6 Administración de Seguros de Salud de Puerto Rico" para que lea como sigue:
+7 “Sección 6. — Cubierta y Beneficios Mínimos.
+8 Los planes de salud tendrán una cubierta amplia, con un mínimo de exclusiones. No
+9 habrá exclusiones por condiciones preexistentes, como tampoco períodos de espera, al
+10 momento de otorgarse la cubierta al beneficiario.
+11 …
+12 Cubierta C. En su cubierta ambulatoria los planes deberán incluir, sin que esto
+13 constituya una limitación, lo siguiente:
+14 (1) Servicios de Salud Preventivos:
+15 (a) Vacunación de niños y adolescentes hasta los dieciocho (18) años de edad.
+16 (b) …
+17 …
+18 (g) Tratamientos con células madre, terapias celulares o terapias génicas indicados para la
+19 prevención, diagnóstico o tratamiento de enfermedades, lesiones o condiciones médicas no estéticas,
+20 cuando medie certificación de necesidad médica por un profesional de la salud debidamente
+21 autorizado, de conformidad con las prácticas aceptables y los criterios clínicos y regulatorios
+22 aplicables. Ningún plan podrá excluir estos tratamientos o terapias, siempre que cuenten con la
+13
+1 aprobación o autorización de la agencia regulatoria federal correspondiente y medie certificación
+2 de necesidad médica que acredite su necesidad.
+3 (2) Evaluación y tratamiento de beneficiarios con enfermedades conocidas:
+4 …”
+5 Sección 4.- Aplicabilidad
+6 Esta Ley aplicará a todos los contratos y pólizas emitidos, enmendados o renovados
+7 luego de su vigencia por entidades sujetas al Código de Seguros de Puerto Rico. La ASES
+8 garantizará la implementación de estas disposiciones en el Plan de Salud del Gobierno.
+9 Para planes autoasegurados sujetos a prelación federal (ERISA) u otros esquemas
+10 exentos, se promoverá su adopción voluntaria. Nada de lo dispuesto en esta Ley se
+11 interpretará como una contravención a las leyes federales aplicables
+12 Sección 5.- Reglamentación
+13 Se ordena a la Oficina del Comisionado de Seguros (OCS), Departamento de
+14 Salud, Administración de Seguros de Salud (ASES) para el Plan de Salud del Gobierno y
+15 a la Oficina del Procurador del Paciente a modificar los reglamentos vigentes y cartas
+16 normativas en un término no mayor de ciento ochenta (180) días desde la vigencia de esta
+17 Ley para su implementación uniforme, incluyendo estándares de facturación.
+18 Sección 6.- Deber de orientación
+19 Será responsabilidad de Comisionado de Seguros (OCS), Departamento de Salud,
+20 y Administración de Seguros de Salud (ASES), brindar orientación e información a las
+21 aseguradoras, entidades de seguros de salud y terceros administradores respecto al
+22 alcance y las disposiciones de las enmiendas introducidas por esta Ley en relación con
+14
+1 las terapias y tratamientos con células madre, incluyendo los criterios de elegibilidad,
+2 requisitos de cubierta y parámetros clínicos aplicables. Asimismo, el Departamento de
+3 Salud, en coordinación con la Oficina del Procurador del Paciente, tendrá el deber de
+4 elaborar e incorporar en sus programas educativos y materiales de divulgación dirigidos
+5 a pacientes, profesionales de la salud y al público en general, contenido informativo sobre
+6 los tratamientos con células madre, sus indicaciones médicas reconocidas, beneficios
+7 potenciales, riesgos asociados, alternativas terapéuticas disponibles y los mecanismos
+8 para acceder a la cobertura conforme a esta Ley.
+9 Sección 7. – Cláusula de separabilidad
+10 Si cualquier artículo, cláusula, párrafo o parte de esta Ley fuera anulada o declarada
+11 inconstitucional, la resolución, dictamen o sentencia a tal efecto dictada no afectará,
+12 perjudicará, ni invalidará el remanente de esta Ley. El efecto de dicha sentencia quedará
+13 limitado al artículo, cláusula, párrafo o parte de esta Ley que así hubiere sido anulada o
+14 declarada inconstitucional. Si la aplicación a una persona o a una circunstancia de
+15 cualquier artículo, cláusula, párrafo o parte de esta Ley fuera invalidada o declarada
+16 inconstitucional, la resolución, dictamen o sentencia a tal efecto dictada no afectará ni
+17 invalidará la aplicación del remanente de esta Ley a aquellas personas o circunstancias
+18 en que ésta se pueda aplicar válidamente.
+19 Sección 8. – Vigencia
+20 Esta Ley será vigente inmediatamente luego de su aprobación.
+[DELETED: 0   3 .r   p y p i c p t c c m a p l a r a d e p s a f y a e e e ( c i ( a ( y r l i s s]
+[DELETED:    d s c h s t m t b e c m d e a y a e P R a t d c a c s t d u c a y n e E l e d T y F d s h a p q b a e q s a c e a l p q m l t l a e A L d l o d c c c c m b c m c e C C]
+[DELETED:  A E C s c y p c c e C s l C d T A E l o d A . p . C “ c s o p d m ó s p o s d c u y u e t a p c h i “ e i “ d c]
+[DELETED:  “ p “ o a m p c r d a t u c m d  A T c a D ( E o i l t d c m h y s a h A c l e p h p c l e s c y l m i c p d t N t A L q p q u c m e s e a c e q l l p]
+[DELETED:  e c L e A L a l a a o t m c t c t b o q E p g c s l e d d c d d e l p d e t i d b e d b A T d]
+[DELETED:  A d b G d b r p l A p P d c d l p q e p p e u p d a p e C d S p h c l a d l p d p p s e l i n q c q l s p a l f p a b d c d n y f]
+[DELETED:  B d M A p e a P F d y q a c c l r p s b d l ( C m a C o d t p ( ó s p ( ( C m h C c l c d g t l l c s o p d m ó s p o s d c u y u e t a p c h i ( ( ( ( ( ( S r a u c m q s m p r p q t u c p d s y]
+[DELETED:  ó d c o c r a u m e q e s ( C o c p j p ( ( ( ( ( ( (]
+[DELETED:  l s c e n p rs n f o c g y d  ( p P p p q e y d S c m p ( P l s ( c e p l A p o s d s a d m d c c  S i b e d a l 1 s e c c “ d O d S d ( p f e p l A a p p p c]
+[DELETED:  ( d u c p e d c q s e d l p d s d c d s a d d l m ( ( ( b L p m b d e t l c c l ( d u]
+[DELETED:  ( ( l a o p l A p o s d s a l ( ( A p e e p e m p q l p a b o u s e o p ( ( p L s d e d l p ( T a P e e c l c m p d u d c ( p]
+[DELETED:  ( a m p c r d a t u c m d 6 d A V d l L N 7 c c " d l ( p c m c d n m p u p d l s d a d c c l p a y l c c y r a]
+[DELETED:  a d s p s a v N d l d e e L s o a l O d C d S ( D d e d s d s y t a r a]
+[DELETED:  t c c m s i m r b l r d o s a t e d n a i S l a a u p o a u c d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1201
+15 de abril de 2026
+Presentado por el señor Ríos Santiago
+Referido a la
+LEY
+Para añadir un Capítulo 5 de la Ley Núm. 194-2011, según enmendada, conocida como
+“Código de Seguro de Salud de Puerto Rico”, a fin de garantizar que todos los planes
+médicos públicos y privados incluyan cobertura para terapias con células madre
+debidamente aprobadas por las autoridades regulatorias, además de establecer
+parámetros para su autorización, fiscalización y acceso equitativo; enmendar el
+Artículo III de la Ley Núm. 72-1993, según enmendada, conocida como "Ley de la
+Administración de Seguros de Salud de Puerto Rico", para añadir nuevos incisos (h),
+(i), (j), (ff), (mm), (nn) y (oo), redesignar los actuales incisos (h) al (j) como incisos (k)
+al (m), los actuales incisos (k) al (bb) como incisos (n) al (ee), y los actuales incisos (cc)
+al (hh) como incisos (gg) al (ll), y redesignar los incisos subsiguientes según
+corresponda; y añadir un inciso (g) del subinciso (1) del inciso “Cubierta C” de la
+Sección 6 del Artículo VI de la Ley Núm. 72-1993, según enmendada, conocida como
+“Ley de la Administración de Seguros de Salud de Puerto Rico”, con el propósito de
+establecer que todo plan de salud en Puerto Rico, incluyendo el Plan Vital, provea
+cobertura para tratamientos con células madre, y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La medicina regenerativa se ha consolidado como una de las áreas más prometedoras
+de la práctica clínica contemporánea, particularmente por su potencial terapéutico en
+condiciones complejas. Los tratamientos basados en el uso de células madre adultas han
+demostrado eficacia en una amplia gama de afecciones hematológicas, inmunológicas,
+
+2
+oncológicas y degenerativas. Tal como expone la Food and Drug Administration (FDA),
+más de setenta condiciones han sido tratadas mediante terapias basadas en células
+madre, muchas de ellas aprobadas y aplicadas en Puerto Rico a través de centros
+especializados, como el Centro Comprensivo de Cáncer de la Universidad de Puerto Rico.
+A pesar de este progreso, miles de pacientes en la Isla enfrentan barreras económicas
+severas para acceder a estas terapias porque los planes médicos no están obligados a
+cubrirlas, aun cuando se trate de usos clínicos aprobados y no experimentales. Esto
+provoca desigualdad en el acceso al tratamiento, limita la práctica médica basada en
+evidencia y genera un retraso en comparación con jurisdicciones de Estados Unidos, tales
+como los estados de Texas y Florida, donde se han adelantado políticas que buscan
+promover tratamientos seguros y regulados.
+La Asamblea Legislativa reconoce la urgencia de establecer un marco que no solo
+regule el uso de células madre, sino que también garantice el acceso real a tratamientos
+clínicos aprobados, evitando que su alto costo excluya a los pacientes que más los
+necesitan. Un mandato de cobertura uniforme para todos los planes médicos ampliaría
+las opciones terapéuticas, fomentaría el desarrollo de la medicina avanzada y garantizaría
+la equidad en el acceso a tratamientos que pueden ser vitales para la calidad de vida de
+la gente.
+Por todo lo anterior, esta Asamblea Legislativa decreta la obligación de cubrir
+tratamientos clínicos con células madre bajo criterios médicos claros, estándares
+regulatorios, supervisión adecuada y salvaguardas éticas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se añade un Capítulo 5 de la Ley Núm. 194-2011, según enmendada,
+2 conocida como “Código de Seguro de Salud de Puerto Rico” para que se lea como sigue:
+3 Capítulo 5 — Cobertura de Tratamientos Clínicos con Células Madre
+
+3
+1 Artículo 5.010. — Título.
+2 Este Capítulo se conocerá y podrá citarse como el Capítulo sobre la Cobertura de
+3 Tratamientos Clínicos con Células Madre.
+4 Artículo 5.020. — Propósito.
+5 El propósito de este Capítulo es establecer las normas para desarrollar, conservar y manejar
+6 los protocolos y procedimientos para la prestación de tratamientos con células madre, así como
+7 otros procesos relacionados con dichos tratamientos, que establezcan las organizaciones de seguros
+8 de salud o aseguradores que proveen estos beneficios de salud.
+9 Artículo 5.030. – Definiciones
+10 A. “Células madre adultas”: células obtenidas de tejidos postnatales (médula ósea, sangre
+11 periférica, grasa, cordón umbilical).
+12 B. “Células madre embrionarias”: células derivadas de embriones humanos.
+13 C. “Células madre hematopoyéticas”: células con la capacidad de generar todas las líneas
+14 celulares sanguíneas, obtenidas principalmente de médula ósea, sangre periférica o sangre de
+15 cordón umbilical, y utilizadas en terapias aprobadas para condiciones hematológicas,
+16 inmunológicas, metabólicas y oncológicas.
+17 D. “Procedimientos no estéticos”: Toda terapia destinada a tratar una condición médica,
+18 excluir dolor, mejorar función orgánica, prevenir deterioro o proveer tratamiento restaurativo. No
+19 incluye usos cosméticos o electivos sin indicación médica.
+20 E. “Trasplante alogénico”: Procedimiento en el cual las células madre provienen de un
+21 donante compatible, ya sea relacionado o no relacionado, y se utilizan para tratar condiciones
+22 clínicas aprobadas.
+
+4
+1 F. “Trasplante autólogo”: Procedimiento en el cual se recolectan células madre del propio
+2 paciente, se procesan y se rembolsa para su tratamiento clínico aprobado.
+3 G. “Tratamiento clínico con células madre”: Procedimiento médico aprobado por la FDA
+4 o autorizado mediante protocolos clínicos regulados, dirigido a tratar una condición médica
+5 diagnosticada.
+6 Artículo 5.040. – Cobertura Obligatoria.
+7 Todo plan médico en Puerto Rico deberá incluir como cubierta esencial los tratamientos
+8 clínicos con células madre que cuenten con aprobación de la Food and Drug Administration
+9 (FDA). Esta obligación incluye los trasplantes de células madre hematopoyéticas, ya sean
+10 autólogos o alogénicos, así como las terapias regenerativas destinadas al tratamiento de condiciones
+11 hematológicas, inmunológicas, oncológicas, metabólicas o degenerativas.
+12 Además, deberán estar cubiertos todos los servicios relacionados al procedimiento, tales
+13 como la evaluación preoperatoria, hospitalización, procesamiento celular, laboratorios
+14 especializados, seguimiento clínico y los medicamentos indicados como parte del tratamiento.
+15 Ningún plan podrá excluir estas terapias por su naturaleza regenerativa o por ser consideradas
+16 tratamientos avanzados siempre que estén clínicamente aprobados.
+17 Artículo 5.050. – Exclusiones Permitidas.
+18 Los planes médicos podrán excluir de cobertura aquellos tratamientos con células madre
+19 que constituyan un uso exclusivamente cosmético o estético, sin indicación médica, así como los
+20 procedimientos que utilicen células madre embrionarias, salvo en aquellos casos en que la
+21 legislación federal lo permita. Asimismo, podrán excluir tratamientos que no hayan sido aprobados
+22 por la autoridad regulatoria competente o no cuenten con un protocolo clínico aprobado. Las
+
+5
+1 exclusiones no contempladas en este artículo no podrán invocarse como fundamento para denegar
+2 cobertura bajo esta Ley, salvo disposiciones federales o reglamentos aplicables.
+3 La aseguradora deberá justificar por escrito cualquier denegación, basada exclusivamente
+4 en criterios médicos y regulatorios.
+5 Artículo 5.060. – Equidad en el Acceso y Límites de Copago.
+6 Los planes médicos no podrán imponer copagos, deducibles o costos compartidos mayores
+7 a los aplicados a otros tratamientos médicos complejos, tales como terapias biológicas o
+8 quimioterapia. El programa garantizará cobertura sin limitaciones económicas derivadas de
+9 condiciones preexistentes o del estatus socioeconómico del paciente. Además, se prohíbe todo tipo
+10 de discrimen en la provisión de estos tratamientos, incluyendo discriminación basada en
+11 diagnóstico, edad o pronóstico clínico, asegurando así un acceso equitativo y justo para todos los
+12 beneficiarios.
+13 Artículo 5.070. Sanciones.
+14 Toda violación a este Capítulo estará sujeta a las sanciones establecidas en el Artículo 2.080
+15 de este Código y demás disposiciones aplicables.
+16 Sección 2.- Se enmienda el Artículo III de la Ley Núm. 72-1993, conocida como
+17 "Ley de la Administración de Seguros de Salud de Puerto Rico", según enmendada, para
+18 añadir nuevos incisos (h), (i), (j), (ff), (mm), (nn) y (oo), redesignar los actuales incisos (h)
+19 al (j) como incisos (k) al (m), los actuales incisos (k) al (bb) como incisos (n) al (ee), y los
+20 actuales incisos (cc) al (hh) como incisos (gg) al (ll), y redesignar los incisos subsiguientes
+21 según corresponda, para que lea como sigue:
+22 “ARTÍCULO III. — DEFINICIONES
+
+6
+1 Sección 1. — Término y frases
+2 Para fines de esta Ley, los siguientes términos y frases tendrán el significado que se
+3 expone a continuación:
+4 (a) Administración: Administración de Seguros de Salud de Puerto Rico.
+5 (b) Alianzas de beneficiarios: Grupos de beneficiarios representados por la
+6 Administración en la negociación de las cubiertas de beneficios del Plan de Salud que
+7 éstos necesiten. Componen estos grupos, beneficiarios del Departamento de Salud u otros
+8 grupos que en el futuro puedan beneficiarse de las actividades de la Administración.
+9 (c) Aportación patronal: Porción del costo de la prima que es pagada por el patrono
+10 del beneficiario.
+11 (d) Aportación personal: Porción del costo de la prima que es pagada por el
+12 beneficiario.
+13 (e) Asegurador: Entidad que asume el riesgo en forma contractual mediante el pago
+14 de una prima, debidamente autorizada por el Comisionado de Seguros para hacer
+15 negocios en Puerto Rico; o entidad con la cual la Administración delega por razón de
+16 vínculo contractual la adjudicación de la procesabilidad del pago por servicios en
+17 aquellos contratos entre la Administración y proveedores participantes.
+18 (f) Auditoría Interna Fiscal: Procedimiento establecido por la Administración para
+19 recopilar la información necesaria que corrobore que los servicios prestados a los
+20 beneficiarios fueron provistos a base de criterios de necesidad y facturados
+21 correctamente.
+
+7
+1 (g) Beneficiario de Medicare: Aquella persona elegible al Programa Federal de
+2 Medicare y que además cumple con los requisitos para ser beneficiario de la
+3 Administración.
+4 (h) Células madre adultas: Células obtenidas de tejidos postnatales (médula ósea, sangre
+5 periférica, grasa, cordón umbilical).
+6 (i) Células madre embrionarias: Células derivadas de embriones humanos.
+7 (j) Células madre hematopoyéticas: Células con la capacidad de generar todas las líneas
+8 celulares sanguíneas, obtenidas principalmente de médula ósea, sangre periférica o sangre de
+9 cordón umbilical, y utilizadas en terapias aprobadas para condiciones hematológicas,
+10 inmunológicas, metabólicas y oncológicas.
+11 [(h)] (k) Coaseguro: Participación porcentual que tiene el beneficiario de cada pérdida
+12 o porción del costo de recibir un servicio.
+13 [(i)] (l) Comisionado: Comisionado de Seguros de Puerto Rico.
+14 [(j)] (m) Cubierta de beneficios de salud: Todos los beneficios incluidos en un plan de
+15 salud para los beneficiarios.
+16 [(k)] (n) Departamento: Departamento de Salud del Estado Libre Asociado de Puerto
+17 Rico.
+18 [(l)] (o) Director Ejecutivo: Director Ejecutivo de la Administración de Seguros de
+19 Salud de Puerto Rico.
+20 [(m)] (p) Emergencia: Se refiere a una condición médica que se manifiesta por
+21 síntomas agudos de suficiente severidad, incluyendo dolor severo, donde una persona
+22 lega, razonablemente prudente, que tenga un conocimiento promedio de salud y
+
+8
+1 medicina, pueda esperar que en la ausencia de acción médica inmediata colocaría la salud
+2 de la persona en serio peligro, o resultaría en una seria disfunción de cualquier miembro
+3 u órgano del cuerpo o con respecto a una mujer embarazada que esté sufriendo
+4 contracciones, que no haya suficiente tiempo para transferirla a otras instalaciones antes
+5 del parto, o que transferirla representaría una amenaza a la salud de la mujer o de la
+6 criatura por nacer.
+7 [(n)] (q) Entidad: Cualquier organización con personalidad jurídica propia,
+8 organizada o autorizada a hacer negocios de conformidad con las leyes de Puerto Rico.
+9 [(o)] (r) Facilidades de Salud: Aquéllas definidas en la Ley Núm. 101 de 26 de junio
+10 de 1965, según enmendada.
+11 [(p)] (s) Grupo médico primario: Entidad con o sin fines de lucro, que agrupe o asocie
+12 médicos primarios.
+13 [(q)] (t) Grupo médico de apoyo: Entidad con o sin fines de lucro, que agrupe o asocie
+14 médicos de apoyo.
+15 [(r)] (u) Grupo de proveedores primarios: Entidad con o sin fines de lucro, que agrupe
+16 o asocie proveedores primarios.
+17 [(s)] (v) Junta de Directores: Junta de Directores de la Administración de Seguros de
+18 Salud de Puerto Rico.
+19 [(t)] (w) Ley: Ley de la Administración de Seguros de Salud de Puerto Rico.
+20 [(u)] (x) Médico de apoyo: Profesional proveedor participante que provee servicios
+21 complementarios y de apoyo a los médicos primarios. Para obtener beneficios de éstos,
+22 el beneficiario deberá ser referido por el médico primario. Se considerarán médicos de
+
+9
+1 apoyo, los siguientes: cardiólogos, endocrinólogos, neurólogos, psiquiatras,
+2 oftalmólogos, radiólogos, nefrólogos, fisiatras, ortopedas, cirujano general y demás
+3 médicos no comprendidos en la definición de médico primario.
+4 [(v)] (y) Médico primario: Profesional proveedor participante que evalúa y da
+5 tratamiento inicialmente a los beneficiarios. Es responsable de determinar los servicios
+6 que precisa el beneficiario, proveer continuidad referir a los beneficiarios a servicios
+7 especializados. Se consideran médicos primarios (Primary Physicians) los siguientes:
+8 médicos generalistas, médicos internistas, médicos de familia, pediatras, ginecólogos y
+9 obstetras.
+10 [(w)] (z) Organizaciones de Servicios de Salud: Son grupos médico primarios, grupos
+11 médicos de apoyo y grupos de proveedores primarios que cumplan los requerimientos
+12 de contratación establecidos por la Administración para ofrecer servicios de salud a
+13 través del modelo de cuidado coordinado. Se incluye bajo esta definición a las
+14 organizaciones de Servicios de Salud, según definidas en la Ley Núm. 113 de 2 de junio
+15 de 1976, según enmendada, conocida como “Ley de Organizaciones de Servicios de
+16 Salud”, incorporada en el Código de Seguros de Puerto Rico (Art. 19.020 et. Seq.)
+17 [(x)] (aa) Pago per capita (capitation): Aquélla parte de la prima pagada al asegurador
+18 que se transfiere al proveedor participante en pago de los beneficios provistos bajo las
+19 cubiertas de beneficios de salud a los beneficiarios que representa la Administración o
+20 aquel pago fijo efectuado por la Administración al proveedor participante por cada
+21 beneficiario.
+
+10
+1 [(y)] (bb) Plan de salud: Significa cualquier contrato mediante el cual una persona se
+2 compromete a proveer a un beneficiario o grupo de beneficiarios, determinados servicios
+3 de cuidado de salud bien sea directamente o a través de un proveedor de servicios de
+4 salud, o a pagar la totalidad o una parte del costo de tales servicios, en consideración al
+5 pago de una cantidad prefijada en dicho convenio que se entiende devengada
+6 independientemente de si el beneficiario utiliza o no los servicios de cuidado de salud
+7 provistos por el plan. No obstante lo anterior, dicho plan deberá proveer principalmente
+8 para la prestación de servicios de cuidado de salud, a distinción de la mera
+9 indemnización por el costo de tales servicios.
+10 [(z)] (cc) Preautorización: Permiso escrito del asegurador al beneficiario concediendo
+11 la autorización para obtener un beneficio. El beneficiario será responsable de obtener
+12 dicha preautorización del asegurador para obtener los beneficios que requiere la misma.
+13 El no obtener la preautorización cuando sea requerida impide la obtención del beneficio
+14 y la concesión de la preautorización obliga al autorizante al pago del servicio autorizado.
+15 [(aa)] (dd) Prima Remuneración: que se le otorga a un asegurador por asumir un
+16 riesgo mediante un contrato de seguro.
+17 [(bb)] (ee) Prima base: La prima más baja de entre todas las contratadas con los
+18 aseguradores.
+19 (ff) Procedimientos no estéticos: Toda terapia destinada a tratar una condición médica, excluir
+20 dolor, mejorar función orgánica, prevenir deterioro o proveer tratamiento restaurativo. No incluye
+21 usos cosméticos o electivos sin indicación médica.
+
+11
+1 [(cc)] (gg) Proveedor de servicios de salud: Consistirá de médicos primarios, médicos
+2 de apoyo, servicios primarios, proveedores primarios y organizaciones de servicios de
+3 salud.
+4 [(dd)] (hh) Proveedor participante: Aquel proveedor de servicios de salud contratado
+5 por los aseguradores o por la Administración para ofrecer servicios de salud a la
+6 población representada por la Administración.
+7 [(ee)] (ii) Proveedores primarios: Consistirá de proveedores participantes que sean
+8 laboratorios clínicos, facilidades de radiología, farmacias y hospitales, sin incluir salas de
+9 emergencia.
+10 [(ff)] (jj) Referido: Autorización por escrito emitida por el médico primario
+11 seleccionado que le permita al beneficiario obtener un servicio en otro proveedor
+12 participante en un período determinado.
+13 [(gg)] (kk) Secretario: Secretario del Departamento de Salud.
+14 [(hh)] (ll) Servicios primarios: Las salas de emergencia de los proveedores
+15 participantes.
+16 (mm) Trasplante alogénico: Procedimiento en el cual las células madre provienen de un
+17 donante compatible, ya sea relacionado o no relacionado, y se utilizan para tratar condiciones
+18 clínicas aprobadas.
+19 (nn) Trasplante autólogo: Procedimiento en el que se recolectan células madre del propio
+20 paciente, se procesan y se reinfunden para su tratamiento clínico aprobado.
+
+12
+1 (oo) Tratamiento clínico con células madre: Procedimiento médico aprobado por la FDA o
+2 autorizado mediante protocolos clínicos regulados, dirigido a tratar una condición médica
+3 diagnosticada.”
+4 Sección 3.- Se añade un inciso (g) del subinciso (1) del inciso “Cubierta C” de la
+5 Sección 6 del Artículo VI de la Ley Núm. 72-1993, conocida como "Ley de la
+6 Administración de Seguros de Salud de Puerto Rico" para que lea como sigue:
+7 “Sección 6. — Cubierta y Beneficios Mínimos.
+8 Los planes de salud tendrán una cubierta amplia, con un mínimo de exclusiones. No
+9 habrá exclusiones por condiciones preexistentes, como tampoco períodos de espera, al
+10 momento de otorgarse la cubierta al beneficiario.
+11 …
+12 Cubierta C. En su cubierta ambulatoria los planes deberán incluir, sin que esto
+13 constituya una limitación, lo siguiente:
+14 (1) Servicios de Salud Preventivos:
+15 (a) Vacunación de niños y adolescentes hasta los dieciocho (18) años de edad.
+16 (b) …
+17 …
+18 (g) Tratamientos con células madre, terapias celulares o terapias génicas indicados para la
+19 prevención, diagnóstico o tratamiento de enfermedades, lesiones o condiciones médicas no estéticas,
+20 cuando medie certificación de necesidad médica por un profesional de la salud debidamente
+21 autorizado, de conformidad con las prácticas aceptables y los criterios clínicos y regulatorios
+22 aplicables. Ningún plan podrá excluir estos tratamientos o terapias, siempre que cuenten con la
+
+13
+1 aprobación o autorización de la agencia regulatoria federal correspondiente y medie certificación
+2 de necesidad médica que acredite su necesidad.
+3 (2) Evaluación y tratamiento de beneficiarios con enfermedades conocidas:
+4 …”
+5 Sección 4.- Aplicabilidad
+6 Esta Ley aplicará a todos los contratos y pólizas emitidos, enmendados o renovados
+7 luego de su vigencia por entidades sujetas al Código de Seguros de Puerto Rico. La ASES
+8 garantizará la implementación de estas disposiciones en el Plan de Salud del Gobierno.
+9 Para planes autoasegurados sujetos a prelación federal (ERISA) u otros esquemas
+10 exentos, se promoverá su adopción voluntaria. Nada de lo dispuesto en esta Ley se
+11 interpretará como una contravención a las leyes federales aplicables
+12 Sección 5.- Reglamentación
+13 Se ordena a la Oficina del Comisionado de Seguros (OCS), Departamento de
+14 Salud, Administración de Seguros de Salud (ASES) para el Plan de Salud del Gobierno y
+15 a la Oficina del Procurador del Paciente a modificar los reglamentos vigentes y cartas
+16 normativas en un término no mayor de ciento ochenta (180) días desde la vigencia de esta
+17 Ley para su implementación uniforme, incluyendo estándares de facturación.
+18 Sección 6.- Deber de orientación
+19 Será responsabilidad de Comisionado de Seguros (OCS), Departamento de Salud,
+20 y Administración de Seguros de Salud (ASES), brindar orientación e información a las
+21 aseguradoras, entidades de seguros de salud y terceros administradores respecto al
+22 alcance y las disposiciones de las enmiendas introducidas por esta Ley en relación con
+
+14
+1 las terapias y tratamientos con células madre, incluyendo los criterios de elegibilidad,
+2 requisitos de cubierta y parámetros clínicos aplicables. Asimismo, el Departamento de
+3 Salud, en coordinación con la Oficina del Procurador del Paciente, tendrá el deber de
+4 elaborar e incorporar en sus programas educativos y materiales de divulgación dirigidos
+5 a pacientes, profesionales de la salud y al público en general, contenido informativo sobre
+6 los tratamientos con células madre, sus indicaciones médicas reconocidas, beneficios
+7 potenciales, riesgos asociados, alternativas terapéuticas disponibles y los mecanismos
+8 para acceder a la cobertura conforme a esta Ley.
+9 Sección 7. – Cláusula de separabilidad
+10 Si cualquier artículo, cláusula, párrafo o parte de esta Ley fuera anulada o declarada
+11 inconstitucional, la resolución, dictamen o sentencia a tal efecto dictada no afectará,
+12 perjudicará, ni invalidará el remanente de esta Ley. El efecto de dicha sentencia quedará
+13 limitado al artículo, cláusula, párrafo o parte de esta Ley que así hubiere sido anulada o
+14 declarada inconstitucional. Si la aplicación a una persona o a una circunstancia de
+15 cualquier artículo, cláusula, párrafo o parte de esta Ley fuera invalidada o declarada
+16 inconstitucional, la resolución, dictamen o sentencia a tal efecto dictada no afectará ni
+17 invalidará la aplicación del remanente de esta Ley a aquellas personas o circunstancias
+18 en que ésta se pueda aplicar válidamente.
+19 Sección 8. – Vigencia
+20 Esta Ley será vigente inmediatamente luego de su aprobación.
+
+[DELETED: 0   3 .r   p y p i c p t c c m a p l a r a d e p s a f y a e e e ( c i ( a ( y r l i s s]
+[DELETED:    d s c h s t m t b e c m d e a y a e P R a t d c a c s t d u c a y n e E l e d T y F d s h a p q b a e q s a c e a l p q m l t l a e A L d l o d c c c c m b c m c e C C]
+[DELETED:  A E C s c y p c c e C s l C d T A E l o d A . p . C “ c s o p d m ó s p o s d c u y u e t a p c h i “ e i “ d c]
+[DELETED:  “ p “ o a m p c r d a t u c m d  A T c a D ( E o i l t d c m h y s a h A c l e p h p c l e s c y l m i c p d t N t A L q p q u c m e s e a c e q l l p]
+[DELETED:  e c L e A L a l a a o t m c t c t b o q E p g c s l e d d c d d e l p d e t i d b e d b A T d]
+[DELETED:  A d b G d b r p l A p P d c d l p q e p p e u p d a p e C d S p h c l a d l p d p p s e l i n q c q l s p a l f p a b d c d n y f]
+[DELETED:  B d M A p e a P F d y q a c c l r p s b d l ( C m a C o d t p ( ó s p ( ( C m h C c l c d g t l l c s o p d m ó s p o s d c u y u e t a p c h i ( ( ( ( ( ( S r a u c m q s m p r p q t u c p d s y]
+[DELETED:  ó d c o c r a u m e q e s ( C o c p j p ( ( ( ( ( ( (]
+[DELETED:  l s c e n p rs n f o c g y d  ( p P p p q e y d S c m p ( P l s ( c e p l A p o s d s a d m d c c  S i b e d a l 1 s e c c “ d O d S d ( p f e p l A a p p p c]
+[DELETED:  ( d u c p e d c q s e d l p d s d c d s a d d l m ( ( ( b L p m b d e t l c c l ( d u]
+[DELETED:  ( ( l a o p l A p o s d s a l ( ( A p e e p e m p q l p a b o u s e o p ( ( p L s d e d l p ( T a P e e c l c m p d u d c ( p]
+[DELETED:  ( a m p c r d a t u c m d 6 d A V d l L N 7 c c " d l ( p c m c d n m p u p d l s d a d c c l p a y l c c y r a]
+[DELETED:  a d s p s a v N d l d e e L s o a l O d C d S ( D d e d s d s y t a r a]
+[DELETED:  t c c m s i m r b l r d o s a t e d n a i S l a a u p o a u c d]

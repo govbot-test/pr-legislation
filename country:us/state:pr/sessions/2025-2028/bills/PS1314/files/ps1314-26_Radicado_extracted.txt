@@ -1,0 +1,1088 @@
+Title: Para crear la “Ley de Inspección Autorizada de Surtidores de Combustible”, a los fines
+Official Title: Para crear la “Ley de Inspección Autorizada de Surtidores de Combustible”, a los fines
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1314
+5 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+de establecer un sistema complementario de inspección, comprobación y calibración de
+surtidores bajo la autoridad del Departamento de Asuntos del Consumidor; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Las estaciones de combustible en Puerto Rico cumplen una función esencial para la
+movilidad ciudadana, la actividad económica, la distribución de bienes, la prestación de
+servicios de emergencia y el funcionamiento ordinario de comunidades, comercios,
+transportistas, trabajadores y agencias públicas. En muchos municipios y comunidades,
+particularmente en aquellas zonas donde existe una sola estación o un número limitado
+de establecimientos, la continuidad operacional de estos comercios tiene un impacto
+directo sobre el acceso de los ciudadanos a un servicio indispensable.
+La confianza del consumidor en una estación de combustible depende, entre otros
+factores, de que los surtidores utilizados para despachar gasolina, diésel u otros
+combustibles líquidos funcionen correctamente y midan con precisión la cantidad
+vendida. Por esa razón, la inspección, comprobación, calibración y aprobación de los
+surtidores constituye una función pública de alto interés. Esta función protege al
+2
+consumidor, fortalece la integridad de las transacciones comerciales y brinda certeza al
+comerciante que cumple con los requisitos aplicables.
+El Departamento de Asuntos del Consumidor tiene jurisdicción sobre la protección
+del consumidor y sobre la fiscalización de instrumentos de pesar y medir utilizados en
+transacciones comerciales. En el caso particular de las estaciones de combustible, la
+inspección de surtidores permite verificar que el equipo cumpla con los parámetros
+técnicos aplicables y que el consumidor reciba la cantidad de combustible
+correspondiente al precio pagado.
+No obstante, la realidad operacional de Puerto Rico demuestra que la disponibilidad
+de inspectores gubernamentales puede resultar insuficiente para atender con rapidez
+todas las estaciones de la Isla. Esta limitación puede provocar que un detallista de
+combustible solicite oportunamente la inspección o recertificación de sus surtidores y,
+aun así, el sello visible expire antes de que el Gobierno pueda completar el trámite
+correspondiente. Cuando ello ocurre, el consumidor puede interpretar que la estación
+está en incumplimiento, aunque el retraso no sea atribuible al comerciante.
+Esa situación causa un daño comercial real. Un sello vencido puede generar
+desconfianza, pérdida de clientela, comentarios negativos y una percepción pública de
+incumplimiento. La política pública debe distinguir entre el detallista que incumple sus
+obligaciones y aquel que realizó la solicitud dentro del término correspondiente, pero no
+ha recibido la inspección por razones atribuibles a la capacidad administrativa del
+Estado.
+Esta Ley atiende ese problema mediante un modelo moderno y supervisado por
+DACO. Se crea el Programa de Inspección Autorizada de Surtidores de Combustible,
+mediante el cual el Departamento podrá autorizar a técnicos cualificados para realizar
+inspecciones, comprobaciones y calibraciones de surtidores, conforme a los protocolos
+oficiales aprobados por la agencia. La medida no privatiza la función reguladora ni
+desplaza la autoridad de DACO. Por el contrario, conserva a DACO como autoridad
+rectora, fiscalizadora y sancionadora, mientras permite ampliar la capacidad técnica
+disponible para atender con mayor agilidad las solicitudes de inspección.
+3
+El modelo propuesto incorpora salvaguardas específicas. Los técnicos autorizados
+deberán cumplir con requisitos de experiencia, adiestramiento, idoneidad, uso de
+instrumentos calibrados, trazabilidad documental, conservación de expedientes,
+divulgación de conflictos de interés y transmisión electrónica de resultados. DACO
+mantendrá un registro electrónico público de técnicos autorizados, auditará las
+inspecciones realizadas, podrá ordenar reinspecciones, suspender autorizaciones,
+revocar permisos y sancionar a quienes emitan informes falsos, incompletos o
+negligentes.
+Asimismo, esta Ley establece un mecanismo de prórroga provisional para el detallista
+que haya presentado una solicitud oportuna de inspección o recertificación. Cuando el
+comerciante haya solicitado el trámite antes del vencimiento del sello y no exista querella
+activa, investigación pendiente, evidencia de manipulación, alteración del equipo o
+riesgo al consumidor, el sello vigente se considerará prorrogado provisionalmente por
+un término limitado. Esta prórroga no exime al detallista de cumplir con la ley;
+únicamente evita que sea penalizado por una demora administrativa que no le es
+atribuible.
+También se autoriza el uso de sellos digitales verificables mediante código QR u otro
+mecanismo tecnológico aprobado por DACO. Este componente permitirá que el
+consumidor pueda conocer si un surtidor está aprobado, en proceso de inspección, bajo
+prórroga provisional, suspendido o fuera de servicio. De esa manera, se protege al
+consumidor mediante información clara y se protege al detallista cumplidor frente a
+interpretaciones erróneas.
+La modernización del proceso de inspección de surtidores es una medida de
+protección al consumidor, justicia comercial y eficiencia gubernamental. Esta Ley busca
+fortalecer la fiscalización, agilizar el cumplimiento, reducir la incertidumbre operacional
+y evitar que la falta de capacidad administrativa del Estado afecte injustamente a los
+detallistas de combustible que procuran operar conforme a derecho.
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. — Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley de Inspección Autorizada de
+3 Surtidores de Combustible”.
+4 Artículo 2. — Política pública.
+5 Se declara política pública del Gobierno de Puerto Rico garantizar que los
+6 surtidores de combustible utilizados en transacciones comerciales sean inspeccionados,
+7 comprobados, calibrados y aprobados de manera oportuna, confiable, verificable y
+8 uniforme, con el propósito de proteger al consumidor, promover la integridad de las
+9 transacciones comerciales y evitar que los detallistas cumplidores sean afectados por
+10 demoras administrativas no atribuibles a su conducta.
+11 A esos fines, el Departamento de Asuntos del Consumidor implantará un sistema
+12 de inspección autorizada de surtidores que complemente la capacidad operacional del
+13 Departamento, sin menoscabar su autoridad rectora, fiscalizadora, reglamentaria y
+14 sancionadora.
+15 Artículo 3. — Definiciones.
+16 Para fines de esta Ley, los siguientes términos tendrán el significado que se expresa
+17 a continuación:
+18 (a) “DACO” o “Departamento” — El Departamento de Asuntos del Consumidor
+19 del Gobierno de Puerto Rico.
+5
+1 (b) “Detallista de combustible” — Persona natural o jurídica que opera una
+2 estación dedicada a la venta al detal de gasolina, diésel u otro combustible líquido
+3 mediante surtidores.
+4 (c) “Surtidor de combustible” — Equipo, bomba, metro, dispensador o sistema
+5 utilizado para medir y despachar combustible líquido al consumidor en una transacción
+6 comercial.
+7 (d) “Técnico autorizado” — Persona natural o jurídica autorizada por DACO para
+8 realizar inspecciones, comprobaciones y calibraciones de surtidores de combustible
+9 conforme a esta Ley y a los protocolos aprobados por el Departamento.
+10 (e) “Informe de inspección autorizado” — Documento electrónico emitido por un
+11 técnico autorizado, conforme a los formularios y protocolos aprobados por DACO, en el
+12 cual se consignan las pruebas realizadas, resultados obtenidos, instrumentos utilizados,
+13 determinación técnica y recomendación correspondiente sobre el surtidor inspeccionado.
+14 (f) “Sello de aprobado” — Identificación física o digital emitida, validada o
+15 reconocida por DACO que acredita que un surtidor de combustible cumple con los
+16 requisitos de inspección, comprobación o calibración aplicables y puede utilizarse en
+17 transacciones comerciales.
+18 (g) “Sello digital verificable” — Identificación electrónica, código QR, número de
+19 validación o mecanismo tecnológico aprobado por DACO para confirmar el estatus de
+20 cumplimiento de un surtidor.
+6
+1 (h) “Solicitud oportuna” — Solicitud de inspección, comprobación, calibración o
+2 recertificación presentada antes de la fecha de vencimiento del sello de aprobado
+3 correspondiente.
+4 (i) “Prórroga provisional” — Extensión temporera del efecto del sello de aprobado
+5 anterior, disponible únicamente cuando el detallista haya presentado una solicitud
+6 oportuna y la inspección no se haya completado por causas no atribuibles al detallista.
+7 Artículo 4. — Creación del Programa de Inspección Autorizada de Surtidores de
+8 Combustible.
+9 Se crea en DACO el Programa de Inspección Autorizada de Surtidores de
+10 Combustible.
+11 El Programa tendrá el propósito de complementar la capacidad operacional del
+12 Departamento mediante la autorización de técnicos cualificados para realizar
+13 inspecciones, comprobaciones y calibraciones de surtidores de combustible, conforme a
+14 los protocolos técnicos aprobados por DACO.
+15 La autorización concedida bajo esta Ley no conferirá al técnico autorizado poderes
+16 adjudicativos, investigativos, reglamentarios ni sancionadores. DACO conservará en
+17 todo momento la autoridad final para validar, auditar, revisar, dejar sin efecto, suspender
+18 o rechazar cualquier inspección, comprobación, calibración o informe emitido por un
+19 técnico autorizado.
+20 Artículo 5. — Autoridad rectora de DACO.
+21 DACO será la autoridad rectora del Programa creado por esta Ley. En tal carácter,
+22 le corresponderá:
+7
+1 (a) Aprobar los protocolos técnicos uniformes que deberán utilizar los técnicos
+2 autorizados.
+3 (b) Establecer los requisitos de autorización, renovación, adiestramiento,
+4 evaluación y conducta profesional de los técnicos autorizados.
+5 (c) Determinar los instrumentos, equipos, medidas patrón, tolerancias, métodos
+6 de prueba, formularios, informes y evidencia mínima requerida para cada inspección.
+7 (d) Administrar el registro electrónico público de técnicos autorizados.
+8 (e) Validar electrónicamente los informes de inspección, comprobación y
+9 calibración.
+10 (f) Auditar las inspecciones realizadas por técnicos autorizados.
+11 (g) Ordenar reinspecciones cuando exista querella, inconsistencia, riesgo al
+12 consumidor, desviación técnica o cualquier otra causa justificada.
+13 (h) Suspender o revocar autorizaciones conforme a esta Ley y a la reglamentación
+14 aplicable.
+15 (i) Imponer penalidades administrativas por violaciones a esta Ley, a los
+16 reglamentos o a los protocolos técnicos aprobados.
+17 (j) Establecer el sistema electrónico para solicitudes, validaciones, prórrogas
+18 provisionales y sellos digitales verificables.
+19 La autoridad reconocida en esta Sección se ejercerá de manera compatible con la
+20 Ley Orgánica de DACO, el Reglamento de Pesas y Medidas, el Reglamento Tarifario de
+21 Pesas y Medidas, los reglamentos de precios y cualquier otra disposición legal o
+22 reglamentaria aplicable.
+8
+1 Artículo 6. — Requisitos para obtener autorización como técnico autorizado.
+2 Toda persona natural o jurídica que solicite autorización para actuar como técnico
+3 autorizado deberá cumplir, como mínimo, con los siguientes requisitos:
+4 (a) Presentar solicitud electrónica ante DACO en la forma que disponga el
+5 Departamento.
+6 (b) Acreditar experiencia mínima de tres años en instalación, inspección,
+7 mantenimiento, reparación, calibración o comprobación de surtidores de combustible o
+8 equipos de medición comercial, o una combinación equivalente de preparación técnica y
+9 experiencia que DACO determine aceptable mediante reglamento.
+10 (c) Completar y aprobar un adiestramiento oficial de DACO sobre pesas y
+11 medidas, inspección de surtidores, protocolos de comprobación, tolerancias aplicables,
+12 manejo de sellos, documentación de resultados, ética, conflictos de interés y
+13 responsabilidades bajo esta Ley.
+14 (d) Aprobar un examen teórico y práctico administrado o reconocido por DACO.
+15 (e) Demostrar que posee, utiliza o tiene acceso controlado a instrumentos de
+16 prueba, medidas patrón, recipientes volumétricos, herramientas y equipos requeridos
+17 por DACO para inspeccionar, comprobar y calibrar surtidores de combustible.
+18 (f) Presentar evidencia de que los instrumentos y medidas patrón utilizados están
+19 calibrados, vigentes e identificados conforme a los estándares reconocidos por DACO.
+20 (g) Acreditar conocimiento de los estándares técnicos aplicables a instrumentos de
+21 pesar y medir, incluyendo las especificaciones, tolerancias y métodos adoptados o
+22 reconocidos por DACO.
+9
+1 (h) Mantener póliza de responsabilidad profesional, fianza o garantía equivalente
+2 en la cuantía que establezca DACO mediante reglamento, cuando dicha garantía sea
+3 necesaria para proteger al consumidor y al interés público.
+4 (i) Certificar que no tiene conflicto de interés prohibido con el detallista, dueño,
+5 operador, suplidor, distribuidor o entidad relacionada con el surtidor objeto de
+6 inspección.
+7 (j) Autorizar a DACO a auditar sus expedientes, instrumentos, informes,
+8 certificaciones y actuaciones relacionadas con el Programa.
+9 (k) No haber sido convicto por delito que implique fraude, falsificación,
+10 apropiación ilegal, soborno, perjurio, manipulación de instrumentos de medición,
+11 alteración de documentos o cualquier otra conducta que afecte la confiabilidad de la
+12 función autorizada.
+13 DACO podrá establecer requisitos adicionales mediante reglamento, siempre que
+14 sean necesarios para garantizar la confiabilidad técnica del proceso y no constituyan
+15 barreras irrazonables de entrada.
+16 Artículo 7. — Vigencia y renovación de la autorización.
+17 La autorización expedida a un técnico autorizado tendrá una vigencia de dos años.
+18 Para renovar la autorización, el técnico deberá:
+19 (a) Presentar solicitud de renovación no menos de treinta días antes de su
+20 vencimiento.
+21 (b) Acreditar cumplimiento con los requisitos vigentes del Programa.
+22 (c) Completar los cursos de educación continua que establezca DACO.
+10
+1 (d) Presentar evidencia actualizada de calibración de instrumentos y medidas
+2 patrón.
+3 (e) Certificar que no ha incurrido en conducta incompatible con esta Ley.
+4 (f) Informar cualquier cambio material en su estructura, personal técnico,
+5 instrumentos, dirección, pólizas, fianzas o capacidad operacional.
+6 DACO podrá denegar la renovación cuando el técnico haya incumplido con esta
+7 Ley, con la reglamentación aplicable, con los protocolos técnicos o con cualquier orden
+8 emitida por el Departamento.
+9 Artículo 8. — Registro electrónico público de técnicos autorizados.
+10 DACO mantendrá un registro electrónico público, actualizado y de fácil acceso, de
+11 todos los técnicos autorizados bajo esta Ley.
+12 El registro deberá estar disponible en el portal oficial de DACO y permitirá
+13 verificar, como mínimo:
+14 (a) Nombre del técnico autorizado.
+15 (b) Número de autorización.
+16 (c) Fecha de expedición.
+17 (d) Fecha de vencimiento.
+18 (e) Estatus activo, suspendido, vencido, revocado o condicionado.
+19 (f) Alcance de la autorización.
+20 (g) Municipio o región principal de servicio.
+21 (h) Información de contacto profesional.
+11
+1 (i) Sanciones finales impuestas, cuando aplique y conforme a las normas de debido
+2 proceso.
+3 Ninguna persona natural o jurídica podrá realizar inspecciones bajo esta Ley si no
+4 aparece como activa en el registro electrónico público de DACO.
+5 Artículo 9. — Alcance de las funciones del técnico autorizado.
+6 El técnico autorizado podrá realizar únicamente las siguientes funciones, sujeto a
+7 los protocolos aprobados por DACO:
+8 (a) Inspeccionar surtidores de combustible.
+9 (b) Comprobar la medición y despacho de combustible.
+10 (c) Realizar pruebas de exactitud conforme a las tolerancias aplicables.
+11 (d) Calibrar surtidores, cuando esté expresamente autorizado para ello.
+12 (e) Documentar resultados mediante los formularios oficiales o sistemas
+13 electrónicos aprobados por DACO.
+14 (f) Recomendar la aprobación, reinspección, reparación o retiro de uso del
+15 surtidor.
+16 (g) Transmitir electrónicamente los resultados a DACO para validación.
+17 El técnico autorizado no podrá imponer multas, adjudicar querellas, ordenar
+18 cierres de estaciones, resolver controversias, sustituir determinaciones finales de DACO
+19 ni emitir sellos fuera del sistema autorizado por el Departamento.
+20 Artículo 10. — Deberes del técnico autorizado.
+21 Todo técnico autorizado deberá:
+12
+1 (a) Cumplir con los protocolos oficiales de inspección, comprobación y calibración
+2 aprobados por DACO.
+3 (b) Utilizar instrumentos calibrados, vigentes y adecuados para el tipo de prueba
+4 realizada.
+5 (c) Documentar cada inspección mediante informe electrónico.
+6 (d) Incluir en cada informe las lecturas, resultados, instrumentos utilizados,
+7 número de serie de los instrumentos, fecha de calibración de los instrumentos,
+8 identificación del surtidor, tipo de combustible, estación inspeccionada y determinación
+9 técnica.
+10 (e) Conservar copia de los informes, fotografías, lecturas, evidencia de calibración
+11 y documentos relacionados por un término no menor de cinco años.
+12 (f) Notificar inmediatamente a DACO cualquier hallazgo de manipulación,
+13 alteración, desviación significativa, sello removido, equipo intervenido indebidamente o
+14 condición que pueda afectar al consumidor.
+15 (g) Abstenerse de inspeccionar cuando exista conflicto de interés prohibido.
+16 (h) Permitir auditorías de DACO.
+17 (i) Mantener vigente su autorización, instrumentos, adiestramientos y garantías
+18 requeridas.
+19 (j) Cumplir con cualquier otra obligación establecida mediante reglamento.
+20 Artículo 11. — Conflictos de interés.
+21 Ningún técnico autorizado podrá inspeccionar, comprobar, calibrar o emitir
+22 informe sobre un surtidor cuando:
+13
+1 (a) Sea dueño, accionista, socio, empleado, contratista permanente o
+2 administrador de la estación inspeccionada.
+3 (b) Tenga interés económico directo en la operación de la estación.
+4 (c) Tenga relación familiar dentro del cuarto grado de consanguinidad o segundo
+5 de afinidad con el dueño, operador o administrador de la estación.
+6 (d) Haya participado en una alteración, reparación no documentada o
+7 intervención técnica del surtidor que pueda afectar su independencia, salvo que DACO
+8 autorice expresamente la inspección bajo condiciones especiales.
+9 (e) Exista cualquier circunstancia que pueda comprometer su independencia
+10 técnica o la confianza pública en el resultado.
+11 DACO podrá establecer mediante reglamento los casos en que una relación
+12 comercial ordinaria de mantenimiento no impedirá la inspección, siempre que exista
+13 divulgación previa, documentación completa y auditoría disponible.
+14 Artículo 12. — Prórroga provisional por solicitud oportuna.
+15 Cuando un detallista de combustible presente una solicitud oportuna de
+16 inspección, comprobación, calibración o recertificación de surtidores, y la inspección no
+17 se complete antes del vencimiento del sello por causa no atribuible al detallista, el sello
+18 anterior se considerará prorrogado provisionalmente por un término de noventa días.
+19 La prórroga provisional procederá únicamente cuando:
+20 (a) La solicitud se haya presentado antes del vencimiento del sello.
+21 (b) El detallista tenga evidencia de la solicitud presentada.
+14
+1 (c) No exista querella activa relacionada con medición incorrecta, alteración,
+2 manipulación, fraude o riesgo al consumidor.
+3 (d) No exista orden vigente de DACO para retirar de uso el surtidor.
+4 (e) El detallista no haya impedido, cancelado injustificadamente u obstaculizado
+5 la inspección.
+6 (f) El surtidor no presente condición visible que pueda inducir a error al
+7 consumidor.
+8 DACO podrá dejar sin efecto la prórroga provisional cuando advenga en
+9 conocimiento de una querella sustancial, riesgo al consumidor, información falsa,
+10 manipulación, alteración o incumplimiento del detallista.
+11 Cuando la demora continúe siendo atribuible a DACO o al sistema de inspección
+12 autorizado, el Departamento podrá extender la prórroga por un término adicional de
+13 hasta noventa días, mediante validación electrónica.
+14 Artículo 13. — Aviso de prórroga provisional y sello digital verificable.
+15 DACO emitirá un aviso electrónico de prórroga provisional que el detallista
+16 deberá mantener visible al consumidor en el surtidor o en un lugar claramente accesible
+17 de la estación.
+18 El aviso deberá incluir:
+19 (a) Número de validación emitido por DACO.
+20 (b) Fecha de presentación de la solicitud.
+21 (c) Fecha de vencimiento original del sello.
+22 (d) Fecha de expiración de la prórroga provisional.
+15
+1 (e) Identificación del surtidor cubierto.
+2 (f) Código QR o mecanismo digital de verificación.
+3 DACO deberá desarrollar un sello digital verificable que permita confirmar si un
+4 surtidor se encuentra:
+5 (a) Aprobado.
+6 (b) Pendiente de inspección por solicitud oportuna.
+7 (c) Bajo prórroga provisional.
+8 (d) Suspendido.
+9 (e) Vencido sin solicitud oportuna.
+10 (f) Fuera de servicio.
+11 La información digital deberá ser clara, accesible y comprensible para el
+12 consumidor.
+13 Artículo 14. — Deberes del detallista de combustible.
+14 Todo detallista de combustible deberá:
+15 (a) Solicitar la inspección o recertificación de sus surtidores antes del vencimiento
+16 del sello correspondiente.
+17 (b) Mantener visible el sello de aprobado, aviso de prórroga provisional o
+18 identificación digital aplicable.
+19 (c) Permitir la inspección por DACO o por el técnico autorizado.
+20 (d) Retirar de servicio cualquier surtidor que presente desperfecto, desviación,
+21 manipulación, alteración o condición que pueda afectar al consumidor.
+16
+1 (e) Conservar evidencia de solicitudes, inspecciones, reparaciones, calibraciones y
+2 comunicaciones relacionadas por un término no menor de cinco años.
+3 (f) Notificar a DACO cualquier reparación, sustitución, intervención o alteración
+4 material del surtidor que pueda requerir nueva inspección.
+5 (g) Abstenerse de remover, alterar, cubrir, falsificar o sustituir sellos físicos o
+6 digitales.
+7 Artículo 15. — Auditoría y revisión por DACO.
+8 DACO auditará las inspecciones realizadas por técnicos autorizados mediante un
+9 sistema de revisión que incluya:
+10 (a) Auditorías aleatorias.
+11 (b) Auditorías por querella.
+12 (c) Auditorías por historial de incumplimiento.
+13 (d) Auditorías por inconsistencias en informes.
+14 (e) Auditorías por región o tipo de combustible.
+15 (f) Reinspecciones de campo.
+16 DACO deberá auditar anualmente no menos del diez por ciento de las
+17 inspecciones realizadas por técnicos autorizados, sin perjuicio de auditorías adicionales
+18 cuando exista causa justificada.
+19 Si DACO determina que una inspección fue incorrecta, incompleta, negligente o
+20 contraria a los protocolos aplicables, podrá ordenar reinspección, dejar sin efecto el
+21 informe, suspender el sello, requerir medidas correctivas, imponer sanciones o suspender
+22 al técnico autorizado.
+17
+1 Artículo 16. — Prohibiciones.
+2 Se prohíbe:
+3 (a) Realizar inspecciones bajo esta Ley sin autorización vigente de DACO.
+4 (b) Emitir informes falsos, incompletos, alterados o negligentes.
+5 (c) Utilizar instrumentos o medidas patrón no calibradas, vencidas o no
+6 autorizadas.
+7 (d) Aprobar un surtidor sin realizar las pruebas requeridas.
+8 (e) Alterar, remover, falsificar o utilizar indebidamente sellos físicos o digitales.
+9 (f) Manipular un surtidor para alterar la cantidad de combustible despachada.
+10 (g) Usar una prórroga provisional para operar un surtidor con desperfecto
+11 conocido.
+12 (h) Impedir u obstaculizar una inspección o auditoría de DACO.
+13 (i) Ocultar conflictos de interés.
+14 (j) Presentar información falsa en una solicitud, informe, certificación, renovación
+15 o validación.
+16 Artículo 17. — Penalidades administrativas.
+17 DACO podrá imponer las siguientes penalidades administrativas:
+18 (a) A toda persona que realice inspecciones sin autorización vigente de DACO,
+19 multa administrativa no menor de mil dólares ($1,000) ni mayor de cinco mil dólares
+20 ($5,000) por cada infracción.
+21 (b) A todo técnico autorizado que emita un informe falso, alterado, incompleto o
+22 negligente, multa administrativa no menor de dos mil quinientos dólares ($2,500) ni
+18
+1 mayor de diez mil dólares ($10,000) por cada infracción, sin perjuicio de la suspensión o
+2 revocación de su autorización.
+3 (c) A todo técnico autorizado que utilice instrumentos o medidas patrón no
+4 calibradas, vencidas o no autorizadas, multa administrativa no menor de mil dólares
+5 ($1,000) ni mayor de cinco mil dólares ($5,000) por cada infracción.
+6 (d) A todo detallista que altere, falsifique, remueva o utilice indebidamente un
+7 sello físico, sello digital o aviso de prórroga provisional, multa administrativa no menor
+8 de dos mil quinientos dólares ($2,500) ni mayor de diez mil dólares ($10,000) por cada
+9 infracción.
+10 (e) A todo detallista que opere un surtidor con conocimiento de manipulación,
+11 desperfecto, desviación significativa o riesgo al consumidor, multa administrativa no
+12 menor de cinco mil dólares ($5,000) ni mayor de quince mil dólares ($15,000) por cada
+13 surtidor afectado.
+14 (f) A toda persona que impida u obstaculice una inspección, auditoría o
+15 investigación de DACO, multa administrativa no menor de mil dólares ($1,000) ni mayor
+16 de cinco mil dólares ($5,000) por cada infracción.
+17 (g) A toda persona que presente información falsa en una solicitud, informe,
+18 validación, renovación o certificación, multa administrativa no menor de dos mil
+19 quinientos dólares ($2,500) ni mayor de diez mil dólares ($10,000) por cada infracción.
+20 Cada surtidor afectado, cada informe emitido y cada acto separado podrá
+21 constituir una infracción independiente.
+19
+1 En casos de reincidencia, fraude, manipulación intencional, daño económico al
+2 consumidor o riesgo sustancial al mercado, DACO podrá duplicar las multas aquí
+3 establecidas, suspender autorizaciones, ordenar el retiro de uso del surtidor, referir el
+4 asunto al Departamento de Justicia o imponer cualquier otro remedio permitido por ley.
+5 Artículo 18. — Suspensión o revocación de la autorización.
+6 DACO podrá suspender, revocar, denegar o condicionar la autorización de un
+7 técnico autorizado cuando determine que este:
+8 (a) Incumplió los protocolos técnicos aprobados por DACO.
+9 (b) Emitió informes falsos, incompletos, negligentes o incorrectos.
+10 (c) Utilizó instrumentos o medidas patrón no calibradas o vencidas.
+11 (d) Ocultó información relevante.
+12 (e) Actuó con conflicto de interés prohibido.
+13 (f) Obstruyó una auditoría o investigación.
+14 (g) Perdió la competencia técnica requerida.
+15 (h) Incurrió en conducta incompatible con la confianza pública.
+16 DACO garantizará el debido proceso de ley antes de una suspensión o revocación
+17 final. No obstante, cuando exista riesgo al consumidor, fraude aparente, manipulación de
+18 surtidores o peligro de daño económico, DACO podrá emitir una suspensión sumaria
+19 provisional conforme al ordenamiento jurídico aplicable.
+20 Artículo 19. — Derechos de solicitud y renovación.
+21 DACO podrá establecer mediante reglamento derechos razonables por concepto
+22 de solicitud, autorización, renovación, examen y adiestramiento de técnicos autorizados.
+20
+1 Dichos derechos deberán estar relacionados con el costo administrativo del
+2 Programa y no podrán imponerse al detallista como condición para obtener la prórroga
+3 provisional dispuesta en esta Ley.
+4 Nada de lo dispuesto en esta Sección autoriza a DACO a imponer cargos
+5 adicionales al detallista por ejercer el derecho a solicitar oportunamente la inspección o
+6 recertificación de sus surtidores.
+7 Artículo 20. — Implantación.
+8 DACO implantará esta Ley conforme al siguiente calendario:
+9 (a) Dentro de los noventa días siguientes a la aprobación de esta Ley, DACO
+10 publicará los protocolos técnicos preliminares para inspección, comprobación y
+11 calibración de surtidores.
+12 (b) Dentro de los ciento veinte días siguientes a la aprobación de esta Ley, DACO
+13 habilitará el sistema electrónico para solicitudes de autorización de técnicos y para el
+14 registro electrónico público.
+15 (c) Dentro de los ciento ochenta días siguientes a la aprobación de esta Ley, DACO
+16 comenzará a recibir y evaluar solicitudes de técnicos autorizados.
+17 (d) Dentro de los doscientos cuarenta días siguientes a la aprobación de esta Ley,
+18 DACO deberá tener operacional el sistema de prórroga provisional por solicitud
+19 oportuna y el mecanismo de validación digital.
+20 (e) Dentro de los trescientos sesenta días siguientes a la aprobación de esta Ley,
+21 DACO deberá tener implantado el sello digital verificable para los surtidores cubiertos
+22 por el Programa.
+21
+1 Durante el primer año de implantación, DACO dará prioridad a las estaciones
+2 cuyos sellos estén vencidos o próximos a vencer, a las solicitudes pendientes por más de
+3 treinta días, y a estaciones ubicadas en municipios o comunidades con acceso limitado a
+4 combustible.
+5 Artículo 21. — Reglamentación.
+6 DACO adoptará la reglamentación necesaria para implementar esta Ley dentro de
+7 un término no mayor de ciento ochenta días contados a partir de su aprobación.
+8 La reglamentación deberá incluir, como mínimo:
+9 (a) Requisitos de autorización y renovación de técnicos autorizados.
+10 (b) Protocolos técnicos de inspección, comprobación y calibración.
+11 (c) Instrumentos requeridos y estándares de calibración.
+12 (d) Contenido mínimo de informes electrónicos.
+13 (e) Procedimiento para prórrogas provisionales.
+14 (f) Diseño y validación del sello digital verificable.
+15 (g) Criterios de auditoría.
+16 (h) Procedimiento de suspensión y revocación.
+17 (i) Manejo de conflictos de interés.
+18 (j) Derechos de solicitud y renovación aplicables a técnicos autorizados.
+19 (k) Disposiciones transitorias para la implantación inicial del Programa.
+20 Hasta tanto se apruebe la reglamentación final, DACO podrá emitir órdenes
+21 administrativas, cartas circulares o guías técnicas provisionales que sean compatibles con
+22 esta Ley.
+22
+1 Artículo 22. — Cláusula de no menoscabo.
+2 Nada de lo dispuesto en esta Ley limitará las facultades de DACO bajo su Ley
+3 Orgánica, el Reglamento de Pesas y Medidas, el Reglamento Tarifario de Pesas y
+4 Medidas, los reglamentos de precios, órdenes administrativas o cualquier otra
+5 disposición aplicable a protección del consumidor, inspección de instrumentos de
+6 medición, fiscalización de combustibles o cumplimiento comercial.
+7 Artículo 23. — Separabilidad.
+8 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, inciso, sección o parte
+9 de esta Ley fuera anulada o declarada inconstitucional por un tribunal con jurisdicción,
+10 la sentencia dictada no afectará ni invalidará las demás disposiciones de esta Ley. El
+11 efecto de dicha sentencia quedará limitado a la disposición que haya sido anulada o
+12 declarada inconstitucional.
+13 Artículo 24. — Vigencia.
+14 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL    d e y e f o d c c e l c o d e c t u i d q l s u p d g d u o l f c y m c p l c c u f p d a i E f p a]
+[DELETED:  c E e c p d l e d c l d s p v q e e c c l p a y q e c r l c d c l e d l I E l p p q u d d a e s v e a d q e G p c e t s c u d c r U s v p g r l i p r a a l c a d L a e p m u m m y s p a p l a L m n p l f r n f y s m p a l c t]
+[DELETED:  c c r d e a i u d c t d c d e d c d i y t e d r D u r e p d t a a l r p o r s a p y s a q e i f i o i p e d m a d e o t l E p n e a d d c c l l e q s p p u d a q n l e t a p D E c p q e p s o f d s D e m s p a m i c y s p a d c f m d p d i d s e u m d]
+[DELETED:  d p p d G d P R g q l c y a d m o c v y c y e q l c s a p s m s a r f r y]
+[DELETED:  “ d c — P n o j q o u d a l v a d d g d u o c l i c y c d s d c “ d a — I f o d e v o p D q a q u s d c c c l]
+[DELETED:  p a d l f d v d s d a d ú c e d h p u s c e D e P d I A d S d m l a d t c p r i r n s D c e]
+[DELETED:  E l r d a r a V e l i d i c y O r c e q i r a I p a p v a e L a l E e s e p s v p y M l r d p y c o d l o]
+[DELETED:  P s e a D e l f q d e A e m d t a e i i C y a u a o d D s p y d s d d r é c d i y D q p u o t a c a i d y m i l e t y m a o]
+[DELETED:  s d o e r c e s o d A a D a a s e i i N h s c p d q i f f i s p m d i d m g P s d r n m d t d a d s]
+[DELETED:  P e a d c d i y m I c c m e s e p t r d e d e e p o d D y p]
+[DELETED:  D r m l f o o s R l a r r o r d u d t a n p i m a q o]
+[DELETED:  I e c i l l r i u d s d l i f d c d l i N i a D c h d m t a p i c c o e]
+[DELETED:  S d a s e c p o H p e u a r n d o E c c q p c s i p e m r l c e q u r u d d c p u s o d]
+[DELETED:  N e q a r c m i a E s n p c v q p i a e a p d s e l p p c a e d u q s r a c i f e u a e d p p q e d]
+[DELETED:  i d d s c a y c p e M v e s d a a d p p o]
+[DELETED:  A d r a c f o s s f o d a a n m d d p c d l a l p a p o r d s e e]
+[DELETED:  U i o m p n c v o n U u p p p o u s c d m a n m d d m q d ( n]
+[DELETED:  A t t a q u i o m p n A t p q i u o u i a o A t p q p i f e u s i r o c m a n m d d m s a c i e y c a s p]
+[DELETED:  o r s a m D p d l m a]
+[DELETED:  d d e r c e c a d d l d e e S a a D a i c D d l n d s a l a d e L D l p t p p i c y d t o e s d p p p s]
+[DELETED:  t s a l r f D p e ó]
+[DELETED:  e R d P y M e R T d P y l r d p ó a o c o a a p d c i d i d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1314
+5 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para crear la “Ley de Inspección Autorizada de Surtidores de Combustible”, a los fines
+de establecer un sistema complementario de inspección, comprobación y calibración de
+surtidores bajo la autoridad del Departamento de Asuntos del Consumidor; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Las estaciones de combustible en Puerto Rico cumplen una función esencial para la
+movilidad ciudadana, la actividad económica, la distribución de bienes, la prestación de
+servicios de emergencia y el funcionamiento ordinario de comunidades, comercios,
+transportistas, trabajadores y agencias públicas. En muchos municipios y comunidades,
+particularmente en aquellas zonas donde existe una sola estación o un número limitado
+de establecimientos, la continuidad operacional de estos comercios tiene un impacto
+directo sobre el acceso de los ciudadanos a un servicio indispensable.
+La confianza del consumidor en una estación de combustible depende, entre otros
+factores, de que los surtidores utilizados para despachar gasolina, diésel u otros
+combustibles líquidos funcionen correctamente y midan con precisión la cantidad
+vendida. Por esa razón, la inspección, comprobación, calibración y aprobación de los
+surtidores constituye una función pública de alto interés. Esta función protege al
+
+2
+consumidor, fortalece la integridad de las transacciones comerciales y brinda certeza al
+comerciante que cumple con los requisitos aplicables.
+El Departamento de Asuntos del Consumidor tiene jurisdicción sobre la protección
+del consumidor y sobre la fiscalización de instrumentos de pesar y medir utilizados en
+transacciones comerciales. En el caso particular de las estaciones de combustible, la
+inspección de surtidores permite verificar que el equipo cumpla con los parámetros
+técnicos aplicables y que el consumidor reciba la cantidad de combustible
+correspondiente al precio pagado.
+No obstante, la realidad operacional de Puerto Rico demuestra que la disponibilidad
+de inspectores gubernamentales puede resultar insuficiente para atender con rapidez
+todas las estaciones de la Isla. Esta limitación puede provocar que un detallista de
+combustible solicite oportunamente la inspección o recertificación de sus surtidores y,
+aun así, el sello visible expire antes de que el Gobierno pueda completar el trámite
+correspondiente. Cuando ello ocurre, el consumidor puede interpretar que la estación
+está en incumplimiento, aunque el retraso no sea atribuible al comerciante.
+Esa situación causa un daño comercial real. Un sello vencido puede generar
+desconfianza, pérdida de clientela, comentarios negativos y una percepción pública de
+incumplimiento. La política pública debe distinguir entre el detallista que incumple sus
+obligaciones y aquel que realizó la solicitud dentro del término correspondiente, pero no
+ha recibido la inspección por razones atribuibles a la capacidad administrativa del
+Estado.
+Esta Ley atiende ese problema mediante un modelo moderno y supervisado por
+DACO. Se crea el Programa de Inspección Autorizada de Surtidores de Combustible,
+mediante el cual el Departamento podrá autorizar a técnicos cualificados para realizar
+inspecciones, comprobaciones y calibraciones de surtidores, conforme a los protocolos
+oficiales aprobados por la agencia. La medida no privatiza la función reguladora ni
+desplaza la autoridad de DACO. Por el contrario, conserva a DACO como autoridad
+rectora, fiscalizadora y sancionadora, mientras permite ampliar la capacidad técnica
+disponible para atender con mayor agilidad las solicitudes de inspección.
+
+3
+El modelo propuesto incorpora salvaguardas específicas. Los técnicos autorizados
+deberán cumplir con requisitos de experiencia, adiestramiento, idoneidad, uso de
+instrumentos calibrados, trazabilidad documental, conservación de expedientes,
+divulgación de conflictos de interés y transmisión electrónica de resultados. DACO
+mantendrá un registro electrónico público de técnicos autorizados, auditará las
+inspecciones realizadas, podrá ordenar reinspecciones, suspender autorizaciones,
+revocar permisos y sancionar a quienes emitan informes falsos, incompletos o
+negligentes.
+Asimismo, esta Ley establece un mecanismo de prórroga provisional para el detallista
+que haya presentado una solicitud oportuna de inspección o recertificación. Cuando el
+comerciante haya solicitado el trámite antes del vencimiento del sello y no exista querella
+activa, investigación pendiente, evidencia de manipulación, alteración del equipo o
+riesgo al consumidor, el sello vigente se considerará prorrogado provisionalmente por
+un término limitado. Esta prórroga no exime al detallista de cumplir con la ley;
+únicamente evita que sea penalizado por una demora administrativa que no le es
+atribuible.
+También se autoriza el uso de sellos digitales verificables mediante código QR u otro
+mecanismo tecnológico aprobado por DACO. Este componente permitirá que el
+consumidor pueda conocer si un surtidor está aprobado, en proceso de inspección, bajo
+prórroga provisional, suspendido o fuera de servicio. De esa manera, se protege al
+consumidor mediante información clara y se protege al detallista cumplidor frente a
+interpretaciones erróneas.
+La modernización del proceso de inspección de surtidores es una medida de
+protección al consumidor, justicia comercial y eficiencia gubernamental. Esta Ley busca
+fortalecer la fiscalización, agilizar el cumplimiento, reducir la incertidumbre operacional
+y evitar que la falta de capacidad administrativa del Estado afecte injustamente a los
+detallistas de combustible que procuran operar conforme a derecho.
+
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. — Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley de Inspección Autorizada de
+3 Surtidores de Combustible”.
+4 Artículo 2. — Política pública.
+5 Se declara política pública del Gobierno de Puerto Rico garantizar que los
+6 surtidores de combustible utilizados en transacciones comerciales sean inspeccionados,
+7 comprobados, calibrados y aprobados de manera oportuna, confiable, verificable y
+8 uniforme, con el propósito de proteger al consumidor, promover la integridad de las
+9 transacciones comerciales y evitar que los detallistas cumplidores sean afectados por
+10 demoras administrativas no atribuibles a su conducta.
+11 A esos fines, el Departamento de Asuntos del Consumidor implantará un sistema
+12 de inspección autorizada de surtidores que complemente la capacidad operacional del
+13 Departamento, sin menoscabar su autoridad rectora, fiscalizadora, reglamentaria y
+14 sancionadora.
+15 Artículo 3. — Definiciones.
+16 Para fines de esta Ley, los siguientes términos tendrán el significado que se expresa
+17 a continuación:
+18 (a) “DACO” o “Departamento” — El Departamento de Asuntos del Consumidor
+19 del Gobierno de Puerto Rico.
+
+5
+1 (b) “Detallista de combustible” — Persona natural o jurídica que opera una
+2 estación dedicada a la venta al detal de gasolina, diésel u otro combustible líquido
+3 mediante surtidores.
+4 (c) “Surtidor de combustible” — Equipo, bomba, metro, dispensador o sistema
+5 utilizado para medir y despachar combustible líquido al consumidor en una transacción
+6 comercial.
+7 (d) “Técnico autorizado” — Persona natural o jurídica autorizada por DACO para
+8 realizar inspecciones, comprobaciones y calibraciones de surtidores de combustible
+9 conforme a esta Ley y a los protocolos aprobados por el Departamento.
+10 (e) “Informe de inspección autorizado” — Documento electrónico emitido por un
+11 técnico autorizado, conforme a los formularios y protocolos aprobados por DACO, en el
+12 cual se consignan las pruebas realizadas, resultados obtenidos, instrumentos utilizados,
+13 determinación técnica y recomendación correspondiente sobre el surtidor inspeccionado.
+14 (f) “Sello de aprobado” — Identificación física o digital emitida, validada o
+15 reconocida por DACO que acredita que un surtidor de combustible cumple con los
+16 requisitos de inspección, comprobación o calibración aplicables y puede utilizarse en
+17 transacciones comerciales.
+18 (g) “Sello digital verificable” — Identificación electrónica, código QR, número de
+19 validación o mecanismo tecnológico aprobado por DACO para confirmar el estatus de
+20 cumplimiento de un surtidor.
+
+6
+1 (h) “Solicitud oportuna” — Solicitud de inspección, comprobación, calibración o
+2 recertificación presentada antes de la fecha de vencimiento del sello de aprobado
+3 correspondiente.
+4 (i) “Prórroga provisional” — Extensión temporera del efecto del sello de aprobado
+5 anterior, disponible únicamente cuando el detallista haya presentado una solicitud
+6 oportuna y la inspección no se haya completado por causas no atribuibles al detallista.
+7 Artículo 4. — Creación del Programa de Inspección Autorizada de Surtidores de
+8 Combustible.
+9 Se crea en DACO el Programa de Inspección Autorizada de Surtidores de
+10 Combustible.
+11 El Programa tendrá el propósito de complementar la capacidad operacional del
+12 Departamento mediante la autorización de técnicos cualificados para realizar
+13 inspecciones, comprobaciones y calibraciones de surtidores de combustible, conforme a
+14 los protocolos técnicos aprobados por DACO.
+15 La autorización concedida bajo esta Ley no conferirá al técnico autorizado poderes
+16 adjudicativos, investigativos, reglamentarios ni sancionadores. DACO conservará en
+17 todo momento la autoridad final para validar, auditar, revisar, dejar sin efecto, suspender
+18 o rechazar cualquier inspección, comprobación, calibración o informe emitido por un
+19 técnico autorizado.
+20 Artículo 5. — Autoridad rectora de DACO.
+21 DACO será la autoridad rectora del Programa creado por esta Ley. En tal carácter,
+22 le corresponderá:
+
+7
+1 (a) Aprobar los protocolos técnicos uniformes que deberán utilizar los técnicos
+2 autorizados.
+3 (b) Establecer los requisitos de autorización, renovación, adiestramiento,
+4 evaluación y conducta profesional de los técnicos autorizados.
+5 (c) Determinar los instrumentos, equipos, medidas patrón, tolerancias, métodos
+6 de prueba, formularios, informes y evidencia mínima requerida para cada inspección.
+7 (d) Administrar el registro electrónico público de técnicos autorizados.
+8 (e) Validar electrónicamente los informes de inspección, comprobación y
+9 calibración.
+10 (f) Auditar las inspecciones realizadas por técnicos autorizados.
+11 (g) Ordenar reinspecciones cuando exista querella, inconsistencia, riesgo al
+12 consumidor, desviación técnica o cualquier otra causa justificada.
+13 (h) Suspender o revocar autorizaciones conforme a esta Ley y a la reglamentación
+14 aplicable.
+15 (i) Imponer penalidades administrativas por violaciones a esta Ley, a los
+16 reglamentos o a los protocolos técnicos aprobados.
+17 (j) Establecer el sistema electrónico para solicitudes, validaciones, prórrogas
+18 provisionales y sellos digitales verificables.
+19 La autoridad reconocida en esta Sección se ejercerá de manera compatible con la
+20 Ley Orgánica de DACO, el Reglamento de Pesas y Medidas, el Reglamento Tarifario de
+21 Pesas y Medidas, los reglamentos de precios y cualquier otra disposición legal o
+22 reglamentaria aplicable.
+
+8
+1 Artículo 6. — Requisitos para obtener autorización como técnico autorizado.
+2 Toda persona natural o jurídica que solicite autorización para actuar como técnico
+3 autorizado deberá cumplir, como mínimo, con los siguientes requisitos:
+4 (a) Presentar solicitud electrónica ante DACO en la forma que disponga el
+5 Departamento.
+6 (b) Acreditar experiencia mínima de tres años en instalación, inspección,
+7 mantenimiento, reparación, calibración o comprobación de surtidores de combustible o
+8 equipos de medición comercial, o una combinación equivalente de preparación técnica y
+9 experiencia que DACO determine aceptable mediante reglamento.
+10 (c) Completar y aprobar un adiestramiento oficial de DACO sobre pesas y
+11 medidas, inspección de surtidores, protocolos de comprobación, tolerancias aplicables,
+12 manejo de sellos, documentación de resultados, ética, conflictos de interés y
+13 responsabilidades bajo esta Ley.
+14 (d) Aprobar un examen teórico y práctico administrado o reconocido por DACO.
+15 (e) Demostrar que posee, utiliza o tiene acceso controlado a instrumentos de
+16 prueba, medidas patrón, recipientes volumétricos, herramientas y equipos requeridos
+17 por DACO para inspeccionar, comprobar y calibrar surtidores de combustible.
+18 (f) Presentar evidencia de que los instrumentos y medidas patrón utilizados están
+19 calibrados, vigentes e identificados conforme a los estándares reconocidos por DACO.
+20 (g) Acreditar conocimiento de los estándares técnicos aplicables a instrumentos de
+21 pesar y medir, incluyendo las especificaciones, tolerancias y métodos adoptados o
+22 reconocidos por DACO.
+
+9
+1 (h) Mantener póliza de responsabilidad profesional, fianza o garantía equivalente
+2 en la cuantía que establezca DACO mediante reglamento, cuando dicha garantía sea
+3 necesaria para proteger al consumidor y al interés público.
+4 (i) Certificar que no tiene conflicto de interés prohibido con el detallista, dueño,
+5 operador, suplidor, distribuidor o entidad relacionada con el surtidor objeto de
+6 inspección.
+7 (j) Autorizar a DACO a auditar sus expedientes, instrumentos, informes,
+8 certificaciones y actuaciones relacionadas con el Programa.
+9 (k) No haber sido convicto por delito que implique fraude, falsificación,
+10 apropiación ilegal, soborno, perjurio, manipulación de instrumentos de medición,
+11 alteración de documentos o cualquier otra conducta que afecte la confiabilidad de la
+12 función autorizada.
+13 DACO podrá establecer requisitos adicionales mediante reglamento, siempre que
+14 sean necesarios para garantizar la confiabilidad técnica del proceso y no constituyan
+15 barreras irrazonables de entrada.
+16 Artículo 7. — Vigencia y renovación de la autorización.
+17 La autorización expedida a un técnico autorizado tendrá una vigencia de dos años.
+18 Para renovar la autorización, el técnico deberá:
+19 (a) Presentar solicitud de renovación no menos de treinta días antes de su
+20 vencimiento.
+21 (b) Acreditar cumplimiento con los requisitos vigentes del Programa.
+22 (c) Completar los cursos de educación continua que establezca DACO.
+
+10
+1 (d) Presentar evidencia actualizada de calibración de instrumentos y medidas
+2 patrón.
+3 (e) Certificar que no ha incurrido en conducta incompatible con esta Ley.
+4 (f) Informar cualquier cambio material en su estructura, personal técnico,
+5 instrumentos, dirección, pólizas, fianzas o capacidad operacional.
+6 DACO podrá denegar la renovación cuando el técnico haya incumplido con esta
+7 Ley, con la reglamentación aplicable, con los protocolos técnicos o con cualquier orden
+8 emitida por el Departamento.
+9 Artículo 8. — Registro electrónico público de técnicos autorizados.
+10 DACO mantendrá un registro electrónico público, actualizado y de fácil acceso, de
+11 todos los técnicos autorizados bajo esta Ley.
+12 El registro deberá estar disponible en el portal oficial de DACO y permitirá
+13 verificar, como mínimo:
+14 (a) Nombre del técnico autorizado.
+15 (b) Número de autorización.
+16 (c) Fecha de expedición.
+17 (d) Fecha de vencimiento.
+18 (e) Estatus activo, suspendido, vencido, revocado o condicionado.
+19 (f) Alcance de la autorización.
+20 (g) Municipio o región principal de servicio.
+21 (h) Información de contacto profesional.
+
+11
+1 (i) Sanciones finales impuestas, cuando aplique y conforme a las normas de debido
+2 proceso.
+3 Ninguna persona natural o jurídica podrá realizar inspecciones bajo esta Ley si no
+4 aparece como activa en el registro electrónico público de DACO.
+5 Artículo 9. — Alcance de las funciones del técnico autorizado.
+6 El técnico autorizado podrá realizar únicamente las siguientes funciones, sujeto a
+7 los protocolos aprobados por DACO:
+8 (a) Inspeccionar surtidores de combustible.
+9 (b) Comprobar la medición y despacho de combustible.
+10 (c) Realizar pruebas de exactitud conforme a las tolerancias aplicables.
+11 (d) Calibrar surtidores, cuando esté expresamente autorizado para ello.
+12 (e) Documentar resultados mediante los formularios oficiales o sistemas
+13 electrónicos aprobados por DACO.
+14 (f) Recomendar la aprobación, reinspección, reparación o retiro de uso del
+15 surtidor.
+16 (g) Transmitir electrónicamente los resultados a DACO para validación.
+17 El técnico autorizado no podrá imponer multas, adjudicar querellas, ordenar
+18 cierres de estaciones, resolver controversias, sustituir determinaciones finales de DACO
+19 ni emitir sellos fuera del sistema autorizado por el Departamento.
+20 Artículo 10. — Deberes del técnico autorizado.
+21 Todo técnico autorizado deberá:
+
+12
+1 (a) Cumplir con los protocolos oficiales de inspección, comprobación y calibración
+2 aprobados por DACO.
+3 (b) Utilizar instrumentos calibrados, vigentes y adecuados para el tipo de prueba
+4 realizada.
+5 (c) Documentar cada inspección mediante informe electrónico.
+6 (d) Incluir en cada informe las lecturas, resultados, instrumentos utilizados,
+7 número de serie de los instrumentos, fecha de calibración de los instrumentos,
+8 identificación del surtidor, tipo de combustible, estación inspeccionada y determinación
+9 técnica.
+10 (e) Conservar copia de los informes, fotografías, lecturas, evidencia de calibración
+11 y documentos relacionados por un término no menor de cinco años.
+12 (f) Notificar inmediatamente a DACO cualquier hallazgo de manipulación,
+13 alteración, desviación significativa, sello removido, equipo intervenido indebidamente o
+14 condición que pueda afectar al consumidor.
+15 (g) Abstenerse de inspeccionar cuando exista conflicto de interés prohibido.
+16 (h) Permitir auditorías de DACO.
+17 (i) Mantener vigente su autorización, instrumentos, adiestramientos y garantías
+18 requeridas.
+19 (j) Cumplir con cualquier otra obligación establecida mediante reglamento.
+20 Artículo 11. — Conflictos de interés.
+21 Ningún técnico autorizado podrá inspeccionar, comprobar, calibrar o emitir
+22 informe sobre un surtidor cuando:
+
+13
+1 (a) Sea dueño, accionista, socio, empleado, contratista permanente o
+2 administrador de la estación inspeccionada.
+3 (b) Tenga interés económico directo en la operación de la estación.
+4 (c) Tenga relación familiar dentro del cuarto grado de consanguinidad o segundo
+5 de afinidad con el dueño, operador o administrador de la estación.
+6 (d) Haya participado en una alteración, reparación no documentada o
+7 intervención técnica del surtidor que pueda afectar su independencia, salvo que DACO
+8 autorice expresamente la inspección bajo condiciones especiales.
+9 (e) Exista cualquier circunstancia que pueda comprometer su independencia
+10 técnica o la confianza pública en el resultado.
+11 DACO podrá establecer mediante reglamento los casos en que una relación
+12 comercial ordinaria de mantenimiento no impedirá la inspección, siempre que exista
+13 divulgación previa, documentación completa y auditoría disponible.
+14 Artículo 12. — Prórroga provisional por solicitud oportuna.
+15 Cuando un detallista de combustible presente una solicitud oportuna de
+16 inspección, comprobación, calibración o recertificación de surtidores, y la inspección no
+17 se complete antes del vencimiento del sello por causa no atribuible al detallista, el sello
+18 anterior se considerará prorrogado provisionalmente por un término de noventa días.
+19 La prórroga provisional procederá únicamente cuando:
+20 (a) La solicitud se haya presentado antes del vencimiento del sello.
+21 (b) El detallista tenga evidencia de la solicitud presentada.
+
+14
+1 (c) No exista querella activa relacionada con medición incorrecta, alteración,
+2 manipulación, fraude o riesgo al consumidor.
+3 (d) No exista orden vigente de DACO para retirar de uso el surtidor.
+4 (e) El detallista no haya impedido, cancelado injustificadamente u obstaculizado
+5 la inspección.
+6 (f) El surtidor no presente condición visible que pueda inducir a error al
+7 consumidor.
+8 DACO podrá dejar sin efecto la prórroga provisional cuando advenga en
+9 conocimiento de una querella sustancial, riesgo al consumidor, información falsa,
+10 manipulación, alteración o incumplimiento del detallista.
+11 Cuando la demora continúe siendo atribuible a DACO o al sistema de inspección
+12 autorizado, el Departamento podrá extender la prórroga por un término adicional de
+13 hasta noventa días, mediante validación electrónica.
+14 Artículo 13. — Aviso de prórroga provisional y sello digital verificable.
+15 DACO emitirá un aviso electrónico de prórroga provisional que el detallista
+16 deberá mantener visible al consumidor en el surtidor o en un lugar claramente accesible
+17 de la estación.
+18 El aviso deberá incluir:
+19 (a) Número de validación emitido por DACO.
+20 (b) Fecha de presentación de la solicitud.
+21 (c) Fecha de vencimiento original del sello.
+22 (d) Fecha de expiración de la prórroga provisional.
+
+15
+1 (e) Identificación del surtidor cubierto.
+2 (f) Código QR o mecanismo digital de verificación.
+3 DACO deberá desarrollar un sello digital verificable que permita confirmar si un
+4 surtidor se encuentra:
+5 (a) Aprobado.
+6 (b) Pendiente de inspección por solicitud oportuna.
+7 (c) Bajo prórroga provisional.
+8 (d) Suspendido.
+9 (e) Vencido sin solicitud oportuna.
+10 (f) Fuera de servicio.
+11 La información digital deberá ser clara, accesible y comprensible para el
+12 consumidor.
+13 Artículo 14. — Deberes del detallista de combustible.
+14 Todo detallista de combustible deberá:
+15 (a) Solicitar la inspección o recertificación de sus surtidores antes del vencimiento
+16 del sello correspondiente.
+17 (b) Mantener visible el sello de aprobado, aviso de prórroga provisional o
+18 identificación digital aplicable.
+19 (c) Permitir la inspección por DACO o por el técnico autorizado.
+20 (d) Retirar de servicio cualquier surtidor que presente desperfecto, desviación,
+21 manipulación, alteración o condición que pueda afectar al consumidor.
+
+16
+1 (e) Conservar evidencia de solicitudes, inspecciones, reparaciones, calibraciones y
+2 comunicaciones relacionadas por un término no menor de cinco años.
+3 (f) Notificar a DACO cualquier reparación, sustitución, intervención o alteración
+4 material del surtidor que pueda requerir nueva inspección.
+5 (g) Abstenerse de remover, alterar, cubrir, falsificar o sustituir sellos físicos o
+6 digitales.
+7 Artículo 15. — Auditoría y revisión por DACO.
+8 DACO auditará las inspecciones realizadas por técnicos autorizados mediante un
+9 sistema de revisión que incluya:
+10 (a) Auditorías aleatorias.
+11 (b) Auditorías por querella.
+12 (c) Auditorías por historial de incumplimiento.
+13 (d) Auditorías por inconsistencias en informes.
+14 (e) Auditorías por región o tipo de combustible.
+15 (f) Reinspecciones de campo.
+16 DACO deberá auditar anualmente no menos del diez por ciento de las
+17 inspecciones realizadas por técnicos autorizados, sin perjuicio de auditorías adicionales
+18 cuando exista causa justificada.
+19 Si DACO determina que una inspección fue incorrecta, incompleta, negligente o
+20 contraria a los protocolos aplicables, podrá ordenar reinspección, dejar sin efecto el
+21 informe, suspender el sello, requerir medidas correctivas, imponer sanciones o suspender
+22 al técnico autorizado.
+
+17
+1 Artículo 16. — Prohibiciones.
+2 Se prohíbe:
+3 (a) Realizar inspecciones bajo esta Ley sin autorización vigente de DACO.
+4 (b) Emitir informes falsos, incompletos, alterados o negligentes.
+5 (c) Utilizar instrumentos o medidas patrón no calibradas, vencidas o no
+6 autorizadas.
+7 (d) Aprobar un surtidor sin realizar las pruebas requeridas.
+8 (e) Alterar, remover, falsificar o utilizar indebidamente sellos físicos o digitales.
+9 (f) Manipular un surtidor para alterar la cantidad de combustible despachada.
+10 (g) Usar una prórroga provisional para operar un surtidor con desperfecto
+11 conocido.
+12 (h) Impedir u obstaculizar una inspección o auditoría de DACO.
+13 (i) Ocultar conflictos de interés.
+14 (j) Presentar información falsa en una solicitud, informe, certificación, renovación
+15 o validación.
+16 Artículo 17. — Penalidades administrativas.
+17 DACO podrá imponer las siguientes penalidades administrativas:
+18 (a) A toda persona que realice inspecciones sin autorización vigente de DACO,
+19 multa administrativa no menor de mil dólares ($1,000) ni mayor de cinco mil dólares
+20 ($5,000) por cada infracción.
+21 (b) A todo técnico autorizado que emita un informe falso, alterado, incompleto o
+22 negligente, multa administrativa no menor de dos mil quinientos dólares ($2,500) ni
+
+18
+1 mayor de diez mil dólares ($10,000) por cada infracción, sin perjuicio de la suspensión o
+2 revocación de su autorización.
+3 (c) A todo técnico autorizado que utilice instrumentos o medidas patrón no
+4 calibradas, vencidas o no autorizadas, multa administrativa no menor de mil dólares
+5 ($1,000) ni mayor de cinco mil dólares ($5,000) por cada infracción.
+6 (d) A todo detallista que altere, falsifique, remueva o utilice indebidamente un
+7 sello físico, sello digital o aviso de prórroga provisional, multa administrativa no menor
+8 de dos mil quinientos dólares ($2,500) ni mayor de diez mil dólares ($10,000) por cada
+9 infracción.
+10 (e) A todo detallista que opere un surtidor con conocimiento de manipulación,
+11 desperfecto, desviación significativa o riesgo al consumidor, multa administrativa no
+12 menor de cinco mil dólares ($5,000) ni mayor de quince mil dólares ($15,000) por cada
+13 surtidor afectado.
+14 (f) A toda persona que impida u obstaculice una inspección, auditoría o
+15 investigación de DACO, multa administrativa no menor de mil dólares ($1,000) ni mayor
+16 de cinco mil dólares ($5,000) por cada infracción.
+17 (g) A toda persona que presente información falsa en una solicitud, informe,
+18 validación, renovación o certificación, multa administrativa no menor de dos mil
+19 quinientos dólares ($2,500) ni mayor de diez mil dólares ($10,000) por cada infracción.
+20 Cada surtidor afectado, cada informe emitido y cada acto separado podrá
+21 constituir una infracción independiente.
+
+19
+1 En casos de reincidencia, fraude, manipulación intencional, daño económico al
+2 consumidor o riesgo sustancial al mercado, DACO podrá duplicar las multas aquí
+3 establecidas, suspender autorizaciones, ordenar el retiro de uso del surtidor, referir el
+4 asunto al Departamento de Justicia o imponer cualquier otro remedio permitido por ley.
+5 Artículo 18. — Suspensión o revocación de la autorización.
+6 DACO podrá suspender, revocar, denegar o condicionar la autorización de un
+7 técnico autorizado cuando determine que este:
+8 (a) Incumplió los protocolos técnicos aprobados por DACO.
+9 (b) Emitió informes falsos, incompletos, negligentes o incorrectos.
+10 (c) Utilizó instrumentos o medidas patrón no calibradas o vencidas.
+11 (d) Ocultó información relevante.
+12 (e) Actuó con conflicto de interés prohibido.
+13 (f) Obstruyó una auditoría o investigación.
+14 (g) Perdió la competencia técnica requerida.
+15 (h) Incurrió en conducta incompatible con la confianza pública.
+16 DACO garantizará el debido proceso de ley antes de una suspensión o revocación
+17 final. No obstante, cuando exista riesgo al consumidor, fraude aparente, manipulación de
+18 surtidores o peligro de daño económico, DACO podrá emitir una suspensión sumaria
+19 provisional conforme al ordenamiento jurídico aplicable.
+20 Artículo 19. — Derechos de solicitud y renovación.
+21 DACO podrá establecer mediante reglamento derechos razonables por concepto
+22 de solicitud, autorización, renovación, examen y adiestramiento de técnicos autorizados.
+
+20
+1 Dichos derechos deberán estar relacionados con el costo administrativo del
+2 Programa y no podrán imponerse al detallista como condición para obtener la prórroga
+3 provisional dispuesta en esta Ley.
+4 Nada de lo dispuesto en esta Sección autoriza a DACO a imponer cargos
+5 adicionales al detallista por ejercer el derecho a solicitar oportunamente la inspección o
+6 recertificación de sus surtidores.
+7 Artículo 20. — Implantación.
+8 DACO implantará esta Ley conforme al siguiente calendario:
+9 (a) Dentro de los noventa días siguientes a la aprobación de esta Ley, DACO
+10 publicará los protocolos técnicos preliminares para inspección, comprobación y
+11 calibración de surtidores.
+12 (b) Dentro de los ciento veinte días siguientes a la aprobación de esta Ley, DACO
+13 habilitará el sistema electrónico para solicitudes de autorización de técnicos y para el
+14 registro electrónico público.
+15 (c) Dentro de los ciento ochenta días siguientes a la aprobación de esta Ley, DACO
+16 comenzará a recibir y evaluar solicitudes de técnicos autorizados.
+17 (d) Dentro de los doscientos cuarenta días siguientes a la aprobación de esta Ley,
+18 DACO deberá tener operacional el sistema de prórroga provisional por solicitud
+19 oportuna y el mecanismo de validación digital.
+20 (e) Dentro de los trescientos sesenta días siguientes a la aprobación de esta Ley,
+21 DACO deberá tener implantado el sello digital verificable para los surtidores cubiertos
+22 por el Programa.
+
+21
+1 Durante el primer año de implantación, DACO dará prioridad a las estaciones
+2 cuyos sellos estén vencidos o próximos a vencer, a las solicitudes pendientes por más de
+3 treinta días, y a estaciones ubicadas en municipios o comunidades con acceso limitado a
+4 combustible.
+5 Artículo 21. — Reglamentación.
+6 DACO adoptará la reglamentación necesaria para implementar esta Ley dentro de
+7 un término no mayor de ciento ochenta días contados a partir de su aprobación.
+8 La reglamentación deberá incluir, como mínimo:
+9 (a) Requisitos de autorización y renovación de técnicos autorizados.
+10 (b) Protocolos técnicos de inspección, comprobación y calibración.
+11 (c) Instrumentos requeridos y estándares de calibración.
+12 (d) Contenido mínimo de informes electrónicos.
+13 (e) Procedimiento para prórrogas provisionales.
+14 (f) Diseño y validación del sello digital verificable.
+15 (g) Criterios de auditoría.
+16 (h) Procedimiento de suspensión y revocación.
+17 (i) Manejo de conflictos de interés.
+18 (j) Derechos de solicitud y renovación aplicables a técnicos autorizados.
+19 (k) Disposiciones transitorias para la implantación inicial del Programa.
+20 Hasta tanto se apruebe la reglamentación final, DACO podrá emitir órdenes
+21 administrativas, cartas circulares o guías técnicas provisionales que sean compatibles con
+22 esta Ley.
+
+22
+1 Artículo 22. — Cláusula de no menoscabo.
+2 Nada de lo dispuesto en esta Ley limitará las facultades de DACO bajo su Ley
+3 Orgánica, el Reglamento de Pesas y Medidas, el Reglamento Tarifario de Pesas y
+4 Medidas, los reglamentos de precios, órdenes administrativas o cualquier otra
+5 disposición aplicable a protección del consumidor, inspección de instrumentos de
+6 medición, fiscalización de combustibles o cumplimiento comercial.
+7 Artículo 23. — Separabilidad.
+8 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, inciso, sección o parte
+9 de esta Ley fuera anulada o declarada inconstitucional por un tribunal con jurisdicción,
+10 la sentencia dictada no afectará ni invalidará las demás disposiciones de esta Ley. El
+11 efecto de dicha sentencia quedará limitado a la disposición que haya sido anulada o
+12 declarada inconstitucional.
+13 Artículo 24. — Vigencia.
+14 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL    d e y e f o d c c e l c o d e c t u i d q l s u p d g d u o l f c y m c p l c c u f p d a i E f p a]
+[DELETED:  c E e c p d l e d c l d s p v q e e c c l p a y q e c r l c d c l e d l I E l p p q u d d a e s v e a d q e G p c e t s c u d c r U s v p g r l i p r a a l c a d L a e p m u m m y s p a p l a L m n p l f r n f y s m p a l c t]
+[DELETED:  c c r d e a i u d c t d c d e d c d i y t e d r D u r e p d t a a l r p o r s a p y s a q e i f i o i p e d m a d e o t l E p n e a d d c c l l e q s p p u d a q n l e t a p D E c p q e p s o f d s D e m s p a m i c y s p a d c f m d p d i d s e u m d]
+[DELETED:  d p p d G d P R g q l c y a d m o c v y c y e q l c s a p s m s a r f r y]
+[DELETED:  “ d c — P n o j q o u d a l v a d d g d u o c l i c y c d s d c “ d a — I f o d e v o p D q a q u s d c c c l]
+[DELETED:  p a d l f d v d s d a d ú c e d h p u s c e D e P d I A d S d m l a d t c p r i r n s D c e]
+[DELETED:  E l r d a r a V e l i d i c y O r c e q i r a I p a p v a e L a l E e s e p s v p y M l r d p y c o d l o]
+[DELETED:  P s e a D e l f q d e A e m d t a e i i C y a u a o d D s p y d s d d r é c d i y D q p u o t a c a i d y m i l e t y m a o]
+[DELETED:  s d o e r c e s o d A a D a a s e i i N h s c p d q i f f i s p m d i d m g P s d r n m d t d a d s]
+[DELETED:  P e a d c d i y m I c c m e s e p t r d e d e e p o d D y p]
+[DELETED:  D r m l f o o s R l a r r o r d u d t a n p i m a q o]
+[DELETED:  I e c i l l r i u d s d l i f d c d l i N i a D c h d m t a p i c c o e]
+[DELETED:  S d a s e c p o H p e u a r n d o E c c q p c s i p e m r l c e q u r u d d c p u s o d]
+[DELETED:  N e q a r c m i a E s n p c v q p i a e a p d s e l p p c a e d u q s r a c i f e u a e d p p q e d]
+[DELETED:  i d d s c a y c p e M v e s d a a d p p o]
+[DELETED:  A d r a c f o s s f o d a a n m d d p c d l a l p a p o r d s e e]
+[DELETED:  U i o m p n c v o n U u p p p o u s c d m a n m d d m q d ( n]
+[DELETED:  A t t a q u i o m p n A t p q i u o u i a o A t p q p i f e u s i r o c m a n m d d m s a c i e y c a s p]
+[DELETED:  o r s a m D p d l m a]
+[DELETED:  d d e r c e c a d d l d e e S a a D a i c D d l n d s a l a d e L D l p t p p i c y d t o e s d p p p s]
+[DELETED:  t s a l r f D p e ó]
+[DELETED:  e R d P y M e R T d P y l r d p ó a o c o a a p d c i d i d]

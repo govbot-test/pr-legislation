@@ -1,0 +1,1237 @@
+Title: Coautores los señores Colón La Santa, González López; la señora Pérez Soto; el señor Reyes
+Official Title: Coautores los señores Colón La Santa, González López; la señora Pérez Soto; el señor Reyes
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(20 DE ABRIL DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 817
+16 de octubre de 2025
+Presentado por el señor Toledo López
+Berríos; la señora Román Rodríguez; los señores Rosa Ramos, Sánchez Álvarez y Santos Ortiz
+Referido a la Comisión de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del
+Consumidor
+LEY
+Para enmendar los Artículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 y 15, añadir un nuevo Artículo
+16, reenumerar el actual Artículo 16, como 17, reenumerar el actual Artículo 17,
+como 18, y a su vez enmendarlo; y reenumerar los actuales Artículos 18, 19, 20 y 21,
+como los Artículos 19, 20, 21 y 22, respectivamente, en la Ley Núm. 228 de 12 de
+mayo de 1942, según enmendada, conocida como la “Ley Insular de Suministros”,
+a fin de designar al Departamento de Asuntos del Consumidor, como la Agencia
+Gubernamental responsable de la administración de sus disposiciones; establecer
+una plataforma electrónica oficial para la radicación, custodia e inspección de la
+información requerida a los comerciantes, distribuidores e importadores sujetos a la
+precitada “Ley Insular de Suministros”; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 228 de 12 de mayo de 1942, según enmendada, conocida como la “Ley
+Insular de Suministros” fue aprobada en un contexto de emergencia con el propósito de
+abordar la escasez y los aumentos anormales de precios. Ocho décadas después, Puerto
+Rico no está exento de enfrentar interrupciones en la cadena de suministros y
+fluctuaciones en los precios, provocadas por huracanes, terremotos, pandemias,
+conflictos internacionales y variaciones abruptas en los costos de transporte y
+2
+combustible. Estos escenarios requieren la modernización de la legislación aplicable, con
+el fin de permitir respuestas que sean ágiles, transparentes y que se ajusten al marco
+administrativo actual.
+Esta Ley tiene como objetivos principales designar de manera expresa al
+Departamento de Asuntos del Consumidor (DACO), como la entidad encargada de
+administrar, regular y supervisar la “Ley Insular de Suministros”; armonizar sus
+procedimientos con los de la Ley 38-2017, según enmendada, conocida como la "Ley de
+Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico", lo que incluye la
+gestión de emergencias, así como los procesos de reconsideración y revisión judicial; y
+establecer una plataforma digital para la presentación, custodia e inspección de la
+información requerida a comerciantes, distribuidores e importadores.
+La designación del Departamento de Asuntos del Consumidor centraliza en una única
+agencia gubernamental, las facultades que anteriormente correspondían a entidades que
+han sido disueltas o reorganizadas. Esta Ley elimina ambigüedades, refuerza la política
+de precios y abastecimiento, y proporciona certeza regulatoria tanto a la industria como
+a los consumidores.
+Asimismo, por medio del establecimiento de una plataforma electrónica oficial, se
+abordan los desafíos contemporáneos en materia de fiscalización y transparencia. El
+expediente digital se establecerá como el repositorio oficial de listas de precios,
+inventarios, facturas, informes de abastecimiento y otros datos requeridos por
+reglamento. Este sistema permitirá la trazabilidad de la cadena de suministro y
+contribuirá a la reducción de cargas administrativas redundantes. La constancia de
+radicación electrónica, así como los controles de autenticación y preservación de la
+evidencia digital, fortalecerán la administración y la validez probatoria tanto para el
+DACO como para los comerciantes.
+Valga indicar que esta legislación actualiza y delimita las herramientas destinadas a
+abordar prácticas especulativas, manipulación de calidad o empaque, acaparamiento y
+otras conductas que alteran los mercados fundamentales. Se mantienen y perfeccionan
+3
+las facultades para establecer precios máximos o mínimos, gestionar inventarios en
+situaciones de emergencia, restringir exportaciones cuando sea necesario para garantizar
+el abastecimiento local, así como incautar temporalmente bienes esenciales, siempre con
+la debida notificación, justificación y mecanismos de revisión correspondientes.
+De igual manera, reafirma la doctrina recientemente reiterada por el Tribunal
+Supremo de Puerto Rico en el caso Tricoche Matos v. Luis Freire Div. of K.M.A. Assoc., 2025
+TSPR 92 (2025), que reconoció la importancia de la tecnología en los procedimientos ante
+el DACO. En ese sentido, y al amparo de las facultades constitucionales de esta Asamblea
+Legislativa, se legisla para la adopción de un sistema electrónico al servicio del pueblo de
+Puerto Rico, sus comerciantes y consumidores.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2 de la Ley Núm. 228 de 12 de mayo de 1942,
+2 según enmendada, para que lea como sigue:
+3 “Artículo 2.-
+4 (a) Por la presente se dispone que el Departamento de Asuntos del Consumidor
+5 (DACO) será la agencia responsable de la administración, reglamentación y
+6 fiscalización de las disposiciones de esta Ley. Todas las facultades, deberes y
+7 poderes conferidos originalmente al Administrador General de Suministros o al
+8 Administrador de Estabilización Económica se entenderán, en adelante, ejercidos
+9 por el Secretario del Departamento de Asuntos del Consumidor.
+10 (b) El Secretario podrá, de tiempo en tiempo, dictar aquellas reglas y órdenes que
+11 crea necesarias para poner en vigor las disposiciones de esta Ley.
+4
+1 (c) El Secretario de Justicia dará su opinión por escrito al Secretario del DACO,
+2 siempre que este así lo solicite, sobre alguna cuestión de derecho relacionada con
+3 el desempeño de los deberes de su cargo.”
+4 Sección 2.- Se enmienda el Artículo 3 de la Ley Núm. 228 de 12 de mayo de 1942,
+5 según enmendada, para que lea como sigue:
+6 “Artículo 3.-
+7 (a) Cuando en el criterio del Secretario del DACO el precio o precios de artículos
+8 de primera necesidad (según éstos queden determinados por orden administrativa
+9 del antes mencionado funcionario) hayan subido o amenacen subir en una forma
+10 inconsistente con los propósitos de esta Ley, o cuando en su criterio el precio o
+11 precios de venta de artículos de primera necesidad no guarden relación con los
+12 precios prevalecientes en las fuentes de suministros, o con los costos de
+13 producción o costos de materias primas envueltas o con el mercado regulador que
+14 normalmente determina el precio de dichos artículos de primera necesidad o
+15 cuando dicho precio o precios de venta sean determinados por este como excesivos
+16 o injustificados, o cuando el precio o precios de venta no bajen en relación con la
+17 baja que tengan o puedan haber tenido los artículos de primera necesidad en las
+18 fuentes de suministros o con el mercado regulador, el Secretario podrá, mediante
+19 reglas u órdenes, establecer aquellos precios máximos o beneficios máximos que
+20 en su criterio sean generalmente justos y equitativos, y podrá igualmente reajustar
+21 aquellos precios máximos o beneficios máximos que ya hubiesen sido previamente
+22 fijados y que pongan en vigor los propósitos de esta Ley. Siempre que sea
+5
+1 practicable el Secretario del DACO tomará en consideración, al fijar precios
+2 máximos para artículos de primera necesidad, factores de tal importancia como
+3 los jornales y salarios prevalecientes, el poder adquisitivo general, las necesidades
+4 del pueblo de Puerto Rico, el coste de artículos de primera necesidad, incluyendo
+5 tributos sobre los mismos, y el coste de la distribución y transportación de estos.
+6 El Secretario del DACO podrá también, en consonancia con los fines de esta Ley,
+7 y cuando en su criterio fuere ello menester para satisfacer las necesidades básicas
+8 del pueblo de Puerto Rico, o para mantener en la Isla industrias básicas para la
+9 subsistencia de los consumidores, en caso de emergencia, o para evitar el
+10 desplazamiento de obreros por efecto de la eliminación de industrias, o para el
+11 mantenimiento de los jornales y salarios prevalecientes, o para el fomento de las
+12 industrias locales, establecer para artículos de primera necesidad, mediante reglas
+13 u órdenes, aquellos precios mínimos o beneficios mínimos que, en su criterio, sean
+14 generalmente justos y equitativos, y podrá, igualmente, reajustar aquellos precios
+15 mínimos o beneficios mínimos que hubiesen sido previamente fijados, todo lo
+16 anterior con las mismas consecuencias que las escalas de precios máximos. Al fijar
+17 precios mínimos o beneficios mínimos para artículos de primera necesidad, el
+18 Secretario del DACO tomará en consideración factores de tal importancia como
+19 los jornales y salarios prevalecientes, el poder adquisitivo general, las necesidades
+20 del pueblo de Puerto Rico, el coste de los artículos, incluyendo tributos sobre los
+21 mismos, y el coste de la distribución y transportación de estos, el precio del artículo
+22 prevaleciente en Puerto Rico a la fecha de la regla u orden, el precio del artículo
+6
+1 prevaleciente en el pasado o en períodos normales, el precio en otras áreas de
+2 producción, los márgenes normales de ganancias y las ventajas de producir el
+3 artículo localmente. El Secretario del DACO no tendrá el poder ni autoridad para
+4 cambiar o alterar, por regla, orden o escala de precios, el precio de ningún
+5 producto de primera necesidad que haya sido fijado por Ley.
+6 Las reglas, órdenes o reglamentos emitidos por el DACO al amparo de este
+7 Artículo, deberán cumplir con las disposiciones aplicables de la Ley 38-2017, según
+8 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+9 Gobierno de Puerto Rico”. El Secretario del DACO garantizará la debida
+10 publicación, notificación y oportunidad de comentarios conforme a las Secciones
+11 2.1 a 2.8 de la Ley 38, antes citada, en armonía con los principios de rapidez, justicia
+12 y economía procesal dispuestos en su Sección 1.2. Dichas reglas u órdenes deberán
+13 estar acompañadas de una declaración de motivos que exprese las causas
+14 económicas o de mercado que justifican su emisión, a tono con los propósitos de
+15 esta Ley de estabilizar precios, evitar la especulación y proteger a los
+16 consumidores. En los casos de emergencia económica, escasez, o alteraciones
+17 sustanciales en las condiciones del mercado que requieran la vigencia inmediata
+18 de una regla u orden, el DACO podrá proceder conforme a la Sección 2.13 de la
+19 Ley 38, supra, acompañando la certificación correspondiente del Gobernador de
+20 Puerto Rico. Toda reglamentación adoptada bajo esta disposición será radicada
+21 ante el Secretario de Estado, publicada en el Registro de Reglamentos y en el portal
+7
+1 electrónico del DACO, y mantendrá plena fuerza y efecto hasta tanto sea derogada
+2 o enmendada conforme a derecho.
+3 A los efectos de lo dispuesto en este inciso, se considerarán artículos de primera
+4 necesidad las medicinas y especialidades farmacéuticas, según estas son definidas
+5 en la Ley de Farmacia de Puerto Rico y todo aquel equipo asistivo, de carácter
+6 ortopédico, ortésico y prostético que sea necesario para las personas con
+7 impedimentos.
+8 (b) Toda regla u orden emitida por el Secretario del DACO al amparo de este
+9 Artículo, podrá contener las clasificaciones, distinciones y ajustes que sean
+10 necesarios para la implementación efectiva de los propósitos de esta Ley. Dichas
+11 reglas u órdenes podrán establecer excepciones o variaciones razonables, cuando
+12 ello resulte indispensable para asegurar el abasto, la estabilidad del mercado o la
+13 protección de los consumidores. Cualquier regla u orden que disponga precios
+14 máximos podrá fijar un precio inferior al prevaleciente al momento de su emisión.
+15 (c) Cuando el Secretario del DACO determine que resulta necesario para cumplir
+16 los propósitos de esta Ley, podrá reglamentar mediante regla u orden, la
+17 prohibición de prácticas especulativas, manipulativas o acaparadoras que afecten
+18 los artículos de primera necesidad. Esto incluirá aquellas alteraciones de calidad,
+19 forma o empaque que tengan por efecto encubrir aumentos de precio
+20 injustificados o limitar la disponibilidad de bienes esenciales.
+21 En los casos en que un comerciante o distribuidor mantenga existencias de
+22 productos de primera necesidad y rehúse venderlos en contravención de las
+8
+1 disposiciones de esta Ley o de las órdenes debidamente emitidas al amparo de
+2 ella, el DACO podrá iniciar un procedimiento administrativo conforme a la Ley
+3 38, antes citada. Tras la debida notificación y oportunidad de ser oído, el DACO
+4 podrá imponer las sanciones y medidas correctivas que correspondan, incluyendo
+5 la incautación temporal de bienes, según lo autorice esta Ley. La negativa
+6 injustificada a vender productos de primera necesidad que se tengan en existencia
+7 constituirá evidencia prima facie de incumplimiento regulatorio.
+8 (d) Cuando el Secretario del DACO determine que la producción, importación o
+9 disponibilidad de artículos de primera necesidad no garantiza estabilidad,
+10 suficiencia o precios razonables acordes con las necesidades y el poder adquisitivo
+11 del pueblo, podrá ejercer las facultades necesarias para asegurar el abasto y
+12 cumplir los propósitos de esta Ley. Para esos fines, el DACO podrá comprar,
+13 almacenar, transportar y disponer de artículos de primera necesidad a nombre del
+14 Gobierno de Puerto Rico, conforme a las Leyes y reglamentos de compras
+15 aplicables y en estricto cumplimiento con el Plan Fiscal Certificado.
+16 Podrá, además, determinar mediante orden o reglamento los volúmenes,
+17 destinatarios y períodos de distribución, y conceder subsidios o incentivos
+18 temporales a productores locales cuando sea indispensable para preservar la
+19 producción interna y la estabilidad de precios, siempre que dichos incentivos no
+20 contravengan el Plan Fiscal Certificado ni otras disposiciones presupuestarias
+21 aplicables.
+9
+1 El DACO podrá, mediante regla u orden, limitar o prohibir la exportación de
+2 artículos de primera necesidad cuando las existencias sean necesarias para el
+3 consumo local. Igualmente, podrá adquirir, arrendar o utilizar facilidades de
+4 almacenamiento o distribución por cualquier medio legal, incluida la expropiación
+5 forzosa con la debida compensación y la justificación de necesidad pública, a
+6 nombre del Gobierno de Puerto Rico, en armonía con las restricciones fiscales y
+7 presupuestarias establecidas por la Junta de Supervisión y Administración
+8 Financiera para Puerto Rico.
+9 Cuando, como resultado de una emergencia o de un incumplimiento grave que
+10 ponga en riesgo el abasto, el DACO determine la necesidad de incautar
+11 temporalmente artículos de primera necesidad, deberá notificar por escrito al
+12 comerciante, productor o distribuidor el inventario y el valor estimado de los
+13 bienes, garantizando el derecho a revisión administrativa conforme a la Ley 38,
+14 supra. En situaciones de urgencia inminente, el DACO podrá ejecutar la
+15 incautación de manera inmediata, con notificación y vista expedita posterior
+16 dentro del término que fije el reglamento. La negativa injustificada a vender bienes
+17 esenciales o su retención con fines especulativos constituirá causa suficiente para
+18 el ejercicio de esta facultad.
+19 El afectado podrá solicitar revisión judicial de la incautación ante la Sala del
+20 Tribunal de Primera Instancia dentro de los diez (10) días de la notificación,
+21 limitada a la valoración de las existencias. El DACO librará la correspondiente
+22 orden de pago o depósito por el valor razonable de los bienes (o el justiprecio
+10
+1 aplicable, según corresponda por Ley), condicionado a la disponibilidad
+2 presupuestaria certificada conforme al Plan Fiscal Certificado.
+3 Los artículos adquiridos o incautados podrán ser distribuidos o vendidos a precios
+4 razonables a comerciantes debidamente licenciados, o destinados a programas de
+5 distribución gratuita en beneficio de la población, con preferencia a productos de
+6 manufactura local. El DACO documentará la cadena de custodia, condiciones de
+7 almacenamiento y, tratándose de perecederos, podrá disponer de ellos conforme
+8 a estándares sanitarios y reglamentarios.
+9 Las compañías navieras, transportistas, consignatarios o agentes de carga estarán
+10 obligados a informar electrónicamente al DACO, toda consignación o importación
+11 de artículos de primera necesidad, incluyendo la identidad de los consignatarios,
+12 a través del Sistema Integrado de Asuntos del Consumidor (SIAC) o la plataforma
+13 que disponga el DACO, según regulado mediante reglamento.
+14 (e) Las órdenes, reglas y reglamentos dictados bajo esta Ley podrán incluir las
+15 disposiciones que el Secretario de DACO estime necesarias para prevenir su
+16 evasión, elusión o incumplimiento, conforme a los principios establecidos por la
+17 Ley 38, supra.
+18 (f) El Secretario del DACO podrá, cuando en su criterio sea necesario y propio
+19 para poner en efecto los propósitos de esta Ley, prohibir, mediante regla u orden,
+20 el transporte, recibo, almacenamiento o venta en Puerto Rico de artículos que no
+21 sean de primera necesidad, o podrá determinar por regla u orden las cantidades
+22 que en cualquier período de tiempo puedan ser transportadas, recibidas,
+11
+1 almacenadas o vendidas de dichos artículos, y podrá establecerse un sistema de
+2 licencias para el transporte, recibo, almacenamiento o venta de dichos artículos.
+3 (g) Los tribunales de justicia tomarán conocimiento judicial de los reglamentos,
+4 reglas, órdenes y listas de precios aprobados, promulgados o adoptados o que en
+5 el futuro se aprobaren, promulgaren o adoptaren por el Secretario del DACO, así
+6 como de la publicación que de los mismos requiere esta Ley.
+7 (h) Cuando el Secretario del DACO, por motivo de una emergencia, dicte una
+8 orden de congelación y fijación de precios de los artículos de primera necesidad,
+9 esa orden tendrá una duración de diez (10) días, contados desde la fecha de su
+10 emisión, salvo cuando dicho funcionario disponga una duración menor o mayor
+11 o cuando, durante la vigencia de esta, resuelva acortar o extender dicho término.”
+12 Sección 3.- Se enmienda el Artículo 4 de la Ley Núm. 228 de 12 de mayo de 1942,
+13 según enmendada, para que lea como sigue:
+14 “Artículo 4.-
+15 El Secretario del DACO podrá, cuando en su criterio sea necesario para poner en
+16 efecto los propósitos de esta Ley, conceder o tomar préstamos con la garantía de
+17 artículos de primera necesidad en los términos que estime propios; y podrá
+18 disponer mediante venta o donación por los conductos que sean apropiados, de
+19 aquellos artículos que se obtengan a cuenta de los cobros de dichos préstamos y
+20 podrá pagar todos los gastos y pérdidas incidentales a estas operaciones.”
+21 Sección 4.- Se enmienda el Artículo 5 de la Ley Núm. 228 de 12 de mayo de 1942,
+22 según enmendada, para que lea como sigue:
+12
+1 “Artículo 5.-
+2 El Secretario del DACO tendrá facultad para proveer medios de transporte, para
+3 disponer la transportación de artículos de primera necesidad, y para
+4 transportarlos a Puerto Rico, ya hayan sido comprados por este o por personas
+5 particulares y por cualquier medio. Dichas gestiones podrán realizarse por
+6 cualquier medio de transporte disponible, incluyendo marítimo, aéreo o terrestre,
+7 conforme a la reglamentación aplicable y en coordinación con las agencias
+8 concernientes. El DACO podrá requerir a los operadores de transporte o
+9 consignatarios la notificación electrónica de los cargamentos y destinos de
+10 artículos de primera necesidad, a través de la plataforma digital de fiscalización
+11 que la Agencia establezca mediante reglamento, con el fin de garantizar la
+12 trazabilidad y control de la cadena de abasto.”
+13 Sección 5.- Se enmienda el Artículo 6 de la Ley Núm. 228 de 12 de mayo de 1942,
+14 según enmendada, para que lea como sigue:
+15 “Artículo 6.-
+16 Cuando el Secretario del DACO así lo crea propio y necesario para poner en
+17 práctica los propósitos de esta Ley, podrá tomar en coordinación con el
+18 Departamento de Agricultura, la Autoridad de Tierras, los municipios y otras
+19 instrumentalidades del Gobierno de Puerto Rico, cualesquiera medidas que estime
+20 necesarias en relación con la siembra y el cultivo de productos alimenticios, o de
+21 primera necesidad para usarse durante el período de la actual emergencia y por el
+22 tiempo subsiguiente que fuere necesario, incluyendo el poder de comprar semillas
+13
+1 y raíces; el de distribuirlas y el de hacerlas distribuir; el de sembrarlas, y el de
+2 cultivarlas en terrenos pertenecientes al Pueblo de Puerto Rico o a cualquier
+3 municipio de este; el de arrendar o expropiar tierras de personas particulares; el
+4 de distribuir los productos de las mismas en la forma dispuesta para los artículos
+5 comprados por él.”
+6 Sección 6.- Se enmienda el Artículo 7 de la Ley Núm. 228 de 12 de mayo de 1942,
+7 según enmendada, para que lea como sigue:
+8 “Artículo 7.-
+9 Cuando el Secretario del DACO lo crea propio y necesario para poner en efecto los
+10 propósitos de esta Ley, podrá organizar y dirigir cooperativas de producción de
+11 productos de primera necesidad, así como cooperativas de consumo que
+12 funcionen en coordinación con las cooperativas de producción.”
+13 Sección 7.- Se enmienda el Artículo 8 de la Ley Núm. 228 de 12 de mayo de 1942,
+14 según enmendada, para que lea como sigue:
+15 “Artículo 8.-
+16 Cuando el Secretario del DACO lo crea propio y necesario para poner en vigor los
+17 propósitos de esta Ley, podrá crear y administrar establecimientos para la venta
+18 al por mayor y al por menor de todos o cualesquiera artículos de primera
+19 necesidad y emplear las personas que fueren necesarias para tal fin.”
+20 Sección 8.- Se enmienda el Artículo 9 de la Ley Núm. 228 de 12 de mayo de 1942,
+21 según enmendada, para que lea como sigue:
+22 “Artículo 9.-
+14
+1 (a) El Secretario del DACO está autorizado para realizar aquellos estudios o
+2 investigaciones y para obtener aquella información que crea necesaria y propia
+3 para ayudarlo en el establecimiento de cualquier regla y orden bajo esta Ley, o en
+4 la administración y cumplimiento de estas y las reglas, órdenes y escalas de precios
+5 que bajo ellas se aprobaren.
+6 (b) El Secretario del DACO queda, por sí o por sus delegados, autorizado además
+7 para requerir, mediante regla u orden, por sí o sus delegados a cualquier persona
+8 dedicada a negocios en que estén envueltos artículos de primera necesidad, para
+9 que tal persona provea aquella información bajo juramento o en otra forma, y lleve
+10 y guarde aquellos récords y otros documentos y haga aquellos informes que
+11 fueren necesarios para poner en vigor los propósitos de esta Ley, y podrá requerir
+12 además de tales personas que permitan la inspección y copia de sus récords,
+13 inventarios y otros documentos. Dicha información deberá presentarse y
+14 mantenerse actualizada mediante la plataforma electrónica de fiscalización y
+15 cumplimiento que la agencia establecerá por reglamento. El Secretario del DACO
+16 por sí o sus delegados podrá tomar declaraciones bajo juramento, y tendrá la
+17 facultad, cuando fuere necesario, para expedir citaciones con apercibimiento de
+18 desacato para la comparecencia de testigos y para la presentación de libros y otros
+19 documentos.
+20 (c) …
+21 (d) …”
+15
+1 Sección 9.- Se enmienda el Artículo 10 de la Ley Núm. 228 de 12 de mayo de 1942,
+2 según enmendada, para que lea como sigue:
+3 “Artículo 10.-
+4 (a) ...
+5 (b) Será ilegal de parte de cualquier oficial o empleado del Gobierno, o de algún
+6 consultor o consejero del Secretario del DACO revelar, a menos que fuere
+7 necesario en el cumplimiento de sus deberes oficiales, cualquier información
+8 obtenida bajo esta Ley o utilizar dicha información para beneficio personal.”
+9 Sección 10.- Se enmienda el Artículo 11 de la Ley Núm. 228 de 12 de mayo de 1942,
+10 según enmendada, para que lea como sigue:
+11 “Artículo 11.-
+12 (a) Dentro de los diez (10) días siguientes a la promulgación de cualquier regla u
+13 orden, o de una escala de precios, cualquier persona sujeta directamente a las
+14 disposiciones de dicha regla, u orden o escala de precios podrá radicar una
+15 solicitud de reconsideración especificando sus objeciones a cualquiera de dichas
+16 disposiciones, acompañándola de declaraciones juradas (affidavits) o de otra
+17 prueba escrita en apoyo de tales objeciones. En cualquier tiempo después de la
+18 expiración de dichos diez (10) días, cualquier persona sujeta a las disposiciones de
+19 cualquier regla, u orden o escala de precios, podrá radicar tal solicitud de
+20 reconsideración basada solamente en fundamentos ocurridos después de la
+21 expiración de los referidos diez (10) días. Dentro de un término razonable después
+22 de la radicación de cualquier solicitud de reconsideración bajo esta Ley, pero en
+16
+1 ningún caso después de treinta (30) días de su radicación, y cuarenta (40) días
+2 después de la promulgación de la regla, orden o escala de precios, el Secretario del
+3 DACO resolverá tal solicitud de reconsideración, la señalará para vista o proveerá
+4 una oportunidad para presentar prueba adicional en conexión con la misma. En
+5 caso de que el Secretario del DACO declare sin lugar cualquier solicitud de
+6 reconsideración en todo o en parte, informará al solicitante los fundamentos de su
+7 decisión, y los datos y hechos de que el Secretario del DACO ha tomado
+8 conocimiento oficial.
+9 (b) En la administración de esta Ley, el Secretario del DACO podrá tomar
+10 conocimiento oficial de datos económicos, y de otros hechos, incluyendo hechos
+11 comprobados por este de acuerdo con las investigaciones que haya practicado de
+12 acuerdo con esta Ley.
+13 (c) Los procedimientos bajo esta Ley podrán ser limitados por el Secretario del
+14 DACO a la radicación de declaraciones juradas u otra prueba escrita y a la
+15 presentación de alegatos siempre que dicha limitación no prive a las partes de la
+16 oportunidad razonable de ser oídas, de presentar prueba o de impugnar la
+17 evidencia presentada en su contra, conforme a los principios del debido proceso
+18 de Ley y las disposiciones supletorias de la Ley 38, supra.”
+19 Sección 11.- Se enmienda el Artículo 12 de la Ley Núm. 228 de 12 de mayo de 1942,
+20 según enmendada, para que lea como sigue:
+21 “Artículo 12.-
+17
+1 Cualquier persona adversamente afectada por una orden, resolución o reglamento
+2 final emitido por el DACO al amparo de esta Ley, podrá solicitar revisión judicial
+3 conforme a la Ley 38, antes citada. La presentación de una solicitud de
+4 reconsideración o de revisión judicial no suspenderá la efectividad de la orden,
+5 reglamento o resolución impugnados. Únicamente mediante la concesión de un
+6 auxilio de jurisdicción emitido por el Tribunal podrá suspenderse total o
+7 parcialmente la aplicación de una medida administrativa, cuando ello sea
+8 estrictamente necesario para evitar un perjuicio irreparable o para preservar la
+9 efectividad de la jurisdicción del tribunal.”
+10 Sección 12.- Se enmienda el Artículo 13 de la Ley Núm. 228 de 12 de mayo de 1942,
+11 según enmendada, para que lea como sigue:
+12 “Artículo 13.-
+13 (a) Cuando, en el criterio del Secretario del DACO, alguna persona haya incurrido
+14 o esté por incurrir en un acto o práctica que constituya una violación de alguna
+15 disposición de esta Ley o de un reglamento, resolución u orden emitido por este,
+16 podrá solicitar del tribunal competente la expedición de una orden impidiendo la
+17 comisión o continuación de tales actos o prácticas, o de un injunction para obligar
+18 al cumplimiento de dicha disposición y previa la demostración del Secretario del
+19 DACO en el sentido de que dicha persona ha incurrido o está por incurrir en dicha
+20 violación, el tribunal expedirá, libre de fianza, un injunction de carácter temporero,
+21 permanente, u orden de entredicho, según sea solicitado.
+18
+1 (b) Cualquier persona que violare alguna disposición de esta Ley, o de cualquier
+2 reglamento, resolución u orden emitidos por el Secretario del DACO de acuerdo
+3 con las disposiciones de esta Ley, y cualquier persona que radique o haga alguna
+4 declaración o informe falso en algún aspecto fundamental en algún documento o
+5 informe requerido de dicha persona por el antes mencionado funcionario,
+6 incurrirá en delito menos grave y de ser convicta se le castigará con una multa no
+7 menor de cinco mil dólares ($5,000.00) o reclusión por un término que no excederá
+8 de seis (6) meses, o ambas penas, a discreción del tribunal. En caso de reincidencia
+9 se castigará con reclusión por un término fijo de dos (2) años y además con multa
+10 que no excederá de diez mil dólares ($10,000). Disponiéndose, sin embargo, que
+11 toda persona que violare cualquier reglamento, resolución u orden emitidos por
+12 el Secretario del DACO relativos a prácticas de acaparamiento de algún artículo
+13 de primera necesidad, incurrirá en delito grave, y, convicta que fuere, se le
+14 castigará con pena de reclusión por un término fijo de dos (2) años, y además, con
+15 multa que no excederá de diez mil dólares ($10,000). Disponiéndose, que las
+16 personas convictas de las infracciones antes mencionadas no podrán acogerse a los
+17 beneficios de la Ley de Sentencia Suspendida y Libertad a Prueba, ni de ninguna
+18 otra Ley que permita la suspensión de sentencias en casos criminales en Puerto
+19 Rico. No se impondrán costas al Gobierno de Puerto Rico por ningún
+20 procedimiento incoado de acuerdo con esta Ley. Si un acusado de violación de
+21 esta Ley o de cualquier reglamento, resolución u orden emitidos por el Secretario
+22 del DACO alegare como defensa la invalidez de esta Ley, reglamento, resolución
+19
+1 u orden, la Sala del Tribunal de Primera Instancia de Puerto Rico que entienda en
+2 el procedimiento deberá entrar en los méritos de la misma y no pospondrá la vista
+3 o decisión del caso por razón de encontrarse pendiente en cualquier otra causa
+4 civil o criminal surgida bajo los términos de esta Ley la validez de dicha Ley,
+5 reglamento, resolución u orden.
+6 (c) En los casos de violaciones de esta Ley o de cualquier reglamento, resolución u
+7 orden emitidos por el Secretario del DACO, que no sean casos de reincidencia,
+8 este podrá imponer multas administrativas antes de incoarse el procedimiento
+9 ante los tribunales, o después de incoarse, si el caso fuere referido por el tribunal
+10 al Secretario del DACO para la acción administrativa correspondiente, y a ese
+11 efecto, se autoriza y faculta a dicho funcionario para fijar y cobrar en estos casos
+12 multas administrativas; Disponiéndose, que cada multa administrativa no
+13 excederá de mil dólares ($1,000) en todo caso de violación a reglamentos,
+14 resoluciones u órdenes de precios máximos. En casos de violaciones a
+15 reglamentos, resoluciones u órdenes de precios mínimos, la multa no será menor
+16 que la diferencia, bajo las mismas condiciones de entrega, entre el precio mínimo
+17 establecido y el costo del artículo al comprador. Dicha multa se determinará sobre
+18 el total de las unidades compradas y envueltas en la transacción que motivó la
+19 violación. Disponiéndose, además, que el producto de dichas multas
+20 administrativas ingresará al “Fondo de Artículos de Primera Necesidad, Fondo de
+21 Depósito”, que se crea por esta Ley.
+20
+1 (d) Cuando el Secretario del DACO, luego de celebrada audiencia, a instancias de
+2 un consumidor querellante, determine que se ha vendido un artículo o producto
+3 en contravención a los reglamentos de precios establecidos, tendrá facultad para
+4 ordenar al querellado a pagar al querellante una cantidad en concepto de daños.
+5 La cantidad a ser adjudicada en concepto de los daños será al triple de la diferencia
+6 entre el precio fijado por el Secretario del DACO y el precio a que se vendió el
+7 artículo o producto al consumidor o cien dólares ($100), la cantidad que sea mayor.
+8 (e) Cuando, en el criterio del Secretario del DACO, tal acción sea necesaria o propia
+9 para poner en efecto los propósitos de esta Ley, y, principalmente, el fin de
+10 abaratamiento del costo de productos de primera necesidad para los habitantes de
+11 Puerto Rico, y para asegurar el cumplimiento de algún reglamento, resolución u
+12 orden dictados bajo esta Ley, dicho funcionario podrá requerir a todas las personas
+13 sujetas a algún reglamento, resolución u orden emitidos bajo esta Ley, la obtención
+14 de una licencia expedida por el mismo Secretario del DACO como condición
+15 previa indispensable para que dicha persona pueda dedicarse a la venta o
+16 cualquier aspecto del negocio referente a algún artículo de primera necesidad al
+17 cual tal reglamento, resolución u orden es aplicable. Estarán excluidos de las
+18 disposiciones de este inciso los agricultores productores que se dediquen a la venta
+19 de sus propios productos agrícolas. Ninguna persona natural o jurídica podrá
+20 dedicarse a los referidos negocios sin la previa obtención de la mencionada
+21 licencia, y toda violación a esta disposición aparejará una multa adicional a la
+22 multa que conlleva de acuerdo con el inciso (c) de este Artículo, no menor del triple
+21
+1 de la cantidad total objeto del negocio prohibido. El Secretario del DACO no
+2 denegará ninguna solicitud de licencia, salvo en los casos que más adelante se
+3 detallan. Las licencias podrán ser denegadas y suspendidas por las siguientes
+4 causas: (1) Violación de un reglamento de precios, (2) violación a las resoluciones
+5 u órdenes del Secretario del DACO dictadas bajo sus prerrogativas legales, (3)
+6 violación de alguna disposición de esta Ley. Cuando en el criterio del Secretario
+7 del DACO alguna persona haya violado alguna disposición de la licencia o haya
+8 incurrido en alguno de los actos que dan lugar a la suspensión de la misma, éste
+9 podrá hacer una petición escrita para ante el Tribunal de Primera Instancia,
+10 solicitando que la licencia de la persona aludida sea suspendida, mediante orden
+11 del tribunal, por un término no mayor de seis (6) meses. Dicha petición será
+12 considerada como una querella, y se iniciará el procedimiento conducente a la
+13 suspensión de la licencia, el cual deberá terminarse dentro de los diez (10) días
+14 siguientes a la radicación de la petición. Dentro de los límites de ese término, el
+15 tribunal estará obligado a dictar una providencia denegando o expidiendo la
+16 orden solicitada. La orden del tribunal suspendiendo la licencia no será apelable.
+17 En caso de dictar el tribunal una orden denegando la suspensión, el Secretario del
+18 DACO, dentro de los cinco (5) días siguientes al archivo de la orden podrá apelar
+19 al Tribunal Supremo de Puerto Rico. Durante el tiempo que dure la suspensión, el
+20 Secretario del DACO podrá denegar cualquier solicitud de licencia radicada por
+21 la persona sujeta al reglamento, resolución u orden. Disponiéndose, además, que
+22 el Secretario del DACO podrá ejercitar el derecho de incautación conferido por
+22
+1 esta Ley sobre las existencias de productos de primera necesidad, propiedad de la
+2 persona sujeta a la orden de suspensión.”
+3 Sección 13.- Se enmienda el Artículo 15 de la Ley Núm. 228 de 12 de mayo de 1942,
+4 según enmendada, para que lea como sigue:
+5 “Artículo 15.-
+6 (a) …
+7 (b) …
+8 (c) …
+9 (d) …
+10 (e) … ”
+11 Sección 14.- Se añade un nuevo Artículo 16, a la Ley Núm. 228 de 12 de mayo de
+12 1942, según enmendada, que leerá como sigue:
+13 “Artículo 16.-
+14 (a) El Departamento de Asuntos del Consumidor establecerá, operará, mantendrá
+15 y actualizará el Sistema Integrado de Asuntos del Consumidor SIAC, o cualquier
+16 otra plataforma electrónica que determine o cree para estos fines, como sistema
+17 central para la radicación, actualización, custodia y consulta de la información,
+18 documentos y reportes requeridos a los comerciantes, distribuidores e
+19 importadores sujetos a esta Ley y a los reglamentos u órdenes emitidos al amparo
+20 de esta.
+21 (b) Todas las personas naturales o jurídicas sujetas a esta Ley deberán registrarse
+22 y radicar en el SIAC o en la plataforma que disponga el DACO, dentro de los
+23
+1 términos que establezca el reglamento del DACO, la documentación y datos
+2 requeridos, incluyendo, sin limitarse a: licencias o permisos aplicables, listas de
+3 precios, inventarios de artículos de primera necesidad, facturas y evidencias de
+4 costo, consignaciones, reportes de abasto y cualesquiera certificaciones exigidas
+5 por reglamento u orden.
+6 (c) Para fines de inspección y fiscalización, el expediente electrónico en el SIAC o
+7 en la plataforma habilitada constituirá el repositorio oficial. Durante una
+8 inspección, la persona inspeccionada podrá dirigir al inspector o inspectora a
+9 verificar la información en dicha plataforma. La constancia de radicación
+10 electrónica, con sello de tiempo del sistema, hará plena fe de su presentación. La
+11 imposibilidad temporal de acceso en campo por razones técnicas no se considerará
+12 incumplimiento si el comerciante demuestra que la información fue radicada
+13 oportunamente y se confirma dentro de un término razonable que fijará el
+14 reglamento.
+15 (d) Los documentos e información radicados en el SIAC o en la plataforma
+16 correspondiente tendrán el mismo efecto legal y valor probatorio que sus
+17 equivalentes en papel.
+18 (e) El DACO garantizará el manejo confidencial de la información protegida por
+19 Ley, habilitará controles de acceso y mantendrá bitácoras de acceso y cambios. El
+20 uso, divulgación o tratamiento de datos estará sujeto a las limitaciones de esta Ley
+21 y de cualesquiera otras Leyes aplicables.”
+22 Sección 15.- Se reenumera el actual Artículo 16 de la Ley Núm. 228 de 12 de mayo
+24
+1 de 1942, según enmendada, como Artículo 17.
+2 Sección 16.- Se reenumera el actual Artículo 17 de la Ley Núm. 228 de 12 de mayo
+3 de 1942, según enmendada, como Artículo 18, y a su vez se enmienda, para que lea como
+4 sigue:
+5 “Artículo 18.-
+6 Por la presente se crea en el Tesoro de Puerto Rico un fondo especial que se
+7 denominará “Fondo de Artículos de Primera Necesidad, Fondo de Depósito”, que estará
+8 a disposición del Secretario del DACO para los fines de la ejecución de esta Ley.
+9 En lo sucesivo el producto de cualquier venta o transacción efectuada por el
+10 Secretario del DACO, de artículos adquiridos por él, se reembolsará al “Fondo de
+11 Artículos de Primera Necesidad, Fondo de Depósito”, según se crea en esta Ley, y
+12 quedará a disposición de dicho funcionario, para ser invertido o gastado de acuerdo con
+13 las disposiciones esta Ley.”
+14 Sección 17.- Se reenumeran los actuales Artículos 18, 19, 20 y 21 de la Ley Núm.
+15 228 de 12 de mayo de 1942, según enmendada, como los Artículos 19, 20, 21 y 22,
+16 respectivamente.
+17 Sección 18.- Separabilidad.
+18 Si cualquier cláusula, párrafo, artículo, sección, inciso o parte de esta Ley fuere
+19 declarada inconstitucional por un tribunal competente, la sentencia a tal efecto dictada
+20 no afectará, perjudicará ni invalidará el resto de esta. El efecto de dicha sentencia quedará
+21 limitado a la cláusula, párrafo, artículo, sección, inciso o parte de esta que así hubiere sido
+22 declarada inconstitucional.
+25
+1 Sección 19.- Vigencia.
+2 Esta Ley comenzará a regir ciento ochenta (180) días después de su aprobación.
+3 Una vez comience a regir, el Secretario del DACO contará con un término de ciento
+4 ochenta (180) días adicionales a partir de su vigencia, para adoptar aquella
+5 reglamentación que se entienda necesaria, para implantar las disposiciones de la Sección
+6 14 de esta Ley y para actualizar el Sistema Integrado de Asuntos del Consumidor (SIAC)
+7 o cualquier otra plataforma que determine o cree para estos fines, de modo que viabilice
+8 la radicación, custodia, fiscalización e interoperabilidad de la información a la que se
+9 refiere esa Sección. Durante el término de promulgación de la reglamentación a la que
+10 aquí se hace referencia, el Secretario del DACO podrá emitir órdenes administrativas
+11 para disponer los mecanismos temporeros de cumplimiento digital, sin menoscabo del
+12 derecho de los comerciantes y consumidores a utilizar el SIAC una vez completada su
+13 actualización.
+[DELETED: 0   2 .dL   n e e d e i e l c d s y e l p p p h t p i y v a e l c d t y]
+[DELETED:  L t c o p d d m e a d A d C ( c l e e d r y s l “ I d S a s u p d p l p c e i d l l d c e m d f y t E d s e c e r o d l d p f i d a y o d r p E s p l t d l c d s y a l r d c a r L c d e a c l c d a y p d l l a]
+[DELETED:  f p e p m o m g i e i m r l d r r p e T , s l a r d l a r y d l d d e L T l f d y]
+[DELETED:  p e l f d s o c l c d d e p d d a d p n o y q p e v l p d e L S q s]
+[DELETED:  e S d D t e c a f p d l c e c d e o p e e s m a n]
+[DELETED:  o a p r o o e d p e p d n r ó o r e p e D a a d e d P R E S d D g l d a d u d d m q e l c L d e p e l e y p a l E l c d e e e o a ,]
+[DELETED:  o y p q s n p l p c)T D p c l c d y a q s p d e L p r m r u o l o e q t p e e a d p l c e q u c o d m e d d p n y r v e c d l]
+[DELETED:  i t d b s l a e L L n   d a d p n n g e p p e l f n p a e a y l L D d P R c a l L y r d c y e e c c e P F C a d m o o r l v y p d d y c s o i a p l c s i p p l]
+[DELETED:  D m o l o l d d p n c l e s n p e l I p a a o u f d c l d c y l j d n p a e p l J d S y A e r e a e D d l n d i a d p n d n p e a o d e i v e d E s d u i e D p e l d m i c n y v e p a p s r j d l i a l S d d P I d d l d ( d d l n D]
+[DELETED:  s c p L c a l d)Lni q e S d D e n p p s . e c p d t p s t r]
+[DELETED: lS d p n e l t q e p y p]
+[DELETED: lS l t d a d p n y pre y p c m D g p r p a l r a y e c c l a E D p r a l o d t o l n e d l c y d d l A e m r c e f d g llS l p d e L p t e c c e l m o]
+[DELETED:  e t p a P d P R o a c d p n a c c d c q p m y a p m d t o c a d p]
+[DELETED:  E S d D e a p r a e o g a r y o d y h a i q d t p q p l i y c d s r y o d D i d p y a m l p e d f y s s d t d l]
+[DELETED:  o c dlS d D r a m q f e e c d s d o c i o e s d d r u o o e d p pár u a d d j ( o d o r u o o e d p p r t s d b s e f o d d l]
+[DELETED: lSaE d q e S d D d s l c s d y l d y h d q e S d D h t E l a d e L elS d D p t a l r d d j u o p e y a l r d s o d p p o d i l]
+[DELETED:  a l L 3 a c L p d u s d d j e p e T p s t o l a d u m a c e s]
+[DELETED:  r d d p p e a m flS p n i e d g y c q f s l q n e d d m d ( D q l N s i c a G d P R p nlS]
+[DELETED:  LlS,lSaa a D q c m a n d m d ( e t c d v a r u ó d p m E c d v a D a q e p d d m]
+[DELETED: lS p e e l p d e L y p e f d u l e p e moS d D c c i p q d p p d a l v o t r r u o e a E e d l p n o a l r n s l p o d l m]
+[DELETED:  l c t o d n p ElS d D n L l p s d y s p l slSlS h u p e p a e T d P I t p u t n m d s ( m D p s e o a d u p d o e l]
+[DELETED:  y r r a l c d eoe]
+[DELETED:  q e e r d D l d y d l p h c e r o D u l p i p d a i o i a l i e d p L c d r s e c d q l i f r y s c d d u t r q f e L d e i r e e S o e l p t e m e l y v p q sS]
+[DELETED: S l p s c e e T d P R u f e q s l s e p d c v o t e p e d D d a a p é s r a “ d d P N F d D s s c e e L y d 1 d m d 1 s e c l A 1 2 2 y 2]
+[DELETED:  v S D c u ( d a a p d s v p a a]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(20 DE ABRIL DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 817
+16 de octubre de 2025
+Presentado por el señor Toledo López
+Coautores los señores Colón La Santa, González López; la señora Pérez Soto; el señor Reyes
+Berríos; la señora Román Rodríguez; los señores Rosa Ramos, Sánchez Álvarez y Santos Ortiz
+Referido a la Comisión de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del
+Consumidor
+LEY
+Para enmendar los Artículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 y 15, añadir un nuevo Artículo
+16, reenumerar el actual Artículo 16, como 17, reenumerar el actual Artículo 17,
+como 18, y a su vez enmendarlo; y reenumerar los actuales Artículos 18, 19, 20 y 21,
+como los Artículos 19, 20, 21 y 22, respectivamente, en la Ley Núm. 228 de 12 de
+mayo de 1942, según enmendada, conocida como la “Ley Insular de Suministros”,
+a fin de designar al Departamento de Asuntos del Consumidor, como la Agencia
+Gubernamental responsable de la administración de sus disposiciones; establecer
+una plataforma electrónica oficial para la radicación, custodia e inspección de la
+información requerida a los comerciantes, distribuidores e importadores sujetos a la
+precitada “Ley Insular de Suministros”; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 228 de 12 de mayo de 1942, según enmendada, conocida como la “Ley
+Insular de Suministros” fue aprobada en un contexto de emergencia con el propósito de
+abordar la escasez y los aumentos anormales de precios. Ocho décadas después, Puerto
+Rico no está exento de enfrentar interrupciones en la cadena de suministros y
+fluctuaciones en los precios, provocadas por huracanes, terremotos, pandemias,
+conflictos internacionales y variaciones abruptas en los costos de transporte y
+
+2
+combustible. Estos escenarios requieren la modernización de la legislación aplicable, con
+el fin de permitir respuestas que sean ágiles, transparentes y que se ajusten al marco
+administrativo actual.
+Esta Ley tiene como objetivos principales designar de manera expresa al
+Departamento de Asuntos del Consumidor (DACO), como la entidad encargada de
+administrar, regular y supervisar la “Ley Insular de Suministros”; armonizar sus
+procedimientos con los de la Ley 38-2017, según enmendada, conocida como la "Ley de
+Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico", lo que incluye la
+gestión de emergencias, así como los procesos de reconsideración y revisión judicial; y
+establecer una plataforma digital para la presentación, custodia e inspección de la
+información requerida a comerciantes, distribuidores e importadores.
+La designación del Departamento de Asuntos del Consumidor centraliza en una única
+agencia gubernamental, las facultades que anteriormente correspondían a entidades que
+han sido disueltas o reorganizadas. Esta Ley elimina ambigüedades, refuerza la política
+de precios y abastecimiento, y proporciona certeza regulatoria tanto a la industria como
+a los consumidores.
+Asimismo, por medio del establecimiento de una plataforma electrónica oficial, se
+abordan los desafíos contemporáneos en materia de fiscalización y transparencia. El
+expediente digital se establecerá como el repositorio oficial de listas de precios,
+inventarios, facturas, informes de abastecimiento y otros datos requeridos por
+reglamento. Este sistema permitirá la trazabilidad de la cadena de suministro y
+contribuirá a la reducción de cargas administrativas redundantes. La constancia de
+radicación electrónica, así como los controles de autenticación y preservación de la
+evidencia digital, fortalecerán la administración y la validez probatoria tanto para el
+DACO como para los comerciantes.
+Valga indicar que esta legislación actualiza y delimita las herramientas destinadas a
+abordar prácticas especulativas, manipulación de calidad o empaque, acaparamiento y
+otras conductas que alteran los mercados fundamentales. Se mantienen y perfeccionan
+
+3
+las facultades para establecer precios máximos o mínimos, gestionar inventarios en
+situaciones de emergencia, restringir exportaciones cuando sea necesario para garantizar
+el abastecimiento local, así como incautar temporalmente bienes esenciales, siempre con
+la debida notificación, justificación y mecanismos de revisión correspondientes.
+De igual manera, reafirma la doctrina recientemente reiterada por el Tribunal
+Supremo de Puerto Rico en el caso Tricoche Matos v. Luis Freire Div. of K.M.A. Assoc., 2025
+TSPR 92 (2025), que reconoció la importancia de la tecnología en los procedimientos ante
+el DACO. En ese sentido, y al amparo de las facultades constitucionales de esta Asamblea
+Legislativa, se legisla para la adopción de un sistema electrónico al servicio del pueblo de
+Puerto Rico, sus comerciantes y consumidores.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2 de la Ley Núm. 228 de 12 de mayo de 1942,
+2 según enmendada, para que lea como sigue:
+3 “Artículo 2.-
+4 (a) Por la presente se dispone que el Departamento de Asuntos del Consumidor
+5 (DACO) será la agencia responsable de la administración, reglamentación y
+6 fiscalización de las disposiciones de esta Ley. Todas las facultades, deberes y
+7 poderes conferidos originalmente al Administrador General de Suministros o al
+8 Administrador de Estabilización Económica se entenderán, en adelante, ejercidos
+9 por el Secretario del Departamento de Asuntos del Consumidor.
+10 (b) El Secretario podrá, de tiempo en tiempo, dictar aquellas reglas y órdenes que
+11 crea necesarias para poner en vigor las disposiciones de esta Ley.
+
+4
+1 (c) El Secretario de Justicia dará su opinión por escrito al Secretario del DACO,
+2 siempre que este así lo solicite, sobre alguna cuestión de derecho relacionada con
+3 el desempeño de los deberes de su cargo.”
+4 Sección 2.- Se enmienda el Artículo 3 de la Ley Núm. 228 de 12 de mayo de 1942,
+5 según enmendada, para que lea como sigue:
+6 “Artículo 3.-
+7 (a) Cuando en el criterio del Secretario del DACO el precio o precios de artículos
+8 de primera necesidad (según éstos queden determinados por orden administrativa
+9 del antes mencionado funcionario) hayan subido o amenacen subir en una forma
+10 inconsistente con los propósitos de esta Ley, o cuando en su criterio el precio o
+11 precios de venta de artículos de primera necesidad no guarden relación con los
+12 precios prevalecientes en las fuentes de suministros, o con los costos de
+13 producción o costos de materias primas envueltas o con el mercado regulador que
+14 normalmente determina el precio de dichos artículos de primera necesidad o
+15 cuando dicho precio o precios de venta sean determinados por este como excesivos
+16 o injustificados, o cuando el precio o precios de venta no bajen en relación con la
+17 baja que tengan o puedan haber tenido los artículos de primera necesidad en las
+18 fuentes de suministros o con el mercado regulador, el Secretario podrá, mediante
+19 reglas u órdenes, establecer aquellos precios máximos o beneficios máximos que
+20 en su criterio sean generalmente justos y equitativos, y podrá igualmente reajustar
+21 aquellos precios máximos o beneficios máximos que ya hubiesen sido previamente
+22 fijados y que pongan en vigor los propósitos de esta Ley. Siempre que sea
+
+5
+1 practicable el Secretario del DACO tomará en consideración, al fijar precios
+2 máximos para artículos de primera necesidad, factores de tal importancia como
+3 los jornales y salarios prevalecientes, el poder adquisitivo general, las necesidades
+4 del pueblo de Puerto Rico, el coste de artículos de primera necesidad, incluyendo
+5 tributos sobre los mismos, y el coste de la distribución y transportación de estos.
+6 El Secretario del DACO podrá también, en consonancia con los fines de esta Ley,
+7 y cuando en su criterio fuere ello menester para satisfacer las necesidades básicas
+8 del pueblo de Puerto Rico, o para mantener en la Isla industrias básicas para la
+9 subsistencia de los consumidores, en caso de emergencia, o para evitar el
+10 desplazamiento de obreros por efecto de la eliminación de industrias, o para el
+11 mantenimiento de los jornales y salarios prevalecientes, o para el fomento de las
+12 industrias locales, establecer para artículos de primera necesidad, mediante reglas
+13 u órdenes, aquellos precios mínimos o beneficios mínimos que, en su criterio, sean
+14 generalmente justos y equitativos, y podrá, igualmente, reajustar aquellos precios
+15 mínimos o beneficios mínimos que hubiesen sido previamente fijados, todo lo
+16 anterior con las mismas consecuencias que las escalas de precios máximos. Al fijar
+17 precios mínimos o beneficios mínimos para artículos de primera necesidad, el
+18 Secretario del DACO tomará en consideración factores de tal importancia como
+19 los jornales y salarios prevalecientes, el poder adquisitivo general, las necesidades
+20 del pueblo de Puerto Rico, el coste de los artículos, incluyendo tributos sobre los
+21 mismos, y el coste de la distribución y transportación de estos, el precio del artículo
+22 prevaleciente en Puerto Rico a la fecha de la regla u orden, el precio del artículo
+
+6
+1 prevaleciente en el pasado o en períodos normales, el precio en otras áreas de
+2 producción, los márgenes normales de ganancias y las ventajas de producir el
+3 artículo localmente. El Secretario del DACO no tendrá el poder ni autoridad para
+4 cambiar o alterar, por regla, orden o escala de precios, el precio de ningún
+5 producto de primera necesidad que haya sido fijado por Ley.
+6 Las reglas, órdenes o reglamentos emitidos por el DACO al amparo de este
+7 Artículo, deberán cumplir con las disposiciones aplicables de la Ley 38-2017, según
+8 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+9 Gobierno de Puerto Rico”. El Secretario del DACO garantizará la debida
+10 publicación, notificación y oportunidad de comentarios conforme a las Secciones
+11 2.1 a 2.8 de la Ley 38, antes citada, en armonía con los principios de rapidez, justicia
+12 y economía procesal dispuestos en su Sección 1.2. Dichas reglas u órdenes deberán
+13 estar acompañadas de una declaración de motivos que exprese las causas
+14 económicas o de mercado que justifican su emisión, a tono con los propósitos de
+15 esta Ley de estabilizar precios, evitar la especulación y proteger a los
+16 consumidores. En los casos de emergencia económica, escasez, o alteraciones
+17 sustanciales en las condiciones del mercado que requieran la vigencia inmediata
+18 de una regla u orden, el DACO podrá proceder conforme a la Sección 2.13 de la
+19 Ley 38, supra, acompañando la certificación correspondiente del Gobernador de
+20 Puerto Rico. Toda reglamentación adoptada bajo esta disposición será radicada
+21 ante el Secretario de Estado, publicada en el Registro de Reglamentos y en el portal
+
+7
+1 electrónico del DACO, y mantendrá plena fuerza y efecto hasta tanto sea derogada
+2 o enmendada conforme a derecho.
+3 A los efectos de lo dispuesto en este inciso, se considerarán artículos de primera
+4 necesidad las medicinas y especialidades farmacéuticas, según estas son definidas
+5 en la Ley de Farmacia de Puerto Rico y todo aquel equipo asistivo, de carácter
+6 ortopédico, ortésico y prostético que sea necesario para las personas con
+7 impedimentos.
+8 (b) Toda regla u orden emitida por el Secretario del DACO al amparo de este
+9 Artículo, podrá contener las clasificaciones, distinciones y ajustes que sean
+10 necesarios para la implementación efectiva de los propósitos de esta Ley. Dichas
+11 reglas u órdenes podrán establecer excepciones o variaciones razonables, cuando
+12 ello resulte indispensable para asegurar el abasto, la estabilidad del mercado o la
+13 protección de los consumidores. Cualquier regla u orden que disponga precios
+14 máximos podrá fijar un precio inferior al prevaleciente al momento de su emisión.
+15 (c) Cuando el Secretario del DACO determine que resulta necesario para cumplir
+16 los propósitos de esta Ley, podrá reglamentar mediante regla u orden, la
+17 prohibición de prácticas especulativas, manipulativas o acaparadoras que afecten
+18 los artículos de primera necesidad. Esto incluirá aquellas alteraciones de calidad,
+19 forma o empaque que tengan por efecto encubrir aumentos de precio
+20 injustificados o limitar la disponibilidad de bienes esenciales.
+21 En los casos en que un comerciante o distribuidor mantenga existencias de
+22 productos de primera necesidad y rehúse venderlos en contravención de las
+
+8
+1 disposiciones de esta Ley o de las órdenes debidamente emitidas al amparo de
+2 ella, el DACO podrá iniciar un procedimiento administrativo conforme a la Ley
+3 38, antes citada. Tras la debida notificación y oportunidad de ser oído, el DACO
+4 podrá imponer las sanciones y medidas correctivas que correspondan, incluyendo
+5 la incautación temporal de bienes, según lo autorice esta Ley. La negativa
+6 injustificada a vender productos de primera necesidad que se tengan en existencia
+7 constituirá evidencia prima facie de incumplimiento regulatorio.
+8 (d) Cuando el Secretario del DACO determine que la producción, importación o
+9 disponibilidad de artículos de primera necesidad no garantiza estabilidad,
+10 suficiencia o precios razonables acordes con las necesidades y el poder adquisitivo
+11 del pueblo, podrá ejercer las facultades necesarias para asegurar el abasto y
+12 cumplir los propósitos de esta Ley. Para esos fines, el DACO podrá comprar,
+13 almacenar, transportar y disponer de artículos de primera necesidad a nombre del
+14 Gobierno de Puerto Rico, conforme a las Leyes y reglamentos de compras
+15 aplicables y en estricto cumplimiento con el Plan Fiscal Certificado.
+16 Podrá, además, determinar mediante orden o reglamento los volúmenes,
+17 destinatarios y períodos de distribución, y conceder subsidios o incentivos
+18 temporales a productores locales cuando sea indispensable para preservar la
+19 producción interna y la estabilidad de precios, siempre que dichos incentivos no
+20 contravengan el Plan Fiscal Certificado ni otras disposiciones presupuestarias
+21 aplicables.
+
+9
+1 El DACO podrá, mediante regla u orden, limitar o prohibir la exportación de
+2 artículos de primera necesidad cuando las existencias sean necesarias para el
+3 consumo local. Igualmente, podrá adquirir, arrendar o utilizar facilidades de
+4 almacenamiento o distribución por cualquier medio legal, incluida la expropiación
+5 forzosa con la debida compensación y la justificación de necesidad pública, a
+6 nombre del Gobierno de Puerto Rico, en armonía con las restricciones fiscales y
+7 presupuestarias establecidas por la Junta de Supervisión y Administración
+8 Financiera para Puerto Rico.
+9 Cuando, como resultado de una emergencia o de un incumplimiento grave que
+10 ponga en riesgo el abasto, el DACO determine la necesidad de incautar
+11 temporalmente artículos de primera necesidad, deberá notificar por escrito al
+12 comerciante, productor o distribuidor el inventario y el valor estimado de los
+13 bienes, garantizando el derecho a revisión administrativa conforme a la Ley 38,
+14 supra. En situaciones de urgencia inminente, el DACO podrá ejecutar la
+15 incautación de manera inmediata, con notificación y vista expedita posterior
+16 dentro del término que fije el reglamento. La negativa injustificada a vender bienes
+17 esenciales o su retención con fines especulativos constituirá causa suficiente para
+18 el ejercicio de esta facultad.
+19 El afectado podrá solicitar revisión judicial de la incautación ante la Sala del
+20 Tribunal de Primera Instancia dentro de los diez (10) días de la notificación,
+21 limitada a la valoración de las existencias. El DACO librará la correspondiente
+22 orden de pago o depósito por el valor razonable de los bienes (o el justiprecio
+
+10
+1 aplicable, según corresponda por Ley), condicionado a la disponibilidad
+2 presupuestaria certificada conforme al Plan Fiscal Certificado.
+3 Los artículos adquiridos o incautados podrán ser distribuidos o vendidos a precios
+4 razonables a comerciantes debidamente licenciados, o destinados a programas de
+5 distribución gratuita en beneficio de la población, con preferencia a productos de
+6 manufactura local. El DACO documentará la cadena de custodia, condiciones de
+7 almacenamiento y, tratándose de perecederos, podrá disponer de ellos conforme
+8 a estándares sanitarios y reglamentarios.
+9 Las compañías navieras, transportistas, consignatarios o agentes de carga estarán
+10 obligados a informar electrónicamente al DACO, toda consignación o importación
+11 de artículos de primera necesidad, incluyendo la identidad de los consignatarios,
+12 a través del Sistema Integrado de Asuntos del Consumidor (SIAC) o la plataforma
+13 que disponga el DACO, según regulado mediante reglamento.
+14 (e) Las órdenes, reglas y reglamentos dictados bajo esta Ley podrán incluir las
+15 disposiciones que el Secretario de DACO estime necesarias para prevenir su
+16 evasión, elusión o incumplimiento, conforme a los principios establecidos por la
+17 Ley 38, supra.
+18 (f) El Secretario del DACO podrá, cuando en su criterio sea necesario y propio
+19 para poner en efecto los propósitos de esta Ley, prohibir, mediante regla u orden,
+20 el transporte, recibo, almacenamiento o venta en Puerto Rico de artículos que no
+21 sean de primera necesidad, o podrá determinar por regla u orden las cantidades
+22 que en cualquier período de tiempo puedan ser transportadas, recibidas,
+
+11
+1 almacenadas o vendidas de dichos artículos, y podrá establecerse un sistema de
+2 licencias para el transporte, recibo, almacenamiento o venta de dichos artículos.
+3 (g) Los tribunales de justicia tomarán conocimiento judicial de los reglamentos,
+4 reglas, órdenes y listas de precios aprobados, promulgados o adoptados o que en
+5 el futuro se aprobaren, promulgaren o adoptaren por el Secretario del DACO, así
+6 como de la publicación que de los mismos requiere esta Ley.
+7 (h) Cuando el Secretario del DACO, por motivo de una emergencia, dicte una
+8 orden de congelación y fijación de precios de los artículos de primera necesidad,
+9 esa orden tendrá una duración de diez (10) días, contados desde la fecha de su
+10 emisión, salvo cuando dicho funcionario disponga una duración menor o mayor
+11 o cuando, durante la vigencia de esta, resuelva acortar o extender dicho término.”
+12 Sección 3.- Se enmienda el Artículo 4 de la Ley Núm. 228 de 12 de mayo de 1942,
+13 según enmendada, para que lea como sigue:
+14 “Artículo 4.-
+15 El Secretario del DACO podrá, cuando en su criterio sea necesario para poner en
+16 efecto los propósitos de esta Ley, conceder o tomar préstamos con la garantía de
+17 artículos de primera necesidad en los términos que estime propios; y podrá
+18 disponer mediante venta o donación por los conductos que sean apropiados, de
+19 aquellos artículos que se obtengan a cuenta de los cobros de dichos préstamos y
+20 podrá pagar todos los gastos y pérdidas incidentales a estas operaciones.”
+21 Sección 4.- Se enmienda el Artículo 5 de la Ley Núm. 228 de 12 de mayo de 1942,
+22 según enmendada, para que lea como sigue:
+
+12
+1 “Artículo 5.-
+2 El Secretario del DACO tendrá facultad para proveer medios de transporte, para
+3 disponer la transportación de artículos de primera necesidad, y para
+4 transportarlos a Puerto Rico, ya hayan sido comprados por este o por personas
+5 particulares y por cualquier medio. Dichas gestiones podrán realizarse por
+6 cualquier medio de transporte disponible, incluyendo marítimo, aéreo o terrestre,
+7 conforme a la reglamentación aplicable y en coordinación con las agencias
+8 concernientes. El DACO podrá requerir a los operadores de transporte o
+9 consignatarios la notificación electrónica de los cargamentos y destinos de
+10 artículos de primera necesidad, a través de la plataforma digital de fiscalización
+11 que la Agencia establezca mediante reglamento, con el fin de garantizar la
+12 trazabilidad y control de la cadena de abasto.”
+13 Sección 5.- Se enmienda el Artículo 6 de la Ley Núm. 228 de 12 de mayo de 1942,
+14 según enmendada, para que lea como sigue:
+15 “Artículo 6.-
+16 Cuando el Secretario del DACO así lo crea propio y necesario para poner en
+17 práctica los propósitos de esta Ley, podrá tomar en coordinación con el
+18 Departamento de Agricultura, la Autoridad de Tierras, los municipios y otras
+19 instrumentalidades del Gobierno de Puerto Rico, cualesquiera medidas que estime
+20 necesarias en relación con la siembra y el cultivo de productos alimenticios, o de
+21 primera necesidad para usarse durante el período de la actual emergencia y por el
+22 tiempo subsiguiente que fuere necesario, incluyendo el poder de comprar semillas
+
+13
+1 y raíces; el de distribuirlas y el de hacerlas distribuir; el de sembrarlas, y el de
+2 cultivarlas en terrenos pertenecientes al Pueblo de Puerto Rico o a cualquier
+3 municipio de este; el de arrendar o expropiar tierras de personas particulares; el
+4 de distribuir los productos de las mismas en la forma dispuesta para los artículos
+5 comprados por él.”
+6 Sección 6.- Se enmienda el Artículo 7 de la Ley Núm. 228 de 12 de mayo de 1942,
+7 según enmendada, para que lea como sigue:
+8 “Artículo 7.-
+9 Cuando el Secretario del DACO lo crea propio y necesario para poner en efecto los
+10 propósitos de esta Ley, podrá organizar y dirigir cooperativas de producción de
+11 productos de primera necesidad, así como cooperativas de consumo que
+12 funcionen en coordinación con las cooperativas de producción.”
+13 Sección 7.- Se enmienda el Artículo 8 de la Ley Núm. 228 de 12 de mayo de 1942,
+14 según enmendada, para que lea como sigue:
+15 “Artículo 8.-
+16 Cuando el Secretario del DACO lo crea propio y necesario para poner en vigor los
+17 propósitos de esta Ley, podrá crear y administrar establecimientos para la venta
+18 al por mayor y al por menor de todos o cualesquiera artículos de primera
+19 necesidad y emplear las personas que fueren necesarias para tal fin.”
+20 Sección 8.- Se enmienda el Artículo 9 de la Ley Núm. 228 de 12 de mayo de 1942,
+21 según enmendada, para que lea como sigue:
+22 “Artículo 9.-
+
+14
+1 (a) El Secretario del DACO está autorizado para realizar aquellos estudios o
+2 investigaciones y para obtener aquella información que crea necesaria y propia
+3 para ayudarlo en el establecimiento de cualquier regla y orden bajo esta Ley, o en
+4 la administración y cumplimiento de estas y las reglas, órdenes y escalas de precios
+5 que bajo ellas se aprobaren.
+6 (b) El Secretario del DACO queda, por sí o por sus delegados, autorizado además
+7 para requerir, mediante regla u orden, por sí o sus delegados a cualquier persona
+8 dedicada a negocios en que estén envueltos artículos de primera necesidad, para
+9 que tal persona provea aquella información bajo juramento o en otra forma, y lleve
+10 y guarde aquellos récords y otros documentos y haga aquellos informes que
+11 fueren necesarios para poner en vigor los propósitos de esta Ley, y podrá requerir
+12 además de tales personas que permitan la inspección y copia de sus récords,
+13 inventarios y otros documentos. Dicha información deberá presentarse y
+14 mantenerse actualizada mediante la plataforma electrónica de fiscalización y
+15 cumplimiento que la agencia establecerá por reglamento. El Secretario del DACO
+16 por sí o sus delegados podrá tomar declaraciones bajo juramento, y tendrá la
+17 facultad, cuando fuere necesario, para expedir citaciones con apercibimiento de
+18 desacato para la comparecencia de testigos y para la presentación de libros y otros
+19 documentos.
+20 (c) …
+21 (d) …”
+
+15
+1 Sección 9.- Se enmienda el Artículo 10 de la Ley Núm. 228 de 12 de mayo de 1942,
+2 según enmendada, para que lea como sigue:
+3 “Artículo 10.-
+4 (a) ...
+5 (b) Será ilegal de parte de cualquier oficial o empleado del Gobierno, o de algún
+6 consultor o consejero del Secretario del DACO revelar, a menos que fuere
+7 necesario en el cumplimiento de sus deberes oficiales, cualquier información
+8 obtenida bajo esta Ley o utilizar dicha información para beneficio personal.”
+9 Sección 10.- Se enmienda el Artículo 11 de la Ley Núm. 228 de 12 de mayo de 1942,
+10 según enmendada, para que lea como sigue:
+11 “Artículo 11.-
+12 (a) Dentro de los diez (10) días siguientes a la promulgación de cualquier regla u
+13 orden, o de una escala de precios, cualquier persona sujeta directamente a las
+14 disposiciones de dicha regla, u orden o escala de precios podrá radicar una
+15 solicitud de reconsideración especificando sus objeciones a cualquiera de dichas
+16 disposiciones, acompañándola de declaraciones juradas (affidavits) o de otra
+17 prueba escrita en apoyo de tales objeciones. En cualquier tiempo después de la
+18 expiración de dichos diez (10) días, cualquier persona sujeta a las disposiciones de
+19 cualquier regla, u orden o escala de precios, podrá radicar tal solicitud de
+20 reconsideración basada solamente en fundamentos ocurridos después de la
+21 expiración de los referidos diez (10) días. Dentro de un término razonable después
+22 de la radicación de cualquier solicitud de reconsideración bajo esta Ley, pero en
+
+16
+1 ningún caso después de treinta (30) días de su radicación, y cuarenta (40) días
+2 después de la promulgación de la regla, orden o escala de precios, el Secretario del
+3 DACO resolverá tal solicitud de reconsideración, la señalará para vista o proveerá
+4 una oportunidad para presentar prueba adicional en conexión con la misma. En
+5 caso de que el Secretario del DACO declare sin lugar cualquier solicitud de
+6 reconsideración en todo o en parte, informará al solicitante los fundamentos de su
+7 decisión, y los datos y hechos de que el Secretario del DACO ha tomado
+8 conocimiento oficial.
+9 (b) En la administración de esta Ley, el Secretario del DACO podrá tomar
+10 conocimiento oficial de datos económicos, y de otros hechos, incluyendo hechos
+11 comprobados por este de acuerdo con las investigaciones que haya practicado de
+12 acuerdo con esta Ley.
+13 (c) Los procedimientos bajo esta Ley podrán ser limitados por el Secretario del
+14 DACO a la radicación de declaraciones juradas u otra prueba escrita y a la
+15 presentación de alegatos siempre que dicha limitación no prive a las partes de la
+16 oportunidad razonable de ser oídas, de presentar prueba o de impugnar la
+17 evidencia presentada en su contra, conforme a los principios del debido proceso
+18 de Ley y las disposiciones supletorias de la Ley 38, supra.”
+19 Sección 11.- Se enmienda el Artículo 12 de la Ley Núm. 228 de 12 de mayo de 1942,
+20 según enmendada, para que lea como sigue:
+21 “Artículo 12.-
+
+17
+1 Cualquier persona adversamente afectada por una orden, resolución o reglamento
+2 final emitido por el DACO al amparo de esta Ley, podrá solicitar revisión judicial
+3 conforme a la Ley 38, antes citada. La presentación de una solicitud de
+4 reconsideración o de revisión judicial no suspenderá la efectividad de la orden,
+5 reglamento o resolución impugnados. Únicamente mediante la concesión de un
+6 auxilio de jurisdicción emitido por el Tribunal podrá suspenderse total o
+7 parcialmente la aplicación de una medida administrativa, cuando ello sea
+8 estrictamente necesario para evitar un perjuicio irreparable o para preservar la
+9 efectividad de la jurisdicción del tribunal.”
+10 Sección 12.- Se enmienda el Artículo 13 de la Ley Núm. 228 de 12 de mayo de 1942,
+11 según enmendada, para que lea como sigue:
+12 “Artículo 13.-
+13 (a) Cuando, en el criterio del Secretario del DACO, alguna persona haya incurrido
+14 o esté por incurrir en un acto o práctica que constituya una violación de alguna
+15 disposición de esta Ley o de un reglamento, resolución u orden emitido por este,
+16 podrá solicitar del tribunal competente la expedición de una orden impidiendo la
+17 comisión o continuación de tales actos o prácticas, o de un injunction para obligar
+18 al cumplimiento de dicha disposición y previa la demostración del Secretario del
+19 DACO en el sentido de que dicha persona ha incurrido o está por incurrir en dicha
+20 violación, el tribunal expedirá, libre de fianza, un injunction de carácter temporero,
+21 permanente, u orden de entredicho, según sea solicitado.
+
+18
+1 (b) Cualquier persona que violare alguna disposición de esta Ley, o de cualquier
+2 reglamento, resolución u orden emitidos por el Secretario del DACO de acuerdo
+3 con las disposiciones de esta Ley, y cualquier persona que radique o haga alguna
+4 declaración o informe falso en algún aspecto fundamental en algún documento o
+5 informe requerido de dicha persona por el antes mencionado funcionario,
+6 incurrirá en delito menos grave y de ser convicta se le castigará con una multa no
+7 menor de cinco mil dólares ($5,000.00) o reclusión por un término que no excederá
+8 de seis (6) meses, o ambas penas, a discreción del tribunal. En caso de reincidencia
+9 se castigará con reclusión por un término fijo de dos (2) años y además con multa
+10 que no excederá de diez mil dólares ($10,000). Disponiéndose, sin embargo, que
+11 toda persona que violare cualquier reglamento, resolución u orden emitidos por
+12 el Secretario del DACO relativos a prácticas de acaparamiento de algún artículo
+13 de primera necesidad, incurrirá en delito grave, y, convicta que fuere, se le
+14 castigará con pena de reclusión por un término fijo de dos (2) años, y además, con
+15 multa que no excederá de diez mil dólares ($10,000). Disponiéndose, que las
+16 personas convictas de las infracciones antes mencionadas no podrán acogerse a los
+17 beneficios de la Ley de Sentencia Suspendida y Libertad a Prueba, ni de ninguna
+18 otra Ley que permita la suspensión de sentencias en casos criminales en Puerto
+19 Rico. No se impondrán costas al Gobierno de Puerto Rico por ningún
+20 procedimiento incoado de acuerdo con esta Ley. Si un acusado de violación de
+21 esta Ley o de cualquier reglamento, resolución u orden emitidos por el Secretario
+22 del DACO alegare como defensa la invalidez de esta Ley, reglamento, resolución
+
+19
+1 u orden, la Sala del Tribunal de Primera Instancia de Puerto Rico que entienda en
+2 el procedimiento deberá entrar en los méritos de la misma y no pospondrá la vista
+3 o decisión del caso por razón de encontrarse pendiente en cualquier otra causa
+4 civil o criminal surgida bajo los términos de esta Ley la validez de dicha Ley,
+5 reglamento, resolución u orden.
+6 (c) En los casos de violaciones de esta Ley o de cualquier reglamento, resolución u
+7 orden emitidos por el Secretario del DACO, que no sean casos de reincidencia,
+8 este podrá imponer multas administrativas antes de incoarse el procedimiento
+9 ante los tribunales, o después de incoarse, si el caso fuere referido por el tribunal
+10 al Secretario del DACO para la acción administrativa correspondiente, y a ese
+11 efecto, se autoriza y faculta a dicho funcionario para fijar y cobrar en estos casos
+12 multas administrativas; Disponiéndose, que cada multa administrativa no
+13 excederá de mil dólares ($1,000) en todo caso de violación a reglamentos,
+14 resoluciones u órdenes de precios máximos. En casos de violaciones a
+15 reglamentos, resoluciones u órdenes de precios mínimos, la multa no será menor
+16 que la diferencia, bajo las mismas condiciones de entrega, entre el precio mínimo
+17 establecido y el costo del artículo al comprador. Dicha multa se determinará sobre
+18 el total de las unidades compradas y envueltas en la transacción que motivó la
+19 violación. Disponiéndose, además, que el producto de dichas multas
+20 administrativas ingresará al “Fondo de Artículos de Primera Necesidad, Fondo de
+21 Depósito”, que se crea por esta Ley.
+
+20
+1 (d) Cuando el Secretario del DACO, luego de celebrada audiencia, a instancias de
+2 un consumidor querellante, determine que se ha vendido un artículo o producto
+3 en contravención a los reglamentos de precios establecidos, tendrá facultad para
+4 ordenar al querellado a pagar al querellante una cantidad en concepto de daños.
+5 La cantidad a ser adjudicada en concepto de los daños será al triple de la diferencia
+6 entre el precio fijado por el Secretario del DACO y el precio a que se vendió el
+7 artículo o producto al consumidor o cien dólares ($100), la cantidad que sea mayor.
+8 (e) Cuando, en el criterio del Secretario del DACO, tal acción sea necesaria o propia
+9 para poner en efecto los propósitos de esta Ley, y, principalmente, el fin de
+10 abaratamiento del costo de productos de primera necesidad para los habitantes de
+11 Puerto Rico, y para asegurar el cumplimiento de algún reglamento, resolución u
+12 orden dictados bajo esta Ley, dicho funcionario podrá requerir a todas las personas
+13 sujetas a algún reglamento, resolución u orden emitidos bajo esta Ley, la obtención
+14 de una licencia expedida por el mismo Secretario del DACO como condición
+15 previa indispensable para que dicha persona pueda dedicarse a la venta o
+16 cualquier aspecto del negocio referente a algún artículo de primera necesidad al
+17 cual tal reglamento, resolución u orden es aplicable. Estarán excluidos de las
+18 disposiciones de este inciso los agricultores productores que se dediquen a la venta
+19 de sus propios productos agrícolas. Ninguna persona natural o jurídica podrá
+20 dedicarse a los referidos negocios sin la previa obtención de la mencionada
+21 licencia, y toda violación a esta disposición aparejará una multa adicional a la
+22 multa que conlleva de acuerdo con el inciso (c) de este Artículo, no menor del triple
+
+21
+1 de la cantidad total objeto del negocio prohibido. El Secretario del DACO no
+2 denegará ninguna solicitud de licencia, salvo en los casos que más adelante se
+3 detallan. Las licencias podrán ser denegadas y suspendidas por las siguientes
+4 causas: (1) Violación de un reglamento de precios, (2) violación a las resoluciones
+5 u órdenes del Secretario del DACO dictadas bajo sus prerrogativas legales, (3)
+6 violación de alguna disposición de esta Ley. Cuando en el criterio del Secretario
+7 del DACO alguna persona haya violado alguna disposición de la licencia o haya
+8 incurrido en alguno de los actos que dan lugar a la suspensión de la misma, éste
+9 podrá hacer una petición escrita para ante el Tribunal de Primera Instancia,
+10 solicitando que la licencia de la persona aludida sea suspendida, mediante orden
+11 del tribunal, por un término no mayor de seis (6) meses. Dicha petición será
+12 considerada como una querella, y se iniciará el procedimiento conducente a la
+13 suspensión de la licencia, el cual deberá terminarse dentro de los diez (10) días
+14 siguientes a la radicación de la petición. Dentro de los límites de ese término, el
+15 tribunal estará obligado a dictar una providencia denegando o expidiendo la
+16 orden solicitada. La orden del tribunal suspendiendo la licencia no será apelable.
+17 En caso de dictar el tribunal una orden denegando la suspensión, el Secretario del
+18 DACO, dentro de los cinco (5) días siguientes al archivo de la orden podrá apelar
+19 al Tribunal Supremo de Puerto Rico. Durante el tiempo que dure la suspensión, el
+20 Secretario del DACO podrá denegar cualquier solicitud de licencia radicada por
+21 la persona sujeta al reglamento, resolución u orden. Disponiéndose, además, que
+22 el Secretario del DACO podrá ejercitar el derecho de incautación conferido por
+
+22
+1 esta Ley sobre las existencias de productos de primera necesidad, propiedad de la
+2 persona sujeta a la orden de suspensión.”
+3 Sección 13.- Se enmienda el Artículo 15 de la Ley Núm. 228 de 12 de mayo de 1942,
+4 según enmendada, para que lea como sigue:
+5 “Artículo 15.-
+6 (a) …
+7 (b) …
+8 (c) …
+9 (d) …
+10 (e) … ”
+11 Sección 14.- Se añade un nuevo Artículo 16, a la Ley Núm. 228 de 12 de mayo de
+12 1942, según enmendada, que leerá como sigue:
+13 “Artículo 16.-
+14 (a) El Departamento de Asuntos del Consumidor establecerá, operará, mantendrá
+15 y actualizará el Sistema Integrado de Asuntos del Consumidor SIAC, o cualquier
+16 otra plataforma electrónica que determine o cree para estos fines, como sistema
+17 central para la radicación, actualización, custodia y consulta de la información,
+18 documentos y reportes requeridos a los comerciantes, distribuidores e
+19 importadores sujetos a esta Ley y a los reglamentos u órdenes emitidos al amparo
+20 de esta.
+21 (b) Todas las personas naturales o jurídicas sujetas a esta Ley deberán registrarse
+22 y radicar en el SIAC o en la plataforma que disponga el DACO, dentro de los
+
+23
+1 términos que establezca el reglamento del DACO, la documentación y datos
+2 requeridos, incluyendo, sin limitarse a: licencias o permisos aplicables, listas de
+3 precios, inventarios de artículos de primera necesidad, facturas y evidencias de
+4 costo, consignaciones, reportes de abasto y cualesquiera certificaciones exigidas
+5 por reglamento u orden.
+6 (c) Para fines de inspección y fiscalización, el expediente electrónico en el SIAC o
+7 en la plataforma habilitada constituirá el repositorio oficial. Durante una
+8 inspección, la persona inspeccionada podrá dirigir al inspector o inspectora a
+9 verificar la información en dicha plataforma. La constancia de radicación
+10 electrónica, con sello de tiempo del sistema, hará plena fe de su presentación. La
+11 imposibilidad temporal de acceso en campo por razones técnicas no se considerará
+12 incumplimiento si el comerciante demuestra que la información fue radicada
+13 oportunamente y se confirma dentro de un término razonable que fijará el
+14 reglamento.
+15 (d) Los documentos e información radicados en el SIAC o en la plataforma
+16 correspondiente tendrán el mismo efecto legal y valor probatorio que sus
+17 equivalentes en papel.
+18 (e) El DACO garantizará el manejo confidencial de la información protegida por
+19 Ley, habilitará controles de acceso y mantendrá bitácoras de acceso y cambios. El
+20 uso, divulgación o tratamiento de datos estará sujeto a las limitaciones de esta Ley
+21 y de cualesquiera otras Leyes aplicables.”
+22 Sección 15.- Se reenumera el actual Artículo 16 de la Ley Núm. 228 de 12 de mayo
+
+24
+1 de 1942, según enmendada, como Artículo 17.
+2 Sección 16.- Se reenumera el actual Artículo 17 de la Ley Núm. 228 de 12 de mayo
+3 de 1942, según enmendada, como Artículo 18, y a su vez se enmienda, para que lea como
+4 sigue:
+5 “Artículo 18.-
+6 Por la presente se crea en el Tesoro de Puerto Rico un fondo especial que se
+7 denominará “Fondo de Artículos de Primera Necesidad, Fondo de Depósito”, que estará
+8 a disposición del Secretario del DACO para los fines de la ejecución de esta Ley.
+9 En lo sucesivo el producto de cualquier venta o transacción efectuada por el
+10 Secretario del DACO, de artículos adquiridos por él, se reembolsará al “Fondo de
+11 Artículos de Primera Necesidad, Fondo de Depósito”, según se crea en esta Ley, y
+12 quedará a disposición de dicho funcionario, para ser invertido o gastado de acuerdo con
+13 las disposiciones esta Ley.”
+14 Sección 17.- Se reenumeran los actuales Artículos 18, 19, 20 y 21 de la Ley Núm.
+15 228 de 12 de mayo de 1942, según enmendada, como los Artículos 19, 20, 21 y 22,
+16 respectivamente.
+17 Sección 18.- Separabilidad.
+18 Si cualquier cláusula, párrafo, artículo, sección, inciso o parte de esta Ley fuere
+19 declarada inconstitucional por un tribunal competente, la sentencia a tal efecto dictada
+20 no afectará, perjudicará ni invalidará el resto de esta. El efecto de dicha sentencia quedará
+21 limitado a la cláusula, párrafo, artículo, sección, inciso o parte de esta que así hubiere sido
+22 declarada inconstitucional.
+
+25
+1 Sección 19.- Vigencia.
+2 Esta Ley comenzará a regir ciento ochenta (180) días después de su aprobación.
+3 Una vez comience a regir, el Secretario del DACO contará con un término de ciento
+4 ochenta (180) días adicionales a partir de su vigencia, para adoptar aquella
+5 reglamentación que se entienda necesaria, para implantar las disposiciones de la Sección
+6 14 de esta Ley y para actualizar el Sistema Integrado de Asuntos del Consumidor (SIAC)
+7 o cualquier otra plataforma que determine o cree para estos fines, de modo que viabilice
+8 la radicación, custodia, fiscalización e interoperabilidad de la información a la que se
+9 refiere esa Sección. Durante el término de promulgación de la reglamentación a la que
+10 aquí se hace referencia, el Secretario del DACO podrá emitir órdenes administrativas
+11 para disponer los mecanismos temporeros de cumplimiento digital, sin menoscabo del
+12 derecho de los comerciantes y consumidores a utilizar el SIAC una vez completada su
+13 actualización.
+
+[DELETED: 0   2 .dL   n e e d e i e l c d s y e l p p p h t p i y v a e l c d t y]
+[DELETED:  L t c o p d d m e a d A d C ( c l e e d r y s l “ I d S a s u p d p l p c e i d l l d c e m d f y t E d s e c e r o d l d p f i d a y o d r p E s p l t d l c d s y a l r d c a r L c d e a c l c d a y p d l l a]
+[DELETED:  f p e p m o m g i e i m r l d r r p e T , s l a r d l a r y d l d d e L T l f d y]
+[DELETED:  p e l f d s o c l c d d e p d d a d p n o y q p e v l p d e L S q s]
+[DELETED:  e S d D t e c a f p d l c e c d e o p e e s m a n]
+[DELETED:  o a p r o o e d p e p d n r ó o r e p e D a a d e d P R E S d D g l d a d u d d m q e l c L d e p e l e y p a l E l c d e e e o a ,]
+[DELETED:  o y p q s n p l p c)T D p c l c d y a q s p d e L p r m r u o l o e q t p e e a d p l c e q u c o d m e d d p n y r v e c d l]
+[DELETED:  i t d b s l a e L L n   d a d p n n g e p p e l f n p a e a y l L D d P R c a l L y r d c y e e c c e P F C a d m o o r l v y p d d y c s o i a p l c s i p p l]
+[DELETED:  D m o l o l d d p n c l e s n p e l I p a a o u f d c l d c y l j d n p a e p l J d S y A e r e a e D d l n d i a d p n d n p e a o d e i v e d E s d u i e D p e l d m i c n y v e p a p s r j d l i a l S d d P I d d l d ( d d l n D]
+[DELETED:  s c p L c a l d)Lni q e S d D e n p p s . e c p d t p s t r]
+[DELETED: lS d p n e l t q e p y p]
+[DELETED: lS l t d a d p n y pre y p c m D g p r p a l r a y e c c l a E D p r a l o d t o l n e d l c y d d l A e m r c e f d g llS l p d e L p t e c c e l m o]
+[DELETED:  e t p a P d P R o a c d p n a c c d c q p m y a p m d t o c a d p]
+[DELETED:  E S d D e a p r a e o g a r y o d y h a i q d t p q p l i y c d s r y o d D i d p y a m l p e d f y s s d t d l]
+[DELETED:  o c dlS d D r a m q f e e c d s d o c i o e s d d r u o o e d p pár u a d d j ( o d o r u o o e d p p r t s d b s e f o d d l]
+[DELETED: lSaE d q e S d D d s l c s d y l d y h d q e S d D h t E l a d e L elS d D p t a l r d d j u o p e y a l r d s o d p p o d i l]
+[DELETED:  a l L 3 a c L p d u s d d j e p e T p s t o l a d u m a c e s]
+[DELETED:  r d d p p e a m flS p n i e d g y c q f s l q n e d d m d ( D q l N s i c a G d P R p nlS]
+[DELETED:  LlS,lSaa a D q c m a n d m d ( e t c d v a r u ó d p m E c d v a D a q e p d d m]
+[DELETED: lS p e e l p d e L y p e f d u l e p e moS d D c c i p q d p p d a l v o t r r u o e a E e d l p n o a l r n s l p o d l m]
+[DELETED:  l c t o d n p ElS d D n L l p s d y s p l slSlS h u p e p a e T d P I t p u t n m d s ( m D p s e o a d u p d o e l]
+[DELETED:  y r r a l c d eoe]
+[DELETED:  q e e r d D l d y d l p h c e r o D u l p i p d a i o i a l i e d p L c d r s e c d q l i f r y s c d d u t r q f e L d e i r e e S o e l p t e m e l y v p q sS]
+[DELETED: S l p s c e e T d P R u f e q s l s e p d c v o t e p e d D d a a p é s r a “ d d P N F d D s s c e e L y d 1 d m d 1 s e c l A 1 2 2 y 2]
+[DELETED:  v S D c u ( d a a p d s v p a a]
