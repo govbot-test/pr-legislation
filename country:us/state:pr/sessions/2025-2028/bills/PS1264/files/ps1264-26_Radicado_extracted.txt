@@ -1,0 +1,873 @@
+Title: Para enmendar los Artículos 2, 3, 18, 19, 31 y 38, y añadir un nuevo Artículo 21-E
+Official Title: Para enmendar los Artículos 2, 3, 18, 19, 31 y 38, y añadir un nuevo Artículo 21-E
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1264
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+a la Ley Núm. 24 de 22 de abril de 1931, según enmendada, conocida como “Ley del
+Registro Demográfico de Puerto Rico”, a los fines de establecer el procedimiento de
+inscripción de nacimiento de menores nacidos mediante técnicas de reproducción
+humana asistida o gestación por subrogación; disponer los documentos requeridos para
+la inscripción; establecer el efecto registral de la orden judicial prenatal, determinación
+judicial de filiación, reconocimiento voluntario, consentimiento procreativo válido o
+documento autorizado por ley; proteger la confidencialidad de la información médica,
+genética, reproductiva, contractual, judicial y registral; prohibir que el certificado público
+revele la forma de concepción, la utilización de gametos o embriones donados, la
+identidad de la persona donante, la existencia de un acuerdo de gestación por
+subrogación o la identidad de la persona gestante; facultar al Departamento de Salud a
+revisar formularios, protocolos, sistemas y reglamentos del Registro Demográfico; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Registro Demográfico de Puerto Rico constituye una institución esencial para la
+seguridad jurídica, la identidad civil y el reconocimiento formal de los actos vitales de las
+personas. A través de la inscripción de nacimientos, matrimonios, defunciones, divorcios,
+cambios de estado civil y demás actos registrales autorizados por ley, el Registro
+2
+Demográfico provee certeza documental sobre la existencia jurídica de las personas, su
+filiación, su nombre, su edad, su estado civil y otros datos esenciales para el ejercicio de
+derechos civiles, familiares, patrimoniales, sucesorios, educativos, sanitarios y
+administrativos.
+La inscripción de nacimiento, en particular, no es un trámite meramente
+administrativo. Es el acto registral mediante el cual el Estado reconoce oficialmente el
+nacimiento de una persona, su identidad jurídica inicial y los vínculos filiatorios que
+producirán consecuencias legales desde el comienzo de la vida. De esa inscripción
+dependen asuntos tan fundamentales como la patria potestad, la custodia, los alimentos,
+la autoridad para tomar decisiones médicas, el acceso a seguros de salud, beneficios
+públicos y privados, derechos sucesorios, documentos de identidad, matrícula escolar y
+otros derechos que requieren una filiación clara, estable y verificable.
+El desarrollo de las técnicas de reproducción humana asistida ha generado nuevas
+realidades familiares que no siempre encuentran una respuesta adecuada en los
+formularios, procesos y categorías tradicionales del Registro Demográfico. En los casos
+de reproducción humana asistida pueden intervenir una persona o personas
+progenitoras intencionales, una persona donante de gametos o embriones, una clínica de
+reproducción asistida, profesionales médicos, y, en los casos de gestación por
+subrogación, una persona gestante que no necesariamente tiene vínculo genético ni
+intención filiatoria respecto al menor nacido.
+Estas realidades requieren un régimen registral específico que permita inscribir el
+nacimiento conforme a la filiación jurídica correcta, sin exponer innecesariamente
+información médica, genética, reproductiva o contractual de carácter íntimo y
+confidencial. El Código Civil de Puerto Rico reconoce que el parto determina la
+maternidad, excepto en casos de maternidad subrogada en los cuales la persona gestante
+no tiene vínculo genético con el menor y desde un principio su intención fue llevar el
+embarazo a término para otra persona.
+Esa excepción civil requiere una consecuencia registral clara. Si la filiación jurídica
+corresponde a la persona o personas progenitoras intencionales, el Registro Demográfico
+3
+debe contar con autoridad expresa para inscribir el nacimiento de forma consistente con
+dicha filiación, sin imponer trámites innecesarios, sin crear certificados que reflejen una
+realidad filiatoria incorrecta y sin obligar a correcciones posteriores que pudieron evitarse
+mediante una inscripción original adecuada.
+La ausencia de normas registrales específicas puede provocar incertidumbre
+jurídica. Un menor nacido mediante reproducción humana asistida o gestación por
+subrogación puede enfrentar retrasos en su inscripción, certificados que no reflejen
+adecuadamente su filiación, procesos judiciales adicionales, exposición innecesaria de
+información médica o genética, e incluso controversias sobre quiénes tienen autoridad
+legal para tomar decisiones inmediatas sobre su cuidado, salud y protección. En materia
+de niñez, la demora registral o la incertidumbre filiatoria no es un asunto menor; puede
+incidir directamente sobre el mejor bienestar del menor y sobre el ejercicio efectivo de sus
+derechos.
+De igual forma, las personas progenitoras intencionales necesitan un mecanismo
+registral claro que reconozca la filiación jurídica que surge de la voluntad procreativa
+válida, de una orden judicial prenatal, de una determinación judicial de filiación, de un
+reconocimiento voluntario o de cualquier documento autorizado por ley. La persona
+gestante, por su parte, requiere que el sistema registral no le imponga una filiación que
+no corresponde cuando no aportó material genético, no tuvo intención filiatoria y el
+proceso fue validado conforme a derecho. Asimismo, las personas donantes de gametos
+o embriones requieren protección contra la creación indebida de vínculos filiatorios por
+el solo hecho de la donación, cuando no existe voluntad procreativa de su parte.
+Esta Ley responde a esa necesidad mediante enmiendas puntuales a la Ley del
+Registro Demográfico de Puerto Rico. La medida no pretende regular sustantivamente
+todos los aspectos de la reproducción humana asistida ni de la gestación por subrogación;
+esa materia corresponde al Código Civil y a la ley especial que regule dichos acuerdos.
+Esta Ley atiende el componente estrictamente registral: quién puede declarar el
+nacimiento, qué documentos permiten la inscripción, cómo debe reflejarse la filiación
+4
+jurídica, cómo deben conservarse los documentos de apoyo, qué información debe
+mantenerse confidencial y qué debe excluirse del certificado público de nacimiento.
+La medida también reconoce la importancia de la confidencialidad. La forma en
+que una persona fue concebida o gestada pertenece al ámbito de la intimidad personal,
+familiar, médica y genética. Esa información no debe aparecer en el certificado público
+de nacimiento ni divulgarse a terceros sin autorización legal, consentimiento válido u
+orden judicial fundada en justa causa. El certificado público debe cumplir su función
+esencial: acreditar la identidad jurídica y la filiación legal de la persona inscrita. No debe
+convertirse en un documento que revele información reproductiva sensible, datos
+genéticos, identidad de donantes, acuerdos privados o circunstancias médicas de la
+gestación.
+El ordenamiento vigente ya reconoce la confidencialidad como principio rector del
+Registro Demográfico. La propia Ley del Registro Demográfico dispone que toda la
+información recopilada por el Registro tendrá carácter confidencial y que el Registro
+velará para que la información bajo su custodia sea divulgada únicamente en las
+circunstancias y condiciones que la ley permite. Asimismo, en otros contextos, como la
+adopción, la Ley ya reconoce la posibilidad de sustituir actas, conservar documentos en
+archivos confidenciales y limitar la divulgación de información original.
+Las enmiendas que se proponen se integran de manera armoniosa con la
+estructura existente de la Ley Núm. 24 de 1931 y evitan crear un procedimiento registral
+paralelo innecesario. Esta Asamblea Legislativa entiende que el mejor bienestar del
+menor exige que todo niño o niña nacido mediante reproducción humana asistida o
+gestación por subrogación tenga una inscripción registral oportuna, correcta, estable y
+libre de estigmas. También exige que la filiación jurídica reconocida por el ordenamiento
+civil se refleje adecuadamente en el certificado de nacimiento y que la información íntima
+sobre concepción, gestación, donación genética o acuerdos reproductivos se mantenga
+protegida.
+Mediante esta Ley, Puerto Rico adopta una respuesta registral moderna, prudente
+y jurídicamente necesaria. Se fortalece la certeza del Registro Demográfico, se protege la
+5
+confidencialidad, se evita la exposición innecesaria de información médica y genética, se
+provee uniformidad administrativa, se reducen litigios evitables y se asegura que la
+identidad jurídica del menor no dependa de vacíos procesales o de interpretaciones
+administrativas inconsistentes.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 2 de la Ley Núm. 24 de 22 de abril de 1931,
+2 según enmendada, para añadir nuevos incisos (14), (15), (16), (17) y (18), para que lea
+3 como sigue:
+4 Artículo 2. — Definiciones.
+5 Cuando en esta Ley se use:
+6 ...
+7 (14) “Orden judicial prenatal” – se refiere a la resolución, sentencia u orden emitida por
+8 un tribunal competente antes del nacimiento de un menor concebido mediante gestación por
+9 subrogación, mediante la cual se valida, reconoce o determina la filiación jurídica que deberá
+10 constar en el certificado de nacimiento al momento de la inscripción.
+11 (15) “Reproducción humana asistida” - significará el conjunto de técnicas, métodos o
+12 procedimientos médicos reconocidos mediante los cuales se procura la concepción o gestación de
+13 una persona, incluyendo, sin limitarse a, inseminación, fertilización in vitro, transferencia
+14 embrionaria, donación de gametos o embriones y gestación por subrogación gestacional, conforme
+15 a las leyes aplicables.
+16 (16) “Persona progenitora intencional” - la persona que ha prestado voluntad procreativa
+17 válida conforme al Código Civil de Puerto Rico o ley especial aplicable, y a quien corresponde la
+6
+1 filiación jurídica del menor nacido mediante reproducción humana asistida o gestación por
+2 subrogación.
+3 (17) “Voluntad procreativa” - es el consentimiento previo, libre, informado, expreso y por
+4 escrito mediante el cual una persona acepta asumir la filiación jurídica de un menor concebido
+5 mediante técnicas de reproducción humana asistida, conforme al Código Civil de Puerto Rico o ley
+6 especial aplicable.
+7 (18) “Documento autorizado por ley” significará toda orden judicial prenatal, sentencia,
+8 resolución, determinación judicial de filiación, reconocimiento voluntario, consentimiento
+9 procreativo válido, certificación médica, declaración jurada, acuerdo aprobado conforme a ley o
+10 cualquier otro documento que, conforme al Código Civil de Puerto Rico, esta Ley o una ley especial
+11 aplicable, permita establecer o acreditar la filiación jurídica de un menor nacido mediante
+12 reproducción humana asistida o gestación por subrogación.
+13 Sección 2. Se enmienda el Artículo 3 de la Ley Núm. 24 de 22 de abril de 1931,
+14 según enmendada, para añadir un nuevo párrafo al final, para que lea como sigue:
+15 Artículo 3. — Registro General Demográfico de Puerto Rico.
+16 Por la presente se crea el Registro General Demográfico de Puerto Rico, que será
+17 establecido en la División de Registro Demográfico y Estadísticas Vitales del
+18 Departamento de Salud de Puerto Rico. Dicho Departamento tendrá a su cargo todo lo
+19 concerniente a la inscripción de los nacimientos, casamientos y defunciones que ocurran
+20 o se celebren en Puerto Rico; llevará un registro de todos los divorcios que se otorguen
+21 en Puerto Rico; preparará las instrucciones, formas, impresos y libros necesarios para
+22 obtener y conservar dichos récords y procurará que los mismos sean registrados en cada
+7
+1 distrito primario de registro según se constituyen por esta Ley y en la División de Registro
+2 Demográfico y Estadísticas Vitales del Departamento de Salud. Toda la información
+3 recopilada por el Registro Demográfico tendrá carácter confidencial.
+4 El Registro velará que la información bajo su custodia sea divulgada, únicamente,
+5 en las circunstancias y condiciones que dispone esta ley. Se autoriza la divulgación de
+6 información pertinente a la Comisión Estatal de Elecciones para fines exclusivos de
+7 verificación y depuración del Registro General de Electores. Esta divulgación incluirá,
+8 pero no se limitará a, certificados de defunción y otros documentos necesarios para
+9 asegurar la precisión y actualidad del registro electoral.
+10 El Secretario de Salud cuidará de que esta Ley sea observada y aplicada
+11 uniformemente en todo el Estado Libre Asociado de Puerto Rico, incluyendo las islas
+12 adyacentes de Culebra y Vieques; recomendará de tiempo en tiempo la legislación
+13 adicional que sea necesaria a este propósito y dictará aquellas reglas y reglamentos que
+14 no estén en conflicto con las disposiciones de esta Ley y que sean necesarios para
+15 complementar las disposiciones de la misma. Dichos reglamentos luego de aprobados y
+16 promulgados por el Gobernador de Puerto Rico tomarán fuerza de ley.
+17 El Registro Demográfico tendrá autoridad expresa para inscribir nacimientos ocurridos en
+18 Puerto Rico mediante técnicas de reproducción humana asistida o gestación por subrogación
+19 conforme a la orden judicial prenatal, determinación judicial de filiación, reconocimiento
+20 voluntario, consentimiento procreacional válido o documento autorizado por ley. En estos casos,
+21 el Registro Demográfico velará por que la inscripción refleje la filiación jurídica correspondiente y
+8
+1 protegerá la confidencialidad de toda información médica, genética, reproductiva, contractual,
+2 judicial y registral relacionada con la concepción, gestación o nacimiento.
+3 Sección 3. — Se enmienda el Artículo 18 de la Ley Núm. 24 de 22 de abril de 1931,
+4 según enmendada, para añadir un nuevo párrafo al final, para que lea como sigue:
+5 Artículo 18. — Personas obligadas a hacer declaración; orden.
+6 Están obligados a hacer dicha declaración del nacimiento certificando la misma
+7 con su firma y/o a responder al cotejo del Registro Demográfico para completarla, por el
+8 orden que se pasa a indicar, y unos a falta de otros, por causas legítimas:
+9 (1) El médico que atendió el parto.
+10 (2) El administrador o director de la institución u otro profesional de la salud
+11 cuando el nacimiento ocurra en un hospital, sanatorio, asilo, penitenciaría o cualquiera
+12 otra institución pública o privada establecida en Puerto Rico.
+13 (3) El padre o la madre.
+14 (4) La persona que asistió en el nacimiento.
+15 (5) La persona encargada de la casa en que ocurrió el nacimiento.
+16 (6) Cualquier persona que tenga conocimiento directo del nacimiento.
+17 Cuando el nacimiento ocurra mediante reproducción humana asistida o gestación por
+18 subrogación, la declaración del nacimiento podrá ser realizada por la persona o personas
+19 progenitoras intencionales, por la institución hospitalaria, por el médico o profesional de la salud
+20 que asistió el nacimiento, o por la persona autorizada en la orden judicial prenatal, determinación
+21 judicial de filiación o documento autorizado por ley. En estos casos, la persona declarante deberá
+22 presentar la documentación necesaria para que el Registro Demográfico inscriba el nacimiento
+9
+1 conforme a la filiación jurídica correspondiente, sin que el certificado público revele la forma de
+2 concepción, la utilización de gametos o embriones donados, la identidad de la persona donante, la
+3 existencia de un acuerdo de gestación por subrogación o la identidad de la persona gestante, salvo
+4 orden judicial expresa.
+5 Sección 4. Se enmienda el Artículo 19 de la Ley Núm. 24 de 22 de abril de 1931,
+6 según enmendada, para añadir un nuevo párrafo al final, para que lea como sigue:
+7 Artículo 19. — Información requerida para certificados de nacimiento.
+8 El certificado de nacimiento, que mantendrá en sus archivos el Registrador
+9 Demográfico, contendrá la información siguiente, que por la presente se declara necesaria
+10 para los propósitos legales, sociales y sanitarios que se persiguen al inscribir el
+11 nacimiento:
+12 ...
+13 En los casos de nacimiento mediante reproducción humana asistida o gestación por
+14 subrogación, el certificado de nacimiento incluirá como madre, padre, progenitor o progenitores a
+15 la persona o personas cuya filiación jurídica surja de la orden judicial prenatal, determinación
+16 judicial de filiación, reconocimiento voluntario, consentimiento procreacional válido o documento
+17 autorizado por ley. El certificado público no hará constar la condición de reproducción humana
+18 asistida, la utilización de gametos o embriones donados, la identidad de la persona donante, la
+19 existencia de un acuerdo de gestación por subrogación, la identidad de la persona gestante ni
+20 cualquier otra información médica, genética, reproductiva, contractual o judicial relacionada con
+21 la concepción o gestación. Dicha información se conservará, cuando proceda, en expediente
+22 confidencial separado conforme al Artículo 21-E de esta Ley.
+10
+1 Sección 5. Se añade un nuevo Artículo 21-E a la Ley Núm. 24 de 22 de abril de 1931,
+2 según enmendada, para que lea como sigue:
+3 Artículo 21-E. — Inscripción de nacimientos mediante reproducción humana asistida o
+4 gestación por subrogación; expediente confidencial.
+5 Cuando un menor nazca mediante reproducción humana asistida o gestación por
+6 subrogación, el Registro Demográfico realizará la inscripción conforme a la filiación jurídica que
+7 surja de la orden judicial prenatal, determinación judicial de filiación, reconocimiento voluntario,
+8 consentimiento procreativo válido o documento autorizado por ley.
+9 El acta de inscripción y el certificado de nacimiento reflejarán la filiación jurídica de la
+10 persona o personas progenitoras intencionales, sin hacer constar la forma de concepción, la
+11 utilización de gametos o embriones donados, la identidad de la persona donante, la existencia de
+12 un acuerdo de gestación por subrogación, la identidad de la persona gestante o cualquier otra
+13 información médica, genética, reproductiva, contractual o judicial relacionada con la concepción o
+14 gestación, salvo orden judicial expresa fundada en justa causa y en el mejor bienestar del menor.
+15 Los documentos médicos, genéticos, judiciales, contractuales, reproductivos o de
+16 consentimiento utilizados para la inscripción se conservarán en expediente confidencial separado,
+17 con referencia al certificado de nacimiento correspondiente. Dichos documentos no formarán parte
+18 del certificado público ni serán divulgados a terceros, salvo autorización expresa de ley, orden
+19 judicial o consentimiento escrito de la persona inscrita una vez advenga a la mayoría de edad,
+20 sujeto a las normas aplicables de confidencialidad, intimidad, información médica y mejor bienestar
+21 del menor.
+11
+1 La presentación de una orden judicial prenatal, determinación judicial de filiación,
+2 reconocimiento voluntario, consentimiento procreativo válido o documento autorizado por ley será
+3 suficiente para que el Registro Demográfico proceda a la inscripción conforme a la filiación jurídica
+4 allí reconocida, siempre que el documento cumpla con los requisitos de forma y autenticidad
+5 aplicables.
+6 Nada de lo dispuesto en este Artículo se interpretará como autorización para divulgar en
+7 el certificado público de nacimiento información sobre donantes de gametos o embriones, clínicas
+8 de reproducción asistida, acuerdos de gestación por subrogación, identidad de la persona gestante,
+9 datos genéticos, diagnósticos médicos, tratamientos de fertilidad o cualquier otra información
+10 íntima o confidencial relacionada con el proceso reproductivo.
+11 El Registro Demográfico adoptará los mecanismos administrativos necesarios para
+12 garantizar que los expedientes confidenciales creados al amparo de este Artículo se conserven de
+13 manera segura, separada y accesible únicamente conforme a las excepciones expresamente
+14 autorizadas por ley u orden judicial.
+15 Sección 6. Se enmienda el Artículo 31 de la Ley Núm. 24 de 22 de abril de 1931,
+16 según enmendada, para añadir un nuevo párrafo luego de las disposiciones sobre
+17 rectificación, adición o enmienda de certificados, para que lea como sigue:
+18 Artículo 31. — Supervisión a cargo del Secretario de Salud; cambios en registros.
+19 El Secretario de Salud preparará, hará imprimir y facilitará a los encargados de
+20 registros todos los libros, impresos y formas que han de usarse para inscribir los
+21 nacimientos, casamientos y defunciones que ocurran o se celebren en el Estado Libre
+22 Asociado de Puerto Rico, o que fueren necesarios para llevar a cabo los propósitos de esta
+12
+1 parte, y preparará y distribuirá aquellas instrucciones detalladas que no estén en conflicto
+2 con las disposiciones de esta parte y que pudieran ser necesarias para la aplicación
+3 uniforme de la misma para el mantenimiento de un perfecto sistema de registro; y para
+4 tales fines no podrán usarse otros libros, impresos y formas que aquellos que suministre
+5 el Secretario de Salud. Dicho Secretario hará que los certificados que se reciban
+6 mensualmente en su Departamento procedentes de los encargados de registros sean
+7 examinados cuidadosamente y requerirá la información adicional que sea necesaria en
+8 aquellos que aparezcan incompletos o defectuosos, para lo cual toda persona que tenga
+9 conocimiento de hechos concernientes a cualquier nacimiento, casamiento o defunción,
+10 estará obligada a suministrar dicha información, cuando a ello sea requerida por el
+11 Secretario de Salud en persona o por medio de su representante acreditado, por correo, o
+12 por conducto del Registrador del distrito; Disponiéndose, que las omisiones o
+13 incorrecciones que aparezcan en cualquier certificado antes de ser registrado en el
+14 Departamento de Salud podrán ser salvadas insertando las correcciones o adiciones
+15 necesarias en tinta roja en dicho certificado, pero luego de haber sido archivado en el
+16 Departamento de Salud, no podrá hacerse en los mismos rectificación, adición ni
+17 enmienda alguna que altere sustancialmente el mismo, sino en virtud de orden del
+18 Tribunal de Distrito, cuya orden, en tal caso, será archivada en el Departamento de Salud
+19 haciendo referencia al certificado a que corresponda; Disponiéndose, sin embargo, que
+20 cuando el reconocimiento de un hijo natural se hiciere en documento público o en una
+21 declaración jurada bastará la presentación de dicho documento o declaración para que el
+22 encargado del Registro Demográfico proceda a inscribir el mismo, y a ese efecto, se
+13
+1 llenará el correspondiente certificado de inscripción; Disponiéndose, además, que en caso
+2 de que el nacimiento de tal hijo hubiera sido previamente inscrito se llevará al certificado
+3 los datos adicionales que resulten de tal reconocimiento.
+4 El Registro Demográfico corregirá, sustituirá o enmendará el certificado de nacimiento de
+5 un menor nacido mediante reproducción humana asistida o gestación por subrogación cuando así
+6 lo ordene un tribunal competente o cuando se presente una orden judicial prenatal, determinación
+7 judicial de filiación, reconocimiento voluntario, consentimiento procreacional válido o documento
+8 autorizado por ley que establezca la filiación jurídica correcta. La corrección, sustitución o
+9 enmienda no hará constar en el certificado público las circunstancias de concepción, gestación,
+10 donación genética, reproducción humana asistida, acuerdo de gestación por subrogación, identidad
+11 de la persona donante o identidad de la persona gestante. Los documentos utilizados para la
+12 corrección, sustitución o enmienda se conservarán en expediente confidencial separado conforme
+13 al Artículo 21-E de esta Ley.
+14 Para obtener dicha orden deberá presentar el interesado una solicitud a la Sala del
+15 Tribunal de Distrito de su domicilio, exponiendo bajo juramento su pretensión y
+16 formulándola debidamente acompañada de la prueba documental pertinente en apoyo
+17 de su solicitud. Copia de la solicitud y de toda la prueba documental le será remitida al
+18 Ministerio Fiscal simultáneamente con su radicación quien deberá formular su posición
+19 dentro del término de diez (10) días.
+20 ...
+21 Sección 7. Se enmienda el Artículo 38 de la Ley Núm. 24 de 22 de abril de 1931,
+22 según enmendada, para añadir un nuevo inciso K, para que lea como sigue:
+14
+1 Artículo 38. — Copias certificadas de certificados.
+2 A. Petición de copias certificadas de certificados.
+3 A petición de parte interesada, el Secretario de Salud o la persona autorizada por
+4 él, suministrará copia certificada de cualquier certificado de nacimiento, casamiento, o
+5 defunción que se haya inscrito y registrado en el Registro General de acuerdo con las
+6 disposiciones de esta Ley.
+7 ...
+8 J. Confidencialidad de la información contenida en los certificados.
+9 Toda la información contenida en certificados de nacimiento, matrimonio o
+10 defunción y todo documento o constancia inscrita en el Registro Demográfico tendrá
+11 carácter confidencial y no podrá ser entregada a terceros, más allá de las excepciones
+12 establecidas en los incisos A y B de este Artículo. Ninguna información que permita la
+13 identificación de personas individuales podrá ser entregada a terceros más allá de las
+14 personas definidas como “partes interesadas” en esta Ley. El Registro Demográfico podrá
+15 entregar, a petición de parte o por orden de un Tribunal, aquella información estadística
+16 necesaria para la formulación de política pública, así como para mantener
+17 responsablemente informada a la ciudadanía de cualquier evento o tendencia
+18 demográfica o salubrista de interés público. Al hacer entrega de esta información, el
+19 Registro Demográfico velará por mantener la confidencialidad de los nombres, números
+20 de seguro social y cualquier otra información que permita la identificación precisa de
+21 particulares.
+22 K. Confidencialidad en casos de reproducción humana asistida o gestación por subrogación.
+15
+1 Las copias certificadas de certificados de nacimiento expedidas por el Registro Demográfico
+2 no revelarán que la persona inscrita nació mediante reproducción humana asistida, donación de
+3 gametos o embriones, o gestación por subrogación. Tampoco revelarán la identidad de la persona
+4 donante, la identidad de la persona gestante, la existencia de un acuerdo de gestación por
+5 subrogación, la clínica de reproducción asistida, el procedimiento reproductivo utilizado, ni
+6 cualquier otra información médica, genética, reproductiva, contractual o judicial relacionada con
+7 la concepción o gestación.
+8 Los documentos médicos, genéticos, judiciales, contractuales, reproductivos o de
+9 consentimiento utilizados para la inscripción, corrección, sustitución o enmienda se conservarán
+10 en expediente confidencial separado y solo podrán divulgarse mediante orden judicial, autorización
+11 expresa de ley o consentimiento escrito de la persona inscrita una vez advenga a la mayoría de
+12 edad, sujeto a las normas aplicables sobre confidencialidad, intimidad, información médica,
+13 información genética y mejor bienestar del menor.
+14 Nada de lo dispuesto en este inciso limitará la facultad del Registro Demográfico de
+15 producir información estadística no identificable para fines de política pública, salud pública,
+16 planificación administrativa o investigación autorizada, siempre que dicha información no permita
+17 identificar a la persona inscrita, a la persona o personas progenitoras intencionales, a la persona
+18 gestante, a la persona donante o a cualquier parte vinculada al procedimiento reproductivo.
+19 Sección 8. Reglamentación.
+20 El Departamento de Salud revisará y atemperará los formularios, protocolos,
+21 sistemas, manuales, reglamentos e instrucciones administrativas del Registro
+22 Demográfico dentro de noventa (90) días contados a partir de la aprobación de esta Ley.
+16
+1 La reglamentación deberá incluir, como mínimo:
+2 (a) el procedimiento para inscribir nacimientos mediante reproducción humana
+3 asistida o gestación por subrogación;
+4 (b) los documentos aceptables para acreditar la filiación jurídica;
+5 (c) el manejo de órdenes judiciales prenatales, determinaciones judiciales de
+6 filiación, reconocimientos voluntarios, consentimientos procreacionales válidos y
+7 documentos autorizados por ley;
+8 (d) el procedimiento para crear, custodiar y proteger expedientes confidenciales
+9 separados;
+10 (e) las normas de acceso, divulgación y protección de información médica,
+11 genética, reproductiva, contractual, judicial y registral;
+12 (f) las medidas para asegurar que las copias certificadas de certificados de
+13 nacimiento no revelen información confidencial sobre la forma de concepción o
+14 gestación;
+15 (g) los mecanismos de coordinación con tribunales, hospitales, clínicas de
+16 reproducción asistida, profesionales de la salud y demás entidades pertinentes; y
+17 (h) cualquier otro asunto necesario para la implantación uniforme de esta Ley.
+18 Sección 9. Interpretación.
+19 Esta Ley se interpretará de manera compatible con el Código Civil de Puerto Rico,
+20 las leyes especiales sobre reproducción humana asistida o gestación por subrogación, la
+21 Ley del Registro Demográfico de Puerto Rico, las normas de confidencialidad médica y
+17
+1 genética, el derecho a la intimidad, la dignidad humana, la seguridad jurídica registral y
+2 el mejor bienestar del menor.
+3 Nada de lo dispuesto en esta Ley se interpretará como una autorización para
+4 alterar la filiación jurídica de una persona sin base legal, consentimiento válido,
+5 reconocimiento voluntario, determinación judicial, orden judicial prenatal o documento
+6 autorizado por ley.
+7 Sección 10. — Cláusula de separabilidad.
+8 Si cualquier cláusula, párrafo, subpárrafo, inciso, artículo o parte de esta Ley fuere
+9 declarada nula, inconstitucional o inválida por un tribunal con jurisdicción competente,
+10 la sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las demás
+11 disposiciones de esta Ley, las cuales permanecerán en pleno vigor y efecto.
+12 Sección 11. — Vigencia.
+13 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A   3 .r L r D d P R a l f d e e p d d n d m n m t d r d f r v c p v o l f d c l u d g o e d l d l p d l e d u a d g p d e c y d a r a p l e R]
+[DELETED:  c f p s e s y i d n e p n e u t m c l d e c d l v D e i a p t d m e a a s d s b f q n s e u r a e l r h a p i u p o p a p m y e l c d g p u p g q n n t v g n c a l f j c s e i m g r o c d c í y E C C d P R r q e p d l]
+[DELETED:  a d n r e p p i U m n m r h a o g p p e r e s i c q n r c c n a m n t i f y L a e c e r q p d e]
+[DELETED:  c d c l d d a q i d e u d q r i r s d i d d a p o c m d l D L p L d R D d q t l p q l i b s c s d ú e l e q s p s i d m a c l i  E A L e q e m b d e q n o n n r h a o]
+[DELETED:  u a s r l e y s a q l j d m n d d v p o d i ( u t c a d n d u m c m g p s c ( “ h a - s e c d t m o p u p i s l a i f i v t e a ( v]
+[DELETED:  f j d m n m r h a o g p s ( e m e ( r d j d f r v c p c a p e o a l f j d u m n m r e l D d R D y E V d]
+[DELETED:  y E V d D d S T l i p a l C E d E p f e d n s l a c d d y o d n p S d S c d q e L s o y a d C y V r d t e t l l e e c c l d d e L y q s n p E P R m t d r h a o g p s c a l o j p d j d f r v e]
+[DELETED:  p j C e n o m r h a o g p s l d d n p s r p l p o p p q j p]
+[DELETED:  c c e o c d n q m e s a e R l p l s y s q s p a i e E l c d n m r h a o g p s l j a a e c l c o g D i s c c p e e c]
+[DELETED:  A g C u m n m r h a o g p s s c E p o p p i s h c l f d c l u u i g L d m g j c r o d c c d j s d]
+[DELETED:  L p d u o j p d j d f r s a r s q e d c c l r d f y a a N e d d g d m t d f o c o i í E R D a l m a n p g m s s y a ú c a l e e a e p a u n p l d l d s t l l i y f q h d u p i l]
+[DELETED:  l d d e p y q p s n p l a S d S D S h q l c q s r e s D p d l e d r s o a s d i c a e s r p e c d R d d D q l o o q a e c c a d s r e e d S p s s i l c o a d S n p h e l m r a n a q a s e m s e v d o d d R D p a i e m y a e e s]
+[DELETED:  E u l j a p l q e l f j c L c s o e d d l p d o i d l p g L d u p l c a d D d s d e b j s p y]
+[DELETED:  l i c e c d n m o p l f d p p a c p m i a l c d c e o t K]
+[DELETED:  L n g d l i d l p g l e d u a d g p s l c d r a e p r u n c l L d m g j c r o d c e e e s a l n a s c i i m i N d l d e e i l l f d R D d p i e n i p f d p p s p p i g D d S r y a l f p m r e i a d R]
+[DELETED:  e m d ó j p d j d r v c p v y l n d a d y p d i m l m p a q l c c d c d n r i c s l f d c o l m d c c t h c d]
+[DELETED:  d l d e e L s i c u a p l f j d u p s b l c v s d a t e n a p n i l d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1264
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 2, 3, 18, 19, 31 y 38, y añadir un nuevo Artículo 21-E
+a la Ley Núm. 24 de 22 de abril de 1931, según enmendada, conocida como “Ley del
+Registro Demográfico de Puerto Rico”, a los fines de establecer el procedimiento de
+inscripción de nacimiento de menores nacidos mediante técnicas de reproducción
+humana asistida o gestación por subrogación; disponer los documentos requeridos para
+la inscripción; establecer el efecto registral de la orden judicial prenatal, determinación
+judicial de filiación, reconocimiento voluntario, consentimiento procreativo válido o
+documento autorizado por ley; proteger la confidencialidad de la información médica,
+genética, reproductiva, contractual, judicial y registral; prohibir que el certificado público
+revele la forma de concepción, la utilización de gametos o embriones donados, la
+identidad de la persona donante, la existencia de un acuerdo de gestación por
+subrogación o la identidad de la persona gestante; facultar al Departamento de Salud a
+revisar formularios, protocolos, sistemas y reglamentos del Registro Demográfico; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Registro Demográfico de Puerto Rico constituye una institución esencial para la
+seguridad jurídica, la identidad civil y el reconocimiento formal de los actos vitales de las
+personas. A través de la inscripción de nacimientos, matrimonios, defunciones, divorcios,
+cambios de estado civil y demás actos registrales autorizados por ley, el Registro
+
+2
+Demográfico provee certeza documental sobre la existencia jurídica de las personas, su
+filiación, su nombre, su edad, su estado civil y otros datos esenciales para el ejercicio de
+derechos civiles, familiares, patrimoniales, sucesorios, educativos, sanitarios y
+administrativos.
+La inscripción de nacimiento, en particular, no es un trámite meramente
+administrativo. Es el acto registral mediante el cual el Estado reconoce oficialmente el
+nacimiento de una persona, su identidad jurídica inicial y los vínculos filiatorios que
+producirán consecuencias legales desde el comienzo de la vida. De esa inscripción
+dependen asuntos tan fundamentales como la patria potestad, la custodia, los alimentos,
+la autoridad para tomar decisiones médicas, el acceso a seguros de salud, beneficios
+públicos y privados, derechos sucesorios, documentos de identidad, matrícula escolar y
+otros derechos que requieren una filiación clara, estable y verificable.
+El desarrollo de las técnicas de reproducción humana asistida ha generado nuevas
+realidades familiares que no siempre encuentran una respuesta adecuada en los
+formularios, procesos y categorías tradicionales del Registro Demográfico. En los casos
+de reproducción humana asistida pueden intervenir una persona o personas
+progenitoras intencionales, una persona donante de gametos o embriones, una clínica de
+reproducción asistida, profesionales médicos, y, en los casos de gestación por
+subrogación, una persona gestante que no necesariamente tiene vínculo genético ni
+intención filiatoria respecto al menor nacido.
+Estas realidades requieren un régimen registral específico que permita inscribir el
+nacimiento conforme a la filiación jurídica correcta, sin exponer innecesariamente
+información médica, genética, reproductiva o contractual de carácter íntimo y
+confidencial. El Código Civil de Puerto Rico reconoce que el parto determina la
+maternidad, excepto en casos de maternidad subrogada en los cuales la persona gestante
+no tiene vínculo genético con el menor y desde un principio su intención fue llevar el
+embarazo a término para otra persona.
+Esa excepción civil requiere una consecuencia registral clara. Si la filiación jurídica
+corresponde a la persona o personas progenitoras intencionales, el Registro Demográfico
+
+3
+debe contar con autoridad expresa para inscribir el nacimiento de forma consistente con
+dicha filiación, sin imponer trámites innecesarios, sin crear certificados que reflejen una
+realidad filiatoria incorrecta y sin obligar a correcciones posteriores que pudieron evitarse
+mediante una inscripción original adecuada.
+La ausencia de normas registrales específicas puede provocar incertidumbre
+jurídica. Un menor nacido mediante reproducción humana asistida o gestación por
+subrogación puede enfrentar retrasos en su inscripción, certificados que no reflejen
+adecuadamente su filiación, procesos judiciales adicionales, exposición innecesaria de
+información médica o genética, e incluso controversias sobre quiénes tienen autoridad
+legal para tomar decisiones inmediatas sobre su cuidado, salud y protección. En materia
+de niñez, la demora registral o la incertidumbre filiatoria no es un asunto menor; puede
+incidir directamente sobre el mejor bienestar del menor y sobre el ejercicio efectivo de sus
+derechos.
+De igual forma, las personas progenitoras intencionales necesitan un mecanismo
+registral claro que reconozca la filiación jurídica que surge de la voluntad procreativa
+válida, de una orden judicial prenatal, de una determinación judicial de filiación, de un
+reconocimiento voluntario o de cualquier documento autorizado por ley. La persona
+gestante, por su parte, requiere que el sistema registral no le imponga una filiación que
+no corresponde cuando no aportó material genético, no tuvo intención filiatoria y el
+proceso fue validado conforme a derecho. Asimismo, las personas donantes de gametos
+o embriones requieren protección contra la creación indebida de vínculos filiatorios por
+el solo hecho de la donación, cuando no existe voluntad procreativa de su parte.
+Esta Ley responde a esa necesidad mediante enmiendas puntuales a la Ley del
+Registro Demográfico de Puerto Rico. La medida no pretende regular sustantivamente
+todos los aspectos de la reproducción humana asistida ni de la gestación por subrogación;
+esa materia corresponde al Código Civil y a la ley especial que regule dichos acuerdos.
+Esta Ley atiende el componente estrictamente registral: quién puede declarar el
+nacimiento, qué documentos permiten la inscripción, cómo debe reflejarse la filiación
+
+4
+jurídica, cómo deben conservarse los documentos de apoyo, qué información debe
+mantenerse confidencial y qué debe excluirse del certificado público de nacimiento.
+La medida también reconoce la importancia de la confidencialidad. La forma en
+que una persona fue concebida o gestada pertenece al ámbito de la intimidad personal,
+familiar, médica y genética. Esa información no debe aparecer en el certificado público
+de nacimiento ni divulgarse a terceros sin autorización legal, consentimiento válido u
+orden judicial fundada en justa causa. El certificado público debe cumplir su función
+esencial: acreditar la identidad jurídica y la filiación legal de la persona inscrita. No debe
+convertirse en un documento que revele información reproductiva sensible, datos
+genéticos, identidad de donantes, acuerdos privados o circunstancias médicas de la
+gestación.
+El ordenamiento vigente ya reconoce la confidencialidad como principio rector del
+Registro Demográfico. La propia Ley del Registro Demográfico dispone que toda la
+información recopilada por el Registro tendrá carácter confidencial y que el Registro
+velará para que la información bajo su custodia sea divulgada únicamente en las
+circunstancias y condiciones que la ley permite. Asimismo, en otros contextos, como la
+adopción, la Ley ya reconoce la posibilidad de sustituir actas, conservar documentos en
+archivos confidenciales y limitar la divulgación de información original.
+Las enmiendas que se proponen se integran de manera armoniosa con la
+estructura existente de la Ley Núm. 24 de 1931 y evitan crear un procedimiento registral
+paralelo innecesario. Esta Asamblea Legislativa entiende que el mejor bienestar del
+menor exige que todo niño o niña nacido mediante reproducción humana asistida o
+gestación por subrogación tenga una inscripción registral oportuna, correcta, estable y
+libre de estigmas. También exige que la filiación jurídica reconocida por el ordenamiento
+civil se refleje adecuadamente en el certificado de nacimiento y que la información íntima
+sobre concepción, gestación, donación genética o acuerdos reproductivos se mantenga
+protegida.
+Mediante esta Ley, Puerto Rico adopta una respuesta registral moderna, prudente
+y jurídicamente necesaria. Se fortalece la certeza del Registro Demográfico, se protege la
+
+5
+confidencialidad, se evita la exposición innecesaria de información médica y genética, se
+provee uniformidad administrativa, se reducen litigios evitables y se asegura que la
+identidad jurídica del menor no dependa de vacíos procesales o de interpretaciones
+administrativas inconsistentes.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 2 de la Ley Núm. 24 de 22 de abril de 1931,
+2 según enmendada, para añadir nuevos incisos (14), (15), (16), (17) y (18), para que lea
+3 como sigue:
+4 Artículo 2. — Definiciones.
+5 Cuando en esta Ley se use:
+6 ...
+7 (14) “Orden judicial prenatal” – se refiere a la resolución, sentencia u orden emitida por
+8 un tribunal competente antes del nacimiento de un menor concebido mediante gestación por
+9 subrogación, mediante la cual se valida, reconoce o determina la filiación jurídica que deberá
+10 constar en el certificado de nacimiento al momento de la inscripción.
+11 (15) “Reproducción humana asistida” - significará el conjunto de técnicas, métodos o
+12 procedimientos médicos reconocidos mediante los cuales se procura la concepción o gestación de
+13 una persona, incluyendo, sin limitarse a, inseminación, fertilización in vitro, transferencia
+14 embrionaria, donación de gametos o embriones y gestación por subrogación gestacional, conforme
+15 a las leyes aplicables.
+16 (16) “Persona progenitora intencional” - la persona que ha prestado voluntad procreativa
+17 válida conforme al Código Civil de Puerto Rico o ley especial aplicable, y a quien corresponde la
+
+6
+1 filiación jurídica del menor nacido mediante reproducción humana asistida o gestación por
+2 subrogación.
+3 (17) “Voluntad procreativa” - es el consentimiento previo, libre, informado, expreso y por
+4 escrito mediante el cual una persona acepta asumir la filiación jurídica de un menor concebido
+5 mediante técnicas de reproducción humana asistida, conforme al Código Civil de Puerto Rico o ley
+6 especial aplicable.
+7 (18) “Documento autorizado por ley” significará toda orden judicial prenatal, sentencia,
+8 resolución, determinación judicial de filiación, reconocimiento voluntario, consentimiento
+9 procreativo válido, certificación médica, declaración jurada, acuerdo aprobado conforme a ley o
+10 cualquier otro documento que, conforme al Código Civil de Puerto Rico, esta Ley o una ley especial
+11 aplicable, permita establecer o acreditar la filiación jurídica de un menor nacido mediante
+12 reproducción humana asistida o gestación por subrogación.
+13 Sección 2. Se enmienda el Artículo 3 de la Ley Núm. 24 de 22 de abril de 1931,
+14 según enmendada, para añadir un nuevo párrafo al final, para que lea como sigue:
+15 Artículo 3. — Registro General Demográfico de Puerto Rico.
+16 Por la presente se crea el Registro General Demográfico de Puerto Rico, que será
+17 establecido en la División de Registro Demográfico y Estadísticas Vitales del
+18 Departamento de Salud de Puerto Rico. Dicho Departamento tendrá a su cargo todo lo
+19 concerniente a la inscripción de los nacimientos, casamientos y defunciones que ocurran
+20 o se celebren en Puerto Rico; llevará un registro de todos los divorcios que se otorguen
+21 en Puerto Rico; preparará las instrucciones, formas, impresos y libros necesarios para
+22 obtener y conservar dichos récords y procurará que los mismos sean registrados en cada
+
+7
+1 distrito primario de registro según se constituyen por esta Ley y en la División de Registro
+2 Demográfico y Estadísticas Vitales del Departamento de Salud. Toda la información
+3 recopilada por el Registro Demográfico tendrá carácter confidencial.
+4 El Registro velará que la información bajo su custodia sea divulgada, únicamente,
+5 en las circunstancias y condiciones que dispone esta ley. Se autoriza la divulgación de
+6 información pertinente a la Comisión Estatal de Elecciones para fines exclusivos de
+7 verificación y depuración del Registro General de Electores. Esta divulgación incluirá,
+8 pero no se limitará a, certificados de defunción y otros documentos necesarios para
+9 asegurar la precisión y actualidad del registro electoral.
+10 El Secretario de Salud cuidará de que esta Ley sea observada y aplicada
+11 uniformemente en todo el Estado Libre Asociado de Puerto Rico, incluyendo las islas
+12 adyacentes de Culebra y Vieques; recomendará de tiempo en tiempo la legislación
+13 adicional que sea necesaria a este propósito y dictará aquellas reglas y reglamentos que
+14 no estén en conflicto con las disposiciones de esta Ley y que sean necesarios para
+15 complementar las disposiciones de la misma. Dichos reglamentos luego de aprobados y
+16 promulgados por el Gobernador de Puerto Rico tomarán fuerza de ley.
+17 El Registro Demográfico tendrá autoridad expresa para inscribir nacimientos ocurridos en
+18 Puerto Rico mediante técnicas de reproducción humana asistida o gestación por subrogación
+19 conforme a la orden judicial prenatal, determinación judicial de filiación, reconocimiento
+20 voluntario, consentimiento procreacional válido o documento autorizado por ley. En estos casos,
+21 el Registro Demográfico velará por que la inscripción refleje la filiación jurídica correspondiente y
+
+8
+1 protegerá la confidencialidad de toda información médica, genética, reproductiva, contractual,
+2 judicial y registral relacionada con la concepción, gestación o nacimiento.
+3 Sección 3. — Se enmienda el Artículo 18 de la Ley Núm. 24 de 22 de abril de 1931,
+4 según enmendada, para añadir un nuevo párrafo al final, para que lea como sigue:
+5 Artículo 18. — Personas obligadas a hacer declaración; orden.
+6 Están obligados a hacer dicha declaración del nacimiento certificando la misma
+7 con su firma y/o a responder al cotejo del Registro Demográfico para completarla, por el
+8 orden que se pasa a indicar, y unos a falta de otros, por causas legítimas:
+9 (1) El médico que atendió el parto.
+10 (2) El administrador o director de la institución u otro profesional de la salud
+11 cuando el nacimiento ocurra en un hospital, sanatorio, asilo, penitenciaría o cualquiera
+12 otra institución pública o privada establecida en Puerto Rico.
+13 (3) El padre o la madre.
+14 (4) La persona que asistió en el nacimiento.
+15 (5) La persona encargada de la casa en que ocurrió el nacimiento.
+16 (6) Cualquier persona que tenga conocimiento directo del nacimiento.
+17 Cuando el nacimiento ocurra mediante reproducción humana asistida o gestación por
+18 subrogación, la declaración del nacimiento podrá ser realizada por la persona o personas
+19 progenitoras intencionales, por la institución hospitalaria, por el médico o profesional de la salud
+20 que asistió el nacimiento, o por la persona autorizada en la orden judicial prenatal, determinación
+21 judicial de filiación o documento autorizado por ley. En estos casos, la persona declarante deberá
+22 presentar la documentación necesaria para que el Registro Demográfico inscriba el nacimiento
+
+9
+1 conforme a la filiación jurídica correspondiente, sin que el certificado público revele la forma de
+2 concepción, la utilización de gametos o embriones donados, la identidad de la persona donante, la
+3 existencia de un acuerdo de gestación por subrogación o la identidad de la persona gestante, salvo
+4 orden judicial expresa.
+5 Sección 4. Se enmienda el Artículo 19 de la Ley Núm. 24 de 22 de abril de 1931,
+6 según enmendada, para añadir un nuevo párrafo al final, para que lea como sigue:
+7 Artículo 19. — Información requerida para certificados de nacimiento.
+8 El certificado de nacimiento, que mantendrá en sus archivos el Registrador
+9 Demográfico, contendrá la información siguiente, que por la presente se declara necesaria
+10 para los propósitos legales, sociales y sanitarios que se persiguen al inscribir el
+11 nacimiento:
+12 ...
+13 En los casos de nacimiento mediante reproducción humana asistida o gestación por
+14 subrogación, el certificado de nacimiento incluirá como madre, padre, progenitor o progenitores a
+15 la persona o personas cuya filiación jurídica surja de la orden judicial prenatal, determinación
+16 judicial de filiación, reconocimiento voluntario, consentimiento procreacional válido o documento
+17 autorizado por ley. El certificado público no hará constar la condición de reproducción humana
+18 asistida, la utilización de gametos o embriones donados, la identidad de la persona donante, la
+19 existencia de un acuerdo de gestación por subrogación, la identidad de la persona gestante ni
+20 cualquier otra información médica, genética, reproductiva, contractual o judicial relacionada con
+21 la concepción o gestación. Dicha información se conservará, cuando proceda, en expediente
+22 confidencial separado conforme al Artículo 21-E de esta Ley.
+
+10
+1 Sección 5. Se añade un nuevo Artículo 21-E a la Ley Núm. 24 de 22 de abril de 1931,
+2 según enmendada, para que lea como sigue:
+3 Artículo 21-E. — Inscripción de nacimientos mediante reproducción humana asistida o
+4 gestación por subrogación; expediente confidencial.
+5 Cuando un menor nazca mediante reproducción humana asistida o gestación por
+6 subrogación, el Registro Demográfico realizará la inscripción conforme a la filiación jurídica que
+7 surja de la orden judicial prenatal, determinación judicial de filiación, reconocimiento voluntario,
+8 consentimiento procreativo válido o documento autorizado por ley.
+9 El acta de inscripción y el certificado de nacimiento reflejarán la filiación jurídica de la
+10 persona o personas progenitoras intencionales, sin hacer constar la forma de concepción, la
+11 utilización de gametos o embriones donados, la identidad de la persona donante, la existencia de
+12 un acuerdo de gestación por subrogación, la identidad de la persona gestante o cualquier otra
+13 información médica, genética, reproductiva, contractual o judicial relacionada con la concepción o
+14 gestación, salvo orden judicial expresa fundada en justa causa y en el mejor bienestar del menor.
+15 Los documentos médicos, genéticos, judiciales, contractuales, reproductivos o de
+16 consentimiento utilizados para la inscripción se conservarán en expediente confidencial separado,
+17 con referencia al certificado de nacimiento correspondiente. Dichos documentos no formarán parte
+18 del certificado público ni serán divulgados a terceros, salvo autorización expresa de ley, orden
+19 judicial o consentimiento escrito de la persona inscrita una vez advenga a la mayoría de edad,
+20 sujeto a las normas aplicables de confidencialidad, intimidad, información médica y mejor bienestar
+21 del menor.
+
+11
+1 La presentación de una orden judicial prenatal, determinación judicial de filiación,
+2 reconocimiento voluntario, consentimiento procreativo válido o documento autorizado por ley será
+3 suficiente para que el Registro Demográfico proceda a la inscripción conforme a la filiación jurídica
+4 allí reconocida, siempre que el documento cumpla con los requisitos de forma y autenticidad
+5 aplicables.
+6 Nada de lo dispuesto en este Artículo se interpretará como autorización para divulgar en
+7 el certificado público de nacimiento información sobre donantes de gametos o embriones, clínicas
+8 de reproducción asistida, acuerdos de gestación por subrogación, identidad de la persona gestante,
+9 datos genéticos, diagnósticos médicos, tratamientos de fertilidad o cualquier otra información
+10 íntima o confidencial relacionada con el proceso reproductivo.
+11 El Registro Demográfico adoptará los mecanismos administrativos necesarios para
+12 garantizar que los expedientes confidenciales creados al amparo de este Artículo se conserven de
+13 manera segura, separada y accesible únicamente conforme a las excepciones expresamente
+14 autorizadas por ley u orden judicial.
+15 Sección 6. Se enmienda el Artículo 31 de la Ley Núm. 24 de 22 de abril de 1931,
+16 según enmendada, para añadir un nuevo párrafo luego de las disposiciones sobre
+17 rectificación, adición o enmienda de certificados, para que lea como sigue:
+18 Artículo 31. — Supervisión a cargo del Secretario de Salud; cambios en registros.
+19 El Secretario de Salud preparará, hará imprimir y facilitará a los encargados de
+20 registros todos los libros, impresos y formas que han de usarse para inscribir los
+21 nacimientos, casamientos y defunciones que ocurran o se celebren en el Estado Libre
+22 Asociado de Puerto Rico, o que fueren necesarios para llevar a cabo los propósitos de esta
+
+12
+1 parte, y preparará y distribuirá aquellas instrucciones detalladas que no estén en conflicto
+2 con las disposiciones de esta parte y que pudieran ser necesarias para la aplicación
+3 uniforme de la misma para el mantenimiento de un perfecto sistema de registro; y para
+4 tales fines no podrán usarse otros libros, impresos y formas que aquellos que suministre
+5 el Secretario de Salud. Dicho Secretario hará que los certificados que se reciban
+6 mensualmente en su Departamento procedentes de los encargados de registros sean
+7 examinados cuidadosamente y requerirá la información adicional que sea necesaria en
+8 aquellos que aparezcan incompletos o defectuosos, para lo cual toda persona que tenga
+9 conocimiento de hechos concernientes a cualquier nacimiento, casamiento o defunción,
+10 estará obligada a suministrar dicha información, cuando a ello sea requerida por el
+11 Secretario de Salud en persona o por medio de su representante acreditado, por correo, o
+12 por conducto del Registrador del distrito; Disponiéndose, que las omisiones o
+13 incorrecciones que aparezcan en cualquier certificado antes de ser registrado en el
+14 Departamento de Salud podrán ser salvadas insertando las correcciones o adiciones
+15 necesarias en tinta roja en dicho certificado, pero luego de haber sido archivado en el
+16 Departamento de Salud, no podrá hacerse en los mismos rectificación, adición ni
+17 enmienda alguna que altere sustancialmente el mismo, sino en virtud de orden del
+18 Tribunal de Distrito, cuya orden, en tal caso, será archivada en el Departamento de Salud
+19 haciendo referencia al certificado a que corresponda; Disponiéndose, sin embargo, que
+20 cuando el reconocimiento de un hijo natural se hiciere en documento público o en una
+21 declaración jurada bastará la presentación de dicho documento o declaración para que el
+22 encargado del Registro Demográfico proceda a inscribir el mismo, y a ese efecto, se
+
+13
+1 llenará el correspondiente certificado de inscripción; Disponiéndose, además, que en caso
+2 de que el nacimiento de tal hijo hubiera sido previamente inscrito se llevará al certificado
+3 los datos adicionales que resulten de tal reconocimiento.
+4 El Registro Demográfico corregirá, sustituirá o enmendará el certificado de nacimiento de
+5 un menor nacido mediante reproducción humana asistida o gestación por subrogación cuando así
+6 lo ordene un tribunal competente o cuando se presente una orden judicial prenatal, determinación
+7 judicial de filiación, reconocimiento voluntario, consentimiento procreacional válido o documento
+8 autorizado por ley que establezca la filiación jurídica correcta. La corrección, sustitución o
+9 enmienda no hará constar en el certificado público las circunstancias de concepción, gestación,
+10 donación genética, reproducción humana asistida, acuerdo de gestación por subrogación, identidad
+11 de la persona donante o identidad de la persona gestante. Los documentos utilizados para la
+12 corrección, sustitución o enmienda se conservarán en expediente confidencial separado conforme
+13 al Artículo 21-E de esta Ley.
+14 Para obtener dicha orden deberá presentar el interesado una solicitud a la Sala del
+15 Tribunal de Distrito de su domicilio, exponiendo bajo juramento su pretensión y
+16 formulándola debidamente acompañada de la prueba documental pertinente en apoyo
+17 de su solicitud. Copia de la solicitud y de toda la prueba documental le será remitida al
+18 Ministerio Fiscal simultáneamente con su radicación quien deberá formular su posición
+19 dentro del término de diez (10) días.
+20 ...
+21 Sección 7. Se enmienda el Artículo 38 de la Ley Núm. 24 de 22 de abril de 1931,
+22 según enmendada, para añadir un nuevo inciso K, para que lea como sigue:
+
+14
+1 Artículo 38. — Copias certificadas de certificados.
+2 A. Petición de copias certificadas de certificados.
+3 A petición de parte interesada, el Secretario de Salud o la persona autorizada por
+4 él, suministrará copia certificada de cualquier certificado de nacimiento, casamiento, o
+5 defunción que se haya inscrito y registrado en el Registro General de acuerdo con las
+6 disposiciones de esta Ley.
+7 ...
+8 J. Confidencialidad de la información contenida en los certificados.
+9 Toda la información contenida en certificados de nacimiento, matrimonio o
+10 defunción y todo documento o constancia inscrita en el Registro Demográfico tendrá
+11 carácter confidencial y no podrá ser entregada a terceros, más allá de las excepciones
+12 establecidas en los incisos A y B de este Artículo. Ninguna información que permita la
+13 identificación de personas individuales podrá ser entregada a terceros más allá de las
+14 personas definidas como “partes interesadas” en esta Ley. El Registro Demográfico podrá
+15 entregar, a petición de parte o por orden de un Tribunal, aquella información estadística
+16 necesaria para la formulación de política pública, así como para mantener
+17 responsablemente informada a la ciudadanía de cualquier evento o tendencia
+18 demográfica o salubrista de interés público. Al hacer entrega de esta información, el
+19 Registro Demográfico velará por mantener la confidencialidad de los nombres, números
+20 de seguro social y cualquier otra información que permita la identificación precisa de
+21 particulares.
+22 K. Confidencialidad en casos de reproducción humana asistida o gestación por subrogación.
+
+15
+1 Las copias certificadas de certificados de nacimiento expedidas por el Registro Demográfico
+2 no revelarán que la persona inscrita nació mediante reproducción humana asistida, donación de
+3 gametos o embriones, o gestación por subrogación. Tampoco revelarán la identidad de la persona
+4 donante, la identidad de la persona gestante, la existencia de un acuerdo de gestación por
+5 subrogación, la clínica de reproducción asistida, el procedimiento reproductivo utilizado, ni
+6 cualquier otra información médica, genética, reproductiva, contractual o judicial relacionada con
+7 la concepción o gestación.
+8 Los documentos médicos, genéticos, judiciales, contractuales, reproductivos o de
+9 consentimiento utilizados para la inscripción, corrección, sustitución o enmienda se conservarán
+10 en expediente confidencial separado y solo podrán divulgarse mediante orden judicial, autorización
+11 expresa de ley o consentimiento escrito de la persona inscrita una vez advenga a la mayoría de
+12 edad, sujeto a las normas aplicables sobre confidencialidad, intimidad, información médica,
+13 información genética y mejor bienestar del menor.
+14 Nada de lo dispuesto en este inciso limitará la facultad del Registro Demográfico de
+15 producir información estadística no identificable para fines de política pública, salud pública,
+16 planificación administrativa o investigación autorizada, siempre que dicha información no permita
+17 identificar a la persona inscrita, a la persona o personas progenitoras intencionales, a la persona
+18 gestante, a la persona donante o a cualquier parte vinculada al procedimiento reproductivo.
+19 Sección 8. Reglamentación.
+20 El Departamento de Salud revisará y atemperará los formularios, protocolos,
+21 sistemas, manuales, reglamentos e instrucciones administrativas del Registro
+22 Demográfico dentro de noventa (90) días contados a partir de la aprobación de esta Ley.
+
+16
+1 La reglamentación deberá incluir, como mínimo:
+2 (a) el procedimiento para inscribir nacimientos mediante reproducción humana
+3 asistida o gestación por subrogación;
+4 (b) los documentos aceptables para acreditar la filiación jurídica;
+5 (c) el manejo de órdenes judiciales prenatales, determinaciones judiciales de
+6 filiación, reconocimientos voluntarios, consentimientos procreacionales válidos y
+7 documentos autorizados por ley;
+8 (d) el procedimiento para crear, custodiar y proteger expedientes confidenciales
+9 separados;
+10 (e) las normas de acceso, divulgación y protección de información médica,
+11 genética, reproductiva, contractual, judicial y registral;
+12 (f) las medidas para asegurar que las copias certificadas de certificados de
+13 nacimiento no revelen información confidencial sobre la forma de concepción o
+14 gestación;
+15 (g) los mecanismos de coordinación con tribunales, hospitales, clínicas de
+16 reproducción asistida, profesionales de la salud y demás entidades pertinentes; y
+17 (h) cualquier otro asunto necesario para la implantación uniforme de esta Ley.
+18 Sección 9. Interpretación.
+19 Esta Ley se interpretará de manera compatible con el Código Civil de Puerto Rico,
+20 las leyes especiales sobre reproducción humana asistida o gestación por subrogación, la
+21 Ley del Registro Demográfico de Puerto Rico, las normas de confidencialidad médica y
+
+17
+1 genética, el derecho a la intimidad, la dignidad humana, la seguridad jurídica registral y
+2 el mejor bienestar del menor.
+3 Nada de lo dispuesto en esta Ley se interpretará como una autorización para
+4 alterar la filiación jurídica de una persona sin base legal, consentimiento válido,
+5 reconocimiento voluntario, determinación judicial, orden judicial prenatal o documento
+6 autorizado por ley.
+7 Sección 10. — Cláusula de separabilidad.
+8 Si cualquier cláusula, párrafo, subpárrafo, inciso, artículo o parte de esta Ley fuere
+9 declarada nula, inconstitucional o inválida por un tribunal con jurisdicción competente,
+10 la sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las demás
+11 disposiciones de esta Ley, las cuales permanecerán en pleno vigor y efecto.
+12 Sección 11. — Vigencia.
+13 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 .r L r D d P R a l f d e e p d d n d m n m t d r d f r v c p v o l f d c l u d g o e d l d l p d l e d u a d g p d e c y d a r a p l e R]
+[DELETED:  c f p s e s y i d n e p n e u t m c l d e c d l v D e i a p t d m e a a s d s b f q n s e u r a e l r h a p i u p o p a p m y e l c d g p u p g q n n t v g n c a l f j c s e i m g r o c d c í y E C C d P R r q e p d l]
+[DELETED:  a d n r e p p i U m n m r h a o g p p e r e s i c q n r c c n a m n t i f y L a e c e r q p d e]
+[DELETED:  c d c l d d a q i d e u d q r i r s d i d d a p o c m d l D L p L d R D d q t l p q l i b s c s d ú e l e q s p s i d m a c l i  E A L e q e m b d e q n o n n r h a o]
+[DELETED:  u a s r l e y s a q l j d m n d d v p o d i ( u t c a d n d u m c m g p s c ( “ h a - s e c d t m o p u p i s l a i f i v t e a ( v]
+[DELETED:  f j d m n m r h a o g p s ( e m e ( r d j d f r v c p c a p e o a l f j d u m n m r e l D d R D y E V d]
+[DELETED:  y E V d D d S T l i p a l C E d E p f e d n s l a c d d y o d n p S d S c d q e L s o y a d C y V r d t e t l l e e c c l d d e L y q s n p E P R m t d r h a o g p s c a l o j p d j d f r v e]
+[DELETED:  p j C e n o m r h a o g p s l d d n p s r p l p o p p q j p]
+[DELETED:  c c e o c d n q m e s a e R l p l s y s q s p a i e E l c d n m r h a o g p s l j a a e c l c o g D i s c c p e e c]
+[DELETED:  A g C u m n m r h a o g p s s c E p o p p i s h c l f d c l u u i g L d m g j c r o d c c d j s d]
+[DELETED:  L p d u o j p d j d f r s a r s q e d c c l r d f y a a N e d d g d m t d f o c o i í E R D a l m a n p g m s s y a ú c a l e e a e p a u n p l d l d s t l l i y f q h d u p i l]
+[DELETED:  l d d e p y q p s n p l a S d S D S h q l c q s r e s D p d l e d r s o a s d i c a e s r p e c d R d d D q l o o q a e c c a d s r e e d S p s s i l c o a d S n p h e l m r a n a q a s e m s e v d o d d R D p a i e m y a e e s]
+[DELETED:  E u l j a p l q e l f j c L c s o e d d l p d o i d l p g L d u p l c a d D d s d e b j s p y]
+[DELETED:  l i c e c d n m o p l f d p p a c p m i a l c d c e o t K]
+[DELETED:  L n g d l i d l p g l e d u a d g p s l c d r a e p r u n c l L d m g j c r o d c e e e s a l n a s c i i m i N d l d e e i l l f d R D d p i e n i p f d p p s p p i g D d S r y a l f p m r e i a d R]
+[DELETED:  e m d ó j p d j d r v c p v y l n d a d y p d i m l m p a q l c c d c d n r i c s l f d c o l m d c c t h c d]
+[DELETED:  d l d e e L s i c u a p l f j d u p s b l c v s d a t e n a p n i l d]

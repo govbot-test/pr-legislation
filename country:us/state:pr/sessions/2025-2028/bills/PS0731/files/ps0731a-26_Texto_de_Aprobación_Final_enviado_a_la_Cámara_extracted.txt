@@ -1,0 +1,324 @@
+Title: Coautores las señoras Barlucea Rodríguez, Román Rodríguez; y los señores Santos Ortiz y
+Official Title: Coautores las señoras Barlucea Rodríguez, Román Rodríguez; y los señores Santos Ortiz y
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(28 DE MAYO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 731
+18 de septiembre de 2025
+Presentado por el señor Reyes Berríos
+Toledo López
+Referido a las Comisiones de Gobierno; y de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para crear la “Ley de Licitaciones Públicas con Inteligencia Artificial de Puerto Rico”; a
+los fines de centralizar la totalidad de las compras, adquisiciones y subastas
+públicas bajo la Administración de Servicios Generales del Gobierno de Puerto
+Rico (ASG), disponer la obligatoriedad del uso de la plataforma Joint E-
+procurement Digital Intelligence (J.E.D.I.) en toda Entidad Gubernamental según
+definida por la Ley 73-2019, según enmendada, conocida como la “Ley de la
+Administración de Servicios Generales para la Centralización de las Compras del
+Gobierno de Puerto Rico de 2019”; establecer la incorporación de sistemas de
+inteligencia artificial y modelos de lenguaje de gran tamaño (LLM, por sus siglas
+en inglés) en los procesos de adquisición; crear un Registro Público de Algoritmos;
+fijar los deberes de la ASG, del Puerto Rico Innovation and Technology Service
+(PRITS) y de las agencias; establecer sanciones por incumplimiento; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La contratación pública constituye una de las áreas más sensibles de la
+administración gubernamental, pues implica el uso de fondos públicos que pertenecen
+al pueblo de Puerto Rico. La falta de transparencia, la dispersión de procesos y la
+ausencia de uniformidad han resultado en un sistema fragmentado, vulnerable a la
+corrupción, con duplicidad de esfuerzos y limitaciones en la supervisión fiscal.
+2
+La Ley 73-2019, conocida como la “Ley de la Administración de Servicios
+Generales para la Centralización de las Compras del Gobierno de Puerto Rico de 2019”,
+sentó las bases para que la ASG asumiera un rol protagónico en la organización de las
+adquisiciones y licitaciones públicas. No obstante, los informes y estadísticas han
+demostrado que muchas agencias y corporaciones públicas continuaron operando fuera
+de dicha centralización, con múltiples procesos paralelos que restan eficiencia y
+fomentan discrecionalidad.
+En la actualidad, Puerto Rico cuenta con la plataforma J.E.D.I. (Joint E-
+procurement Digital Intelligence), creada para uniformar y digitalizar las subastas
+públicas. Esta herramienta ha probado ser útil, pero su implementación ha sido parcial.
+Paralelamente, la evolución de la inteligencia artificial y de los modelos de lenguaje de
+gran tamaño ha transformado las mejores prácticas en contratación pública a nivel
+internacional, permitiendo detección automática de anomalías, validación de
+documentos, pronósticos de demanda, y auditorías en tiempo real.
+Es política pública del Gobierno de Puerto Rico avanzar hacia la completa
+centralización de todas las adquisiciones en la ASG, garantizando procesos uniformes,
+eficientes y transparentes, apoyados por herramientas tecnológicas de última
+generación. La presente Ley consolida este marco.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. – Título
+2 Esta Ley se conocerá como la “Ley de Licitaciones Públicas con Inteligencia
+3 Artificial de Puerto Rico”.
+4 Artículo 2.– Declaración de política pública
+5 Se declara política pública del Gobierno de Puerto Rico que toda adquisición,
+6 contratación y subasta pública deberá llevarse a cabo a través de la Administración de
+7 Servicios Generales, mediante el uso obligatorio de la plataforma Joint E-procurement
+3
+1 Digital Intelligence (J.E.D.I.). Asimismo, se declara política pública fomentar el uso de
+2 sistemas de inteligencia artificial y modelos de lenguaje de gran tamaño para garantizar
+3 mayor eficiencia, transparencia, supervisión y rendición de cuentas en los procesos de
+4 compras gubernamentales.
+5 Artículo 3. – Definiciones
+6 Para efectos de esta Ley, los siguientes términos tendrán el significado que se
+7 indica:
+8 a) Administración de Servicios Generales (ASG): organismo gubernamental
+9 encargado de centralizar y administrar las compras y subastas del Gobierno
+10 de Puerto Rico.
+11 b) Agencia, departamento o corporación pública: toda entidad gubernamental no
+12 exenta según definida en la Ley 73-2019, según enmendada, conocida como la
+13 “Ley de la Administración de Servicios Generales para la Centralización de
+14 las Compras del Gobierno de Puerto Rico de 2019”.
+15 c) Inteligencia Artificial (IA): conjunto de técnicas de programación y algoritmos
+16 que permiten a sistemas informáticos realizar tareas que tradicionalmente
+17 requieren inteligencia humana.
+18 d) Licitación: todos los métodos de adquisición de bienes, obras y servicios no
+19 profesionales reconocida en la Ley 73-2019, según enmendada, conocida
+20 como la “Ley de la Administración de Servicios Generales para la
+21 Centralización de las Compras del Gobierno de Puerto Rico de 2019”.
+22 e) Modelos de Lenguaje de Gran Tamaño (LLM): modelos computacionales
+4
+1 capaces de analizar, procesar y generar lenguaje natural, aplicables a procesos
+2 de contratación.
+3 f) Plataforma J.E.D.I.: sistema electrónico de adquisiciones y subastas,
+4 denominado Joint E-procurement Digital Intelligence.
+5 Artículo 4. – Jurisdicción exclusiva de la ASG
+6 En virtud de la Ley 73-2019, según enmendada, se confiere a la Administración
+7 de Servicios Generales (ASG) la jurisdicción exclusiva para dirigir, administrar y
+8 adjudicar la totalidad de los procesos de compras, adquisiciones y subastas públicas.
+9 Ninguna agencia, corporación o instrumentalidad podrá efectuar procesos de
+10 contratación fuera de la plataforma J.E.D.I.
+11 Artículo 5. – Obligaciones de integración
+12 Todas las Entidades Gubernamentales del Gobierno de Puerto Rico deberán
+13 integrarse a la plataforma J.E.D.I. en un término no mayor de dieciocho (18) meses
+14 contados a partir de la vigencia de esta Ley.
+15 Las Entidades Gubernamentales son todas las dependencias y departamentos de
+16 la Rama Ejecutiva y todas las corporaciones públicas del Gobierno de Puerto Rico, con
+17 excepción de las Entidades Exentas.
+18 La ASG publicará y mantendrá actualizado un registro oficial con todas las
+19 entidades obligadas por esta Ley.
+20 Artículo 6. – Implementación de inteligencia artificial
+21 La ASG, en coordinación con el Puerto Rico Innovation and Technology Service
+22 (PRITS), implementará módulos de inteligencia artificial y modelos de lenguaje de gran
+5
+1 tamaño en la plataforma JEDI para lo siguiente:
+2 a) Validación automática de documentos sometidos en subastas.
+3 b) Detección y alerta de posibles irregularidades, anomalías y fraude.
+4 c) Generación de pronósticos de precios y demanda de bienes y servicios.
+5 d) Emisión de resúmenes de expedientes y auditorías en tiempo real.
+6 e) Creación de asistentes virtuales para orientar a licitadores y proveedores.
+7 f) Evaluación del desempeño de los licitadores.
+8 Artículo 7. – Registro Público de Algoritmos
+9 La ASG establecerá un Registro Público de Algoritmos donde conste la
+10 información básica de cada modelo de inteligencia artificial o LLM utilizado,
+11 incluyendo proveedor, versión, auditorías de sesgo y parámetros de transparencia.
+12 Artículo 8. – Reglamentación y capacitación
+13 La ASG, en coordinación con PRITS, adoptará reglamentos para la
+14 implementación de esta Ley y desarrollará programas de capacitación dirigidos al
+15 personal de compras de todas las entidades gubernamentales.
+16 Artículo 9. – Sanciones
+17 El incumplimiento con las disposiciones de esta ley conllevará la nulidad de los
+18 contratos otorgados fuera de J.E.D.I. las sanciones administrativas contra la entidad
+19 responsable en conformidad con la Ley 73-2019, según enmendada, conocida como la
+20 “Ley de la Administración de Servicios Generales para la Centralización de las Compras
+21 del Gobierno de Puerto Rico de 2019”.
+22 Artículo 10. – Informes
+6
+1 La ASG rendirá un informe anual a la Asamblea Legislativa sobre el grado de
+2 cumplimiento de las agencias y corporaciones, los ahorros generados, las
+3 irregularidades detectadas y las mejoras implementadas mediante el uso de inteligencia
+4 artificial.
+5 Artículo 11. – Separabilidad
+6 Si cualquier disposición de esta Ley fuere declarada nula o inconstitucional por
+7 un tribunal con jurisdicción, las demás disposiciones mantendrán su plena vigencia.
+8 Artículo 12. – Vigencia
+9 Esta Ley entrará en vigor inmediatamente después de su aprobación. La
+10 transición completa deberá efectuarse en un término no mayor de dieciocho (18) meses.
+Yo, Jenniffer Martínez Heyer, Secretaria del
+Senado de Puerto Rico, CERTIFICO que el
+presente documento es copia fiel y exacta del Texto
+Aprobado en Votación Final del P. del S. 731, en el
+Capitolio, el día 28 de mayo de 2026.
+_____________________________________________
+Secretaria
+[DELETED:    2  .dL   f d c l t d l c a y s d S G d G ( d l o d u d l p J E p l L 7 s e c c l “ d l d P R d 2 e l i d s d c p c u d l á m s d l p d P R L f d t l d d p y l d u h r e u s f v a l]
+[DELETED:  L 7 c c l “ d l A d S y l p N o l i y e h d c c m p p q r e y l a P R c c l p J ( E D I c p u y d l s t h t l m p e c p a n p d a d a v d p p d G d P R a h l c y t a p h t d ú L s c c l “ d L P c I p d G q]
+[DELETED:  e L e s A d S G ( o g p a s i r t q t r e l L 7 s e c l “ d l A d S G p l M d L d G T ( m c]
+[DELETED:  P J s e d a y s S G ( l j e p d a y a c o i p e p d l E G d G d P R d a l p J e u t n m d d ( m A p y m a u r o c t l]
+[DELETED:  A e u R P d A d c l b d c m d i a o L u A e c c P a r p l d e L y d p d c d a o f d J l s a c l e]
+[DELETED:  d l a y c l a g l L e e v i d d s a L,, S dJ M H d P R  q e ,e1a]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(28 DE MAYO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 731
+18 de septiembre de 2025
+Presentado por el señor Reyes Berríos
+Coautores las señoras Barlucea Rodríguez, Román Rodríguez; y los señores Santos Ortiz y
+Toledo López
+Referido a las Comisiones de Gobierno; y de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para crear la “Ley de Licitaciones Públicas con Inteligencia Artificial de Puerto Rico”; a
+los fines de centralizar la totalidad de las compras, adquisiciones y subastas
+públicas bajo la Administración de Servicios Generales del Gobierno de Puerto
+Rico (ASG), disponer la obligatoriedad del uso de la plataforma Joint E-
+procurement Digital Intelligence (J.E.D.I.) en toda Entidad Gubernamental según
+definida por la Ley 73-2019, según enmendada, conocida como la “Ley de la
+Administración de Servicios Generales para la Centralización de las Compras del
+Gobierno de Puerto Rico de 2019”; establecer la incorporación de sistemas de
+inteligencia artificial y modelos de lenguaje de gran tamaño (LLM, por sus siglas
+en inglés) en los procesos de adquisición; crear un Registro Público de Algoritmos;
+fijar los deberes de la ASG, del Puerto Rico Innovation and Technology Service
+(PRITS) y de las agencias; establecer sanciones por incumplimiento; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La contratación pública constituye una de las áreas más sensibles de la
+administración gubernamental, pues implica el uso de fondos públicos que pertenecen
+al pueblo de Puerto Rico. La falta de transparencia, la dispersión de procesos y la
+ausencia de uniformidad han resultado en un sistema fragmentado, vulnerable a la
+corrupción, con duplicidad de esfuerzos y limitaciones en la supervisión fiscal.
+
+2
+La Ley 73-2019, conocida como la “Ley de la Administración de Servicios
+Generales para la Centralización de las Compras del Gobierno de Puerto Rico de 2019”,
+sentó las bases para que la ASG asumiera un rol protagónico en la organización de las
+adquisiciones y licitaciones públicas. No obstante, los informes y estadísticas han
+demostrado que muchas agencias y corporaciones públicas continuaron operando fuera
+de dicha centralización, con múltiples procesos paralelos que restan eficiencia y
+fomentan discrecionalidad.
+En la actualidad, Puerto Rico cuenta con la plataforma J.E.D.I. (Joint E-
+procurement Digital Intelligence), creada para uniformar y digitalizar las subastas
+públicas. Esta herramienta ha probado ser útil, pero su implementación ha sido parcial.
+Paralelamente, la evolución de la inteligencia artificial y de los modelos de lenguaje de
+gran tamaño ha transformado las mejores prácticas en contratación pública a nivel
+internacional, permitiendo detección automática de anomalías, validación de
+documentos, pronósticos de demanda, y auditorías en tiempo real.
+Es política pública del Gobierno de Puerto Rico avanzar hacia la completa
+centralización de todas las adquisiciones en la ASG, garantizando procesos uniformes,
+eficientes y transparentes, apoyados por herramientas tecnológicas de última
+generación. La presente Ley consolida este marco.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. – Título
+2 Esta Ley se conocerá como la “Ley de Licitaciones Públicas con Inteligencia
+3 Artificial de Puerto Rico”.
+4 Artículo 2.– Declaración de política pública
+5 Se declara política pública del Gobierno de Puerto Rico que toda adquisición,
+6 contratación y subasta pública deberá llevarse a cabo a través de la Administración de
+7 Servicios Generales, mediante el uso obligatorio de la plataforma Joint E-procurement
+
+3
+1 Digital Intelligence (J.E.D.I.). Asimismo, se declara política pública fomentar el uso de
+2 sistemas de inteligencia artificial y modelos de lenguaje de gran tamaño para garantizar
+3 mayor eficiencia, transparencia, supervisión y rendición de cuentas en los procesos de
+4 compras gubernamentales.
+5 Artículo 3. – Definiciones
+6 Para efectos de esta Ley, los siguientes términos tendrán el significado que se
+7 indica:
+8 a) Administración de Servicios Generales (ASG): organismo gubernamental
+9 encargado de centralizar y administrar las compras y subastas del Gobierno
+10 de Puerto Rico.
+11 b) Agencia, departamento o corporación pública: toda entidad gubernamental no
+12 exenta según definida en la Ley 73-2019, según enmendada, conocida como la
+13 “Ley de la Administración de Servicios Generales para la Centralización de
+14 las Compras del Gobierno de Puerto Rico de 2019”.
+15 c) Inteligencia Artificial (IA): conjunto de técnicas de programación y algoritmos
+16 que permiten a sistemas informáticos realizar tareas que tradicionalmente
+17 requieren inteligencia humana.
+18 d) Licitación: todos los métodos de adquisición de bienes, obras y servicios no
+19 profesionales reconocida en la Ley 73-2019, según enmendada, conocida
+20 como la “Ley de la Administración de Servicios Generales para la
+21 Centralización de las Compras del Gobierno de Puerto Rico de 2019”.
+22 e) Modelos de Lenguaje de Gran Tamaño (LLM): modelos computacionales
+
+4
+1 capaces de analizar, procesar y generar lenguaje natural, aplicables a procesos
+2 de contratación.
+3 f) Plataforma J.E.D.I.: sistema electrónico de adquisiciones y subastas,
+4 denominado Joint E-procurement Digital Intelligence.
+5 Artículo 4. – Jurisdicción exclusiva de la ASG
+6 En virtud de la Ley 73-2019, según enmendada, se confiere a la Administración
+7 de Servicios Generales (ASG) la jurisdicción exclusiva para dirigir, administrar y
+8 adjudicar la totalidad de los procesos de compras, adquisiciones y subastas públicas.
+9 Ninguna agencia, corporación o instrumentalidad podrá efectuar procesos de
+10 contratación fuera de la plataforma J.E.D.I.
+11 Artículo 5. – Obligaciones de integración
+12 Todas las Entidades Gubernamentales del Gobierno de Puerto Rico deberán
+13 integrarse a la plataforma J.E.D.I. en un término no mayor de dieciocho (18) meses
+14 contados a partir de la vigencia de esta Ley.
+15 Las Entidades Gubernamentales son todas las dependencias y departamentos de
+16 la Rama Ejecutiva y todas las corporaciones públicas del Gobierno de Puerto Rico, con
+17 excepción de las Entidades Exentas.
+18 La ASG publicará y mantendrá actualizado un registro oficial con todas las
+19 entidades obligadas por esta Ley.
+20 Artículo 6. – Implementación de inteligencia artificial
+21 La ASG, en coordinación con el Puerto Rico Innovation and Technology Service
+22 (PRITS), implementará módulos de inteligencia artificial y modelos de lenguaje de gran
+
+5
+1 tamaño en la plataforma JEDI para lo siguiente:
+2 a) Validación automática de documentos sometidos en subastas.
+3 b) Detección y alerta de posibles irregularidades, anomalías y fraude.
+4 c) Generación de pronósticos de precios y demanda de bienes y servicios.
+5 d) Emisión de resúmenes de expedientes y auditorías en tiempo real.
+6 e) Creación de asistentes virtuales para orientar a licitadores y proveedores.
+7 f) Evaluación del desempeño de los licitadores.
+8 Artículo 7. – Registro Público de Algoritmos
+9 La ASG establecerá un Registro Público de Algoritmos donde conste la
+10 información básica de cada modelo de inteligencia artificial o LLM utilizado,
+11 incluyendo proveedor, versión, auditorías de sesgo y parámetros de transparencia.
+12 Artículo 8. – Reglamentación y capacitación
+13 La ASG, en coordinación con PRITS, adoptará reglamentos para la
+14 implementación de esta Ley y desarrollará programas de capacitación dirigidos al
+15 personal de compras de todas las entidades gubernamentales.
+16 Artículo 9. – Sanciones
+17 El incumplimiento con las disposiciones de esta ley conllevará la nulidad de los
+18 contratos otorgados fuera de J.E.D.I. las sanciones administrativas contra la entidad
+19 responsable en conformidad con la Ley 73-2019, según enmendada, conocida como la
+20 “Ley de la Administración de Servicios Generales para la Centralización de las Compras
+21 del Gobierno de Puerto Rico de 2019”.
+22 Artículo 10. – Informes
+
+6
+1 La ASG rendirá un informe anual a la Asamblea Legislativa sobre el grado de
+2 cumplimiento de las agencias y corporaciones, los ahorros generados, las
+3 irregularidades detectadas y las mejoras implementadas mediante el uso de inteligencia
+4 artificial.
+5 Artículo 11. – Separabilidad
+6 Si cualquier disposición de esta Ley fuere declarada nula o inconstitucional por
+7 un tribunal con jurisdicción, las demás disposiciones mantendrán su plena vigencia.
+8 Artículo 12. – Vigencia
+9 Esta Ley entrará en vigor inmediatamente después de su aprobación. La
+10 transición completa deberá efectuarse en un término no mayor de dieciocho (18) meses.
+Yo, Jenniffer Martínez Heyer, Secretaria del
+Senado de Puerto Rico, CERTIFICO que el
+presente documento es copia fiel y exacta del Texto
+Aprobado en Votación Final del P. del S. 731, en el
+Capitolio, el día 28 de mayo de 2026.
+_____________________________________________
+Secretaria
+
+[DELETED:    2  .dL   f d c l t d l c a y s d S G d G ( d l o d u d l p J E p l L 7 s e c c l “ d l d P R d 2 e l i d s d c p c u d l á m s d l p d P R L f d t l d d p y l d u h r e u s f v a l]
+[DELETED:  L 7 c c l “ d l A d S y l p N o l i y e h d c c m p p q r e y l a P R c c l p J ( E D I c p u y d l s t h t l m p e c p a n p d a d a v d p p d G d P R a h l c y t a p h t d ú L s c c l “ d L P c I p d G q]
+[DELETED:  e L e s A d S G ( o g p a s i r t q t r e l L 7 s e c l “ d l A d S G p l M d L d G T ( m c]
+[DELETED:  P J s e d a y s S G ( l j e p d a y a c o i p e p d l E G d G d P R d a l p J e u t n m d d ( m A p y m a u r o c t l]
+[DELETED:  A e u R P d A d c l b d c m d i a o L u A e c c P a r p l d e L y d p d c d a o f d J l s a c l e]
+[DELETED:  d l a y c l a g l L e e v i d d s a L,, S dJ M H d P R  q e ,e1a]

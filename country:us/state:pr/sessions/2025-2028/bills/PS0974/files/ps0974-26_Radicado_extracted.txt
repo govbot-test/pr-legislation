@@ -1,0 +1,2185 @@
+Title: Para añadir un nuevo Título VI – Delitos Cibernéticos; reenumerar el actual Titulo VI
+Official Title: Para añadir un nuevo Título VI – Delitos Cibernéticos; reenumerar el actual Titulo VI
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 45 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 974
+22 de enero de 2026
+Presentado por el señor Ríos Santiago
+Referido a
+LEY
+como Titulo VII; reenumerar los actuales Artículos 301, 302, 303, 304, 305, 306, 307,
+308 y 309, para ser reenumerados como los Artículos 377, 378, 379, 380, 381, 382,
+383, 384 y 385, de la Ley Núm. 146-2012, según enmendada, conocida como
+“Código Penal de Puerto Rico”, a los fines de tipificar delitos cibernéticos y otros
+conexos de los mismos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Esta Asamblea Legislativa tiene la responsabilidad constitucional de salvaguardar
+la vida, propiedad y seguridad de todos los miembros de nuestra sociedad. En
+cumplimiento con dicha responsabilidad constitucional, corresponde tomar las medidas
+necesarias para prevenir, controlar y reducir la incidencia de la actividad criminal,
+incluyendo las conductas del mundo cibernético.
+La aplicación de una pena sobre un individuo constituye una de las muestras más
+abarcadoras de la intensidad que puede asumir el castigo estatal. Esta afirmación se
+vuelve clara con solo pensar en el modo más usual en que una persona encontrada
+culpable de un delito es afectada con la pérdida de su libertad. Así, la detención o arresto
+de una persona para ser privada de su libertad se transforma en el ejemplo paradigmático
+2
+de la sanción penal. Desde luego existen otras penas que impactan sobre el patrimonio
+(sanciones y multas) o en la capacidad para ejercer algún cargo, profesión o función. La
+gravedad de las penas en su aplicación debe estar prevista únicamente para aquellos
+actos específicos que el estado ha identificado y establecido mediante Ley. No obstante,
+la tarea de creación de delitos debe ser llevada a cabo con sumo cuidado, a fin de evitar
+vaguedad en su tipificación y/o con el establecimiento de una punibilidad que resulte de
+manera excesiva o represiva por parte del estado.
+La formulación de leyes penales es un proceso continuo que obedece a las
+condiciones sociales en determinado momento histórico. Según expresan las teorías de
+legislación penal, todo Código Penal debe ser el reflejo diáfano y genuino de los valores
+de la sociedad para la cual se legisla. De igual forma, no debemos perder de perspectiva
+que la creación de delitos va atada a ciertos principios fundamentales para una sociedad
+democrática. Así, toda tipificación de conducta delictiva, sanción y multa, deben ser
+realista, acorde con los tiempos que se viven y lo suficientemente abarcadora y flexible
+en miras de un futuro previsible o probable. Debe, además, ser susceptible de ajuste para
+atemperarlo a las situaciones cambiantes, según éstas acontecen.
+Es por ello que, el debido proceso de ley pone sobre la Asamblea Legislativa la
+obligación de que las normas que prescriben las conductas prohibidas deben ser claras y
+precisas, de manera que se respete el principio de legalidad. En atención al tema
+cibernético, cabe destacar que, la tecnología se ha convertido en uno de los principales
+soportes del mundo que a su vez permite llevar a cabo muchas tareas en una fracción de
+tiempo. A medida que la computadora se ha convertido en algo común en un mundo
+globalizado, los crímenes han sobrepasado la esfera natural para llegar al mundo
+cibernético.
+Se conoce como delito cibernético, cualquier conducta ilegal o delictiva en el que
+se haya utilizado un equipo, una Red o un dispositivo de hardware. Existen varios tipos
+de delitos cibernéticos, entre los cuales podemos mencionar: acoso cibernético, fraude,
+falsificación, crimen pornográfico, piratería cibernética, “Sexting”, “Grooming”,
+“Hacking”, entre otros.
+3
+Además, traemos a colación algunos artículos periodísticos que datan y
+fundamentan la importancia de reglamentar este campo.
+Según publicado en la Red noticiosa NotiCel, las víctimas de crímenes cibernéticos
+en Puerto Rico perdieron en el año 2019 alrededor de $7.7 millones de dólares, de acuerdo
+con un informe estadístico publicado por el Negociado Federal de Investigaciones (FBI),
+para un total de 839 víctimas de crímenes cibernéticos.
+Por otro lado, para el 26 de enero de 20191, se dijo que, Puerto Rico se encuentra
+entre los primeros cinco mercados de mayor incidencia de ciberataques de todo el Caribe,
+región que es víctima de sobre 150 millones de ciberataques anuales, con pérdidas
+multimillonarias, sostuvo Marc Asturias, vicepresidente de Mercadeo y Relaciones
+Públicas de Fortinet para América Latina y el Caribe. El problema se complica ya que,
+según el experto, la mayoría de las víctimas, empresas como ciudadanos, desconocen que
+han sido “hackeados”. La situación se agudiza en la medida en que se sigan ampliando
+“las superficies de interconexión”. Se estima que cada persona cuenta hoy con entre cinco
+a siete dispositivos conectados a la internet, pero alrededor del 60% de las empresas que
+sirven a estas conexiones no poseen la capacidad de servicio de seguridad adecuada para
+garantizar o minimizar los ciberataques. Esta práctica a nivel global representa pérdidas
+ascendentes a los $7.8 trillones. Cada 39 segundos se registra un ataque y para el 2021 se
+estima que el daño por la ciberdelincuencia costará al mundo más de $6 billones. El 65%
+de todas las vulneraciones de datos involucran errores de los empleados y el 65% de los
+ciberataques se dirigen a las pequeñas y medianas empresas.
+Asimismo, se señaló que desde el año 2011 al 2018 se había “disparado 10,000 veces
+lo que era antes y aunque las empresas han aumentado en un 75% sus gastos en ciber
+seguridad, aun no es suficiente para detener la práctica”, apuntó Asturias. Sostuvo,
+además, que otro de los retos, es la expansión que se está experimentando a través de las
+cámaras de las computadoras, los monitores de los bebés, los sistemas de alarmas, entre
+1 Rosado, I. V., & Vocero, E. L. (2019, enero 26). Fuerte el reto local contra el Ciberataque. El Vocero de Puerto Rico.
+https://www.elvocero.com/economia/fuerte-el-reto-local-contra-el-ciberataque/article_85200d46-20e2-
+11e9-98c2-032f916e5677.html.
+4
+otros servicios, que son valiosos, pero amplían la superficie de ataque, porque no están
+protegidos contra el “hacker”.
+Además, es claro que nuestro Gobierno no ha quedado inmune a la delincuencia
+cibernética. Como, por ejemplo, el pasado 2 de diciembre de 2025 el periódico Primera
+Hora publicó una noticia donde se explica que una compañía de tecnología contratada
+por el Gobierno de Puerto Rico sufrió un ataque cibernético, afectando al Departamento
+de Educación, ASES y a la Corporación del Fondo de aseguro del Estado. Por otro lado,
+en reportaje de 1 de noviembre de 2024, el mismo rotativo publicó que PRITS había
+registrado la cantidad de 82,089,132 intentos de ataques cibernéticos.
+Lamentablemente, existen delitos tipificados en el Código Penal y leyes especiales
+relacionadas a crímenes cibernéticos, de manera muy limitada. Los problemas
+ocasionados por los crímenes cibernéticos, por su complejidad y características
+particulares, deben contar con una sección propia dentro del Código Penal donde se
+recogen los delitos ordenados por todo por tópico de esta conducta delictiva. Ello motiva
+la presente legislación, además de la protección de nuestra ciudadanía de este tipo de
+conducta indeseable.
+Por tales acontecimientos, otros similares y todo lo antes expuesto es que, esta
+pieza legislativa representa un esfuerzo legítimo para hacer la inclusión de múltiples
+delitos, penas, sanciones y/o multas dentro del mundo cibernético, reformulando ciertos
+actos y conductas por omisión y/o negligencia en nuestro ordenamiento jurídico penal,
+siendo el instrumento eficaz para la administración de la justicia criminal y devolver a la
+ciudadanía la seguridad jurídica que tanto merece.
+El principio de legalidad de nuestro actual Código Penal esboza que no se instará
+acción penal contra persona alguna por hechos que no estén expresamente definidos
+como delito en el código o mediante leyes especiales, ni se impondrá pena o medidas de
+seguridad que la ley no establezca con anterioridad a los hechos. Tampoco se podrá crear
+ni imponer delitos, penas, ni medidas de seguridad por analogía a una conducta que se
+parezca, más no sea igual a la tipificada en el Código Penal.
+5
+Este nuevo Título VI ha sido atemperado a la legislación especial relativa a la
+administración de la justicia en este tipo de caso. Asimismo, se han redefinido e incluido
+nuevas figuras jurídicas para conformarlas a las directrices ofrecidas por el Tribunal
+Supremo de Puerto Rico y el Tribunal Supremo de Estados Unidos en interpretación de
+las garantías constitucionales. A esos efectos, hemos puesto énfasis sobre la protección a
+la intimidad, la propiedad, el patrimonio del Estado y de los individuos, los fondos
+públicos, la propiedad intelectual, la vida y la libertad de expresión, entre otros.
+En tema del establecimiento de la responsabilidad penal, se mantiene muy
+presente la expresión contenida en nuestra Constitución que establece con jerarquía
+constitucional el carácter rehabilitador de la pena al disponer en su Artículo VI, Sección
+19, que las instituciones penales preponderarán “el tratamiento adecuado de los
+delincuentes para hacer posible su rehabilitación moral y social”; que “no se impondrán
+castigos crueles e inusitados” y que las “multas no serán excesivas”. Artículo II, Secciones
+11 y 12 de la Constitución de Puerto Rico. A esos efectos, se reconocen como principios
+fundamentales que la sanción penal no podrá atentar contra la dignidad humana y la
+rehabilitación moral y social del convicto como un objetivo general para la imposición de
+las penas. De igual manera, ponemos especial atención en velar por la confianza pública
+imponiendo sobre los funcionarios o empleados públicos la obligación de rectitud e
+integridad en el cumplimiento de su deber y la destitución de su cargo o empleo como
+pena cuando infrinja la ley en el desempeño de las funciones públicas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un nuevo Título VI – Delitos Cibernéticos a la Ley Núm. 146-
+2 2012, según enmendada, conocida como “Código Penal de Puerto Rico”, para que lea
+3 como sigue:
+4 “TITULO VI. – DELITOS CIBERNÉTICOS
+5 CAPITULO I. – DELITOS INFORMÁTICOS COMO OBJETO
+6
+1 SECCIÓN PRIMERA. – Definiciones.
+2 Artículo 301. – Definiciones.
+3 1. “Acceso Ilícito” o “Piratería”, se entiende como cualquier medio para entrar a otro
+4 sistema informático, con inclusión de los ataques por internet, así como el acceso ilícito
+5 a las redes inalámbricas y el acceso no autorizado a los ordenadores que no están
+6 conectados a ninguna red.
+7 2. “Acceso Ilegal o Indebido a los Sistemas de Información”, se entiende como el
+8 acceso no autorizado, al conjunto o a una parte de un sistema de información cuando
+9 se comete transgrediendo medidas de seguridad.
+10 3. “Adquisición Ilegal”, se entiende como la interceptación de los procesos de
+11 transferencia de datos.
+12 4. “Ataques a la Integridad del Sistema”, se entiende como toda obstaculización
+13 deliberada e ilegítima del funcionamiento de un sistema informático mediante la
+14 introducción, transmisión, daño, borrado, deterioro, alteración o supresión de datos
+15 informáticos.
+16 5. “Datos Informáticos”, se entiende toda representación de hechos, información o
+17 conceptos de una forma que permita su procesamiento en un sistema de computadoras,
+18 incluido un programa capaz de provocar que un sistema informático realice una
+19 función.
+20 6. “Difusión de Material Racista y Xenófobo Mediante Sistemas Informáticos”,
+21 se entiende como todo material escrito, toda imagen o cualquier otra representación de
+22 ideas o teorías, que propugne, promueva o incite al odio, la discriminación o la
+7
+1 violencia, contra cualquier persona o grupo de personas, por razón de raza, color,
+2 ascendencia u origen nacional o étnico, así como de la religión.
+3 7. “Espionaje de Datos”, se entiende como toda persona que, intencionalmente, sin
+4 excusa o justificación legal o en exceso de una excusa o justificación legal obtenga, para
+5 sí o para otro, datos informáticos que no estén destinados a él y que estén especialmente
+6 protegidos contra el acceso no autorizado.
+7 8. “Espionaje Económico”, se entiende como toda persona que, intencionalmente o a
+8 sabiendas de que la intrusión beneficiará a cualesquiera gobiernos, agencias o agentes
+9 extranjeros:
+10 a) robe o, sin autorización, se apropie de, tome, se lleve u oculte, o mediante fraude,
+11 artificio o engaño, obtenga un secreto comercial;
+12 b) sin autorización copie, duplique, esboce, dibuje, fotografíe, descargue, cargue,
+13 altere, destruya, fotocopie, replique, transmita, entregue, expida, envíe por
+14 correo electrónico, comunique o transporte un secreto comercial;
+15 c) reciba, compre o posea un secreto comercial, a sabiendas de que éste ha sido
+16 robado o ha sido objeto de apropiación, obtenido o convertido sin autorización;
+17 d) intente cometer cualesquiera de los actos descritos en los anteriores incisos a)
+18 b) y c); o
+19 e) conspire con una o más personas para cometer cualquiera de los actos descritos
+20 en los anteriores incisos a) b) y c) y una o más de esas personas actúe para llevar
+21 a la práctica el objeto de la conspiración.
+8
+1 9. “Falsificación Informática o Phishing”, se entiende como la introducción,
+2 alteración, borrado o supresión deliberados e ilegítimos de datos informáticos que
+3 genere datos no auténticos con la intención de que sean tomados o utilizados a efectos
+4 legales como auténticos, con la independencia de que los datos sean legibles e
+5 inteligibles directamente.
+6 10. “Hostigamiento, Intimidación o Cyberbullying”, se entiende como cualquier
+7 patrón de acciones realizados intencionalmente, ya sea mediante abuso psicológico,
+8 físico, cibernético o social, que tenga el efecto de atemorizar a una persona o a un grupo
+9 de personas.
+10 11. “Incautar”, incluye:
+11 a) activar cualquier computadora y medio de almacenamiento de datos
+12 informáticos;
+13 b) crear y conservar una copia de datos informáticos;
+14 c) mantener la integridad de los datos informáticos pertinentes almacenados;
+15 d) suprimir o hacer que no pueda accederse a datos informáticos existentes en el
+16 sistema de computadoras al que se accede;
+17 e) imprimir una copia de los datos informáticos salientes; o
+18 f) incautar o asegurar de manera similar un sistema de computadoras o parte de
+19 este, o un medio de almacenamiento de datos informáticos.
+20 12. “Infraestructura Esencial”, se entiende como aquellos sistemas, aparatos y redes de
+21 información, programas y datos informáticos que resultan tan vitales para el país que
+22 la incapacitación, destrucción o interferencia de tales sistemas y activos supondría un
+9
+1 menoscabo de la seguridad, la seguridad económica o nacional, la salud y protección
+2 pública general o cualquier combinación de estos factores.
+3 13. “Interceptación”, se entiende, entre otras cosas, la adquisición, visualización y
+4 captación de cualquier comunicación de datos informáticos, ya sea por medios
+5 alámbricos, inalámbricos, electrónicos, ópticos, magnéticos, verbales o de otro tipo,
+6 durante la transmisión a través de la utilización de cualquier dispositivo técnico.
+7 14. “Interferencia con Datos”, se entiende cuando una persona, deliberada o
+8 imprudentemente, sin excusa o justificación legal, realice cualesquiera de los siguientes
+9 actos:
+10 a) destruya o altere datos;
+11 b) haga que los datos resulten incompresibles, inútiles o ineficaces;
+12 c) obstruya, interrumpa o interfiera con la utilización legal de los datos;
+13 d) obstruya, interrumpa o interfiera con cualquier persona en la utilización legal
+14 de los datos; o
+15 e) deniegue el acceso a los datos a cualquier persona con derecho a acceder a los
+16 mismos.
+17 El inciso a) se aplica independientemente del hecho de que el acto de la persona tenga
+18 un efecto temporal o permanente.
+19 15. “Interceptación Ilegal”, se entiende como la obtención o intrusión deliberada e
+20 ilegítima por medios técnicos de datos informáticos en transmisiones no públicas
+21 dirigidas a un sistema informático, originados en un sistema informático o efectuados
+10
+1 dentro del mismo, incluidas las emisiones electromagnéticas provenientes de un
+2 sistema informático que transporte dichos datos informáticos.
+3 16. “Material Erótico, Obsceno y Pornográfico”, se entiende como cualquier libro,
+4 revista, periódico u otro material impreso, escrito, o digital, o cualquier retrato,
+5 fotografía, dibujo, caricatura, película de movimiento, cinta cinematográfica u otra
+6 representación gráfica; o cualquier representación oral o visual transmitida o
+7 retransmitida a través de cables, ondas electromagnéticas, computadoras, tecnología
+8 digital o cualesquiera medios electrónicos o de comunicación telemática; o cualquier
+9 estatua, talla o figura, escultura; o cualquier grabación, transcripción o reproducción
+10 mecánica, química o eléctrica o cualquier otro artículo, equipo o máquina.
+11 Además, se entiende como “material” todo aquello que considerado en su totalidad por
+12 una persona promedio y que al aplicar patrones comunitarios contemporáneos:
+13 a) apele al interés lascivo, o sea, a un interés morboso en la desnudez, sexualidad o
+14 funciones fisiológicas;
+15 b) represente o describa en una forma patentemente ofensiva conducta sexual; y
+16 c) carezca de un serio valor literario, artístico, religioso, científico o educativo.
+17 La atracción del material al interés lascivo en el sexo se juzga en referencia al adulto
+18 promedio, a menos que se desprenda de la naturaleza del material, o de las circunstancias
+19 de su diseminación, distribución o exhibición, que está diseñado para grupos con
+20 desviaciones sexuales, en cuyo caso dicha atracción se juzgará con referencia al grupo a
+21 quien va dirigido.
+11
+1 En procesos de violación a las disposiciones de esta Sección, donde las circunstancias
+2 de producción, presentación, venta, diseminación, distribución, o publicidad indican que
+3 el acusado está explotando comercialmente el material por su atracción lasciva, la prueba
+4 de este hecho constituirá prueba prima facie de que el mismo carece de serio valor literario,
+5 artístico, religioso, científico o educativo.
+6 Cuando la conducta prohibida se lleve a cabo para, o en presencia de, personas menores
+7 de edad, bastará que el material tenga por objeto suscitar o despertar un interés lascivo en
+8 la actividad sexual. Incluirá, además, cualquier modalidad de anuncio, promoción o
+9 facilitación de actividad sexual a través de medios electrónicos o de comunicación por
+10 internet.
+11 17. “Material Explícito”, se entiende como todo material de contenido, íntimo sexual
+12 alguna imagen del cuerpo humano o sus partes; o sexualmente explícito, que incluya
+13 algún tipo de actividad sexual; intima o de pareja, ya sea visual, ilustrativo o gráfico,
+14 grabaciones de video o audio.
+15 18. "Medio de Almacenamiento de Datos Informáticos”, se entiende como todo
+16 artículo o material a partir del cual es posible reproducir información, con o sin ayuda
+17 de cualquier otro artículo o dispositivo.
+18 19. “Permanencia Ilegal”, se entiende como toda persona que intencionalmente, sin
+19 autorización o justificación legal, o excediéndose de una excusa o justificación legal,
+20 permanezca conectado en un sistema informático o en parte de un sistema informático
+21 o siga utilizando un sistema informático.
+22 20. “Perturbación”, se entiende como manipulaciones que comprenden:
+12
+1 a) cortar el suministro eléctrico a un sistema de computadoras;
+2 b) causar interferencias electromagnéticas a un sistema de computadoras;
+3 c) corromper por cualquier medio un sistema de computadoras; e
+4 d) ingresar, transmitir, dañar, borrar, deteriorar, alterar o suprimir datos
+5 informáticos del sistema.
+6 21. “Pornografía Infantil”, se entiende como toda representación, por cualquier medio,
+7 de un menor de edad o persona que luzca como tal, dedicado a actividades sexuales
+8 explicitas o implícitas, reales o simuladas, o toda representación de las partes genitales
+9 de un menor de edad o persona que luzca como tal, con fines primordialmente sexuales.
+10 Esta incluye, pero no se limita a, todo material pornográfico sonoro, visual o escrito.
+11 22. “Programas Maliciosos o Malware”, se entiende como aquella programación
+12 creada para causar daño a un dispositivo, sistemas o a sus usuarios, que pueden incluir
+13 desde daños leves hasta destrucción total del sistema.
+14 23. “Protocolo de Internet o IP”, se entiende como las direcciones numéricas estándar
+15 que se emplea para el envío y recepción de información mediante una red con la
+16 posibilidad de confirmar que un paquete de información o datos llegó a su destino.
+17 24. “Proveedor de Hospedaje”, se entiende como toda persona física o jurídica que presta
+18 un servicio de transmisión electrónica de datos mediante el almacenamiento de la
+19 información proporcionada por un usuario del servicio.
+20 25. “Proveedor de Servicio”, se entiende como toda entidad pública o privada que ofrece
+21 a los usuarios de su servicio la capacidad de comunicar por medio de un sistema de
+13
+1 computadoras, y cualquier otra entidad que procese o almacene datos informáticos en
+2 nombre de dicho servicio de comunicación o de los usuarios de dicho servicio.
+3 26. “Redes Informáticas”, se entiende como un grupo de sistemas interconectados o
+4 relacionados en que uno o varios de ellos llevan a cabo, con arreglo a un programa, el
+5 procesamiento automático de datos o cualquier otra función análoga.
+6 27. “Seducción de un Menor de Edad, Preparación o Captación, o Grooming”, se
+7 entiende como aquel acto preparatorio ejecutado a través de tecnologías de la
+8 información y la comunicación, cuyo propósito sea propiciar un encuentro con una
+9 persona menor de edad con la intención de perpetrar abuso sexual en su contra.
+10 28. “Sistema Informático”, se entiende como la estructura integrada por uno o varios
+11 aparatos interconectados o relacionados que ejecutan, de conformidad con un
+12 programa, el procesamiento automático de datos u otras funciones.
+13 29. “Usurpación de Identidad”, se entiende como el acto de obtener, poseer, transferir o
+14 utilizar información relacionada con la identidad de otra persona, sin autorización para
+15 ello.
+16 SECCIÓN SEGUNDA – Delitos Informáticos y Conexos
+17 Artículo 302. – Acceso Indebido a Sistema Informático.
+18 El que, sin autorización o excediendo una autorización en todo o en parte utilice, instale
+19 o acceda a un sistema informático o sistema telemático o de telecomunicaciones, o a sus
+20 componentes, protegido o no con una medida de seguridad, o se mantenga dentro del mismo en
+21 contra de la voluntad de quien tenga el legítimo derecho a exigirlo, incurrirá en delito menos
+22 grave.
+14
+1 El acceso indebido a sistema informático incluye, pero no se limita a:
+2 a) Modificar, a través de cualquier forma de engaño o treta cualesquiera de las
+3 funciones de la computadora u ordenador, incluyendo, pero no limitado al acceso
+4 a la computadora u ordenador, la página cibernética donde la computadora u
+5 ordenador activa su sistema de navegación en la Internet y las marcas o
+6 “bookmarks” que el usuario autorizado o dueño han registrado en la
+7 computadora u ordenador.
+8 b) Recolectar, a través del uso de cualquier forma de engaño o treta, información
+9 personal confidencial del usuario autorizado o dueño, incluyendo cuando dicha
+10 acción se realiza a través de uso de un dispositivo que graba todos los usos del
+11 teclado de un usuario autorizado y transfiere tal información a otro ordenador o
+12 persona; cuando dicha acción se realiza a través de acceder sin autorización el
+13 historial de páginas de la “Internet” visitadas por el usuario autorizado y
+14 cuando dicha acción se realiza extrayendo del disco duro del ordenador
+15 información sin la autorización expresa del usuario autorizado o dueño.
+16 c) Prevenir, a través del uso de cualquier forma de treta o engaño, el que un usuario
+17 autorizado pueda detectar que su ordenador ha sido intervenido, se le ha
+18 insertado programación o se ha sustraído información sin su autorización.
+19 d) Representar, intencionalmente, de forma electrónica, que la computadora u
+20 ordenador ha eliminado un programa de espionaje cibernético o un virus, a
+21 sabiendas que dicha información es falsa.
+15
+1 e) Intencionalmente o a través de treta o engaño lograr inutilizar el sistema de
+2 seguridad, anti-espionaje cibernético o antivirus en una computadora.
+3 Cuando de dicho acceso ilícito resulte la supresión o la modificación de datos,
+4 información o contenido en el sistema, o revelen o difundan datos confidenciales o personales
+5 contenidos en el sistema accedido, será sancionada con pena de reclusión por un término fijo de
+6 cinco (5) años.
+7 Artículo 303. – Sabotaje Informático.
+8 Toda persona que, sin autorización o excediendo una autorización, destruya o inutilice
+9 en todo o en parte un sistema informático o sistema telemático o de telecomunicaciones o a sus
+10 componentes, o impida, altere, entorpezca, obstaculice o modifique su funcionamiento o uso
+11 regular o acceso, protegido o no con una medida de seguridad, será sancionada con pena de
+12 reclusión por un término fijo de tres (3) años.
+13 Artículo 304. – Sabotaje Informático Agravado.
+14 Sera sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+15 que cometa el delito de sabotaje informático descrito en el Artículo 303, cuando se lleve a cabo
+16 para obtener beneficio personal o de un tercero. El tercero beneficiado incurrirá igualmente en
+17 este delito.
+18 En caso de que la persona responsable obtenga o logre efectivamente el beneficio personal
+19 perseguido, la pena de reclusión será por término fijo de ocho (8) años.
+16
+1 Artículo 305. – Ataque a la Integridad de Sistemas Informáticos del Sistema
+2 Público.
+3 Toda persona que, sin autorización o excediendo una autorización, destruya, dañe,
+4 borre, deteriore, altere, suspenda, trabe, cause mal funcionamiento, comportamiento no deseado
+5 o suprima datos informáticos, mensajes de correo electrónicos, a sistemas del servicio público
+6 del Gobierno de Puerto Rico, cuyo contenido sea esencial para su funcionamiento o desarrollo
+7 de programas, de tratamiento de información, telemático o de telecomunicaciones a todo o en
+8 parte de sus componentes, protegido o no con una medida de seguridad, será sancionada con
+9 pena de reclusión por un término fijo de ocho (8) años.
+10 Artículo 306. – Ataque a la Integridad de Sistemas Informáticos del Sistema
+11 Público Agravado.
+12 Sera sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+13 que cometa el delito de ataque a la integridad de sistemas informáticos del sistema público
+14 descrito en el Articulo 305, cuando de dicho acceso ilícito sobrevenga peligro colectivo o daño
+15 social.
+16 Si del delito descrito en el párrafo anterior sobreviene la pérdida de fondos públicos que
+17 sobrepase de cinco (5,000) mil dólares, será sancionada con pena de reclusión por un término
+18 fijo de quince (15) años. El Tribunal también podrá imponer pena de restitución.
+19 Artículo 307. – Explotación Informática.
+20 Será sancionada con pena de reclusión por término fijo de ocho (8) años toda persona
+21 que, sin autorización o excediendo una autorización en todo o en parte, utilice, instale o acceda
+22 a un sistema informático, telemático o de telecomunicaciones, esté o no protegido con medidas
+17
+1 de seguridad, o se mantenga dentro del mismo en contra de la voluntad de quien ostente el
+2 legítimo derecho a exigirlo, con el propósito de explotar ilegítimamente el acceso logrado,
+3 modificar un portal web, desviar o redireccionar el tráfico de datos o voz, u ofrecer a terceros
+4 los servicios que estos sistemas proveen, sin que medie pago a los proveedores legítimos de tales
+5 servicios.
+6 Artículo 308. – Daño Informático.
+7 Toda persona que, sin autorización o excediendo una autorización a propósito, con
+8 conocimiento o temerariamente, destruya, dañe o vandalice en todo o en parte los datos
+9 contenidos en un sistema de información, telemático o de telecomunicaciones o de sus
+10 componentes, protegido o no con una medida de seguridad, o en perjuicio de un tercero,
+11 suprima, modifique o destruya la información contenida, será sancionada con pena de reclusión
+12 por un término fijo de cinco (5) años.
+13 La persona que resulte convicta por el delito descrito en el párrafo anterior será
+14 sancionada con pena de reclusión por un término fijo de tres (3) años cuando la comisión del
+15 delito obedezca a negligencia, imprudencia, impericia o inobservancia de las normas aplicables.
+16 Artículo 309. – Daño Informático Agravado.
+17 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+18 que cometa el delito de daño informático descrito en el Articulo 308, cuando se cometiere en
+19 contra de los componentes de un sistema informático que utilice tecnologías de información y
+20 comunicación, destinadas a la prestación de servicios públicos o financieros, o que contengan
+21 información personal, confidencial, reservada, patrimonial, técnica o propia de personas
+22 naturales o jurídicas.
+18
+1 Artículo 310. – Revelación De Secretos.
+2 Toda persona que, sin autorización o excediendo una autorización a propósito, con
+3 conocimiento o temerariamente modifique, destruya, obtenga, copie o utilice información de
+4 seguridad pública en todo o en parte de los datos contenidos en un sistema de información,
+5 telemático o de telecomunicaciones o de sus componentes, protegido o no con una medida de
+6 seguridad, será sancionada con pena de reclusión por un término fijo de cinco (5) años.
+7 Artículo 311. – Revelación de Secretos Agravado.
+8 Sera sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+9 que para beneficio personal o de un tercero, cometa el delito de revelación de secretos descrito
+10 en el Articulo 310, cuando la conducta obstruya, entorpezca, obstaculice, limite o imposibilite
+11 la administración o aplicación de la justicia, o recaiga sobre los registros relacionados con un
+12 procedimiento penal resguardados por las autoridades competentes. El tercero beneficiado
+13 incurrirá igualmente en este delito.
+14 Cuando el delito descrito en el párrafo anterior sea perpetrado por un funcionario
+15 público, éste será sancionado con pena de reclusión por un término fijo de quince (15) años.
+16 Además, se impondrá destitución inmediata del cargo público e inhabilitación por término de
+17 cuatro (4) a diez (10) años para desempeñarse en cualquier empleo, puesto o cargo público,
+18 contados a partir del cumplimiento de la pena de reclusión.
+19 Artículo 312. – Instalación o Propagación de Programas Informáticos
+20 Maliciosos.
+21 Toda persona que, sin autorización o excediendo una autorización a propósito y por
+22 cualquier medio, instale programas informáticos maliciosos en un sistema o red informática o
+19
+1 telemática, o en los contenedores electrónicos, ópticos o magnéticos, o de sus componentes,
+2 protegidos o no con medidas de seguridad, será sancionada con pena de reclusión por un
+3 término fijo de tres (3) años.
+4 Artículo 313. – Instalación O Propagación De Programas Informáticos
+5 Maliciosos Agravado.
+6 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+7 que cometa el delito de instalación o propagación de programas informáticos descrito en el
+8 Articulo 312, cuando:
+9 a) Induzca a error a otra persona para que instale un programa malicioso en un sistema
+10 o red informática o telemática, o en los contenedores electrónicos, ópticos o
+11 magnéticos, sin la debida autorización;
+12 b) Sin autorización, instale programas o aplicaciones informáticas dañinas en sitios de
+13 internet legítimos, con el propósito de convertirlos en medios idóneos para la
+14 propagación de programas informáticos maliciosos;
+15 c) Para propagar programas informáticos maliciosos, invite a otras personas a
+16 descargar archivos o acceder a sitios de internet que faciliten la instalación de
+17 programas informáticos maliciosos;
+18 d) Distribuya programas informáticos diseñados para la creación de programas
+19 informáticos maliciosos;
+20 e) Ofrezca, contrate o brinde servicios de denegación de servicios, envío de
+21 comunicaciones masivas no solicitadas, o propagación de programas informáticos
+22 maliciosos, para beneficio personal o de un tercero.
+20
+1 Será sancionada con una pena de reclusión por un término fijo de ocho (8) años cuando
+2 el autor del delito descrito en el párrafo anterior afecte:
+3 a) Entidades bancarias, financieras, cooperativas de ahorro y crédito, asociaciones
+4 solidaristas o entes estatales;
+5 b) El funcionamiento de servicios públicos;
+6 c) Sistemas Informáticos que permitan obtener control a distancia para integrar redes
+7 de ordenadores;
+8 d) Sistemas Informáticos diseñados para realizar acciones dirigidas a procurar
+9 beneficio patrimonial para sí o para un tercero;
+10 e) Sistemas Informáticos de la salud, cuya afectación pueda poner en peligro la vida o
+11 salud de las personas;
+12 f) Programas con capacidad de reproducción autónoma sin intervención adicional del
+13 usuario legítimo del sistema informático.
+14 Artículo 314. – Uso de Programas Destructivos.
+15 Será sancionada con pena de reclusión por un término fijo de un (1) año toda persona
+16 que, con la intención de producir daño, adquiera, distribuya o ponga en circulación programas
+17 o instrucciones informáticas destructivas susceptibles de causar perjuicio a registros,
+18 programas o equipos de computación.
+19 Artículo 315. – Dispositivos Fraudulentos.
+20 Será sancionada con pena de reclusión por término fijo de ocho (8) años toda persona
+21 que, sin autoridad o causa legítima, produzca, use, posea, trafique o distribuya programas
+21
+1 informáticos, equipos, materiales o dispositivos cuyo uso exclusivo o fundamental sea emplearse
+2 como herramienta para la comisión de crímenes y delitos de alta tecnología.
+3 Artículo 316. – Suplantación de Páginas Electrónicas.
+4 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+5 que, sin estar facultada para ello, diseñe, desarrolle, trafique, venda, ejecute, programe o
+6 suplante páginas electrónicas, enlaces o ventanas emergentes.
+7 Artículo 317. – Suplantación de Páginas Electrónicas Agravado.
+8 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+9 que, para beneficio personal o de un tercero, cometa el delito de suplantación de páginas
+10 electrónicas descrito en el Artículo 316, cuando la conducta modifique el sistema de resolución
+11 de nombres de dominio de manera que redirija al usuario hacia una dirección de protocolo de
+12 internet (IP) diferente, bajo la creencia de que acceda a su banco o a otro sitio de carácter
+13 personal o de confianza.
+14 Artículo 318. – Facilitación del Delito.
+15 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+16 que facilite los medios para la perpetración de un delito ejecutado mediante un sistema o red
+17 informática o telemática, o contenedores electrónicos, ópticos o magnéticos.
+18 Artículo 319. – Facilitación del Delito Agravado.
+19 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+20 que cometa el delito de facilitación del delito descrito en el Artículo 318, cuando la información
+21 obtenida se utilice para beneficio propio o de terceros.
+22 Artículo 320. – Utilización Ilícita de Redes de Comunicaciones.
+22
+1 Toda persona que, con fines ilícitos, haga uso de aparatos de radiofonía o televisión, o de
+2 cualquier medio electrónico diseñado o adaptado para interferir, emitir o reproducir señales, sin
+3 autorización, será sancionada con pena de reclusión por un término fijo de tres (3) años.
+4 Artículo 321. – Manipulación de Equipos o Terminales Móviles.
+5 Será sancionada con pena de reclusión por un término fijo de cuatro (4) años toda
+6 persona que, manipule, reprograme, remarque o modifique terminales móviles de los servicios
+7 de comunicaciones en cualquiera de sus componentes, con el propósito de alterar las bases de
+8 datos positivas y negativas que se establecerán para tal efecto y que serán administradas por la
+9 entidad regulatoria correspondiente.
+10 Artículo 322. – Manipulación de Equipos o Terminales Móviles Agravado.
+11 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+12 que, cometa el delito de manipulación de equipos o terminales móviles descrito en el Artículo
+13 321, cuando las conductas resulten ser parte de una red, grupo u organización de carácter
+14 delincuencial o criminal.
+15 Artículo 323. – Manipulación de Equipos de Localización y Vigilancia.
+16 Toda persona que, retire, modifique o inutilice, sin la debida autorización, dispositivos
+17 de localización y vigilancia, será sancionada con pena de reclusión por un término fijo de cinco
+18 (5) años.
+19 Artículo 324. – Manipulación de Equipos de Localización y Vigilancia
+20 Agravado.
+21 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+22 que, cometa el delito de manipulación de equipos de localización y vigilancia descrito en el
+23
+1 Artículo 323, cuando se cometiere por un funcionario público. Además, se impondrá
+2 destitución inmediata del cargo público e inhabilitación por término de cuatro (4) a diez (10)
+3 años para desempeñarse en cualquier empleo, puesto o cargo público, contados a partir del
+4 cumplimiento de la pena de reclusión.
+5 Artículo 325. – Intercambio, Comercialización o Compra de Información de
+6 Equipos o Terminales Móviles.
+7 Toda persona que, intercambie, comercialice o adquiera bases de datos que contengan
+8 información de identificación de equipos terminales móviles, será sancionada con pena de
+9 reclusión por un término fijo de tres (3) años.
+10 CAPITULO II. – DELITOS INFORMÁTICOS COMO MEDIO
+11 SECCIÓN PRIMERA – Delitos Sexuales
+12 Artículo 326. – Corrupción.
+13 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+14 que, mediante tecnologías de la información y la comunicación, procure la excitación sexual
+15 propia o de un tercero realizando ante una persona menor de edad acciones de significación
+16 sexual, o exponiéndola a material pornográfico o exhibiciones de similar naturaleza.
+17 Artículo 327. – Corrupción Agravado.
+18 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+19 que, cometa el delito de corrupción descrito en el Artículo 326, cuando con el propósito de
+20 procurar su excitación sexual o la de otro, obligue, induzca, persuada, sugiera, incite, o
+21 convenza a una persona menor de edad a realizar acciones de significación sexual delante suyo
+24
+1 o de terceros; o a enviar, entregar o exhibir imágenes o grabaciones de su persona a otra persona
+2 menor de edad, aunque haya expresado su consentimiento.
+3 Será sancionada con pena de reclusión por un término fijo de quince (15) años, quien
+4 procure, promueva, obligue, publicite, gestione, facilite o induzca, por cualquier medio, a una
+5 persona menor de dieciocho (18) años de edad, o que carezca de capacidad de comprender el
+6 significado del hecho o de capacidad de resistir la conducta, a realizar actos sexuales o de
+7 exhibicionismo corporal, con fines sexuales, reales o simulados, con el objeto de producir
+8 material mediante video grabación, audio grabación, fotografía, filmación, exhibición o
+9 descripción a través de anuncios impresos, sistemas de cómputo, electrónicos o análogos, y se
+10 beneficie económicamente de la explotación de la persona.
+11 Cuando en la perpetración de la conducta descrita en el párrafo anterior se haya
+12 utilizado fuerza, engaño, violencia física o psicológica, coerción, abuso de poder o de situación
+13 de vulnerabilidad, dependencia de sustancias, posición jerárquica o de confianza, concesión o
+14 recepción de pagos o beneficios para obtener el consentimiento, o cuando exista relación de
+15 autoridad de una persona sobre otra, o cualquier otra circunstancia que disminuya o elimine la
+16 capacidad volitiva de la víctima para resistirse, la pena prevista en el párrafo anterior se
+17 aumentará en una mitad.
+18 Artículo 328. – Explotación Sexual, Pornografía y Acto Sexual con Menores de
+19 Edad.
+20 Toda persona que, con ánimo de lucro, beneficio personal o para un tercero, induzca
+21 facilite, promueva o utilice, con fines sexuales o eróticos a una persona menor de edad o con
+22 discapacidad haciéndola presenciar o participar en un comportamiento sexual, espectáculo
+25
+1 público o privado, aunque la victima consienta presenciar tal comportamiento o participar en
+2 él, por medio de las tecnologías de la información y la comunicación, será sancionada con pena
+3 de reclusión por un término fijo de diez (10) años.
+4 Artículo 329. – Fabricación, Producción, Difusión o Reproducción de
+5 Pornografía.
+6 Toda persona que participare en la producción, financiación, fabricación, reproducción,
+7 publicación, comercialización, importe, exporte, difusión, o en la distribución de material
+8 pornográfico, por cualquier medio, sea directo, mecánico, digital, audio, visual o con soporte
+9 informático, electrónico u otros conexos, en cuya elaboración hubieren sido utilizados menores
+10 de edad, será sancionada con pena de reclusión por un término fijo de diez (10) años. Se
+11 entenderá por material pornográfico en cuya elaboración hubieren sido utilizados menores de
+12 edad, toda representación de éstos dedicados a actividades eróticas o sexuales explícitas o
+13 implícitas, reales o simuladas, o toda representación de sus partes genitales con fines sexuales,
+14 o toda representación de dichos menores en que se emplee su voz o imagen, con los mismos
+15 fines.
+16 Artículo 330. – Pornografía Relativa a Menores de Edad.
+17 Toda persona que fotografíe, filme, grabe, produzca, divulgue, ofrezca, venda, compre,
+18 posea, porte, almacene, trasmita o exhiba, por cualquier medio, para uso personal o intercambio,
+19 representaciones reales de actividad sexual que involucre una persona menor de edad, será
+20 sancionada con pena de reclusión por un término fijo de diez (10) años.
+26
+1 Artículo 331. – Pornografía Relativa a Menores de Edad Agravado.
+2 Será sancionada con pena de reclusión por un término fijo de quince (15) años toda
+3 persona que, cometa el delito de pornografía relativa a menores de edad descrito en el Artículo
+4 330, quien alimente con pornografía infantil bases de datos de Internet, con o sin fines de lucro.
+5 La pena se aumentará de una tercera parte a la mitad cuando el responsable sea
+6 integrante de la familia de la víctima, dentro del cuarto grado de consanguinidad o segundo de
+7 afinidad.
+8 Artículo 332. – Pornografía Virtual y Pseudo Pornografía.
+9 Toda persona que posea, produzca, venda, distribuya, exhiba o facilite, por cualquier
+10 medio, material pornográfico en el que no habiendo utilizado personas menores de edad, emplee
+11 a una persona adulta que simule ser una persona menor de edad realizando actividades
+12 sexuales; o emplee imagen, caricatura, dibujo o representación, de cualquier clase, que aparente
+13 o simule a una persona menor de edad realizando actividades sexuales, será sancionada con
+14 pena de reclusión por un término fijo de quince (15) años.
+15 Artículo 333. – Tenencia, Adquisición o Posesión de Material Pornográfico de
+16 Menores de Edad o Personas con Impedimentos.
+17 Toda persona que adquiera para sí o para un tercero a través de cualquier medio que
+18 involucre el uso de las tecnologías de la información y la comunicación, o posea material
+19 pornográfico en el que se haya utilizado a un menor de edad o persona con discapacidad o su
+20 imagen para su producción, será sancionada con pena de reclusión por un término fijo de diez
+21 (10) años.
+27
+1 Artículo 334. – Difusión de Pornográfica.
+2 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+3 que, mediante el uso de tecnologías de la información y la comunicación o por cualquier otro
+4 medio, entregue, comercialice, difunda, distribuya o exhiba material pornográfico en el que se
+5 represente a personas menores de edad o incapaces, o que adquiera para sí o para un tercero, o
+6 posea material pornográfico en cuya producción se haya utilizado a una persona menor de edad
+7 o con discapacidad, o su imagen.
+8 Será sancionada con pena de reclusión por un término fijo de tres (3) años el que
+9 maliciosamente adquiera o almacene material pornográfico, cualquiera sea su soporte, en cuya
+10 elaboración hayan sido utilizados menores de edad,
+11 Artículo 335. – Utilización o Facilitación de Medios de Comunicación para
+12 Actividades Sexuales con Menores de Edad o Personas con Impedimentos.
+13 Toda persona que, de cualquier modo, facilitare, en beneficio propio o ajeno, la
+14 comercialización, difusión, exhibición, importación, exportación, distribución, oferta,
+15 almacenamiento o adquisición de material pornográfico que contenga la imagen o cualquier
+16 otra forma de representación de una o más personas menores de edad o incapaces, será
+17 sancionada con pena de reclusión por un término fijo de cinco (5) años.
+18 Artículo 336. – Comercialización de Pornografía con Menores de Edad o
+19 Personas con Discapacidad.
+20 Toda persona que, publique, compre, posea, porte, transmita, descargue, almacene,
+21 importe, exporte o venda, por cualquier medio, para uso personal o para intercambio
+28
+1 pornografía de menores de edad, será sancionada con pena de reclusión por un término fijo de
+2 diez (10) años.
+3 Artículo 337. – Exhibición Pornográfica.
+4 Toda persona que, ofrezca o publique espectáculos teatrales o cinematográficos obscenos,
+5 transmita audiciones o efectúe publicaciones de idéntico carácter, será sancionado con pena de
+6 reclusión por un término fijo de diez (10) años.
+7 Artículo 338. – Turismo Sexual.
+8 Será sancionada con pena de reclusión por un término fijo de quince (15) años toda
+9 persona que, por cualquier medio, promueva, publique, invite, facilite o gestione que una o más
+10 personas viajen dentro o fuera del territorio y jurisdicción de Puerto Rico con el propósito de
+11 que realicen actos sexuales, reales o simulados, con una o varias personas menores de edad, o
+12 con una o varias personas que carezcan de capacidad para comprender el significado del hecho
+13 o resistir la conducta.
+14 Artículo 339. – Destrucción de Material.
+15 Cuando medie condena mediante sentencia firme por cualquier delito comprendido en
+16 esta Sección, el tribunal ordenará la destrucción de todo material o anuncio obsceno o de
+17 pornografía infantil que haya motivado la condena del acusado y que se encuentre en poder o
+18 bajo control del tribunal, del ministerio público o de un funcionario del orden público.
+19 SECCIÓN SEGUNDA – Delitos Contra La Intimidad
+20 Artículo 340. – Acceso Indebido a Datos.
+21 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+22 que, sin autorización y violando sistemas de seguridad, obtenga para sí o para terceros acceso a
+29
+1 datos no destinados a ella y que se encuentren especialmente protegidos contra el acceso no
+2 autorizado.
+3 Artículo 341. – Acceso Indebido a Datos del Sistema Público y del Gobierno de
+4 Puerto Rico.
+5 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+6 que, cometa el delito de acceso indebido a datos descrito en el Articulo 340, cuando se cometiere
+7 por un funcionario público. Además, se impondrá destitución inmediata del cargo público e
+8 inhabilitación por término de cuatro (4) a diez (10) años para desempeñarse en cualquier
+9 empleo, puesto o cargo público, contados a partir del cumplimiento de la pena de reclusión.
+10 Artículo 342. – Uso de Equipos para Invasión de Privacidad.
+11 Será sancionada con pena de reclusión por un término fijo de dos (2) años toda persona
+12 que, sin causa legítima o autorización de la entidad legalmente competente, use sistemas
+13 electrónicos, informáticos, telemáticos, de telecomunicaciones, o dispositivos susceptibles de
+14 realizar operaciones que atenten contra la privacidad en cualquiera de sus manifestaciones.
+15 Artículo 343. – Acceso Indebido a Correspondencia o Comunicaciones del
+16 Sistema Público y del Gobierno de Puerto Rico.
+17 Será sancionada con pena de reclusión por un término fijo de cinco (5) años, toda
+18 persona que:
+19 a) opere o abuse de los servicios o instalaciones de telecomunicaciones de libre
+20 recepción o de radiodifusión sin autorización de la autoridad correspondiente, y el
+21 que permita que, en su domicilio, residencia, morada o medio de transporte, operen
+22 tales servicios o instalaciones;
+30
+1 b) maliciosamente interfiera, intercepte o interrumpa un servicio de
+2 telecomunicaciones, y la confiscación de los equipos e instalaciones;
+3 c) intercepte o capte maliciosamente o grave sin la debida autorización, cualquier tipo
+4 de señal que se emita a través de un servicio público de telecomunicaciones; o
+5 d) divulgue de manera pública o privada, cualquier comunicación obtenida por
+6 infracción de las disposiciones de este Artículo.
+7 Artículo 344. – Acceso Indebido a Correspondencia o Comunicaciones del
+8 Sistema Público y del Gobierno de Puerto Rico Agravado.
+9 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+10 que cometa el delito de acceso indebido a correspondencia o comunicaciones del sistema público
+11 y del gobierno de Puerto Rico descrito en el Artículo 343, cuando tal conducta sea cometida por
+12 un funcionario público, o persona encargada de la recolección, entrega o salvaguarda de los
+13 documentos o comunicaciones, o persona encargada de administrar o prestar soporte técnico al
+14 sistema o red informática o telemática, o que por razón de sus funciones tenga acceso a tal
+15 sistema o red, o a los contenedores electrónicos, ópticos o magnéticos.
+16 Además, si la condena recae sobre un funcionario público, se impondrá destitución
+17 inmediata del cargo público e inhabilitación por término de cuatro (4) a diez (10) años para
+18 desempeñarse en cualquier empleo, puesto o cargo público, contados a partir del cumplimiento
+19 de la pena de reclusión.
+20 Artículo 345. – Acceso Indebido o Ilícito de Información Médica.
+21 Toda persona que, sin autorización, violando o no los sistemas de seguridad, obtuviere
+22 para sí o para terceros, el acceso a datos médicos de otra persona, no destinados a él y
+31
+1 especialmente protegidos contra el acceso no autorizado, será sancionada con pena de reclusión
+2 por un término fijo de cinco (5) años.
+3 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+4 que, cometa el delito de acceso indebido o ilícitos de información médica, cuando se cometiere
+5 por un funcionario público. Además, se impondrá destitución inmediata del cargo público e
+6 inhabilitación por término de cuatro (4) a diez (10) años para desempeñarse en cualquier
+7 empleo, puesto o cargo público, contados a partir del cumplimiento de la pena de reclusión.
+8 Artículo 346. – Acceso Indebido O Ilícito De Información Médica Agravado.
+9 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+10 que, cometa el delito de acceso indebido o ilícito de información médica descrito en el Artículo
+11 345, cuando utilice o difunda el contenido de comunicaciones o documentos privados carentes
+12 de interés público, causando peligro o daño a la intimidad de otra persona.
+13 Artículo 347. – Interceptación de Datos Informáticos.
+14 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+15 que, sin orden judicial previa, intercepte datos informáticos en su origen, destino o en el interior
+16 de un sistema informático, o las emisiones electromagnéticas provenientes de un sistema
+17 informático que los transporte, cuando:
+18 a) en provecho propio o de un tercero, intercepte, escuche, desvíe, grabe u observe, en
+19 cualquier forma, un dato informático en su origen, destino o en el interior de un
+20 sistema informático, una señal o una transmisión de datos o señales, con la finalidad
+21 de obtener información registrada o disponible;
+32
+1 b) diseñe, desarrolle, venda, ejecute, programe o envíe mensajes, certificados de
+2 seguridad o páginas electrónicas, enlaces o ventanas emergentes, o modifique el
+3 sistema de resolución de nombres de dominio de un servicio financiero o pago
+4 electrónico, u otro sitio personal o de confianza, de manera que induzca a una
+5 persona a ingresar a una dirección o sitio de internet diferente al que pretende
+6 acceder:
+7 c) a través de cualquier medio, copie, clone o comercialice información contenida en las
+8 bandas magnéticas, chips u otro dispositivo electrónico que constituya de tarjetas de
+9 crédito, débito, pago o similares; o
+10 d) produzca, fabrique, distribuya, posea o facilite materiales, dispositivos electrónicos
+11 o sistemas informáticos destinados a la comisión del delito descrito en el inciso
+12 anterior.
+13 Artículo 348. – Obtención y Transferencia de Información Confidencial.
+14 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+15 que, deliberadamente, obtenga y transfiera información de carácter confidencial y que, mediante
+16 el uso de tal información vulnere un sistema o datos informáticos, utilizando para ello cualquier
+17 modalidad de tecnologías de la información y la comunicación, incluidas las emisiones
+18 electromagnéticas.
+19 Artículo 349. – Obtención y Transferencia de Información Confidencial del
+20 Sistema Público o del Gobierno de Puerto Rico.
+21 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+22 que, cometa el delito de acceso indebido a correspondencia o comunicaciones del sistema público
+33
+1 y del gobierno de Puerto Rico descrito en el Articulo 348, cuando la conducta sea cometida por
+2 un funcionario público. Además, se impondrá destitución inmediata del cargo público e
+3 inhabilitación por término de cuatro (4) a diez (10) años para desempeñarse en cualquier
+4 empleo, puesto o cargo público, contados a partir del cumplimiento de la pena de reclusión.
+5 Artículo 350. – Apertura o Interceptación Ilegal de Comunicaciones.
+6 Será sancionada con pena de reclusión por un término fijo de un (1) año toda persona
+7 que ilegítimamente abra, intercepte, o por cualquier otro medio tome conocimiento del
+8 contenido de un documento, pliego cerrado o despacho telegráfico, telemático, electrónico o de
+9 otra naturaleza que no le esté dirigido.
+10 Artículo 351. – Violación a la Intimidad.
+11 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+12 que, sin contar con el consentimiento o la autorización legal, acceda, intercepte, examine,
+13 retenga, grabe, reproduzca, difunda o publique datos personales, mensajes de datos, voz, audio
+14 y vídeo, objetos postales, información contenida en soportes informáticos, comunicaciones
+15 privadas o reservadas de otra persona, por cualquier medio.
+16 Artículo 352. – Revelación Indebida de Datos e Información.
+17 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+18 que, cometa el delito de extorsión informática “ransomware” descrito en el Artículo 363,
+19 cuando la conducta se haya realizado con ánimo de lucro, o en orden a la comisión de otro delito,
+20 o cuando se difunda material sexual explícito en perjuicio de un tercero.
+34
+1 Artículo 353. – Preparación de Acceso Indebido o Interceptación de Datos.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 que prepare un hecho punible conforme a los Artículos 340, 341, 342, 343, 344, 345, 346, 347,
+4 348, 349, 350, 351 y 352, produciendo, difundiendo o haciendo accesible de otra manera a
+5 terceros:
+6 a) las claves de acceso u otros códigos de seguridad, que permitan el acceso a datos; o
+7 b) los programas de computación destinados a la realización de tal hecho.
+8 SECCIÓN TERCERA – Delitos Contra la Identidad
+9 Artículo 354. – Hurto, Supresión, Alteración de Identidad o de Estado Civil.
+10 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+11 que, ilegalmente impida, altere, añada o suprima la inscripción de los datos de identidad
+12 propios, o inscriba como suya o de otra persona datos de identidad en programas informáticos,
+13 partidas, tarjetas de identificación “Real ID”, licencia de conducir, o en cualquier otro
+14 documento emitido por el Gobierno de Puerto Rico.
+15 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+16 que ilegalmente altere la identidad de un menor de edad; la sustituya por otra; entregue o
+17 consigne datos falsos o supuestos relativos a un nacimiento; usurpe la filiación legítima de un
+18 menor de edad, o declare falsamente el fallecimiento de un recién nacido,
+19 SECCIÓN CUARTA – Delitos Contra la Persona
+20 Artículo 355. – Revelación y Transmisión Ilegal de Base de Datos.
+21 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+22 que, en provecho propio o de un tercero, revele información registrada, contenida en ficheros,
+35
+1 archivos, bases de datos o medios análogos, a través de o dirigidas a un sistema electrónico,
+2 informático, telemático o de telecomunicaciones; materializando voluntaria e intencionalmente
+3 la violación del secreto, la intimidad y la privacidad de las personas,
+4 Artículo 356. – Revelación y Transmisión Ilegal de Base de Datos Agravado.
+5 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+6 que, cometa el delito de revelación y transmisión ilegal de base de datos descrito en el Articulo
+7 358, cuando se cometiere por un funcionario público, empleadas o empleados bancarios internos
+8 o de instituciones de la economía popular y solidaria que realicen intermediación financiera o
+9 contratistas. Además, se impondrá destitución inmediata del cargo público e inhabilitación por
+10 término de cuatro (4) a diez (10) años para desempeñarse en cualquier empleo, puesto o cargo
+11 público, contados a partir del cumplimiento de la pena de reclusión.
+12 Artículo 357. – Publicidad o Comercio de Personas, Órganos, Servicios o Bienes
+13 Ilícitos.
+14 Será sancionada con pena de reclusión por un término fijo de quince (15) años toda
+15 persona que, por cualquier medio que involucre el uso de las tecnologías de la información y la
+16 comunicación, promueva, favorezca, facilite o publique la oferta, la obtención o el tráfico ilegal
+17 de órganos y tejidos humanos o el trasplante de los mismos, o se beneficie económicamente de
+18 la explotación de una persona mediante el comercio, distribución, exposición, circularización u
+19 oferta de libros, revistas, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes
+20 u objetos, de carácter lascivo o sexual, reales, o simulados, sea de manera física, o a través de
+21 cualquier medio.
+36
+1 Artículo 358. – Propalación o Venganza Pornográfica.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 quien, hallándose legítimamente en posesión de una comunicación, documentos o grabación de
+4 carácter privado, los haga públicos, difunda, revele o ceda a un tercero, sin la debida
+5 autorización de la víctima, aunque le hayan sido dirigidos.
+6 Además, será sancionada con pena de reclusión por un término fijo de cinco (5) años
+7 cuando se trate de documentos divulgados por internet, o grabaciones, imágenes,
+8 comunicaciones o documentos hechos públicos de contenido explícito de carácter íntimo, sexual
+9 o erótico, aunque hayan sido obtenidos con el consentimiento.
+10 Artículo 359. – Acecho, Hostigamiento, Intimidación o “Cyber-Bulling”.
+11 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+12 que, mediante el uso de cualquier comunicación electrónica oral, escrita, visual o textual, o
+13 utilizando dispositivo tecnológico para determinar o monitorear la localización o movimiento
+14 de una persona, realice conducta destinada a acosar, molestar, intimidar o afligir a otra persona
+15 o a un grupo de personas, ocasionando daño a la integridad física, mental o emocional o
+16 patrimonial de la víctima.
+17 Artículo 360. – Intimidación o Amenazas.
+18 Será sancionada con pena de reclusión por un término fijo de un (1) año toda persona
+19 que, mediante expresiones verbales, escritos, mensajes electrónicos o cualquier otro medio
+20 intimide o amenace a una persona con la que se halle o hubiere estado ligado por relación de
+21 consanguinidad, afinidad, sujeción a tutela, vínculo conyugal, convivencia en unión de hecho
+37
+1 estable, noviazgo, o relación de afectividad; con amenaza de causarle daño grave y probable de
+2 naturaleza física, psicológica, sexual, laboral o patrimonial.
+3 Artículo 361. – Calumnia o Injuria.
+4 Será sancionada con pena de reclusión por un término fijo de dos (2) años toda persona
+5 que, impute falsamente a otra la comisión o participación en un delito concreto. Si la calumnia
+6 se propagara con publicidad, será sancionada con pena de reclusión por un término fijo de tres
+7 (3) años.
+8 Artículo 362 – Difamación.
+9 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+10 que difame a través de medios electrónicos, informáticos, telemáticos, de telecomunicaciones o
+11 audiovisuales.
+12 Artículo 363. – Extorsión Informática “Ransomware”.
+13 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+14 que, para procurar un lucro, obligue a otra con intimidación o amenazas graves, a tomar una
+15 disposición patrimonial perjudicial para sí misma o para un tercero.
+16 La pena de reclusión será por un término fijo de ocho (8) años cuando la conducta se
+17 ejecute valiéndose de cualquier manipulación informática, telemática, electrónica o tecnológica.
+18 SECCIÓN QUINTA – Delitos Económicos y Colectivos
+19 Artículo 364. – Clonación o Uso Fraudulento de Tarjetas de Crédito o Debito.
+20 Constituyen delito de uso fraudulento de tarjeta de crédito o débito las siguientes
+21 conductas:
+22 a) falsificar tarjetas de crédito o débito;
+38
+1 b) usar, vender, exportar, importar o distribuir tarjetas de crédito o débito falsificadas
+2 o sustraídas;
+3 c) negociar, en cualquier forma, con tarjetas de crédito o débito falsificadas o
+4 sustraídas;
+5 d) usar, vender, exportar, importar o distribuir los datos o el número de una tarjeta de
+6 crédito o débito, posibilitando que terceros realicen operaciones de compra o de
+7 acceso al crédito o al débito que corresponden exclusivamente al titular;
+8 e) negociar, en cualquier forma, con datos o números de tarjeta de crédito o débito, para
+9 las operaciones descritas en el inciso anterior; o
+10 f) usar maliciosamente una tarjeta bloqueada, en cualquiera de las modalidades
+11 señaladas en los incisos precedentes.
+12 Toda persona que cometa cualquiera de tales conductas será sancionada con pena de
+13 reclusión por un término fijo de ocho (8) años.
+14 Artículo 365. – Estafa Informática.
+15 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+16 que, en perjuicio de una persona natural o jurídica, manipule o influya en el ingreso,
+17 procesamiento o resultado de datos en un sistema automatizado de información, ya sea mediante
+18 el uso de datos falsos o incompletos, uso indebido de datos, programación, valiéndose de alguna
+19 operación informática o artificio tecnológico, o cualquier otra acción que incida en el
+20 procesamiento de los datos del sistema o que produzca información falsa, incompleta o
+21 fraudulenta, con el propósito de procurar u obtener beneficio patrimonial o indebido para sí o
+22 para un tercero.
+39
+1 La pena será de cinco (5) años de reclusión cuando las conductas sean perpetradas
+2 contra sistemas de información públicos, sistemas de información bancarios y de entidades
+3 financieras, o cuando el autor sea empleado encargado de administrar o brindar soporte técnico
+4 al sistema o red informática o telemática, o que debido a sus funciones tenga acceso a dicho
+5 sistema o red, o a los contenedores electrónicos, ópticos o magnéticos.
+6 Será sancionada con pena de reclusión por un término fijo de siete (7) años la persona
+7 que, para obtener beneficio patrimonial para sí misma o para un tercero, mediante simulación
+8 de hechos falsos o deformación u ocultamiento de hechos verdaderos, induzca a error a otra, con
+9 el fin de que realice un acto que perjudique su patrimonio o el de un tercero.
+10 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+11 que, defraude mediante el uso de dispositivos electrónicos que alteren, modifiquen, clonen o
+12 dupliquen los dispositivos originales de cajero automático para capturar, almacenar, copias o
+13 reproducir información de tarjetas de crédito, débito, pago o similares.
+14 Artículo 366. – Transferencia Electrónica de Activo Patrimonial.
+15 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+16 que, con ánimo de lucro, altere, manipule o modifique el funcionamiento de programa o sistema
+17 informático, telemático o mensaje de datos, para procurarse la transferencia o apropiación no
+18 consentida de activo patrimonial de otra persona, en perjuicio de esta o de un tercero. Con igual
+19 pena, será sancionada la persona que facilite o proporcione datos de su cuenta bancaria con la
+20 intención de obtener, recibir o captar de forma ilegítima un activo patrimonial a través de
+21 transferencia electrónica producto de este delito para sí misma o para un tercero.
+40
+1 Artículo 367. – Apropiación Fraudulenta por Medios Electrónicos.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 que utilice fraudulentamente un sistema informático o redes electrónicas y de
+4 telecomunicaciones para facilitar la apropiación de bien ajeno, o que procure la transferencia no
+5 consentida de bienes, valores o derechos en perjuicio de esta o de una tercera, en beneficio suyo
+6 o de otra persona, alterando, manipulando o modificando el funcionamiento de redes
+7 electrónicas, programas, sistemas informáticos, telemáticos y equipos terminales de
+8 telecomunicaciones,.
+9 Además, será sancionada con pena de reclusión por un término fijo de cinco (5) años,
+10 cuando el delito se cometa utilizando sistemas de alarma o guarda, descubrimiento o descifrado
+11 de claves secretas o encriptadas, tarjetas magnéticas o perforadas, controles o instrumentos de
+12 apertura a distancia, o violación de seguridades electrónicas, informáticas u otras análogas.
+13 Artículo 368. – Difusión de Información Falsa.
+14 Será sancionada con pena de reclusión por un término fijo de seis (6) años toda persona
+15 que, a través de medios electrónicos, informáticos, o mediante un sistema de
+16 telecomunicaciones, propague o difunda noticias o hechos falsos capaces de distorsionar o
+17 causar perjuicio a la seguridad y estabilidad del sistema financiero o de sus usuarios.
+18 Artículo 369. – Pánico Económico o Financiero.
+19 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+20 que publique, difunda o divulgue noticias falsas susceptibles de causar daño a la economía
+21 nacional, con el propósito de alterar los precios de bienes o servicios para beneficiar a un sector,
+22 mercado o producto específico.
+41
+1 Será sancionada con pena de reclusión por un término fijo de diez (10) años quien
+2 divulgue noticias falsas capaz de causar alarma en la población y provoque el retiro masivo de
+3 depósitos de cualquier institución del sistema financiero y de las entidades de la economía
+4 popular y solidaria que realicen intermediación financiera, cuando tales actos pongan en peligro
+5 la estabilidad patrimonial o provoquen el cierre definitivo de la institución afectada.
+6 Artículo 370. – Registros Prohibidos.
+7 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+8 que, sin autorización, promueva, facilite, autorice, financie, cree o comercialice un banco de
+9 datos o registro informático que contenga datos susceptibles de afectar a personas naturales o
+10 jurídicas.
+11 Artículo 371. – Divulgación de Información Financiera Reservada.
+12 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+13 que, en beneficio propio o de terceros, divulgue información financiera clasificada como
+14 reservada por la autoridad competente en materia de finanzas públicas, cuando tal divulgación
+15 genere condiciones económicas desfavorables para el Estado.
+16 Artículo 372. – Transferencia de Activos.
+17 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+18 que, con ánimo de lucro y valiéndose de alguna manipulación informática o artificio semejante,
+19 consiga la transferencia no consentida de cualquier activo en perjuicio de un tercero.
+20 La misma sanción se le impondrá a quien fabrique, introduzca, posea o facilite programa
+21 de computador destinado a la comisión del delito descrito en el párrafo anterior, o de una estafa.
+42
+1 Artículo 373. – Sabotaje al Sistema Financiero.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 que, sin autorización modifique, destruya o provoque pérdida de información contenida en
+4 sistemas o equipos de informática de instituciones integrantes del sistema financiero, siempre
+5 que tales sistemas se encuentren protegidos por algún mecanismo de seguridad.
+6 Será sancionada con pena de reclusión por un término fijo de cinco (5) años quien, sin
+7 autorización legal, acceda, conozca o copie información contenida en sistemas o equipos de
+8 informática de las instituciones integrantes del sistema financiero, siempre que tales sistemas
+9 se encuentren protegidos por algún mecanismo de seguridad.
+10 Artículo 374. – Delitos Contra la Autoridad.
+11 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+12 natural o el representante de la persona jurídica que, siendo requerido por el Ministerio Público
+13 o por autoridad competente, se rehusare con dolo a colaborar o aportar información para la
+14 localización geográfica en tiempo real de los dispositivos de comunicación, conforme a las
+15 disposiciones de las leyes federales o estatales aplicables, cuando tales dispositivos estén
+16 relacionados con investigaciones en materia de delincuencia organizada, delitos contra la salud,
+17 secuestro, extorsión, amenazas u otros delitos de igual gravedad.
+18 La misma sanción se aplicarán a la persona natural, o al representante de la persona
+19 jurídica que, de forma dolosa, obstaculice, retrase sin justa causa o se rehusé a colaborar en la
+20 intervención de comunicaciones privadas, o a proporcionar información a la cual estén
+21 obligados, conforme a la legislación aplicable.
+43
+1 SECCIÓN SEXTA– Delitos Contra la Prueba Documental
+2 Artículo 375. – Destrucción o Daño a Documentos o Señales.
+3 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+4 que, con la intención de perjudicar a otro:
+5 a) destruyera, dañara, ocultara o de otra forma suprimiera un documento o una
+6 certificación técnica, en contravención del derecho de otro a utilizarlo como prueba;
+7 b) borrara, suprimiera, inutilizara o alterara, en contravención del derecho de
+8 disposición de otro, información o dato de relevancia probatoria; o
+9 c) destruyera o de otra forma suprimiera señales destinadas a indicar un límite o la
+10 altura de las aguas.
+11 Artículo 376. – Falsificación de Medios Electrónicos de Pago.
+12 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+13 que, persiguiendo la intención de inducir error en las relaciones jurídicas o de facilitar tal
+14 inducción:
+15 a) falsificare o alterare una tarjeta de crédito o débito u otro medio electrónico de pago;
+16 o
+17 b) adquiera para sí o para un tercero, ofreciere, entregare a otro o utilizare tales tarjetas
+18 o medios electrónicos.
+19 Cuando el autor actuare comercialmente o como miembro de una organización criminal
+20 dedicada a la realización de los hechos punibles, será sancionada con pena de reclusión por un
+21 término fijo de siete (7) años.”
+44
+1 Sección 2.- Se reenumera el Título VI como Título VII, y los actuales Artículos 301,
+2 302, 303, 304, 305, 306, 307, 308 y 309 como los Artículos 377, 378, 379, 380, 381, 382,
+3 383, 384 y 385 de la Ley 146-2012, según enmendada, conocida como “Código Penal
+4 de Puerto Rico”.
+5 Sección 3.- Aplicabilidad.
+6 Esta Ley será aplicable a toda conducta perpetrada con posterioridad a su entrada
+7 en vigor. La conducta perpetrada con anterioridad a la entrada en vigor de esta Ley
+8 continuará rigiéndose por las disposiciones legales vigentes al momento de su
+9 comisión.
+10 Sección 4.- Clausula de Separabilidad.
+11 Si cualquier artículo, inciso, parte, párrafo o cláusula de este Código o su aplicación
+12 a cualquier persona o circunstancia, es declarada inconstitucional por un tribunal, la
+13 sentencia dictada no afectará ni invalidará las demás disposiciones, sino que su efecto
+14 quedará limitado y será extensivo al artículo, inciso, parte, párrafo o cláusula, o su
+15 aplicación, que haya sido declarada inconstitucional.
+16 Sección 5. - Delitos no Incorporados.
+17 La incorporación en el Código Penal, por virtud de esta Ley, de ciertos delitos o
+18 disposiciones contemplados en leyes especiales, no constituirá causa de derogación de
+19 tales leyes especiales, ni tampoco de aquellos delitos tipificados en leyes especiales
+20 cuya incorporación al Código Penal no se hubiere efectuado mediante esta Ley.
+45
+1 Sección 6.- Vigencia.
+2 Esta Ley comenzará a regir a partir de los ciento ochenta (180) días de su
+3 aprobación.
+[DELETED: 0 A         3 .rL   3 y 3 d l L N 1 s e c c v p y s d t l m d n s E p p c y r l i d l a c d l i q p a e c e E a s c c s p e e m m u e q u p e]
+[DELETED:  f d l p e u p c q o a l A t t d c d s y m d s d m q s r e p d l E a a t l c h s l e n p l a m c p p c “ “]
+[DELETED:  t a c a a p q d y9, q e v d s 1 m d c a c p s M A v d M y R a n e s p d l p a A S .l]
+[DELETED:  a c c d m m l L p p l c c p s c y c]
+[DELETED:  f j p c a l d o p e T i l p e p d E y d l i l f t d e d l r p s m m l e c e n C q e c j q l i p p “ t a d l s l f o e p l o d r e “ C]
+[DELETED:  S.“”P  “, s a l r i y e a a a l o q n e c.“ , a s.“ I , s e c l i d l p d t.“ a l I d S , s e c t o d e i d f d u s i m l i i.“ I  s e t r d h i o c i u p c d p q u s i r u f.“ , s i o t q p p o i a o l d o l]
+[DELETED:  v c c p o g d p p r d r c a.“ , e s p.“   s e a)r a b)s a d f r t e e e p c c)r r d)i b e)c e a]
+[DELETED: .“ I o P , s e c l i a b o s d e i d d i q g l c a c l i d q l d s l e i.“ I o C , s e c c p f d.“ , a)a c c y m d a d d i b)c c)m d)s s e)i f)i e.“ , i l]
+[DELETED:  m p.“ , s e e o c l a v y c d c c d d i y s p m a m d.“ c D , s e c u p d o i a a)d b)h c)o d)o d e)d m E u.“ I , s e c l o o i d e i p m t d d i e t n p d]
+[DELETED:  d d m i l e e p d u s.“ , r p u o m i e o d o c r f r g o c r o o v t o r d e m A u a)a f b)r c)c L p d s d d o e q e d p g c d q]
+[DELETED:  E d e d a C d l a s I a c m d a p o f i.“   a a g." d A d D I , s e c t a d.“ I , s e c t p q i s a p o.“ ,]
+[DELETED:  a)c b)c c)c d)i t d b d a o s d i.“ , d e d E.“ M o M” ,s e c a p c d.“ , q s e p e e y r d i m u r c l p.“ , u s d t e d d m e a d l i.“ , a]
+[DELETED:  c n.“ , r p.“ , e c a a p e a t d t d l i p.“ , a i o r q e d c c u p.“ , u e SA . E o a a u s i o s t o d t o a s c c g]
+[DELETED:  E a)M f a o a s s d n e l I y l m o “ q e u a o d h r e l c b)R p a t p h d p d l “ v p e u a y c d a s r e d d d d o i c)P a p d q s o h s i s l h i d)R i d f e q l c u o u s]
+[DELETED:  e)I s  C d d a i r l s o l m d d i c c  T e c r r  S q p e E p]
+[DELETED:  T p q s a o e u a d d b o d d p p S q d s S s f  S q a]
+[DELETED:  d l d a e c e p d e i e a l m l s T c o t d d o v e t o e p l d c e u s d i t o d t o d s c p o n c u m d s o e p d u t s p L p q r c p e d d e e p a s s d  S q c c i p c r p t o p d p n]
+[DELETED:   T q c s t s  S q e l p p r p l a c E t b i C e d d e e p a s p p u f p A c c 3 – I o P d P I T c]
+[DELETED:  t p o n c m d s s s c p d r p u t 3 – I O P D P I S q A a)I o r i o t o e l c e ó o m b)S i l c e p d c e m i p l p c)P p p i m i a o p a d a o a a s d i q f l i d p d)D p i d p l c d p i e)O c o b s d d d s e d c m]
+[DELETED:    e a)E b f c d a y c a s b)E c)S d d)S I d p r a d a p b e)S s f)P u S q o i i d s d c p a r p S q]
+[DELETED:  i c S q s e f p e d d t v e p o s S q p b p o d u t c e d d s d p e d i p S q i S q o]
+[DELETED:  T c a S p d d e S q 3 d T d ( 3 – M d E d L y V S q]
+[DELETED:  A 3 c s c p u f p A s i d a c T i d i d e t m s s c p d r C S S q p s S q p s e s o l d o o i p s i  o c]
+[DELETED:  o m S p p s e c c f s r o s c e o d p m m v g a g f f e o d b C e l p d l c d e e p a s h u d r a c v d l v p r l p p e e p a s a  T f d h p o p e u c s e]
+[DELETED:  p é d 3 – F P D o R d T p c i e d o e l d d m p i d e s s c p d r p u t f d d ( a S e e t r d é d a a e o s e o i o f T p r s]
+[DELETED:  S p 3 L p s a d u t p a l m c e r s i a T m a u p a q s s u p m d e r a s o p 3 – T A o P d M P d T i e u d l t d l i y l c o p m p i ( ]
+[DELETED:  S q m r p o S s c p d r p u f d t ( a e q m e T p q d c m f e b p o a l c d e i e d o a o f d r d u o m p m d e o i s s 3 – C d P c M d E o T p q p c p p t d a i e o v p c m p u p o p i]
+[DELETED:  p d T t r S p p q c o C e S e t o l d d t m o a o o d p b S S q]
+[DELETED:  d a S q p i p t d c ( a d ( a p d e c e S q s c l o a d l e l c u s e r 3 – A I a C o C d S p a)o o a d l s o i d t d l r q t]
+[DELETED:  b)m i i o i u s d t c)i d d)d d m p o p c c o p i 3 – A I a C o C d S q y u d s s A i d d T p s o p t e a a d m d o p n d a é y]
+[DELETED:  e p S q p i p t d c ( a d ( a p d e c e S q 3 d S q d u s i o l e e p d u s i a)e c s d]
+[DELETED:  b)d d v e p o e m c d s s d r d n d d d u s f o p e u o s p o d c d m q i a u p a c)a b c d)p o d a S q e m d t d l i y l c i l e e 3 – O y T d I C d S q]
+[DELETED:  y u f p A s i d i d c p e i p t d c ( a d ( a p d e c e S q i a i o p c o m t c d c o S q s c c e c o l a l a i e r y v o p i c e s i c p S q c e d d e i “ d e e A 3 c o]
+[DELETED:  S q 3 t a)l b)l S S q i i a a o s l i d l d d i p p t d i “ I l d c o e c o d S q c m S q]
+[DELETED:  a i l S q 3 o c t p S p c d l o u c]
+[DELETED:  S q c p l h p d r o c a u t s l d a A c s t d d d p i o g i c o S q u d o a u g d p o d a l i f m o e o p S q m e v e m e o c o m i c]
+[DELETED:  e n S q s ( S q a S q d L e S C d d u f d t d c o d l s c a)f]
+[DELETED:  b)u o c)n e c f c t d c o d f o s d)u c o d p q t r o d c o d a e)n l f)u m u t b e c d l m s T r S q e p d u p n o j m o i e e i p e o i o a t o c o a q i e e p d l d d s o q p i f i o f p]
+[DELETED:  L c f a s S q d e S q d r S q i c p i t]
+[DELETED:  S q u f u s i o r e y d t c o d o p a m o m e f d r e p s i t y e t d t A c d a S q a t d m e i o m u s d t p o d n o h f c d d o c S q n m]
+[DELETED:  S d d p l S q d j S q e b p o d t d i f c c r g S q c L d]
+[DELETED:  S q s q S a i s S n o l g e t r d l d d c c a l d d l l f o e a c t d e r s L j i d c p o a p i a l c e o]
+[DELETED:  S S q a)d d o o d o f s u d o u c b)b s i o a e c d d d d c)d a S q i a)f o b)a o C d t]
+[DELETED:  r p l d l v a m d s]
+[DELETED:  L c a r a p d l c o ( d d s]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 974
+22 de enero de 2026
+Presentado por el señor Ríos Santiago
+Referido a
+LEY
+Para añadir un nuevo Título VI – Delitos Cibernéticos; reenumerar el actual Titulo VI
+como Titulo VII; reenumerar los actuales Artículos 301, 302, 303, 304, 305, 306, 307,
+308 y 309, para ser reenumerados como los Artículos 377, 378, 379, 380, 381, 382,
+383, 384 y 385, de la Ley Núm. 146-2012, según enmendada, conocida como
+“Código Penal de Puerto Rico”, a los fines de tipificar delitos cibernéticos y otros
+conexos de los mismos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Esta Asamblea Legislativa tiene la responsabilidad constitucional de salvaguardar
+la vida, propiedad y seguridad de todos los miembros de nuestra sociedad. En
+cumplimiento con dicha responsabilidad constitucional, corresponde tomar las medidas
+necesarias para prevenir, controlar y reducir la incidencia de la actividad criminal,
+incluyendo las conductas del mundo cibernético.
+La aplicación de una pena sobre un individuo constituye una de las muestras más
+abarcadoras de la intensidad que puede asumir el castigo estatal. Esta afirmación se
+vuelve clara con solo pensar en el modo más usual en que una persona encontrada
+culpable de un delito es afectada con la pérdida de su libertad. Así, la detención o arresto
+de una persona para ser privada de su libertad se transforma en el ejemplo paradigmático
+
+2
+de la sanción penal. Desde luego existen otras penas que impactan sobre el patrimonio
+(sanciones y multas) o en la capacidad para ejercer algún cargo, profesión o función. La
+gravedad de las penas en su aplicación debe estar prevista únicamente para aquellos
+actos específicos que el estado ha identificado y establecido mediante Ley. No obstante,
+la tarea de creación de delitos debe ser llevada a cabo con sumo cuidado, a fin de evitar
+vaguedad en su tipificación y/o con el establecimiento de una punibilidad que resulte de
+manera excesiva o represiva por parte del estado.
+La formulación de leyes penales es un proceso continuo que obedece a las
+condiciones sociales en determinado momento histórico. Según expresan las teorías de
+legislación penal, todo Código Penal debe ser el reflejo diáfano y genuino de los valores
+de la sociedad para la cual se legisla. De igual forma, no debemos perder de perspectiva
+que la creación de delitos va atada a ciertos principios fundamentales para una sociedad
+democrática. Así, toda tipificación de conducta delictiva, sanción y multa, deben ser
+realista, acorde con los tiempos que se viven y lo suficientemente abarcadora y flexible
+en miras de un futuro previsible o probable. Debe, además, ser susceptible de ajuste para
+atemperarlo a las situaciones cambiantes, según éstas acontecen.
+Es por ello que, el debido proceso de ley pone sobre la Asamblea Legislativa la
+obligación de que las normas que prescriben las conductas prohibidas deben ser claras y
+precisas, de manera que se respete el principio de legalidad. En atención al tema
+cibernético, cabe destacar que, la tecnología se ha convertido en uno de los principales
+soportes del mundo que a su vez permite llevar a cabo muchas tareas en una fracción de
+tiempo. A medida que la computadora se ha convertido en algo común en un mundo
+globalizado, los crímenes han sobrepasado la esfera natural para llegar al mundo
+cibernético.
+Se conoce como delito cibernético, cualquier conducta ilegal o delictiva en el que
+se haya utilizado un equipo, una Red o un dispositivo de hardware. Existen varios tipos
+de delitos cibernéticos, entre los cuales podemos mencionar: acoso cibernético, fraude,
+falsificación, crimen pornográfico, piratería cibernética, “Sexting”, “Grooming”,
+“Hacking”, entre otros.
+
+3
+Además, traemos a colación algunos artículos periodísticos que datan y
+fundamentan la importancia de reglamentar este campo.
+Según publicado en la Red noticiosa NotiCel, las víctimas de crímenes cibernéticos
+en Puerto Rico perdieron en el año 2019 alrededor de $7.7 millones de dólares, de acuerdo
+con un informe estadístico publicado por el Negociado Federal de Investigaciones (FBI),
+para un total de 839 víctimas de crímenes cibernéticos.
+Por otro lado, para el 26 de enero de 20191, se dijo que, Puerto Rico se encuentra
+entre los primeros cinco mercados de mayor incidencia de ciberataques de todo el Caribe,
+región que es víctima de sobre 150 millones de ciberataques anuales, con pérdidas
+multimillonarias, sostuvo Marc Asturias, vicepresidente de Mercadeo y Relaciones
+Públicas de Fortinet para América Latina y el Caribe. El problema se complica ya que,
+según el experto, la mayoría de las víctimas, empresas como ciudadanos, desconocen que
+han sido “hackeados”. La situación se agudiza en la medida en que se sigan ampliando
+“las superficies de interconexión”. Se estima que cada persona cuenta hoy con entre cinco
+a siete dispositivos conectados a la internet, pero alrededor del 60% de las empresas que
+sirven a estas conexiones no poseen la capacidad de servicio de seguridad adecuada para
+garantizar o minimizar los ciberataques. Esta práctica a nivel global representa pérdidas
+ascendentes a los $7.8 trillones. Cada 39 segundos se registra un ataque y para el 2021 se
+estima que el daño por la ciberdelincuencia costará al mundo más de $6 billones. El 65%
+de todas las vulneraciones de datos involucran errores de los empleados y el 65% de los
+ciberataques se dirigen a las pequeñas y medianas empresas.
+Asimismo, se señaló que desde el año 2011 al 2018 se había “disparado 10,000 veces
+lo que era antes y aunque las empresas han aumentado en un 75% sus gastos en ciber
+seguridad, aun no es suficiente para detener la práctica”, apuntó Asturias. Sostuvo,
+además, que otro de los retos, es la expansión que se está experimentando a través de las
+cámaras de las computadoras, los monitores de los bebés, los sistemas de alarmas, entre
+1 Rosado, I. V., & Vocero, E. L. (2019, enero 26). Fuerte el reto local contra el Ciberataque. El Vocero de Puerto Rico.
+https://www.elvocero.com/economia/fuerte-el-reto-local-contra-el-ciberataque/article_85200d46-20e2-
+11e9-98c2-032f916e5677.html.
+
+4
+otros servicios, que son valiosos, pero amplían la superficie de ataque, porque no están
+protegidos contra el “hacker”.
+Además, es claro que nuestro Gobierno no ha quedado inmune a la delincuencia
+cibernética. Como, por ejemplo, el pasado 2 de diciembre de 2025 el periódico Primera
+Hora publicó una noticia donde se explica que una compañía de tecnología contratada
+por el Gobierno de Puerto Rico sufrió un ataque cibernético, afectando al Departamento
+de Educación, ASES y a la Corporación del Fondo de aseguro del Estado. Por otro lado,
+en reportaje de 1 de noviembre de 2024, el mismo rotativo publicó que PRITS había
+registrado la cantidad de 82,089,132 intentos de ataques cibernéticos.
+Lamentablemente, existen delitos tipificados en el Código Penal y leyes especiales
+relacionadas a crímenes cibernéticos, de manera muy limitada. Los problemas
+ocasionados por los crímenes cibernéticos, por su complejidad y características
+particulares, deben contar con una sección propia dentro del Código Penal donde se
+recogen los delitos ordenados por todo por tópico de esta conducta delictiva. Ello motiva
+la presente legislación, además de la protección de nuestra ciudadanía de este tipo de
+conducta indeseable.
+Por tales acontecimientos, otros similares y todo lo antes expuesto es que, esta
+pieza legislativa representa un esfuerzo legítimo para hacer la inclusión de múltiples
+delitos, penas, sanciones y/o multas dentro del mundo cibernético, reformulando ciertos
+actos y conductas por omisión y/o negligencia en nuestro ordenamiento jurídico penal,
+siendo el instrumento eficaz para la administración de la justicia criminal y devolver a la
+ciudadanía la seguridad jurídica que tanto merece.
+El principio de legalidad de nuestro actual Código Penal esboza que no se instará
+acción penal contra persona alguna por hechos que no estén expresamente definidos
+como delito en el código o mediante leyes especiales, ni se impondrá pena o medidas de
+seguridad que la ley no establezca con anterioridad a los hechos. Tampoco se podrá crear
+ni imponer delitos, penas, ni medidas de seguridad por analogía a una conducta que se
+parezca, más no sea igual a la tipificada en el Código Penal.
+
+5
+Este nuevo Título VI ha sido atemperado a la legislación especial relativa a la
+administración de la justicia en este tipo de caso. Asimismo, se han redefinido e incluido
+nuevas figuras jurídicas para conformarlas a las directrices ofrecidas por el Tribunal
+Supremo de Puerto Rico y el Tribunal Supremo de Estados Unidos en interpretación de
+las garantías constitucionales. A esos efectos, hemos puesto énfasis sobre la protección a
+la intimidad, la propiedad, el patrimonio del Estado y de los individuos, los fondos
+públicos, la propiedad intelectual, la vida y la libertad de expresión, entre otros.
+En tema del establecimiento de la responsabilidad penal, se mantiene muy
+presente la expresión contenida en nuestra Constitución que establece con jerarquía
+constitucional el carácter rehabilitador de la pena al disponer en su Artículo VI, Sección
+19, que las instituciones penales preponderarán “el tratamiento adecuado de los
+delincuentes para hacer posible su rehabilitación moral y social”; que “no se impondrán
+castigos crueles e inusitados” y que las “multas no serán excesivas”. Artículo II, Secciones
+11 y 12 de la Constitución de Puerto Rico. A esos efectos, se reconocen como principios
+fundamentales que la sanción penal no podrá atentar contra la dignidad humana y la
+rehabilitación moral y social del convicto como un objetivo general para la imposición de
+las penas. De igual manera, ponemos especial atención en velar por la confianza pública
+imponiendo sobre los funcionarios o empleados públicos la obligación de rectitud e
+integridad en el cumplimiento de su deber y la destitución de su cargo o empleo como
+pena cuando infrinja la ley en el desempeño de las funciones públicas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un nuevo Título VI – Delitos Cibernéticos a la Ley Núm. 146-
+2 2012, según enmendada, conocida como “Código Penal de Puerto Rico”, para que lea
+3 como sigue:
+4 “TITULO VI. – DELITOS CIBERNÉTICOS
+5 CAPITULO I. – DELITOS INFORMÁTICOS COMO OBJETO
+
+6
+1 SECCIÓN PRIMERA. – Definiciones.
+2 Artículo 301. – Definiciones.
+3 1. “Acceso Ilícito” o “Piratería”, se entiende como cualquier medio para entrar a otro
+4 sistema informático, con inclusión de los ataques por internet, así como el acceso ilícito
+5 a las redes inalámbricas y el acceso no autorizado a los ordenadores que no están
+6 conectados a ninguna red.
+7 2. “Acceso Ilegal o Indebido a los Sistemas de Información”, se entiende como el
+8 acceso no autorizado, al conjunto o a una parte de un sistema de información cuando
+9 se comete transgrediendo medidas de seguridad.
+10 3. “Adquisición Ilegal”, se entiende como la interceptación de los procesos de
+11 transferencia de datos.
+12 4. “Ataques a la Integridad del Sistema”, se entiende como toda obstaculización
+13 deliberada e ilegítima del funcionamiento de un sistema informático mediante la
+14 introducción, transmisión, daño, borrado, deterioro, alteración o supresión de datos
+15 informáticos.
+16 5. “Datos Informáticos”, se entiende toda representación de hechos, información o
+17 conceptos de una forma que permita su procesamiento en un sistema de computadoras,
+18 incluido un programa capaz de provocar que un sistema informático realice una
+19 función.
+20 6. “Difusión de Material Racista y Xenófobo Mediante Sistemas Informáticos”,
+21 se entiende como todo material escrito, toda imagen o cualquier otra representación de
+22 ideas o teorías, que propugne, promueva o incite al odio, la discriminación o la
+
+7
+1 violencia, contra cualquier persona o grupo de personas, por razón de raza, color,
+2 ascendencia u origen nacional o étnico, así como de la religión.
+3 7. “Espionaje de Datos”, se entiende como toda persona que, intencionalmente, sin
+4 excusa o justificación legal o en exceso de una excusa o justificación legal obtenga, para
+5 sí o para otro, datos informáticos que no estén destinados a él y que estén especialmente
+6 protegidos contra el acceso no autorizado.
+7 8. “Espionaje Económico”, se entiende como toda persona que, intencionalmente o a
+8 sabiendas de que la intrusión beneficiará a cualesquiera gobiernos, agencias o agentes
+9 extranjeros:
+10 a) robe o, sin autorización, se apropie de, tome, se lleve u oculte, o mediante fraude,
+11 artificio o engaño, obtenga un secreto comercial;
+12 b) sin autorización copie, duplique, esboce, dibuje, fotografíe, descargue, cargue,
+13 altere, destruya, fotocopie, replique, transmita, entregue, expida, envíe por
+14 correo electrónico, comunique o transporte un secreto comercial;
+15 c) reciba, compre o posea un secreto comercial, a sabiendas de que éste ha sido
+16 robado o ha sido objeto de apropiación, obtenido o convertido sin autorización;
+17 d) intente cometer cualesquiera de los actos descritos en los anteriores incisos a)
+18 b) y c); o
+19 e) conspire con una o más personas para cometer cualquiera de los actos descritos
+20 en los anteriores incisos a) b) y c) y una o más de esas personas actúe para llevar
+21 a la práctica el objeto de la conspiración.
+
+8
+1 9. “Falsificación Informática o Phishing”, se entiende como la introducción,
+2 alteración, borrado o supresión deliberados e ilegítimos de datos informáticos que
+3 genere datos no auténticos con la intención de que sean tomados o utilizados a efectos
+4 legales como auténticos, con la independencia de que los datos sean legibles e
+5 inteligibles directamente.
+6 10. “Hostigamiento, Intimidación o Cyberbullying”, se entiende como cualquier
+7 patrón de acciones realizados intencionalmente, ya sea mediante abuso psicológico,
+8 físico, cibernético o social, que tenga el efecto de atemorizar a una persona o a un grupo
+9 de personas.
+10 11. “Incautar”, incluye:
+11 a) activar cualquier computadora y medio de almacenamiento de datos
+12 informáticos;
+13 b) crear y conservar una copia de datos informáticos;
+14 c) mantener la integridad de los datos informáticos pertinentes almacenados;
+15 d) suprimir o hacer que no pueda accederse a datos informáticos existentes en el
+16 sistema de computadoras al que se accede;
+17 e) imprimir una copia de los datos informáticos salientes; o
+18 f) incautar o asegurar de manera similar un sistema de computadoras o parte de
+19 este, o un medio de almacenamiento de datos informáticos.
+20 12. “Infraestructura Esencial”, se entiende como aquellos sistemas, aparatos y redes de
+21 información, programas y datos informáticos que resultan tan vitales para el país que
+22 la incapacitación, destrucción o interferencia de tales sistemas y activos supondría un
+
+9
+1 menoscabo de la seguridad, la seguridad económica o nacional, la salud y protección
+2 pública general o cualquier combinación de estos factores.
+3 13. “Interceptación”, se entiende, entre otras cosas, la adquisición, visualización y
+4 captación de cualquier comunicación de datos informáticos, ya sea por medios
+5 alámbricos, inalámbricos, electrónicos, ópticos, magnéticos, verbales o de otro tipo,
+6 durante la transmisión a través de la utilización de cualquier dispositivo técnico.
+7 14. “Interferencia con Datos”, se entiende cuando una persona, deliberada o
+8 imprudentemente, sin excusa o justificación legal, realice cualesquiera de los siguientes
+9 actos:
+10 a) destruya o altere datos;
+11 b) haga que los datos resulten incompresibles, inútiles o ineficaces;
+12 c) obstruya, interrumpa o interfiera con la utilización legal de los datos;
+13 d) obstruya, interrumpa o interfiera con cualquier persona en la utilización legal
+14 de los datos; o
+15 e) deniegue el acceso a los datos a cualquier persona con derecho a acceder a los
+16 mismos.
+17 El inciso a) se aplica independientemente del hecho de que el acto de la persona tenga
+18 un efecto temporal o permanente.
+19 15. “Interceptación Ilegal”, se entiende como la obtención o intrusión deliberada e
+20 ilegítima por medios técnicos de datos informáticos en transmisiones no públicas
+21 dirigidas a un sistema informático, originados en un sistema informático o efectuados
+
+10
+1 dentro del mismo, incluidas las emisiones electromagnéticas provenientes de un
+2 sistema informático que transporte dichos datos informáticos.
+3 16. “Material Erótico, Obsceno y Pornográfico”, se entiende como cualquier libro,
+4 revista, periódico u otro material impreso, escrito, o digital, o cualquier retrato,
+5 fotografía, dibujo, caricatura, película de movimiento, cinta cinematográfica u otra
+6 representación gráfica; o cualquier representación oral o visual transmitida o
+7 retransmitida a través de cables, ondas electromagnéticas, computadoras, tecnología
+8 digital o cualesquiera medios electrónicos o de comunicación telemática; o cualquier
+9 estatua, talla o figura, escultura; o cualquier grabación, transcripción o reproducción
+10 mecánica, química o eléctrica o cualquier otro artículo, equipo o máquina.
+11 Además, se entiende como “material” todo aquello que considerado en su totalidad por
+12 una persona promedio y que al aplicar patrones comunitarios contemporáneos:
+13 a) apele al interés lascivo, o sea, a un interés morboso en la desnudez, sexualidad o
+14 funciones fisiológicas;
+15 b) represente o describa en una forma patentemente ofensiva conducta sexual; y
+16 c) carezca de un serio valor literario, artístico, religioso, científico o educativo.
+17 La atracción del material al interés lascivo en el sexo se juzga en referencia al adulto
+18 promedio, a menos que se desprenda de la naturaleza del material, o de las circunstancias
+19 de su diseminación, distribución o exhibición, que está diseñado para grupos con
+20 desviaciones sexuales, en cuyo caso dicha atracción se juzgará con referencia al grupo a
+21 quien va dirigido.
+
+11
+1 En procesos de violación a las disposiciones de esta Sección, donde las circunstancias
+2 de producción, presentación, venta, diseminación, distribución, o publicidad indican que
+3 el acusado está explotando comercialmente el material por su atracción lasciva, la prueba
+4 de este hecho constituirá prueba prima facie de que el mismo carece de serio valor literario,
+5 artístico, religioso, científico o educativo.
+6 Cuando la conducta prohibida se lleve a cabo para, o en presencia de, personas menores
+7 de edad, bastará que el material tenga por objeto suscitar o despertar un interés lascivo en
+8 la actividad sexual. Incluirá, además, cualquier modalidad de anuncio, promoción o
+9 facilitación de actividad sexual a través de medios electrónicos o de comunicación por
+10 internet.
+11 17. “Material Explícito”, se entiende como todo material de contenido, íntimo sexual
+12 alguna imagen del cuerpo humano o sus partes; o sexualmente explícito, que incluya
+13 algún tipo de actividad sexual; intima o de pareja, ya sea visual, ilustrativo o gráfico,
+14 grabaciones de video o audio.
+15 18. "Medio de Almacenamiento de Datos Informáticos”, se entiende como todo
+16 artículo o material a partir del cual es posible reproducir información, con o sin ayuda
+17 de cualquier otro artículo o dispositivo.
+18 19. “Permanencia Ilegal”, se entiende como toda persona que intencionalmente, sin
+19 autorización o justificación legal, o excediéndose de una excusa o justificación legal,
+20 permanezca conectado en un sistema informático o en parte de un sistema informático
+21 o siga utilizando un sistema informático.
+22 20. “Perturbación”, se entiende como manipulaciones que comprenden:
+
+12
+1 a) cortar el suministro eléctrico a un sistema de computadoras;
+2 b) causar interferencias electromagnéticas a un sistema de computadoras;
+3 c) corromper por cualquier medio un sistema de computadoras; e
+4 d) ingresar, transmitir, dañar, borrar, deteriorar, alterar o suprimir datos
+5 informáticos del sistema.
+6 21. “Pornografía Infantil”, se entiende como toda representación, por cualquier medio,
+7 de un menor de edad o persona que luzca como tal, dedicado a actividades sexuales
+8 explicitas o implícitas, reales o simuladas, o toda representación de las partes genitales
+9 de un menor de edad o persona que luzca como tal, con fines primordialmente sexuales.
+10 Esta incluye, pero no se limita a, todo material pornográfico sonoro, visual o escrito.
+11 22. “Programas Maliciosos o Malware”, se entiende como aquella programación
+12 creada para causar daño a un dispositivo, sistemas o a sus usuarios, que pueden incluir
+13 desde daños leves hasta destrucción total del sistema.
+14 23. “Protocolo de Internet o IP”, se entiende como las direcciones numéricas estándar
+15 que se emplea para el envío y recepción de información mediante una red con la
+16 posibilidad de confirmar que un paquete de información o datos llegó a su destino.
+17 24. “Proveedor de Hospedaje”, se entiende como toda persona física o jurídica que presta
+18 un servicio de transmisión electrónica de datos mediante el almacenamiento de la
+19 información proporcionada por un usuario del servicio.
+20 25. “Proveedor de Servicio”, se entiende como toda entidad pública o privada que ofrece
+21 a los usuarios de su servicio la capacidad de comunicar por medio de un sistema de
+
+13
+1 computadoras, y cualquier otra entidad que procese o almacene datos informáticos en
+2 nombre de dicho servicio de comunicación o de los usuarios de dicho servicio.
+3 26. “Redes Informáticas”, se entiende como un grupo de sistemas interconectados o
+4 relacionados en que uno o varios de ellos llevan a cabo, con arreglo a un programa, el
+5 procesamiento automático de datos o cualquier otra función análoga.
+6 27. “Seducción de un Menor de Edad, Preparación o Captación, o Grooming”, se
+7 entiende como aquel acto preparatorio ejecutado a través de tecnologías de la
+8 información y la comunicación, cuyo propósito sea propiciar un encuentro con una
+9 persona menor de edad con la intención de perpetrar abuso sexual en su contra.
+10 28. “Sistema Informático”, se entiende como la estructura integrada por uno o varios
+11 aparatos interconectados o relacionados que ejecutan, de conformidad con un
+12 programa, el procesamiento automático de datos u otras funciones.
+13 29. “Usurpación de Identidad”, se entiende como el acto de obtener, poseer, transferir o
+14 utilizar información relacionada con la identidad de otra persona, sin autorización para
+15 ello.
+16 SECCIÓN SEGUNDA – Delitos Informáticos y Conexos
+17 Artículo 302. – Acceso Indebido a Sistema Informático.
+18 El que, sin autorización o excediendo una autorización en todo o en parte utilice, instale
+19 o acceda a un sistema informático o sistema telemático o de telecomunicaciones, o a sus
+20 componentes, protegido o no con una medida de seguridad, o se mantenga dentro del mismo en
+21 contra de la voluntad de quien tenga el legítimo derecho a exigirlo, incurrirá en delito menos
+22 grave.
+
+14
+1 El acceso indebido a sistema informático incluye, pero no se limita a:
+2 a) Modificar, a través de cualquier forma de engaño o treta cualesquiera de las
+3 funciones de la computadora u ordenador, incluyendo, pero no limitado al acceso
+4 a la computadora u ordenador, la página cibernética donde la computadora u
+5 ordenador activa su sistema de navegación en la Internet y las marcas o
+6 “bookmarks” que el usuario autorizado o dueño han registrado en la
+7 computadora u ordenador.
+8 b) Recolectar, a través del uso de cualquier forma de engaño o treta, información
+9 personal confidencial del usuario autorizado o dueño, incluyendo cuando dicha
+10 acción se realiza a través de uso de un dispositivo que graba todos los usos del
+11 teclado de un usuario autorizado y transfiere tal información a otro ordenador o
+12 persona; cuando dicha acción se realiza a través de acceder sin autorización el
+13 historial de páginas de la “Internet” visitadas por el usuario autorizado y
+14 cuando dicha acción se realiza extrayendo del disco duro del ordenador
+15 información sin la autorización expresa del usuario autorizado o dueño.
+16 c) Prevenir, a través del uso de cualquier forma de treta o engaño, el que un usuario
+17 autorizado pueda detectar que su ordenador ha sido intervenido, se le ha
+18 insertado programación o se ha sustraído información sin su autorización.
+19 d) Representar, intencionalmente, de forma electrónica, que la computadora u
+20 ordenador ha eliminado un programa de espionaje cibernético o un virus, a
+21 sabiendas que dicha información es falsa.
+
+15
+1 e) Intencionalmente o a través de treta o engaño lograr inutilizar el sistema de
+2 seguridad, anti-espionaje cibernético o antivirus en una computadora.
+3 Cuando de dicho acceso ilícito resulte la supresión o la modificación de datos,
+4 información o contenido en el sistema, o revelen o difundan datos confidenciales o personales
+5 contenidos en el sistema accedido, será sancionada con pena de reclusión por un término fijo de
+6 cinco (5) años.
+7 Artículo 303. – Sabotaje Informático.
+8 Toda persona que, sin autorización o excediendo una autorización, destruya o inutilice
+9 en todo o en parte un sistema informático o sistema telemático o de telecomunicaciones o a sus
+10 componentes, o impida, altere, entorpezca, obstaculice o modifique su funcionamiento o uso
+11 regular o acceso, protegido o no con una medida de seguridad, será sancionada con pena de
+12 reclusión por un término fijo de tres (3) años.
+13 Artículo 304. – Sabotaje Informático Agravado.
+14 Sera sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+15 que cometa el delito de sabotaje informático descrito en el Artículo 303, cuando se lleve a cabo
+16 para obtener beneficio personal o de un tercero. El tercero beneficiado incurrirá igualmente en
+17 este delito.
+18 En caso de que la persona responsable obtenga o logre efectivamente el beneficio personal
+19 perseguido, la pena de reclusión será por término fijo de ocho (8) años.
+
+16
+1 Artículo 305. – Ataque a la Integridad de Sistemas Informáticos del Sistema
+2 Público.
+3 Toda persona que, sin autorización o excediendo una autorización, destruya, dañe,
+4 borre, deteriore, altere, suspenda, trabe, cause mal funcionamiento, comportamiento no deseado
+5 o suprima datos informáticos, mensajes de correo electrónicos, a sistemas del servicio público
+6 del Gobierno de Puerto Rico, cuyo contenido sea esencial para su funcionamiento o desarrollo
+7 de programas, de tratamiento de información, telemático o de telecomunicaciones a todo o en
+8 parte de sus componentes, protegido o no con una medida de seguridad, será sancionada con
+9 pena de reclusión por un término fijo de ocho (8) años.
+10 Artículo 306. – Ataque a la Integridad de Sistemas Informáticos del Sistema
+11 Público Agravado.
+12 Sera sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+13 que cometa el delito de ataque a la integridad de sistemas informáticos del sistema público
+14 descrito en el Articulo 305, cuando de dicho acceso ilícito sobrevenga peligro colectivo o daño
+15 social.
+16 Si del delito descrito en el párrafo anterior sobreviene la pérdida de fondos públicos que
+17 sobrepase de cinco (5,000) mil dólares, será sancionada con pena de reclusión por un término
+18 fijo de quince (15) años. El Tribunal también podrá imponer pena de restitución.
+19 Artículo 307. – Explotación Informática.
+20 Será sancionada con pena de reclusión por término fijo de ocho (8) años toda persona
+21 que, sin autorización o excediendo una autorización en todo o en parte, utilice, instale o acceda
+22 a un sistema informático, telemático o de telecomunicaciones, esté o no protegido con medidas
+
+17
+1 de seguridad, o se mantenga dentro del mismo en contra de la voluntad de quien ostente el
+2 legítimo derecho a exigirlo, con el propósito de explotar ilegítimamente el acceso logrado,
+3 modificar un portal web, desviar o redireccionar el tráfico de datos o voz, u ofrecer a terceros
+4 los servicios que estos sistemas proveen, sin que medie pago a los proveedores legítimos de tales
+5 servicios.
+6 Artículo 308. – Daño Informático.
+7 Toda persona que, sin autorización o excediendo una autorización a propósito, con
+8 conocimiento o temerariamente, destruya, dañe o vandalice en todo o en parte los datos
+9 contenidos en un sistema de información, telemático o de telecomunicaciones o de sus
+10 componentes, protegido o no con una medida de seguridad, o en perjuicio de un tercero,
+11 suprima, modifique o destruya la información contenida, será sancionada con pena de reclusión
+12 por un término fijo de cinco (5) años.
+13 La persona que resulte convicta por el delito descrito en el párrafo anterior será
+14 sancionada con pena de reclusión por un término fijo de tres (3) años cuando la comisión del
+15 delito obedezca a negligencia, imprudencia, impericia o inobservancia de las normas aplicables.
+16 Artículo 309. – Daño Informático Agravado.
+17 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+18 que cometa el delito de daño informático descrito en el Articulo 308, cuando se cometiere en
+19 contra de los componentes de un sistema informático que utilice tecnologías de información y
+20 comunicación, destinadas a la prestación de servicios públicos o financieros, o que contengan
+21 información personal, confidencial, reservada, patrimonial, técnica o propia de personas
+22 naturales o jurídicas.
+
+18
+1 Artículo 310. – Revelación De Secretos.
+2 Toda persona que, sin autorización o excediendo una autorización a propósito, con
+3 conocimiento o temerariamente modifique, destruya, obtenga, copie o utilice información de
+4 seguridad pública en todo o en parte de los datos contenidos en un sistema de información,
+5 telemático o de telecomunicaciones o de sus componentes, protegido o no con una medida de
+6 seguridad, será sancionada con pena de reclusión por un término fijo de cinco (5) años.
+7 Artículo 311. – Revelación de Secretos Agravado.
+8 Sera sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+9 que para beneficio personal o de un tercero, cometa el delito de revelación de secretos descrito
+10 en el Articulo 310, cuando la conducta obstruya, entorpezca, obstaculice, limite o imposibilite
+11 la administración o aplicación de la justicia, o recaiga sobre los registros relacionados con un
+12 procedimiento penal resguardados por las autoridades competentes. El tercero beneficiado
+13 incurrirá igualmente en este delito.
+14 Cuando el delito descrito en el párrafo anterior sea perpetrado por un funcionario
+15 público, éste será sancionado con pena de reclusión por un término fijo de quince (15) años.
+16 Además, se impondrá destitución inmediata del cargo público e inhabilitación por término de
+17 cuatro (4) a diez (10) años para desempeñarse en cualquier empleo, puesto o cargo público,
+18 contados a partir del cumplimiento de la pena de reclusión.
+19 Artículo 312. – Instalación o Propagación de Programas Informáticos
+20 Maliciosos.
+21 Toda persona que, sin autorización o excediendo una autorización a propósito y por
+22 cualquier medio, instale programas informáticos maliciosos en un sistema o red informática o
+
+19
+1 telemática, o en los contenedores electrónicos, ópticos o magnéticos, o de sus componentes,
+2 protegidos o no con medidas de seguridad, será sancionada con pena de reclusión por un
+3 término fijo de tres (3) años.
+4 Artículo 313. – Instalación O Propagación De Programas Informáticos
+5 Maliciosos Agravado.
+6 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+7 que cometa el delito de instalación o propagación de programas informáticos descrito en el
+8 Articulo 312, cuando:
+9 a) Induzca a error a otra persona para que instale un programa malicioso en un sistema
+10 o red informática o telemática, o en los contenedores electrónicos, ópticos o
+11 magnéticos, sin la debida autorización;
+12 b) Sin autorización, instale programas o aplicaciones informáticas dañinas en sitios de
+13 internet legítimos, con el propósito de convertirlos en medios idóneos para la
+14 propagación de programas informáticos maliciosos;
+15 c) Para propagar programas informáticos maliciosos, invite a otras personas a
+16 descargar archivos o acceder a sitios de internet que faciliten la instalación de
+17 programas informáticos maliciosos;
+18 d) Distribuya programas informáticos diseñados para la creación de programas
+19 informáticos maliciosos;
+20 e) Ofrezca, contrate o brinde servicios de denegación de servicios, envío de
+21 comunicaciones masivas no solicitadas, o propagación de programas informáticos
+22 maliciosos, para beneficio personal o de un tercero.
+
+20
+1 Será sancionada con una pena de reclusión por un término fijo de ocho (8) años cuando
+2 el autor del delito descrito en el párrafo anterior afecte:
+3 a) Entidades bancarias, financieras, cooperativas de ahorro y crédito, asociaciones
+4 solidaristas o entes estatales;
+5 b) El funcionamiento de servicios públicos;
+6 c) Sistemas Informáticos que permitan obtener control a distancia para integrar redes
+7 de ordenadores;
+8 d) Sistemas Informáticos diseñados para realizar acciones dirigidas a procurar
+9 beneficio patrimonial para sí o para un tercero;
+10 e) Sistemas Informáticos de la salud, cuya afectación pueda poner en peligro la vida o
+11 salud de las personas;
+12 f) Programas con capacidad de reproducción autónoma sin intervención adicional del
+13 usuario legítimo del sistema informático.
+14 Artículo 314. – Uso de Programas Destructivos.
+15 Será sancionada con pena de reclusión por un término fijo de un (1) año toda persona
+16 que, con la intención de producir daño, adquiera, distribuya o ponga en circulación programas
+17 o instrucciones informáticas destructivas susceptibles de causar perjuicio a registros,
+18 programas o equipos de computación.
+19 Artículo 315. – Dispositivos Fraudulentos.
+20 Será sancionada con pena de reclusión por término fijo de ocho (8) años toda persona
+21 que, sin autoridad o causa legítima, produzca, use, posea, trafique o distribuya programas
+
+21
+1 informáticos, equipos, materiales o dispositivos cuyo uso exclusivo o fundamental sea emplearse
+2 como herramienta para la comisión de crímenes y delitos de alta tecnología.
+3 Artículo 316. – Suplantación de Páginas Electrónicas.
+4 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+5 que, sin estar facultada para ello, diseñe, desarrolle, trafique, venda, ejecute, programe o
+6 suplante páginas electrónicas, enlaces o ventanas emergentes.
+7 Artículo 317. – Suplantación de Páginas Electrónicas Agravado.
+8 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+9 que, para beneficio personal o de un tercero, cometa el delito de suplantación de páginas
+10 electrónicas descrito en el Artículo 316, cuando la conducta modifique el sistema de resolución
+11 de nombres de dominio de manera que redirija al usuario hacia una dirección de protocolo de
+12 internet (IP) diferente, bajo la creencia de que acceda a su banco o a otro sitio de carácter
+13 personal o de confianza.
+14 Artículo 318. – Facilitación del Delito.
+15 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+16 que facilite los medios para la perpetración de un delito ejecutado mediante un sistema o red
+17 informática o telemática, o contenedores electrónicos, ópticos o magnéticos.
+18 Artículo 319. – Facilitación del Delito Agravado.
+19 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+20 que cometa el delito de facilitación del delito descrito en el Artículo 318, cuando la información
+21 obtenida se utilice para beneficio propio o de terceros.
+22 Artículo 320. – Utilización Ilícita de Redes de Comunicaciones.
+
+22
+1 Toda persona que, con fines ilícitos, haga uso de aparatos de radiofonía o televisión, o de
+2 cualquier medio electrónico diseñado o adaptado para interferir, emitir o reproducir señales, sin
+3 autorización, será sancionada con pena de reclusión por un término fijo de tres (3) años.
+4 Artículo 321. – Manipulación de Equipos o Terminales Móviles.
+5 Será sancionada con pena de reclusión por un término fijo de cuatro (4) años toda
+6 persona que, manipule, reprograme, remarque o modifique terminales móviles de los servicios
+7 de comunicaciones en cualquiera de sus componentes, con el propósito de alterar las bases de
+8 datos positivas y negativas que se establecerán para tal efecto y que serán administradas por la
+9 entidad regulatoria correspondiente.
+10 Artículo 322. – Manipulación de Equipos o Terminales Móviles Agravado.
+11 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+12 que, cometa el delito de manipulación de equipos o terminales móviles descrito en el Artículo
+13 321, cuando las conductas resulten ser parte de una red, grupo u organización de carácter
+14 delincuencial o criminal.
+15 Artículo 323. – Manipulación de Equipos de Localización y Vigilancia.
+16 Toda persona que, retire, modifique o inutilice, sin la debida autorización, dispositivos
+17 de localización y vigilancia, será sancionada con pena de reclusión por un término fijo de cinco
+18 (5) años.
+19 Artículo 324. – Manipulación de Equipos de Localización y Vigilancia
+20 Agravado.
+21 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+22 que, cometa el delito de manipulación de equipos de localización y vigilancia descrito en el
+
+23
+1 Artículo 323, cuando se cometiere por un funcionario público. Además, se impondrá
+2 destitución inmediata del cargo público e inhabilitación por término de cuatro (4) a diez (10)
+3 años para desempeñarse en cualquier empleo, puesto o cargo público, contados a partir del
+4 cumplimiento de la pena de reclusión.
+5 Artículo 325. – Intercambio, Comercialización o Compra de Información de
+6 Equipos o Terminales Móviles.
+7 Toda persona que, intercambie, comercialice o adquiera bases de datos que contengan
+8 información de identificación de equipos terminales móviles, será sancionada con pena de
+9 reclusión por un término fijo de tres (3) años.
+10 CAPITULO II. – DELITOS INFORMÁTICOS COMO MEDIO
+11 SECCIÓN PRIMERA – Delitos Sexuales
+12 Artículo 326. – Corrupción.
+13 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+14 que, mediante tecnologías de la información y la comunicación, procure la excitación sexual
+15 propia o de un tercero realizando ante una persona menor de edad acciones de significación
+16 sexual, o exponiéndola a material pornográfico o exhibiciones de similar naturaleza.
+17 Artículo 327. – Corrupción Agravado.
+18 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+19 que, cometa el delito de corrupción descrito en el Artículo 326, cuando con el propósito de
+20 procurar su excitación sexual o la de otro, obligue, induzca, persuada, sugiera, incite, o
+21 convenza a una persona menor de edad a realizar acciones de significación sexual delante suyo
+
+24
+1 o de terceros; o a enviar, entregar o exhibir imágenes o grabaciones de su persona a otra persona
+2 menor de edad, aunque haya expresado su consentimiento.
+3 Será sancionada con pena de reclusión por un término fijo de quince (15) años, quien
+4 procure, promueva, obligue, publicite, gestione, facilite o induzca, por cualquier medio, a una
+5 persona menor de dieciocho (18) años de edad, o que carezca de capacidad de comprender el
+6 significado del hecho o de capacidad de resistir la conducta, a realizar actos sexuales o de
+7 exhibicionismo corporal, con fines sexuales, reales o simulados, con el objeto de producir
+8 material mediante video grabación, audio grabación, fotografía, filmación, exhibición o
+9 descripción a través de anuncios impresos, sistemas de cómputo, electrónicos o análogos, y se
+10 beneficie económicamente de la explotación de la persona.
+11 Cuando en la perpetración de la conducta descrita en el párrafo anterior se haya
+12 utilizado fuerza, engaño, violencia física o psicológica, coerción, abuso de poder o de situación
+13 de vulnerabilidad, dependencia de sustancias, posición jerárquica o de confianza, concesión o
+14 recepción de pagos o beneficios para obtener el consentimiento, o cuando exista relación de
+15 autoridad de una persona sobre otra, o cualquier otra circunstancia que disminuya o elimine la
+16 capacidad volitiva de la víctima para resistirse, la pena prevista en el párrafo anterior se
+17 aumentará en una mitad.
+18 Artículo 328. – Explotación Sexual, Pornografía y Acto Sexual con Menores de
+19 Edad.
+20 Toda persona que, con ánimo de lucro, beneficio personal o para un tercero, induzca
+21 facilite, promueva o utilice, con fines sexuales o eróticos a una persona menor de edad o con
+22 discapacidad haciéndola presenciar o participar en un comportamiento sexual, espectáculo
+
+25
+1 público o privado, aunque la victima consienta presenciar tal comportamiento o participar en
+2 él, por medio de las tecnologías de la información y la comunicación, será sancionada con pena
+3 de reclusión por un término fijo de diez (10) años.
+4 Artículo 329. – Fabricación, Producción, Difusión o Reproducción de
+5 Pornografía.
+6 Toda persona que participare en la producción, financiación, fabricación, reproducción,
+7 publicación, comercialización, importe, exporte, difusión, o en la distribución de material
+8 pornográfico, por cualquier medio, sea directo, mecánico, digital, audio, visual o con soporte
+9 informático, electrónico u otros conexos, en cuya elaboración hubieren sido utilizados menores
+10 de edad, será sancionada con pena de reclusión por un término fijo de diez (10) años. Se
+11 entenderá por material pornográfico en cuya elaboración hubieren sido utilizados menores de
+12 edad, toda representación de éstos dedicados a actividades eróticas o sexuales explícitas o
+13 implícitas, reales o simuladas, o toda representación de sus partes genitales con fines sexuales,
+14 o toda representación de dichos menores en que se emplee su voz o imagen, con los mismos
+15 fines.
+16 Artículo 330. – Pornografía Relativa a Menores de Edad.
+17 Toda persona que fotografíe, filme, grabe, produzca, divulgue, ofrezca, venda, compre,
+18 posea, porte, almacene, trasmita o exhiba, por cualquier medio, para uso personal o intercambio,
+19 representaciones reales de actividad sexual que involucre una persona menor de edad, será
+20 sancionada con pena de reclusión por un término fijo de diez (10) años.
+
+26
+1 Artículo 331. – Pornografía Relativa a Menores de Edad Agravado.
+2 Será sancionada con pena de reclusión por un término fijo de quince (15) años toda
+3 persona que, cometa el delito de pornografía relativa a menores de edad descrito en el Artículo
+4 330, quien alimente con pornografía infantil bases de datos de Internet, con o sin fines de lucro.
+5 La pena se aumentará de una tercera parte a la mitad cuando el responsable sea
+6 integrante de la familia de la víctima, dentro del cuarto grado de consanguinidad o segundo de
+7 afinidad.
+8 Artículo 332. – Pornografía Virtual y Pseudo Pornografía.
+9 Toda persona que posea, produzca, venda, distribuya, exhiba o facilite, por cualquier
+10 medio, material pornográfico en el que no habiendo utilizado personas menores de edad, emplee
+11 a una persona adulta que simule ser una persona menor de edad realizando actividades
+12 sexuales; o emplee imagen, caricatura, dibujo o representación, de cualquier clase, que aparente
+13 o simule a una persona menor de edad realizando actividades sexuales, será sancionada con
+14 pena de reclusión por un término fijo de quince (15) años.
+15 Artículo 333. – Tenencia, Adquisición o Posesión de Material Pornográfico de
+16 Menores de Edad o Personas con Impedimentos.
+17 Toda persona que adquiera para sí o para un tercero a través de cualquier medio que
+18 involucre el uso de las tecnologías de la información y la comunicación, o posea material
+19 pornográfico en el que se haya utilizado a un menor de edad o persona con discapacidad o su
+20 imagen para su producción, será sancionada con pena de reclusión por un término fijo de diez
+21 (10) años.
+
+27
+1 Artículo 334. – Difusión de Pornográfica.
+2 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+3 que, mediante el uso de tecnologías de la información y la comunicación o por cualquier otro
+4 medio, entregue, comercialice, difunda, distribuya o exhiba material pornográfico en el que se
+5 represente a personas menores de edad o incapaces, o que adquiera para sí o para un tercero, o
+6 posea material pornográfico en cuya producción se haya utilizado a una persona menor de edad
+7 o con discapacidad, o su imagen.
+8 Será sancionada con pena de reclusión por un término fijo de tres (3) años el que
+9 maliciosamente adquiera o almacene material pornográfico, cualquiera sea su soporte, en cuya
+10 elaboración hayan sido utilizados menores de edad,
+11 Artículo 335. – Utilización o Facilitación de Medios de Comunicación para
+12 Actividades Sexuales con Menores de Edad o Personas con Impedimentos.
+13 Toda persona que, de cualquier modo, facilitare, en beneficio propio o ajeno, la
+14 comercialización, difusión, exhibición, importación, exportación, distribución, oferta,
+15 almacenamiento o adquisición de material pornográfico que contenga la imagen o cualquier
+16 otra forma de representación de una o más personas menores de edad o incapaces, será
+17 sancionada con pena de reclusión por un término fijo de cinco (5) años.
+18 Artículo 336. – Comercialización de Pornografía con Menores de Edad o
+19 Personas con Discapacidad.
+20 Toda persona que, publique, compre, posea, porte, transmita, descargue, almacene,
+21 importe, exporte o venda, por cualquier medio, para uso personal o para intercambio
+
+28
+1 pornografía de menores de edad, será sancionada con pena de reclusión por un término fijo de
+2 diez (10) años.
+3 Artículo 337. – Exhibición Pornográfica.
+4 Toda persona que, ofrezca o publique espectáculos teatrales o cinematográficos obscenos,
+5 transmita audiciones o efectúe publicaciones de idéntico carácter, será sancionado con pena de
+6 reclusión por un término fijo de diez (10) años.
+7 Artículo 338. – Turismo Sexual.
+8 Será sancionada con pena de reclusión por un término fijo de quince (15) años toda
+9 persona que, por cualquier medio, promueva, publique, invite, facilite o gestione que una o más
+10 personas viajen dentro o fuera del territorio y jurisdicción de Puerto Rico con el propósito de
+11 que realicen actos sexuales, reales o simulados, con una o varias personas menores de edad, o
+12 con una o varias personas que carezcan de capacidad para comprender el significado del hecho
+13 o resistir la conducta.
+14 Artículo 339. – Destrucción de Material.
+15 Cuando medie condena mediante sentencia firme por cualquier delito comprendido en
+16 esta Sección, el tribunal ordenará la destrucción de todo material o anuncio obsceno o de
+17 pornografía infantil que haya motivado la condena del acusado y que se encuentre en poder o
+18 bajo control del tribunal, del ministerio público o de un funcionario del orden público.
+19 SECCIÓN SEGUNDA – Delitos Contra La Intimidad
+20 Artículo 340. – Acceso Indebido a Datos.
+21 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+22 que, sin autorización y violando sistemas de seguridad, obtenga para sí o para terceros acceso a
+
+29
+1 datos no destinados a ella y que se encuentren especialmente protegidos contra el acceso no
+2 autorizado.
+3 Artículo 341. – Acceso Indebido a Datos del Sistema Público y del Gobierno de
+4 Puerto Rico.
+5 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+6 que, cometa el delito de acceso indebido a datos descrito en el Articulo 340, cuando se cometiere
+7 por un funcionario público. Además, se impondrá destitución inmediata del cargo público e
+8 inhabilitación por término de cuatro (4) a diez (10) años para desempeñarse en cualquier
+9 empleo, puesto o cargo público, contados a partir del cumplimiento de la pena de reclusión.
+10 Artículo 342. – Uso de Equipos para Invasión de Privacidad.
+11 Será sancionada con pena de reclusión por un término fijo de dos (2) años toda persona
+12 que, sin causa legítima o autorización de la entidad legalmente competente, use sistemas
+13 electrónicos, informáticos, telemáticos, de telecomunicaciones, o dispositivos susceptibles de
+14 realizar operaciones que atenten contra la privacidad en cualquiera de sus manifestaciones.
+15 Artículo 343. – Acceso Indebido a Correspondencia o Comunicaciones del
+16 Sistema Público y del Gobierno de Puerto Rico.
+17 Será sancionada con pena de reclusión por un término fijo de cinco (5) años, toda
+18 persona que:
+19 a) opere o abuse de los servicios o instalaciones de telecomunicaciones de libre
+20 recepción o de radiodifusión sin autorización de la autoridad correspondiente, y el
+21 que permita que, en su domicilio, residencia, morada o medio de transporte, operen
+22 tales servicios o instalaciones;
+
+30
+1 b) maliciosamente interfiera, intercepte o interrumpa un servicio de
+2 telecomunicaciones, y la confiscación de los equipos e instalaciones;
+3 c) intercepte o capte maliciosamente o grave sin la debida autorización, cualquier tipo
+4 de señal que se emita a través de un servicio público de telecomunicaciones; o
+5 d) divulgue de manera pública o privada, cualquier comunicación obtenida por
+6 infracción de las disposiciones de este Artículo.
+7 Artículo 344. – Acceso Indebido a Correspondencia o Comunicaciones del
+8 Sistema Público y del Gobierno de Puerto Rico Agravado.
+9 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+10 que cometa el delito de acceso indebido a correspondencia o comunicaciones del sistema público
+11 y del gobierno de Puerto Rico descrito en el Artículo 343, cuando tal conducta sea cometida por
+12 un funcionario público, o persona encargada de la recolección, entrega o salvaguarda de los
+13 documentos o comunicaciones, o persona encargada de administrar o prestar soporte técnico al
+14 sistema o red informática o telemática, o que por razón de sus funciones tenga acceso a tal
+15 sistema o red, o a los contenedores electrónicos, ópticos o magnéticos.
+16 Además, si la condena recae sobre un funcionario público, se impondrá destitución
+17 inmediata del cargo público e inhabilitación por término de cuatro (4) a diez (10) años para
+18 desempeñarse en cualquier empleo, puesto o cargo público, contados a partir del cumplimiento
+19 de la pena de reclusión.
+20 Artículo 345. – Acceso Indebido o Ilícito de Información Médica.
+21 Toda persona que, sin autorización, violando o no los sistemas de seguridad, obtuviere
+22 para sí o para terceros, el acceso a datos médicos de otra persona, no destinados a él y
+
+31
+1 especialmente protegidos contra el acceso no autorizado, será sancionada con pena de reclusión
+2 por un término fijo de cinco (5) años.
+3 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+4 que, cometa el delito de acceso indebido o ilícitos de información médica, cuando se cometiere
+5 por un funcionario público. Además, se impondrá destitución inmediata del cargo público e
+6 inhabilitación por término de cuatro (4) a diez (10) años para desempeñarse en cualquier
+7 empleo, puesto o cargo público, contados a partir del cumplimiento de la pena de reclusión.
+8 Artículo 346. – Acceso Indebido O Ilícito De Información Médica Agravado.
+9 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+10 que, cometa el delito de acceso indebido o ilícito de información médica descrito en el Artículo
+11 345, cuando utilice o difunda el contenido de comunicaciones o documentos privados carentes
+12 de interés público, causando peligro o daño a la intimidad de otra persona.
+13 Artículo 347. – Interceptación de Datos Informáticos.
+14 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+15 que, sin orden judicial previa, intercepte datos informáticos en su origen, destino o en el interior
+16 de un sistema informático, o las emisiones electromagnéticas provenientes de un sistema
+17 informático que los transporte, cuando:
+18 a) en provecho propio o de un tercero, intercepte, escuche, desvíe, grabe u observe, en
+19 cualquier forma, un dato informático en su origen, destino o en el interior de un
+20 sistema informático, una señal o una transmisión de datos o señales, con la finalidad
+21 de obtener información registrada o disponible;
+
+32
+1 b) diseñe, desarrolle, venda, ejecute, programe o envíe mensajes, certificados de
+2 seguridad o páginas electrónicas, enlaces o ventanas emergentes, o modifique el
+3 sistema de resolución de nombres de dominio de un servicio financiero o pago
+4 electrónico, u otro sitio personal o de confianza, de manera que induzca a una
+5 persona a ingresar a una dirección o sitio de internet diferente al que pretende
+6 acceder:
+7 c) a través de cualquier medio, copie, clone o comercialice información contenida en las
+8 bandas magnéticas, chips u otro dispositivo electrónico que constituya de tarjetas de
+9 crédito, débito, pago o similares; o
+10 d) produzca, fabrique, distribuya, posea o facilite materiales, dispositivos electrónicos
+11 o sistemas informáticos destinados a la comisión del delito descrito en el inciso
+12 anterior.
+13 Artículo 348. – Obtención y Transferencia de Información Confidencial.
+14 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+15 que, deliberadamente, obtenga y transfiera información de carácter confidencial y que, mediante
+16 el uso de tal información vulnere un sistema o datos informáticos, utilizando para ello cualquier
+17 modalidad de tecnologías de la información y la comunicación, incluidas las emisiones
+18 electromagnéticas.
+19 Artículo 349. – Obtención y Transferencia de Información Confidencial del
+20 Sistema Público o del Gobierno de Puerto Rico.
+21 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+22 que, cometa el delito de acceso indebido a correspondencia o comunicaciones del sistema público
+
+33
+1 y del gobierno de Puerto Rico descrito en el Articulo 348, cuando la conducta sea cometida por
+2 un funcionario público. Además, se impondrá destitución inmediata del cargo público e
+3 inhabilitación por término de cuatro (4) a diez (10) años para desempeñarse en cualquier
+4 empleo, puesto o cargo público, contados a partir del cumplimiento de la pena de reclusión.
+5 Artículo 350. – Apertura o Interceptación Ilegal de Comunicaciones.
+6 Será sancionada con pena de reclusión por un término fijo de un (1) año toda persona
+7 que ilegítimamente abra, intercepte, o por cualquier otro medio tome conocimiento del
+8 contenido de un documento, pliego cerrado o despacho telegráfico, telemático, electrónico o de
+9 otra naturaleza que no le esté dirigido.
+10 Artículo 351. – Violación a la Intimidad.
+11 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+12 que, sin contar con el consentimiento o la autorización legal, acceda, intercepte, examine,
+13 retenga, grabe, reproduzca, difunda o publique datos personales, mensajes de datos, voz, audio
+14 y vídeo, objetos postales, información contenida en soportes informáticos, comunicaciones
+15 privadas o reservadas de otra persona, por cualquier medio.
+16 Artículo 352. – Revelación Indebida de Datos e Información.
+17 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+18 que, cometa el delito de extorsión informática “ransomware” descrito en el Artículo 363,
+19 cuando la conducta se haya realizado con ánimo de lucro, o en orden a la comisión de otro delito,
+20 o cuando se difunda material sexual explícito en perjuicio de un tercero.
+
+34
+1 Artículo 353. – Preparación de Acceso Indebido o Interceptación de Datos.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 que prepare un hecho punible conforme a los Artículos 340, 341, 342, 343, 344, 345, 346, 347,
+4 348, 349, 350, 351 y 352, produciendo, difundiendo o haciendo accesible de otra manera a
+5 terceros:
+6 a) las claves de acceso u otros códigos de seguridad, que permitan el acceso a datos; o
+7 b) los programas de computación destinados a la realización de tal hecho.
+8 SECCIÓN TERCERA – Delitos Contra la Identidad
+9 Artículo 354. – Hurto, Supresión, Alteración de Identidad o de Estado Civil.
+10 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+11 que, ilegalmente impida, altere, añada o suprima la inscripción de los datos de identidad
+12 propios, o inscriba como suya o de otra persona datos de identidad en programas informáticos,
+13 partidas, tarjetas de identificación “Real ID”, licencia de conducir, o en cualquier otro
+14 documento emitido por el Gobierno de Puerto Rico.
+15 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+16 que ilegalmente altere la identidad de un menor de edad; la sustituya por otra; entregue o
+17 consigne datos falsos o supuestos relativos a un nacimiento; usurpe la filiación legítima de un
+18 menor de edad, o declare falsamente el fallecimiento de un recién nacido,
+19 SECCIÓN CUARTA – Delitos Contra la Persona
+20 Artículo 355. – Revelación y Transmisión Ilegal de Base de Datos.
+21 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+22 que, en provecho propio o de un tercero, revele información registrada, contenida en ficheros,
+
+35
+1 archivos, bases de datos o medios análogos, a través de o dirigidas a un sistema electrónico,
+2 informático, telemático o de telecomunicaciones; materializando voluntaria e intencionalmente
+3 la violación del secreto, la intimidad y la privacidad de las personas,
+4 Artículo 356. – Revelación y Transmisión Ilegal de Base de Datos Agravado.
+5 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+6 que, cometa el delito de revelación y transmisión ilegal de base de datos descrito en el Articulo
+7 358, cuando se cometiere por un funcionario público, empleadas o empleados bancarios internos
+8 o de instituciones de la economía popular y solidaria que realicen intermediación financiera o
+9 contratistas. Además, se impondrá destitución inmediata del cargo público e inhabilitación por
+10 término de cuatro (4) a diez (10) años para desempeñarse en cualquier empleo, puesto o cargo
+11 público, contados a partir del cumplimiento de la pena de reclusión.
+12 Artículo 357. – Publicidad o Comercio de Personas, Órganos, Servicios o Bienes
+13 Ilícitos.
+14 Será sancionada con pena de reclusión por un término fijo de quince (15) años toda
+15 persona que, por cualquier medio que involucre el uso de las tecnologías de la información y la
+16 comunicación, promueva, favorezca, facilite o publique la oferta, la obtención o el tráfico ilegal
+17 de órganos y tejidos humanos o el trasplante de los mismos, o se beneficie económicamente de
+18 la explotación de una persona mediante el comercio, distribución, exposición, circularización u
+19 oferta de libros, revistas, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes
+20 u objetos, de carácter lascivo o sexual, reales, o simulados, sea de manera física, o a través de
+21 cualquier medio.
+
+36
+1 Artículo 358. – Propalación o Venganza Pornográfica.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 quien, hallándose legítimamente en posesión de una comunicación, documentos o grabación de
+4 carácter privado, los haga públicos, difunda, revele o ceda a un tercero, sin la debida
+5 autorización de la víctima, aunque le hayan sido dirigidos.
+6 Además, será sancionada con pena de reclusión por un término fijo de cinco (5) años
+7 cuando se trate de documentos divulgados por internet, o grabaciones, imágenes,
+8 comunicaciones o documentos hechos públicos de contenido explícito de carácter íntimo, sexual
+9 o erótico, aunque hayan sido obtenidos con el consentimiento.
+10 Artículo 359. – Acecho, Hostigamiento, Intimidación o “Cyber-Bulling”.
+11 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+12 que, mediante el uso de cualquier comunicación electrónica oral, escrita, visual o textual, o
+13 utilizando dispositivo tecnológico para determinar o monitorear la localización o movimiento
+14 de una persona, realice conducta destinada a acosar, molestar, intimidar o afligir a otra persona
+15 o a un grupo de personas, ocasionando daño a la integridad física, mental o emocional o
+16 patrimonial de la víctima.
+17 Artículo 360. – Intimidación o Amenazas.
+18 Será sancionada con pena de reclusión por un término fijo de un (1) año toda persona
+19 que, mediante expresiones verbales, escritos, mensajes electrónicos o cualquier otro medio
+20 intimide o amenace a una persona con la que se halle o hubiere estado ligado por relación de
+21 consanguinidad, afinidad, sujeción a tutela, vínculo conyugal, convivencia en unión de hecho
+
+37
+1 estable, noviazgo, o relación de afectividad; con amenaza de causarle daño grave y probable de
+2 naturaleza física, psicológica, sexual, laboral o patrimonial.
+3 Artículo 361. – Calumnia o Injuria.
+4 Será sancionada con pena de reclusión por un término fijo de dos (2) años toda persona
+5 que, impute falsamente a otra la comisión o participación en un delito concreto. Si la calumnia
+6 se propagara con publicidad, será sancionada con pena de reclusión por un término fijo de tres
+7 (3) años.
+8 Artículo 362 – Difamación.
+9 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+10 que difame a través de medios electrónicos, informáticos, telemáticos, de telecomunicaciones o
+11 audiovisuales.
+12 Artículo 363. – Extorsión Informática “Ransomware”.
+13 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+14 que, para procurar un lucro, obligue a otra con intimidación o amenazas graves, a tomar una
+15 disposición patrimonial perjudicial para sí misma o para un tercero.
+16 La pena de reclusión será por un término fijo de ocho (8) años cuando la conducta se
+17 ejecute valiéndose de cualquier manipulación informática, telemática, electrónica o tecnológica.
+18 SECCIÓN QUINTA – Delitos Económicos y Colectivos
+19 Artículo 364. – Clonación o Uso Fraudulento de Tarjetas de Crédito o Debito.
+20 Constituyen delito de uso fraudulento de tarjeta de crédito o débito las siguientes
+21 conductas:
+22 a) falsificar tarjetas de crédito o débito;
+
+38
+1 b) usar, vender, exportar, importar o distribuir tarjetas de crédito o débito falsificadas
+2 o sustraídas;
+3 c) negociar, en cualquier forma, con tarjetas de crédito o débito falsificadas o
+4 sustraídas;
+5 d) usar, vender, exportar, importar o distribuir los datos o el número de una tarjeta de
+6 crédito o débito, posibilitando que terceros realicen operaciones de compra o de
+7 acceso al crédito o al débito que corresponden exclusivamente al titular;
+8 e) negociar, en cualquier forma, con datos o números de tarjeta de crédito o débito, para
+9 las operaciones descritas en el inciso anterior; o
+10 f) usar maliciosamente una tarjeta bloqueada, en cualquiera de las modalidades
+11 señaladas en los incisos precedentes.
+12 Toda persona que cometa cualquiera de tales conductas será sancionada con pena de
+13 reclusión por un término fijo de ocho (8) años.
+14 Artículo 365. – Estafa Informática.
+15 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+16 que, en perjuicio de una persona natural o jurídica, manipule o influya en el ingreso,
+17 procesamiento o resultado de datos en un sistema automatizado de información, ya sea mediante
+18 el uso de datos falsos o incompletos, uso indebido de datos, programación, valiéndose de alguna
+19 operación informática o artificio tecnológico, o cualquier otra acción que incida en el
+20 procesamiento de los datos del sistema o que produzca información falsa, incompleta o
+21 fraudulenta, con el propósito de procurar u obtener beneficio patrimonial o indebido para sí o
+22 para un tercero.
+
+39
+1 La pena será de cinco (5) años de reclusión cuando las conductas sean perpetradas
+2 contra sistemas de información públicos, sistemas de información bancarios y de entidades
+3 financieras, o cuando el autor sea empleado encargado de administrar o brindar soporte técnico
+4 al sistema o red informática o telemática, o que debido a sus funciones tenga acceso a dicho
+5 sistema o red, o a los contenedores electrónicos, ópticos o magnéticos.
+6 Será sancionada con pena de reclusión por un término fijo de siete (7) años la persona
+7 que, para obtener beneficio patrimonial para sí misma o para un tercero, mediante simulación
+8 de hechos falsos o deformación u ocultamiento de hechos verdaderos, induzca a error a otra, con
+9 el fin de que realice un acto que perjudique su patrimonio o el de un tercero.
+10 Será sancionada con pena de reclusión por un término fijo de diez (10) años toda persona
+11 que, defraude mediante el uso de dispositivos electrónicos que alteren, modifiquen, clonen o
+12 dupliquen los dispositivos originales de cajero automático para capturar, almacenar, copias o
+13 reproducir información de tarjetas de crédito, débito, pago o similares.
+14 Artículo 366. – Transferencia Electrónica de Activo Patrimonial.
+15 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+16 que, con ánimo de lucro, altere, manipule o modifique el funcionamiento de programa o sistema
+17 informático, telemático o mensaje de datos, para procurarse la transferencia o apropiación no
+18 consentida de activo patrimonial de otra persona, en perjuicio de esta o de un tercero. Con igual
+19 pena, será sancionada la persona que facilite o proporcione datos de su cuenta bancaria con la
+20 intención de obtener, recibir o captar de forma ilegítima un activo patrimonial a través de
+21 transferencia electrónica producto de este delito para sí misma o para un tercero.
+
+40
+1 Artículo 367. – Apropiación Fraudulenta por Medios Electrónicos.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 que utilice fraudulentamente un sistema informático o redes electrónicas y de
+4 telecomunicaciones para facilitar la apropiación de bien ajeno, o que procure la transferencia no
+5 consentida de bienes, valores o derechos en perjuicio de esta o de una tercera, en beneficio suyo
+6 o de otra persona, alterando, manipulando o modificando el funcionamiento de redes
+7 electrónicas, programas, sistemas informáticos, telemáticos y equipos terminales de
+8 telecomunicaciones,.
+9 Además, será sancionada con pena de reclusión por un término fijo de cinco (5) años,
+10 cuando el delito se cometa utilizando sistemas de alarma o guarda, descubrimiento o descifrado
+11 de claves secretas o encriptadas, tarjetas magnéticas o perforadas, controles o instrumentos de
+12 apertura a distancia, o violación de seguridades electrónicas, informáticas u otras análogas.
+13 Artículo 368. – Difusión de Información Falsa.
+14 Será sancionada con pena de reclusión por un término fijo de seis (6) años toda persona
+15 que, a través de medios electrónicos, informáticos, o mediante un sistema de
+16 telecomunicaciones, propague o difunda noticias o hechos falsos capaces de distorsionar o
+17 causar perjuicio a la seguridad y estabilidad del sistema financiero o de sus usuarios.
+18 Artículo 369. – Pánico Económico o Financiero.
+19 Será sancionada con pena de reclusión por un término fijo de siete (7) años toda persona
+20 que publique, difunda o divulgue noticias falsas susceptibles de causar daño a la economía
+21 nacional, con el propósito de alterar los precios de bienes o servicios para beneficiar a un sector,
+22 mercado o producto específico.
+
+41
+1 Será sancionada con pena de reclusión por un término fijo de diez (10) años quien
+2 divulgue noticias falsas capaz de causar alarma en la población y provoque el retiro masivo de
+3 depósitos de cualquier institución del sistema financiero y de las entidades de la economía
+4 popular y solidaria que realicen intermediación financiera, cuando tales actos pongan en peligro
+5 la estabilidad patrimonial o provoquen el cierre definitivo de la institución afectada.
+6 Artículo 370. – Registros Prohibidos.
+7 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+8 que, sin autorización, promueva, facilite, autorice, financie, cree o comercialice un banco de
+9 datos o registro informático que contenga datos susceptibles de afectar a personas naturales o
+10 jurídicas.
+11 Artículo 371. – Divulgación de Información Financiera Reservada.
+12 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+13 que, en beneficio propio o de terceros, divulgue información financiera clasificada como
+14 reservada por la autoridad competente en materia de finanzas públicas, cuando tal divulgación
+15 genere condiciones económicas desfavorables para el Estado.
+16 Artículo 372. – Transferencia de Activos.
+17 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+18 que, con ánimo de lucro y valiéndose de alguna manipulación informática o artificio semejante,
+19 consiga la transferencia no consentida de cualquier activo en perjuicio de un tercero.
+20 La misma sanción se le impondrá a quien fabrique, introduzca, posea o facilite programa
+21 de computador destinado a la comisión del delito descrito en el párrafo anterior, o de una estafa.
+
+42
+1 Artículo 373. – Sabotaje al Sistema Financiero.
+2 Será sancionada con pena de reclusión por un término fijo de tres (3) años toda persona
+3 que, sin autorización modifique, destruya o provoque pérdida de información contenida en
+4 sistemas o equipos de informática de instituciones integrantes del sistema financiero, siempre
+5 que tales sistemas se encuentren protegidos por algún mecanismo de seguridad.
+6 Será sancionada con pena de reclusión por un término fijo de cinco (5) años quien, sin
+7 autorización legal, acceda, conozca o copie información contenida en sistemas o equipos de
+8 informática de las instituciones integrantes del sistema financiero, siempre que tales sistemas
+9 se encuentren protegidos por algún mecanismo de seguridad.
+10 Artículo 374. – Delitos Contra la Autoridad.
+11 Será sancionada con pena de reclusión por un término fijo de ocho (8) años toda persona
+12 natural o el representante de la persona jurídica que, siendo requerido por el Ministerio Público
+13 o por autoridad competente, se rehusare con dolo a colaborar o aportar información para la
+14 localización geográfica en tiempo real de los dispositivos de comunicación, conforme a las
+15 disposiciones de las leyes federales o estatales aplicables, cuando tales dispositivos estén
+16 relacionados con investigaciones en materia de delincuencia organizada, delitos contra la salud,
+17 secuestro, extorsión, amenazas u otros delitos de igual gravedad.
+18 La misma sanción se aplicarán a la persona natural, o al representante de la persona
+19 jurídica que, de forma dolosa, obstaculice, retrase sin justa causa o se rehusé a colaborar en la
+20 intervención de comunicaciones privadas, o a proporcionar información a la cual estén
+21 obligados, conforme a la legislación aplicable.
+
+43
+1 SECCIÓN SEXTA– Delitos Contra la Prueba Documental
+2 Artículo 375. – Destrucción o Daño a Documentos o Señales.
+3 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+4 que, con la intención de perjudicar a otro:
+5 a) destruyera, dañara, ocultara o de otra forma suprimiera un documento o una
+6 certificación técnica, en contravención del derecho de otro a utilizarlo como prueba;
+7 b) borrara, suprimiera, inutilizara o alterara, en contravención del derecho de
+8 disposición de otro, información o dato de relevancia probatoria; o
+9 c) destruyera o de otra forma suprimiera señales destinadas a indicar un límite o la
+10 altura de las aguas.
+11 Artículo 376. – Falsificación de Medios Electrónicos de Pago.
+12 Será sancionada con pena de reclusión por un término fijo de cinco (5) años toda persona
+13 que, persiguiendo la intención de inducir error en las relaciones jurídicas o de facilitar tal
+14 inducción:
+15 a) falsificare o alterare una tarjeta de crédito o débito u otro medio electrónico de pago;
+16 o
+17 b) adquiera para sí o para un tercero, ofreciere, entregare a otro o utilizare tales tarjetas
+18 o medios electrónicos.
+19 Cuando el autor actuare comercialmente o como miembro de una organización criminal
+20 dedicada a la realización de los hechos punibles, será sancionada con pena de reclusión por un
+21 término fijo de siete (7) años.”
+
+44
+1 Sección 2.- Se reenumera el Título VI como Título VII, y los actuales Artículos 301,
+2 302, 303, 304, 305, 306, 307, 308 y 309 como los Artículos 377, 378, 379, 380, 381, 382,
+3 383, 384 y 385 de la Ley 146-2012, según enmendada, conocida como “Código Penal
+4 de Puerto Rico”.
+5 Sección 3.- Aplicabilidad.
+6 Esta Ley será aplicable a toda conducta perpetrada con posterioridad a su entrada
+7 en vigor. La conducta perpetrada con anterioridad a la entrada en vigor de esta Ley
+8 continuará rigiéndose por las disposiciones legales vigentes al momento de su
+9 comisión.
+10 Sección 4.- Clausula de Separabilidad.
+11 Si cualquier artículo, inciso, parte, párrafo o cláusula de este Código o su aplicación
+12 a cualquier persona o circunstancia, es declarada inconstitucional por un tribunal, la
+13 sentencia dictada no afectará ni invalidará las demás disposiciones, sino que su efecto
+14 quedará limitado y será extensivo al artículo, inciso, parte, párrafo o cláusula, o su
+15 aplicación, que haya sido declarada inconstitucional.
+16 Sección 5. - Delitos no Incorporados.
+17 La incorporación en el Código Penal, por virtud de esta Ley, de ciertos delitos o
+18 disposiciones contemplados en leyes especiales, no constituirá causa de derogación de
+19 tales leyes especiales, ni tampoco de aquellos delitos tipificados en leyes especiales
+20 cuya incorporación al Código Penal no se hubiere efectuado mediante esta Ley.
+
+45
+1 Sección 6.- Vigencia.
+2 Esta Ley comenzará a regir a partir de los ciento ochenta (180) días de su
+3 aprobación.
+
+[DELETED: 0 A         3 .rL   3 y 3 d l L N 1 s e c c v p y s d t l m d n s E p p c y r l i d l a c d l i q p a e c e E a s c c s p e e m m u e q u p e]
+[DELETED:  f d l p e u p c q o a l A t t d c d s y m d s d m q s r e p d l E a a t l c h s l e n p l a m c p p c “ “]
+[DELETED:  t a c a a p q d y9, q e v d s 1 m d c a c p s M A v d M y R a n e s p d l p a A S .l]
+[DELETED:  a c c d m m l L p p l c c p s c y c]
+[DELETED:  f j p c a l d o p e T i l p e p d E y d l i l f t d e d l r p s m m l e c e n C q e c j q l i p p “ t a d l s l f o e p l o d r e “ C]
+[DELETED:  S.“”P  “, s a l r i y e a a a l o q n e c.“ , a s.“ I , s e c l i d l p d t.“ a l I d S , s e c t o d e i d f d u s i m l i i.“ I  s e t r d h i o c i u p c d p q u s i r u f.“ , s i o t q p p o i a o l d o l]
+[DELETED:  v c c p o g d p p r d r c a.“ , e s p.“   s e a)r a b)s a d f r t e e e p c c)r r d)i b e)c e a]
+[DELETED: .“ I o P , s e c l i a b o s d e i d d i q g l c a c l i d q l d s l e i.“ I o C , s e c c p f d.“ , a)a c c y m d a d d i b)c c)m d)s s e)i f)i e.“ , i l]
+[DELETED:  m p.“ , s e e o c l a v y c d c c d d i y s p m a m d.“ c D , s e c u p d o i a a)d b)h c)o d)o d e)d m E u.“ I , s e c l o o i d e i p m t d d i e t n p d]
+[DELETED:  d d m i l e e p d u s.“ , r p u o m i e o d o c r f r g o c r o o v t o r d e m A u a)a f b)r c)c L p d s d d o e q e d p g c d q]
+[DELETED:  E d e d a C d l a s I a c m d a p o f i.“   a a g." d A d D I , s e c t a d.“ I , s e c t p q i s a p o.“ ,]
+[DELETED:  a)c b)c c)c d)i t d b d a o s d i.“ , d e d E.“ M o M” ,s e c a p c d.“ , q s e p e e y r d i m u r c l p.“ , u s d t e d d m e a d l i.“ , a]
+[DELETED:  c n.“ , r p.“ , e c a a p e a t d t d l i p.“ , a i o r q e d c c u p.“ , u e SA . E o a a u s i o s t o d t o a s c c g]
+[DELETED:  E a)M f a o a s s d n e l I y l m o “ q e u a o d h r e l c b)R p a t p h d p d l “ v p e u a y c d a s r e d d d d o i c)P a p d q s o h s i s l h i d)R i d f e q l c u o u s]
+[DELETED:  e)I s  C d d a i r l s o l m d d i c c  T e c r r  S q p e E p]
+[DELETED:  T p q s a o e u a d d b o d d p p S q d s S s f  S q a]
+[DELETED:  d l d a e c e p d e i e a l m l s T c o t d d o v e t o e p l d c e u s d i t o d t o d s c p o n c u m d s o e p d u t s p L p q r c p e d d e e p a s s d  S q c c i p c r p t o p d p n]
+[DELETED:   T q c s t s  S q e l p p r p l a c E t b i C e d d e e p a s p p u f p A c c 3 – I o P d P I T c]
+[DELETED:  t p o n c m d s s s c p d r p u t 3 – I O P D P I S q A a)I o r i o t o e l c e ó o m b)S i l c e p d c e m i p l p c)P p p i m i a o p a d a o a a s d i q f l i d p d)D p i d p l c d p i e)O c o b s d d d s e d c m]
+[DELETED:    e a)E b f c d a y c a s b)E c)S d d)S I d p r a d a p b e)S s f)P u S q o i i d s d c p a r p S q]
+[DELETED:  i c S q s e f p e d d t v e p o s S q p b p o d u t c e d d s d p e d i p S q i S q o]
+[DELETED:  T c a S p d d e S q 3 d T d ( 3 – M d E d L y V S q]
+[DELETED:  A 3 c s c p u f p A s i d a c T i d i d e t m s s c p d r C S S q p s S q p s e s o l d o o i p s i  o c]
+[DELETED:  o m S p p s e c c f s r o s c e o d p m m v g a g f f e o d b C e l p d l c d e e p a s h u d r a c v d l v p r l p p e e p a s a  T f d h p o p e u c s e]
+[DELETED:  p é d 3 – F P D o R d T p c i e d o e l d d m p i d e s s c p d r p u t f d d ( a S e e t r d é d a a e o s e o i o f T p r s]
+[DELETED:  S p 3 L p s a d u t p a l m c e r s i a T m a u p a q s s u p m d e r a s o p 3 – T A o P d M P d T i e u d l t d l i y l c o p m p i ( ]
+[DELETED:  S q m r p o S s c p d r p u f d t ( a e q m e T p q d c m f e b p o a l c d e i e d o a o f d r d u o m p m d e o i s s 3 – C d P c M d E o T p q p c p p t d a i e o v p c m p u p o p i]
+[DELETED:  p d T t r S p p q c o C e S e t o l d d t m o a o o d p b S S q]
+[DELETED:  d a S q p i p t d c ( a d ( a p d e c e S q s c l o a d l e l c u s e r 3 – A I a C o C d S p a)o o a d l s o i d t d l r q t]
+[DELETED:  b)m i i o i u s d t c)i d d)d d m p o p c c o p i 3 – A I a C o C d S q y u d s s A i d d T p s o p t e a a d m d o p n d a é y]
+[DELETED:  e p S q p i p t d c ( a d ( a p d e c e S q 3 d S q d u s i o l e e p d u s i a)e c s d]
+[DELETED:  b)d d v e p o e m c d s s d r d n d d d u s f o p e u o s p o d c d m q i a u p a c)a b c d)p o d a S q e m d t d l i y l c i l e e 3 – O y T d I C d S q]
+[DELETED:  y u f p A s i d i d c p e i p t d c ( a d ( a p d e c e S q i a i o p c o m t c d c o S q s c c e c o l a l a i e r y v o p i c e s i c p S q c e d d e i “ d e e A 3 c o]
+[DELETED:  S q 3 t a)l b)l S S q i i a a o s l i d l d d i p p t d i “ I l d c o e c o d S q c m S q]
+[DELETED:  a i l S q 3 o c t p S p c d l o u c]
+[DELETED:  S q c p l h p d r o c a u t s l d a A c s t d d d p i o g i c o S q u d o a u g d p o d a l i f m o e o p S q m e v e m e o c o m i c]
+[DELETED:  e n S q s ( S q a S q d L e S C d d u f d t d c o d l s c a)f]
+[DELETED:  b)u o c)n e c f c t d c o d f o s d)u c o d p q t r o d c o d a e)n l f)u m u t b e c d l m s T r S q e p d u p n o j m o i e e i p e o i o a t o c o a q i e e p d l d d s o q p i f i o f p]
+[DELETED:  L c f a s S q d e S q d r S q i c p i t]
+[DELETED:  S q u f u s i o r e y d t c o d o p a m o m e f d r e p s i t y e t d t A c d a S q a t d m e i o m u s d t p o d n o h f c d d o c S q n m]
+[DELETED:  S d d p l S q d j S q e b p o d t d i f c c r g S q c L d]
+[DELETED:  S q s q S a i s S n o l g e t r d l d d c c a l d d l l f o e a c t d e r s L j i d c p o a p i a l c e o]
+[DELETED:  S S q a)d d o o d o f s u d o u c b)b s i o a e c d d d d c)d a S q i a)f o b)a o C d t]
+[DELETED:  r p l d l v a m d s]
+[DELETED:  L c a r a p d l c o ( d d s]
