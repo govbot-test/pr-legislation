@@ -1,0 +1,412 @@
+Title: Para crear la “Ley del Registro de Personas Convictas Reincidentes por Violaciones a la
+Official Title: Para crear la “Ley del Registro de Personas Convictas Reincidentes por Violaciones a la
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1127
+9 de marzo de 2026
+Presentada por el señor Reyes Berríos
+Referida a
+LEY
+Ley Núm. 54-1989”, con el propósito de establecer un registro oficial de personas
+que hayan sido convictas en dos (2) o más ocasiones por delitos tipificados en la
+Ley Núm. 54-1989, según enmendada, conocida como la “Ley para la Prevención
+e Intervención con la Violencia Doméstica”; establecer un sistema de recopilación
+y monitoreo de información administrado por la Policía de Puerto Rico en
+coordinación con el Departamento de Justicia; crear un portal electrónico de acceso
+público limitado; disponer deberes de notificación y actualización de información;
+establecer el término de inscripción en el registro; fijar penalidades por
+incumplimiento; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La violencia doméstica constituye una de las formas más persistentes y complejas
+de violencia interpersonal en Puerto Rico. Desde la aprobación de la Ley Núm. 54-1989,
+según enmendada, conocida como la “Ley para la Prevención e Intervención con la
+Violencia Doméstica”, el Gobierno de Puerto Rico ha reconocido la necesidad de
+establecer mecanismos legales dirigidos a prevenir, intervenir y sancionar conductas de
+agresión dentro de relaciones de pareja o en el entorno familiar. Esta legislación marcó
+un cambio significativo en el tratamiento jurídico de la violencia doméstica al reconocerla
+como un fenómeno social que requiere respuestas penales, civiles y preventivas
+integradas.
+Durante las últimas décadas, el sistema de justicia criminal ha desarrollado
+herramientas dirigidas a atender este problema, incluyendo órdenes de protección,
+1
+protocolos especializados de intervención policial, programas de tratamiento para
+ofensores y medidas de protección para las víctimas. No obstante, la experiencia
+acumulada en la implementación de la Ley Núm. 54-1989 demuestra que uno de los
+factores de mayor riesgo en los casos de violencia doméstica es la reincidencia. La
+repetición de conductas violentas dentro de relaciones íntimas no solo agrava el riesgo
+para las víctimas, sino que también representa un desafío significativo para las agencias
+encargadas de la seguridad pública y la administración de la justicia.
+En el ordenamiento jurídico vigente no existe un registro específico que permita
+identificar de forma uniforme a las personas que han sido convictas en múltiples
+ocasiones por violaciones a la Ley Núm. 54-1989. Aunque las agencias del sistema de
+justicia mantienen expedientes y bases de datos individuales, la ausencia de un
+mecanismo consolidado que permita identificar de forma inmediata patrones de
+reincidencia limita la capacidad del Estado para fortalecer las estrategias de prevención,
+coordinación interagencial y evaluación de riesgo.
+La creación de un Registro de Personas Convictas Reincidentes por Violaciones a
+la Ley Núm. 54-1989 responde a la necesidad de desarrollar una herramienta adicional
+de política pública dirigida a identificar y monitorear aquellos casos en los que se ha
+demostrado un patrón reiterado de conducta violenta. Este registro permitirá a las
+agencias del orden público y a las instituciones del sistema de justicia contar con
+información consolidada y actualizada sobre personas que han sido convictas en dos o
+más ocasiones por delitos de violencia doméstica, facilitando así la coordinación de
+esfuerzos para la prevención de nuevos incidentes y la protección de posibles víctimas.
+La viabilidad de este tipo de instrumento también encuentra apoyo en desarrollos
+recientes en otras jurisdicciones de los Estados Unidos de América. En 2025, el estado de
+Tennessee aprobó legislación conocida como Savanna’s Law, mediante la cual se creó un
+registro de ofensores persistentes de violencia doméstica administrado por el Tennessee
+Bureau of Investigation y disponible para consulta pública a través de Internet. Ese
+modelo reconoce la utilidad de mantener un registro especializado para ofensores
+reincidentes y, a la vez, delimita la información accesible al público, excluyendo
+2
+direcciones exactas y otros datos sensitivos. La experiencia comparada demuestra, por
+tanto, que la creación de un registro de esta naturaleza puede articularse de forma
+compatible con objetivos de seguridad pública, prevención y protección, sin autorizar
+una divulgación irrestricta de información personal.
+Esta Asamblea Legislativa reconoce que la recopilación y manejo de información
+de naturaleza penal debe realizarse con el mayor respeto a los derechos constitucionales
+y a las garantías de debido proceso de ley. Por ello, esta legislación limita la inclusión en
+el registro a aquellas personas que hayan sido convictas mediante sentencia final y firme
+en dos o más ocasiones por delitos tipificados en la Ley Núm. 54-1989. Asimismo,
+establece que la información disponible al público será estrictamente limitada a datos
+básicos de identificación, tales como el nombre, fotografía y municipio de residencia de
+la persona registrada, mientras que la información completa del registro estará disponible
+únicamente para las agencias del orden público y las entidades gubernamentales
+autorizadas.
+De igual forma, esta legislación reconoce la importancia de promover la
+reintegración social de las personas que han cumplido con las sanciones impuestas por el
+sistema de justicia. En atención a ese principio, el registro tendrá una duración limitada.
+Toda persona inscrita permanecerá en el registro por un término de veinticuatro meses
+luego de haber cumplido en su totalidad la sentencia impuesta por el tribunal, incluyendo
+cualquier término de reclusión, probatoria, libertad supervisada u otra condición judicial
+aplicable. Transcurrido dicho término, la persona será removida automáticamente del
+registro y del portal de acceso público.
+La creación de este registro también responde al interés de promover mayor
+transparencia y acceso a información relevante para la seguridad pública, mediante la
+creación de un portal electrónico administrado por la Policía de Puerto Rico. Dicho portal
+permitirá a la ciudadanía consultar información básica sobre ofensores reincidentes por
+violencia doméstica, dentro de parámetros cuidadosamente delimitados para evitar la
+divulgación de información sensitiva o datos que puedan poner en riesgo a las víctimas.
+3
+La Asamblea Legislativa de Puerto Rico entiende que esta medida constituye un
+paso adicional en el fortalecimiento de la política pública dirigida a combatir la violencia
+doméstica, proteger a las víctimas y dotar a las agencias del orden público de
+herramientas adicionales para la prevención de conductas violentas dentro de relaciones
+íntimas. Mediante la creación de este registro, el Gobierno de Puerto Rico reafirma su
+compromiso con la seguridad de las familias, la prevención de la reincidencia y la
+promoción de una sociedad libre de violencia doméstica.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. Título
+2 Esta Ley se conocerá y podrá citarse como la “Ley del Registro de Personas
+3 Convictas Reincidentes por Violaciones a la Ley Núm. 54-1989”.
+4 Artículo 2. Definiciones
+5 Para fines de esta Ley, los siguientes términos tendrán el significado que a
+6 continuación se dispone:
+7 a) Persona registrada — Toda persona que haya sido declarada culpable mediante
+8 sentencia final y firme en dos (2) o más ocasiones por delitos tipificados en la Ley Núm.
+9 54-1989, según enmendada.
+10 b) Registro — El Registro de Personas Convictas Reincidentes por Violaciones a la
+11 Ley Núm. 54-1989 creado mediante esta Ley.
+12 c) Portal electrónico de acceso público — Plataforma digital oficial administrada
+13 por la Policía de Puerto Rico mediante la cual la ciudadanía podrá consultar información
+14 limitada del registro conforme a lo dispuesto en esta Ley.
+4
+1 d) Ley Núm. 54-1989 — La Ley para la Prevención e Intervención con la Violencia
+2 Doméstica, según enmendada.
+3 Artículo 3. Creación del Registro
+4 Se crea el Registro de Personas Convictas Reincidentes por Violaciones a la Ley
+5 Núm. 54-1989, el cual será administrado por la Policía de Puerto Rico.
+6 El registro consistirá en una base de datos oficial que contendrá información sobre
+7 toda persona registrada conforme a esta Ley.
+8 Artículo 4. Inclusión en el Registro
+9 Toda persona que haya sido convicta mediante sentencia final y firme en dos (2) o
+10 más ocasiones por delitos tipificados en la Ley Núm. 54-1989 será incluida en el Registro.
+11 La inclusión en el registro se efectuará una vez la segunda convicción advenga final y
+12 firme.
+13 Artículo 5. Información a ser recopilada
+14 El registro incluirá, entre otros, los siguientes datos correspondientes a la persona
+15 registrada:
+16 a) nombre completo
+17 b) fecha de nacimiento
+18 c) fotografía
+19 i. La fotografía se actualizará cada 18 meses
+20 d) dirección residencial
+21 e) municipio de residencia
+22 f) descripción física
+5
+1 g) información del delito por el cual fue convicta
+2 h) fecha de convicción
+3 i)tribunal que emitió la sentencia
+4 j) cualquier otra información que la Policía de Puerto Rico estime necesaria para
+5 fines de identificación y monitoreo
+6 La totalidad de la información recopilada será accesible únicamente para las
+7 agencias del orden público, el Departamento de Justicia, los tribunales y otras agencias
+8 gubernamentales autorizadas mediante la reglamentación adoptada.
+9 Artículo 6. Deber de notificación y actualización
+10 Toda persona inscrita en el Registro tendrá la obligación de mantener actualizada
+11 su dirección residencial y cualquier cambio relevante de información personal ante la
+12 Policía de Puerto Rico.
+13 Dicha actualización deberá realizarse dentro de un término no mayor de diez (10)
+14 días laborables desde que ocurra el cambio.
+15 Artículo 7. Portal electrónico de acceso público
+16 La Policía de Puerto Rico deberá crear y mantener un portal electrónico oficial de
+17 acceso público mediante el cual la ciudadanía pueda consultar información limitada del
+18 Registro.
+19 El portal electrónico de acceso público únicamente podrá divulgar la siguiente
+20 información de cada persona registrada:
+21 a) nombre completo
+22 b) fotografía
+6
+1 c) municipio de residencia
+2 d) delito cometido
+3 Ninguna otra información contenida en el Registro podrá divulgarse al público.
+4 Artículo 8. Término de inscripción en el Registro
+5 Toda persona incluida en el Registro permanecerá inscrita durante un término de
+6 veinticuatro (24) meses contados a partir de la fecha en que haya cumplido en su totalidad
+7 la sentencia impuesta por el tribunal, incluyendo cualquier término de reclusión,
+8 probatoria, libertad supervisada u otra condición judicial.
+9 Transcurrido dicho término, la Policía de Puerto Rico procederá a remover
+10 automáticamente a la persona del Registro y del portal electrónico de acceso público.
+11 Artículo 9. Penalidades por incumplimiento
+12 Toda persona inscrita en el Registro que incumpla con el deber de notificación o
+13 actualización de información dispuesto en esta Ley incurrirá en delito menos grave y, de
+14 ser convicta, será sancionada conforme a lo dispuesto en el Código Penal de Puerto Rico.
+15 Artículo 10. Reglamentación
+16 La Policía de Puerto Rico, en coordinación con el Departamento de Justicia,
+17 adoptará la reglamentación necesaria para la implantación, administración y fiscalización
+18 del Registro y del portal electrónico dentro de un término no mayor de ciento ochenta
+19 (180) días desde la aprobación de esta Ley.
+20 Artículo 11. Separabilidad
+7
+1 Si cualquier artículo, inciso, párrafo o parte de esta Ley fuese declarado
+2 inconstitucional por un tribunal con jurisdicción competente, la sentencia dictada a tal
+3 efecto no afectará ni invalidará el resto de sus disposiciones.
+4 Artículo 12. Vigencia
+5 Esta Ley entrará en vigor ciento ochenta (180) días después de su aprobación.
+8
+[DELETED:   A 3  arL   m d i a p l P d P R e e t d i e e r f p p e c c l “ p l P e I c l D e G d P R h r l n d u f s q r r p c y p l ú d e s d j c h d d a a e p i ó d p]
+[DELETED:  e d i p p d t p y m d p p l v N o l e d m r e l c d v d e l r L d f u a l p q h s c e m m e y b d d i l a d u c q p i d f i p d u p r d c v E r p a l d o p y a l i d s d j c c o p d d v d f a l c d o I y d p c p a t d I E r l u d m u r e p o y a l v d l i a a p e]
+[DELETED:  q l c d u r d e n p a d f d o m o p d t e l L N 5 A p l a d o p y l e g i f e l r l i d p l c d e r t r a i d p m]
+[DELETED:  p a l v y d a l a d o p d c l s d l f l p d l r y l L s c y p c c l “ d R d P f d e L l s t t e s q a]
+[DELETED:  i]
+[DELETED:  t d l i r s a ú p l]
+[DELETED:  s i p e t i c t d r d t l P d P R p a r P d P R e c c e D d J]
+[DELETED:  c a i p o p d e L f d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1127
+9 de marzo de 2026
+Presentada por el señor Reyes Berríos
+Referida a
+LEY
+Para crear la “Ley del Registro de Personas Convictas Reincidentes por Violaciones a la
+Ley Núm. 54-1989”, con el propósito de establecer un registro oficial de personas
+que hayan sido convictas en dos (2) o más ocasiones por delitos tipificados en la
+Ley Núm. 54-1989, según enmendada, conocida como la “Ley para la Prevención
+e Intervención con la Violencia Doméstica”; establecer un sistema de recopilación
+y monitoreo de información administrado por la Policía de Puerto Rico en
+coordinación con el Departamento de Justicia; crear un portal electrónico de acceso
+público limitado; disponer deberes de notificación y actualización de información;
+establecer el término de inscripción en el registro; fijar penalidades por
+incumplimiento; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La violencia doméstica constituye una de las formas más persistentes y complejas
+de violencia interpersonal en Puerto Rico. Desde la aprobación de la Ley Núm. 54-1989,
+según enmendada, conocida como la “Ley para la Prevención e Intervención con la
+Violencia Doméstica”, el Gobierno de Puerto Rico ha reconocido la necesidad de
+establecer mecanismos legales dirigidos a prevenir, intervenir y sancionar conductas de
+agresión dentro de relaciones de pareja o en el entorno familiar. Esta legislación marcó
+un cambio significativo en el tratamiento jurídico de la violencia doméstica al reconocerla
+como un fenómeno social que requiere respuestas penales, civiles y preventivas
+integradas.
+Durante las últimas décadas, el sistema de justicia criminal ha desarrollado
+herramientas dirigidas a atender este problema, incluyendo órdenes de protección,
+1
+
+protocolos especializados de intervención policial, programas de tratamiento para
+ofensores y medidas de protección para las víctimas. No obstante, la experiencia
+acumulada en la implementación de la Ley Núm. 54-1989 demuestra que uno de los
+factores de mayor riesgo en los casos de violencia doméstica es la reincidencia. La
+repetición de conductas violentas dentro de relaciones íntimas no solo agrava el riesgo
+para las víctimas, sino que también representa un desafío significativo para las agencias
+encargadas de la seguridad pública y la administración de la justicia.
+En el ordenamiento jurídico vigente no existe un registro específico que permita
+identificar de forma uniforme a las personas que han sido convictas en múltiples
+ocasiones por violaciones a la Ley Núm. 54-1989. Aunque las agencias del sistema de
+justicia mantienen expedientes y bases de datos individuales, la ausencia de un
+mecanismo consolidado que permita identificar de forma inmediata patrones de
+reincidencia limita la capacidad del Estado para fortalecer las estrategias de prevención,
+coordinación interagencial y evaluación de riesgo.
+La creación de un Registro de Personas Convictas Reincidentes por Violaciones a
+la Ley Núm. 54-1989 responde a la necesidad de desarrollar una herramienta adicional
+de política pública dirigida a identificar y monitorear aquellos casos en los que se ha
+demostrado un patrón reiterado de conducta violenta. Este registro permitirá a las
+agencias del orden público y a las instituciones del sistema de justicia contar con
+información consolidada y actualizada sobre personas que han sido convictas en dos o
+más ocasiones por delitos de violencia doméstica, facilitando así la coordinación de
+esfuerzos para la prevención de nuevos incidentes y la protección de posibles víctimas.
+La viabilidad de este tipo de instrumento también encuentra apoyo en desarrollos
+recientes en otras jurisdicciones de los Estados Unidos de América. En 2025, el estado de
+Tennessee aprobó legislación conocida como Savanna’s Law, mediante la cual se creó un
+registro de ofensores persistentes de violencia doméstica administrado por el Tennessee
+Bureau of Investigation y disponible para consulta pública a través de Internet. Ese
+modelo reconoce la utilidad de mantener un registro especializado para ofensores
+reincidentes y, a la vez, delimita la información accesible al público, excluyendo
+2
+
+direcciones exactas y otros datos sensitivos. La experiencia comparada demuestra, por
+tanto, que la creación de un registro de esta naturaleza puede articularse de forma
+compatible con objetivos de seguridad pública, prevención y protección, sin autorizar
+una divulgación irrestricta de información personal.
+Esta Asamblea Legislativa reconoce que la recopilación y manejo de información
+de naturaleza penal debe realizarse con el mayor respeto a los derechos constitucionales
+y a las garantías de debido proceso de ley. Por ello, esta legislación limita la inclusión en
+el registro a aquellas personas que hayan sido convictas mediante sentencia final y firme
+en dos o más ocasiones por delitos tipificados en la Ley Núm. 54-1989. Asimismo,
+establece que la información disponible al público será estrictamente limitada a datos
+básicos de identificación, tales como el nombre, fotografía y municipio de residencia de
+la persona registrada, mientras que la información completa del registro estará disponible
+únicamente para las agencias del orden público y las entidades gubernamentales
+autorizadas.
+De igual forma, esta legislación reconoce la importancia de promover la
+reintegración social de las personas que han cumplido con las sanciones impuestas por el
+sistema de justicia. En atención a ese principio, el registro tendrá una duración limitada.
+Toda persona inscrita permanecerá en el registro por un término de veinticuatro meses
+luego de haber cumplido en su totalidad la sentencia impuesta por el tribunal, incluyendo
+cualquier término de reclusión, probatoria, libertad supervisada u otra condición judicial
+aplicable. Transcurrido dicho término, la persona será removida automáticamente del
+registro y del portal de acceso público.
+La creación de este registro también responde al interés de promover mayor
+transparencia y acceso a información relevante para la seguridad pública, mediante la
+creación de un portal electrónico administrado por la Policía de Puerto Rico. Dicho portal
+permitirá a la ciudadanía consultar información básica sobre ofensores reincidentes por
+violencia doméstica, dentro de parámetros cuidadosamente delimitados para evitar la
+divulgación de información sensitiva o datos que puedan poner en riesgo a las víctimas.
+3
+
+La Asamblea Legislativa de Puerto Rico entiende que esta medida constituye un
+paso adicional en el fortalecimiento de la política pública dirigida a combatir la violencia
+doméstica, proteger a las víctimas y dotar a las agencias del orden público de
+herramientas adicionales para la prevención de conductas violentas dentro de relaciones
+íntimas. Mediante la creación de este registro, el Gobierno de Puerto Rico reafirma su
+compromiso con la seguridad de las familias, la prevención de la reincidencia y la
+promoción de una sociedad libre de violencia doméstica.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. Título
+2 Esta Ley se conocerá y podrá citarse como la “Ley del Registro de Personas
+3 Convictas Reincidentes por Violaciones a la Ley Núm. 54-1989”.
+4 Artículo 2. Definiciones
+5 Para fines de esta Ley, los siguientes términos tendrán el significado que a
+6 continuación se dispone:
+7 a) Persona registrada — Toda persona que haya sido declarada culpable mediante
+8 sentencia final y firme en dos (2) o más ocasiones por delitos tipificados en la Ley Núm.
+9 54-1989, según enmendada.
+10 b) Registro — El Registro de Personas Convictas Reincidentes por Violaciones a la
+11 Ley Núm. 54-1989 creado mediante esta Ley.
+12 c) Portal electrónico de acceso público — Plataforma digital oficial administrada
+13 por la Policía de Puerto Rico mediante la cual la ciudadanía podrá consultar información
+14 limitada del registro conforme a lo dispuesto en esta Ley.
+4
+
+1 d) Ley Núm. 54-1989 — La Ley para la Prevención e Intervención con la Violencia
+2 Doméstica, según enmendada.
+3 Artículo 3. Creación del Registro
+4 Se crea el Registro de Personas Convictas Reincidentes por Violaciones a la Ley
+5 Núm. 54-1989, el cual será administrado por la Policía de Puerto Rico.
+6 El registro consistirá en una base de datos oficial que contendrá información sobre
+7 toda persona registrada conforme a esta Ley.
+8 Artículo 4. Inclusión en el Registro
+9 Toda persona que haya sido convicta mediante sentencia final y firme en dos (2) o
+10 más ocasiones por delitos tipificados en la Ley Núm. 54-1989 será incluida en el Registro.
+11 La inclusión en el registro se efectuará una vez la segunda convicción advenga final y
+12 firme.
+13 Artículo 5. Información a ser recopilada
+14 El registro incluirá, entre otros, los siguientes datos correspondientes a la persona
+15 registrada:
+16 a) nombre completo
+17 b) fecha de nacimiento
+18 c) fotografía
+19 i. La fotografía se actualizará cada 18 meses
+20 d) dirección residencial
+21 e) municipio de residencia
+22 f) descripción física
+5
+
+1 g) información del delito por el cual fue convicta
+2 h) fecha de convicción
+3 i)tribunal que emitió la sentencia
+4 j) cualquier otra información que la Policía de Puerto Rico estime necesaria para
+5 fines de identificación y monitoreo
+6 La totalidad de la información recopilada será accesible únicamente para las
+7 agencias del orden público, el Departamento de Justicia, los tribunales y otras agencias
+8 gubernamentales autorizadas mediante la reglamentación adoptada.
+9 Artículo 6. Deber de notificación y actualización
+10 Toda persona inscrita en el Registro tendrá la obligación de mantener actualizada
+11 su dirección residencial y cualquier cambio relevante de información personal ante la
+12 Policía de Puerto Rico.
+13 Dicha actualización deberá realizarse dentro de un término no mayor de diez (10)
+14 días laborables desde que ocurra el cambio.
+15 Artículo 7. Portal electrónico de acceso público
+16 La Policía de Puerto Rico deberá crear y mantener un portal electrónico oficial de
+17 acceso público mediante el cual la ciudadanía pueda consultar información limitada del
+18 Registro.
+19 El portal electrónico de acceso público únicamente podrá divulgar la siguiente
+20 información de cada persona registrada:
+21 a) nombre completo
+22 b) fotografía
+6
+
+1 c) municipio de residencia
+2 d) delito cometido
+3 Ninguna otra información contenida en el Registro podrá divulgarse al público.
+4 Artículo 8. Término de inscripción en el Registro
+5 Toda persona incluida en el Registro permanecerá inscrita durante un término de
+6 veinticuatro (24) meses contados a partir de la fecha en que haya cumplido en su totalidad
+7 la sentencia impuesta por el tribunal, incluyendo cualquier término de reclusión,
+8 probatoria, libertad supervisada u otra condición judicial.
+9 Transcurrido dicho término, la Policía de Puerto Rico procederá a remover
+10 automáticamente a la persona del Registro y del portal electrónico de acceso público.
+11 Artículo 9. Penalidades por incumplimiento
+12 Toda persona inscrita en el Registro que incumpla con el deber de notificación o
+13 actualización de información dispuesto en esta Ley incurrirá en delito menos grave y, de
+14 ser convicta, será sancionada conforme a lo dispuesto en el Código Penal de Puerto Rico.
+15 Artículo 10. Reglamentación
+16 La Policía de Puerto Rico, en coordinación con el Departamento de Justicia,
+17 adoptará la reglamentación necesaria para la implantación, administración y fiscalización
+18 del Registro y del portal electrónico dentro de un término no mayor de ciento ochenta
+19 (180) días desde la aprobación de esta Ley.
+20 Artículo 11. Separabilidad
+7
+
+1 Si cualquier artículo, inciso, párrafo o parte de esta Ley fuese declarado
+2 inconstitucional por un tribunal con jurisdicción competente, la sentencia dictada a tal
+3 efecto no afectará ni invalidará el resto de sus disposiciones.
+4 Artículo 12. Vigencia
+5 Esta Ley entrará en vigor ciento ochenta (180) días después de su aprobación.
+8
+
+[DELETED:   A 3  arL   m d i a p l P d P R e e t d i e e r f p p e c c l “ p l P e I c l D e G d P R h r l n d u f s q r r p c y p l ú d e s d j c h d d a a e p i ó d p]
+[DELETED:  e d i p p d t p y m d p p l v N o l e d m r e l c d v d e l r L d f u a l p q h s c e m m e y b d d i l a d u c q p i d f i p d u p r d c v E r p a l d o p y a l i d s d j c c o p d d v d f a l c d o I y d p c p a t d I E r l u d m u r e p o y a l v d l i a a p e]
+[DELETED:  q l c d u r d e n p a d f d o m o p d t e l L N 5 A p l a d o p y l e g i f e l r l i d p l c d e r t r a i d p m]
+[DELETED:  p a l v y d a l a d o p d c l s d l f l p d l r y l L s c y p c c l “ d R d P f d e L l s t t e s q a]
+[DELETED:  i]
+[DELETED:  t d l i r s a ú p l]
+[DELETED:  s i p e t i c t d r d t l P d P R p a r P d P R e c c e D d J]
+[DELETED:  c a i p o p d e L f d]

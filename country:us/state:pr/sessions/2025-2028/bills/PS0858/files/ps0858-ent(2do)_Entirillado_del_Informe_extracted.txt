@@ -1,0 +1,1492 @@
+Title: Para enmendar el Artículo 1.02, añadir nuevos incisos (k-1), (u-1), (u-2), (aa-1), (dd-1), (dd-2) y
+Official Title: Para enmendar el Artículo 1.02, añadir nuevos incisos (k-1), (u-1), (u-2), (aa-1), (dd-1), (dd-2) y
+Number of Sections: 2
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+ENTIRILLADO ELECTRÓNICO
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 858
+17 de noviembre de 2025
+Presentado por señor Ríos Santiago
+Referido a la Comisión de Salud
+LEY
+(nn-1) al Artículo 1.03, añadir un nuevo inciso (f) al Artículo 5.04, añadir un nuevo Artículo
+
+Section 2:
+5.11-A, enmendar el Artículo 5.16 y añadir un nuevo Artículo 5.18 de la Ley 247-2004, según
+enmendada, conocida como “Ley de Farmacia de Puerto Rico”, a los fines de establecer un
+marco regulatorio para los medicamentos compuestos de alto riesgo y las farmacias no
+residentes que permita la responsable protección salubrista de los pacientes localizados en
+Puerto Rico; sin imponer requisitos duplicativos a farmacias físicamente localizadas en la
+jurisdicción de Puerto Rico, debidamente licenciadas bajo la Ley 247-2004; establecer la “Ley
+para la Supervisión sobre Medicamentos Compuestos de Alto Riesgo”; requerir la
+publicación de informes bianuales por parte de la la Secretaría Auxiliar para la
+Regulación de la Salud Pública (SARPS) junto con la Oficina de Planificación y Desarrollo
+Reglamentación y Acreditación de Facilidades de Salud (SARAFS), y la Junta
+Examinadora de Farmacia sobre la supervisión de las prácticas de preparación de
+medicamentos compuestos; garantizar una mayor visibilidad sobre las acciones
+regulatorias para proteger a los pacientes de medicamentos preparados ilegalmente;
+y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La preparación ilegal de medicamentos compuestos representa un desafío
+creciente y de gran magnitud en Puerto Rico, que pone en riesgo la seguridad de los
+pacientes y la integridad del sistema de salud. Los ciudadanos merecen medicamentos
+2
+en los que puedan confiar, que sean seguros, efectivos y elaborados conforme a los más
+altos estándares de calidad establecidos por las regulaciones estatales y federales. Sin
+embargo, en los últimos años, se ha observado un aumento alarmante en la distribución
+de medicamentos compuestos sin la supervisión adecuada, lo que constituye una
+amenaza significativa para la salud pública. Este problema es particularmente
+pronunciado en el caso de los medicamentos GLP-1 utilizados para el tratamiento de la
+diabetes y la obesidad, aunque se extiende a otras clases de medicamentos, afectando a
+diversos sectores de la población.
+La preparación de medicamentos compuestos, cuando se realiza conforme a las
+normativas, es una práctica esencial que permite adaptar tratamientos a las necesidades
+específicas de los pacientes. No obstante, la proliferación de actividades de preparación
+ilegal, especialmente en entornos no regulados como spas médicos y clínicas de bienestar,
+ha generado evidenciado un vacío regulatorio que trasciende la mera supervisión del
+establecimiento físico o del profesional que realiza el procedimiento. El problema salubrista no
+radica únicamente en la práctica estética, sino en el manejo y administración de medicamentos
+compuestos cuya naturaleza requiere controles y supervisión especializada. Cuando estos
+productos son preparados sin receta individual previa, adquiridos como ingredientes farmacéuticos
+activos sin adecuada trazabilidad, o prescritos mediante evaluaciones insuficientes, se desdibuja la
+línea entre la composición farmacéutica legítima y la manufactura no regulada. Ello coloca al
+paciente en una posición de vulnerabilidad y dificulta la intervención temprana del Estado ante
+eventos adversos o prácticas negligentes. en la supervisión de los entes reguladores. Estos
+establecimientos, que a menudo operan sin la fiscalización de la Secretaría Auxiliar para
+la Regulación de la Salud Pública Reglamentación y Acreditación de Facilidades de Salud
+(en adelante, SARPSSARAFS) y la Junta Examinadora de Farmacia en materia de
+medicamentos, representan puntos ciegos regulatorios. Los actores malintencionados
+aprovechan estas lagunas legales y de cumplimiento para producir y comercializar
+medicamentos no aprobados a una escala sin precedentes, exponiendo a los pacientes a
+riesgos graves, como la administración de productos ineficaces, contaminados o
+potencialmente peligrosos.
+3
+A esta realidad se suma el aumento en la dispensación y envío de medicamentos compuestos
+hacia Puerto Rico por parte de farmacias ubicadas fuera de la jurisdicción, comúnmente
+denominadas farmacias no residentes. Si bien estas entidades pueden estar autorizadas en sus
+estados de origen, su operación hacia pacientes en Puerto Rico plantea retos particulares de
+fiscalización, acceso a información regulatoria y capacidad de respuesta ante eventos adversos o
+incumplimientos. La ausencia histórica de un mecanismo uniforme de registro y supervisión local
+ha limitado la visibilidad de las autoridades regulatorias sobre el volumen, naturaleza y riesgos
+asociados a medicamentos compuestos que ingresan a la jurisdicción desde el exterior,
+especialmente aquellos clasificados como de alto riesgo.
+A lo anterior, se añade la limitada disponibilidad de información pública sobre las acciones
+de fiscalización que realizan las entidades reguladoras para atender esta problemática.
+Actualmente, no existe un mecanismo sistemático de recopilación y divulgación que permita
+conocer, entre otros aspectos, el número de farmacias no residentes que preparan o dispensan
+medicamentos compuestos para pacientes localizados en Puerto Rico, las inspecciones efectuadas,
+la naturaleza de las violaciones detectadas, las investigaciones iniciadas ni las medidas correctivas
+o disciplinarias impuestas. Esta insuficiencia de datos dificulta la evaluación objetiva de la
+efectividad del marco regulatorio vigente y limita la capacidad del Estado para asignar recursos y
+diseñar estrategias basadas en evidencia que fortalezcan la protección de los pacientes.
+La falta de transparencia sobre las acciones que los reguladores están tomando
+para abordar este problema agrava la situación. Actualmente, tanto los legisladores como
+el público general carecen de información clara y detallada sobre las medidas adoptadas
+por SARAFS y la Junta Examinadora de Farmacia para garantizar que la preparación de
+medicamentos se realice de manera segura y legal. Esta opacidad dificulta la evaluación
+de la efectividad de las políticas existentes y la identificación de las áreas donde se
+necesitan recursos adicionales o reformas regulatorias. Por ejemplo, no se conoce con
+precisión el número de inspecciones realizadas a instalaciones que manejan
+medicamentos preparados, ni la naturaleza de las violaciones detectadas, ni las acciones
+disciplinarias tomadas contra los infractores. Esta falta de datos también limita la
+4
+capacidad de los responsables de crear políticas para diseñar estrategias que protejan
+eficazmente a los pacientes.
+Además, el aumento en la comercialización de medicamentos preparados a través
+de prácticas engañosas, como la publicidad indebida en plataformas de telemedicina o
+telesalud, añade otra capa de complejidad al problema. Estas prácticas no solo confunden
+a los consumidores, sino que también socavan la confianza en el sistema de salud y en los
+profesionales que operan dentro de los marcos regulatorios establecidos. La ausencia de
+una coordinación efectiva entre las juntas reguladoras y otras agencias estatales,
+contribuye a la persistencia de estas actividades ilícitas.
+Esta Ley busca abordar estas deficiencias al establecer un mecanismo robusto de
+rendición de cuentas y transparencia. Mediante la exigencia de informes bianuales, se
+proporcionará a los legisladores, reguladores y al público una visión clara de las
+actividades de supervisión relacionadas con la preparación de medicamentos. Estos
+informes incluirán datos críticos sobre licencias emitidas, inspecciones realizadas,
+investigaciones abiertas, acciones disciplinarias tomadas y riesgos emergentes. Al
+hacerlo, la Ley no solo promoverá una mayor visibilidad sobre las acciones regulatorias,
+sino que también permitirá identificar las necesidades de recursos humanos y materiales
+de las juntas reguladoras, garantizando que estén adecuadamente equipadas para
+enfrentar los desafíos de la preparación de medicamentos de alto riesgo.
+Por todo lo cual, resulta imperativo enmendar la “Ley de Farmacia de Puerto Rico” para
+establecer un marco legal abarcador que regule y supervise específicamente los medicamentos
+compuestos de alto riesgo, independientemente del entorno en que se administren. Una legislación
+integral debe definir con claridad estos medicamentos, imponer requisitos de receta
+individualizada, asegurar la trazabilidad de los ingredientes activos, exigir notificación de eventos
+adversos y facultar a las autoridades sanitarias para fiscalizar su preparación y dispensación. Solo
+mediante un régimen normativo coherente y robusto podrá el Estado cumplir con su deber
+indelegable de proteger la salud pública, garantizar la seguridad del paciente y prevenir que
+5
+prácticas comerciales emergentes comprometan estándares básicos de calidad y responsabilidad
+sanitaria.
+Ante este escenario, esta Ley enmienda la “Ley de Farmacias de Puerto Rico” para
+establecer un marco robusto de transparencia, registro y rendición de cuentas en la supervisión de
+la preparación y dispensación de medicamentos compuestos, particularmente aquellos clasificados
+como de alto riesgo. Como componente esencial, se dispone el requisito de registro de farmacias no
+residentes que envíen, dispensen o distribuyan medicamentos compuestos a pacientes en Puerto
+Rico, con el propósito de permitir a las autoridades regulatorias identificar, evaluar y supervisar
+de manera más efectiva estas operaciones extraterritoriales con impacto directo en la salud pública
+local. Dicho registro facilitará el acceso a información sobre licencias vigentes, historial
+disciplinario, cumplimiento con estándares federales aplicables y volumen de operaciones hacia la
+jurisdicción, fortaleciendo la capacidad de vigilancia y respuesta regulatoria.
+Mediante la implementación de requisitos de informes periódicos, se proveerá a la Asamblea
+Legislativa, a las entidades reguladoras y al público información clara y estandarizada sobre las
+actividades de licenciamiento, registro, inspección, investigación y disciplina relacionadas con
+establecimientos no residentes que manejen medicamentos compuestos. Estos informes permitirán
+identificar tendencias, riesgos emergentes y necesidades de recursos humanos y materiales,
+fortaleciendo la capacidad institucional de fiscalización.
+En última instancia, esta legislación tiene como objetivo fortalecer la protección de
+los pacientes puertorriqueños, asegurando que los medicamentos que reciben sean
+seguros, efectivos y elaborados bajo estrictos estándares de calidad. Al fomentar promover
+una supervisión más efectiva, y coordinada y transparente entre la Secretaría Auxiliar para
+la Regulación de la Salud Pública (SARSP), incluyendo supervisión de farmacias no residentes
+Reglamentación y Acreditación de Facilidades de Salud y la Junta Examinadora de
+Farmacia, esta Ley representa constituye un paso esencial para mitigar crucial hacia la
+mitigación de los riesgos asociados a con la preparación-n ilegal de medicamentos y la
+restauración de para preservar la confianza pública en el sistema de salud.
+6
+La Asamblea Legislativa reconoce que las farmacias localizadas físicamente en Puerto Rico,
+debidamente licenciadas, que realizan composición farmacéutica, incluyendo farmacias 503A, ya
+se encuentran sujetas a licenciamiento, inspección y fiscalización directa bajo la Ley 247-2004, los
+reglamentos promulgados por el Departamento de Salud, la Junta Examinadora de Farmacia, leyes
+y reglamentos federales y los estándares USP aplicables. Por tanto, esta Ley no tiene el propósito
+de duplicar permisos, autorizaciones, reportes ni cargas administrativas sobre dichas farmacias
+residentes.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1.02 de la Ley 247-2004, según enmendada,
+2 conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+3 “Artículo 1.02. — Propósito.
+4 El propósito de esta Ley es promover, preservar y proteger la salud, la
+5 seguridad y el bienestar público mediante el control y reglamentación efectivo de la
+6 práctica de farmacia no residente y el licenciamiento, control y reglamentación de los
+7 establecimientos y personas que manufacturan, distribuyen, dispensan y expenden
+8 medicamentos y artefactos que se utilizan en el diagnóstico, tratamiento y prevención
+9 de enfermedades a pacientes localizados en el Estado Libre Asociado de Puerto Rico,
+10 independientemente del lugar físico donde se origine el despacho. Esta Ley no regula o afecta
+11 de modo alguno lo referente al mercadeo de medicamentos por correo desde los
+12 Estados Unidos o el extranjero a la jurisdicción territorial del Estado Libre Asociado
+13 de Puerto Rico.”
+14 Artículo 1.- Título
+15 Esta Ley se conocerá como la “Ley para la Supervisión sobre Medicamentos
+16 Compuestos de Alto Riesgo”.
+7
+1 Sección 2. - Se añaden los nuevos incisos (k-1), (u-1), (u-2), (aa-1), (dd-1) (dd-2) y (nn-
+2 1) al Artículo 1.03 de la Ley 247-2004, según enmendada, conocida como “Ley de Farmacia de
+3 Puerto Rico”, para que lea como sigue:
+4 “Artículo 1.03. — Definiciones.
+5 A los fines de esta Ley, los siguientes términos y frases tendrán el significado
+6 que a continuación se indica:
+7 (a) …
+8 …
+9 (k) …
+10 (k-1) Dispensación a paciente localizado en Puerto Rico – La dispensación o despacho
+11 que se realiza por una farmacia no residente a un paciente, prescribiente cuya dirección de
+12 entrega se encuentra en Puerto Rico.
+13 (l) …
+14 …
+15 (u) …
+16 (u-1) Evento Adverso - Cualquier acontecimiento médico desfavorable que ocurra
+17 durante o después del uso de un medicamento y respecto del cual exista una sospecha razonable
+18 de asociación con dicho medicamento, independientemente de que dicha relación causal haya
+19 sido confirmada.
+20 (u-2) Evento Adverso Grave - Un evento adverso que resulte en cualquiera de los
+21 siguientes resultados: muerte, una experiencia que ponga en peligro la vida, hospitalización de
+22 un paciente; una incapacidad o discapacidad persistente o significativa, una anomalía
+8
+1 congénita o defecto de nacimiento, o un evento que requiera, según el juicio médico razonable,
+2 una intervención médica o quirúrgica para prevenir alguno de los resultados antes descritos.
+3 (v) …
+4 (aa) …
+5 (aa-1) Farmacia no residente – Establecimiento de servicio de salud dedicados a la
+6 prestación de servicios farmacéuticos, que incluye: la dispensación de medicamentos de receta,
+7 medicamentos sin receta, artefactos y otros productos relacionados con la salud, la prestación
+8 de cuidado farmacéutico y otros servicios dentro de las funciones del farmacéutico establecidas
+9 en esta Ley, incluyendo a instalaciones 503A, localizadas fuera de Puerto Rico que ejerza
+10 dispensación a paciente localizado en Puerto Rico por correo, mensajería, telemedicina o
+11 cualquier otro método remoto.
+12 (bb) …
+13 …
+14 (dd) …
+15 (dd-1) Ingrediente farmacéutico activo - Toda sustancia destinada a incorporarse en un
+16 medicamento terminado y que tenga por objeto proporcionar actividad farmacológica u otro
+17 efecto directo en el diagnóstico, cura, mitigación, tratamiento o prevención de enfermedades, o
+18 afectar la estructura o cualquier función del organismo humano. El término no incluirá los
+19 intermediarios utilizados en la síntesis de dicha sustancia ni los ingredientes inactivos del
+20 medicamento, tales como agentes saborizantes o excipientes.
+21 (dd-2) Facilidad que fabrica un ingrediente farmacéutico activo - el establecimiento
+22 donde se creó originalmente un ingrediente farmacéutico activo mediante procedimientos o
+9
+1 manipulaciones químicas, físicas, biológicas o de otro tipo. No incluye a las droguerías ni los
+2 distribuidores al por mayor de medicamentos.
+3 (ee) …
+4 …
+5 (nn) …
+6 (nn-1) Medicamento compuesto de alto riesgo –Medicamento compuesto que, según el
+7 reglamento adoptado por el Departamento de Salud con participación de la Junta Examinadora
+8 de Farmacia y oportunidad de comentario público, presente riesgo significativo documentado
+9 por razón de esterilidad, vía de administración, complejidad de preparación, historial de eventos
+10 adversos, margen terapéutico estrecho o ausencia de controles adecuados de trazabilidad.
+11 Ningún medicamento será clasificado como medicamento compuesto de alto riesgo salvo
+12 que exista evidencia científica documentada de un riesgo significativo para la salud pública,
+13 sustentada por informes de la Food and Drug Administration (FDA).
+14 No se considerará automáticamente de alto riesgo toda preparación estéril por el solo
+15 hecho de ser estéril. La determinación deberá basarse en criterios técnicos y evidencia
+16 documentada.
+17 No se considerará “Medicamento Compuesto de Alto Riesgo” la preparación estéril
+18 realizada dentro de un hospital debidamente licenciado en Puerto Rico, cuando: sea realizada
+19 por una farmacia institucional bajo la supervisión de un farmacéutico licenciado; se administre
+20 exclusivamente a un paciente admitido o registrado; y responda a una orden médica válida,
+21 receta o protocolo terapéutico institucional. Esta exclusión aplicará únicamente a hospitales y
+22 no incluirá spas médicos, clínicas de bienestar, prácticas estéticas, clínicas ambulatorias
+10
+1 comerciales, consultorios no institucionales ni establecimientos análogos, independientemente
+2 de su licenciamiento.
+3 (oo) …
+4 …
+5 (mmm) …”
+6 Artículo 2.- Propósito
+7 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+8 Salud (SARAFS) y la Junta Examinadora de Farmacia enfrentan un problema sin
+9 precedentes, y en aumento, de pacientes que reciben medicamentos preparados
+10 ilegalmente, lo que representa riesgos significativos para la salud pública.
+11 El propósito de esta Ley es entender la naturaleza y escala de las actividades de
+12 preparación de medicamentos, incluyendo la supervisión actual de dichas
+13 actividades, para informar futuros esfuerzos que aseguren que los reguladores
+14 cuenten con los recursos necesarios para proteger a los pacientes.
+15 Sección 3. - Se añade un nuevo inciso (f) al Artículo 5.04 de la Ley 247-2004, según
+16 enmendada, conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+17 “Artículo 5.04. — Medicamentos con requisitos especiales para su
+18 dispensación.
+19 (a) …
+20 …
+21 (e) …
+22 (f) Medicamento compuesto de alto riesgo
+11
+1 (i) Para la composición y dispensación de medicamentos compuestos de alto
+2 riesgo, las farmacias no residentes deberán solicitar y obtener del Secretario una
+3 autorización especial para la dispensación de tales medicamentos conforme a los
+4 requisitos que se establezcan mediante reglamento. Ninguna farmacia no
+5 residente, podrá dispensar medicamentos compuestos de alto riesgo sin contar
+6 con dicha autorización especial vigente.
+7 (ii) Toda farmacia no residente que obtenga la autorización del Secretario para
+8 la dispensación de medicamentos compuestos de alto riesgo, al momento de su
+9 solicitud inicial y en cada renovación, deberá presentar ante el Secretario, o la
+10 secretaría, división o junta que este designe, una declaración de divulgación de
+11 la actividad de composición farmacéutica (”compounding”) de medicamentos
+12 compuestos preparados y dispensados por dicha farmacia no residente a
+13 pacientes localizados en Puerto Rico que debe al menos incluir:
+14 1. Las categorías de medicamentos compuestos preparados, incluyendo
+15 si son estériles o no estériles;
+16 2. La cantidad total de unidades de medicamentos compuestos
+17 preparadas durante el período de licencia anterior, clasificadas en
+18 preparaciones estériles y no estériles;
+19 3. Una descripción de si los medicamentos compuestos se dispensan para
+20 administración en la farmacia, en un consultorio médico, dispensación
+21 directa al paciente o distribución a otras facilidades;
+12
+1 4. El número de pacientes atendidos con medicamentos compuestos
+2 durante el período del informe; y
+3 5. Cualquier información adicional que la normativa exija
+4 razonablemente para evaluar la escala y el perfil de riesgo de las
+5 actividades de preparación de medicamentos compuestos.
+6 6. Toda farmacia no residente deberá incluir en su declaración de
+7 divulgación de la actividad de composición farmacéutica
+8 (”compounding”) de medicamentos compuestos preparados y
+9 dispensados a pacientes localizados en Puerto Rico:
+10 a) Una copia del informe más reciente de inspección del estado
+11 donde está físicamente operando; y
+12 b) Una descripción de cualquier acción disciplinaria impuesta
+13 por cualquier organismo regulador en contra de dicha farmacia
+14 no residente.
+15 (iii) Independientemente de la obtención de una autorización especial para la
+16 dispensación de medicamentos compuestos de alto riesgo, se prohíbe:
+17 1. El envío directo a spas médicos, clínicas estéticas, centros de bienestar
+18 o establecimientos no institucionales no autorizados por la Secretaría
+19 Auxiliar para la Regulación de la Salud Pública (SARSP) del
+20 Departamento de Salud de Puerto Rico;
+21 2. La dispensación basada en protocolos estandarizados sin evaluación
+22 clínica individualizada;
+13
+1 (iv) Todo medicamento compuesto de alto riesgo deberá entregarse acompañado
+2 de:
+3 1. nombre y dirección de la farmacia preparadora;
+4 2. nombre del farmacéutico responsable;
+5 3. número de lote o identificación de preparación;
+6 4. fecha de preparación y fecha de expiración clínica;
+7 5. advertencia visible indicando que el producto es un medicamento
+8 compuesto no aprobado por la Food and Drug Administration (FDA),
+9 6. Información de contacto para reportar eventos adversos; y
+10 7. Rotulación adecuada en cumplimiento con el Artículo 5.02 (d) de esta
+11 Ley.
+12 (v) Las farmacias no residentes solo podrán vender, transferir o distribuir
+13 medicamentos compuestos de alto riesgo si se cumplen los siguientes requisitos:
+14 1. El ingrediente farmacéutico activo cumple con la Sección
+15 503A(b)(1)(A) de la Ley Federal de Alimentos, Medicamentos y
+16 Cosméticos (21 U.S.C. § 353a(b)(1)(A));
+17 2. El ingrediente farmacéutico activo es un producto de grado
+18 farmacéutico para uso humano;
+19 3. El ingrediente farmacéutico activo está acompañada de una
+20 certificación válida que contenga la identidad, pureza y potencia del
+21 ingrediente farmacéutico activo, así como cualquier información
+22 adicional que requiera el Secretario;
+14
+1 4. Todo ingrediente farmacéutico activo que no esté descrito en la
+2 Farmacopea de los Estados Unidos (United States Pharmacopeia) o del
+3 Formulario Nacional (National Formulary):
+4 a. estará acompañado de documentación de pruebas adecuadas de
+5 control de calidad realizadas por la facilidad que fabrica un
+6 ingrediente farmacéutico activo, un fabricante subsiguiente o un
+7 distribuidor al por mayor, que:
+8 i. confirmen la identidad y el contenido del ingrediente
+9 farmacéutico activo;
+10 ii. informen, identifiquen, caractericen y cuantifiquen
+11 cada impureza y solvente residual presente en el
+12 ingrediente farmacéutico activo en una cantidad que
+13 exceda una décima de uno por ciento (0.1%); y
+14 iii. contengan cualquier información adicional que pueda
+15 requerir el Secretario; o
+16 b. antes de utilizar el ingrediente farmacéutico activo en la
+17 preparación del medicamento compuesto de alto riesgo, la
+18 persona dedicada a la preparación deberá obtener pruebas
+19 adecuadas de control de calidad que contengan la información
+20 especificada en el Artículo 5.04(f)(vi)(4)(a)(i)-(iii). La
+21 información de control de calidad requerida por este Artículo
+15
+1 5.04(f)(vi)(5) podrá incluirse en la certificación descrita en el
+2 Artículo 5.04(f)(vi)(3).
+3 (vii)(a) Toda farmacia no residente deberá mantener documentación verificable
+4 de que el ingrediente farmacéutico activo fue fabricado en una facilidad que
+5 fabrica un ingrediente farmacéutico activo que:
+6 1. está debidamente registrado ante la Food and Drug Administration
+7 (FDA) bajo la Sección 510 del Food, Drug and Cosmetic Act (21 U.S.C.
+8 360);
+9 2. ha sido sometido a una inspección por parte de la Food and Drug
+10 Administration (FDA) como establecimiento de medicamentos para uso
+11 humano;
+12 3. no está actualmente sujeto a una inspección no resuelta por parte de
+13 la Food and Drug Administration (FDA) que fue clasificada como
+14 “Acción Oficial Indicada”(“Official Action Indicated”);
+15 4. Actualmente no está sujeto a ninguna Alerta de Importación emitida
+16 por la Food and Drug Administration (FDA); y
+17 5. no está actualmente sujeto a una Carta de Advertencia no resuelta de
+18 la Food and Drug Administration (FDA).
+19 La documentación requerida por este párrafo también debe incluir: País de
+20 origen, dirección y número de identificación de establecimiento de la Food and
+21 Drug Administration (FDA) de la Facilidad que fabrica un ingrediente
+22 farmacéutico activo.
+16
+1 (b) Es ilegal que cualquier fabricante o mayorista venda, transfiera o distribuya
+2 un ingrediente farmacéutico activo para su uso en la preparación de compuestos
+3 sin proporcionar al comprador la certificación requerida en el Artículo
+4 5.04(f)(vi)(3), la documentación de pruebas de control de calidad y la
+5 verificación escrita descrita en el Artículo 5.04(f)(vi)(3) al Artículo
+6 5.04(f)(vi)(4) y el Artículo 5.04(f)(viii)(a).
+7 (viii) La preparación de medicamentos compuestos de alto riesgo deberá cumplir
+8 con el Federal Food, Drug and Cosmetic Act, incluyendo las disposiciones de la
+9 Sección 503A (21 U.S.C. 353a).
+10 (ix) (a) Las farmacias no residentes que se dedican a la venta, transferencia o
+11 distribución de medicamentos compuestos de alto riesgo deberán mantener todos
+12 los registros relacionados con la adquisición, el examen y la prueba del
+13 ingrediente farmacéutico activo durante no menos de dos (2) años después de la
+14 fecha de vencimiento del último lote de medicamento compuesto de alto riesgo
+15 que contenga el ingrediente farmacéutico activo y, a solicitud del Secretario,
+16 deberán proporcionar dichos registros dentro de un tiempo razonable según lo
+17 determine el Secretario en función de las circunstancias de la solicitud.
+18 (b) El Secretario o la secretaría, división o junta que este designe, tendrá la
+19 facultad de requerir a cualquier farmacia no residente que venda, transfiera o
+20 distribuya medicamentos compuestos de alto riesgo, así como cualquier
+21 Facilidad que fabrique un ingrediente farmacéutico activo, fabricante posterior
+22 o Distribuidor al por mayor de medicamentos que venda, transfiera o distribuya
+17
+1 un ingrediente farmacéutico activo para su uso en la preparación de compuestos,
+2 la documentación, certificaciones, autorizaciones o licencias necesarias para
+3 verificar el cumplimiento con los requisitos del Artículo 5.04(f)(v) al Artículo
+4 5.04(f)(viii). Negarse a proveer documentación requerida por el Secretario o la
+5 secretaría, división o junta que este designe para verificar el cumplimiento con
+6 los requisitos del Artículo 5.04(f)(v) al Artículo 5.04(f)(viii) constituirá una
+7 violación a esta Ley.
+8 (c) El Secretario está autorizado a promulgar las reglas que sean necesarias para
+9 implementar esta Ley.
+10 (x)(a) Las violaciones del Artículo 5.04(f)(vi), 5.04(f)(vii) y 5.04(f)(viii) darán lugar
+11 a:
+12 1. una multa de mil dólares ($1,000) por cada dosis del medicamento compuesto
+13 de alto riesgo vendida, transferida o distribuida; y
+14 2. revocación de la licencia de Distribuidor al por mayor de medicamentos o de
+15 Droguería y cualquier otra licencia, certificado, registro o autorización emitida
+16 por el Secretario de Salud.
+17 (b) Las violaciones del Artículo 5.04(f)(vii)(b) de esta Ley darán lugar a:
+18 1. una multa de mil dólares ($1,000) por cada miligramo del ingrediente
+19 farmacéutico activo distribuido ilegalmente; y
+20 2. revocación de la licencia de Distribuidor al por mayor de medicamentos o de
+21 Droguería.
+18
+1 (c) Las violaciones del Artículo 5.04(f)(ix) resultarán en una multa de $5,000 y
+2 darán lugar a la revocación de la licencia correspondiente.
+3 (xi) Todo farmacéutico que conozca de un evento adverso asociado a un
+4 medicamento compuesto de alto riesgo dispensado o administrado a un paciente
+5 localizado en Puerto Rico deberá notificarlo al Departamento de Salud dentro de
+6 diez (10) días laborables desde que advenga en conocimiento, en caso de un evento
+7 adverso grave, deberá notificarlo al Departamento de Salud dentro de cinco (5) días
+8 laborables desde que advenga en conocimiento.”
+9 Artículo 3.- Definiciones
+10 (a) Informe bianual: Reporte que debe ser publicado dos veces al año por las
+11 juntas reguladoras, conteniendo datos sobre la supervisión de la
+12 preparación de medicamentos, conforme a los requisitos de esta Ley.
+13 (b) Junta Examinadora de Farmacia: La entidad reguladora establecida bajo la
+14 Ley Núm. 247-2004 de Puerto Rico encargada de supervisar la práctica de
+15 la farmacia, incluyendo la preparación, distribución y dispensación de
+16 medicamentos.
+17 (c) Medicamentos Compuestos: La práctica de combinar, mezclar o alterar
+18 ingredientes para crear un medicamento adaptado a las necesidades de un
+19 paciente, realizada por farmacias, instalaciones de subcontratación o
+20 profesionales autorizados, conforme a las regulaciones aplicables.
+21 (d) Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+22 Salud (SARAFS): Dependencia del Departamento de Salud de Puerto Rico
+19
+1 encargada de inspeccionar y licenciar facilidades de salud para garantizar
+2 que cumplan con las leyes y estándares de calidad. Reglamenta y supervisa
+3 hospitales, farmacias, centros de cirugía ambulatoria y otros servicios de
+4 salud en la isla.
+5 (e) Spa médico o clínica de bienestar: Establecimiento que ofrece servicios
+6 médicos o de bienestar, incluyendo la administración o dispensación de
+7 medicamentos preparados, pero que no está licenciado como hospital o
+8 centro quirúrgico ambulatorio.
+9 Sección 4.- Se añade un nuevo Artículo 5.11-A a la Ley 247-2004, según enmendada,
+10 conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+11 “Artículo 5.11. — Farmacia.
+12 (a)…
+13 …
+14 (i) …
+15 Artículo 5.11-A. – Farmacia no residente con dispensación a paciente localizado en
+16 Puerto Rico.
+17 (a) Ninguna farmacia no residente podrá dispensar, enviar, entregar, causar la entrega,
+18 facturar o de cualquier forma proveer medicamentos a pacientes localizados en Puerto Rico sin
+19 previamente registrarse ante la Secretaría Auxiliar para la Regulación de la Salud Pública
+20 (SARSP) del Departamento de Salud de Puerto Rico como farmacia no residente y recibir un
+21 certificado de registro de farmacia no residente.
+20
+1 (b) Para configurar un registro válido y obtener un certificado de registro de farmacia
+2 no residente la farmacia no residente deberá presentar:
+3 1. Una licencia vigente y en buen estado en la jurisdicción donde ubique
+4 físicamente;
+5 2. Aprobación del National Association of Boards of Pharmacy Digital
+6 Pharmacy Accreditation Program;
+7 3. Identificar un representante de cumplimiento regulatorio para pacientes
+8 localizados en Puerto Rico, quien fungirá como punto de contacto principal ante
+9 el Departamento de Salud y responderá ante cualquier evento de
+10 incumplimiento con esta Ley. Un representante no podrá ser designado
+11 responsable para más de una farmacia no residente.
+12 4. Designar un agente representante en Puerto Rico autorizado a recibir
+13 notificaciones administrativas y judiciales;
+14 5. Presentar una declaración jurada certificando y haciendo constar que una vez
+15 registrada la farmacia no residente cumplirá con:
+16 (i) someter certificaciones de cumplimiento con estándares aplicables de
+17 preparación y manejo de medicamentos;
+18 (ii) Mantener y proveer, a requerimiento del Departamento de Salud de
+19 Puerto Rico documentación verificable relacionada con recetas,
+20 preparación, dispensación y envío de medicamentos a pacientes
+21 localizados en Puerto Rico;
+21
+1 (iii) Notificar al Departamento de Salud de Puerto Rico cualquier evento
+2 adverso con medicamentos dispensados o administrados a pacientes
+3 localizados en Puerto Rico dentro de un término no mayor de diez (10)
+4 días laborables o en casos de evento adverso grave en cinco (5) días
+5 laborables contados en ambas instancias desde que advenga en
+6 conocimiento o razonablemente debió haber conocido de dicho evento.
+7 (iv) Cumplir con los requisitos de reporte establecidos en esta Ley.
+8 6. Sufragar los derechos establecidos en el Artículo 5.16 de esta Ley.
+9 (c) Requisitos de Reporte. Toda farmacia no residente registrada ante la Secretaría
+10 Auxiliar para la Regulación de la Salud Pública (SARSP) del Departamento de Salud de Puerto
+11 Rico, que a su vez haya obtenido la autorización de medicamentos compuestos de alto riesgo,
+12 deberá al momento del registro y renovación presentar una declaración de divulgación de la
+13 actividad de composición farmacéutica (”compounding”) de medicamentos compuestos
+14 preparados y dispensados a pacientes localizados en Puerto Rico de conformidad con el Artículo
+15 5.04(f) de esta Ley.
+16 (d) Al cumplir con los parámetros de este Artículo, la Secretaría Auxiliar para la
+17 Regulación de la Salud Pública (SARSP) emitirá un Certificado de Registro de farmacia no
+18 residente. El Certificado de Registro de farmacia no residente será válido por un (1) año. El
+19 mismo debe ser renovado anualmente mediante presentación de los documentos requeridos en
+20 este Artículo al menos cuarenta y cinco (45) días antes de su vencimiento.
+21 (e) Ningún plan médico, aseguradora, administrador de beneficios de farmacia (PBM),
+22 hospital, clínica, farmacia o proveedor de salud establecido en Puerto Rico y regulado por las
+22
+1 leyes y reglamentos del Gobierno de Puerto Rico podrá pagar, procesar, adjudicar o reembolsar
+2 reclamaciones por medicamentos dispensados a pacientes localizados en Puerto Rico por
+3 farmacias no residentes no registradas conforme a esta Ley.
+4 (f) Ningún profesional de la salud autorizado a ejercer en Puerto Rico y sujeto a las
+5 leyes y reglamentos del Gobierno de Puerto Rico podrá ordenar, coordinar la dispensación ni
+6 administrar medicamentos a través de una farmacia no residente no registrada.
+7 (g) El Secretario, en coordinación o por vía de la Secretaría Auxiliar para la Regulación
+8 de la Salud Pública (SARSP), está facultado para:
+9 1. Emitir órdenes administrativas de cese y desista respecto a la dispensación de
+10 medicamentos hacia pacientes localizados en Puerto Rico;
+11 2. notificar a agencias regulatorias estatales o federales;
+12 3. requerir a planes médicos o PBMs la denegación de reclamaciones
+13 provenientes de farmacias no residente son registradas; y
+14 4. establecer multas administrativas conforme a la Ley 38-2017, según
+15 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme
+16 del Gobierno de Puerto Rico”.
+17 (h) El Secretario, en coordinación o por vía de la Secretaría Auxiliar para la Regulación
+18 de la Salud Pública (SARSP), deberá:
+19 1. Aprobar los reglamentos que sean necesarios para hacer cumplir lo dispuesto
+20 en este Artículo.
+21 2. Publicar el registro de farmacias no residentes.
+23
+1 (i) Nada en este Artículo autoriza a la Secretaría Auxiliar para la Regulación de la
+2 Salud Pública (SARSP) ni al Departamento de Salud de Puerto Rico a regular las operaciones
+3 internas de farmacias no residentes. La autoridad conferida se limita exclusivamente a la
+4 protección de la salud pública respecto a la dispensación y administración de medicamentos a
+5 pacientes localizados en Puerto Rico.
+6 (j) Este Artículo se interpretará como una medida de salud pública dirigida
+7 exclusivamente a regular la dispensación de medicamentos a pacientes localizados en Puerto
+8 Rico y no como una regulación extraterritorial del ejercicio de la profesión de la farmacia fuera
+9 de Puerto Rico.”
+10 Sección 5.- Se enmienda el Artículo 5.16 de la Ley 247-2004, según enmendada,
+11 conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+12 “Artículo 5.16. — Vigencia y derechos de licencias, certificados, registros y
+13 autorizaciones.
+14 (a) Las licencias y registros requeridas en este Capítulo, salvo lo relacionado al
+15 Registro de Medicamentos y al Certificado de Registro de Farmacia No Residente, tendrán
+16 dos (2) años de vigencia desde la fecha de su expedición y se renovarán en forma
+17 escalonada, previo el cumplimiento de los requisitos y procedimientos que se
+18 establezcan por reglamento y el pago de los correspondientes derechos; con excepción
+19 de los certificados de registros de medicamentos y/o productos biológicos para
+20 oficinas médicas, dentales y podiátricas, y para ensayos clínicos en instituciones de
+21 educación superior u oficinas médicas, que tendrán tres (3) años de vigencia, y se
+22 obtendrán mediante radicación del registro según la fecha de renovación de licencia
+24
+1 profesional del médico, dentista o podiatra, cuando corresponda. Además, será deber
+2 del Departamento de Salud, en lo posible y mientras los recursos fiscales lo permitan,
+3 el establecer los procedimientos para poder radicar y expedir mediante su página
+4 electrónica gubernamental (Internet) la solicitud para obtener las licencias requeridas
+5 en este Capítulo o el Certificado de Registro Trienal de Medicamentos y/o Productos
+6 Biológicos en Oficina Médica, y Certificado de Registro Trienal de Medicamentos y/o
+7 Biológicos para Ensayos Clínicos en Institución de Educación Superior y el certificado
+8 de registro de farmacia no residente.
+9 (b) …
+10 (c) Toda persona que opere más de un establecimiento de los definidos en esta
+11 Ley, deberá solicitar y obtener una licencia, certificado, registro o autorización
+12 separada para cada uno de los establecimientos.
+13 (d) Las licencias, certificados, registros y autorizaciones no serán transferibles.
+14 (e) La licencia, certificado, registro o autorización se expedirá a nombre del
+15 dueño o razón comercial que la solicite y aplicará solamente al establecimiento en la
+16 localización que se indique en la faz de la misma. Además, especificará el tipo de
+17 establecimiento para el cual se otorga según definidos en esta Ley.
+18 (f) Las licencias, certificados, registros y autorizaciones que se enumeran a
+19 continuación pagarán los siguientes derechos que estarán vigentes desde la fecha de
+20 aprobación de esta Ley hasta que el Secretario, mediante reglamento, establezca otros
+21 derechos:
+22 1. …
+25
+1 …
+2 17…
+3 18. Certificado de Registro de farmacia no residente - $500.
+4 (g) …
+5 (h) Los ingresos que se recauden por estos conceptos serán depositados en el
+6 Fondo de Salud creado bajo las disposiciones del Artículo 11-A de la Ley Núm. 26 de
+7 13 de noviembre de 1975, según enmendada, para uso exclusivo de la División de
+8 Farmacia, en la fiscalización del cumplimiento de las disposiciones en el Capítulo V
+9 de esta Ley; con excepción de los fondos que se recauden del Certificado de Registro de
+10 Farmacia no residente. Los recaudos del Certificado de Registro de Farmacia no residente
+11 deberán ser transferidos al Departamento de Salud para fortalecer las capacidades de la
+12 Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP).”
+13 Sección 6 Artículo 4.- Se añade un nuevo Artículo 5.18 a la Ley 247-2004, según
+14 enmendada, conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+15 Artículo 5.18. – Informe sobre Supervisión de la Preparación de Medicamentos
+16 Compuestos.
+17 La Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP)
+18 Reglamentación y Acreditación de Facilidades de Salud (SARAFS), junto con la Oficina
+19 de Planificación y Desarrollo, o cualquier otra secretaría, unidad, oficina o dependencia que el
+20 Secretario del Departamento de Salud determine, Junta Examinadora de Farmacia y el
+21 Departamento de Justicia, desarrollará y publicará un informe bianual sobre la
+26
+1 supervisión de la preparación de medicamentos y los riesgos compuestos asociados
+2 con dichas prácticas. Dicho informe incluirá los siguientes elementos:
+3 (a) El número de certificaciones a farmacias no residentes y tipo de licencias
+4 emitidas por el Secretario, o la secretaría, división o junta que este designe, la
+5 Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+6 Salud (SARAFS) y la Junta Examinadora de Farmacia según aplique, bajo las
+7 cuales el titular de la licencia pueda realizar la preparación para la dispensación
+8 de medicamentos compuestos de alto riesgo, incluyendo un desglose de licencias
+9 residentes y no residentes, y licencias autorizaciones para la dispensación
+10 preparación de medicamentos estéril compuestos estériles para uso parenteral o
+11 cualesquiera otros medicamentos que requieran técnicas asépticas especiales.
+12 (b) El número de certificados de registro de farmacias no residentes emitidos por la
+13 Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP).
+14 (b) (c) El número de instalaciones y prácticas licenciadas, autorizadas o registradas
+15 que han sido inspeccionadas en el último año y en los últimos tres años,
+16 desglosado por tipo de licencia, autorización o registro.
+17 (c) (d) El número de inspecciones realizadas a instalaciones y prácticas
+18 involucradas en la preparación de medicamentos compuestos de alto riesgo, o en
+19 el manejo, almacenamiento, administración, dispensación, distribución u otro
+20 uso de medicamentos preparados en el ámbito minorista o ambulatorio,
+21 incluyendo farmacias no residentes 503A, instalaciones de subcontratación 503B
+27
+1 y spas médicos, pero excluyendo instalaciones de salud licenciadas como
+2 hospitales o centros quirúrgicos ambulatorios.
+3 (d) (e) Una descripción de la naturaleza y gravedad de cualquier deficiencia o
+4 posible violación observada durante las inspecciones o reportadas por
+5 farmacéuticos.
+6 (e) (f) El número de investigaciones abiertas por cada entidad reguladora, el
+7 Departamento de Salud, o cualquier otra agencia estatal a la que se le haya referido
+8 una investigación, relacionadas con la preparación de medicamentos.
+9 (f) (g) El número y tipo de acciones disciplinarias tomadas por el Departamento
+10 de Saludcada entidad reguladora, o cualquier otra agencia estatal a la que se le
+11 haya referido una investigación, relacionadas con la preparación de medicamentos
+12 compuestos.
+13 (g) El número y tipo de acciones disciplinarias tomadas por cada entidad
+14 reguladora, o cualquier otra agencia estatal, relacionadas con la
+15 comercialización, publicidad o promoción engañosa o indebida de
+16 medicamentos compuestos, servicios de telemedicina o servicios de telesalud.
+17 (h) Una evaluación de los recursos humanos y materiales de la Junta de
+18 Farmacia, así como de Secretaría Auxiliar para la Regulación de la Salud Pública
+19 (SARSP) Reglamentación y Acreditación de Facilidades de Salud, en relación
+20 con la escala estimada de la preparación de medicamentos compuestos de alto
+21 riesgo.
+28
+1 (i) Un análisis de la naturaleza y gravedad de los riesgos emergentes
+2 relacionados con la preparación de medicamentos compuestos de alto riesgo, y
+3 la distribución, comercialización y venta de medicamentos compuestos.
+4 El primer informe se publicará a más tardar el 1 30 de septiembre de 2027 2026,
+5 con datos correspondientes del 1 de enero de 2027 2026 al 30 de junio de 2027 2026.
+6 Posteriormente, los informes se publicarán dos veces al año, a más tardar el 1 de marzo
+7 y el 1 de septiembre de cada año, conteniendo datos de los seis meses anteriores,
+8 respectivamente. Los informes no contendrán información protegida por la Health Insurance
+9 Portability and Accountability Act (HIPPA).
+10 Artículo 5.- Deber de Coordinación.
+11 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+12 Salud (SARAFS) lidera la cordinación con la Junta Examinadora de Farmacia, el
+13 Departamento de Justicia, para garantizar la recopilación precisa y oportuna de los
+14 datos requeridos para los informes bianuales. La Junta Examinadora de Farmacia
+15 proporcionará la información relevante dentro de sus jurisdicciones en un plazo no
+16 mayor a 30 días naturales tras la solicitud de SARAFS.
+17 Artículo 6.- Acceso Público.
+18 Los informes bianuales serán publicados en la página electrónica oficial los sitios
+19 web oficiales de la Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP) o
+20 del Departamento de Salud de Puerto Rico para Reglamentación y Acreditación de
+21 Facilidades de Salud (SARAFS) y de la Junta Examinadora de Farmacia, además de
+22 estar disponibles para consulta pública sin costo alguno. Las entidades notificarán La
+29
+1 Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP) notificará al público
+2 sobre la publicación de cada informe mediante comunicados oficiales.
+3 Artículo 7.- Prohibición de Costos Adicionales.
+4 Se prohíbe imponer cualquier cargo monetario a los ciudadanos, profesionales
+5 de la salud o instalaciones licenciadas para el cumplimiento de las disposiciones de la
+6 divulgación del informe bianual establecido en de esta Ley Sección.
+7 Sección 7.- Farmacias localizadas físicamente en la jurisdicción de Puerto Rico.
+8 Nada de lo dispuesto en estas enmiendas, se interpretará como una limitación,
+9 sustitución, duplicación o ampliación de los requisitos aplicables a farmacias localizadas
+10 físicamente en la jurisdicción de Puerto Rico, debidamente licenciadas bajo la Ley 247-2004.
+11 Estas farmacias, incluyendo las farmacias 503A que realicen composición farmacéutica estéril
+12 o no estéril, continuarán reguladas por la “Ley de Farmacia de Puerto Rico”, sus reglamentos,
+13 la Junta Examinadora de Farmacia, el Departamento de Salud y los estándares de USP
+14 aplicables.
+15 Sección 8.- Reglamentación.
+16 El Secretario del Departamento de Salud está autorizado y deberá, dentro de ciento
+17 ochenta (180) días de aprobada esta Ley, aprobar o enmendar los reglamentos que sean
+18 necesarios para el fiel cumplimiento de esta Ley.
+19 Sección 9.- Artículo 8- Cláusula de separabilidad.
+20 Si alguna de las disposiciones de esta Ley o su aplicación fuere declarada
+21 inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la
+22 ejecutabilidad y vigor de las restantes disposiciones que no hayan sido objeto de
+30
+1 dictamen adverso.
+2 Sección 10.- Artículo 9.- Vigencia.
+3 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:  Aa  S.d L    r p l m c d a r y l f n d i b p p d l l S A p)O  y A d F d S ( y l J c g u m v s l a o p i d m c r u d]
+[DELETED:  m c s l s a l q c u s p l s p E p e p g  u vor q t l m s d c n r c y s e C e a S y l J E d F e m d r p c r L a m e l l y d c p p y c g c l a d p i c o]
+[DELETED:  P R p p d f u f d l j c d o s o h p e P R p r p d a m c q i a l j d e e f q r l e r p a e p e u m s d r y d q p d i E i d d d l e o d l l e d l p e y l i d l á d s e n d i r a i q m t c l i E f d d t l l]
+[DELETED:  c e e l j r y o a e a l l r y a p u v c d l d s r c l p d m E i d c s l e i r a a d t y r e A l j r g q e a e p d d c c e m i r d r u r n c y r p e E c c s d d p l s p g l s d p y p q]
+[DELETED:  e e e L e l “ d F d P R p D r f e a a i s l v h t r e y n d r h y m p p a q l m q r s a   y y A d F d S y l J E d e L r u p  c h l e p m   l]
+[DELETED:  S e e A 1 d l L 2 s e p d e L e p p y p l s la  e m a l r a m d m p c d l]
+[DELETED:  E A - C a m d q o - p u i o d p o s u a]
+[DELETED:  – a p l e P R p c m t o)I)F -om]
+[DELETED:  d s e  L d d b e c t y eN i s m c d b p e c a]
+[DELETED: (…( ( y l J E d F e u p s y e a d p q r m p d m i l s a d d p i f e q a q l r 5 — M c r e p s]
+[DELETED:  q s e m r N f n p y d p d f n r a L c t d u d m c d e p d l a c e]
+[DELETED:  E n d p a c m c C i a q l n e p e l e y e p d r d l   T f n r d i s d d d l a d c f d m c p y p l R d l S P ( d]
+[DELETED:  a v i q e p u m L f n r s p v t o d E i f a c c l S d l L F d A M y E i f a e u p d g E i f a e a d u i f a a c c i]
+[DELETED:  T i f a q n e d e l d c r p l f q f u i i c y c i y s r p e e f a e u c q a d u e i f a e l d m c d a r l d a l p d o p e e A 5 L]
+[DELETED:  p f F a D A ( q f c c d r p e p t d i P d A ( d l F q f u i]
+[DELETED:  p a c l c r e e A l d d p d c d c y l e d e e A 5 a A r r c l a e e y l p d)E m c d a r a c c]
+[DELETED:  d c a o l n p u m d m d ( p c m d i]
+[DELETED:  T f q c d u e a a a u)I r c d s l s d l)J f i l p d y d d)M C L p d c m o a r p f i d s o)S]
+[DELETED: )S m o c d b E q o s]
+[DELETED:  U l v y e b e e l j d u A d N A o B o P D I u r d c r p p D d S y r a c e d c e L U r n p s d D u a r e P R a a r R d v r c r d y e d m a p]
+[DELETED:  c m d o a a p o c e a i d q a e S d c f ( d m c A c c l p d A l S A p l]
+[DELETED:  p m d a p l e P R p( r a p m o P l d d r e m a c a l L 3 s]
+[DELETED:  d f n r L a c s l e a l E A s i c u m d s p d 5 S e e A 5 d l L 2 s e 5 — V y d d l cs y r r , p e c d l r y p q s l c d r d m y p b p]
+[DELETED:  e l p r y m d s y o u l co o a rs  Lo  s a d L l c  y a q s e a1]
+[DELETED: …1 e L c e d l f q s d C d R d s t a D d S p f l c d l) S S A p  R d l S P ( d d J d y p u i b s l]
+[DELETED:  E n  y t d l c a f n r p  l S o l s d o j q e d A p R y A d F d  ,ea y n r y l p l d  s), h s i e e ú a y e l ú t aa.  E n d i r a i y ps, d m p e e á m o as5]
+[DELETED:  s m p e i d s l c   v o d l io r p  )e    )ed  E n y t d a d t p c e o c o a e r c l p o p e o i d U e d l r h y m d l J d]
+[DELETED:  U a d l n y g d l r es, d 2 2e e 7  ( l l c c l J E d F  e r p l i b L J E d F.    D d S d P Rp R y A d]
+[DELETED:  S . d l d e e e s i c u l d o a d l r a a f l J E d F e D d S y l e d U ( d d a e L a o e l r q s a d l d d e L o s a f d o n t d d i o n n a l y v d l r d q n h s o d]
+
+
+================================================================================
+
+Raw Text:
+ENTIRILLADO ELECTRÓNICO
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 858
+17 de noviembre de 2025
+Presentado por señor Ríos Santiago
+Referido a la Comisión de Salud
+LEY
+Para enmendar el Artículo 1.02, añadir nuevos incisos (k-1), (u-1), (u-2), (aa-1), (dd-1), (dd-2) y
+(nn-1) al Artículo 1.03, añadir un nuevo inciso (f) al Artículo 5.04, añadir un nuevo Artículo
+5.11-A, enmendar el Artículo 5.16 y añadir un nuevo Artículo 5.18 de la Ley 247-2004, según
+enmendada, conocida como “Ley de Farmacia de Puerto Rico”, a los fines de establecer un
+marco regulatorio para los medicamentos compuestos de alto riesgo y las farmacias no
+residentes que permita la responsable protección salubrista de los pacientes localizados en
+Puerto Rico; sin imponer requisitos duplicativos a farmacias físicamente localizadas en la
+jurisdicción de Puerto Rico, debidamente licenciadas bajo la Ley 247-2004; establecer la “Ley
+para la Supervisión sobre Medicamentos Compuestos de Alto Riesgo”; requerir la
+publicación de informes bianuales por parte de la la Secretaría Auxiliar para la
+Regulación de la Salud Pública (SARPS) junto con la Oficina de Planificación y Desarrollo
+Reglamentación y Acreditación de Facilidades de Salud (SARAFS), y la Junta
+Examinadora de Farmacia sobre la supervisión de las prácticas de preparación de
+medicamentos compuestos; garantizar una mayor visibilidad sobre las acciones
+regulatorias para proteger a los pacientes de medicamentos preparados ilegalmente;
+y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La preparación ilegal de medicamentos compuestos representa un desafío
+creciente y de gran magnitud en Puerto Rico, que pone en riesgo la seguridad de los
+pacientes y la integridad del sistema de salud. Los ciudadanos merecen medicamentos
+
+2
+en los que puedan confiar, que sean seguros, efectivos y elaborados conforme a los más
+altos estándares de calidad establecidos por las regulaciones estatales y federales. Sin
+embargo, en los últimos años, se ha observado un aumento alarmante en la distribución
+de medicamentos compuestos sin la supervisión adecuada, lo que constituye una
+amenaza significativa para la salud pública. Este problema es particularmente
+pronunciado en el caso de los medicamentos GLP-1 utilizados para el tratamiento de la
+diabetes y la obesidad, aunque se extiende a otras clases de medicamentos, afectando a
+diversos sectores de la población.
+La preparación de medicamentos compuestos, cuando se realiza conforme a las
+normativas, es una práctica esencial que permite adaptar tratamientos a las necesidades
+específicas de los pacientes. No obstante, la proliferación de actividades de preparación
+ilegal, especialmente en entornos no regulados como spas médicos y clínicas de bienestar,
+ha generado evidenciado un vacío regulatorio que trasciende la mera supervisión del
+establecimiento físico o del profesional que realiza el procedimiento. El problema salubrista no
+radica únicamente en la práctica estética, sino en el manejo y administración de medicamentos
+compuestos cuya naturaleza requiere controles y supervisión especializada. Cuando estos
+productos son preparados sin receta individual previa, adquiridos como ingredientes farmacéuticos
+activos sin adecuada trazabilidad, o prescritos mediante evaluaciones insuficientes, se desdibuja la
+línea entre la composición farmacéutica legítima y la manufactura no regulada. Ello coloca al
+paciente en una posición de vulnerabilidad y dificulta la intervención temprana del Estado ante
+eventos adversos o prácticas negligentes. en la supervisión de los entes reguladores. Estos
+establecimientos, que a menudo operan sin la fiscalización de la Secretaría Auxiliar para
+la Regulación de la Salud Pública Reglamentación y Acreditación de Facilidades de Salud
+(en adelante, SARPSSARAFS) y la Junta Examinadora de Farmacia en materia de
+medicamentos, representan puntos ciegos regulatorios. Los actores malintencionados
+aprovechan estas lagunas legales y de cumplimiento para producir y comercializar
+medicamentos no aprobados a una escala sin precedentes, exponiendo a los pacientes a
+riesgos graves, como la administración de productos ineficaces, contaminados o
+potencialmente peligrosos.
+
+3
+A esta realidad se suma el aumento en la dispensación y envío de medicamentos compuestos
+hacia Puerto Rico por parte de farmacias ubicadas fuera de la jurisdicción, comúnmente
+denominadas farmacias no residentes. Si bien estas entidades pueden estar autorizadas en sus
+estados de origen, su operación hacia pacientes en Puerto Rico plantea retos particulares de
+fiscalización, acceso a información regulatoria y capacidad de respuesta ante eventos adversos o
+incumplimientos. La ausencia histórica de un mecanismo uniforme de registro y supervisión local
+ha limitado la visibilidad de las autoridades regulatorias sobre el volumen, naturaleza y riesgos
+asociados a medicamentos compuestos que ingresan a la jurisdicción desde el exterior,
+especialmente aquellos clasificados como de alto riesgo.
+A lo anterior, se añade la limitada disponibilidad de información pública sobre las acciones
+de fiscalización que realizan las entidades reguladoras para atender esta problemática.
+Actualmente, no existe un mecanismo sistemático de recopilación y divulgación que permita
+conocer, entre otros aspectos, el número de farmacias no residentes que preparan o dispensan
+medicamentos compuestos para pacientes localizados en Puerto Rico, las inspecciones efectuadas,
+la naturaleza de las violaciones detectadas, las investigaciones iniciadas ni las medidas correctivas
+o disciplinarias impuestas. Esta insuficiencia de datos dificulta la evaluación objetiva de la
+efectividad del marco regulatorio vigente y limita la capacidad del Estado para asignar recursos y
+diseñar estrategias basadas en evidencia que fortalezcan la protección de los pacientes.
+La falta de transparencia sobre las acciones que los reguladores están tomando
+para abordar este problema agrava la situación. Actualmente, tanto los legisladores como
+el público general carecen de información clara y detallada sobre las medidas adoptadas
+por SARAFS y la Junta Examinadora de Farmacia para garantizar que la preparación de
+medicamentos se realice de manera segura y legal. Esta opacidad dificulta la evaluación
+de la efectividad de las políticas existentes y la identificación de las áreas donde se
+necesitan recursos adicionales o reformas regulatorias. Por ejemplo, no se conoce con
+precisión el número de inspecciones realizadas a instalaciones que manejan
+medicamentos preparados, ni la naturaleza de las violaciones detectadas, ni las acciones
+disciplinarias tomadas contra los infractores. Esta falta de datos también limita la
+
+4
+capacidad de los responsables de crear políticas para diseñar estrategias que protejan
+eficazmente a los pacientes.
+Además, el aumento en la comercialización de medicamentos preparados a través
+de prácticas engañosas, como la publicidad indebida en plataformas de telemedicina o
+telesalud, añade otra capa de complejidad al problema. Estas prácticas no solo confunden
+a los consumidores, sino que también socavan la confianza en el sistema de salud y en los
+profesionales que operan dentro de los marcos regulatorios establecidos. La ausencia de
+una coordinación efectiva entre las juntas reguladoras y otras agencias estatales,
+contribuye a la persistencia de estas actividades ilícitas.
+Esta Ley busca abordar estas deficiencias al establecer un mecanismo robusto de
+rendición de cuentas y transparencia. Mediante la exigencia de informes bianuales, se
+proporcionará a los legisladores, reguladores y al público una visión clara de las
+actividades de supervisión relacionadas con la preparación de medicamentos. Estos
+informes incluirán datos críticos sobre licencias emitidas, inspecciones realizadas,
+investigaciones abiertas, acciones disciplinarias tomadas y riesgos emergentes. Al
+hacerlo, la Ley no solo promoverá una mayor visibilidad sobre las acciones regulatorias,
+sino que también permitirá identificar las necesidades de recursos humanos y materiales
+de las juntas reguladoras, garantizando que estén adecuadamente equipadas para
+enfrentar los desafíos de la preparación de medicamentos de alto riesgo.
+Por todo lo cual, resulta imperativo enmendar la “Ley de Farmacia de Puerto Rico” para
+establecer un marco legal abarcador que regule y supervise específicamente los medicamentos
+compuestos de alto riesgo, independientemente del entorno en que se administren. Una legislación
+integral debe definir con claridad estos medicamentos, imponer requisitos de receta
+individualizada, asegurar la trazabilidad de los ingredientes activos, exigir notificación de eventos
+adversos y facultar a las autoridades sanitarias para fiscalizar su preparación y dispensación. Solo
+mediante un régimen normativo coherente y robusto podrá el Estado cumplir con su deber
+indelegable de proteger la salud pública, garantizar la seguridad del paciente y prevenir que
+
+5
+prácticas comerciales emergentes comprometan estándares básicos de calidad y responsabilidad
+sanitaria.
+Ante este escenario, esta Ley enmienda la “Ley de Farmacias de Puerto Rico” para
+establecer un marco robusto de transparencia, registro y rendición de cuentas en la supervisión de
+la preparación y dispensación de medicamentos compuestos, particularmente aquellos clasificados
+como de alto riesgo. Como componente esencial, se dispone el requisito de registro de farmacias no
+residentes que envíen, dispensen o distribuyan medicamentos compuestos a pacientes en Puerto
+Rico, con el propósito de permitir a las autoridades regulatorias identificar, evaluar y supervisar
+de manera más efectiva estas operaciones extraterritoriales con impacto directo en la salud pública
+local. Dicho registro facilitará el acceso a información sobre licencias vigentes, historial
+disciplinario, cumplimiento con estándares federales aplicables y volumen de operaciones hacia la
+jurisdicción, fortaleciendo la capacidad de vigilancia y respuesta regulatoria.
+Mediante la implementación de requisitos de informes periódicos, se proveerá a la Asamblea
+Legislativa, a las entidades reguladoras y al público información clara y estandarizada sobre las
+actividades de licenciamiento, registro, inspección, investigación y disciplina relacionadas con
+establecimientos no residentes que manejen medicamentos compuestos. Estos informes permitirán
+identificar tendencias, riesgos emergentes y necesidades de recursos humanos y materiales,
+fortaleciendo la capacidad institucional de fiscalización.
+En última instancia, esta legislación tiene como objetivo fortalecer la protección de
+los pacientes puertorriqueños, asegurando que los medicamentos que reciben sean
+seguros, efectivos y elaborados bajo estrictos estándares de calidad. Al fomentar promover
+una supervisión más efectiva, y coordinada y transparente entre la Secretaría Auxiliar para
+la Regulación de la Salud Pública (SARSP), incluyendo supervisión de farmacias no residentes
+Reglamentación y Acreditación de Facilidades de Salud y la Junta Examinadora de
+Farmacia, esta Ley representa constituye un paso esencial para mitigar crucial hacia la
+mitigación de los riesgos asociados a con la preparación-n ilegal de medicamentos y la
+restauración de para preservar la confianza pública en el sistema de salud.
+
+6
+La Asamblea Legislativa reconoce que las farmacias localizadas físicamente en Puerto Rico,
+debidamente licenciadas, que realizan composición farmacéutica, incluyendo farmacias 503A, ya
+se encuentran sujetas a licenciamiento, inspección y fiscalización directa bajo la Ley 247-2004, los
+reglamentos promulgados por el Departamento de Salud, la Junta Examinadora de Farmacia, leyes
+y reglamentos federales y los estándares USP aplicables. Por tanto, esta Ley no tiene el propósito
+de duplicar permisos, autorizaciones, reportes ni cargas administrativas sobre dichas farmacias
+residentes.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1.02 de la Ley 247-2004, según enmendada,
+2 conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+3 “Artículo 1.02. — Propósito.
+4 El propósito de esta Ley es promover, preservar y proteger la salud, la
+5 seguridad y el bienestar público mediante el control y reglamentación efectivo de la
+6 práctica de farmacia no residente y el licenciamiento, control y reglamentación de los
+7 establecimientos y personas que manufacturan, distribuyen, dispensan y expenden
+8 medicamentos y artefactos que se utilizan en el diagnóstico, tratamiento y prevención
+9 de enfermedades a pacientes localizados en el Estado Libre Asociado de Puerto Rico,
+10 independientemente del lugar físico donde se origine el despacho. Esta Ley no regula o afecta
+11 de modo alguno lo referente al mercadeo de medicamentos por correo desde los
+12 Estados Unidos o el extranjero a la jurisdicción territorial del Estado Libre Asociado
+13 de Puerto Rico.”
+14 Artículo 1.- Título
+15 Esta Ley se conocerá como la “Ley para la Supervisión sobre Medicamentos
+16 Compuestos de Alto Riesgo”.
+
+7
+1 Sección 2. - Se añaden los nuevos incisos (k-1), (u-1), (u-2), (aa-1), (dd-1) (dd-2) y (nn-
+2 1) al Artículo 1.03 de la Ley 247-2004, según enmendada, conocida como “Ley de Farmacia de
+3 Puerto Rico”, para que lea como sigue:
+4 “Artículo 1.03. — Definiciones.
+5 A los fines de esta Ley, los siguientes términos y frases tendrán el significado
+6 que a continuación se indica:
+7 (a) …
+8 …
+9 (k) …
+10 (k-1) Dispensación a paciente localizado en Puerto Rico – La dispensación o despacho
+11 que se realiza por una farmacia no residente a un paciente, prescribiente cuya dirección de
+12 entrega se encuentra en Puerto Rico.
+13 (l) …
+14 …
+15 (u) …
+16 (u-1) Evento Adverso - Cualquier acontecimiento médico desfavorable que ocurra
+17 durante o después del uso de un medicamento y respecto del cual exista una sospecha razonable
+18 de asociación con dicho medicamento, independientemente de que dicha relación causal haya
+19 sido confirmada.
+20 (u-2) Evento Adverso Grave - Un evento adverso que resulte en cualquiera de los
+21 siguientes resultados: muerte, una experiencia que ponga en peligro la vida, hospitalización de
+22 un paciente; una incapacidad o discapacidad persistente o significativa, una anomalía
+
+8
+1 congénita o defecto de nacimiento, o un evento que requiera, según el juicio médico razonable,
+2 una intervención médica o quirúrgica para prevenir alguno de los resultados antes descritos.
+3 (v) …
+4 (aa) …
+5 (aa-1) Farmacia no residente – Establecimiento de servicio de salud dedicados a la
+6 prestación de servicios farmacéuticos, que incluye: la dispensación de medicamentos de receta,
+7 medicamentos sin receta, artefactos y otros productos relacionados con la salud, la prestación
+8 de cuidado farmacéutico y otros servicios dentro de las funciones del farmacéutico establecidas
+9 en esta Ley, incluyendo a instalaciones 503A, localizadas fuera de Puerto Rico que ejerza
+10 dispensación a paciente localizado en Puerto Rico por correo, mensajería, telemedicina o
+11 cualquier otro método remoto.
+12 (bb) …
+13 …
+14 (dd) …
+15 (dd-1) Ingrediente farmacéutico activo - Toda sustancia destinada a incorporarse en un
+16 medicamento terminado y que tenga por objeto proporcionar actividad farmacológica u otro
+17 efecto directo en el diagnóstico, cura, mitigación, tratamiento o prevención de enfermedades, o
+18 afectar la estructura o cualquier función del organismo humano. El término no incluirá los
+19 intermediarios utilizados en la síntesis de dicha sustancia ni los ingredientes inactivos del
+20 medicamento, tales como agentes saborizantes o excipientes.
+21 (dd-2) Facilidad que fabrica un ingrediente farmacéutico activo - el establecimiento
+22 donde se creó originalmente un ingrediente farmacéutico activo mediante procedimientos o
+
+9
+1 manipulaciones químicas, físicas, biológicas o de otro tipo. No incluye a las droguerías ni los
+2 distribuidores al por mayor de medicamentos.
+3 (ee) …
+4 …
+5 (nn) …
+6 (nn-1) Medicamento compuesto de alto riesgo –Medicamento compuesto que, según el
+7 reglamento adoptado por el Departamento de Salud con participación de la Junta Examinadora
+8 de Farmacia y oportunidad de comentario público, presente riesgo significativo documentado
+9 por razón de esterilidad, vía de administración, complejidad de preparación, historial de eventos
+10 adversos, margen terapéutico estrecho o ausencia de controles adecuados de trazabilidad.
+11 Ningún medicamento será clasificado como medicamento compuesto de alto riesgo salvo
+12 que exista evidencia científica documentada de un riesgo significativo para la salud pública,
+13 sustentada por informes de la Food and Drug Administration (FDA).
+14 No se considerará automáticamente de alto riesgo toda preparación estéril por el solo
+15 hecho de ser estéril. La determinación deberá basarse en criterios técnicos y evidencia
+16 documentada.
+17 No se considerará “Medicamento Compuesto de Alto Riesgo” la preparación estéril
+18 realizada dentro de un hospital debidamente licenciado en Puerto Rico, cuando: sea realizada
+19 por una farmacia institucional bajo la supervisión de un farmacéutico licenciado; se administre
+20 exclusivamente a un paciente admitido o registrado; y responda a una orden médica válida,
+21 receta o protocolo terapéutico institucional. Esta exclusión aplicará únicamente a hospitales y
+22 no incluirá spas médicos, clínicas de bienestar, prácticas estéticas, clínicas ambulatorias
+
+10
+1 comerciales, consultorios no institucionales ni establecimientos análogos, independientemente
+2 de su licenciamiento.
+3 (oo) …
+4 …
+5 (mmm) …”
+6 Artículo 2.- Propósito
+7 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+8 Salud (SARAFS) y la Junta Examinadora de Farmacia enfrentan un problema sin
+9 precedentes, y en aumento, de pacientes que reciben medicamentos preparados
+10 ilegalmente, lo que representa riesgos significativos para la salud pública.
+11 El propósito de esta Ley es entender la naturaleza y escala de las actividades de
+12 preparación de medicamentos, incluyendo la supervisión actual de dichas
+13 actividades, para informar futuros esfuerzos que aseguren que los reguladores
+14 cuenten con los recursos necesarios para proteger a los pacientes.
+15 Sección 3. - Se añade un nuevo inciso (f) al Artículo 5.04 de la Ley 247-2004, según
+16 enmendada, conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+17 “Artículo 5.04. — Medicamentos con requisitos especiales para su
+18 dispensación.
+19 (a) …
+20 …
+21 (e) …
+22 (f) Medicamento compuesto de alto riesgo
+
+11
+1 (i) Para la composición y dispensación de medicamentos compuestos de alto
+2 riesgo, las farmacias no residentes deberán solicitar y obtener del Secretario una
+3 autorización especial para la dispensación de tales medicamentos conforme a los
+4 requisitos que se establezcan mediante reglamento. Ninguna farmacia no
+5 residente, podrá dispensar medicamentos compuestos de alto riesgo sin contar
+6 con dicha autorización especial vigente.
+7 (ii) Toda farmacia no residente que obtenga la autorización del Secretario para
+8 la dispensación de medicamentos compuestos de alto riesgo, al momento de su
+9 solicitud inicial y en cada renovación, deberá presentar ante el Secretario, o la
+10 secretaría, división o junta que este designe, una declaración de divulgación de
+11 la actividad de composición farmacéutica (”compounding”) de medicamentos
+12 compuestos preparados y dispensados por dicha farmacia no residente a
+13 pacientes localizados en Puerto Rico que debe al menos incluir:
+14 1. Las categorías de medicamentos compuestos preparados, incluyendo
+15 si son estériles o no estériles;
+16 2. La cantidad total de unidades de medicamentos compuestos
+17 preparadas durante el período de licencia anterior, clasificadas en
+18 preparaciones estériles y no estériles;
+19 3. Una descripción de si los medicamentos compuestos se dispensan para
+20 administración en la farmacia, en un consultorio médico, dispensación
+21 directa al paciente o distribución a otras facilidades;
+
+12
+1 4. El número de pacientes atendidos con medicamentos compuestos
+2 durante el período del informe; y
+3 5. Cualquier información adicional que la normativa exija
+4 razonablemente para evaluar la escala y el perfil de riesgo de las
+5 actividades de preparación de medicamentos compuestos.
+6 6. Toda farmacia no residente deberá incluir en su declaración de
+7 divulgación de la actividad de composición farmacéutica
+8 (”compounding”) de medicamentos compuestos preparados y
+9 dispensados a pacientes localizados en Puerto Rico:
+10 a) Una copia del informe más reciente de inspección del estado
+11 donde está físicamente operando; y
+12 b) Una descripción de cualquier acción disciplinaria impuesta
+13 por cualquier organismo regulador en contra de dicha farmacia
+14 no residente.
+15 (iii) Independientemente de la obtención de una autorización especial para la
+16 dispensación de medicamentos compuestos de alto riesgo, se prohíbe:
+17 1. El envío directo a spas médicos, clínicas estéticas, centros de bienestar
+18 o establecimientos no institucionales no autorizados por la Secretaría
+19 Auxiliar para la Regulación de la Salud Pública (SARSP) del
+20 Departamento de Salud de Puerto Rico;
+21 2. La dispensación basada en protocolos estandarizados sin evaluación
+22 clínica individualizada;
+
+13
+1 (iv) Todo medicamento compuesto de alto riesgo deberá entregarse acompañado
+2 de:
+3 1. nombre y dirección de la farmacia preparadora;
+4 2. nombre del farmacéutico responsable;
+5 3. número de lote o identificación de preparación;
+6 4. fecha de preparación y fecha de expiración clínica;
+7 5. advertencia visible indicando que el producto es un medicamento
+8 compuesto no aprobado por la Food and Drug Administration (FDA),
+9 6. Información de contacto para reportar eventos adversos; y
+10 7. Rotulación adecuada en cumplimiento con el Artículo 5.02 (d) de esta
+11 Ley.
+12 (v) Las farmacias no residentes solo podrán vender, transferir o distribuir
+13 medicamentos compuestos de alto riesgo si se cumplen los siguientes requisitos:
+14 1. El ingrediente farmacéutico activo cumple con la Sección
+15 503A(b)(1)(A) de la Ley Federal de Alimentos, Medicamentos y
+16 Cosméticos (21 U.S.C. § 353a(b)(1)(A));
+17 2. El ingrediente farmacéutico activo es un producto de grado
+18 farmacéutico para uso humano;
+19 3. El ingrediente farmacéutico activo está acompañada de una
+20 certificación válida que contenga la identidad, pureza y potencia del
+21 ingrediente farmacéutico activo, así como cualquier información
+22 adicional que requiera el Secretario;
+
+14
+1 4. Todo ingrediente farmacéutico activo que no esté descrito en la
+2 Farmacopea de los Estados Unidos (United States Pharmacopeia) o del
+3 Formulario Nacional (National Formulary):
+4 a. estará acompañado de documentación de pruebas adecuadas de
+5 control de calidad realizadas por la facilidad que fabrica un
+6 ingrediente farmacéutico activo, un fabricante subsiguiente o un
+7 distribuidor al por mayor, que:
+8 i. confirmen la identidad y el contenido del ingrediente
+9 farmacéutico activo;
+10 ii. informen, identifiquen, caractericen y cuantifiquen
+11 cada impureza y solvente residual presente en el
+12 ingrediente farmacéutico activo en una cantidad que
+13 exceda una décima de uno por ciento (0.1%); y
+14 iii. contengan cualquier información adicional que pueda
+15 requerir el Secretario; o
+16 b. antes de utilizar el ingrediente farmacéutico activo en la
+17 preparación del medicamento compuesto de alto riesgo, la
+18 persona dedicada a la preparación deberá obtener pruebas
+19 adecuadas de control de calidad que contengan la información
+20 especificada en el Artículo 5.04(f)(vi)(4)(a)(i)-(iii). La
+21 información de control de calidad requerida por este Artículo
+
+15
+1 5.04(f)(vi)(5) podrá incluirse en la certificación descrita en el
+2 Artículo 5.04(f)(vi)(3).
+3 (vii)(a) Toda farmacia no residente deberá mantener documentación verificable
+4 de que el ingrediente farmacéutico activo fue fabricado en una facilidad que
+5 fabrica un ingrediente farmacéutico activo que:
+6 1. está debidamente registrado ante la Food and Drug Administration
+7 (FDA) bajo la Sección 510 del Food, Drug and Cosmetic Act (21 U.S.C.
+8 360);
+9 2. ha sido sometido a una inspección por parte de la Food and Drug
+10 Administration (FDA) como establecimiento de medicamentos para uso
+11 humano;
+12 3. no está actualmente sujeto a una inspección no resuelta por parte de
+13 la Food and Drug Administration (FDA) que fue clasificada como
+14 “Acción Oficial Indicada”(“Official Action Indicated”);
+15 4. Actualmente no está sujeto a ninguna Alerta de Importación emitida
+16 por la Food and Drug Administration (FDA); y
+17 5. no está actualmente sujeto a una Carta de Advertencia no resuelta de
+18 la Food and Drug Administration (FDA).
+19 La documentación requerida por este párrafo también debe incluir: País de
+20 origen, dirección y número de identificación de establecimiento de la Food and
+21 Drug Administration (FDA) de la Facilidad que fabrica un ingrediente
+22 farmacéutico activo.
+
+16
+1 (b) Es ilegal que cualquier fabricante o mayorista venda, transfiera o distribuya
+2 un ingrediente farmacéutico activo para su uso en la preparación de compuestos
+3 sin proporcionar al comprador la certificación requerida en el Artículo
+4 5.04(f)(vi)(3), la documentación de pruebas de control de calidad y la
+5 verificación escrita descrita en el Artículo 5.04(f)(vi)(3) al Artículo
+6 5.04(f)(vi)(4) y el Artículo 5.04(f)(viii)(a).
+7 (viii) La preparación de medicamentos compuestos de alto riesgo deberá cumplir
+8 con el Federal Food, Drug and Cosmetic Act, incluyendo las disposiciones de la
+9 Sección 503A (21 U.S.C. 353a).
+10 (ix) (a) Las farmacias no residentes que se dedican a la venta, transferencia o
+11 distribución de medicamentos compuestos de alto riesgo deberán mantener todos
+12 los registros relacionados con la adquisición, el examen y la prueba del
+13 ingrediente farmacéutico activo durante no menos de dos (2) años después de la
+14 fecha de vencimiento del último lote de medicamento compuesto de alto riesgo
+15 que contenga el ingrediente farmacéutico activo y, a solicitud del Secretario,
+16 deberán proporcionar dichos registros dentro de un tiempo razonable según lo
+17 determine el Secretario en función de las circunstancias de la solicitud.
+18 (b) El Secretario o la secretaría, división o junta que este designe, tendrá la
+19 facultad de requerir a cualquier farmacia no residente que venda, transfiera o
+20 distribuya medicamentos compuestos de alto riesgo, así como cualquier
+21 Facilidad que fabrique un ingrediente farmacéutico activo, fabricante posterior
+22 o Distribuidor al por mayor de medicamentos que venda, transfiera o distribuya
+
+17
+1 un ingrediente farmacéutico activo para su uso en la preparación de compuestos,
+2 la documentación, certificaciones, autorizaciones o licencias necesarias para
+3 verificar el cumplimiento con los requisitos del Artículo 5.04(f)(v) al Artículo
+4 5.04(f)(viii). Negarse a proveer documentación requerida por el Secretario o la
+5 secretaría, división o junta que este designe para verificar el cumplimiento con
+6 los requisitos del Artículo 5.04(f)(v) al Artículo 5.04(f)(viii) constituirá una
+7 violación a esta Ley.
+8 (c) El Secretario está autorizado a promulgar las reglas que sean necesarias para
+9 implementar esta Ley.
+10 (x)(a) Las violaciones del Artículo 5.04(f)(vi), 5.04(f)(vii) y 5.04(f)(viii) darán lugar
+11 a:
+12 1. una multa de mil dólares ($1,000) por cada dosis del medicamento compuesto
+13 de alto riesgo vendida, transferida o distribuida; y
+14 2. revocación de la licencia de Distribuidor al por mayor de medicamentos o de
+15 Droguería y cualquier otra licencia, certificado, registro o autorización emitida
+16 por el Secretario de Salud.
+17 (b) Las violaciones del Artículo 5.04(f)(vii)(b) de esta Ley darán lugar a:
+18 1. una multa de mil dólares ($1,000) por cada miligramo del ingrediente
+19 farmacéutico activo distribuido ilegalmente; y
+20 2. revocación de la licencia de Distribuidor al por mayor de medicamentos o de
+21 Droguería.
+
+18
+1 (c) Las violaciones del Artículo 5.04(f)(ix) resultarán en una multa de $5,000 y
+2 darán lugar a la revocación de la licencia correspondiente.
+3 (xi) Todo farmacéutico que conozca de un evento adverso asociado a un
+4 medicamento compuesto de alto riesgo dispensado o administrado a un paciente
+5 localizado en Puerto Rico deberá notificarlo al Departamento de Salud dentro de
+6 diez (10) días laborables desde que advenga en conocimiento, en caso de un evento
+7 adverso grave, deberá notificarlo al Departamento de Salud dentro de cinco (5) días
+8 laborables desde que advenga en conocimiento.”
+9 Artículo 3.- Definiciones
+10 (a) Informe bianual: Reporte que debe ser publicado dos veces al año por las
+11 juntas reguladoras, conteniendo datos sobre la supervisión de la
+12 preparación de medicamentos, conforme a los requisitos de esta Ley.
+13 (b) Junta Examinadora de Farmacia: La entidad reguladora establecida bajo la
+14 Ley Núm. 247-2004 de Puerto Rico encargada de supervisar la práctica de
+15 la farmacia, incluyendo la preparación, distribución y dispensación de
+16 medicamentos.
+17 (c) Medicamentos Compuestos: La práctica de combinar, mezclar o alterar
+18 ingredientes para crear un medicamento adaptado a las necesidades de un
+19 paciente, realizada por farmacias, instalaciones de subcontratación o
+20 profesionales autorizados, conforme a las regulaciones aplicables.
+21 (d) Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+22 Salud (SARAFS): Dependencia del Departamento de Salud de Puerto Rico
+
+19
+1 encargada de inspeccionar y licenciar facilidades de salud para garantizar
+2 que cumplan con las leyes y estándares de calidad. Reglamenta y supervisa
+3 hospitales, farmacias, centros de cirugía ambulatoria y otros servicios de
+4 salud en la isla.
+5 (e) Spa médico o clínica de bienestar: Establecimiento que ofrece servicios
+6 médicos o de bienestar, incluyendo la administración o dispensación de
+7 medicamentos preparados, pero que no está licenciado como hospital o
+8 centro quirúrgico ambulatorio.
+9 Sección 4.- Se añade un nuevo Artículo 5.11-A a la Ley 247-2004, según enmendada,
+10 conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+11 “Artículo 5.11. — Farmacia.
+12 (a)…
+13 …
+14 (i) …
+15 Artículo 5.11-A. – Farmacia no residente con dispensación a paciente localizado en
+16 Puerto Rico.
+17 (a) Ninguna farmacia no residente podrá dispensar, enviar, entregar, causar la entrega,
+18 facturar o de cualquier forma proveer medicamentos a pacientes localizados en Puerto Rico sin
+19 previamente registrarse ante la Secretaría Auxiliar para la Regulación de la Salud Pública
+20 (SARSP) del Departamento de Salud de Puerto Rico como farmacia no residente y recibir un
+21 certificado de registro de farmacia no residente.
+
+20
+1 (b) Para configurar un registro válido y obtener un certificado de registro de farmacia
+2 no residente la farmacia no residente deberá presentar:
+3 1. Una licencia vigente y en buen estado en la jurisdicción donde ubique
+4 físicamente;
+5 2. Aprobación del National Association of Boards of Pharmacy Digital
+6 Pharmacy Accreditation Program;
+7 3. Identificar un representante de cumplimiento regulatorio para pacientes
+8 localizados en Puerto Rico, quien fungirá como punto de contacto principal ante
+9 el Departamento de Salud y responderá ante cualquier evento de
+10 incumplimiento con esta Ley. Un representante no podrá ser designado
+11 responsable para más de una farmacia no residente.
+12 4. Designar un agente representante en Puerto Rico autorizado a recibir
+13 notificaciones administrativas y judiciales;
+14 5. Presentar una declaración jurada certificando y haciendo constar que una vez
+15 registrada la farmacia no residente cumplirá con:
+16 (i) someter certificaciones de cumplimiento con estándares aplicables de
+17 preparación y manejo de medicamentos;
+18 (ii) Mantener y proveer, a requerimiento del Departamento de Salud de
+19 Puerto Rico documentación verificable relacionada con recetas,
+20 preparación, dispensación y envío de medicamentos a pacientes
+21 localizados en Puerto Rico;
+
+21
+1 (iii) Notificar al Departamento de Salud de Puerto Rico cualquier evento
+2 adverso con medicamentos dispensados o administrados a pacientes
+3 localizados en Puerto Rico dentro de un término no mayor de diez (10)
+4 días laborables o en casos de evento adverso grave en cinco (5) días
+5 laborables contados en ambas instancias desde que advenga en
+6 conocimiento o razonablemente debió haber conocido de dicho evento.
+7 (iv) Cumplir con los requisitos de reporte establecidos en esta Ley.
+8 6. Sufragar los derechos establecidos en el Artículo 5.16 de esta Ley.
+9 (c) Requisitos de Reporte. Toda farmacia no residente registrada ante la Secretaría
+10 Auxiliar para la Regulación de la Salud Pública (SARSP) del Departamento de Salud de Puerto
+11 Rico, que a su vez haya obtenido la autorización de medicamentos compuestos de alto riesgo,
+12 deberá al momento del registro y renovación presentar una declaración de divulgación de la
+13 actividad de composición farmacéutica (”compounding”) de medicamentos compuestos
+14 preparados y dispensados a pacientes localizados en Puerto Rico de conformidad con el Artículo
+15 5.04(f) de esta Ley.
+16 (d) Al cumplir con los parámetros de este Artículo, la Secretaría Auxiliar para la
+17 Regulación de la Salud Pública (SARSP) emitirá un Certificado de Registro de farmacia no
+18 residente. El Certificado de Registro de farmacia no residente será válido por un (1) año. El
+19 mismo debe ser renovado anualmente mediante presentación de los documentos requeridos en
+20 este Artículo al menos cuarenta y cinco (45) días antes de su vencimiento.
+21 (e) Ningún plan médico, aseguradora, administrador de beneficios de farmacia (PBM),
+22 hospital, clínica, farmacia o proveedor de salud establecido en Puerto Rico y regulado por las
+
+22
+1 leyes y reglamentos del Gobierno de Puerto Rico podrá pagar, procesar, adjudicar o reembolsar
+2 reclamaciones por medicamentos dispensados a pacientes localizados en Puerto Rico por
+3 farmacias no residentes no registradas conforme a esta Ley.
+4 (f) Ningún profesional de la salud autorizado a ejercer en Puerto Rico y sujeto a las
+5 leyes y reglamentos del Gobierno de Puerto Rico podrá ordenar, coordinar la dispensación ni
+6 administrar medicamentos a través de una farmacia no residente no registrada.
+7 (g) El Secretario, en coordinación o por vía de la Secretaría Auxiliar para la Regulación
+8 de la Salud Pública (SARSP), está facultado para:
+9 1. Emitir órdenes administrativas de cese y desista respecto a la dispensación de
+10 medicamentos hacia pacientes localizados en Puerto Rico;
+11 2. notificar a agencias regulatorias estatales o federales;
+12 3. requerir a planes médicos o PBMs la denegación de reclamaciones
+13 provenientes de farmacias no residente son registradas; y
+14 4. establecer multas administrativas conforme a la Ley 38-2017, según
+15 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme
+16 del Gobierno de Puerto Rico”.
+17 (h) El Secretario, en coordinación o por vía de la Secretaría Auxiliar para la Regulación
+18 de la Salud Pública (SARSP), deberá:
+19 1. Aprobar los reglamentos que sean necesarios para hacer cumplir lo dispuesto
+20 en este Artículo.
+21 2. Publicar el registro de farmacias no residentes.
+
+23
+1 (i) Nada en este Artículo autoriza a la Secretaría Auxiliar para la Regulación de la
+2 Salud Pública (SARSP) ni al Departamento de Salud de Puerto Rico a regular las operaciones
+3 internas de farmacias no residentes. La autoridad conferida se limita exclusivamente a la
+4 protección de la salud pública respecto a la dispensación y administración de medicamentos a
+5 pacientes localizados en Puerto Rico.
+6 (j) Este Artículo se interpretará como una medida de salud pública dirigida
+7 exclusivamente a regular la dispensación de medicamentos a pacientes localizados en Puerto
+8 Rico y no como una regulación extraterritorial del ejercicio de la profesión de la farmacia fuera
+9 de Puerto Rico.”
+10 Sección 5.- Se enmienda el Artículo 5.16 de la Ley 247-2004, según enmendada,
+11 conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+12 “Artículo 5.16. — Vigencia y derechos de licencias, certificados, registros y
+13 autorizaciones.
+14 (a) Las licencias y registros requeridas en este Capítulo, salvo lo relacionado al
+15 Registro de Medicamentos y al Certificado de Registro de Farmacia No Residente, tendrán
+16 dos (2) años de vigencia desde la fecha de su expedición y se renovarán en forma
+17 escalonada, previo el cumplimiento de los requisitos y procedimientos que se
+18 establezcan por reglamento y el pago de los correspondientes derechos; con excepción
+19 de los certificados de registros de medicamentos y/o productos biológicos para
+20 oficinas médicas, dentales y podiátricas, y para ensayos clínicos en instituciones de
+21 educación superior u oficinas médicas, que tendrán tres (3) años de vigencia, y se
+22 obtendrán mediante radicación del registro según la fecha de renovación de licencia
+
+24
+1 profesional del médico, dentista o podiatra, cuando corresponda. Además, será deber
+2 del Departamento de Salud, en lo posible y mientras los recursos fiscales lo permitan,
+3 el establecer los procedimientos para poder radicar y expedir mediante su página
+4 electrónica gubernamental (Internet) la solicitud para obtener las licencias requeridas
+5 en este Capítulo o el Certificado de Registro Trienal de Medicamentos y/o Productos
+6 Biológicos en Oficina Médica, y Certificado de Registro Trienal de Medicamentos y/o
+7 Biológicos para Ensayos Clínicos en Institución de Educación Superior y el certificado
+8 de registro de farmacia no residente.
+9 (b) …
+10 (c) Toda persona que opere más de un establecimiento de los definidos en esta
+11 Ley, deberá solicitar y obtener una licencia, certificado, registro o autorización
+12 separada para cada uno de los establecimientos.
+13 (d) Las licencias, certificados, registros y autorizaciones no serán transferibles.
+14 (e) La licencia, certificado, registro o autorización se expedirá a nombre del
+15 dueño o razón comercial que la solicite y aplicará solamente al establecimiento en la
+16 localización que se indique en la faz de la misma. Además, especificará el tipo de
+17 establecimiento para el cual se otorga según definidos en esta Ley.
+18 (f) Las licencias, certificados, registros y autorizaciones que se enumeran a
+19 continuación pagarán los siguientes derechos que estarán vigentes desde la fecha de
+20 aprobación de esta Ley hasta que el Secretario, mediante reglamento, establezca otros
+21 derechos:
+22 1. …
+
+25
+1 …
+2 17…
+3 18. Certificado de Registro de farmacia no residente - $500.
+4 (g) …
+5 (h) Los ingresos que se recauden por estos conceptos serán depositados en el
+6 Fondo de Salud creado bajo las disposiciones del Artículo 11-A de la Ley Núm. 26 de
+7 13 de noviembre de 1975, según enmendada, para uso exclusivo de la División de
+8 Farmacia, en la fiscalización del cumplimiento de las disposiciones en el Capítulo V
+9 de esta Ley; con excepción de los fondos que se recauden del Certificado de Registro de
+10 Farmacia no residente. Los recaudos del Certificado de Registro de Farmacia no residente
+11 deberán ser transferidos al Departamento de Salud para fortalecer las capacidades de la
+12 Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP).”
+13 Sección 6 Artículo 4.- Se añade un nuevo Artículo 5.18 a la Ley 247-2004, según
+14 enmendada, conocida como “Ley de Farmacia de Puerto Rico”, para que lea como sigue:
+15 Artículo 5.18. – Informe sobre Supervisión de la Preparación de Medicamentos
+16 Compuestos.
+17 La Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP)
+18 Reglamentación y Acreditación de Facilidades de Salud (SARAFS), junto con la Oficina
+19 de Planificación y Desarrollo, o cualquier otra secretaría, unidad, oficina o dependencia que el
+20 Secretario del Departamento de Salud determine, Junta Examinadora de Farmacia y el
+21 Departamento de Justicia, desarrollará y publicará un informe bianual sobre la
+
+26
+1 supervisión de la preparación de medicamentos y los riesgos compuestos asociados
+2 con dichas prácticas. Dicho informe incluirá los siguientes elementos:
+3 (a) El número de certificaciones a farmacias no residentes y tipo de licencias
+4 emitidas por el Secretario, o la secretaría, división o junta que este designe, la
+5 Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+6 Salud (SARAFS) y la Junta Examinadora de Farmacia según aplique, bajo las
+7 cuales el titular de la licencia pueda realizar la preparación para la dispensación
+8 de medicamentos compuestos de alto riesgo, incluyendo un desglose de licencias
+9 residentes y no residentes, y licencias autorizaciones para la dispensación
+10 preparación de medicamentos estéril compuestos estériles para uso parenteral o
+11 cualesquiera otros medicamentos que requieran técnicas asépticas especiales.
+12 (b) El número de certificados de registro de farmacias no residentes emitidos por la
+13 Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP).
+14 (b) (c) El número de instalaciones y prácticas licenciadas, autorizadas o registradas
+15 que han sido inspeccionadas en el último año y en los últimos tres años,
+16 desglosado por tipo de licencia, autorización o registro.
+17 (c) (d) El número de inspecciones realizadas a instalaciones y prácticas
+18 involucradas en la preparación de medicamentos compuestos de alto riesgo, o en
+19 el manejo, almacenamiento, administración, dispensación, distribución u otro
+20 uso de medicamentos preparados en el ámbito minorista o ambulatorio,
+21 incluyendo farmacias no residentes 503A, instalaciones de subcontratación 503B
+
+27
+1 y spas médicos, pero excluyendo instalaciones de salud licenciadas como
+2 hospitales o centros quirúrgicos ambulatorios.
+3 (d) (e) Una descripción de la naturaleza y gravedad de cualquier deficiencia o
+4 posible violación observada durante las inspecciones o reportadas por
+5 farmacéuticos.
+6 (e) (f) El número de investigaciones abiertas por cada entidad reguladora, el
+7 Departamento de Salud, o cualquier otra agencia estatal a la que se le haya referido
+8 una investigación, relacionadas con la preparación de medicamentos.
+9 (f) (g) El número y tipo de acciones disciplinarias tomadas por el Departamento
+10 de Saludcada entidad reguladora, o cualquier otra agencia estatal a la que se le
+11 haya referido una investigación, relacionadas con la preparación de medicamentos
+12 compuestos.
+13 (g) El número y tipo de acciones disciplinarias tomadas por cada entidad
+14 reguladora, o cualquier otra agencia estatal, relacionadas con la
+15 comercialización, publicidad o promoción engañosa o indebida de
+16 medicamentos compuestos, servicios de telemedicina o servicios de telesalud.
+17 (h) Una evaluación de los recursos humanos y materiales de la Junta de
+18 Farmacia, así como de Secretaría Auxiliar para la Regulación de la Salud Pública
+19 (SARSP) Reglamentación y Acreditación de Facilidades de Salud, en relación
+20 con la escala estimada de la preparación de medicamentos compuestos de alto
+21 riesgo.
+
+28
+1 (i) Un análisis de la naturaleza y gravedad de los riesgos emergentes
+2 relacionados con la preparación de medicamentos compuestos de alto riesgo, y
+3 la distribución, comercialización y venta de medicamentos compuestos.
+4 El primer informe se publicará a más tardar el 1 30 de septiembre de 2027 2026,
+5 con datos correspondientes del 1 de enero de 2027 2026 al 30 de junio de 2027 2026.
+6 Posteriormente, los informes se publicarán dos veces al año, a más tardar el 1 de marzo
+7 y el 1 de septiembre de cada año, conteniendo datos de los seis meses anteriores,
+8 respectivamente. Los informes no contendrán información protegida por la Health Insurance
+9 Portability and Accountability Act (HIPPA).
+10 Artículo 5.- Deber de Coordinación.
+11 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+12 Salud (SARAFS) lidera la cordinación con la Junta Examinadora de Farmacia, el
+13 Departamento de Justicia, para garantizar la recopilación precisa y oportuna de los
+14 datos requeridos para los informes bianuales. La Junta Examinadora de Farmacia
+15 proporcionará la información relevante dentro de sus jurisdicciones en un plazo no
+16 mayor a 30 días naturales tras la solicitud de SARAFS.
+17 Artículo 6.- Acceso Público.
+18 Los informes bianuales serán publicados en la página electrónica oficial los sitios
+19 web oficiales de la Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP) o
+20 del Departamento de Salud de Puerto Rico para Reglamentación y Acreditación de
+21 Facilidades de Salud (SARAFS) y de la Junta Examinadora de Farmacia, además de
+22 estar disponibles para consulta pública sin costo alguno. Las entidades notificarán La
+
+29
+1 Secretaría Auxiliar para la Regulación de la Salud Pública (SARSP) notificará al público
+2 sobre la publicación de cada informe mediante comunicados oficiales.
+3 Artículo 7.- Prohibición de Costos Adicionales.
+4 Se prohíbe imponer cualquier cargo monetario a los ciudadanos, profesionales
+5 de la salud o instalaciones licenciadas para el cumplimiento de las disposiciones de la
+6 divulgación del informe bianual establecido en de esta Ley Sección.
+7 Sección 7.- Farmacias localizadas físicamente en la jurisdicción de Puerto Rico.
+8 Nada de lo dispuesto en estas enmiendas, se interpretará como una limitación,
+9 sustitución, duplicación o ampliación de los requisitos aplicables a farmacias localizadas
+10 físicamente en la jurisdicción de Puerto Rico, debidamente licenciadas bajo la Ley 247-2004.
+11 Estas farmacias, incluyendo las farmacias 503A que realicen composición farmacéutica estéril
+12 o no estéril, continuarán reguladas por la “Ley de Farmacia de Puerto Rico”, sus reglamentos,
+13 la Junta Examinadora de Farmacia, el Departamento de Salud y los estándares de USP
+14 aplicables.
+15 Sección 8.- Reglamentación.
+16 El Secretario del Departamento de Salud está autorizado y deberá, dentro de ciento
+17 ochenta (180) días de aprobada esta Ley, aprobar o enmendar los reglamentos que sean
+18 necesarios para el fiel cumplimiento de esta Ley.
+19 Sección 9.- Artículo 8- Cláusula de separabilidad.
+20 Si alguna de las disposiciones de esta Ley o su aplicación fuere declarada
+21 inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la
+22 ejecutabilidad y vigor de las restantes disposiciones que no hayan sido objeto de
+
+30
+1 dictamen adverso.
+2 Sección 10.- Artículo 9.- Vigencia.
+3 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:  Aa  S.d L    r p l m c d a r y l f n d i b p p d l l S A p)O  y A d F d S ( y l J c g u m v s l a o p i d m c r u d]
+[DELETED:  m c s l s a l q c u s p l s p E p e p g  u vor q t l m s d c n r c y s e C e a S y l J E d F e m d r p c r L a m e l l y d c p p y c g c l a d p i c o]
+[DELETED:  P R p p d f u f d l j c d o s o h p e P R p r p d a m c q i a l j d e e f q r l e r p a e p e u m s d r y d q p d i E i d d d l e o d l l e d l p e y l i d l á d s e n d i r a i q m t c l i E f d d t l l]
+[DELETED:  c e e l j r y o a e a l l r y a p u v c d l d s r c l p d m E i d c s l e i r a a d t y r e A l j r g q e a e p d d c c e m i r d r u r n c y r p e E c c s d d p l s p g l s d p y p q]
+[DELETED:  e e e L e l “ d F d P R p D r f e a a i s l v h t r e y n d r h y m p p a q l m q r s a   y y A d F d S y l J E d e L r u p  c h l e p m   l]
+[DELETED:  S e e A 1 d l L 2 s e p d e L e p p y p l s la  e m a l r a m d m p c d l]
+[DELETED:  E A - C a m d q o - p u i o d p o s u a]
+[DELETED:  – a p l e P R p c m t o)I)F -om]
+[DELETED:  d s e  L d d b e c t y eN i s m c d b p e c a]
+[DELETED: (…( ( y l J E d F e u p s y e a d p q r m p d m i l s a d d p i f e q a q l r 5 — M c r e p s]
+[DELETED:  q s e m r N f n p y d p d f n r a L c t d u d m c d e p d l a c e]
+[DELETED:  E n d p a c m c C i a q l n e p e l e y e p d r d l   T f n r d i s d d d l a d c f d m c p y p l R d l S P ( d]
+[DELETED:  a v i q e p u m L f n r s p v t o d E i f a c c l S d l L F d A M y E i f a e u p d g E i f a e a d u i f a a c c i]
+[DELETED:  T i f a q n e d e l d c r p l f q f u i i c y c i y s r p e e f a e u c q a d u e i f a e l d m c d a r l d a l p d o p e e A 5 L]
+[DELETED:  p f F a D A ( q f c c d r p e p t d i P d A ( d l F q f u i]
+[DELETED:  p a c l c r e e A l d d p d c d c y l e d e e A 5 a A r r c l a e e y l p d)E m c d a r a c c]
+[DELETED:  d c a o l n p u m d m d ( p c m d i]
+[DELETED:  T f q c d u e a a a u)I r c d s l s d l)J f i l p d y d d)M C L p d c m o a r p f i d s o)S]
+[DELETED: )S m o c d b E q o s]
+[DELETED:  U l v y e b e e l j d u A d N A o B o P D I u r d c r p p D d S y r a c e d c e L U r n p s d D u a r e P R a a r R d v r c r d y e d m a p]
+[DELETED:  c m d o a a p o c e a i d q a e S d c f ( d m c A c c l p d A l S A p l]
+[DELETED:  p m d a p l e P R p( r a p m o P l d d r e m a c a l L 3 s]
+[DELETED:  d f n r L a c s l e a l E A s i c u m d s p d 5 S e e A 5 d l L 2 s e 5 — V y d d l cs y r r , p e c d l r y p q s l c d r d m y p b p]
+[DELETED:  e l p r y m d s y o u l co o a rs  Lo  s a d L l c  y a q s e a1]
+[DELETED: …1 e L c e d l f q s d C d R d s t a D d S p f l c d l) S S A p  R d l S P ( d d J d y p u i b s l]
+[DELETED:  E n  y t d l c a f n r p  l S o l s d o j q e d A p R y A d F d  ,ea y n r y l p l d  s), h s i e e ú a y e l ú t aa.  E n d i r a i y ps, d m p e e á m o as5]
+[DELETED:  s m p e i d s l c   v o d l io r p  )e    )ed  E n y t d a d t p c e o c o a e r c l p o p e o i d U e d l r h y m d l J d]
+[DELETED:  U a d l n y g d l r es, d 2 2e e 7  ( l l c c l J E d F  e r p l i b L J E d F.    D d S d P Rp R y A d]
+[DELETED:  S . d l d e e e s i c u l d o a d l r a a f l J E d F e D d S y l e d U ( d d a e L a o e l r q s a d l d d e L o s a f d o n t d d i o n n a l y v d l r d q n h s o d]

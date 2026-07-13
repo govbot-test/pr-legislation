@@ -1,0 +1,861 @@
+Title: Para enmendar los Artículos 1563, 1564, 1588, 1589, 1774, 1782, 1783, 1785 y 1787, y
+Official Title: Para enmendar los Artículos 1563, 1564, 1588, 1589, 1774, 1782, 1783, 1785 y 1787, y
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1379
+30 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+añadir un nuevo Artículo 1782A a la Ley Núm. 55-2020, según enmendada, conocida
+como “Código Civil de Puerto Rico”, y enmendar las Secciones 1061.09, 1083.01 y 2054.05
+de la Ley Núm. 1-2011, según enmendada, conocida como “Código de Rentas Internas
+de Puerto Rico de 2011”, a los fines de establecer deberes mínimos de administración,
+valoración y cumplimiento contributivo previo a la partición o distribución de caudales
+hereditarios; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El proceso sucesoral tiene como propósito ordenar la transmisión de los derechos y
+obligaciones de una persona fallecida, proteger los intereses de los herederos, legatarios,
+acreedores y demás personas con derecho sobre el caudal, y asegurar que la partición o
+distribución de los bienes se realice conforme a derecho. En ese proceso, la administración
+adecuada del caudal relicto resulta indispensable para preservar los bienes, identificar
+deudas, valorar activos, cumplir obligaciones legales y evitar distribuciones prematuras
+que afecten derechos de terceros o generen controversias posteriores entre los sucesores.
+La Ley Núm. 55-2020, según enmendada, conocida como “Código Civil de Puerto
+Rico”, contiene disposiciones importantes sobre la herencia yacente, la responsabilidad
+del heredero, las cargas hereditarias, el inventario, el avalúo, la intervención de
+acreedores y el cómputo del caudal. Asimismo, la Ley Núm. 1-2011, según enmendada,
+2
+conocida como “Código de Rentas Internas de Puerto Rico de 2011”, establece
+obligaciones contributivas e informativas aplicables a las sucesiones, incluyendo la
+radicación de planillas, el pago de contribuciones sobre ingresos generados durante la
+administración o liquidación, y la cancelación de gravámenes contributivos.
+No obstante, la experiencia práctica demuestra que, en muchas ocasiones, los procesos
+sucesorales se prolongan durante años, los bienes del caudal generan ingresos, se realizan
+ventas o transacciones antes de la partición final, o se mantienen activos bajo el control
+de uno o varios herederos sin una contabilidad clara de entradas, desembolsos, deudas,
+cargas y reservas. Esa realidad puede provocar que se distribuyan bienes sin haber
+identificado o satisfecho adecuadamente obligaciones contributivas o deudas atribuibles
+al caudal.
+El Tribunal Supremo de Puerto Rico atendió recientemente esta situación en Torres
+Cubano v. Sucesión de Miriam Magdalena Domenech Rosado, 2026 TSPR 64. En dicho
+caso, el Tribunal Supremo reiteró el principio de que las deudas se tienen que pagar antes
+de poder heredar y que los caudales deben estar libres de deudas antes de ser
+distribuidos. Además, reafirmó que los administradores de herencias tienen
+responsabilidades contributivas e informativas con el Departamento de Hacienda que
+deben atenderse antes de distribuir un caudal relicto.
+El Tribunal Supremo también destacó que, para realizar un cómputo adecuado del
+valor total del caudal, deben sustraerse las deudas, incluidas las contributivas, y
+determinarse el valor justo en el mercado de los activos que componen el caudal al
+momento que corresponda conforme al proceso sucesoral. Asimismo, puntualizó la
+importancia de corroborar la radicación de las planillas correspondientes al caudal,
+asegurar el pago de las deudas, realizar una valoración libre de cargas y entonces
+proceder con la liquidación.
+Esta Asamblea Legislativa entiende necesario atemperar el ordenamiento vigente a
+esa realidad sucesoral y contributiva. La presente Ley no pretende imponer cargas
+innecesarias a sucesiones simples ni retrasar indebidamente particiones extrajudiciales
+donde no existan ingresos, ventas, deudas contributivas o controversias. Su propósito es
+3
+establecer reglas mínimas y uniformes para aquellos casos en que el caudal hereditario
+requiera administración, genere ingresos, mantenga deudas, requiera cumplimiento
+contributivo o sea objeto de partición judicial o liquidación formal.
+A tales fines, esta Ley aclara los deberes mínimos de administración, inventario,
+valoración y reserva aplicables antes de la partición, liquidación o distribución final de
+un caudal hereditario. También dispone que, cuando el caudal haya generado ingresos,
+realizado transacciones, mantenido activos productivos o presente deudas contributivas
+conocidas o razonablemente identificables, deberá acreditarse el cumplimiento
+contributivo correspondiente o establecerse una reserva suficiente para proteger el
+caudal, a los herederos y a los acreedores.
+De igual forma, esta Ley incorpora reglas para evitar la distribución prematura de
+bienes hereditarios cuando existan deudas contributivas conocidas, notificadas,
+controvertidas o razonablemente identificables. También reconoce expresamente que las
+obligaciones contributivas atribuibles al causante, al caudal relicto o a los ingresos
+generados durante la administración forman parte de las deudas o cargas que deben
+atenderse antes de la partición, liquidación o adjudicación final.
+Por todo lo anterior, esta Asamblea Legislativa estima necesario enmendar el Código
+Civil de Puerto Rico y el Código de Rentas Internas de Puerto Rico de 2011, a los fines de
+promover mayor certeza jurídica, proteger a los herederos y acreedores, facilitar el
+cumplimiento contributivo sucesoral y evitar litigios relacionados con la distribución
+prematura o incorrecta de caudales hereditarios.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1563 de la Ley Núm. 55-2020, según
+2 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+3 “Artículo 1563. — Administración de la herencia yacente.
+4
+1 La administración de la herencia yacente corresponde a la persona designada por
+2 el causante o, en su defecto, al albacea. A falta de designación, la administración
+3 corresponde a los llamados a suceder. Si no hay acuerdo entre estos, el tribunal nombrará
+4 un administrador provisional.
+5 Cuando la administración de la herencia yacente requiera la conservación de activos
+6 productivos, el manejo de ingresos, la atención de deudas o cargas, o el cumplimiento de
+7 obligaciones contributivas, el administrador deberá observar, en lo aplicable, los deberes mínimos
+8 de documentación, reserva y rendición de información dispuestos en este Código.”
+9 Sección 2.- Se enmienda el Artículo 1564 de la Ley Núm. 55-2020, según
+10 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+11 “Artículo 1564. — Deber del administrador.
+12 El administrador de la herencia yacente debe conservar el caudal hasta que ocurra
+13 la aceptación o la repudiación.
+14 El administrador nombrado por el testador tiene las facultades que este le asigne.
+15 Si no se le asignan facultades o si no hay testamento, estas serán las que corresponden al
+16 administrador judicial según la ley.
+17 El administrador está autorizado a realizar las reparaciones necesarias en los
+18 bienes, pero las útiles solo puede realizarlas con autorización judicial. Las reparaciones
+19 son con cargo al caudal.
+20 El deber de conservar el caudal incluye, según la naturaleza y complejidad de la herencia,
+21 documentar los bienes bajo administración, identificar deudas y cargas conocidas, preservar
+22 evidencia de ingresos y desembolsos, y abstenerse de realizar distribuciones que puedan dejar el
+5
+1 caudal sin recursos suficientes para pagar, afianzar o reservar deudas u obligaciones contributivas
+2 conocidas o razonablemente identificables.
+3 Estos deberes serán proporcionales al valor, composición y complejidad del caudal, y no
+4 impedirán actuaciones ordinarias de conservación, pagos necesarios de administración ni
+5 distribuciones autorizadas por ley, acuerdo válido o determinación judicial.”
+6 Sección 3.- Se enmienda el Artículo 1588 de la Ley Núm. 55-2020, según
+7 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+8 “Artículo 1588. — Extensión de la responsabilidad del heredero.
+9 Cuando las obligaciones de la herencia exceden el valor de los activos del caudal,
+10 el heredero responde con su patrimonio si enajena, consume o emplea bienes hereditarios
+11 para el pago de obligaciones hereditarias no vencidas. También responde de la pérdida
+12 o el deterioro que, por su culpa o negligencia, se produzca en los bienes hereditarios.
+13 El heredero, administrador o persona que tenga control efectivo de bienes del caudal
+14 responderá, hasta el valor de los bienes que haya recibido, distribuido, enajenado, consumido o
+15 empleado, cuando con conocimiento de la existencia de deudas, cargas u obligaciones contributivas
+16 del caudal, o cuando razonablemente debió conocerlas, distribuya o permita distribuir bienes sin
+17 haber pagado, afianzado o reservado cantidad suficiente para satisfacerlas. Esta responsabilidad no
+18 impedirá las acciones de repetición, nivelación o reembolso que procedan entre herederos,
+19 legatarios, administradores o demás personas que hayan recibido bienes del caudal.”
+20 Sección 4.- Se enmienda el Artículo 1589 de la Ley Núm. 55-2020, según
+21 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+22 “Artículo 1589. — Cargas hereditarias.
+6
+1 Se consideran cargas hereditarias:
+2 (a) los gastos del funeral del causante;
+3 (b) los gastos del inventario y las demás operaciones de la partición;
+4 (c) los gastos de la conservación y administración de los bienes de la herencia;
+5 (d) los gastos de entrega del legado;
+6 (e) la retribución de los ejecutores; y
+7 (f) los demás gastos de naturaleza análoga.
+8 También se considerarán cargas hereditarias, en la medida que correspondan conforme a la
+9 ley aplicable, las obligaciones contributivas atribuibles al causante, al caudal relicto o a los ingresos
+10 generados por los bienes del caudal durante su administración o liquidación, incluyendo intereses,
+11 penalidades, recargos, gastos de preparación de planillas, certificaciones, tasaciones, cancelaciones
+12 de gravamen y demás gastos razonables y necesarios para cumplir con las obligaciones
+13 contributivas sucesorales.”
+14 Sección 5.- Se enmienda el Artículo 1774 de la Ley Núm. 55-2020, según
+15 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+16 “Artículo 1774. — La partición de la herencia.
+17 La partición de la herencia comprende el inventario, el avalúo, el pago de las
+18 deudas, la división y la adjudicación de los bienes.
+19 El pago de las deudas comprende las obligaciones del causante, las cargas hereditarias, las
+20 obligaciones contributivas atribuibles al caudal y aquellas obligaciones surgidas de ingresos,
+21 transacciones, administración, conservación o liquidación de bienes hereditarios. Antes de la
+7
+1 división y adjudicación final, deberán pagarse, afianzarse, consignarse o reservarse adecuadamente
+2 las deudas y cargas conocidas, notificadas, controvertidas o razonablemente identificables.”
+3 Sección 6.- Se enmienda el Artículo 1782 de la Ley Núm. 55-2020, según
+4 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+5 “Artículo 1782. — Inventario.
+6 El inventario es la relación clara, precisa y detallada de los bienes, las deudas y las
+7 cargas que constituyen la herencia de manera que queden suficientemente identificados.
+8 Cuando el caudal haya generado ingresos, mantenido activos productivos, realizado ventas,
+9 recibido distribuciones, efectuado desembolsos o estado sujeto a obligaciones contributivas durante
+10 su administración o liquidación, el inventario deberá incluir, según aplique, una relación de dichos
+11 ingresos, desembolsos, transacciones, reclamaciones, planillas radicadas, certificaciones
+12 contributivas, solicitudes pendientes ante el Departamento de Hacienda, gravámenes, deudas
+13 determinadas, deudas controvertidas y reservas propuestas para atender obligaciones pendientes.
+14 El inventario deberá distinguir, según aplique, entre activos líquidos, activos sujetos a
+15 gravamen, activos productivos, activos indivisos, reclamaciones pendientes y bienes cuya
+16 valoración requiera tasación, certificación, liquidación de deuda o determinación contributiva
+17 previa.”
+18 Sección 7.- Se añade un nuevo Artículo 1782A a la Ley Núm. 55-2020, según
+19 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+20 “Artículo 1782A. — Deberes mínimos previos a la partición, liquidación o distribución.
+21 Antes de realizar la partición, liquidación, adjudicación o distribución final de un caudal
+22 hereditario, deberá constar, según la naturaleza y complejidad de la herencia, lo siguiente:
+8
+1 (a) inventario de los bienes, deudas y cargas del caudal;
+2 (b) avalúo de los bienes, deudas, cargas y gravámenes que incidan sobre el valor neto del
+3 caudal;
+4 (c) identificación de deudas conocidas, notificadas, controvertidas o razonablemente
+5 identificables;
+6 (d) identificación de ingresos, desembolsos, ventas, distribuciones, rentas, dividendos,
+7 intereses, ganancias de capital o cualquier otra partida atribuible a los bienes del caudal durante
+8 su administración o liquidación;
+9 (e) evidencia de cumplimiento contributivo, solicitud pendiente, certificación, relevo,
+10 cancelación de gravamen, autorización condicionada, reserva, fianza o consignación, cuando ello
+11 sea requerido por el Código de Rentas Internas de Puerto Rico de 2011 o por el Departamento de
+12 Hacienda; y
+13 (f) notificación a los herederos, legatarios y demás personas con derecho sobre el caudal de
+14 las deudas, cargas, reclamaciones, obligaciones contributivas o reservas que puedan afectar el valor
+15 neto a distribuir.
+16 No se requerirá certificación contributiva sucesoral adicional en sucesiones sencillas
+17 cuando no existan ingresos generados durante la administración o liquidación, ventas o
+18 transferencias de activos antes de la distribución final, activos productivos, deudas contributivas
+19 conocidas o razonablemente identificables, controversias contributivas pendientes o cualquier otra
+20 circunstancia que, conforme al Código de Rentas Internas de Puerto Rico de 2011 o a las guías
+21 administrativas del Departamento de Hacienda, requiera verificación adicional.
+9
+1 Nada de lo dispuesto en este Artículo impedirá distribuciones parciales, anticipos, pagos
+2 administrativos o transacciones necesarias para preservar el caudal, siempre que dichas
+3 actuaciones estén autorizadas por ley, acuerdo válido o determinación judicial, y no menoscaben
+4 la capacidad del caudal para atender deudas, cargas u obligaciones contributivas conocidas o
+5 razonablemente identificables.”
+6 Sección 8.- Se enmienda el Artículo 1783 de la Ley Núm. 55-2020, según
+7 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+8 “Artículo 1783. — Avalúo.
+9 El inventario incluye el avalúo de cada uno de los bienes, las deudas y las cargas
+10 hereditarias al momento de la partición.
+11 El avalúo deberá reflejar, según corresponda, el valor justo en el mercado de los bienes del
+12 caudal y el monto actualizado de las deudas, cargas, gravámenes y obligaciones contributivas que
+13 deban deducirse antes de la división, adjudicación, conmutación o distribución final.
+14 Cuando una ley contributiva, registral o especial requiera una fecha de valoración distinta
+15 para fines particulares, dicha valoración deberá hacerse constar separadamente, sin sustituir el
+16 avalúo requerido para la partición conforme a este Código. En caso de controversia sobre el valor
+17 de un bien, deuda o carga, el tribunal podrá ordenar tasación, certificación, estado de deuda,
+18 informe pericial o cualquier otra evidencia confiable necesaria para determinar el valor neto del
+19 caudal.”
+20 Sección 9.- Se enmienda el Artículo 1785 de la Ley Núm. 55-2020, según
+21 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+22 “Artículo 1785. — Intervención de los acreedores.
+10
+1 Los acreedores del causante pueden oponerse a que se realice la partición hasta
+2 que se les pague o se afiance el importe de sus créditos.
+3 Para fines de este Artículo, se considerarán acreedores del caudal, en la medida que
+4 corresponda conforme a la ley aplicable, el Gobierno de Puerto Rico, sus agencias, los municipios
+5 y cualquier instrumentalidad pública con reclamaciones contributivas, multas, cargos, derechos,
+6 arbitrios, contribuciones, intereses, penalidades o gravámenes atribuibles al causante, al caudal
+7 relicto o a los ingresos generados por bienes hereditarios durante su administración o liquidación.
+8 Los acreedores de un coheredero pueden intervenir en la partición para evitar el
+9 fraude y el perjuicio.
+10 La intervención u oposición de un acreedor no impedirá la partición cuando el tribunal
+11 determine que la deuda ha sido pagada, afianzada, consignada, reservada adecuadamente o que
+12 existe una certificación, autorización condicionada o mecanismo equivalente suficiente para
+13 proteger el crédito reclamado.”
+14 Sección 10.- Se enmienda el Artículo 1787 de la Ley Núm. 55-2020, según
+15 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+16 “Artículo 1787. — El cómputo del caudal.
+17 Para efectos de la fijación de la legítima, el cómputo del caudal se rige por las
+18 siguientes reglas:
+19 (a) al caudal relicto valorado al momento de la partición se le deducen las deudas
+20 y las cargas no testamentarias; y
+21 (b) al valor neto se le añade el de las liberalidades computables que hizo en vida
+22 el causante, calculado al momento en que se efectuaron.
+11
+1 Sin perjuicio de lo anterior, en toda operación particional, liquidación, adjudicación,
+2 conmutación o distribución final de derechos hereditarios, el caudal neto a distribuir se
+3 determinará luego de deducir las deudas, cargas, gravámenes, gastos de administración,
+4 obligaciones contributivas y reservas necesarias que correspondan conforme a este Código, el
+5 Código de Rentas Internas de Puerto Rico de 2011 y demás leyes aplicables.
+6 Cuando existan ingresos generados por bienes del caudal durante su administración o
+7 liquidación, dichos ingresos y las contribuciones atribuibles a estos deberán considerarse para
+8 determinar el valor neto del caudal y la participación que corresponda a cada heredero, legatario o
+9 titular de derechos sucesorales.”
+10 Sección 11.- Se enmienda el párrafo (1) del apartado (a) de la Sección 1061.09 de la
+11 Ley Núm. 1-2011, según enmendada, conocida como “Código de Rentas Internas de
+12 Puerto Rico de 2011”, y se añade un nuevo apartado (c), para que lea como sigue:
+13 “Sección 1061.09. — Planillas de Sucesiones y Fideicomisos.
+14 (a) Radicación de Planillas. —
+15 (1) Regla general. — Toda sucesión o fideicomiso que tribute bajo las disposiciones
+16 del Subcapítulo C del Capítulo 8 de este Subtítulo rendirá una planilla anual, bajo
+17 penalidades de perjurio, haciendo constar específicamente las partidas de ingreso bruto,
+18 entradas y desembolsos y aquella otra información en la forma y manera que el Secretario
+19 prescriba mediante reglamento, carta circular, boletín informativo, o determinación
+20 administrativa de carácter general.
+21 En el caso de una sucesión, la planilla anual deberá reflejar, según aplique, los ingresos
+22 generados por los bienes del caudal durante su administración o liquidación, los desembolsos
+12
+1 efectuados con cargo al caudal, las distribuciones parciales realizadas, las reservas establecidas
+2 para deudas o cargas, y cualquier otra información necesaria para determinar el cumplimiento
+3 contributivo de la sucesión antes de su partición, liquidación o distribución final.
+4 (c) Certificación de cumplimiento contributivo sucesoral. — El Secretario establecerá,
+5 mediante reglamento, carta circular, boletín informativo o determinación administrativa de
+6 carácter general, el procedimiento para solicitar y emitir una certificación de cumplimiento
+7 contributivo sucesoral en aquellos casos en que una sucesión:
+8 (1) haya generado ingresos durante su administración o liquidación;
+9 (2) haya vendido, transferido o dispuesto de activos del caudal antes de la partición o
+10 distribución final;
+11 (3) haya recibido distribuciones, dividendos, rentas, intereses, ganancias de capital,
+12 ingresos de entidades conducto o cualquier otra partida tributable atribuible al caudal;
+13 (4) haya permanecido en administración o liquidación por más de un año contributivo
+14 luego del fallecimiento del causante;
+15 (5) mantenga deudas contributivas determinadas, notificadas, controvertidas o
+16 razonablemente identificables; o
+17 (6) sea objeto de partición judicial, liquidación formal o solicitud de distribución final en la
+18 que se requiera acreditar el cumplimiento contributivo del caudal.
+19 La certificación de cumplimiento contributivo sucesoral podrá acreditar, según
+20 corresponda, que las planillas requeridas han sido radicadas, que las contribuciones determinadas
+21 han sido pagadas, que no surgen deudas contributivas notificadas, que existe una deuda pendiente,
+13
+1 que existe una controversia administrativa o judicial, o que se ha establecido una reserva, fianza,
+2 consignación o autorización condicionada suficiente para permitir la partición o distribución.
+3 La certificación dispuesta en este apartado no sustituirá el certificado de cancelación de
+4 gravamen, relevo, planilla final o planilla informativa de caudal relicto requeridos por este Código,
+5 salvo que el Secretario expresamente disponga, mediante reglamento, carta circular, boletín
+6 informativo o determinación administrativa de carácter general, los casos en que un documento
+7 pueda servir para más de un propósito contributivo.”
+8 Sección 12.- Se añade un nuevo apartado (d) a la Sección 1083.01 de la Ley Núm.
+9 1-2011, según enmendada, conocida como “Código de Rentas Internas de Puerto Rico de
+10 2011”, para que lea como sigue:
+11 “Sección 1083.01. — Imposición de la Contribución.
+12 (d) Reserva para obligaciones contributivas antes de distribuir. — El fiduciario,
+13 administrador, albacea o persona que tenga control efectivo de bienes o ingresos de una sucesión
+14 deberá retener, separar o reservar del caudal cantidad suficiente para el pago de contribuciones
+15 determinadas, notificadas, vencidas, controvertidas o razonablemente identificables, incluyendo
+16 intereses, penalidades y recargos aplicables, antes de realizar una distribución final de bienes,
+17 ingresos o activos del caudal.
+18 La obligación dispuesta en este apartado aplicará únicamente en la medida en que existan
+19 ingresos, transacciones, activos productivos, deudas contributivas, reclamaciones pendientes o
+20 circunstancias que requieran cumplimiento contributivo por la sucesión conforme a este Código.
+21 Nada de lo aquí dispuesto impedirá distribuciones parciales autorizadas por ley, por orden judicial
+14
+1 o por acuerdo válido, siempre que se mantenga reserva suficiente para las obligaciones
+2 contributivas conocidas o razonablemente identificables.”
+3 Sección 13.- Se enmienda el párrafo (1) del apartado (a) de la Sección 2054.05 de la
+4 Ley Núm. 1-2011, según enmendada, conocida como “Código de Rentas Internas de
+5 Puerto Rico de 2011”, para que lea como sigue:
+6 “Sección 2054.05. — Actuaciones Prohibidas a Menos que se Presente Documento
+7 que Acredite la Cancelación del Gravamen.
+8 (a) Propiedad del Caudal Relicto o Transferida en Donación. — Con respecto a
+9 cualquier propiedad sujeta al gravamen impuesto por la Sección 2054.01 de este Subtítulo
+10 por haber sido objeto de transferencia por herencia, manda, legado o donación, con
+11 relación a la cual no se presente el certificado de cancelación de gravamen dispuesto por
+12 la Sección 2054.02 de este Subtítulo, se observarán las siguientes reglas:
+13 (1) Tribunales, Notarios y Registradores de la Propiedad. — Excepto en los casos
+14 específicos autorizados por las Secciones 2051.08 y 2051.01 de este Subtítulo, ningún
+15 tribunal aprobará la división o distribución, venta, entrega, cesión o ejecución de hipoteca
+16 sin que se deduzca y se deje depositado en corte, del producto de la subasta, a nombre
+17 del Secretario, el monto de las contribuciones que éste haya determinado o determine es
+18 atribuible a dicha propiedad; y ningún notario autorizará, expedirá o certificará
+19 documento alguno de división o distribución, venta, entrega, cesión o hipoteca de tal
+20 propiedad exceptuándose de esta prohibición la certificación de documentos otorgados
+21 con anterioridad al fallecimiento del causante; y ningún registrador de la propiedad
+22 inscribirá en registro alguno a su cargo, ningún documento notarial, sentencia o acto
+15
+1 judicial, otorgado, dictado o emitido, en relación con cualquier división o distribución,
+2 venta, entrega o hipoteca de la mencionada propiedad.
+3 Cuando se trate de una partición, liquidación o distribución final de un caudal hereditario
+4 y surja de los documentos presentados que la sucesión generó ingresos durante su administración
+5 o liquidación, vendió o transfirió activos antes de la distribución final, mantuvo activos
+6 productivos, recibió ingresos de entidades conducto o tiene deudas contributivas determinadas,
+7 notificadas, controvertidas o razonablemente identificables, el tribunal o notario podrá requerir
+8 evidencia de pago, reserva, fianza, consignación, certificación de cumplimiento contributivo
+9 sucesoral o autorización condicionada emitida o reconocida por el Secretario, según corresponda.
+10 Lo anterior no impedirá la autorización de particiones o distribuciones en sucesiones
+11 sencillas cuando no surjan ingresos, transacciones, deudas contributivas o circunstancias que
+12 requieran una certificación adicional al certificado de cancelación de gravamen, relevo, planilla
+13 final o planilla informativa de caudal relicto exigidos por este Código.”
+14 Sección 14.- Reglamentación.
+15 El Secretario de Hacienda deberá adoptar o actualizar, mediante reglamento, carta
+16 circular, boletín informativo o determinación administrativa de carácter general, los
+17 procedimientos, formularios o requisitos necesarios para implementar la certificación de
+18 cumplimiento contributivo sucesoral dispuesta en esta Ley.
+19 Dicha reglamentación o guía administrativa deberá establecer, como mínimo:
+20 (a) los casos en que será necesaria la certificación de cumplimiento contributivo
+21 sucesoral;
+16
+1 (b) los documentos que deberá presentar el administrador, albacea, fiduciario,
+2 heredero o persona autorizada;
+3 (c) el contenido de la certificación;
+4 (d) los efectos de una certificación condicionada;
+5 (e) la forma en que podrán acreditarse pagos, reservas, fianzas, consignaciones o
+6 controversias contributivas pendientes;
+7 (f) los casos en que el certificado de cancelación de gravamen, relevo, planilla final
+8 o planilla informativa de caudal relicto podrá servir como evidencia suficiente de
+9 cumplimiento contributivo sucesoral; y
+10 (g) los mecanismos electrónicos disponibles para solicitar, emitir o validar dicha
+11 certificación.
+12 El Departamento de Hacienda deberá completar dicha reglamentación o guía
+13 administrativa en un término no mayor de ciento veinte (120) días contados a partir de la
+14 aprobación de esta Ley.
+15 Sección 15.- Cláusula de interpretación.
+16 Nada de lo dispuesto en esta Ley se interpretará como una limitación a las
+17 facultades del Departamento de Hacienda para tasar, cobrar, auditar, requerir
+18 información, emitir certificados condicionados, imponer penalidades o ejercer cualquier
+19 otra facultad reconocida por el Código de Rentas Internas de Puerto Rico de 2011 o por
+20 cualquier otra ley aplicable.
+21 Tampoco se interpretará esta Ley como una prohibición absoluta de distribuciones
+22 parciales, anticipos, pagos administrativos o transacciones necesarias para preservar el
+17
+1 caudal, siempre que dichas actuaciones sean autorizadas por ley, por acuerdo válido o
+2 por el tribunal, y no menoscaben la capacidad del caudal para atender deudas, cargas u
+3 obligaciones contributivas conocidas o razonablemente identificables.
+4 Sección 16.- Aplicabilidad.
+5 Las disposiciones de esta Ley aplicarán a los procesos de partición, liquidación,
+6 adjudicación o distribución de caudales hereditarios que se inicien a partir de la fecha de
+7 vigencia de esta Ley, así como a aquellos procesos pendientes en los que, a dicha fecha,
+8 no se haya aprobado judicialmente, otorgado notarialmente o perfeccionado la
+9 distribución final del caudal.
+10 No se afectarán particiones, liquidaciones, adjudicaciones, distribuciones,
+11 escrituras, sentencias, relevos, certificados o actos válidamente perfeccionados con
+12 anterioridad a la vigencia de esta Ley.
+13 Sección 17.- Separabilidad.
+14 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+15 disposición, sección, inciso o parte de esta Ley fuera anulada o declarada inconstitucional,
+16 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará las demás
+17 disposiciones de esta Ley.
+18 Sección 18.- Vigencia.
+19 Esta Ley comenzará a regir ciento veinte (120) días después de su aprobación.
+[DELETED: 0 A 3 .rL   h l c h e i e a l i d]
+[DELETED:  c “ d R I d P R d 2 e c e i a a l s i l y r E r p p q s d b s h p h y q l c d e l d d a d s A r q l a d h t t d c d s l d i l c y e v j e e m d l a q c e c a q c c a p s A p l d c l r d l p c a c e p d l d r u v l d c y e r s y c L p L n p i c]
+[DELETED:  a g i m d r c t f e L a l d m d a i o r i d a e c c o e u r s p p e h c e d c c n c a a c a c r o a l i m c j p a l h y a f e c s y e l r c l d 1 S e e A 1 d l L N 5 s]
+[DELETED:  c o e s d a a A f d d l a C l a d l h y r l c d a p e m d i l a d d o c o e c d o d 2 S e e A 1 d l L N 5 s a e a a r l r n e l E d l b b a i d y c c p e]
+[DELETED:  c c E i a o d c p n d a n d 3 S e e A 1 d l L N 5 s E h a o p q t c e d b d c r e d h i l a d r n o r q p e h l 4 S e e A 1 d l L N 5 s]
+[DELETED:  T l g p d g y d g r y n p c c l o c 5 S e e A 1 d l L N 5 s h E o c a a c y a o s d i t a c o l d b h A d l]
+[DELETED:  d l 6 S e e A 1 d l L N 5 s C r s i d t r p r c c s p a e D d H g d d E g a p a i r p y b c v r t c l d d o d c p 7 S a u n A 1 a l L N 5 s “ A h]
+[DELETED:  ( ( c ( i d d c n c o r i ( i d i d v d r d i s ( e d c c s p c r c s H ( l n N s r c c s a e s s c n e i g d l a o l v o t c c a]
+[DELETED:  N a o t n p p e c s q d a l c d c p a d c u o c c o r 8 S e e A 1 d l L N 5 s E c d C p a d i c 9 S e e A 1 d l L N 5 s]
+[DELETED:  P f d e A s c a d c e l m q c y a r L d e u c a c o m e s p p 1 S e e A 1 d l L N 5 s]
+[DELETED:  S p d l a e t o p l a c o d f d d h e c n a d s d l d d l d c g g d a o c y r n q c c a e C e C C l d t N 1 s e c c “ d R I d S C d C 8 d e S r u p a b m r c c b i o d E g a]
+[DELETED:  e p c ( C d c c s — E S e m r c c b i o d a d c g e p p s y e u c d c c ( ( d ( h r d d r i g d c i ( l ( m d c d n c o r ( q L c d c c s p a s c h]
+[DELETED:  q c L g s q e S e d m r c c b i p ( R p o c a d d — E f a d d i i L i c N]
+[DELETED:  o p a v s q s m r s p l o c N 1 s e c c “ d R I d h s o d t p h m l o d c a p l S 2 y 2 d e S n a d p y n n a e o c a a f d c y n r d l p]
+[DELETED:  C y o l v o t a a d l d f m a p n e d p r f c c d c c s L a n i l a d p o d e s s r f b i o d a d c g l]
+[DELETED:  l d q d p e a a f p i d c r p s c e s d D d H d c d r o g d l d e e L s i c u l a l d D d H p t c a r]
+[DELETED:  s h a j o n o p l s a p l a d s r c o a v p c  c c p s o p l a s d a e e n a p n i l d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1379
+30 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 1563, 1564, 1588, 1589, 1774, 1782, 1783, 1785 y 1787, y
+añadir un nuevo Artículo 1782A a la Ley Núm. 55-2020, según enmendada, conocida
+como “Código Civil de Puerto Rico”, y enmendar las Secciones 1061.09, 1083.01 y 2054.05
+de la Ley Núm. 1-2011, según enmendada, conocida como “Código de Rentas Internas
+de Puerto Rico de 2011”, a los fines de establecer deberes mínimos de administración,
+valoración y cumplimiento contributivo previo a la partición o distribución de caudales
+hereditarios; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El proceso sucesoral tiene como propósito ordenar la transmisión de los derechos y
+obligaciones de una persona fallecida, proteger los intereses de los herederos, legatarios,
+acreedores y demás personas con derecho sobre el caudal, y asegurar que la partición o
+distribución de los bienes se realice conforme a derecho. En ese proceso, la administración
+adecuada del caudal relicto resulta indispensable para preservar los bienes, identificar
+deudas, valorar activos, cumplir obligaciones legales y evitar distribuciones prematuras
+que afecten derechos de terceros o generen controversias posteriores entre los sucesores.
+La Ley Núm. 55-2020, según enmendada, conocida como “Código Civil de Puerto
+Rico”, contiene disposiciones importantes sobre la herencia yacente, la responsabilidad
+del heredero, las cargas hereditarias, el inventario, el avalúo, la intervención de
+acreedores y el cómputo del caudal. Asimismo, la Ley Núm. 1-2011, según enmendada,
+
+2
+conocida como “Código de Rentas Internas de Puerto Rico de 2011”, establece
+obligaciones contributivas e informativas aplicables a las sucesiones, incluyendo la
+radicación de planillas, el pago de contribuciones sobre ingresos generados durante la
+administración o liquidación, y la cancelación de gravámenes contributivos.
+No obstante, la experiencia práctica demuestra que, en muchas ocasiones, los procesos
+sucesorales se prolongan durante años, los bienes del caudal generan ingresos, se realizan
+ventas o transacciones antes de la partición final, o se mantienen activos bajo el control
+de uno o varios herederos sin una contabilidad clara de entradas, desembolsos, deudas,
+cargas y reservas. Esa realidad puede provocar que se distribuyan bienes sin haber
+identificado o satisfecho adecuadamente obligaciones contributivas o deudas atribuibles
+al caudal.
+El Tribunal Supremo de Puerto Rico atendió recientemente esta situación en Torres
+Cubano v. Sucesión de Miriam Magdalena Domenech Rosado, 2026 TSPR 64. En dicho
+caso, el Tribunal Supremo reiteró el principio de que las deudas se tienen que pagar antes
+de poder heredar y que los caudales deben estar libres de deudas antes de ser
+distribuidos. Además, reafirmó que los administradores de herencias tienen
+responsabilidades contributivas e informativas con el Departamento de Hacienda que
+deben atenderse antes de distribuir un caudal relicto.
+El Tribunal Supremo también destacó que, para realizar un cómputo adecuado del
+valor total del caudal, deben sustraerse las deudas, incluidas las contributivas, y
+determinarse el valor justo en el mercado de los activos que componen el caudal al
+momento que corresponda conforme al proceso sucesoral. Asimismo, puntualizó la
+importancia de corroborar la radicación de las planillas correspondientes al caudal,
+asegurar el pago de las deudas, realizar una valoración libre de cargas y entonces
+proceder con la liquidación.
+Esta Asamblea Legislativa entiende necesario atemperar el ordenamiento vigente a
+esa realidad sucesoral y contributiva. La presente Ley no pretende imponer cargas
+innecesarias a sucesiones simples ni retrasar indebidamente particiones extrajudiciales
+donde no existan ingresos, ventas, deudas contributivas o controversias. Su propósito es
+
+3
+establecer reglas mínimas y uniformes para aquellos casos en que el caudal hereditario
+requiera administración, genere ingresos, mantenga deudas, requiera cumplimiento
+contributivo o sea objeto de partición judicial o liquidación formal.
+A tales fines, esta Ley aclara los deberes mínimos de administración, inventario,
+valoración y reserva aplicables antes de la partición, liquidación o distribución final de
+un caudal hereditario. También dispone que, cuando el caudal haya generado ingresos,
+realizado transacciones, mantenido activos productivos o presente deudas contributivas
+conocidas o razonablemente identificables, deberá acreditarse el cumplimiento
+contributivo correspondiente o establecerse una reserva suficiente para proteger el
+caudal, a los herederos y a los acreedores.
+De igual forma, esta Ley incorpora reglas para evitar la distribución prematura de
+bienes hereditarios cuando existan deudas contributivas conocidas, notificadas,
+controvertidas o razonablemente identificables. También reconoce expresamente que las
+obligaciones contributivas atribuibles al causante, al caudal relicto o a los ingresos
+generados durante la administración forman parte de las deudas o cargas que deben
+atenderse antes de la partición, liquidación o adjudicación final.
+Por todo lo anterior, esta Asamblea Legislativa estima necesario enmendar el Código
+Civil de Puerto Rico y el Código de Rentas Internas de Puerto Rico de 2011, a los fines de
+promover mayor certeza jurídica, proteger a los herederos y acreedores, facilitar el
+cumplimiento contributivo sucesoral y evitar litigios relacionados con la distribución
+prematura o incorrecta de caudales hereditarios.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1563 de la Ley Núm. 55-2020, según
+2 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+3 “Artículo 1563. — Administración de la herencia yacente.
+
+4
+1 La administración de la herencia yacente corresponde a la persona designada por
+2 el causante o, en su defecto, al albacea. A falta de designación, la administración
+3 corresponde a los llamados a suceder. Si no hay acuerdo entre estos, el tribunal nombrará
+4 un administrador provisional.
+5 Cuando la administración de la herencia yacente requiera la conservación de activos
+6 productivos, el manejo de ingresos, la atención de deudas o cargas, o el cumplimiento de
+7 obligaciones contributivas, el administrador deberá observar, en lo aplicable, los deberes mínimos
+8 de documentación, reserva y rendición de información dispuestos en este Código.”
+9 Sección 2.- Se enmienda el Artículo 1564 de la Ley Núm. 55-2020, según
+10 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+11 “Artículo 1564. — Deber del administrador.
+12 El administrador de la herencia yacente debe conservar el caudal hasta que ocurra
+13 la aceptación o la repudiación.
+14 El administrador nombrado por el testador tiene las facultades que este le asigne.
+15 Si no se le asignan facultades o si no hay testamento, estas serán las que corresponden al
+16 administrador judicial según la ley.
+17 El administrador está autorizado a realizar las reparaciones necesarias en los
+18 bienes, pero las útiles solo puede realizarlas con autorización judicial. Las reparaciones
+19 son con cargo al caudal.
+20 El deber de conservar el caudal incluye, según la naturaleza y complejidad de la herencia,
+21 documentar los bienes bajo administración, identificar deudas y cargas conocidas, preservar
+22 evidencia de ingresos y desembolsos, y abstenerse de realizar distribuciones que puedan dejar el
+
+5
+1 caudal sin recursos suficientes para pagar, afianzar o reservar deudas u obligaciones contributivas
+2 conocidas o razonablemente identificables.
+3 Estos deberes serán proporcionales al valor, composición y complejidad del caudal, y no
+4 impedirán actuaciones ordinarias de conservación, pagos necesarios de administración ni
+5 distribuciones autorizadas por ley, acuerdo válido o determinación judicial.”
+6 Sección 3.- Se enmienda el Artículo 1588 de la Ley Núm. 55-2020, según
+7 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+8 “Artículo 1588. — Extensión de la responsabilidad del heredero.
+9 Cuando las obligaciones de la herencia exceden el valor de los activos del caudal,
+10 el heredero responde con su patrimonio si enajena, consume o emplea bienes hereditarios
+11 para el pago de obligaciones hereditarias no vencidas. También responde de la pérdida
+12 o el deterioro que, por su culpa o negligencia, se produzca en los bienes hereditarios.
+13 El heredero, administrador o persona que tenga control efectivo de bienes del caudal
+14 responderá, hasta el valor de los bienes que haya recibido, distribuido, enajenado, consumido o
+15 empleado, cuando con conocimiento de la existencia de deudas, cargas u obligaciones contributivas
+16 del caudal, o cuando razonablemente debió conocerlas, distribuya o permita distribuir bienes sin
+17 haber pagado, afianzado o reservado cantidad suficiente para satisfacerlas. Esta responsabilidad no
+18 impedirá las acciones de repetición, nivelación o reembolso que procedan entre herederos,
+19 legatarios, administradores o demás personas que hayan recibido bienes del caudal.”
+20 Sección 4.- Se enmienda el Artículo 1589 de la Ley Núm. 55-2020, según
+21 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+22 “Artículo 1589. — Cargas hereditarias.
+
+6
+1 Se consideran cargas hereditarias:
+2 (a) los gastos del funeral del causante;
+3 (b) los gastos del inventario y las demás operaciones de la partición;
+4 (c) los gastos de la conservación y administración de los bienes de la herencia;
+5 (d) los gastos de entrega del legado;
+6 (e) la retribución de los ejecutores; y
+7 (f) los demás gastos de naturaleza análoga.
+8 También se considerarán cargas hereditarias, en la medida que correspondan conforme a la
+9 ley aplicable, las obligaciones contributivas atribuibles al causante, al caudal relicto o a los ingresos
+10 generados por los bienes del caudal durante su administración o liquidación, incluyendo intereses,
+11 penalidades, recargos, gastos de preparación de planillas, certificaciones, tasaciones, cancelaciones
+12 de gravamen y demás gastos razonables y necesarios para cumplir con las obligaciones
+13 contributivas sucesorales.”
+14 Sección 5.- Se enmienda el Artículo 1774 de la Ley Núm. 55-2020, según
+15 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+16 “Artículo 1774. — La partición de la herencia.
+17 La partición de la herencia comprende el inventario, el avalúo, el pago de las
+18 deudas, la división y la adjudicación de los bienes.
+19 El pago de las deudas comprende las obligaciones del causante, las cargas hereditarias, las
+20 obligaciones contributivas atribuibles al caudal y aquellas obligaciones surgidas de ingresos,
+21 transacciones, administración, conservación o liquidación de bienes hereditarios. Antes de la
+
+7
+1 división y adjudicación final, deberán pagarse, afianzarse, consignarse o reservarse adecuadamente
+2 las deudas y cargas conocidas, notificadas, controvertidas o razonablemente identificables.”
+3 Sección 6.- Se enmienda el Artículo 1782 de la Ley Núm. 55-2020, según
+4 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+5 “Artículo 1782. — Inventario.
+6 El inventario es la relación clara, precisa y detallada de los bienes, las deudas y las
+7 cargas que constituyen la herencia de manera que queden suficientemente identificados.
+8 Cuando el caudal haya generado ingresos, mantenido activos productivos, realizado ventas,
+9 recibido distribuciones, efectuado desembolsos o estado sujeto a obligaciones contributivas durante
+10 su administración o liquidación, el inventario deberá incluir, según aplique, una relación de dichos
+11 ingresos, desembolsos, transacciones, reclamaciones, planillas radicadas, certificaciones
+12 contributivas, solicitudes pendientes ante el Departamento de Hacienda, gravámenes, deudas
+13 determinadas, deudas controvertidas y reservas propuestas para atender obligaciones pendientes.
+14 El inventario deberá distinguir, según aplique, entre activos líquidos, activos sujetos a
+15 gravamen, activos productivos, activos indivisos, reclamaciones pendientes y bienes cuya
+16 valoración requiera tasación, certificación, liquidación de deuda o determinación contributiva
+17 previa.”
+18 Sección 7.- Se añade un nuevo Artículo 1782A a la Ley Núm. 55-2020, según
+19 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+20 “Artículo 1782A. — Deberes mínimos previos a la partición, liquidación o distribución.
+21 Antes de realizar la partición, liquidación, adjudicación o distribución final de un caudal
+22 hereditario, deberá constar, según la naturaleza y complejidad de la herencia, lo siguiente:
+
+8
+1 (a) inventario de los bienes, deudas y cargas del caudal;
+2 (b) avalúo de los bienes, deudas, cargas y gravámenes que incidan sobre el valor neto del
+3 caudal;
+4 (c) identificación de deudas conocidas, notificadas, controvertidas o razonablemente
+5 identificables;
+6 (d) identificación de ingresos, desembolsos, ventas, distribuciones, rentas, dividendos,
+7 intereses, ganancias de capital o cualquier otra partida atribuible a los bienes del caudal durante
+8 su administración o liquidación;
+9 (e) evidencia de cumplimiento contributivo, solicitud pendiente, certificación, relevo,
+10 cancelación de gravamen, autorización condicionada, reserva, fianza o consignación, cuando ello
+11 sea requerido por el Código de Rentas Internas de Puerto Rico de 2011 o por el Departamento de
+12 Hacienda; y
+13 (f) notificación a los herederos, legatarios y demás personas con derecho sobre el caudal de
+14 las deudas, cargas, reclamaciones, obligaciones contributivas o reservas que puedan afectar el valor
+15 neto a distribuir.
+16 No se requerirá certificación contributiva sucesoral adicional en sucesiones sencillas
+17 cuando no existan ingresos generados durante la administración o liquidación, ventas o
+18 transferencias de activos antes de la distribución final, activos productivos, deudas contributivas
+19 conocidas o razonablemente identificables, controversias contributivas pendientes o cualquier otra
+20 circunstancia que, conforme al Código de Rentas Internas de Puerto Rico de 2011 o a las guías
+21 administrativas del Departamento de Hacienda, requiera verificación adicional.
+
+9
+1 Nada de lo dispuesto en este Artículo impedirá distribuciones parciales, anticipos, pagos
+2 administrativos o transacciones necesarias para preservar el caudal, siempre que dichas
+3 actuaciones estén autorizadas por ley, acuerdo válido o determinación judicial, y no menoscaben
+4 la capacidad del caudal para atender deudas, cargas u obligaciones contributivas conocidas o
+5 razonablemente identificables.”
+6 Sección 8.- Se enmienda el Artículo 1783 de la Ley Núm. 55-2020, según
+7 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+8 “Artículo 1783. — Avalúo.
+9 El inventario incluye el avalúo de cada uno de los bienes, las deudas y las cargas
+10 hereditarias al momento de la partición.
+11 El avalúo deberá reflejar, según corresponda, el valor justo en el mercado de los bienes del
+12 caudal y el monto actualizado de las deudas, cargas, gravámenes y obligaciones contributivas que
+13 deban deducirse antes de la división, adjudicación, conmutación o distribución final.
+14 Cuando una ley contributiva, registral o especial requiera una fecha de valoración distinta
+15 para fines particulares, dicha valoración deberá hacerse constar separadamente, sin sustituir el
+16 avalúo requerido para la partición conforme a este Código. En caso de controversia sobre el valor
+17 de un bien, deuda o carga, el tribunal podrá ordenar tasación, certificación, estado de deuda,
+18 informe pericial o cualquier otra evidencia confiable necesaria para determinar el valor neto del
+19 caudal.”
+20 Sección 9.- Se enmienda el Artículo 1785 de la Ley Núm. 55-2020, según
+21 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+22 “Artículo 1785. — Intervención de los acreedores.
+
+10
+1 Los acreedores del causante pueden oponerse a que se realice la partición hasta
+2 que se les pague o se afiance el importe de sus créditos.
+3 Para fines de este Artículo, se considerarán acreedores del caudal, en la medida que
+4 corresponda conforme a la ley aplicable, el Gobierno de Puerto Rico, sus agencias, los municipios
+5 y cualquier instrumentalidad pública con reclamaciones contributivas, multas, cargos, derechos,
+6 arbitrios, contribuciones, intereses, penalidades o gravámenes atribuibles al causante, al caudal
+7 relicto o a los ingresos generados por bienes hereditarios durante su administración o liquidación.
+8 Los acreedores de un coheredero pueden intervenir en la partición para evitar el
+9 fraude y el perjuicio.
+10 La intervención u oposición de un acreedor no impedirá la partición cuando el tribunal
+11 determine que la deuda ha sido pagada, afianzada, consignada, reservada adecuadamente o que
+12 existe una certificación, autorización condicionada o mecanismo equivalente suficiente para
+13 proteger el crédito reclamado.”
+14 Sección 10.- Se enmienda el Artículo 1787 de la Ley Núm. 55-2020, según
+15 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+16 “Artículo 1787. — El cómputo del caudal.
+17 Para efectos de la fijación de la legítima, el cómputo del caudal se rige por las
+18 siguientes reglas:
+19 (a) al caudal relicto valorado al momento de la partición se le deducen las deudas
+20 y las cargas no testamentarias; y
+21 (b) al valor neto se le añade el de las liberalidades computables que hizo en vida
+22 el causante, calculado al momento en que se efectuaron.
+
+11
+1 Sin perjuicio de lo anterior, en toda operación particional, liquidación, adjudicación,
+2 conmutación o distribución final de derechos hereditarios, el caudal neto a distribuir se
+3 determinará luego de deducir las deudas, cargas, gravámenes, gastos de administración,
+4 obligaciones contributivas y reservas necesarias que correspondan conforme a este Código, el
+5 Código de Rentas Internas de Puerto Rico de 2011 y demás leyes aplicables.
+6 Cuando existan ingresos generados por bienes del caudal durante su administración o
+7 liquidación, dichos ingresos y las contribuciones atribuibles a estos deberán considerarse para
+8 determinar el valor neto del caudal y la participación que corresponda a cada heredero, legatario o
+9 titular de derechos sucesorales.”
+10 Sección 11.- Se enmienda el párrafo (1) del apartado (a) de la Sección 1061.09 de la
+11 Ley Núm. 1-2011, según enmendada, conocida como “Código de Rentas Internas de
+12 Puerto Rico de 2011”, y se añade un nuevo apartado (c), para que lea como sigue:
+13 “Sección 1061.09. — Planillas de Sucesiones y Fideicomisos.
+14 (a) Radicación de Planillas. —
+15 (1) Regla general. — Toda sucesión o fideicomiso que tribute bajo las disposiciones
+16 del Subcapítulo C del Capítulo 8 de este Subtítulo rendirá una planilla anual, bajo
+17 penalidades de perjurio, haciendo constar específicamente las partidas de ingreso bruto,
+18 entradas y desembolsos y aquella otra información en la forma y manera que el Secretario
+19 prescriba mediante reglamento, carta circular, boletín informativo, o determinación
+20 administrativa de carácter general.
+21 En el caso de una sucesión, la planilla anual deberá reflejar, según aplique, los ingresos
+22 generados por los bienes del caudal durante su administración o liquidación, los desembolsos
+
+12
+1 efectuados con cargo al caudal, las distribuciones parciales realizadas, las reservas establecidas
+2 para deudas o cargas, y cualquier otra información necesaria para determinar el cumplimiento
+3 contributivo de la sucesión antes de su partición, liquidación o distribución final.
+4 (c) Certificación de cumplimiento contributivo sucesoral. — El Secretario establecerá,
+5 mediante reglamento, carta circular, boletín informativo o determinación administrativa de
+6 carácter general, el procedimiento para solicitar y emitir una certificación de cumplimiento
+7 contributivo sucesoral en aquellos casos en que una sucesión:
+8 (1) haya generado ingresos durante su administración o liquidación;
+9 (2) haya vendido, transferido o dispuesto de activos del caudal antes de la partición o
+10 distribución final;
+11 (3) haya recibido distribuciones, dividendos, rentas, intereses, ganancias de capital,
+12 ingresos de entidades conducto o cualquier otra partida tributable atribuible al caudal;
+13 (4) haya permanecido en administración o liquidación por más de un año contributivo
+14 luego del fallecimiento del causante;
+15 (5) mantenga deudas contributivas determinadas, notificadas, controvertidas o
+16 razonablemente identificables; o
+17 (6) sea objeto de partición judicial, liquidación formal o solicitud de distribución final en la
+18 que se requiera acreditar el cumplimiento contributivo del caudal.
+19 La certificación de cumplimiento contributivo sucesoral podrá acreditar, según
+20 corresponda, que las planillas requeridas han sido radicadas, que las contribuciones determinadas
+21 han sido pagadas, que no surgen deudas contributivas notificadas, que existe una deuda pendiente,
+
+13
+1 que existe una controversia administrativa o judicial, o que se ha establecido una reserva, fianza,
+2 consignación o autorización condicionada suficiente para permitir la partición o distribución.
+3 La certificación dispuesta en este apartado no sustituirá el certificado de cancelación de
+4 gravamen, relevo, planilla final o planilla informativa de caudal relicto requeridos por este Código,
+5 salvo que el Secretario expresamente disponga, mediante reglamento, carta circular, boletín
+6 informativo o determinación administrativa de carácter general, los casos en que un documento
+7 pueda servir para más de un propósito contributivo.”
+8 Sección 12.- Se añade un nuevo apartado (d) a la Sección 1083.01 de la Ley Núm.
+9 1-2011, según enmendada, conocida como “Código de Rentas Internas de Puerto Rico de
+10 2011”, para que lea como sigue:
+11 “Sección 1083.01. — Imposición de la Contribución.
+12 (d) Reserva para obligaciones contributivas antes de distribuir. — El fiduciario,
+13 administrador, albacea o persona que tenga control efectivo de bienes o ingresos de una sucesión
+14 deberá retener, separar o reservar del caudal cantidad suficiente para el pago de contribuciones
+15 determinadas, notificadas, vencidas, controvertidas o razonablemente identificables, incluyendo
+16 intereses, penalidades y recargos aplicables, antes de realizar una distribución final de bienes,
+17 ingresos o activos del caudal.
+18 La obligación dispuesta en este apartado aplicará únicamente en la medida en que existan
+19 ingresos, transacciones, activos productivos, deudas contributivas, reclamaciones pendientes o
+20 circunstancias que requieran cumplimiento contributivo por la sucesión conforme a este Código.
+21 Nada de lo aquí dispuesto impedirá distribuciones parciales autorizadas por ley, por orden judicial
+
+14
+1 o por acuerdo válido, siempre que se mantenga reserva suficiente para las obligaciones
+2 contributivas conocidas o razonablemente identificables.”
+3 Sección 13.- Se enmienda el párrafo (1) del apartado (a) de la Sección 2054.05 de la
+4 Ley Núm. 1-2011, según enmendada, conocida como “Código de Rentas Internas de
+5 Puerto Rico de 2011”, para que lea como sigue:
+6 “Sección 2054.05. — Actuaciones Prohibidas a Menos que se Presente Documento
+7 que Acredite la Cancelación del Gravamen.
+8 (a) Propiedad del Caudal Relicto o Transferida en Donación. — Con respecto a
+9 cualquier propiedad sujeta al gravamen impuesto por la Sección 2054.01 de este Subtítulo
+10 por haber sido objeto de transferencia por herencia, manda, legado o donación, con
+11 relación a la cual no se presente el certificado de cancelación de gravamen dispuesto por
+12 la Sección 2054.02 de este Subtítulo, se observarán las siguientes reglas:
+13 (1) Tribunales, Notarios y Registradores de la Propiedad. — Excepto en los casos
+14 específicos autorizados por las Secciones 2051.08 y 2051.01 de este Subtítulo, ningún
+15 tribunal aprobará la división o distribución, venta, entrega, cesión o ejecución de hipoteca
+16 sin que se deduzca y se deje depositado en corte, del producto de la subasta, a nombre
+17 del Secretario, el monto de las contribuciones que éste haya determinado o determine es
+18 atribuible a dicha propiedad; y ningún notario autorizará, expedirá o certificará
+19 documento alguno de división o distribución, venta, entrega, cesión o hipoteca de tal
+20 propiedad exceptuándose de esta prohibición la certificación de documentos otorgados
+21 con anterioridad al fallecimiento del causante; y ningún registrador de la propiedad
+22 inscribirá en registro alguno a su cargo, ningún documento notarial, sentencia o acto
+
+15
+1 judicial, otorgado, dictado o emitido, en relación con cualquier división o distribución,
+2 venta, entrega o hipoteca de la mencionada propiedad.
+3 Cuando se trate de una partición, liquidación o distribución final de un caudal hereditario
+4 y surja de los documentos presentados que la sucesión generó ingresos durante su administración
+5 o liquidación, vendió o transfirió activos antes de la distribución final, mantuvo activos
+6 productivos, recibió ingresos de entidades conducto o tiene deudas contributivas determinadas,
+7 notificadas, controvertidas o razonablemente identificables, el tribunal o notario podrá requerir
+8 evidencia de pago, reserva, fianza, consignación, certificación de cumplimiento contributivo
+9 sucesoral o autorización condicionada emitida o reconocida por el Secretario, según corresponda.
+10 Lo anterior no impedirá la autorización de particiones o distribuciones en sucesiones
+11 sencillas cuando no surjan ingresos, transacciones, deudas contributivas o circunstancias que
+12 requieran una certificación adicional al certificado de cancelación de gravamen, relevo, planilla
+13 final o planilla informativa de caudal relicto exigidos por este Código.”
+14 Sección 14.- Reglamentación.
+15 El Secretario de Hacienda deberá adoptar o actualizar, mediante reglamento, carta
+16 circular, boletín informativo o determinación administrativa de carácter general, los
+17 procedimientos, formularios o requisitos necesarios para implementar la certificación de
+18 cumplimiento contributivo sucesoral dispuesta en esta Ley.
+19 Dicha reglamentación o guía administrativa deberá establecer, como mínimo:
+20 (a) los casos en que será necesaria la certificación de cumplimiento contributivo
+21 sucesoral;
+
+16
+1 (b) los documentos que deberá presentar el administrador, albacea, fiduciario,
+2 heredero o persona autorizada;
+3 (c) el contenido de la certificación;
+4 (d) los efectos de una certificación condicionada;
+5 (e) la forma en que podrán acreditarse pagos, reservas, fianzas, consignaciones o
+6 controversias contributivas pendientes;
+7 (f) los casos en que el certificado de cancelación de gravamen, relevo, planilla final
+8 o planilla informativa de caudal relicto podrá servir como evidencia suficiente de
+9 cumplimiento contributivo sucesoral; y
+10 (g) los mecanismos electrónicos disponibles para solicitar, emitir o validar dicha
+11 certificación.
+12 El Departamento de Hacienda deberá completar dicha reglamentación o guía
+13 administrativa en un término no mayor de ciento veinte (120) días contados a partir de la
+14 aprobación de esta Ley.
+15 Sección 15.- Cláusula de interpretación.
+16 Nada de lo dispuesto en esta Ley se interpretará como una limitación a las
+17 facultades del Departamento de Hacienda para tasar, cobrar, auditar, requerir
+18 información, emitir certificados condicionados, imponer penalidades o ejercer cualquier
+19 otra facultad reconocida por el Código de Rentas Internas de Puerto Rico de 2011 o por
+20 cualquier otra ley aplicable.
+21 Tampoco se interpretará esta Ley como una prohibición absoluta de distribuciones
+22 parciales, anticipos, pagos administrativos o transacciones necesarias para preservar el
+
+17
+1 caudal, siempre que dichas actuaciones sean autorizadas por ley, por acuerdo válido o
+2 por el tribunal, y no menoscaben la capacidad del caudal para atender deudas, cargas u
+3 obligaciones contributivas conocidas o razonablemente identificables.
+4 Sección 16.- Aplicabilidad.
+5 Las disposiciones de esta Ley aplicarán a los procesos de partición, liquidación,
+6 adjudicación o distribución de caudales hereditarios que se inicien a partir de la fecha de
+7 vigencia de esta Ley, así como a aquellos procesos pendientes en los que, a dicha fecha,
+8 no se haya aprobado judicialmente, otorgado notarialmente o perfeccionado la
+9 distribución final del caudal.
+10 No se afectarán particiones, liquidaciones, adjudicaciones, distribuciones,
+11 escrituras, sentencias, relevos, certificados o actos válidamente perfeccionados con
+12 anterioridad a la vigencia de esta Ley.
+13 Sección 17.- Separabilidad.
+14 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+15 disposición, sección, inciso o parte de esta Ley fuera anulada o declarada inconstitucional,
+16 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará las demás
+17 disposiciones de esta Ley.
+18 Sección 18.- Vigencia.
+19 Esta Ley comenzará a regir ciento veinte (120) días después de su aprobación.
+
+[DELETED: 0 A 3 .rL   h l c h e i e a l i d]
+[DELETED:  c “ d R I d P R d 2 e c e i a a l s i l y r E r p p q s d b s h p h y q l c d e l d d a d s A r q l a d h t t d c d s l d i l c y e v j e e m d l a q c e c a q c c a p s A p l d c l r d l p c a c e p d l d r u v l d c y e r s y c L p L n p i c]
+[DELETED:  a g i m d r c t f e L a l d m d a i o r i d a e c c o e u r s p p e h c e d c c n c a a c a c r o a l i m c j p a l h y a f e c s y e l r c l d 1 S e e A 1 d l L N 5 s]
+[DELETED:  c o e s d a a A f d d l a C l a d l h y r l c d a p e m d i l a d d o c o e c d o d 2 S e e A 1 d l L N 5 s a e a a r l r n e l E d l b b a i d y c c p e]
+[DELETED:  c c E i a o d c p n d a n d 3 S e e A 1 d l L N 5 s E h a o p q t c e d b d c r e d h i l a d r n o r q p e h l 4 S e e A 1 d l L N 5 s]
+[DELETED:  T l g p d g y d g r y n p c c l o c 5 S e e A 1 d l L N 5 s h E o c a a c y a o s d i t a c o l d b h A d l]
+[DELETED:  d l 6 S e e A 1 d l L N 5 s C r s i d t r p r c c s p a e D d H g d d E g a p a i r p y b c v r t c l d d o d c p 7 S a u n A 1 a l L N 5 s “ A h]
+[DELETED:  ( ( c ( i d d c n c o r i ( i d i d v d r d i s ( e d c c s p c r c s H ( l n N s r c c s a e s s c n e i g d l a o l v o t c c a]
+[DELETED:  N a o t n p p e c s q d a l c d c p a d c u o c c o r 8 S e e A 1 d l L N 5 s E c d C p a d i c 9 S e e A 1 d l L N 5 s]
+[DELETED:  P f d e A s c a d c e l m q c y a r L d e u c a c o m e s p p 1 S e e A 1 d l L N 5 s]
+[DELETED:  S p d l a e t o p l a c o d f d d h e c n a d s d l d d l d c g g d a o c y r n q c c a e C e C C l d t N 1 s e c c “ d R I d S C d C 8 d e S r u p a b m r c c b i o d E g a]
+[DELETED:  e p c ( C d c c s — E S e m r c c b i o d a d c g e p p s y e u c d c c ( ( d ( h r d d r i g d c i ( l ( m d c d n c o r ( q L c d c c s p a s c h]
+[DELETED:  q c L g s q e S e d m r c c b i p ( R p o c a d d — E f a d d i i L i c N]
+[DELETED:  o p a v s q s m r s p l o c N 1 s e c c “ d R I d h s o d t p h m l o d c a p l S 2 y 2 d e S n a d p y n n a e o c a a f d c y n r d l p]
+[DELETED:  C y o l v o t a a d l d f m a p n e d p r f c c d c c s L a n i l a d p o d e s s r f b i o d a d c g l]
+[DELETED:  l d q d p e a a f p i d c r p s c e s d D d H d c d r o g d l d e e L s i c u l a l d D d H p t c a r]
+[DELETED:  s h a j o n o p l s a p l a d s r c o a v p c  c c p s o p l a s d a e e n a p n i l d]

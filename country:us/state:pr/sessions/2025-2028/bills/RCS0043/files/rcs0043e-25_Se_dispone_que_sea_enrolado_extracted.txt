@@ -1,0 +1,146 @@
+Title: Para ordenar al Departamento de la Vivienda del Gobierno de Puerto Rico a digitalizar
+Official Title: Para ordenar al Departamento de la Vivienda del Gobierno de Puerto Rico a digitalizar
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+(R. C. del S. 43)
+RESOLUCIÓN CONJUNTA
+todos los expedientes originales ubicados en sus oficinas regionales,
+particularmente aquellos relacionados con propiedades bajo usufructo, vacantes o
+en proceso de actualización; así como la digitalización de planos y documentos
+técnicos, a los fines de preservar la información en caso de desastres naturales,
+incendios, inundaciones u otras emergencias.
+EXPOSICIÓN DE MOTIVOS
+El manejo eficiente y seguro de la información constituye un componente esencial
+en la administración pública moderna. En el caso del Departamento de la Vivienda, la
+conservación y organización adecuada de documentos originales—incluyendo
+expedientes de propiedad, planos, proyectos de construcción y datos técnicos e
+históricos— es fundamental para proteger los derechos de los ciudadanos, garantizar la
+continuidad de los procesos gubernamentales y promover la transparencia
+administrativa.
+Actualmente, muchas de las oficinas regionales del Departamento de la Vivienda
+albergan expedientes físicos que contienen información sensitiva sobre propiedades bajo
+usufructo, terrenos vacantes o casos en proceso de actualización. En numerosos casos,
+estos documentos existen únicamente en papel, lo que los hace altamente vulnerables a
+daños o pérdida en situaciones de riesgo, como incendios, inundaciones, huracanes,
+vandalismo o cualquier otro evento fortuito.
+Puerto Rico se encuentra en una zona geográfica altamente propensa a desastres
+naturales, incluyendo huracanes, terremotos y lluvias torrenciales. Esta realidad impone
+la necesidad urgente de establecer mecanismos eficaces de preservación digital que
+aseguren la protección y disponibilidad de la información gubernamental esencial. La
+digitalización de expedientes no solo actúa como medida de contingencia ante
+emergencias, sino que también facilita el acceso a la información, reduce la carga
+administrativa y permite una mejor coordinación interagencial.
+Esta Resolución Conjunta tiene como propósito ordenar al Departamento de la
+Vivienda a digitalizar todos los expedientes físicos localizados en sus oficinas regionales,
+particularmente aquellos relacionados con propiedades bajo usufructo, terrenos vacantes
+o en proceso de actualización. Asimismo, se dispone la digitalización de planos y
+documentos técnicos relacionados. Esta acción es indispensable para preservar
+documentación que pudiera ser vital para reclamaciones futuras, trámites de titularidad,
+planificación urbana y cumplimiento con normativa estatal y federal.
+2
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se ordena al Departamento de la Vivienda a llevar a cabo un proceso
+sistemático de digitalización de todos los expedientes físicos que obren en sus oficinas
+regionales, con especial atención a aquellos casos de propiedades bajo usufructo,
+propiedades vacantes o casos que se encuentren en proceso de actualización
+administrativa.
+Sección 2.- De la misma manera, se ordena la digitalización de todos los planos,
+documentos técnicos y diagramas que estén bajo la custodia de las oficinas regionales del
+Departamento de la Vivienda.
+Sección 3.- El Departamento deberá establecer un protocolo de respaldo seguro para
+estos archivos digitales, utilizando almacenamiento en la nube, sistemas redundantes y
+medidas de ciberseguridad, de forma que se garantice el acceso a esta información en
+caso de desastres naturales, incendios, inundaciones repentinas u otras emergencias que
+puedan afectar los expedientes físicos.
+Sección 4.- El Departamento de la Vivienda presentará un informe a la Asamblea
+Legislativa en un término no mayor de ciento veinte (120) días desde la aprobación de
+esta Resolución Conjunta, en el que detalle:
+a) El inventario inicial de documentos a digitalizar;
+b) El plan de trabajo y calendario estimado para completar la digitalización;
+c) Recursos disponibles y aquellos que se requieran para su implementación;
+d) Cualquier recomendación para viabilizar este proceso mediante
+colaboración interagencial o alianzas público-privadas.
+e) Asignar un enlace para typro o cualquier sistema de data entry por región
+para mantener los datos actualizados.
+Sección 5.- Esta Resolución Conjunta comenzará a regir inmediatamente después de
+su aprobación.
+[DELETED:  l e o u e s o r y o a d d o d p p p d c y d t e d l p g y p l t o p e s d r c i i h n u d e m e d p d q d e n s a c m d c a s q t f e a a l i r l c e p d a A s d l d d p y t r E a e i p p]
+[DELETED:  c e a a a c d p b u v o c q s e e p d a 2 D l m m s o l d d t l p ,)E)E)R)C r p v e p m)A]
+
+
+================================================================================
+
+Raw Text:
+(R. C. del S. 43)
+RESOLUCIÓN CONJUNTA
+Para ordenar al Departamento de la Vivienda del Gobierno de Puerto Rico a digitalizar
+todos los expedientes originales ubicados en sus oficinas regionales,
+particularmente aquellos relacionados con propiedades bajo usufructo, vacantes o
+en proceso de actualización; así como la digitalización de planos y documentos
+técnicos, a los fines de preservar la información en caso de desastres naturales,
+incendios, inundaciones u otras emergencias.
+EXPOSICIÓN DE MOTIVOS
+El manejo eficiente y seguro de la información constituye un componente esencial
+en la administración pública moderna. En el caso del Departamento de la Vivienda, la
+conservación y organización adecuada de documentos originales—incluyendo
+expedientes de propiedad, planos, proyectos de construcción y datos técnicos e
+históricos— es fundamental para proteger los derechos de los ciudadanos, garantizar la
+continuidad de los procesos gubernamentales y promover la transparencia
+administrativa.
+Actualmente, muchas de las oficinas regionales del Departamento de la Vivienda
+albergan expedientes físicos que contienen información sensitiva sobre propiedades bajo
+usufructo, terrenos vacantes o casos en proceso de actualización. En numerosos casos,
+estos documentos existen únicamente en papel, lo que los hace altamente vulnerables a
+daños o pérdida en situaciones de riesgo, como incendios, inundaciones, huracanes,
+vandalismo o cualquier otro evento fortuito.
+Puerto Rico se encuentra en una zona geográfica altamente propensa a desastres
+naturales, incluyendo huracanes, terremotos y lluvias torrenciales. Esta realidad impone
+la necesidad urgente de establecer mecanismos eficaces de preservación digital que
+aseguren la protección y disponibilidad de la información gubernamental esencial. La
+digitalización de expedientes no solo actúa como medida de contingencia ante
+emergencias, sino que también facilita el acceso a la información, reduce la carga
+administrativa y permite una mejor coordinación interagencial.
+Esta Resolución Conjunta tiene como propósito ordenar al Departamento de la
+Vivienda a digitalizar todos los expedientes físicos localizados en sus oficinas regionales,
+particularmente aquellos relacionados con propiedades bajo usufructo, terrenos vacantes
+o en proceso de actualización. Asimismo, se dispone la digitalización de planos y
+documentos técnicos relacionados. Esta acción es indispensable para preservar
+documentación que pudiera ser vital para reclamaciones futuras, trámites de titularidad,
+planificación urbana y cumplimiento con normativa estatal y federal.
+
+2
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se ordena al Departamento de la Vivienda a llevar a cabo un proceso
+sistemático de digitalización de todos los expedientes físicos que obren en sus oficinas
+regionales, con especial atención a aquellos casos de propiedades bajo usufructo,
+propiedades vacantes o casos que se encuentren en proceso de actualización
+administrativa.
+Sección 2.- De la misma manera, se ordena la digitalización de todos los planos,
+documentos técnicos y diagramas que estén bajo la custodia de las oficinas regionales del
+Departamento de la Vivienda.
+Sección 3.- El Departamento deberá establecer un protocolo de respaldo seguro para
+estos archivos digitales, utilizando almacenamiento en la nube, sistemas redundantes y
+medidas de ciberseguridad, de forma que se garantice el acceso a esta información en
+caso de desastres naturales, incendios, inundaciones repentinas u otras emergencias que
+puedan afectar los expedientes físicos.
+Sección 4.- El Departamento de la Vivienda presentará un informe a la Asamblea
+Legislativa en un término no mayor de ciento veinte (120) días desde la aprobación de
+esta Resolución Conjunta, en el que detalle:
+a) El inventario inicial de documentos a digitalizar;
+b) El plan de trabajo y calendario estimado para completar la digitalización;
+c) Recursos disponibles y aquellos que se requieran para su implementación;
+d) Cualquier recomendación para viabilizar este proceso mediante
+colaboración interagencial o alianzas público-privadas.
+e) Asignar un enlace para typro o cualquier sistema de data entry por región
+para mantener los datos actualizados.
+Sección 5.- Esta Resolución Conjunta comenzará a regir inmediatamente después de
+su aprobación.
+
+[DELETED:  l e o u e s o r y o a d d o d p p p d c y d t e d l p g y p l t o p e s d r c i i h n u d e m e d p d q d e n s a c m d c a s q t f e a a l i r l c e p d a A s d l d d p y t r E a e i p p]
+[DELETED:  c e a a a c d p b u v o c q s e e p d a 2 D l m m s o l d d t l p ,)E)E)R)C r p v e p m)A]

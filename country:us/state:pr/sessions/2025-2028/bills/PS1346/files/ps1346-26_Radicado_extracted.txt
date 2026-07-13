@@ -1,0 +1,586 @@
+Title: Para enmendar los Artículos 1563 y 1564, y añadir un nuevo Artículo 1602-A a la Ley 55-
+Official Title: Para enmendar los Artículos 1563 y 1564, y añadir un nuevo Artículo 1602-A a la Ley 55-
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1346
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+2020, según enmendada, conocida como “Código Civil de Puerto Rico”, a los fines de
+aclarar la designación, facultades, límites y deberes del administrador provisional de la
+herencia yacente y de la comunidad hereditaria; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La muerte de una persona abre un proceso jurídico, pero también deja asuntos
+cotidianos que requieren atención inmediata. Una casa no espera por la partición
+hereditaria para necesitar mantenimiento; una propiedad arrendada no deja de generar
+renta porque los herederos no se han puesto de acuerdo; una póliza de seguro no se
+mantiene vigente por sí sola; y las contribuciones, servicios, reparaciones y reclamaciones
+no se suspenden hasta que todos los trámites sucesorales concluyan.
+En muchos casos, el problema no es la falta de herederos ni la ausencia de bienes,
+sino la falta de una persona con autoridad clara para realizar gestiones ordinarias y
+conservatorias. Cuando hay varios llamados o coherederos, basta la incertidumbre, la
+distancia, el desacuerdo o la inacción de alguno para que el caudal quede sin dirección
+práctica. Esa parálisis puede provocar deterioro de inmuebles, pérdida de ingresos,
+acumulación de deudas, cancelación de seguros, conflictos familiares y reducción del
+valor del patrimonio que eventualmente deberá distribuirse.
+2
+El Código Civil de Puerto Rico reconoce la administración de la herencia yacente
+y permite que, en ausencia de acuerdo entre los llamados, el tribunal nombre un
+administrador provisional. También impone al administrador el deber de conservar el
+caudal hasta que ocurra la aceptación o repudiación de la herencia. No obstante, la
+práctica demuestra que esa norma puede beneficiarse de mayor precisión. La ley debe
+ofrecer una ruta más clara sobre cómo se designa un administrador provisional, qué
+puede hacer, qué no puede hacer y cómo debe rendir cuentas.
+Esta medida no pretende crear un poder amplio de disposición sobre la herencia.
+Tampoco altera las reglas sobre aceptación, repudiación, partición, legítimas, albaceazgo,
+comunidad hereditaria o derechos de terceros. Su propósito es operacional y preventivo:
+permitir que una persona pueda encargarse temporalmente de conservar, proteger,
+documentar, cobrar ingresos ordinarios, pagar gastos necesarios y atender asuntos
+urgentes del caudal, sin convertir esa gestión en una adjudicación de derechos
+hereditarios.
+La administración provisional que se aclara mediante esta medida tiene límites
+expresos. El administrador podrá pagar contribuciones, seguros, utilidades y gastos
+indispensables; realizar reparaciones necesarias; conservar documentos; preparar
+inventarios; cobrar rentas; atender reclamaciones; y comparecer ante agencias o
+entidades privadas para fines conservatorios. Pero no podrá vender, donar, hipotecar,
+gravar, enajenar, transigir derechos hereditarios, arrendar a largo plazo, adjudicar cuotas,
+partir la herencia ni disponer de bienes sin el consentimiento requerido por ley o
+autorización judicial.
+La medida también reconoce que el problema no termina con la aceptación de la
+herencia. Aun cuando surja una comunidad hereditaria, los bienes pueden permanecer
+indivisos durante meses o años. En esa etapa, la falta de una administración mínima
+puede ser igual de perjudicial. Por ello, se aclara la posibilidad de designar un
+administrador provisional de la comunidad hereditaria, sujeto a límites conservatorios,
+separación de fondos y rendición periódica de cuentas.
+3
+La rendición de cuentas es parte esencial de esta política pública. La
+administración provisional no debe ser un espacio para apropiarse de ingresos, ocultar
+información, favorecer a un coheredero o adelantar una partición informal. Por el
+contrario, debe ser una herramienta de transparencia: identificar bienes, documentar
+gastos, conservar recibos, separar fondos, informar ingresos y permitir que cualquier
+persona con interés legítimo pueda acudir al tribunal cuando exista abuso, conflicto de
+intereses o actuación fuera de las facultades conferidas.
+Con esta enmienda, Puerto Rico atiende un problema práctico del derecho
+sucesorio sin alterar sus principios fundamentales. La herencia puede conservarse sin
+repartirse; puede administrarse provisionalmente sin adjudicarse; y puede protegerse sin
+conceder a una persona facultades de dueño. La finalidad es preservar el valor del caudal
+relicto mientras se completa, por las vías correspondientes, la aceptación, repudiación,
+administración definitiva o partición de la herencia.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1563 de la Ley 55-2020, según enmendada,
+2 conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+3 Artículo 1563.- Administración de la herencia yacente.
+4 La administración de la herencia yacente corresponde a la persona designada por
+5 el causante o, en su defecto, al albacea. A falta de designación, la administración
+6 corresponde a los llamados a suceder. Si no hay acuerdo entre estos, el tribunal nombrará
+7 un administrador provisional.
+8 Para fines de este Artículo, podrá considerarse acuerdo suficiente para la administración
+9 provisional conservatoria de la herencia yacente el acuerdo escrito de llamados conocidos que
+10 representen, de forma razonable y preliminar, la mayoría de las cuotas aparentes que les
+11 corresponderían en la sucesión, sin que dicha determinación constituya adjudicación de cuotas,
+4
+1 aceptación de la herencia ni partición. La designación deberá tener un propósito exclusivamente
+2 conservatorio y no podrá implicar disposición de bienes hereditarios.
+3 El acuerdo de designación deberá identificar al administrador provisional, los bienes o
+4 asuntos comprendidos en la administración, las facultades conferidas, la duración de la
+5 designación, los mecanismos de rendición de cuentas y la forma en que se custodiarán los fondos o
+6 documentos relacionados con el caudal. La designación deberá notificarse, en la medida
+7 razonablemente posible, a los demás llamados conocidos.
+8 La oposición fundamentada de cualquier llamado conocido o persona con interés legítimo
+9 podrá ser presentada ante el tribunal, que resolverá mediante procedimiento sumario si confirma,
+10 modifica, limita o deja sin efecto la designación.
+11 Cualquier llamado, acreedor, legatario, persona con interés legítimo o administrador
+12 provisional designado podrá acudir al tribunal para solicitar la confirmación, modificación,
+13 sustitución o remoción del administrador provisional cuando exista controversia sobre la
+14 designación, ausencia de personas con posible interés, desconocimiento de llamados, incapacidad,
+15 conflicto de intereses, riesgo de deterioro del caudal, falta de rendición de cuentas o cualquier otra
+16 circunstancia que haga necesaria la intervención judicial.
+17 Cuando no pueda determinarse razonablemente la mayoría de cuotas aparentes, existan
+18 llamados desconocidos, ausentes, menores de edad, personas con restricción para obrar,
+19 controversia sustancial entre los llamados o riesgo de afectación a derechos de terceros, la
+20 designación del administrador provisional deberá solicitarse al tribunal mediante procedimiento
+21 sumario, conforme a las normas procesales aplicables.
+5
+1 La designación o actuación como administrador provisional bajo este Artículo no
+2 constituirá, por sí sola, aceptación tácita de la herencia, siempre que la persona actúe dentro de las
+3 facultades conservatorias conferidas y no tome el título o la cualidad de heredero.
+4 Sección 2.- Se enmienda el Artículo 1564 de la Ley 55-2020, según enmendada, para
+5 que lea como sigue:
+6 Artículo 1564.- Deber del administrador.
+7 El administrador de la herencia yacente debe conservar el caudal hasta que ocurra
+8 la aceptación o la repudiación.
+9 El administrador nombrado por el testador tiene las facultades que este le asigne.
+10 Si no se le asignan facultades o si no hay testamento, estas serán las que
+11 corresponden al administrador judicial según la ley.
+12 El administrador está autorizado a realizar las reparaciones necesarias en los
+13 bienes, pero las útiles solo puede realizarlas con autorización judicial. Las reparaciones
+14 son con cargo al caudal.
+15 Además de las facultades que le hayan sido conferidas por el causante, por acuerdo de los
+16 llamados, por disposición de ley o por el tribunal, el administrador provisional podrá realizar los
+17 actos que sean necesarios, razonables y proporcionales para conservar, proteger, administrar
+18 provisionalmente o evitar el deterioro del caudal. Estas facultades se interpretarán restrictivamente
+19 y solo comprenderán actos de administración ordinaria o conservación necesarios para evitar
+20 pérdida, deterioro, interrupción de ingresos ordinarios, vencimiento de cubiertas, acumulación de
+21 recargos o afectación sustancial del valor del caudal.
+22 El administrador provisional podrá realizar, entre otros, los siguientes actos:
+6
+1 (a) preparar, actualizar o custodiar un inventario preliminar de bienes, documentos,
+2 obligaciones, ingresos, seguros, contratos, servicios, rentas, gastos y reclamaciones relacionadas
+3 con la herencia;
+4 (b) pagar contribuciones sobre la propiedad inmueble, incluyendo pagos al Centro de
+5 Recaudación de Ingresos Municipales, arbitrios, cargos, recargos, penalidades o deudas
+6 contributivas relacionadas con bienes hereditarios;
+7 (c) pagar, renovar, mantener, reclamar o gestionar pólizas de seguro relacionadas con
+8 bienes hereditarios;
+9 (d) pagar utilidades, servicios de agua, energía eléctrica, telecomunicaciones, internet,
+10 seguridad, mantenimiento, administración, conservación o cualquier otro servicio necesario para
+11 evitar deterioro, cargos innecesarios, pérdida de valor, interrupción perjudicial o riesgo sobre los
+12 bienes hereditarios;
+13 (e) realizar o contratar reparaciones urgentes, necesarias o razonables para evitar deterioro,
+14 pérdida, ruina, daño estructural, filtraciones, riesgos a la seguridad, riesgos sanitarios,
+15 vandalismo, abandono o reducción sustancial del valor de los bienes;
+16 (f) gestionar medidas de protección, mitigación, estabilización, limpieza, remoción de
+17 escombros, sellado, apuntalamiento, fumigación, vigilancia, seguridad o prevención de daños
+18 relacionados con huracanes, terremotos, inundaciones, incendios, vandalismo, abandono, deterioro
+19 o cualquier otro riesgo;
+20 (g) cobrar cánones de arrendamiento, pagos vencidos, reembolsos, reclamaciones de seguro,
+21 depósitos, ingresos ordinarios o cantidades adeudadas al caudal, siempre que dichos fondos se
+22 depositen en una cuenta separada o se conserven de forma identificable para beneficio del caudal;
+7
+1 (h) continuar, cancelar, suspender, mantener provisionalmente o modificar contratos o
+2 servicios ordinarios relacionados con bienes hereditarios, cuando ello sea necesario para conservar
+3 el caudal o evitar gastos innecesarios;
+4 (i) comparecer ante agencias gubernamentales, corporaciones públicas, municipios,
+5 instrumentalidades, aseguradoras, instituciones financieras, arrendatarios, contratistas,
+6 tribunales o entidades privadas para fines conservatorios, documentales, administrativos, de
+7 mitigación, cobro, reclamación, protección o preservación de bienes o derechos relacionados con la
+8 herencia;
+9 (j) solicitar, obtener, presentar o tramitar certificaciones, constancias, recibos, estados de
+10 cuenta, certificaciones catastrales, certificaciones registrales, certificaciones contributivas,
+11 certificaciones de deuda, tasaciones, informes, inspecciones, permisos, reclamaciones, documentos
+12 administrativos o documentos necesarios para conservar o administrar provisionalmente el caudal;
+13 (k) custodiar documentos, llaves, claves de acceso, pólizas, contratos, recibos, expedientes,
+14 títulos, certificaciones o información necesaria para proteger bienes o derechos de la herencia; y
+15 (l) realizar cualquier otro acto de administración ordinaria, conservación, protección,
+16 documentación, cobro, mitigación o preservación que no suponga disposición de bienes,
+17 adjudicación hereditaria, partición, aceptación de la herencia o alteración sustancial de derechos de
+18 terceros.
+19 El administrador provisional deberá actuar con diligencia, buena fe, lealtad al caudal,
+20 prudencia en los gastos y separación entre los bienes administrados y su patrimonio personal.
+21 Deberá conservar recibos, contratos, facturas, estados de cuenta, comunicaciones y cualquier
+22 documento que sustente las gestiones realizadas.
+8
+1 Todo ingreso, renta, reembolso, reclamación o cantidad recibida por el administrador
+2 provisional deberá mantenerse separado del patrimonio personal del administrador y utilizarse
+3 únicamente para fines relacionados con la conservación, protección, administración provisional o
+4 cumplimiento de obligaciones del caudal.
+5 El administrador provisional deberá rendir cuentas a los llamados conocidos, al albacea, a
+6 los herederos, a la comunidad hereditaria o al tribunal, según corresponda, al menos cada seis (6)
+7 meses, al concluir su gestión, o cuando razonablemente se le requiera por una persona con interés
+8 legítimo. La rendición de cuentas deberá incluir ingresos recibidos, gastos realizados, pagos
+9 pendientes, bienes administrados, documentos custodiados, contratos vigentes, reclamaciones
+10 tramitadas y cualquier asunto relevante a la conservación del caudal.
+11 El administrador provisional no podrá vender, donar, permutar, hipotecar, gravar, ceder,
+12 enajenar, transigir de forma final derechos hereditarios, disponer de bienes hereditarios, arrendar
+13 bienes inmuebles por un término mayor de un (1) año, realizar actos de partición, adjudicar cuotas,
+14 renunciar derechos del caudal, asumir obligaciones extraordinarias o realizar mejoras útiles o de
+15 lujo sin el consentimiento requerido por ley o autorización judicial.
+16 Cualquier persona con interés legítimo podrá solicitar al tribunal la remoción, sustitución,
+17 limitación de facultades, rendición de cuentas, devolución de bienes, restitución de fondos o
+18 imposición de cualquier remedio procedente contra el administrador provisional cuando medie
+19 incumplimiento, negligencia, conflicto de intereses, mala fe, uso indebido de fondos, ocultación de
+20 información, negativa injustificada a rendir cuentas o actuación fuera de sus facultades.
+21 Sección 3.- Se añade un nuevo Artículo 1602-A a la Ley 55-2020, según enmendada,
+22 para que lea como sigue:
+9
+1 Artículo 1602-A.- Administración provisional de la comunidad hereditaria.
+2 Mientras no se realice la partición de la herencia, los coherederos podrán designar por
+3 escrito a una persona como administrador provisional de la comunidad hereditaria para realizar
+4 actos de conservación, administración ordinaria, cobro, pago, protección, mitigación,
+5 mantenimiento, documentación y preservación de los bienes comunes.
+6 La designación podrá hacerse por acuerdo de coherederos que representen la mayoría
+7 absoluta de las cuotas hereditarias conocidas, salvo que exista pacto válido, disposición
+8 testamentaria o determinación judicial que disponga otra cosa. El acuerdo deberá identificar al
+9 administrador provisional, los bienes o asuntos comprendidos en la administración, las facultades
+10 conferidas, la duración de la designación, los mecanismos de rendición de cuentas y la forma en
+11 que se custodiarán fondos, documentos o ingresos relacionados con la comunidad hereditaria.
+12 Nada de lo dispuesto en este Artículo limitará las facultades válidamente conferidas por el
+13 causante, las funciones del albacea, las determinaciones judiciales aplicables o los acuerdos válidos
+14 de administración adoptados por los coherederos conforme a este Código.
+15 Cuando no exista acuerdo de mayoría, no puedan determinarse razonablemente las cuotas,
+16 existan coherederos desconocidos, ausentes, menores de edad, personas con restricción para obrar,
+17 controversia sustancial, conflicto de intereses, riesgo de deterioro de bienes comunes o necesidad
+18 de una medida urgente, cualquier coheredero o persona con interés legítimo podrá solicitar al
+19 tribunal el nombramiento de un administrador provisional o la adopción de medidas de
+20 conservación, conforme a las normas procesales aplicables.
+10
+1 El administrador provisional de la comunidad hereditaria tendrá, salvo limitación expresa
+2 del acuerdo o del tribunal, las facultades conservatorias y deberes dispuestos en el Artículo 1564
+3 de este Código, en la medida compatible con la naturaleza de la comunidad hereditaria.
+4 La designación del administrador provisional no constituye partición de la herencia,
+5 adjudicación de bienes, alteración de cuotas, reconocimiento final de titularidad, renuncia de
+6 derechos, disposición de bienes específicos ni autorización para realizar actos de dominio.
+7 El administrador provisional de la comunidad hereditaria no podrá vender, donar,
+8 permutar, hipotecar, gravar, ceder, enajenar, transigir de forma final derechos hereditarios,
+9 disponer de bienes comunes, arrendar bienes inmuebles por un término mayor de un (1) año,
+10 realizar actos de partición, adjudicar cuotas, renunciar derechos de la comunidad, asumir
+11 obligaciones extraordinarias o realizar mejoras útiles o de lujo sin el consentimiento requerido por
+12 ley o autorización judicial.
+13 Todo ingreso, renta, reembolso, reclamación o cantidad recibida por el administrador
+14 provisional deberá mantenerse separado de su patrimonio personal y utilizarse únicamente para
+15 fines relacionados con la conservación, protección, administración provisional o cumplimiento de
+16 obligaciones de la comunidad hereditaria.
+17 El administrador provisional deberá rendir cuentas a los coherederos al menos cada seis (6)
+18 meses, al concluir su gestión, o cuando razonablemente se le requiera por coherederos que
+19 representen al menos una cuarta parte de las cuotas hereditarias conocidas. La rendición de cuentas
+20 deberá incluir ingresos recibidos, gastos realizados, pagos pendientes, bienes administrados,
+21 documentos custodiados, contratos vigentes, reclamaciones tramitadas y cualquier asunto
+22 relevante a la conservación de los bienes comunes.
+11
+1 Cualquier coheredero o persona con interés legítimo podrá solicitar al tribunal la remoción,
+2 sustitución, limitación de facultades, rendición de cuentas, devolución de bienes, restitución de
+3 fondos o imposición de cualquier remedio procedente contra el administrador provisional cuando
+4 medie incumplimiento, negligencia, conflicto de intereses, mala fe, uso indebido de fondos,
+5 ocultación de información, negativa injustificada a rendir cuentas o actuación fuera de sus
+6 facultades.
+7 Nada de lo dispuesto en este Artículo impedirá que los coherederos soliciten la partición de
+8 la herencia, adopten un pacto de indivisión, acuerden otro mecanismo de administración permitido
+9 por ley, o acudan al tribunal para proteger sus derechos.
+10 Sección 4.- Aplicabilidad.
+11 Esta Ley aplicará a las administraciones provisionales de herencias yacentes o
+12 comunidades hereditarias constituidas a partir de su vigencia. También aplicará a
+13 administraciones provisionales existentes, únicamente en cuanto a actos realizados
+14 después de su vigencia y sin afectar determinaciones judiciales finales y firmes, derechos
+15 adquiridos, contratos válidamente celebrados, actos de disposición válidamente
+16 realizados o remedios pendientes ante un tribunal competente.
+17 Sección 5.- Separabilidad.
+18 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+19 disposición, sección o parte de esta Ley fuere anulada o declarada inconstitucional por
+20 un tribunal competente, la resolución, dictamen o sentencia a tal efecto no afectará,
+21 perjudicará ni invalidará el remanente de esta Ley.
+12
+1 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo,
+2 oración, palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada
+3 o declarada inconstitucional.
+4 Sección 6.- Vigencia.
+5 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+6
+[DELETED: 0 A 3 .rL   q r a i U c n e p l p l f d u p c a c p r g o y E p p p d d i p d i]
+[DELETED:  p q e a d a e l l e t n u h q o l a o r d l h N o l q u p p e t d c p c i o p g n y a a d c s c e g e u a d d E a p p c s u y g r r n c d p c r a r y c a a o l h n d d b s e c r p l o s i d p P e s a l p d d u]
+[DELETED:  r d c e p e d e p p L f a u c o a u p i P e d s u h d t i b d e e P R a u p p d d c o e s d a a A f d d l a P p r d f r y p l m d l c a q l c]
+[DELETED:  a c E a c e l a l f c l d d l d d r c e c L d d n e l m r L p m C l a l p c i l o a p d p a a t p s l c m s o r d a p c e c s l d c c C l d a m d e p c r p o c s e l l o r d a a d d t l d s]
+[DELETED:  L d o a c a p b e A n c f n s l a f o s n h t e s l q a e a a r l r n e l A l a q s n r y p p c p a p y s c a d a o o c n p e p r E]
+[DELETED:  ( p a o c u i p d b d o c ( p c s l p i i p a C d R d I M a c r p o d c ( p r m r o g p d s r c b ( p u s d a e e t i s e b ( p r d e f r a l s r s v ( g m d p m e l r d e s a f v s o p d d r o ( d d]
+[DELETED:  ( s e ( c a a g c p m i a i f a c t o e p p f c d a d m h ( c c c c r c c c a ( t ( r c o a d a o c p d c m o p q n s d d b a t E a p d a c b f l a c p D c r c f e d c c y c d]
+[DELETED:  T i r r r o c r p e a p ú c E l m l L r d c d i i r g r p p b a d c c v r t E e b r l C l d f r d c d d b r d f o i i i]
+[DELETED:  A M e a d c a o c p p m m L d p h p a d c q r l m a d l c h c s q e p v d t a c q N c d C e c d t e n d u a p o l a d m d c]
+[DELETED:  E d d L d d a p n c p d l h a d b a d c r f d t r d d E a p d l c h n p v d p h g c e t d f f d h d r a d p a c r d d l c a o l T i r r r o c r p e a p f o E m a c s g o c r s l r p c q r d i i r g r p p b a d c c v r t y c a r]
+[DELETED:  C s f m i n c d i m f u i d f o d i n i a r c o a f d s f N l p L a a l a p d h y o h c a p d s v T a a p e ú e c a a r c v c a d d v c c p s o p l a t c l r d o s a t e n a]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1346
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 1563 y 1564, y añadir un nuevo Artículo 1602-A a la Ley 55-
+2020, según enmendada, conocida como “Código Civil de Puerto Rico”, a los fines de
+aclarar la designación, facultades, límites y deberes del administrador provisional de la
+herencia yacente y de la comunidad hereditaria; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La muerte de una persona abre un proceso jurídico, pero también deja asuntos
+cotidianos que requieren atención inmediata. Una casa no espera por la partición
+hereditaria para necesitar mantenimiento; una propiedad arrendada no deja de generar
+renta porque los herederos no se han puesto de acuerdo; una póliza de seguro no se
+mantiene vigente por sí sola; y las contribuciones, servicios, reparaciones y reclamaciones
+no se suspenden hasta que todos los trámites sucesorales concluyan.
+En muchos casos, el problema no es la falta de herederos ni la ausencia de bienes,
+sino la falta de una persona con autoridad clara para realizar gestiones ordinarias y
+conservatorias. Cuando hay varios llamados o coherederos, basta la incertidumbre, la
+distancia, el desacuerdo o la inacción de alguno para que el caudal quede sin dirección
+práctica. Esa parálisis puede provocar deterioro de inmuebles, pérdida de ingresos,
+acumulación de deudas, cancelación de seguros, conflictos familiares y reducción del
+valor del patrimonio que eventualmente deberá distribuirse.
+
+2
+El Código Civil de Puerto Rico reconoce la administración de la herencia yacente
+y permite que, en ausencia de acuerdo entre los llamados, el tribunal nombre un
+administrador provisional. También impone al administrador el deber de conservar el
+caudal hasta que ocurra la aceptación o repudiación de la herencia. No obstante, la
+práctica demuestra que esa norma puede beneficiarse de mayor precisión. La ley debe
+ofrecer una ruta más clara sobre cómo se designa un administrador provisional, qué
+puede hacer, qué no puede hacer y cómo debe rendir cuentas.
+Esta medida no pretende crear un poder amplio de disposición sobre la herencia.
+Tampoco altera las reglas sobre aceptación, repudiación, partición, legítimas, albaceazgo,
+comunidad hereditaria o derechos de terceros. Su propósito es operacional y preventivo:
+permitir que una persona pueda encargarse temporalmente de conservar, proteger,
+documentar, cobrar ingresos ordinarios, pagar gastos necesarios y atender asuntos
+urgentes del caudal, sin convertir esa gestión en una adjudicación de derechos
+hereditarios.
+La administración provisional que se aclara mediante esta medida tiene límites
+expresos. El administrador podrá pagar contribuciones, seguros, utilidades y gastos
+indispensables; realizar reparaciones necesarias; conservar documentos; preparar
+inventarios; cobrar rentas; atender reclamaciones; y comparecer ante agencias o
+entidades privadas para fines conservatorios. Pero no podrá vender, donar, hipotecar,
+gravar, enajenar, transigir derechos hereditarios, arrendar a largo plazo, adjudicar cuotas,
+partir la herencia ni disponer de bienes sin el consentimiento requerido por ley o
+autorización judicial.
+La medida también reconoce que el problema no termina con la aceptación de la
+herencia. Aun cuando surja una comunidad hereditaria, los bienes pueden permanecer
+indivisos durante meses o años. En esa etapa, la falta de una administración mínima
+puede ser igual de perjudicial. Por ello, se aclara la posibilidad de designar un
+administrador provisional de la comunidad hereditaria, sujeto a límites conservatorios,
+separación de fondos y rendición periódica de cuentas.
+
+3
+La rendición de cuentas es parte esencial de esta política pública. La
+administración provisional no debe ser un espacio para apropiarse de ingresos, ocultar
+información, favorecer a un coheredero o adelantar una partición informal. Por el
+contrario, debe ser una herramienta de transparencia: identificar bienes, documentar
+gastos, conservar recibos, separar fondos, informar ingresos y permitir que cualquier
+persona con interés legítimo pueda acudir al tribunal cuando exista abuso, conflicto de
+intereses o actuación fuera de las facultades conferidas.
+Con esta enmienda, Puerto Rico atiende un problema práctico del derecho
+sucesorio sin alterar sus principios fundamentales. La herencia puede conservarse sin
+repartirse; puede administrarse provisionalmente sin adjudicarse; y puede protegerse sin
+conceder a una persona facultades de dueño. La finalidad es preservar el valor del caudal
+relicto mientras se completa, por las vías correspondientes, la aceptación, repudiación,
+administración definitiva o partición de la herencia.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1563 de la Ley 55-2020, según enmendada,
+2 conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+3 Artículo 1563.- Administración de la herencia yacente.
+4 La administración de la herencia yacente corresponde a la persona designada por
+5 el causante o, en su defecto, al albacea. A falta de designación, la administración
+6 corresponde a los llamados a suceder. Si no hay acuerdo entre estos, el tribunal nombrará
+7 un administrador provisional.
+8 Para fines de este Artículo, podrá considerarse acuerdo suficiente para la administración
+9 provisional conservatoria de la herencia yacente el acuerdo escrito de llamados conocidos que
+10 representen, de forma razonable y preliminar, la mayoría de las cuotas aparentes que les
+11 corresponderían en la sucesión, sin que dicha determinación constituya adjudicación de cuotas,
+
+4
+1 aceptación de la herencia ni partición. La designación deberá tener un propósito exclusivamente
+2 conservatorio y no podrá implicar disposición de bienes hereditarios.
+3 El acuerdo de designación deberá identificar al administrador provisional, los bienes o
+4 asuntos comprendidos en la administración, las facultades conferidas, la duración de la
+5 designación, los mecanismos de rendición de cuentas y la forma en que se custodiarán los fondos o
+6 documentos relacionados con el caudal. La designación deberá notificarse, en la medida
+7 razonablemente posible, a los demás llamados conocidos.
+8 La oposición fundamentada de cualquier llamado conocido o persona con interés legítimo
+9 podrá ser presentada ante el tribunal, que resolverá mediante procedimiento sumario si confirma,
+10 modifica, limita o deja sin efecto la designación.
+11 Cualquier llamado, acreedor, legatario, persona con interés legítimo o administrador
+12 provisional designado podrá acudir al tribunal para solicitar la confirmación, modificación,
+13 sustitución o remoción del administrador provisional cuando exista controversia sobre la
+14 designación, ausencia de personas con posible interés, desconocimiento de llamados, incapacidad,
+15 conflicto de intereses, riesgo de deterioro del caudal, falta de rendición de cuentas o cualquier otra
+16 circunstancia que haga necesaria la intervención judicial.
+17 Cuando no pueda determinarse razonablemente la mayoría de cuotas aparentes, existan
+18 llamados desconocidos, ausentes, menores de edad, personas con restricción para obrar,
+19 controversia sustancial entre los llamados o riesgo de afectación a derechos de terceros, la
+20 designación del administrador provisional deberá solicitarse al tribunal mediante procedimiento
+21 sumario, conforme a las normas procesales aplicables.
+
+5
+1 La designación o actuación como administrador provisional bajo este Artículo no
+2 constituirá, por sí sola, aceptación tácita de la herencia, siempre que la persona actúe dentro de las
+3 facultades conservatorias conferidas y no tome el título o la cualidad de heredero.
+4 Sección 2.- Se enmienda el Artículo 1564 de la Ley 55-2020, según enmendada, para
+5 que lea como sigue:
+6 Artículo 1564.- Deber del administrador.
+7 El administrador de la herencia yacente debe conservar el caudal hasta que ocurra
+8 la aceptación o la repudiación.
+9 El administrador nombrado por el testador tiene las facultades que este le asigne.
+10 Si no se le asignan facultades o si no hay testamento, estas serán las que
+11 corresponden al administrador judicial según la ley.
+12 El administrador está autorizado a realizar las reparaciones necesarias en los
+13 bienes, pero las útiles solo puede realizarlas con autorización judicial. Las reparaciones
+14 son con cargo al caudal.
+15 Además de las facultades que le hayan sido conferidas por el causante, por acuerdo de los
+16 llamados, por disposición de ley o por el tribunal, el administrador provisional podrá realizar los
+17 actos que sean necesarios, razonables y proporcionales para conservar, proteger, administrar
+18 provisionalmente o evitar el deterioro del caudal. Estas facultades se interpretarán restrictivamente
+19 y solo comprenderán actos de administración ordinaria o conservación necesarios para evitar
+20 pérdida, deterioro, interrupción de ingresos ordinarios, vencimiento de cubiertas, acumulación de
+21 recargos o afectación sustancial del valor del caudal.
+22 El administrador provisional podrá realizar, entre otros, los siguientes actos:
+
+6
+1 (a) preparar, actualizar o custodiar un inventario preliminar de bienes, documentos,
+2 obligaciones, ingresos, seguros, contratos, servicios, rentas, gastos y reclamaciones relacionadas
+3 con la herencia;
+4 (b) pagar contribuciones sobre la propiedad inmueble, incluyendo pagos al Centro de
+5 Recaudación de Ingresos Municipales, arbitrios, cargos, recargos, penalidades o deudas
+6 contributivas relacionadas con bienes hereditarios;
+7 (c) pagar, renovar, mantener, reclamar o gestionar pólizas de seguro relacionadas con
+8 bienes hereditarios;
+9 (d) pagar utilidades, servicios de agua, energía eléctrica, telecomunicaciones, internet,
+10 seguridad, mantenimiento, administración, conservación o cualquier otro servicio necesario para
+11 evitar deterioro, cargos innecesarios, pérdida de valor, interrupción perjudicial o riesgo sobre los
+12 bienes hereditarios;
+13 (e) realizar o contratar reparaciones urgentes, necesarias o razonables para evitar deterioro,
+14 pérdida, ruina, daño estructural, filtraciones, riesgos a la seguridad, riesgos sanitarios,
+15 vandalismo, abandono o reducción sustancial del valor de los bienes;
+16 (f) gestionar medidas de protección, mitigación, estabilización, limpieza, remoción de
+17 escombros, sellado, apuntalamiento, fumigación, vigilancia, seguridad o prevención de daños
+18 relacionados con huracanes, terremotos, inundaciones, incendios, vandalismo, abandono, deterioro
+19 o cualquier otro riesgo;
+20 (g) cobrar cánones de arrendamiento, pagos vencidos, reembolsos, reclamaciones de seguro,
+21 depósitos, ingresos ordinarios o cantidades adeudadas al caudal, siempre que dichos fondos se
+22 depositen en una cuenta separada o se conserven de forma identificable para beneficio del caudal;
+
+7
+1 (h) continuar, cancelar, suspender, mantener provisionalmente o modificar contratos o
+2 servicios ordinarios relacionados con bienes hereditarios, cuando ello sea necesario para conservar
+3 el caudal o evitar gastos innecesarios;
+4 (i) comparecer ante agencias gubernamentales, corporaciones públicas, municipios,
+5 instrumentalidades, aseguradoras, instituciones financieras, arrendatarios, contratistas,
+6 tribunales o entidades privadas para fines conservatorios, documentales, administrativos, de
+7 mitigación, cobro, reclamación, protección o preservación de bienes o derechos relacionados con la
+8 herencia;
+9 (j) solicitar, obtener, presentar o tramitar certificaciones, constancias, recibos, estados de
+10 cuenta, certificaciones catastrales, certificaciones registrales, certificaciones contributivas,
+11 certificaciones de deuda, tasaciones, informes, inspecciones, permisos, reclamaciones, documentos
+12 administrativos o documentos necesarios para conservar o administrar provisionalmente el caudal;
+13 (k) custodiar documentos, llaves, claves de acceso, pólizas, contratos, recibos, expedientes,
+14 títulos, certificaciones o información necesaria para proteger bienes o derechos de la herencia; y
+15 (l) realizar cualquier otro acto de administración ordinaria, conservación, protección,
+16 documentación, cobro, mitigación o preservación que no suponga disposición de bienes,
+17 adjudicación hereditaria, partición, aceptación de la herencia o alteración sustancial de derechos de
+18 terceros.
+19 El administrador provisional deberá actuar con diligencia, buena fe, lealtad al caudal,
+20 prudencia en los gastos y separación entre los bienes administrados y su patrimonio personal.
+21 Deberá conservar recibos, contratos, facturas, estados de cuenta, comunicaciones y cualquier
+22 documento que sustente las gestiones realizadas.
+
+8
+1 Todo ingreso, renta, reembolso, reclamación o cantidad recibida por el administrador
+2 provisional deberá mantenerse separado del patrimonio personal del administrador y utilizarse
+3 únicamente para fines relacionados con la conservación, protección, administración provisional o
+4 cumplimiento de obligaciones del caudal.
+5 El administrador provisional deberá rendir cuentas a los llamados conocidos, al albacea, a
+6 los herederos, a la comunidad hereditaria o al tribunal, según corresponda, al menos cada seis (6)
+7 meses, al concluir su gestión, o cuando razonablemente se le requiera por una persona con interés
+8 legítimo. La rendición de cuentas deberá incluir ingresos recibidos, gastos realizados, pagos
+9 pendientes, bienes administrados, documentos custodiados, contratos vigentes, reclamaciones
+10 tramitadas y cualquier asunto relevante a la conservación del caudal.
+11 El administrador provisional no podrá vender, donar, permutar, hipotecar, gravar, ceder,
+12 enajenar, transigir de forma final derechos hereditarios, disponer de bienes hereditarios, arrendar
+13 bienes inmuebles por un término mayor de un (1) año, realizar actos de partición, adjudicar cuotas,
+14 renunciar derechos del caudal, asumir obligaciones extraordinarias o realizar mejoras útiles o de
+15 lujo sin el consentimiento requerido por ley o autorización judicial.
+16 Cualquier persona con interés legítimo podrá solicitar al tribunal la remoción, sustitución,
+17 limitación de facultades, rendición de cuentas, devolución de bienes, restitución de fondos o
+18 imposición de cualquier remedio procedente contra el administrador provisional cuando medie
+19 incumplimiento, negligencia, conflicto de intereses, mala fe, uso indebido de fondos, ocultación de
+20 información, negativa injustificada a rendir cuentas o actuación fuera de sus facultades.
+21 Sección 3.- Se añade un nuevo Artículo 1602-A a la Ley 55-2020, según enmendada,
+22 para que lea como sigue:
+
+9
+1 Artículo 1602-A.- Administración provisional de la comunidad hereditaria.
+2 Mientras no se realice la partición de la herencia, los coherederos podrán designar por
+3 escrito a una persona como administrador provisional de la comunidad hereditaria para realizar
+4 actos de conservación, administración ordinaria, cobro, pago, protección, mitigación,
+5 mantenimiento, documentación y preservación de los bienes comunes.
+6 La designación podrá hacerse por acuerdo de coherederos que representen la mayoría
+7 absoluta de las cuotas hereditarias conocidas, salvo que exista pacto válido, disposición
+8 testamentaria o determinación judicial que disponga otra cosa. El acuerdo deberá identificar al
+9 administrador provisional, los bienes o asuntos comprendidos en la administración, las facultades
+10 conferidas, la duración de la designación, los mecanismos de rendición de cuentas y la forma en
+11 que se custodiarán fondos, documentos o ingresos relacionados con la comunidad hereditaria.
+12 Nada de lo dispuesto en este Artículo limitará las facultades válidamente conferidas por el
+13 causante, las funciones del albacea, las determinaciones judiciales aplicables o los acuerdos válidos
+14 de administración adoptados por los coherederos conforme a este Código.
+15 Cuando no exista acuerdo de mayoría, no puedan determinarse razonablemente las cuotas,
+16 existan coherederos desconocidos, ausentes, menores de edad, personas con restricción para obrar,
+17 controversia sustancial, conflicto de intereses, riesgo de deterioro de bienes comunes o necesidad
+18 de una medida urgente, cualquier coheredero o persona con interés legítimo podrá solicitar al
+19 tribunal el nombramiento de un administrador provisional o la adopción de medidas de
+20 conservación, conforme a las normas procesales aplicables.
+
+10
+1 El administrador provisional de la comunidad hereditaria tendrá, salvo limitación expresa
+2 del acuerdo o del tribunal, las facultades conservatorias y deberes dispuestos en el Artículo 1564
+3 de este Código, en la medida compatible con la naturaleza de la comunidad hereditaria.
+4 La designación del administrador provisional no constituye partición de la herencia,
+5 adjudicación de bienes, alteración de cuotas, reconocimiento final de titularidad, renuncia de
+6 derechos, disposición de bienes específicos ni autorización para realizar actos de dominio.
+7 El administrador provisional de la comunidad hereditaria no podrá vender, donar,
+8 permutar, hipotecar, gravar, ceder, enajenar, transigir de forma final derechos hereditarios,
+9 disponer de bienes comunes, arrendar bienes inmuebles por un término mayor de un (1) año,
+10 realizar actos de partición, adjudicar cuotas, renunciar derechos de la comunidad, asumir
+11 obligaciones extraordinarias o realizar mejoras útiles o de lujo sin el consentimiento requerido por
+12 ley o autorización judicial.
+13 Todo ingreso, renta, reembolso, reclamación o cantidad recibida por el administrador
+14 provisional deberá mantenerse separado de su patrimonio personal y utilizarse únicamente para
+15 fines relacionados con la conservación, protección, administración provisional o cumplimiento de
+16 obligaciones de la comunidad hereditaria.
+17 El administrador provisional deberá rendir cuentas a los coherederos al menos cada seis (6)
+18 meses, al concluir su gestión, o cuando razonablemente se le requiera por coherederos que
+19 representen al menos una cuarta parte de las cuotas hereditarias conocidas. La rendición de cuentas
+20 deberá incluir ingresos recibidos, gastos realizados, pagos pendientes, bienes administrados,
+21 documentos custodiados, contratos vigentes, reclamaciones tramitadas y cualquier asunto
+22 relevante a la conservación de los bienes comunes.
+
+11
+1 Cualquier coheredero o persona con interés legítimo podrá solicitar al tribunal la remoción,
+2 sustitución, limitación de facultades, rendición de cuentas, devolución de bienes, restitución de
+3 fondos o imposición de cualquier remedio procedente contra el administrador provisional cuando
+4 medie incumplimiento, negligencia, conflicto de intereses, mala fe, uso indebido de fondos,
+5 ocultación de información, negativa injustificada a rendir cuentas o actuación fuera de sus
+6 facultades.
+7 Nada de lo dispuesto en este Artículo impedirá que los coherederos soliciten la partición de
+8 la herencia, adopten un pacto de indivisión, acuerden otro mecanismo de administración permitido
+9 por ley, o acudan al tribunal para proteger sus derechos.
+10 Sección 4.- Aplicabilidad.
+11 Esta Ley aplicará a las administraciones provisionales de herencias yacentes o
+12 comunidades hereditarias constituidas a partir de su vigencia. También aplicará a
+13 administraciones provisionales existentes, únicamente en cuanto a actos realizados
+14 después de su vigencia y sin afectar determinaciones judiciales finales y firmes, derechos
+15 adquiridos, contratos válidamente celebrados, actos de disposición válidamente
+16 realizados o remedios pendientes ante un tribunal competente.
+17 Sección 5.- Separabilidad.
+18 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+19 disposición, sección o parte de esta Ley fuere anulada o declarada inconstitucional por
+20 un tribunal competente, la resolución, dictamen o sentencia a tal efecto no afectará,
+21 perjudicará ni invalidará el remanente de esta Ley.
+
+12
+1 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo,
+2 oración, palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada
+3 o declarada inconstitucional.
+4 Sección 6.- Vigencia.
+5 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+6
+
+[DELETED: 0 A 3 .rL   q r a i U c n e p l p l f d u p c a c p r g o y E p p p d d i p d i]
+[DELETED:  p q e a d a e l l e t n u h q o l a o r d l h N o l q u p p e t d c p c i o p g n y a a d c s c e g e u a d d E a p p c s u y g r r n c d p c r a r y c a a o l h n d d b s e c r p l o s i d p P e s a l p d d u]
+[DELETED:  r d c e p e d e p p L f a u c o a u p i P e d s u h d t i b d e e P R a u p p d d c o e s d a a A f d d l a P p r d f r y p l m d l c a q l c]
+[DELETED:  a c E a c e l a l f c l d d l d d r c e c L d d n e l m r L p m C l a l p c i l o a p d p a a t p s l c m s o r d a p c e c s l d c c C l d a m d e p c r p o c s e l l o r d a a d d t l d s]
+[DELETED:  L d o a c a p b e A n c f n s l a f o s n h t e s l q a e a a r l r n e l A l a q s n r y p p c p a p y s c a d a o o c n p e p r E]
+[DELETED:  ( p a o c u i p d b d o c ( p c s l p i i p a C d R d I M a c r p o d c ( p r m r o g p d s r c b ( p u s d a e e t i s e b ( p r d e f r a l s r s v ( g m d p m e l r d e s a f v s o p d d r o ( d d]
+[DELETED:  ( s e ( c a a g c p m i a i f a c t o e p p f c d a d m h ( c c c c r c c c a ( t ( r c o a d a o c p d c m o p q n s d d b a t E a p d a c b f l a c p D c r c f e d c c y c d]
+[DELETED:  T i r r r o c r p e a p ú c E l m l L r d c d i i r g r p p b a d c c v r t E e b r l C l d f r d c d d b r d f o i i i]
+[DELETED:  A M e a d c a o c p p m m L d p h p a d c q r l m a d l c h c s q e p v d t a c q N c d C e c d t e n d u a p o l a d m d c]
+[DELETED:  E d d L d d a p n c p d l h a d b a d c r f d t r d d E a p d l c h n p v d p h g c e t d f f d h d r a d p a c r d d l c a o l T i r r r o c r p e a p f o E m a c s g o c r s l r p c q r d i i r g r p p b a d c c v r t y c a r]
+[DELETED:  C s f m i n c d i m f u i d f o d i n i a r c o a f d s f N l p L a a l a p d h y o h c a p d s v T a a p e ú e c a a r c v c a d d v c c p s o p l a t c l r d o s a t e n a]

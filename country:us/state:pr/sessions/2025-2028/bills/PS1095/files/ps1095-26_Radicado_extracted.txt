@@ -1,0 +1,1550 @@
+Title: Para establecer la Ley de Procedimiento Adjudicativo Municipal a los fines de disponer
+Official Title: Para establecer la Ley de Procedimiento Adjudicativo Municipal a los fines de disponer
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1095
+18 de febrero de 2026
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+guías claras para la revisión de determinaciones administrativas de índole contributiva
+emitidas por los municipios de Puerto Rico, y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Esta Asamblea Legislativa tiene como objetivo primordial impulsar el desarrollo
+económico de Puerto Rico mediante la modernización y optimización de los procesos
+gubernamentales. Uno de los pilares fundamentales de toda democracia es el derecho de
+los ciudadanos a cuestionar las actuaciones del Estado ante un foro imparcial, derecho
+conocido como el debido proceso de ley y consagrado tanto en la Constitución de los
+Estados Unidos de América como en la Constitución del Gobierno de Puerto Rico.
+Conscientes de que el acceso a los tribunales puede resultar oneroso y prolongado
+para muchos ciudadanos, el 30 de junio de 2017 se promulgó la Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico (Ley 38-2017), que ha garantizado,
+—en la gran mayoría de las agencias del Gobierno— la existencia de un procedimiento
+2
+administrativo rápido, justo, económico y uniforme para la revisión de determinaciones
+administrativas.
+No obstante, dicha ley excluyó expresamente a los municipios en lo que respecta
+a las determinaciones de naturaleza contributiva. En la actualidad, las revisiones
+administrativas de estas determinaciones se realizan, en la mayoría de los casos, por los
+mismos funcionarios o dependencias municipales que las emitieron originalmente, sin
+que exista un procedimiento uniforme ni reglas claras y comunes aplicables a todos los
+municipios. Esta práctica, basada principalmente en usos y costumbres locales, genera
+incongruencias en la interpretación de la ley entre los setenta y ocho (78) municipios,
+inseguridad jurídica y posibles vulneraciones al debido proceso de ley.
+Por tal razón, se hace necesario y urgente centralizar en el Departamento de
+Hacienda la función de revisión administrativa de las determinaciones contributivas
+municipales, mediante la creación de una Oficina de Revisiones Contributivas
+Municipales, adscrita a dicha agencia, la cual ya cuenta con los recursos, la infraestructura
+y la experiencia técnica necesarias. No obstante, los abogados que se asignen a dicha
+oficina serán nombrados por los alcaldes, con el fin de preservar la autonomía municipal,
+evitando así que la Rama Ejecutiva tenga algún grado de injerencia en la toma de
+decisiones.
+Esta Ley garantizará uniformidad, imparcialidad, celeridad y economía procesal,
+al tiempo que fortalecerá la confianza de los contribuyentes en el sistema y contribuirá al
+objetivo mayor de una administración pública más eficiente y transparente.
+DECRETASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. – Título.
+2 Esta Ley se conocerá y podrá ser citada como “Ley de Procedimiento Adjudicativo
+3 Municipal”.
+3
+1 Artículo 2. – Definiciones.
+2 (a) Adjudicación – El pronunciamiento mediante el cual la Oficina determina los
+3 derechos, obligaciones o privilegios que correspondan a una parte.
+4 (b) Alcalde - el Primer Ejecutivo del gobierno municipal.
+5 (c) Deficiencia – El monto por el cual los arbitrios de construcción o la patente
+6 municipal impuesta bajo la Ley 107-2020, según enmendada, sobrepase el
+7 exceso de: –
+8 (1) la suma de (A) la cantidad declarada como contribución por el
+9 contribuyente en su declaración si se rindió una, más (B) las cantidades
+10 previamente tasadas, o cobradas sin tasación, como deficiencia, sobre —
+11 (1) el monto de aquella parte de una reducción, crédito, reintegro u otro
+12 reembolso, que se hizo por razón de que los arbitrios de construcción o
+13 la patente municipal impuesta bajo la Ley 107-2020, según enmendada,
+14 era menor que el exceso de la cantidad especificada en el apartado (c)(1)
+15 sobre el monto de reducciones previamente hechas.
+16 (d) Interventor – Aquella persona que no sea parte original en cualquier
+17 procedimiento adjudicativo y que haya demostrado su capacidad o interés en
+18 el procedimiento.
+19 (e) Ley 107-2020 – Ley Núm. 107 de 13 de agosto de 2020, según enmendada,
+20 conocida como el Código Municipal de Puerto Rico.
+21 (f) Oficina – Se refiere a la Oficina de Revisiones Contributivas Municipales.
+4
+1 (g) Orden o Resolución – Cualquier decisión o acción municipal de aplicación
+2 particular que adjudique derechos u obligaciones contributivas relacionadas a
+3 la patente municipal o arbitrios de construcción de una o más personas
+4 específicas, o que imponga penalidades o sanciones.
+5 (h) Orden Interlocutoria – Aquella acción en un procedimiento adjudicativo que
+6 disponga de algún asunto meramente procesal.
+7 (i) Persona – Toda persona natural o jurídica que no sea un Municipio.
+8 (j) Parte – Toda persona o Municipio autorizado por ley a quien se dirija
+9 específicamente la acción de la Oficina o que sea parte en dicha acción, o que
+10 se le permita intervenir o participar en la misma, o que haya radicado una
+11 petición para la revisión o cumplimiento de una orden, o que sea designada
+12 como parte en dicho procedimiento.
+13 Artículo 3. – Creación de la Oficina.
+14 (a) Se crea la Oficina de Revisiones Contributivas Municipales, la cual quedará
+15 adscrita al Departamento de Hacienda y operará bajo su dirección y
+16 supervisión administrativa.
+17 (b) Los abogados-revisores que integren la plantilla de la Oficina serán nombrados
+18 por el Secretario de Hacienda, previa recomendación y propuesta vinculante
+19 de la Junta del Centro de Recaudación de Ingresos Municipales (“CRIM”).
+20 Dichos abogados deberán cumplir con los requisitos de idoneidad, experiencia
+21 en materia contributiva y cualquier otro requisito que establezca la Junta del
+22 CRIM.
+5
+1 (c) Cuando ocurra una demora en la resolución de los casos que exceda seis (6)
+2 meses, y la misma sea atribuible, total o parcialmente, a la insuficiencia del
+3 personal asignado a dicha Oficina, el Secretario de Hacienda deberá notificar
+4 de inmediato y por escrito a la Junta de Directores del Centro de Recaudación
+5 de Ingresos Municipales sobre dicha circunstancia, indicando el número de
+6 plazas adicionales requeridas, así como la justificación técnica
+7 correspondiente, a los fines de que dicha Junta proceda, con carácter de
+8 urgencia, a autorizar y gestionar la recomendación y propuesta vinculante de
+9 personal necesaria para garantizar el cumplimiento de los plazos establecidos
+10 en esta Ley. Dicha notificación deberá acompañarse de un plan de acción
+11 correctiva y de un informe trimestral de seguimiento, hasta tanto se subsane la
+12 deficiencia de personal identificada.
+13 (d) La Oficina garantizará la uniformidad de criterios, la imparcialidad en las
+14 decisiones y la celeridad en los procedimientos, de conformidad con los
+15 principios de economía procesal y de confianza legítima de los contribuyentes.
+16 (e) La Oficina tendrá a su cargo, de manera exclusiva y centralizada, la
+17 jurisdicción para atender todos los procedimientos adjudicativos radicados
+18 por los contribuyentes, en o después del 1 de enero de 2027, ante todos los
+19 municipios, para impugnar deficiencias relacionadas con arbitrios de
+20 construcción o con la patente municipal impuesta al amparo de la Ley 107-
+21 2020, según enmendada.
+6
+1 (f) Queda expresamente prohibido al Secretario de Hacienda, a sus subalternos y
+2 a cualquier funcionario o empleado del Departamento de Hacienda intervenir,
+3 influir, revisar, modificar, aprobar o desaprobar, directa o indirectamente,
+4 cualquiera de las decisiones o determinaciones que emita la Oficina en el
+5 ejercicio de sus funciones. La única función del Secretario de Hacienda y del
+6 Departamento de Hacienda será proveer la infraestructura física, el personal
+7 administrativo de apoyo, los sistemas tecnológicos y los recursos
+8 presupuestarios necesarios para la implementación y operación eficiente de
+9 esta Ley.
+10 Artículo 4. – Derechos del Contribuyente
+11 En todo procedimiento adjudicativo bajo esta Ley, la Oficina deberá salvaguardar
+12 los siguientes derechos:
+13 (a) Derecho a notificación oportuna de las deficiencias encontradas.
+14 (b) Derecho a presentar evidencia.
+15 (c) Derecho a una adjudicación imparcial.
+16 (d) Derecho a que la decisión se emita considerando únicamente el expediente
+17 administrativo.
+18 Artículo 5.- Notificación Municipal
+19 (a) Cuando el Director de Finanzas del Municipio determine que existe una
+20 deficiencia, o adopte cualquier determinación administrativa de índole contributiva
+21 mediante orden o resolución, se notificará al contribuyente dicha deficiencia preliminar,
+22 orden o resolución por correo certificado.
+7
+1 (b) Si el contribuyente no solicitare revisión ante la Oficina en la forma y dentro
+2 del término dispuesto en esta Ley, o si, habiéndola solicitado, se confirmare en todo o en
+3 parte la deficiencia, se deberá notificar por correo certificado al contribuyente su
+4 determinación final, indicando el monto de la deficiencia original, así como los intereses
+5 y las penalidades, en los casos que corresponda.
+6 Artículo 6. – Inicio del Proceso
+7 (a) El proceso adjudicativo comenzará con la presentación de una solicitud de
+8 revisión por escrito ante la Oficina. La solicitud de revisión deberá presentarse dentro del
+9 término jurisdiccional de treinta (30) días contados desde la fecha de depósito en el correo
+10 de la notificación de la deficiencia, orden o resolución. Para determinar el período de
+11 treinta (30) días, los sábados, domingos y días feriados en Puerto Rico no se contarán
+12 como parte del trigésimo día.
+13 (b) La revisión radicada deberá incluir la siguiente información:
+14 (1) Nombre y dirección del promovente;
+15 (2) Hechos constitutivos del reclamo;
+16 (3) Monto de la deficiencia, orden o resolución que se impugna;
+17 (4) Referencia a las disposiciones legales aplicables, si las conoce;
+18 (5) Remedio que solicita;
+19 (6) Firma de la persona promovente del procedimiento; y
+20 (7) Copia de la notificación de deficiencia.
+21 Artículo 7.- Solicitud de Intervención en el Procedimiento Adjudicativo.
+8
+1 (a) Cualquier persona que tenga un interés legítimo en un procedimiento
+2 adjudicativo ante la Oficina podrá someter una solicitud por escrito, debidamente
+3 fundamentada, para que se le permita intervenir o participar en dicho procedimiento. La
+4 Oficina podrá conceder o denegar la solicitud, a su discreción, tomando en consideración,
+5 entre otros, los siguientes factores:
+6 (1) Que el interés del peticionario pueda ser afectado adversamente por el
+7 procedimiento adjudicativo.
+8 (2) Que no existan otros medios en derecho para que el peticionado pueda
+9 proteger adecuadamente su interés.
+10 (3) Que el interés del peticionario ya esté representado adecuadamente por las
+11 partes en el procedimiento.
+12 (4) Que la participación del peticionario pueda ayudar razonablemente a
+13 preparar un expediente más completo del procedimiento.
+14 (5) Que la participación del peticionario pueda extender o dilatar
+15 excesivamente el procedimiento.
+16 (6) Que el peticionario represente o sea portavoz de otros grupos o entidades
+17 de la comunidad.
+18 (7) Que el peticionario pueda aportar información, pericia, conocimientos
+19 especializados o asesoramiento técnico que no estaría disponible de otro modo en
+20 el procedimiento.
+9
+1 (b) La Oficina deberá aplicar los criterios que anteceden de manera liberal, y
+2 podrá requerir que se le someta evidencia adicional para poder emitir la determinación
+3 correspondiente con respecto a la solicitud de intervención.
+4 Artículo 8.- Denegatoria de Intervención.
+5 Si la Oficina decide denegar una solicitud de intervención en un procedimiento
+6 adjudicativo, notificará su determinación por escrito al peticionario, los fundamentos que
+7 la sustentan y el recurso de revisión disponible.
+8 Artículo 9.- Conferencia con Antelación a la Vista; Ordenes y Resoluciones Sumarias.
+9 (a) La Oficina podrá citar a todas las partes, a sus representantes autorizados o
+10 a los interventores, ya sea por su propia iniciativa o a petición de una de las partes, a una
+11 conferencia con antelación a la vista, con el propósito de lograr un acuerdo definitivo o
+12 simplificar las cuestiones o la prueba a considerarse en la vista. Se podrán aceptar
+13 estipulaciones, siempre que la Oficina determine que ello sirve a los mejores intereses
+14 públicos.
+15 (b) Si la Oficina determina, a solicitud de alguna de las partes y luego de
+16 analizar los documentos que acompañan la solicitud de orden o resolución sumaria, los
+17 documentos incluidos con la moción en oposición, así como aquellos que obren en el
+18 expediente, que no es necesario celebrar una vista adjudicativa, podrá dictar órdenes o
+19 resoluciones sumarias, ya sean de carácter final o parcial, resolviendo cualquier
+20 controversia entre las partes que pueda ser separada de otras controversias.
+21 (c) La Oficina no podrá dictar ordenes o resoluciones sumarias en los casos en
+22 que existen hechos materiales o esenciales controvertidos; haya alegaciones afirmativas
+10
+1 en la solicitud de revisión que no han sido refutadas; surge de los propios documentos
+2 que se acompañan con la petición una controversia real sobre algún hecho material y
+3 esencial; o como cuestión de derechos no procede.
+4 Artículo 10.- Mecanismos de Descubrimiento de Prueba.
+5 (a) Los procedimientos de descubrimiento de prueba no serán de aplicación a
+6 los casos de adjudicación ante la Oficina, a menos que el oficial examinador los autorice
+7 previamente.
+8 (b) La Oficina podrá emitir citaciones para la comparecencia de testigos;
+9 órdenes para la producción de documentos, materiales u otros objetos, y órdenes
+10 protectoras, conforme a las Reglas de Procedimiento Civil.
+11 (c) En caso incumplimiento de una orden o requerimiento emitido al amparo
+12 del inciso (b) de esta Artículo, la Oficina podrá presentar una solicitud en auxilio de su
+13 jurisdicción en la sala con competencia del Tribunal de Primera Instancia, y éste podrá
+14 emitir una orden judicial en la que ordene el cumplimiento de la persona en cuestión,
+15 bajo apercibimiento de que incurrirá en desacato si no cumple con dicha orden.
+16 Artículo 11.- Notificación de Vista.
+17 (a) La Oficina notificará por escrito a todas las partes, a sus representantes
+18 autorizados y a los interventores la fecha, hora y lugar en que se celebrará la vista
+19 adjudicativa. La notificación deberá efectuarse por correo regular con no menos de quince
+20 (15) días de anticipación a la fecha de la vista, excepto que, por justa causa consignada en
+21 la notificación, sea necesario acortar dicho periodo, y deberá contener la siguiente
+22 información:
+11
+1 (1) Fecha, hora y lugar en que se celebrará la vista, así como la naturaleza y
+2 propósito;
+3 (2) Advertencia de que las partes podrán comparecer por derecho propio, o
+4 asistidas de abogados. Las personas jurídicas comparecerán representadas por
+5 abogados;
+6 (3) Cita de la disposición legal o reglamentaria que autoriza la celebración de la
+7 vista;
+8 (4) Referencia a la deficiencia, orden o resolución, incluyendo años contributivos
+9 o periodos en controversia;
+10 (5) Apercibimiento de las medidas que la Oficina podrá tomar si una parte no
+11 comparece a la vista; y
+12 (6) Advertencia de que la vista no podrá ser suspendida, a menos que se cumpla
+13 con las disposiciones del Artículo 14 de esta Ley.
+14 Artículo 12.- Rebeldía.
+15 Si una parte debidamente citada no comparece a la conferencia con antelación a la
+16 vista, o a cualquier otra etapa durante el procedimiento adjudicativo, el funcionario que
+17 presida la misma podrá declararla en rebeldía y continuar el procedimiento sin su
+18 participación, pero notificará por escrito a dicha parte su determinación, los fundamentos
+19 para la misma y recursos de revisión disponible.
+20 Artículo 13.- Solicitud para Vista Pública.
+21 Por la naturaleza de la información que se discute en los casos contributivos, la
+22 vista adjudicativa será privada, a menos que se presente una solicitud por escrito,
+12
+1 debidamente fundamentada, para que la vista sea pública, y así lo autorice el funcionario
+2 que presida la misma, siempre que entienda que hacerla pública no causará daño
+3 irreparable al contribuyente.
+4 Artículo 14.- Suspensión de Vistas Señaladas.
+5 (a) El funcionario que presida el procedimiento adjudicativo no podrá
+6 suspender una vista ya señalada, excepto que se solicite por escrito con expresión de las
+7 causas que justifican dicha suspensión.
+8 (b) Dicha solicitud será sometida con al menos tres (3) días de anticipación a la
+9 fecha de la vista. La parte peticionaria deberá enviar copias de su solicitud a las demás
+10 partes e interventores en el procedimiento, dentro del término señalado para la solicitud
+11 de suspensión.
+12 (c) Bajo ninguna circunstancia se podrá suspender una vista adjudicativa en
+13 más de dos (2) ocasiones.
+14 Artículo 15.- Procedimiento Durante la Vista.
+15 (a) La vista deberá grabarse o estenografiarse, y el funcionario que presida la
+16 misma emitirá la decisión por escrito.
+17 (b) El funcionario que presida la vista, dentro de un marco de relativa
+18 informalidad, ofrecerá a todas las partes la extensión necesaria para una divulgación
+19 completa de todos los hechos y cuestiones en discusión, la oportunidad de responder,
+20 presentar evidencia y argumentar, conducir contrainterrogatorio y someter evidencia
+21 en refutación, excepto cuando haya sido restringida o limitada por las estipulaciones en
+22 la conferencia con antelación a la vista.
+13
+1 (c) El funcionario que presida la vista podrá excluir aquella evidencia que sea
+2 impertinente, inmaterial, repetitiva o inadmisible por fundamentos constitucionales o
+3 legales basados en privilegios evidenciarios reconocidos por los tribunales de Puerto
+4 Rico.
+5 (d) El funcionario que presida la vista podrá tomar conocimiento oficial de todo
+6 aquello que pueda ser objeto de conocimiento judicial en los tribunales de justicia.
+7 (e) Las Reglas de Evidencia no serán aplicables a las vistas administrativas,
+8 pero los principios fundamentales de evidencia se podrán utilizar para lograr una
+9 solución rápida, justa y económica del procedimiento.
+10 (f) El funcionario que presida la vista podrá conceder a las partes un término
+11 de quince (15) días después de concluir la misma para la presentación de propuestas
+12 sobre determinaciones de hechos y conclusiones de derecho. Las partes podrán
+13 voluntariamente renunciar a que se declaren las determinaciones de hechos.
+14 (g) Todo caso sometido a un procedimiento adjudicativo ante la Oficina deberá
+15 ser resuelto dentro de un término de seis (6) meses, desde su radicación, salvo
+16 circunstancias excepcionales.
+17 (h) En cualquier momento durante el proceso adjudicativo, el promovente, o
+18 su representante autorizado podrá solicitar, mediante una moción acompañada por un
+19 memorando de derecho, que la Oficina evalúe su caso y emita una notificación final, sin
+20 que sea necesaria la celebración de la vista.
+21 Artículo 16.- Determinaciones Finales de la Oficina e Impugnación Judicial.
+14
+1 (a) Una determinación final deberá ser emitida por escrito dentro de noventa
+2 (90) días, contados a partir de que concluya la vista o de la presentación de las
+3 propuestas determinaciones de hechos y conclusiones de derecho, a menos que este
+4 término sea renunciado o ampliado mediante el consentimiento escrito de todas las
+5 partes o por justa causa. La determinación final deberá incluir, y exponer de forma
+6 separada, las determinaciones de hecho, si éstas no han sido renunciadas, las
+7 conclusiones de derecho que fundamentan la adjudicación y la disponibilidad del
+8 recurso de reconsideración o revisión, según sea el caso. La determinación final deberá
+9 ser firmada por el oficial examinador.
+10 (b) La determinación final sobre una deficiencia deberá incluir el monto de la
+11 deficiencia confirmada, ya sea la totalidad originalmente notificada o una cantidad
+12 parcial, o, en su defecto, una declaración expresa de que la misma ha sido dejada sin
+13 efecto. De confirmarse alguna cantidad de la deficiencia, la notificación deberá incluir
+14 los intereses, recargos y penalidades aplicables al momento de la notificación, más los
+15 que se acumulen durante un término adicional de treinta (30) días.
+16 (c) La determinación final advertirá el derecho de:
+17 (1) En el caso de una deficiencia, advertirá al contribuyente de su derecho
+18 a recurrir dentro del término de treinta (30) días contados a partir de la
+19 fecha del depósito en el correo de la notificación, ante el Tribunal de
+20 Primera Instancia contra dicha determinación, así como las partes que
+21 deberán ser notificadas del recurso de revisión y los términos
+22 correspondientes. Además, la determinación final deberá expresar el
+15
+1 monto de la fianza que deberá prestar el contribuyente si deseare
+2 recurrir ante el Tribunal de Primera Instancia contra la determinación
+3 de deficiencia. Dicha fianza no excederá del monto de los arbitrios de
+4 construcción o de la patente municipal, más los intereses sobre la
+5 deficiencia, computados por un período adicional de un (1) año a razón
+6 de un nueve por ciento (9%) anual. El contribuyente podrá pagar la
+7 parte de la deuda con la cual estuviere conforme y litigar el resto; en tal
+8 caso, la fianza no excederá del monto de la contribución que se litigue,
+9 más los intereses sobre la deficiencia computados conforme a lo aquí
+10 dispuesto.
+11 (2) En el caso de una orden o resolución, se advertirá a la parte afectada de
+12 su derecho a recurrir, dentro del término de treinta (30) días contados a
+13 partir de la fecha del depósito en el correo de la notificación, ante el
+14 Tribunal de Apelaciones contra dicha determinación, así como las partes
+15 que deberán ser notificadas del recurso de revisión y los términos
+16 correspondientes.
+17 (d) La Oficina deberá especificar en la certificación de sus determinaciones
+18 finales los nombres y direcciones de las personas naturales o jurídicas a quienes, en
+19 calidad de partes, les fue notificada la determinación, a los fines de que estas puedan
+20 ejercer de forma efectiva el derecho a la revisión judicial conferido por ley.
+21 (e) La Oficina deberá notificar, mediante copia simple enviada por correo
+22 certificado, a las partes y a sus abogados, de tenerlos, la orden o resolución final a la
+16
+1 brevedad posible, y deberá archivar en autos copia de la orden o resolución final y de
+2 la constancia de su notificación. Ninguna parte podrá ser requerida a cumplir con una
+3 orden o resolución final, a menos que haya sido debidamente notificada de la misma.
+4 (f) En el caso de que una persona falleciere en o después de la fecha del
+5 depósito en el correo de la notificación de la determinación final, pero antes de expirar
+6 el término de treinta (30) días, el término que tendrán sus herederos o representantes
+7 legales para prestar la fianza y/o recurrir ante el tribunal será de sesenta (60) días,
+8 contados a partir de la fecha del depósito en el correo de la notificación de la
+9 determinación final. Salvo que de otro modo se disponga en esta Ley, tanto la prestación
+10 de la fianza aplicable como la radicación del recurso ante el tribunal dentro del término
+11 aquí provisto constituirán requisitos jurisdiccionales, sin cuyo cumplimiento el tribunal
+12 no podrá conocer del asunto.
+13 (g) La decisión final del oficial examinador en torno a una deficiencia, orden o
+14 resolución no estará sujeta a revisión por ninguna otra oficina o ningún otro funcionario
+15 del Municipio.
+16 (h) La persona podrá radicar la demanda a que se refiere el apartado (c)(1) de
+17 esta Sección en la sala del Tribunal de Primera Instancia correspondiente al municipio
+18 de su residencia, y no obstante cualesquiera otras disposiciones de ley sobre traslado
+19 de causas o lugar de juicio, tendrá derecho, por razón de la conveniencia de los testigos,
+20 a que su caso se litigue en dicha sala del Tribunal de Primera Instancia.
+21 (i) Las sentencias finales del Tribunal de Primera Instancia dictadas en los
+22 méritos de una deficiencia podrán ser apeladas ante el foro apelativo con jurisdicción
+17
+1 para conocer de dicha apelación, de conformidad con lo dispuesto en la Ley Núm. 201-
+2 2003, según enmendada, conocida como la “Ley de la Judicatura del Estado Libre
+3 Asociado de Puerto Rico de 2003”, debiendo interponerse dicha apelación en la forma
+4 y dentro del término provisto por las reglas adoptadas para tales fines. En los casos en
+5 que la sentencia del Tribunal de Primera Instancia determine la existencia de una
+6 deficiencia, se ordenará la radicación de un cómputo de la contribución, y dicha
+7 sentencia no se considerará final, por lo que el término apelativo no comenzará a
+8 transcurrir para las partes hasta la fecha del archivo en autos de la notificación a la
+9 persona y al Director de Finanzas de la resolución del Tribunal de Primera Instancia
+10 que apruebe el cómputo de la contribución determinada por dicho Tribunal.
+11 (j) No se realizará la tasación con respecto a la patente municipal o al arbitrio
+12 de construcción, ni se iniciará o tramitará procedimiento de apremio ni procedimiento
+13 judicial alguno para su cobro, antes de que la notificación de la determinación final haya
+14 sido enviada por correo certificado a la persona, ni antes de que expire el término
+15 concedido por esta Ley al contribuyente para recurrir ante el Tribunal de Primera
+16 Instancia contra dicha determinación final, ni, en caso de haberse recurrido ante el
+17 Tribunal de Primera Instancia, hasta que la sentencia del Tribunal sea final y firme.
+18 (k) Cuando una persona apelare la sentencia del Tribunal de Primera Instancia
+19 que determine una deficiencia, estará obligada a pagar la totalidad de la deficiencia así
+20 determinada dentro del término para apelar, y el incumplimiento de dicho requisito de
+21 pago, salvo lo dispuesto en esta Ley, privará al foro apelativo competente, de
+22 conformidad con la Ley Núm. 201-2003, según enmendada, conocida como la “Ley de
+18
+1 la Judicatura del Estado Libre Asociado de Puerto Rico de 2003”, de jurisdicción para
+2 conocer de la apelación en sus méritos.
+3 Si el foro apelativo resolviere que no existe la deficiencia determinada por el
+4 Tribunal de Primera Instancia, total o parcialmente, y la persona hubiere pagado total
+5 o parcialmente dicha deficiencia al apelar, el Director de Finanzas procederá a
+6 reintegrarle, con cargo a cualesquiera fondos disponibles en el municipio, la cantidad
+7 correspondiente de conformidad con la sentencia del foro apelativo, más intereses a
+8 razón de seis por ciento (6%) anual sobre el monto a reintegrarse, computados desde la
+9 fecha del pago.
+10 Si el Director de Finanzas apelare de la sentencia del Tribunal de Primera
+11 Instancia que determine que no existe deficiencia en todo o en parte, o si, habiendo
+12 apelado la persona, no hubiere pagado la totalidad de la contribución, en cualquiera de
+13 dichos casos en que la sentencia del foro apelativo fuere favorable al Director de
+14 Finanzas, la deficiencia determinada en apelación, o la parte de la misma no pagada,
+15 será tasada y deberá pagarse mediante notificación y requerimiento del Director de
+16 Finanzas.
+17 (1) En el caso de que una persona apele la sentencia del Tribunal de Primera
+18 Instancia que determine una deficiencia y no pueda cumplir con el requisito
+19 del pago total de la deficiencia, o solo pueda pagar parte de la misma, el
+20 Tribunal de Primera Instancia podrá ordenar, siempre que la apelación
+21 involucre una cuestión sustancial y con sujeción a lo dispuesto más adelante,
+22 que la apelación continúe su curso hasta la resolución final en los méritos, sin
+19
+1 el pago total de dicha deficiencia. En tal caso, la persona deberá radicar junto
+2 con su escrito de apelación ante el Tribunal de Primera Instancia una petición
+3 fundada, exponiendo las razones por las cuales no puede pagar la deficiencia
+4 en todo o en parte y los fundamentos que sustentan que la apelación involucra
+5 una cuestión sustancial. Si el Tribunal de Primera Instancia determina que la
+6 persona no puede pagar la deficiencia total o solo puede pagar parte de la
+7 misma, y que la apelación involucra una cuestión sustancial, ordenará, en lugar
+8 del pago total, lo que corresponda según el caso:
+9 (i) Que la apelación siga su curso bajo la fianza prestada para acudir al
+10 Tribunal de Primera Instancia si ésta fuere suficiente para responder de la
+11 deficiencia que en definitiva se determine y de sus intereses; o
+12 (ii) que la persona preste una nueva fianza, a satisfacción del Tribunal, en
+13 cantidad suficiente para responder de la deficiencia y de sus intereses por
+14 un período razonable; o
+15 (iii) que la persona pague parte de la deficiencia y la parte no pagada se
+16 afiance en cualquiera de las formas anteriormente provistas en los incisos
+17 (i) y (ii). En el caso de una persona que hubiere sido exonerada de prestar
+18 fianza para litigar la deficiencia en el Tribunal de Primera Instancia y que
+19 demostrare que no puede pagar la contribución, ni prestar fianza, si la
+20 apelación envuelve una cuestión sustancial, el Tribunal de Primera
+21 Instancia dispondrá que la apelación siga su curso hasta la disposición final
+20
+1 de la misma en los méritos sin requisito alguno de pago o de prestación de
+2 fianza.
+3 (2) Si el Tribunal de Primera Instancia determina que la persona puede pagar la
+4 deficiencia, o parte de la misma, o que debe prestar una fianza, la persona
+5 deberá proceder al pago de la deficiencia o de la parte determinada, o a prestar
+6 la fianza dentro del término de treinta (30) días a partir de la fecha en que fuere
+7 notificada de la resolución del Tribunal de Primera Instancia a tales efectos, y
+8 el pago de la deficiencia, o de la parte determinada, o la prestación de fianza
+9 dentro de dicho término, perfeccionarán la apelación a todos los fines de ley.
+10 Si dentro de dicho término de treinta (30) días la persona no efectuare el pago,
+11 o no prestare la fianza requerida, o si habiendo prestado una fianza que no
+12 fuere aceptada no prestare otra dentro del término que le concediere el
+13 Tribunal de Primera Instancia, el foro apelativo no tendrá facultad para
+14 conocer de la apelación en los méritos y será desestimada. Las resoluciones del
+15 Tribunal de Primera Instancia dictadas bajo las disposiciones de los párrafos
+16 (3) y (4) de este inciso no serán apelables, pero cualquier parte podrá, dentro
+17 de diez (10) días a partir de la fecha en que fuere notificada de cualquiera de
+18 dichas resoluciones, solicitar revisión de la misma al foro apelativo que
+19 corresponda de acuerdo a la Ley 201-2003, según enmendada, conocida como
+20 “Ley de la Judicatura del Estado Libre Asociado de Puerto Rico de 2003”,
+21 mediante recurso de certiorari.
+21
+1 (l) El Tribunal de Primera Instancia tendrá jurisdicción para redeterminar el
+2 monto correcto de la deficiencia, aun cuando la cantidad así redeterminada sea mayor
+3 que el monto de la deficiencia notificada por el Director de Finanzas, y para determinar
+4 si deben imponerse cualesquiera cantidades adicionales o adiciones a la contribución,
+5 siempre que el Director de Finanzas, o su representante, haya establecido una
+6 reclamación a tales efectos en cualquier momento antes de dictarse la sentencia.
+7 (m) Si la Oficina hubiere enviado por correo a la persona la notificación de una
+8 deficiencia y la persona hubiere recurrido ante el Tribunal de Primera Instancia dentro
+9 del término y en la forma provista por esta Ley, el Director de Finanzas no tendrá
+10 derecho a determinar deficiencia adicional alguna con respecto al mismo año
+11 contributivo, salvo en los casos de fraude y lo dispuesto en el inciso (c) del Artículo
+12 7.214.
+13 Si la persona fuere notificada de que, debido a un error matemático, aparece en
+14 la declaración una contribución adeudada en exceso de la expresada en la misma, y que
+15 se ha hecho o se hará una tasación de la contribución basada en el monto correcto que
+16 debió haberse declarado, tal notificación no será considerada, a los fines de este
+17 apartado, como una notificación de deficiencia, y la persona no tendrá derecho a radicar
+18 recurso ante el Tribunal de Primera Instancia contra dicha notificación. No obstante, el
+19 contribuyente conservará el derecho de revisión judicial descrito en el apartado (c)(2)
+20 de esta Sección.
+21 (n) En el caso de una deficiencia relacionada con una patente municipal, el
+22 Tribunal de Primera Instancia, al considerar la deficiencia respecto a cualquier año
+22
+1 contributivo, tomará en cuenta los pagos realizados relacionados con patentes de otros
+2 años contributivos, según sea necesario para determinar correctamente el monto de
+3 dicha deficiencia; sin embargo, al hacerlo, no tendrá jurisdicción para resolver si la
+4 patente correspondiente a cualquier otro año contributivo ha sido pagada en exceso o
+5 en menor cuantía.
+6 (o) En ausencia de notificación al Director de Finanzas o a la Oficina sobre la existencia
+7 de una relación fiduciaria, la notificación de una deficiencia respecto a una contribución
+8 será suficiente si ha sido enviada por correo a la persona a su última dirección conocida,
+9 aunque dicha persona haya fallecido o se encuentre legalmente incapacitada, o, en el
+10 caso de una corporación o sociedad, aunque ya no existan.
+11 (p) En el caso de que la parte adversamente afectada por una determinación final de
+12 la Oficina sea un Municipio, este podrá presentar una solicitud de revisión judicial ante
+13 el Tribunal de Primera Instancia o el Tribunal de Apelaciones, según corresponda,
+14 dentro de un término de treinta (30) días contados a partir de la fecha del archivo en
+15 autos de la copia de la notificación de la determinación final de la Oficina o a partir de
+16 la fecha aplicable cuando el término para solicitar la revisión judicial haya sido
+17 interrumpido mediante la presentación oportuna de una moción de reconsideración.
+18 Disponiéndose, que, si la fecha de archivo en autos de copia de la notificación de la
+19 orden o resolución final es distinta a la del depósito en el correo de dicha notificación,
+20 el término se computará a partir de la fecha del depósito en el correo. En los casos en
+21 que un Municipio impugne una determinación relacionada a una deficiencia, el
+22 contribuyente no tendrá que prestar la Fianza descrita en el Artículo 17 de esta ley.
+23
+1 (q) Una orden o resolución interlocutoria de la Oficina no será revisable de manera
+2 directa. Dicha disposición interlocutoria podrá ser objeto de un señalamiento de error
+3 en el recurso de revisión de la determinación final. La revisión judicial prevista en esta
+4 Sección será el recurso exclusivo para impugnar los méritos de cualquier decisión, ya
+5 sea de naturaleza adjudicativa o de carácter informal emitida al amparo de esta Ley.
+6 Artículo 17.- Fianza.
+7 (a) La fianza destinada a garantizar el pago de contribuciones deberá presentarse
+8 mediante la radicación del formulario que indique la Oficina, acompañado de los
+9 documentos complementarios según el tipo de fianza a ser prestada. Toda
+10 radicación o prestación de fianza para garantizar el pago de la contribución se
+11 regirá por las reglas establecidas en este Artículo.
+12 (b) Las fianzas permisibles son las siguientes:
+13 (1) Pignoraticias:
+14 (i) valores públicos (bonos del gobierno); y
+15 (ii) depósitos en plica ("escrow accounts”)
+16 (2) Fianza de seguros - En caso de que la fianza prestada por el
+17 contribuyente sea de una compañía de seguros, se determinará si la misma
+18 está autorizada por el Comisionado de Seguros a hacer negocios en Puerto
+19 Rico, por medio de la solicitud de evidencia de certificación a dichos efectos.
+20 (3) Hipotecarias - Las fianzas hipotecarias incluyen pagarés hipotecarios a
+21 nombre del Municipio, o hipotecas sobre propiedades inmuebles poseídas
+24
+1 por el contribuyente, ofrecidas por éste como garantía, formalizadas en
+2 escritura pública.
+3 (c) Si la persona no pudiere prestar la fianza por el monto requerido, o no pudiese
+4 prestar fianza, o si habiéndola prestado por el monto requerido el Director de Finanzas
+5 del Municipio la hubiere rechazado antes de radicarse la demanda, la persona podrá, no
+6 obstante, radicar su demanda en el Tribunal de Primera Instancia dentro del término
+7 anteriormente provisto, pero en tales casos deberá acompañar dicha demanda con una
+8 solicitud que será notificada al Director de Finanzas junto con la demanda, para que el
+9 Tribunal de Primera Instancia reduzca el monto de la fianza, o le exonere de prestarla, o
+10 apruebe la fianza prestada, según sea el caso, exponiendo las razones que tuviere para
+11 ello. Dentro de diez (10) días a partir de la fecha en que fuere notificado de la solicitud de
+12 la persona sobre reducción, exoneración o aprobación de fianza, o dentro de cualquier
+13 prórroga que a tal fin le conceda el Tribunal, el Director de Finanzas deberá radicar en el
+14 Tribunal las objeciones que tuviere contra dicha solicitud de la persona, después de lo
+15 cual el Tribunal celebrará una audiencia y oirá a las partes sin entrar en los méritos de la
+16 deficiencia notificada y dictará resolución, bien sosteniendo el monto de la fianza,
+17 reduciendo el mismo, bien exonerando a la persona de la prestación de la fianza, o bien
+18 aprobando la fianza que rechazó el Director de Finanzas u ordenando a la persona que
+19 preste otra.
+20 (d) Si la persona hubiere prestado fianza por el monto requerido y antes de radicar su
+21 demanda dicha fianza no hubiere sido desaprobada, el Director de Finanzas tendrá un
+22 término de treinta (30) días a partir de la fecha en que fuere notificado de la demanda
+25
+1 para radicar ante el Tribunal, con notificación a la persona, las objeciones que tuviere
+2 contra la fianza así prestada, y si dichas objeciones no fueren hechas dentro del término
+3 de treinta (30) días antes mencionado o de cualquier prórroga que a tal fin le concede el
+4 Tribunal se entenderá que la fianza ha sido aprobada por el Director de Finanzas. Si el
+5 Director de Finanzas objetare dicha fianza, la persona deberá radicar su contestación a
+6 dichas objeciones dentro de diez (10) días a partir de la fecha en que fuere notificado de
+7 las mismas, o dentro de cualquier prórroga que a tal fin le concede el Tribunal, después
+8 de lo cual el Tribunal celebrará una audiencia y oirá a las partes sobre las objeciones a la
+9 fianza sin entrar en los méritos de la deficiencia y dictará resolución bien sosteniendo la
+10 fianza prestada por la persona o bien exigiéndole que preste otra en la forma y con las
+11 garantías que el Tribunal determine.
+12 (e) En todos los casos en que el Tribunal determine que la persona debe prestar una
+13 fianza, la misma será sometida al Director de Finanzas para su aprobación dentro de un
+14 término razonable fijado por el Tribunal de acuerdo con las circunstancias de cada caso,
+15 que en ningún momento deberá exceder de sesenta (60) días a partir de la fecha en que la
+16 resolución del Tribunal fijando dicha fianza sea firme y ejecutoria. Si el Director de
+17 Finanzas no objetare la fianza así sometida dentro de treinta (30) días o dentro de
+18 cualquier prórroga que a tal fin le conceda el Tribunal se entenderá que la misma ha sido
+19 aprobada por él.
+20 (f) Si la persona no acompañare la demanda con la solicitud requerida por el apartado
+21 (c) para que se reduzca el monto de la fianza, o para que se le exonere de prestarla, o para
+22 que se apruebe la fianza prestada; o dejare de contestar las objeciones del Director de
+26
+1 Finanzas a cualquier fianza hechas después de estar el caso ante el Tribunal, o de
+2 comparecer a la vista en relación con cualquier fianza; o dejare de prestar cualquier fianza
+3 requerida por el Tribunal dentro del término que se le haya concedido; o no radicare su
+4 demanda en el Tribunal de Primera Instancia dentro del término prescrito para ello; o de
+5 otro modo no prestare fianza dentro de dicho término para recurrir ante el Tribunal; o
+6 dejare de cumplir con cualquiera de los requisitos impuestos por este inciso para que el
+7 Tribunal de Primera Instancia pueda conocer del asunto, será causa suficiente para que
+8 la demanda sea archivada. En los casos en que la sentencia de archivo sea dictada por el
+9 fundamento que la persona ha dejado de prestar cualquier fianza requerida por el
+10 Tribunal en virtud de resolución para cuya revisión se concede aquí el recurso de
+11 certiorari, dicha sentencia de archivo será final y firme.
+12 (g) Las decisiones del Tribunal de Primera Instancia en los méritos sobre cualquier
+13 incidente de fianza, así como sus decisiones conociendo o negándose a conocer un asunto
+14 por alegado incumplimiento por parte de la persona de los requisitos establecidos en este
+15 inciso para que el Tribunal pueda conocer del asunto, serán inapelables, pero cualquier
+16 parte afectada podrá dentro de diez (10) días a partir de la fecha en que fuere notificada
+17 de dicha decisión, solicitar revisión de la misma por el Tribunal Supremo mediante
+18 recurso de certiorari.
+19 Artículo 18.- Tasaciones en Peligro, Quiebras y Sindicatura
+20 Las disposiciones del Artículo 7.214 y 7.215 de la Ley 107-2020 deberán interpretarse
+21 cónsono con las disposiciones de esta ley.
+22 Artículo 19.-Reconsideración.
+27
+1 (a) La parte adversamente afectada por una determinación final podrá, dentro del
+2 término de veinte (20) días desde la fecha de archivo en autos de la notificación de la
+3 determinación, presentar una moción de reconsideración.
+4 (b) La Oficina, dentro de los quince (15) días de haberse presentado dicha moción,
+5 deberá considerarla. Si la rechazare de plano o no actuare dentro de los quince (15) días,
+6 el término para solicitar revisión comenzará a correr nuevamente desde que se notifique
+7 dicha denegatoria o desde que expiren esos quince (15) días, según sea el caso. Si se
+8 tomare alguna determinación en su consideración, el término para solicitar revisión
+9 empezará a contarse desde la fecha en que se archive en autos una copia de la notificación
+10 de la determinación resolviendo definitivamente la moción de reconsideración. Tal
+11 determinación deberá ser emitida y archivada en autos dentro de los noventa (90) días
+12 siguientes a la radicación de la moción de reconsideración.
+13 (c) Si la Oficina acoge la moción de reconsideración pero deja de tomar alguna acción
+14 con relación a la moción dentro de los noventa (90) días de ésta haber sido radicada,
+15 perderá jurisdicción sobre la misma y el término para solicitar la revisión judicial
+16 empezará a contarse a partir de la expiración de dicho término de noventa (90) días salvo
+17 que la agencia, por justa causa y dentro de esos noventa (90) días, prorrogue el término
+18 para resolver por un período que no excederá de treinta (30) días adicionales.
+19 (d) Si la fecha de archivo en autos de copia de la notificación de la determinación es
+20 distinta a la del depósito en el correo de dicha notificación, el término se calculará a partir
+21 de la fecha del depósito en el correo.
+22 Artículo 20.-Terminación del Procedimiento.
+28
+1 Si el Municipio decide no continuar con el procedimiento adjudicativo que
+2 dispone esta ley en un caso en particular, terminará el procedimiento y notificará por
+3 escrito por correo certificado con acuse de recibo a las partes su determinación.
+4 Artículo 21.-Archivo de Expediente.
+5 (a) La Oficina establecerá una unidad para el archivo de los expedientes de los casos
+6 adjudicativos. La Oficina mantendrá un expediente de cada procedimiento adjudicativo
+7 llevado a cabo de conformidad al procedimiento establecido en esta Ley. El expediente
+8 incluirá, pero sin limitarse a:
+9 (1) Las notificaciones de todos los procedimientos.
+10 (2) Cualquier orden o resolución interlocutoria dictada antes de la vista.
+11 (3) Cualquier moción, alegación, petición o requerimiento.
+12 (4) Evidencia recibida o considerada.
+13 (5) Una relación de todas las materias de las que se tomó conocimiento oficial.
+14 (6) Ofrecimiento de prueba, objeciones y resoluciones sobre las mismas.
+15 (7) Propuestas de determinaciones de hecho y conclusiones de derecho,
+16 órdenes solicitadas y excepciones.
+17 (8) Cualquier orden o resolución final, preliminar o en reconsideración.
+18 (b) El expediente de la Oficina constituirá la base exclusiva para su acción en un
+19 procedimiento adjudicativo bajo esta Ley y para la revisión judicial ulterior.
+20 Artículo 22.-Sanciones.
+21 (a) La Oficina podrá imponer sanciones, en su función cuasijudicial, en los siguientes
+22 casos:
+29
+1 (1) Si el promovente de una acción, o el promovido por ella, dejare de cumplir con las
+2 reglas o con cualquier orden del oficial examinador, la Oficina a iniciativa propia o a
+3 instancia de parte podrá ordenarle que muestre causa por la cual no deba imponérsele
+4 una sanción. La orden informará de las reglas u órdenes con las cuales no se haya
+5 cumplido, y se concederá un término de veinte (20) días, contados a partir de la fecha
+6 de notificación de la orden, para la mostración de causa. De no cumplirse con esa
+7 orden, o de determinarse que no hubo causa que justificare el incumplimiento,
+8 entonces se podrá imponer una sanción económica a favor del Municipio o de
+9 cualquier parte, que no excederá de quinientos (500) dólares por cada imposición
+10 separada, a la parte o a su abogado, si este último es el responsable del
+11 incumplimiento.
+12 (2) Ordenar la desestimación de la acción en el caso del promovente, o eliminar las
+13 alegaciones en el caso del promovido, si después de haber impuesto sanciones
+14 económicas y de haberlas notificado a la parte correspondiente, dicha parte continúa
+15 en su incumplimiento de las órdenes de la Oficina.
+16 (3) Imponer costas y honorarios de abogados, en los mismos casos que dispone la
+17 Regla 44 de Procedimiento Civil, según enmendada.
+18 Artículo 23.-Agotamiento de Remedios ante el Municipio; Relevo.
+19 El tribunal podrá relevar a un peticionario de tener que agotar alguno o todos los
+20 remedios ante la Oficina o el Municipio provistos en el caso de que dicho remedio sea
+21 inadecuado, o cuando el requerir su agotamiento resultare en un daño irreparable al
+22 promovente y en el balance de intereses no se justifica agotar dichos remedios, o cuando
+30
+1 se alegue la violación sustancial de derechos constitucionales, o cuando sea inútil agotar
+2 los remedios ante la Oficina o el Municipio por la dilación excesiva en los procedimientos,
+3 o cuando sea un caso claro de falta de jurisdicción del Municipio, o cuando sea un asunto
+4 estrictamente de derecho y es innecesaria la pericia.
+5 Artículo 24.-Solicitud de Revisión; Requisitos.
+6 El Tribunal Supremo de Puerto Rico adoptará unas reglas para regular los
+7 procedimientos de revisión judicial, las que promoverán el acceso fácil, económico y
+8 efectivo a los ciudadanos, evitarán las desestimaciones del recurso de revisión por
+9 defectos de forma y de notificación y permitirán la comparecencia efectiva de recurrentes
+10 por derecho propio y en forma pauperis. A los fines de hacer efectiva la comparecencia
+11 por derecho propio y en forma pauperis, el Tribunal Supremo podrá adoptar
+12 procedimientos especiales y formularios simples.
+13 Artículo 25.-Alcance de la Revisión Judicial.
+14 El tribunal podrá conceder el remedio apropiado si determina que el recurrente
+15 tiene derecho a un remedio. Las determinaciones de hechos de las decisiones de los
+16 Municipios serán sostenidas por el tribunal, si se basan en evidencia sustancial que obra
+17 en el expediente. Las conclusiones de derecho serán revisables en todos sus aspectos por
+18 el tribunal.
+19 Artículo 26.-Remedios.
+20 (a) La mera presentación de un recurso de revisión de una orden o resolución no
+21 paralizará el trámite en el Municipio, a menos que la Oficina así lo determine.
+31
+1 (b) La Oficina podrá conceder el remedio solicitado o cualquier otro remedio que
+2 considere apropiado aunque no haya sido solicitado, y podrá conceder honorarios
+3 razonables de abogados, costos y gastos a cualquier parte cuando determine que la otra
+4 parte actuó de manera temeraria o de mala fe.
+5 Artículo 27.-Revisión -Certiorari.
+6 Cualquier parte adversamente afectada por la resolución del Tribunal de
+7 Apelaciones de cualquier caso incoado bajo el apartado (c)(2) del Artículo 16 de esta ley
+8 podrá solicitar la revisión de la misma mediante la presentación de recurso de Certiorari
+9 ante el Tribunal Supremo en el término jurisdiccional de treinta (30) días desde el archivo
+10 en autos de la notificación de la sentencia del Tribunal de Apelaciones o de la resolución
+11 de éste resolviendo una moción de reconsideración debidamente presentada. Si la fecha
+12 de archivo en autos de copia de la notificación de la sentencia o resolución es distinta a la
+13 del depósito en el correo de dicha notificación, el término se calculará a partir de la fecha
+14 del depósito en el correo.
+15 Artículo 28. Separabilidad.
+16 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+17 disposición, Artículo, sub-artículo, título, capítulo, subcapítulo, acápite o parte de esta
+18 Ley fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+19 efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+20 de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra,
+21 letra, artículo, disposición, Artículo, sub-artículo, título, capítulo, subcapítulo, acápite o
+22 parte de la misma que así hubiere sido anulada o declarada inconstitucional. Si la
+32
+1 aplicación a una persona o a una circunstancia de cualquier cláusula, párrafo, subpárrafo,
+2 oración palabra, letra, artículo, disposición, Artículo, sub-artículo, título, capítulo,
+3 subcapítulo, acápite o parte de esta Ley fuera invalidada o declarada inconstitucional, la
+4 resolución, dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación
+5 del remanente de esta Ley a aquellas personas o circunstancias en las que se pueda aplicar
+6 válidamente. Es la voluntad expresa e inequívoca de esta Asamblea Legislativa que los
+7 tribunales hagan cumplir las disposiciones y la aplicación de esta Ley en la mayor medida
+8 posible, aunque se deje sin efecto, anule, invalide, perjudique o declare inconstitucional
+9 alguna de sus partes, o aunque se deje sin efecto, invalide o declare inconstitucional su
+10 aplicación a alguna persona o circunstancia. La Asamblea Legislativa hubiera aprobado
+11 esta Ley sin importar la determinación de separabilidad que el Tribunal pueda hacer.
+12 Artículo 29.- Vigencia
+13 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A  3 .rL   s]
+[DELETED:  l d d n c E l a l r t r s h n y u c e e D d l f d r a d l d c m l c d u O d R C a q l R E t a g d i e l t d]
+[DELETED: )A)A)D i b l L 1 s e s e)l s d ( l c d c c p e)e)I – A p q n s p o e c)L)O]
+[DELETED: )O o – C d o a m d a p m o a d c d u o m p)O)P)P – T p o M a p l a q s d)S a D d H y o b s d y)L I (]
+[DELETED: )C a r a c l j t a l f d q d J p c c d e L D n d a d u p d a)L O g l u d c l i e l y l c e l p d c c l)L O t a s c d m e y c l p a t l p a r p i d r c a d]
+[DELETED: )Q r m a o d d o i d l d o d q e l O e e d a l s t y l rE)D)D)D)D a q l d s e c ú e e)C o a c d a d í c]
+[DELETED: )S l d s d n p c c a c s)E)L)N)H)M)R)R)F)C]
+[DELETED: )C p q t u i l e u p a l O p s u s p e d)Q e i d p p s a a p e)Q)Q)Q l p d p p a r a)Q l p d p p e o d)Q)Q e p p a i p c]
+[DELETED: )L)L l c o l p a c e l v S p a)S l O d a s d a d l p y l d s y s d c f o p r c)L]
+[DELETED: )L)L O p e c p l c d t p l p d d m u o o y ó)E)L y a l i l f h y l e q s c l v n s n a d p y d c l s]
+[DELETED: )F h y l e q s c l v a c l n y)A d q l p p c p d p o)C)R)A)AS l m p d e r y c e p s sP a s p a m q s p u s p e]
+[DELETED:  p l m s q e q h p n c d)E f q p e p a n p)D)B)L)E f q p l v d d u m d r]
+[DELETED: )E)E)L l p f d e s p u p l u)E d d h y c d d L p p)T r d d u t d s ( m d s r s)E]
+[DELETED: )U d c a p d q c l v o d l p d l l d d h s é n h s r l d d q f l a y l d d)L c y s l t n o u c)L)E s n d r d r y l t A l d f d e e]
+[DELETED:  d l f q d p e c s d o d l p m m l i s l)E d s n d r d r y l t)L O d e e l c d s d)L O d n m c s e p c]
+[DELETED: )E e c d q u p f e o d d l f d a p d l f d d e e c d l n d l)L)L)L s f d T d P I d e l]
+[DELETED:  s e c c l “ d l J d E L l s d T d P I d l e d u s o l r d u c d l c y d n s c f p l q e t a n c a)N e p c c a l p n a d q e e t p e L a c p r a e T d P n c)C s l d e e L p a f a c d]
+[DELETED:  p d d a a e D d F p a e D d F a d l s d T d P c e q l s d f a f f a D d)E e c d q u p a l s d T d P p t d l d o s p p p d l m e d P I p o s q l a]
+[DELETED:  q n p p l c n p f s l e u c s e T d P]
+[DELETED: )S a n p o d d t q l c e d P I e f a n t f p r s r d l m a f a q d l J d E L A d P R d 2]
+[DELETED: )E q e D d F o s r h e u)S a d d a a c r a m a h d t n n s c a l f d e)E d P I a c l d r a c a]
+[DELETED: )E)E T d P I o e T d A s c f a c e t p s l r j h s u M i u d r a u d e]
+[DELETED: )U)L d c s e t d f a s p T)L F d s - E c d q l f p p e]
+[DELETED:  e c o p é c g f e n y d r b s e m d l f]
+[DELETED:  d T f d f s f y e S e D d n o l f a s d d t ( d o d d]
+[DELETED:  a c f h d d e e c a e T o d q l p h d d p c f r p e e v d r p c r s c a e r d d d s r d l m p e T S m]
+[DELETED: )L)L a d e s c e t p s r l d r d l m d r T)  j s l m y e t p s l r j)S]
+[DELETED:  e M d n c c e p a q)L)L)C)C)E)U)O)P d d d h y c d d)C)E e d l O c l b e p s a e u)L]
+[DELETED: )S o d d q n h c q j e i s p i u s e a f d M o d a l p o a s a s e ú e e r d)O e e c d p s d d h i s)I]
+[DELETED:  T S d P R a u r p r l a l c e l d d r d r p . d p y e f , e T S p a d a u r L d d h d l d d l)L]
+[DELETED: )L a a n h s s y p c h p a a p l r d T d c c p s o p l a d l m q a h s a o d i S l]
+[DELETED:  p l a d A s t c]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1095
+18 de febrero de 2026
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+Para establecer la Ley de Procedimiento Adjudicativo Municipal a los fines de disponer
+guías claras para la revisión de determinaciones administrativas de índole contributiva
+emitidas por los municipios de Puerto Rico, y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Esta Asamblea Legislativa tiene como objetivo primordial impulsar el desarrollo
+económico de Puerto Rico mediante la modernización y optimización de los procesos
+gubernamentales. Uno de los pilares fundamentales de toda democracia es el derecho de
+los ciudadanos a cuestionar las actuaciones del Estado ante un foro imparcial, derecho
+conocido como el debido proceso de ley y consagrado tanto en la Constitución de los
+Estados Unidos de América como en la Constitución del Gobierno de Puerto Rico.
+Conscientes de que el acceso a los tribunales puede resultar oneroso y prolongado
+para muchos ciudadanos, el 30 de junio de 2017 se promulgó la Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico (Ley 38-2017), que ha garantizado,
+—en la gran mayoría de las agencias del Gobierno— la existencia de un procedimiento
+
+2
+administrativo rápido, justo, económico y uniforme para la revisión de determinaciones
+administrativas.
+No obstante, dicha ley excluyó expresamente a los municipios en lo que respecta
+a las determinaciones de naturaleza contributiva. En la actualidad, las revisiones
+administrativas de estas determinaciones se realizan, en la mayoría de los casos, por los
+mismos funcionarios o dependencias municipales que las emitieron originalmente, sin
+que exista un procedimiento uniforme ni reglas claras y comunes aplicables a todos los
+municipios. Esta práctica, basada principalmente en usos y costumbres locales, genera
+incongruencias en la interpretación de la ley entre los setenta y ocho (78) municipios,
+inseguridad jurídica y posibles vulneraciones al debido proceso de ley.
+Por tal razón, se hace necesario y urgente centralizar en el Departamento de
+Hacienda la función de revisión administrativa de las determinaciones contributivas
+municipales, mediante la creación de una Oficina de Revisiones Contributivas
+Municipales, adscrita a dicha agencia, la cual ya cuenta con los recursos, la infraestructura
+y la experiencia técnica necesarias. No obstante, los abogados que se asignen a dicha
+oficina serán nombrados por los alcaldes, con el fin de preservar la autonomía municipal,
+evitando así que la Rama Ejecutiva tenga algún grado de injerencia en la toma de
+decisiones.
+Esta Ley garantizará uniformidad, imparcialidad, celeridad y economía procesal,
+al tiempo que fortalecerá la confianza de los contribuyentes en el sistema y contribuirá al
+objetivo mayor de una administración pública más eficiente y transparente.
+DECRETASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. – Título.
+2 Esta Ley se conocerá y podrá ser citada como “Ley de Procedimiento Adjudicativo
+3 Municipal”.
+
+3
+1 Artículo 2. – Definiciones.
+2 (a) Adjudicación – El pronunciamiento mediante el cual la Oficina determina los
+3 derechos, obligaciones o privilegios que correspondan a una parte.
+4 (b) Alcalde - el Primer Ejecutivo del gobierno municipal.
+5 (c) Deficiencia – El monto por el cual los arbitrios de construcción o la patente
+6 municipal impuesta bajo la Ley 107-2020, según enmendada, sobrepase el
+7 exceso de: –
+8 (1) la suma de (A) la cantidad declarada como contribución por el
+9 contribuyente en su declaración si se rindió una, más (B) las cantidades
+10 previamente tasadas, o cobradas sin tasación, como deficiencia, sobre —
+11 (1) el monto de aquella parte de una reducción, crédito, reintegro u otro
+12 reembolso, que se hizo por razón de que los arbitrios de construcción o
+13 la patente municipal impuesta bajo la Ley 107-2020, según enmendada,
+14 era menor que el exceso de la cantidad especificada en el apartado (c)(1)
+15 sobre el monto de reducciones previamente hechas.
+16 (d) Interventor – Aquella persona que no sea parte original en cualquier
+17 procedimiento adjudicativo y que haya demostrado su capacidad o interés en
+18 el procedimiento.
+19 (e) Ley 107-2020 – Ley Núm. 107 de 13 de agosto de 2020, según enmendada,
+20 conocida como el Código Municipal de Puerto Rico.
+21 (f) Oficina – Se refiere a la Oficina de Revisiones Contributivas Municipales.
+
+4
+1 (g) Orden o Resolución – Cualquier decisión o acción municipal de aplicación
+2 particular que adjudique derechos u obligaciones contributivas relacionadas a
+3 la patente municipal o arbitrios de construcción de una o más personas
+4 específicas, o que imponga penalidades o sanciones.
+5 (h) Orden Interlocutoria – Aquella acción en un procedimiento adjudicativo que
+6 disponga de algún asunto meramente procesal.
+7 (i) Persona – Toda persona natural o jurídica que no sea un Municipio.
+8 (j) Parte – Toda persona o Municipio autorizado por ley a quien se dirija
+9 específicamente la acción de la Oficina o que sea parte en dicha acción, o que
+10 se le permita intervenir o participar en la misma, o que haya radicado una
+11 petición para la revisión o cumplimiento de una orden, o que sea designada
+12 como parte en dicho procedimiento.
+13 Artículo 3. – Creación de la Oficina.
+14 (a) Se crea la Oficina de Revisiones Contributivas Municipales, la cual quedará
+15 adscrita al Departamento de Hacienda y operará bajo su dirección y
+16 supervisión administrativa.
+17 (b) Los abogados-revisores que integren la plantilla de la Oficina serán nombrados
+18 por el Secretario de Hacienda, previa recomendación y propuesta vinculante
+19 de la Junta del Centro de Recaudación de Ingresos Municipales (“CRIM”).
+20 Dichos abogados deberán cumplir con los requisitos de idoneidad, experiencia
+21 en materia contributiva y cualquier otro requisito que establezca la Junta del
+22 CRIM.
+
+5
+1 (c) Cuando ocurra una demora en la resolución de los casos que exceda seis (6)
+2 meses, y la misma sea atribuible, total o parcialmente, a la insuficiencia del
+3 personal asignado a dicha Oficina, el Secretario de Hacienda deberá notificar
+4 de inmediato y por escrito a la Junta de Directores del Centro de Recaudación
+5 de Ingresos Municipales sobre dicha circunstancia, indicando el número de
+6 plazas adicionales requeridas, así como la justificación técnica
+7 correspondiente, a los fines de que dicha Junta proceda, con carácter de
+8 urgencia, a autorizar y gestionar la recomendación y propuesta vinculante de
+9 personal necesaria para garantizar el cumplimiento de los plazos establecidos
+10 en esta Ley. Dicha notificación deberá acompañarse de un plan de acción
+11 correctiva y de un informe trimestral de seguimiento, hasta tanto se subsane la
+12 deficiencia de personal identificada.
+13 (d) La Oficina garantizará la uniformidad de criterios, la imparcialidad en las
+14 decisiones y la celeridad en los procedimientos, de conformidad con los
+15 principios de economía procesal y de confianza legítima de los contribuyentes.
+16 (e) La Oficina tendrá a su cargo, de manera exclusiva y centralizada, la
+17 jurisdicción para atender todos los procedimientos adjudicativos radicados
+18 por los contribuyentes, en o después del 1 de enero de 2027, ante todos los
+19 municipios, para impugnar deficiencias relacionadas con arbitrios de
+20 construcción o con la patente municipal impuesta al amparo de la Ley 107-
+21 2020, según enmendada.
+
+6
+1 (f) Queda expresamente prohibido al Secretario de Hacienda, a sus subalternos y
+2 a cualquier funcionario o empleado del Departamento de Hacienda intervenir,
+3 influir, revisar, modificar, aprobar o desaprobar, directa o indirectamente,
+4 cualquiera de las decisiones o determinaciones que emita la Oficina en el
+5 ejercicio de sus funciones. La única función del Secretario de Hacienda y del
+6 Departamento de Hacienda será proveer la infraestructura física, el personal
+7 administrativo de apoyo, los sistemas tecnológicos y los recursos
+8 presupuestarios necesarios para la implementación y operación eficiente de
+9 esta Ley.
+10 Artículo 4. – Derechos del Contribuyente
+11 En todo procedimiento adjudicativo bajo esta Ley, la Oficina deberá salvaguardar
+12 los siguientes derechos:
+13 (a) Derecho a notificación oportuna de las deficiencias encontradas.
+14 (b) Derecho a presentar evidencia.
+15 (c) Derecho a una adjudicación imparcial.
+16 (d) Derecho a que la decisión se emita considerando únicamente el expediente
+17 administrativo.
+18 Artículo 5.- Notificación Municipal
+19 (a) Cuando el Director de Finanzas del Municipio determine que existe una
+20 deficiencia, o adopte cualquier determinación administrativa de índole contributiva
+21 mediante orden o resolución, se notificará al contribuyente dicha deficiencia preliminar,
+22 orden o resolución por correo certificado.
+
+7
+1 (b) Si el contribuyente no solicitare revisión ante la Oficina en la forma y dentro
+2 del término dispuesto en esta Ley, o si, habiéndola solicitado, se confirmare en todo o en
+3 parte la deficiencia, se deberá notificar por correo certificado al contribuyente su
+4 determinación final, indicando el monto de la deficiencia original, así como los intereses
+5 y las penalidades, en los casos que corresponda.
+6 Artículo 6. – Inicio del Proceso
+7 (a) El proceso adjudicativo comenzará con la presentación de una solicitud de
+8 revisión por escrito ante la Oficina. La solicitud de revisión deberá presentarse dentro del
+9 término jurisdiccional de treinta (30) días contados desde la fecha de depósito en el correo
+10 de la notificación de la deficiencia, orden o resolución. Para determinar el período de
+11 treinta (30) días, los sábados, domingos y días feriados en Puerto Rico no se contarán
+12 como parte del trigésimo día.
+13 (b) La revisión radicada deberá incluir la siguiente información:
+14 (1) Nombre y dirección del promovente;
+15 (2) Hechos constitutivos del reclamo;
+16 (3) Monto de la deficiencia, orden o resolución que se impugna;
+17 (4) Referencia a las disposiciones legales aplicables, si las conoce;
+18 (5) Remedio que solicita;
+19 (6) Firma de la persona promovente del procedimiento; y
+20 (7) Copia de la notificación de deficiencia.
+21 Artículo 7.- Solicitud de Intervención en el Procedimiento Adjudicativo.
+
+8
+1 (a) Cualquier persona que tenga un interés legítimo en un procedimiento
+2 adjudicativo ante la Oficina podrá someter una solicitud por escrito, debidamente
+3 fundamentada, para que se le permita intervenir o participar en dicho procedimiento. La
+4 Oficina podrá conceder o denegar la solicitud, a su discreción, tomando en consideración,
+5 entre otros, los siguientes factores:
+6 (1) Que el interés del peticionario pueda ser afectado adversamente por el
+7 procedimiento adjudicativo.
+8 (2) Que no existan otros medios en derecho para que el peticionado pueda
+9 proteger adecuadamente su interés.
+10 (3) Que el interés del peticionario ya esté representado adecuadamente por las
+11 partes en el procedimiento.
+12 (4) Que la participación del peticionario pueda ayudar razonablemente a
+13 preparar un expediente más completo del procedimiento.
+14 (5) Que la participación del peticionario pueda extender o dilatar
+15 excesivamente el procedimiento.
+16 (6) Que el peticionario represente o sea portavoz de otros grupos o entidades
+17 de la comunidad.
+18 (7) Que el peticionario pueda aportar información, pericia, conocimientos
+19 especializados o asesoramiento técnico que no estaría disponible de otro modo en
+20 el procedimiento.
+
+9
+1 (b) La Oficina deberá aplicar los criterios que anteceden de manera liberal, y
+2 podrá requerir que se le someta evidencia adicional para poder emitir la determinación
+3 correspondiente con respecto a la solicitud de intervención.
+4 Artículo 8.- Denegatoria de Intervención.
+5 Si la Oficina decide denegar una solicitud de intervención en un procedimiento
+6 adjudicativo, notificará su determinación por escrito al peticionario, los fundamentos que
+7 la sustentan y el recurso de revisión disponible.
+8 Artículo 9.- Conferencia con Antelación a la Vista; Ordenes y Resoluciones Sumarias.
+9 (a) La Oficina podrá citar a todas las partes, a sus representantes autorizados o
+10 a los interventores, ya sea por su propia iniciativa o a petición de una de las partes, a una
+11 conferencia con antelación a la vista, con el propósito de lograr un acuerdo definitivo o
+12 simplificar las cuestiones o la prueba a considerarse en la vista. Se podrán aceptar
+13 estipulaciones, siempre que la Oficina determine que ello sirve a los mejores intereses
+14 públicos.
+15 (b) Si la Oficina determina, a solicitud de alguna de las partes y luego de
+16 analizar los documentos que acompañan la solicitud de orden o resolución sumaria, los
+17 documentos incluidos con la moción en oposición, así como aquellos que obren en el
+18 expediente, que no es necesario celebrar una vista adjudicativa, podrá dictar órdenes o
+19 resoluciones sumarias, ya sean de carácter final o parcial, resolviendo cualquier
+20 controversia entre las partes que pueda ser separada de otras controversias.
+21 (c) La Oficina no podrá dictar ordenes o resoluciones sumarias en los casos en
+22 que existen hechos materiales o esenciales controvertidos; haya alegaciones afirmativas
+
+10
+1 en la solicitud de revisión que no han sido refutadas; surge de los propios documentos
+2 que se acompañan con la petición una controversia real sobre algún hecho material y
+3 esencial; o como cuestión de derechos no procede.
+4 Artículo 10.- Mecanismos de Descubrimiento de Prueba.
+5 (a) Los procedimientos de descubrimiento de prueba no serán de aplicación a
+6 los casos de adjudicación ante la Oficina, a menos que el oficial examinador los autorice
+7 previamente.
+8 (b) La Oficina podrá emitir citaciones para la comparecencia de testigos;
+9 órdenes para la producción de documentos, materiales u otros objetos, y órdenes
+10 protectoras, conforme a las Reglas de Procedimiento Civil.
+11 (c) En caso incumplimiento de una orden o requerimiento emitido al amparo
+12 del inciso (b) de esta Artículo, la Oficina podrá presentar una solicitud en auxilio de su
+13 jurisdicción en la sala con competencia del Tribunal de Primera Instancia, y éste podrá
+14 emitir una orden judicial en la que ordene el cumplimiento de la persona en cuestión,
+15 bajo apercibimiento de que incurrirá en desacato si no cumple con dicha orden.
+16 Artículo 11.- Notificación de Vista.
+17 (a) La Oficina notificará por escrito a todas las partes, a sus representantes
+18 autorizados y a los interventores la fecha, hora y lugar en que se celebrará la vista
+19 adjudicativa. La notificación deberá efectuarse por correo regular con no menos de quince
+20 (15) días de anticipación a la fecha de la vista, excepto que, por justa causa consignada en
+21 la notificación, sea necesario acortar dicho periodo, y deberá contener la siguiente
+22 información:
+
+11
+1 (1) Fecha, hora y lugar en que se celebrará la vista, así como la naturaleza y
+2 propósito;
+3 (2) Advertencia de que las partes podrán comparecer por derecho propio, o
+4 asistidas de abogados. Las personas jurídicas comparecerán representadas por
+5 abogados;
+6 (3) Cita de la disposición legal o reglamentaria que autoriza la celebración de la
+7 vista;
+8 (4) Referencia a la deficiencia, orden o resolución, incluyendo años contributivos
+9 o periodos en controversia;
+10 (5) Apercibimiento de las medidas que la Oficina podrá tomar si una parte no
+11 comparece a la vista; y
+12 (6) Advertencia de que la vista no podrá ser suspendida, a menos que se cumpla
+13 con las disposiciones del Artículo 14 de esta Ley.
+14 Artículo 12.- Rebeldía.
+15 Si una parte debidamente citada no comparece a la conferencia con antelación a la
+16 vista, o a cualquier otra etapa durante el procedimiento adjudicativo, el funcionario que
+17 presida la misma podrá declararla en rebeldía y continuar el procedimiento sin su
+18 participación, pero notificará por escrito a dicha parte su determinación, los fundamentos
+19 para la misma y recursos de revisión disponible.
+20 Artículo 13.- Solicitud para Vista Pública.
+21 Por la naturaleza de la información que se discute en los casos contributivos, la
+22 vista adjudicativa será privada, a menos que se presente una solicitud por escrito,
+
+12
+1 debidamente fundamentada, para que la vista sea pública, y así lo autorice el funcionario
+2 que presida la misma, siempre que entienda que hacerla pública no causará daño
+3 irreparable al contribuyente.
+4 Artículo 14.- Suspensión de Vistas Señaladas.
+5 (a) El funcionario que presida el procedimiento adjudicativo no podrá
+6 suspender una vista ya señalada, excepto que se solicite por escrito con expresión de las
+7 causas que justifican dicha suspensión.
+8 (b) Dicha solicitud será sometida con al menos tres (3) días de anticipación a la
+9 fecha de la vista. La parte peticionaria deberá enviar copias de su solicitud a las demás
+10 partes e interventores en el procedimiento, dentro del término señalado para la solicitud
+11 de suspensión.
+12 (c) Bajo ninguna circunstancia se podrá suspender una vista adjudicativa en
+13 más de dos (2) ocasiones.
+14 Artículo 15.- Procedimiento Durante la Vista.
+15 (a) La vista deberá grabarse o estenografiarse, y el funcionario que presida la
+16 misma emitirá la decisión por escrito.
+17 (b) El funcionario que presida la vista, dentro de un marco de relativa
+18 informalidad, ofrecerá a todas las partes la extensión necesaria para una divulgación
+19 completa de todos los hechos y cuestiones en discusión, la oportunidad de responder,
+20 presentar evidencia y argumentar, conducir contrainterrogatorio y someter evidencia
+21 en refutación, excepto cuando haya sido restringida o limitada por las estipulaciones en
+22 la conferencia con antelación a la vista.
+
+13
+1 (c) El funcionario que presida la vista podrá excluir aquella evidencia que sea
+2 impertinente, inmaterial, repetitiva o inadmisible por fundamentos constitucionales o
+3 legales basados en privilegios evidenciarios reconocidos por los tribunales de Puerto
+4 Rico.
+5 (d) El funcionario que presida la vista podrá tomar conocimiento oficial de todo
+6 aquello que pueda ser objeto de conocimiento judicial en los tribunales de justicia.
+7 (e) Las Reglas de Evidencia no serán aplicables a las vistas administrativas,
+8 pero los principios fundamentales de evidencia se podrán utilizar para lograr una
+9 solución rápida, justa y económica del procedimiento.
+10 (f) El funcionario que presida la vista podrá conceder a las partes un término
+11 de quince (15) días después de concluir la misma para la presentación de propuestas
+12 sobre determinaciones de hechos y conclusiones de derecho. Las partes podrán
+13 voluntariamente renunciar a que se declaren las determinaciones de hechos.
+14 (g) Todo caso sometido a un procedimiento adjudicativo ante la Oficina deberá
+15 ser resuelto dentro de un término de seis (6) meses, desde su radicación, salvo
+16 circunstancias excepcionales.
+17 (h) En cualquier momento durante el proceso adjudicativo, el promovente, o
+18 su representante autorizado podrá solicitar, mediante una moción acompañada por un
+19 memorando de derecho, que la Oficina evalúe su caso y emita una notificación final, sin
+20 que sea necesaria la celebración de la vista.
+21 Artículo 16.- Determinaciones Finales de la Oficina e Impugnación Judicial.
+
+14
+1 (a) Una determinación final deberá ser emitida por escrito dentro de noventa
+2 (90) días, contados a partir de que concluya la vista o de la presentación de las
+3 propuestas determinaciones de hechos y conclusiones de derecho, a menos que este
+4 término sea renunciado o ampliado mediante el consentimiento escrito de todas las
+5 partes o por justa causa. La determinación final deberá incluir, y exponer de forma
+6 separada, las determinaciones de hecho, si éstas no han sido renunciadas, las
+7 conclusiones de derecho que fundamentan la adjudicación y la disponibilidad del
+8 recurso de reconsideración o revisión, según sea el caso. La determinación final deberá
+9 ser firmada por el oficial examinador.
+10 (b) La determinación final sobre una deficiencia deberá incluir el monto de la
+11 deficiencia confirmada, ya sea la totalidad originalmente notificada o una cantidad
+12 parcial, o, en su defecto, una declaración expresa de que la misma ha sido dejada sin
+13 efecto. De confirmarse alguna cantidad de la deficiencia, la notificación deberá incluir
+14 los intereses, recargos y penalidades aplicables al momento de la notificación, más los
+15 que se acumulen durante un término adicional de treinta (30) días.
+16 (c) La determinación final advertirá el derecho de:
+17 (1) En el caso de una deficiencia, advertirá al contribuyente de su derecho
+18 a recurrir dentro del término de treinta (30) días contados a partir de la
+19 fecha del depósito en el correo de la notificación, ante el Tribunal de
+20 Primera Instancia contra dicha determinación, así como las partes que
+21 deberán ser notificadas del recurso de revisión y los términos
+22 correspondientes. Además, la determinación final deberá expresar el
+
+15
+1 monto de la fianza que deberá prestar el contribuyente si deseare
+2 recurrir ante el Tribunal de Primera Instancia contra la determinación
+3 de deficiencia. Dicha fianza no excederá del monto de los arbitrios de
+4 construcción o de la patente municipal, más los intereses sobre la
+5 deficiencia, computados por un período adicional de un (1) año a razón
+6 de un nueve por ciento (9%) anual. El contribuyente podrá pagar la
+7 parte de la deuda con la cual estuviere conforme y litigar el resto; en tal
+8 caso, la fianza no excederá del monto de la contribución que se litigue,
+9 más los intereses sobre la deficiencia computados conforme a lo aquí
+10 dispuesto.
+11 (2) En el caso de una orden o resolución, se advertirá a la parte afectada de
+12 su derecho a recurrir, dentro del término de treinta (30) días contados a
+13 partir de la fecha del depósito en el correo de la notificación, ante el
+14 Tribunal de Apelaciones contra dicha determinación, así como las partes
+15 que deberán ser notificadas del recurso de revisión y los términos
+16 correspondientes.
+17 (d) La Oficina deberá especificar en la certificación de sus determinaciones
+18 finales los nombres y direcciones de las personas naturales o jurídicas a quienes, en
+19 calidad de partes, les fue notificada la determinación, a los fines de que estas puedan
+20 ejercer de forma efectiva el derecho a la revisión judicial conferido por ley.
+21 (e) La Oficina deberá notificar, mediante copia simple enviada por correo
+22 certificado, a las partes y a sus abogados, de tenerlos, la orden o resolución final a la
+
+16
+1 brevedad posible, y deberá archivar en autos copia de la orden o resolución final y de
+2 la constancia de su notificación. Ninguna parte podrá ser requerida a cumplir con una
+3 orden o resolución final, a menos que haya sido debidamente notificada de la misma.
+4 (f) En el caso de que una persona falleciere en o después de la fecha del
+5 depósito en el correo de la notificación de la determinación final, pero antes de expirar
+6 el término de treinta (30) días, el término que tendrán sus herederos o representantes
+7 legales para prestar la fianza y/o recurrir ante el tribunal será de sesenta (60) días,
+8 contados a partir de la fecha del depósito en el correo de la notificación de la
+9 determinación final. Salvo que de otro modo se disponga en esta Ley, tanto la prestación
+10 de la fianza aplicable como la radicación del recurso ante el tribunal dentro del término
+11 aquí provisto constituirán requisitos jurisdiccionales, sin cuyo cumplimiento el tribunal
+12 no podrá conocer del asunto.
+13 (g) La decisión final del oficial examinador en torno a una deficiencia, orden o
+14 resolución no estará sujeta a revisión por ninguna otra oficina o ningún otro funcionario
+15 del Municipio.
+16 (h) La persona podrá radicar la demanda a que se refiere el apartado (c)(1) de
+17 esta Sección en la sala del Tribunal de Primera Instancia correspondiente al municipio
+18 de su residencia, y no obstante cualesquiera otras disposiciones de ley sobre traslado
+19 de causas o lugar de juicio, tendrá derecho, por razón de la conveniencia de los testigos,
+20 a que su caso se litigue en dicha sala del Tribunal de Primera Instancia.
+21 (i) Las sentencias finales del Tribunal de Primera Instancia dictadas en los
+22 méritos de una deficiencia podrán ser apeladas ante el foro apelativo con jurisdicción
+
+17
+1 para conocer de dicha apelación, de conformidad con lo dispuesto en la Ley Núm. 201-
+2 2003, según enmendada, conocida como la “Ley de la Judicatura del Estado Libre
+3 Asociado de Puerto Rico de 2003”, debiendo interponerse dicha apelación en la forma
+4 y dentro del término provisto por las reglas adoptadas para tales fines. En los casos en
+5 que la sentencia del Tribunal de Primera Instancia determine la existencia de una
+6 deficiencia, se ordenará la radicación de un cómputo de la contribución, y dicha
+7 sentencia no se considerará final, por lo que el término apelativo no comenzará a
+8 transcurrir para las partes hasta la fecha del archivo en autos de la notificación a la
+9 persona y al Director de Finanzas de la resolución del Tribunal de Primera Instancia
+10 que apruebe el cómputo de la contribución determinada por dicho Tribunal.
+11 (j) No se realizará la tasación con respecto a la patente municipal o al arbitrio
+12 de construcción, ni se iniciará o tramitará procedimiento de apremio ni procedimiento
+13 judicial alguno para su cobro, antes de que la notificación de la determinación final haya
+14 sido enviada por correo certificado a la persona, ni antes de que expire el término
+15 concedido por esta Ley al contribuyente para recurrir ante el Tribunal de Primera
+16 Instancia contra dicha determinación final, ni, en caso de haberse recurrido ante el
+17 Tribunal de Primera Instancia, hasta que la sentencia del Tribunal sea final y firme.
+18 (k) Cuando una persona apelare la sentencia del Tribunal de Primera Instancia
+19 que determine una deficiencia, estará obligada a pagar la totalidad de la deficiencia así
+20 determinada dentro del término para apelar, y el incumplimiento de dicho requisito de
+21 pago, salvo lo dispuesto en esta Ley, privará al foro apelativo competente, de
+22 conformidad con la Ley Núm. 201-2003, según enmendada, conocida como la “Ley de
+
+18
+1 la Judicatura del Estado Libre Asociado de Puerto Rico de 2003”, de jurisdicción para
+2 conocer de la apelación en sus méritos.
+3 Si el foro apelativo resolviere que no existe la deficiencia determinada por el
+4 Tribunal de Primera Instancia, total o parcialmente, y la persona hubiere pagado total
+5 o parcialmente dicha deficiencia al apelar, el Director de Finanzas procederá a
+6 reintegrarle, con cargo a cualesquiera fondos disponibles en el municipio, la cantidad
+7 correspondiente de conformidad con la sentencia del foro apelativo, más intereses a
+8 razón de seis por ciento (6%) anual sobre el monto a reintegrarse, computados desde la
+9 fecha del pago.
+10 Si el Director de Finanzas apelare de la sentencia del Tribunal de Primera
+11 Instancia que determine que no existe deficiencia en todo o en parte, o si, habiendo
+12 apelado la persona, no hubiere pagado la totalidad de la contribución, en cualquiera de
+13 dichos casos en que la sentencia del foro apelativo fuere favorable al Director de
+14 Finanzas, la deficiencia determinada en apelación, o la parte de la misma no pagada,
+15 será tasada y deberá pagarse mediante notificación y requerimiento del Director de
+16 Finanzas.
+17 (1) En el caso de que una persona apele la sentencia del Tribunal de Primera
+18 Instancia que determine una deficiencia y no pueda cumplir con el requisito
+19 del pago total de la deficiencia, o solo pueda pagar parte de la misma, el
+20 Tribunal de Primera Instancia podrá ordenar, siempre que la apelación
+21 involucre una cuestión sustancial y con sujeción a lo dispuesto más adelante,
+22 que la apelación continúe su curso hasta la resolución final en los méritos, sin
+
+19
+1 el pago total de dicha deficiencia. En tal caso, la persona deberá radicar junto
+2 con su escrito de apelación ante el Tribunal de Primera Instancia una petición
+3 fundada, exponiendo las razones por las cuales no puede pagar la deficiencia
+4 en todo o en parte y los fundamentos que sustentan que la apelación involucra
+5 una cuestión sustancial. Si el Tribunal de Primera Instancia determina que la
+6 persona no puede pagar la deficiencia total o solo puede pagar parte de la
+7 misma, y que la apelación involucra una cuestión sustancial, ordenará, en lugar
+8 del pago total, lo que corresponda según el caso:
+9 (i) Que la apelación siga su curso bajo la fianza prestada para acudir al
+10 Tribunal de Primera Instancia si ésta fuere suficiente para responder de la
+11 deficiencia que en definitiva se determine y de sus intereses; o
+12 (ii) que la persona preste una nueva fianza, a satisfacción del Tribunal, en
+13 cantidad suficiente para responder de la deficiencia y de sus intereses por
+14 un período razonable; o
+15 (iii) que la persona pague parte de la deficiencia y la parte no pagada se
+16 afiance en cualquiera de las formas anteriormente provistas en los incisos
+17 (i) y (ii). En el caso de una persona que hubiere sido exonerada de prestar
+18 fianza para litigar la deficiencia en el Tribunal de Primera Instancia y que
+19 demostrare que no puede pagar la contribución, ni prestar fianza, si la
+20 apelación envuelve una cuestión sustancial, el Tribunal de Primera
+21 Instancia dispondrá que la apelación siga su curso hasta la disposición final
+
+20
+1 de la misma en los méritos sin requisito alguno de pago o de prestación de
+2 fianza.
+3 (2) Si el Tribunal de Primera Instancia determina que la persona puede pagar la
+4 deficiencia, o parte de la misma, o que debe prestar una fianza, la persona
+5 deberá proceder al pago de la deficiencia o de la parte determinada, o a prestar
+6 la fianza dentro del término de treinta (30) días a partir de la fecha en que fuere
+7 notificada de la resolución del Tribunal de Primera Instancia a tales efectos, y
+8 el pago de la deficiencia, o de la parte determinada, o la prestación de fianza
+9 dentro de dicho término, perfeccionarán la apelación a todos los fines de ley.
+10 Si dentro de dicho término de treinta (30) días la persona no efectuare el pago,
+11 o no prestare la fianza requerida, o si habiendo prestado una fianza que no
+12 fuere aceptada no prestare otra dentro del término que le concediere el
+13 Tribunal de Primera Instancia, el foro apelativo no tendrá facultad para
+14 conocer de la apelación en los méritos y será desestimada. Las resoluciones del
+15 Tribunal de Primera Instancia dictadas bajo las disposiciones de los párrafos
+16 (3) y (4) de este inciso no serán apelables, pero cualquier parte podrá, dentro
+17 de diez (10) días a partir de la fecha en que fuere notificada de cualquiera de
+18 dichas resoluciones, solicitar revisión de la misma al foro apelativo que
+19 corresponda de acuerdo a la Ley 201-2003, según enmendada, conocida como
+20 “Ley de la Judicatura del Estado Libre Asociado de Puerto Rico de 2003”,
+21 mediante recurso de certiorari.
+
+21
+1 (l) El Tribunal de Primera Instancia tendrá jurisdicción para redeterminar el
+2 monto correcto de la deficiencia, aun cuando la cantidad así redeterminada sea mayor
+3 que el monto de la deficiencia notificada por el Director de Finanzas, y para determinar
+4 si deben imponerse cualesquiera cantidades adicionales o adiciones a la contribución,
+5 siempre que el Director de Finanzas, o su representante, haya establecido una
+6 reclamación a tales efectos en cualquier momento antes de dictarse la sentencia.
+7 (m) Si la Oficina hubiere enviado por correo a la persona la notificación de una
+8 deficiencia y la persona hubiere recurrido ante el Tribunal de Primera Instancia dentro
+9 del término y en la forma provista por esta Ley, el Director de Finanzas no tendrá
+10 derecho a determinar deficiencia adicional alguna con respecto al mismo año
+11 contributivo, salvo en los casos de fraude y lo dispuesto en el inciso (c) del Artículo
+12 7.214.
+13 Si la persona fuere notificada de que, debido a un error matemático, aparece en
+14 la declaración una contribución adeudada en exceso de la expresada en la misma, y que
+15 se ha hecho o se hará una tasación de la contribución basada en el monto correcto que
+16 debió haberse declarado, tal notificación no será considerada, a los fines de este
+17 apartado, como una notificación de deficiencia, y la persona no tendrá derecho a radicar
+18 recurso ante el Tribunal de Primera Instancia contra dicha notificación. No obstante, el
+19 contribuyente conservará el derecho de revisión judicial descrito en el apartado (c)(2)
+20 de esta Sección.
+21 (n) En el caso de una deficiencia relacionada con una patente municipal, el
+22 Tribunal de Primera Instancia, al considerar la deficiencia respecto a cualquier año
+
+22
+1 contributivo, tomará en cuenta los pagos realizados relacionados con patentes de otros
+2 años contributivos, según sea necesario para determinar correctamente el monto de
+3 dicha deficiencia; sin embargo, al hacerlo, no tendrá jurisdicción para resolver si la
+4 patente correspondiente a cualquier otro año contributivo ha sido pagada en exceso o
+5 en menor cuantía.
+6 (o) En ausencia de notificación al Director de Finanzas o a la Oficina sobre la existencia
+7 de una relación fiduciaria, la notificación de una deficiencia respecto a una contribución
+8 será suficiente si ha sido enviada por correo a la persona a su última dirección conocida,
+9 aunque dicha persona haya fallecido o se encuentre legalmente incapacitada, o, en el
+10 caso de una corporación o sociedad, aunque ya no existan.
+11 (p) En el caso de que la parte adversamente afectada por una determinación final de
+12 la Oficina sea un Municipio, este podrá presentar una solicitud de revisión judicial ante
+13 el Tribunal de Primera Instancia o el Tribunal de Apelaciones, según corresponda,
+14 dentro de un término de treinta (30) días contados a partir de la fecha del archivo en
+15 autos de la copia de la notificación de la determinación final de la Oficina o a partir de
+16 la fecha aplicable cuando el término para solicitar la revisión judicial haya sido
+17 interrumpido mediante la presentación oportuna de una moción de reconsideración.
+18 Disponiéndose, que, si la fecha de archivo en autos de copia de la notificación de la
+19 orden o resolución final es distinta a la del depósito en el correo de dicha notificación,
+20 el término se computará a partir de la fecha del depósito en el correo. En los casos en
+21 que un Municipio impugne una determinación relacionada a una deficiencia, el
+22 contribuyente no tendrá que prestar la Fianza descrita en el Artículo 17 de esta ley.
+
+23
+1 (q) Una orden o resolución interlocutoria de la Oficina no será revisable de manera
+2 directa. Dicha disposición interlocutoria podrá ser objeto de un señalamiento de error
+3 en el recurso de revisión de la determinación final. La revisión judicial prevista en esta
+4 Sección será el recurso exclusivo para impugnar los méritos de cualquier decisión, ya
+5 sea de naturaleza adjudicativa o de carácter informal emitida al amparo de esta Ley.
+6 Artículo 17.- Fianza.
+7 (a) La fianza destinada a garantizar el pago de contribuciones deberá presentarse
+8 mediante la radicación del formulario que indique la Oficina, acompañado de los
+9 documentos complementarios según el tipo de fianza a ser prestada. Toda
+10 radicación o prestación de fianza para garantizar el pago de la contribución se
+11 regirá por las reglas establecidas en este Artículo.
+12 (b) Las fianzas permisibles son las siguientes:
+13 (1) Pignoraticias:
+14 (i) valores públicos (bonos del gobierno); y
+15 (ii) depósitos en plica ("escrow accounts”)
+16 (2) Fianza de seguros - En caso de que la fianza prestada por el
+17 contribuyente sea de una compañía de seguros, se determinará si la misma
+18 está autorizada por el Comisionado de Seguros a hacer negocios en Puerto
+19 Rico, por medio de la solicitud de evidencia de certificación a dichos efectos.
+20 (3) Hipotecarias - Las fianzas hipotecarias incluyen pagarés hipotecarios a
+21 nombre del Municipio, o hipotecas sobre propiedades inmuebles poseídas
+
+24
+1 por el contribuyente, ofrecidas por éste como garantía, formalizadas en
+2 escritura pública.
+3 (c) Si la persona no pudiere prestar la fianza por el monto requerido, o no pudiese
+4 prestar fianza, o si habiéndola prestado por el monto requerido el Director de Finanzas
+5 del Municipio la hubiere rechazado antes de radicarse la demanda, la persona podrá, no
+6 obstante, radicar su demanda en el Tribunal de Primera Instancia dentro del término
+7 anteriormente provisto, pero en tales casos deberá acompañar dicha demanda con una
+8 solicitud que será notificada al Director de Finanzas junto con la demanda, para que el
+9 Tribunal de Primera Instancia reduzca el monto de la fianza, o le exonere de prestarla, o
+10 apruebe la fianza prestada, según sea el caso, exponiendo las razones que tuviere para
+11 ello. Dentro de diez (10) días a partir de la fecha en que fuere notificado de la solicitud de
+12 la persona sobre reducción, exoneración o aprobación de fianza, o dentro de cualquier
+13 prórroga que a tal fin le conceda el Tribunal, el Director de Finanzas deberá radicar en el
+14 Tribunal las objeciones que tuviere contra dicha solicitud de la persona, después de lo
+15 cual el Tribunal celebrará una audiencia y oirá a las partes sin entrar en los méritos de la
+16 deficiencia notificada y dictará resolución, bien sosteniendo el monto de la fianza,
+17 reduciendo el mismo, bien exonerando a la persona de la prestación de la fianza, o bien
+18 aprobando la fianza que rechazó el Director de Finanzas u ordenando a la persona que
+19 preste otra.
+20 (d) Si la persona hubiere prestado fianza por el monto requerido y antes de radicar su
+21 demanda dicha fianza no hubiere sido desaprobada, el Director de Finanzas tendrá un
+22 término de treinta (30) días a partir de la fecha en que fuere notificado de la demanda
+
+25
+1 para radicar ante el Tribunal, con notificación a la persona, las objeciones que tuviere
+2 contra la fianza así prestada, y si dichas objeciones no fueren hechas dentro del término
+3 de treinta (30) días antes mencionado o de cualquier prórroga que a tal fin le concede el
+4 Tribunal se entenderá que la fianza ha sido aprobada por el Director de Finanzas. Si el
+5 Director de Finanzas objetare dicha fianza, la persona deberá radicar su contestación a
+6 dichas objeciones dentro de diez (10) días a partir de la fecha en que fuere notificado de
+7 las mismas, o dentro de cualquier prórroga que a tal fin le concede el Tribunal, después
+8 de lo cual el Tribunal celebrará una audiencia y oirá a las partes sobre las objeciones a la
+9 fianza sin entrar en los méritos de la deficiencia y dictará resolución bien sosteniendo la
+10 fianza prestada por la persona o bien exigiéndole que preste otra en la forma y con las
+11 garantías que el Tribunal determine.
+12 (e) En todos los casos en que el Tribunal determine que la persona debe prestar una
+13 fianza, la misma será sometida al Director de Finanzas para su aprobación dentro de un
+14 término razonable fijado por el Tribunal de acuerdo con las circunstancias de cada caso,
+15 que en ningún momento deberá exceder de sesenta (60) días a partir de la fecha en que la
+16 resolución del Tribunal fijando dicha fianza sea firme y ejecutoria. Si el Director de
+17 Finanzas no objetare la fianza así sometida dentro de treinta (30) días o dentro de
+18 cualquier prórroga que a tal fin le conceda el Tribunal se entenderá que la misma ha sido
+19 aprobada por él.
+20 (f) Si la persona no acompañare la demanda con la solicitud requerida por el apartado
+21 (c) para que se reduzca el monto de la fianza, o para que se le exonere de prestarla, o para
+22 que se apruebe la fianza prestada; o dejare de contestar las objeciones del Director de
+
+26
+1 Finanzas a cualquier fianza hechas después de estar el caso ante el Tribunal, o de
+2 comparecer a la vista en relación con cualquier fianza; o dejare de prestar cualquier fianza
+3 requerida por el Tribunal dentro del término que se le haya concedido; o no radicare su
+4 demanda en el Tribunal de Primera Instancia dentro del término prescrito para ello; o de
+5 otro modo no prestare fianza dentro de dicho término para recurrir ante el Tribunal; o
+6 dejare de cumplir con cualquiera de los requisitos impuestos por este inciso para que el
+7 Tribunal de Primera Instancia pueda conocer del asunto, será causa suficiente para que
+8 la demanda sea archivada. En los casos en que la sentencia de archivo sea dictada por el
+9 fundamento que la persona ha dejado de prestar cualquier fianza requerida por el
+10 Tribunal en virtud de resolución para cuya revisión se concede aquí el recurso de
+11 certiorari, dicha sentencia de archivo será final y firme.
+12 (g) Las decisiones del Tribunal de Primera Instancia en los méritos sobre cualquier
+13 incidente de fianza, así como sus decisiones conociendo o negándose a conocer un asunto
+14 por alegado incumplimiento por parte de la persona de los requisitos establecidos en este
+15 inciso para que el Tribunal pueda conocer del asunto, serán inapelables, pero cualquier
+16 parte afectada podrá dentro de diez (10) días a partir de la fecha en que fuere notificada
+17 de dicha decisión, solicitar revisión de la misma por el Tribunal Supremo mediante
+18 recurso de certiorari.
+19 Artículo 18.- Tasaciones en Peligro, Quiebras y Sindicatura
+20 Las disposiciones del Artículo 7.214 y 7.215 de la Ley 107-2020 deberán interpretarse
+21 cónsono con las disposiciones de esta ley.
+22 Artículo 19.-Reconsideración.
+
+27
+1 (a) La parte adversamente afectada por una determinación final podrá, dentro del
+2 término de veinte (20) días desde la fecha de archivo en autos de la notificación de la
+3 determinación, presentar una moción de reconsideración.
+4 (b) La Oficina, dentro de los quince (15) días de haberse presentado dicha moción,
+5 deberá considerarla. Si la rechazare de plano o no actuare dentro de los quince (15) días,
+6 el término para solicitar revisión comenzará a correr nuevamente desde que se notifique
+7 dicha denegatoria o desde que expiren esos quince (15) días, según sea el caso. Si se
+8 tomare alguna determinación en su consideración, el término para solicitar revisión
+9 empezará a contarse desde la fecha en que se archive en autos una copia de la notificación
+10 de la determinación resolviendo definitivamente la moción de reconsideración. Tal
+11 determinación deberá ser emitida y archivada en autos dentro de los noventa (90) días
+12 siguientes a la radicación de la moción de reconsideración.
+13 (c) Si la Oficina acoge la moción de reconsideración pero deja de tomar alguna acción
+14 con relación a la moción dentro de los noventa (90) días de ésta haber sido radicada,
+15 perderá jurisdicción sobre la misma y el término para solicitar la revisión judicial
+16 empezará a contarse a partir de la expiración de dicho término de noventa (90) días salvo
+17 que la agencia, por justa causa y dentro de esos noventa (90) días, prorrogue el término
+18 para resolver por un período que no excederá de treinta (30) días adicionales.
+19 (d) Si la fecha de archivo en autos de copia de la notificación de la determinación es
+20 distinta a la del depósito en el correo de dicha notificación, el término se calculará a partir
+21 de la fecha del depósito en el correo.
+22 Artículo 20.-Terminación del Procedimiento.
+
+28
+1 Si el Municipio decide no continuar con el procedimiento adjudicativo que
+2 dispone esta ley en un caso en particular, terminará el procedimiento y notificará por
+3 escrito por correo certificado con acuse de recibo a las partes su determinación.
+4 Artículo 21.-Archivo de Expediente.
+5 (a) La Oficina establecerá una unidad para el archivo de los expedientes de los casos
+6 adjudicativos. La Oficina mantendrá un expediente de cada procedimiento adjudicativo
+7 llevado a cabo de conformidad al procedimiento establecido en esta Ley. El expediente
+8 incluirá, pero sin limitarse a:
+9 (1) Las notificaciones de todos los procedimientos.
+10 (2) Cualquier orden o resolución interlocutoria dictada antes de la vista.
+11 (3) Cualquier moción, alegación, petición o requerimiento.
+12 (4) Evidencia recibida o considerada.
+13 (5) Una relación de todas las materias de las que se tomó conocimiento oficial.
+14 (6) Ofrecimiento de prueba, objeciones y resoluciones sobre las mismas.
+15 (7) Propuestas de determinaciones de hecho y conclusiones de derecho,
+16 órdenes solicitadas y excepciones.
+17 (8) Cualquier orden o resolución final, preliminar o en reconsideración.
+18 (b) El expediente de la Oficina constituirá la base exclusiva para su acción en un
+19 procedimiento adjudicativo bajo esta Ley y para la revisión judicial ulterior.
+20 Artículo 22.-Sanciones.
+21 (a) La Oficina podrá imponer sanciones, en su función cuasijudicial, en los siguientes
+22 casos:
+
+29
+1 (1) Si el promovente de una acción, o el promovido por ella, dejare de cumplir con las
+2 reglas o con cualquier orden del oficial examinador, la Oficina a iniciativa propia o a
+3 instancia de parte podrá ordenarle que muestre causa por la cual no deba imponérsele
+4 una sanción. La orden informará de las reglas u órdenes con las cuales no se haya
+5 cumplido, y se concederá un término de veinte (20) días, contados a partir de la fecha
+6 de notificación de la orden, para la mostración de causa. De no cumplirse con esa
+7 orden, o de determinarse que no hubo causa que justificare el incumplimiento,
+8 entonces se podrá imponer una sanción económica a favor del Municipio o de
+9 cualquier parte, que no excederá de quinientos (500) dólares por cada imposición
+10 separada, a la parte o a su abogado, si este último es el responsable del
+11 incumplimiento.
+12 (2) Ordenar la desestimación de la acción en el caso del promovente, o eliminar las
+13 alegaciones en el caso del promovido, si después de haber impuesto sanciones
+14 económicas y de haberlas notificado a la parte correspondiente, dicha parte continúa
+15 en su incumplimiento de las órdenes de la Oficina.
+16 (3) Imponer costas y honorarios de abogados, en los mismos casos que dispone la
+17 Regla 44 de Procedimiento Civil, según enmendada.
+18 Artículo 23.-Agotamiento de Remedios ante el Municipio; Relevo.
+19 El tribunal podrá relevar a un peticionario de tener que agotar alguno o todos los
+20 remedios ante la Oficina o el Municipio provistos en el caso de que dicho remedio sea
+21 inadecuado, o cuando el requerir su agotamiento resultare en un daño irreparable al
+22 promovente y en el balance de intereses no se justifica agotar dichos remedios, o cuando
+
+30
+1 se alegue la violación sustancial de derechos constitucionales, o cuando sea inútil agotar
+2 los remedios ante la Oficina o el Municipio por la dilación excesiva en los procedimientos,
+3 o cuando sea un caso claro de falta de jurisdicción del Municipio, o cuando sea un asunto
+4 estrictamente de derecho y es innecesaria la pericia.
+5 Artículo 24.-Solicitud de Revisión; Requisitos.
+6 El Tribunal Supremo de Puerto Rico adoptará unas reglas para regular los
+7 procedimientos de revisión judicial, las que promoverán el acceso fácil, económico y
+8 efectivo a los ciudadanos, evitarán las desestimaciones del recurso de revisión por
+9 defectos de forma y de notificación y permitirán la comparecencia efectiva de recurrentes
+10 por derecho propio y en forma pauperis. A los fines de hacer efectiva la comparecencia
+11 por derecho propio y en forma pauperis, el Tribunal Supremo podrá adoptar
+12 procedimientos especiales y formularios simples.
+13 Artículo 25.-Alcance de la Revisión Judicial.
+14 El tribunal podrá conceder el remedio apropiado si determina que el recurrente
+15 tiene derecho a un remedio. Las determinaciones de hechos de las decisiones de los
+16 Municipios serán sostenidas por el tribunal, si se basan en evidencia sustancial que obra
+17 en el expediente. Las conclusiones de derecho serán revisables en todos sus aspectos por
+18 el tribunal.
+19 Artículo 26.-Remedios.
+20 (a) La mera presentación de un recurso de revisión de una orden o resolución no
+21 paralizará el trámite en el Municipio, a menos que la Oficina así lo determine.
+
+31
+1 (b) La Oficina podrá conceder el remedio solicitado o cualquier otro remedio que
+2 considere apropiado aunque no haya sido solicitado, y podrá conceder honorarios
+3 razonables de abogados, costos y gastos a cualquier parte cuando determine que la otra
+4 parte actuó de manera temeraria o de mala fe.
+5 Artículo 27.-Revisión -Certiorari.
+6 Cualquier parte adversamente afectada por la resolución del Tribunal de
+7 Apelaciones de cualquier caso incoado bajo el apartado (c)(2) del Artículo 16 de esta ley
+8 podrá solicitar la revisión de la misma mediante la presentación de recurso de Certiorari
+9 ante el Tribunal Supremo en el término jurisdiccional de treinta (30) días desde el archivo
+10 en autos de la notificación de la sentencia del Tribunal de Apelaciones o de la resolución
+11 de éste resolviendo una moción de reconsideración debidamente presentada. Si la fecha
+12 de archivo en autos de copia de la notificación de la sentencia o resolución es distinta a la
+13 del depósito en el correo de dicha notificación, el término se calculará a partir de la fecha
+14 del depósito en el correo.
+15 Artículo 28. Separabilidad.
+16 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+17 disposición, Artículo, sub-artículo, título, capítulo, subcapítulo, acápite o parte de esta
+18 Ley fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+19 efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+20 de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra,
+21 letra, artículo, disposición, Artículo, sub-artículo, título, capítulo, subcapítulo, acápite o
+22 parte de la misma que así hubiere sido anulada o declarada inconstitucional. Si la
+
+32
+1 aplicación a una persona o a una circunstancia de cualquier cláusula, párrafo, subpárrafo,
+2 oración palabra, letra, artículo, disposición, Artículo, sub-artículo, título, capítulo,
+3 subcapítulo, acápite o parte de esta Ley fuera invalidada o declarada inconstitucional, la
+4 resolución, dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación
+5 del remanente de esta Ley a aquellas personas o circunstancias en las que se pueda aplicar
+6 válidamente. Es la voluntad expresa e inequívoca de esta Asamblea Legislativa que los
+7 tribunales hagan cumplir las disposiciones y la aplicación de esta Ley en la mayor medida
+8 posible, aunque se deje sin efecto, anule, invalide, perjudique o declare inconstitucional
+9 alguna de sus partes, o aunque se deje sin efecto, invalide o declare inconstitucional su
+10 aplicación a alguna persona o circunstancia. La Asamblea Legislativa hubiera aprobado
+11 esta Ley sin importar la determinación de separabilidad que el Tribunal pueda hacer.
+12 Artículo 29.- Vigencia
+13 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A  3 .rL   s]
+[DELETED:  l d d n c E l a l r t r s h n y u c e e D d l f d r a d l d c m l c d u O d R C a q l R E t a g d i e l t d]
+[DELETED: )A)A)D i b l L 1 s e s e)l s d ( l c d c c p e)e)I – A p q n s p o e c)L)O]
+[DELETED: )O o – C d o a m d a p m o a d c d u o m p)O)P)P – T p o M a p l a q s d)S a D d H y o b s d y)L I (]
+[DELETED: )C a r a c l j t a l f d q d J p c c d e L D n d a d u p d a)L O g l u d c l i e l y l c e l p d c c l)L O t a s c d m e y c l p a t l p a r p i d r c a d]
+[DELETED: )Q r m a o d d o i d l d o d q e l O e e d a l s t y l rE)D)D)D)D a q l d s e c ú e e)C o a c d a d í c]
+[DELETED: )S l d s d n p c c a c s)E)L)N)H)M)R)R)F)C]
+[DELETED: )C p q t u i l e u p a l O p s u s p e d)Q e i d p p s a a p e)Q)Q)Q l p d p p a r a)Q l p d p p e o d)Q)Q e p p a i p c]
+[DELETED: )L)L l c o l p a c e l v S p a)S l O d a s d a d l p y l d s y s d c f o p r c)L]
+[DELETED: )L)L O p e c p l c d t p l p d d m u o o y ó)E)L y a l i l f h y l e q s c l v n s n a d p y d c l s]
+[DELETED: )F h y l e q s c l v a c l n y)A d q l p p c p d p o)C)R)A)AS l m p d e r y c e p s sP a s p a m q s p u s p e]
+[DELETED:  p l m s q e q h p n c d)E f q p e p a n p)D)B)L)E f q p l v d d u m d r]
+[DELETED: )E)E)L l p f d e s p u p l u)E d d h y c d d L p p)T r d d u t d s ( m d s r s)E]
+[DELETED: )U d c a p d q c l v o d l p d l l d d h s é n h s r l d d q f l a y l d d)L c y s l t n o u c)L)E s n d r d r y l t A l d f d e e]
+[DELETED:  d l f q d p e c s d o d l p m m l i s l)E d s n d r d r y l t)L O d e e l c d s d)L O d n m c s e p c]
+[DELETED: )E e c d q u p f e o d d l f d a p d l f d d e e c d l n d l)L)L)L s f d T d P I d e l]
+[DELETED:  s e c c l “ d l J d E L l s d T d P I d l e d u s o l r d u c d l c y d n s c f p l q e t a n c a)N e p c c a l p n a d q e e t p e L a c p r a e T d P n c)C s l d e e L p a f a c d]
+[DELETED:  p d d a a e D d F p a e D d F a d l s d T d P c e q l s d f a f f a D d)E e c d q u p a l s d T d P p t d l d o s p p p d l m e d P I p o s q l a]
+[DELETED:  q n p p l c n p f s l e u c s e T d P]
+[DELETED: )S a n p o d d t q l c e d P I e f a n t f p r s r d l m a f a q d l J d E L A d P R d 2]
+[DELETED: )E q e D d F o s r h e u)S a d d a a c r a m a h d t n n s c a l f d e)E d P I a c l d r a c a]
+[DELETED: )E)E T d P I o e T d A s c f a c e t p s l r j h s u M i u d r a u d e]
+[DELETED: )U)L d c s e t d f a s p T)L F d s - E c d q l f p p e]
+[DELETED:  e c o p é c g f e n y d r b s e m d l f]
+[DELETED:  d T f d f s f y e S e D d n o l f a s d d t ( d o d d]
+[DELETED:  a c f h d d e e c a e T o d q l p h d d p c f r p e e v d r p c r s c a e r d d d s r d l m p e T S m]
+[DELETED: )L)L a d e s c e t p s r l d r d l m d r T)  j s l m y e t p s l r j)S]
+[DELETED:  e M d n c c e p a q)L)L)C)C)E)U)O)P d d d h y c d d)C)E e d l O c l b e p s a e u)L]
+[DELETED: )S o d d q n h c q j e i s p i u s e a f d M o d a l p o a s a s e ú e e r d)O e e c d p s d d h i s)I]
+[DELETED:  T S d P R a u r p r l a l c e l d d r d r p . d p y e f , e T S p a d a u r L d d h d l d d l)L]
+[DELETED: )L a a n h s s y p c h p a a p l r d T d c c p s o p l a d l m q a h s a o d i S l]
+[DELETED:  p l a d A s t c]

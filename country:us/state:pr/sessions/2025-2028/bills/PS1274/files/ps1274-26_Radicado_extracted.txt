@@ -1,0 +1,1061 @@
+Title: Para enmendar los Artículos 2, 3, 4 y 8 de la Ley Núm. 139 de 13 de julio de 2011, según
+Official Title: Para enmendar los Artículos 2, 3, 4 y 8 de la Ley Núm. 139 de 13 de julio de 2011, según
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1274
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”; añadir un
+nuevo Artículo 3-A a dicha Ley; a los fines de establecer requisitos específicos de
+consentimiento para el uso de imagen, voz, nombre, apariencia, atributos
+reconocibles, grabaciones, fotografías, material audiovisual, contenido promocional,
+representaciones digitales, avatares, imagen sintética, voz clonada o cualquier otra
+modalidad de identidad reconocible de una persona en relaciones laborales,
+educativas, contractuales, promocionales o de prestación de servicios; disponer que
+dicho consentimiento deberá ser escrito, específico, informado, separado del contrato
+principal y revocable prospectivamente, salvo transferencia válida conforme a
+derecho; regular el uso posterior a la terminación de una relación laboral, educativa,
+contractual o promocional; incluir expresamente el uso, alteración, recreación o
+simulación de imagen o voz mediante inteligencia artificial o tecnologías análogas;
+establecer remedios de cese, remoción, interdicto, preservación de evidencia digital,
+divulgación de usos realizados, daños y honorarios; aclarar las excepciones aplicables
+a expresión noticiosa, política, artística, académica, investigativa, crítica, comentario,
+sátira o parodia; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 139 de 13 de julio de 2011, según enmendada, conocida como la “Ley
+del Derecho sobre la Propia Imagen”, reconoció estatutariamente en Puerto Rico la
+2
+facultad de toda persona de controlar el uso comercial, mercantil o publicitario de su
+identidad. Al aprobarse dicha legislación, la Asamblea Legislativa atendió una zona
+jurídica que durante años había dependido principalmente del derecho constitucional a
+la intimidad, de la dignidad humana, de la responsabilidad civil extracontractual y de la
+jurisprudencia del Tribunal Supremo de Puerto Rico. La aprobación de esta ley, colocó
+en el centro de la protección jurídica el principio de que el nombre, la fotografía, el retrato,
+la voz, la firma, los atributos reconocibles y cualquier representación identificable de una
+persona no pueden ser apropiados por terceros para fines comerciales o publicitarios sin
+consentimiento.
+Desde su aprobación, la Ley Núm. 139-2011 ha servido como una herramienta
+importante para proteger a personas naturales frente al uso no autorizado de su imagen.
+Sin embargo, la evolución tecnológica, la expansión de las redes sociales, el uso constante
+de contenido audiovisual en estrategias de mercadeo, la profesionalización de la
+publicidad digital, la normalización de campañas institucionales con empleados o
+estudiantes, y el desarrollo acelerado de sistemas de inteligencia artificial han creado
+escenarios que no fueron contemplados expresamente al momento de aprobarse dicha
+legislación.
+En el entorno contemporáneo, la imagen de una persona no se limita a una
+fotografía impresa o a un anuncio tradicional. La identidad puede proyectarse mediante
+videos institucionales, campañas en redes sociales, grabaciones de voz, podcasts,
+anuncios digitales, cápsulas promocionales, plataformas educativas, páginas web,
+contenido patrocinado, campañas de reclutamiento, avatares, imágenes generadas
+artificialmente, voz clonada, recreaciones digitales, edición algorítmica, montajes,
+deepfakes, doblajes sintéticos y otras modalidades tecnológicas capaces de identificar a
+una persona ante un observador o escucha promedio. Estas nuevas formas de
+reproducción, manipulación y explotación comercial hacen necesario atemperar la Ley
+Núm. 139-2011 a la realidad actual.
+El Tribunal Supremo de Puerto Rico atendió recientemente esta materia en Friger
+Salgueiro v. Mech-Tech College, LLC, 2026 TSPR 30. En dicho caso, el Alto Foro examinó
+3
+el alcance del derecho sobre la propia imagen en el contexto de una relación laboral. El
+caso surgió de una controversia en la que un trabajador había participado en la
+producción y utilización de material audiovisual promocional durante su relación de
+trabajo, pero posteriormente se cuestionó el uso continuado de su imagen luego de
+terminada dicha relación y luego de una solicitud de cese y desista. Nuestro
+ordenamiento reconoció expresamente que el derecho sobre la propia imagen tiene una
+vertiente de personalidad y una vertiente patrimonial o comercial, y que esta última no
+se pierde por el mero hecho de existir una relación laboral, contractual o de otra
+naturaleza.
+La decisión en Friger Salgueiro es particularmente importante porque aclara que
+los derechos comerciales sobre la propia imagen solo se transmiten mediante acuerdo
+escrito o sucesión intestada. En ausencia de una transferencia escrita válida, una persona
+puede haber consentido determinado uso de su imagen durante una relación laboral o
+contractual, pero conserva la titularidad de sus derechos comerciales y puede retirar el
+consentimiento para usos posteriores. En adición, se sostuvo que la titularidad o control
+sobre el material audiovisual, incluyendo argumentos vinculados a obra hecha por
+encargo, no equivale necesariamente a una transferencia del derecho sobre la propia
+imagen de la persona que aparece o es identificable en dicho material.
+La controversia resuelta por el Supremo revela la necesidad de adoptar reglas
+legislativas más claras para los contextos en que existe una relación desigual o
+estructurada entre las partes, como ocurre en el empleo, la educación, la prestación de
+servicios profesionales, la contratación independiente, la producción de material
+audiovisual, el voluntariado institucional, la participación en campañas promocionales o
+la prestación de servicios vinculados a publicidad o mercadeo. En estos escenarios, puede
+existir presión implícita, ambigüedad contractual o confusión entre la autorización para
+aparecer en determinado contenido y la cesión permanente del derecho a explotar
+comercialmente la imagen de una persona.
+Esta Ley parte de una premisa sencilla: el consentimiento para usar la imagen de
+una persona con fines comerciales, publicitarios, institucionales, promocionales,
+4
+mercantiles o de reclutamiento debe ser claro, escrito, específico, informado y separado
+del contrato principal. No debe presumirse por el mero hecho de que la persona sea
+empleada, estudiante, contratista, participante, voluntaria, modelo, instructora,
+portavoz, creadora, productora o prestadora de servicios. Tampoco debe presumirse por
+el hecho de que la persona haya participado en una grabación, fotografía, entrevista,
+actividad institucional, video corporativo, clase, promoción, campaña de admisión o
+producción audiovisual.
+La medida también atiende el uso posterior a la terminación de la relación laboral,
+educativa, contractual o promocional. Una vez culmina la relación que dio origen al
+contenido, la entidad que interese continuar utilizando la imagen, voz, nombre,
+apariencia o identidad reconocible de la persona deberá contar con una autorización
+escrita vigente que expresamente permita dicho uso posterior. De lo contrario, el uso
+continuado puede constituir una explotación no autorizada de la imagen,
+particularmente cuando se mantiene en páginas web, redes sociales, campañas de
+admisión, anuncios institucionales, material comercial o plataformas digitales bajo
+control de la entidad.
+Asimismo, esta Ley incorpora expresamente el uso de inteligencia artificial y
+tecnologías análogas. El desarrollo de herramientas capaces de crear imágenes sintéticas,
+simular voces, alterar rostros, recrear expresiones, generar avatares o manipular la
+apariencia de una persona exige una protección clara. La apropiación comercial de la
+imagen no requiere necesariamente una fotografía real si el resultado permite identificar
+a la persona o explotar su identidad reconocible. Por tanto, el uso de inteligencia artificial
+para recrear, alterar, clonar, simular o generar la imagen, voz, apariencia o identidad de
+una persona debe quedar sujeto a los mismos principios de consentimiento y
+responsabilidad establecidos en la Ley Núm. 139-2011.
+La Asamblea Legislativa reconoce, a su vez, que esta protección debe coexistir con
+la libertad de expresión, la libertad de prensa, la expresión política, el comentario, la
+crítica, la sátira, la parodia, la academia, la investigación y los usos de interés público
+legítimo. Por ello, esta Ley no altera la protección que ya concede el Artículo 8 de la Ley
+5
+Núm. 139-2011 a expresiones no comerciales o de interés público legítimo. Lo que sí
+aclara es que dichas excepciones no pueden utilizarse como cubierta para campañas
+comerciales, institucionales, publicitarias, promocionales o de reclutamiento que
+exploten la identidad de una persona sin autorización.
+Por todo lo anterior, esta Asamblea Legislativa entiende necesario enmendar la
+Ley Núm. 139-2011 para establecer reglas claras sobre consentimiento, revocación, uso
+post-terminación, inteligencia artificial, remoción de contenido y remedios en contextos
+laborales, educativos, contractuales y promocionales. Esta medida fortalece la dignidad
+humana, protege la identidad personal, promueve certeza jurídica para patronos,
+instituciones educativas y contratantes, y actualiza el ordenamiento jurídico de Puerto
+Rico ante las nuevas realidades tecnológicas y comerciales
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 2 de la Ley Núm. 139 de 13 de julio de 2011,
+2 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+3 lea como sigue:
+4 Artículo 2. — Definiciones
+5 a) Agente autorizado — aquel que está autorizado directamente para consentir a
+6 nombre de una persona la utilización de su imagen, bajo un contrato de agencia o
+7 representación.
+8 b) Daños — todos los daños pecuniarios, incluyendo pero sin limitarse a, el dinero
+9 dejado de devengar si hubiera concedido una licencia sobre su imagen, así como las
+10 ganancias del infractor derivadas exclusivamente del uso no autorizado de la imagen del
+11 propietario.
+6
+1 c) Imagen — nombre, fotografía, retrato, voz, firma, atributo o cualquier
+2 representación de una persona que sirva para identificar a esa persona, ante un
+3 observador o escucha promedio, mediante cualquier procedimiento o técnica de
+4 reproducción. El término incluirá, sin limitarse a ello, la apariencia física, imagen corporal,
+5 rasgos faciales, gestos, movimientos, expresiones, grabaciones de voz, grabaciones audiovisuales,
+6 material fotográfico, contenido digital, contenido publicado o difundido en redes sociales, avatares,
+7 representaciones digitales, imagen sintética, voz clonada, recreaciones, simulaciones, alteraciones
+8 o reproducciones generadas total o parcialmente mediante inteligencia artificial, aprendizaje
+9 automático, tecnología algorítmica o cualquier tecnología análoga, siempre que permitan
+10 identificar razonablemente a una persona ante un observador o escucha promedio.
+11 d) Negligencia crasa — ausencia total de cuidado o el ejercicio de un grado tan
+12 pequeño de cuidado, que origina una presunción de indiferencia hacia las consecuencias,
+13 implicando una total despreocupación.
+14 e) Parodia — imitación burlesca que utiliza algunos elementos que, por lo menos
+15 en parte, comente o se burle directamente de la persona, alterando su imagen.
+16 f) Persona — persona natural, viva o muerta, independientemente del uso que se
+17 le haya dado a su imagen para propósitos comerciales. Incluye aquella entidad jurídica a
+18 quien una persona haya otorgado una licencia o haya transferido su derecho a la propia
+19 imagen.
+20 g) Persona accesoria — persona que no se presenta en el plano principal de una
+21 comunicación, sino como parte de un grupo o figura de trasfondo.
+7
+1 h) Propósito comercial — el uso de la imagen de una persona en conexión con el
+2 anuncio, la oferta de venta o la venta de un producto, mercancía, bien o servicio en el
+3 mercado. También incluirá el uso de la imagen de una persona para promover, posicionar,
+4 mercadear, distinguir, respaldar, endosar, aumentar el valor comercial, generar tráfico digital,
+5 captar matrícula, reclutar clientes, atraer participantes, promocionar servicios, promover una
+6 marca, fortalecer identidad institucional o inducir al público a contratar, comprar, matricularse,
+7 suscribirse, consumir o participar en una actividad comercial, educativa, profesional o
+8 institucional ofrecida en el mercado.
+9 i) Propósitos publicitarios — el uso de la imagen de una persona al difundir o
+10 informar al público sobre un bien o servicio en el mercado a través de los medios de
+11 comunicación, incluyendo el uso en los anuncios institucionales. El término incluirá el uso
+12 en medios impresos, radio, televisión, plataformas digitales, páginas electrónicas, redes sociales,
+13 aplicaciones móviles, contenido patrocinado, anuncios pagados, campañas de admisión, campañas
+14 de reclutamiento, materiales promocionales, videos institucionales, cápsulas informativas con
+15 finalidad promocional, catálogos, folletos, vallas, comunicaciones comerciales, eventos
+16 promocionales y cualquier otro medio presente o futuro utilizado para promover bienes, servicios,
+17 marcas, programas, cursos, instituciones, productos, actividades o entidades.
+18 j) Sátira — expresión cuyo objeto es censurar o poner en ridículo a alguien o algo,
+19 utilizando la imagen sin alteración o transformación.
+20 k) Consentimiento escrito, específico e informado — autorización escrita, firmada física o
+21 electrónicamente por la persona titular del derecho sobre la propia imagen, o por su agente
+22 autorizado, que describa de manera clara la imagen, voz, nombre, atributo, grabación,
+8
+1 representación o identidad autorizada; el propósito del uso; los medios o plataformas autorizadas;
+2 la duración; el territorio; la existencia o inexistencia de compensación; la autorización o prohibición
+3 de edición, montaje, alteración digital, sublicencia, cesión a terceros o uso mediante inteligencia
+4 artificial; y el procedimiento para revocar prospectivamente dicha autorización cuando proceda.
+5 l) Contrato principal — contrato de empleo, contrato de servicios profesionales, contrato
+6 de contratista independiente, contrato de matrícula, contrato educativo, contrato de participación,
+7 contrato de voluntariado, contrato de producción, reglamento institucional, manual de empleado,
+8 manual de estudiante, política interna, relevo general, formulario de inscripción, acuerdo de
+9 participación o cualquier otro documento cuyo objeto principal no sea la autorización específica
+10 para el uso comercial, publicitario, mercantil, institucional, promocional o de reclutamiento de la
+11 imagen de una persona.
+12 m) Relación laboral, educativa, contractual o promocional — cualquier relación de empleo,
+13 prestación de servicios, contratación independiente, matrícula, inscripción, estudio, práctica,
+14 internado, voluntariado, participación institucional, producción de contenido, representación
+15 promocional, colaboración, auspicio, endoso, campaña publicitaria, campaña institucional,
+16 campaña de reclutamiento, actividad educativa, actividad comercial o cualquier relación análoga
+17 en la que una persona pueda ser fotografiada, grabada, filmada, representada, recreada, identificada
+18 o incluida en contenido utilizado por otra persona natural o jurídica.
+19 n) Inteligencia artificial o tecnología análoga — sistema automatizado, algorítmico,
+20 generativo, predictivo, de aprendizaje automático o de procesamiento digital que permita crear,
+21 alterar, modificar, simular, clonar, recrear, sustituir, combinar, manipular, proyectar o reproducir
+9
+1 la imagen, voz, apariencia, gestos, movimientos, expresiones o identidad reconocible de una
+2 persona.
+3 o) Uso post-terminación — uso de la imagen de una persona con fines comerciales,
+4 mercantiles, publicitarios, institucionales, promocionales o de reclutamiento luego de concluida,
+5 extinguida, cancelada, vencida, resuelta o terminada la relación laboral, educativa, contractual,
+6 promocional o de prestación de servicios que dio origen a la creación, grabación, fotografía, captura,
+7 producción, autorización inicial o publicación del contenido.
+8 Sección 2. Se enmienda el Artículo 3 de la Ley Núm. 139 de 13 de julio de 2011,
+9 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+10 lea como sigue:
+11 Artículo 3. — Causa de Acción
+12 Cualquier persona natural o jurídica que utilice la imagen de otra persona con
+13 fines o propósitos comerciales, mercantiles o publicitarios, sin el consentimiento previo
+14 de ésta, de la persona que posea una licencia sobre tal imagen, de los herederos en caso
+15 de haber fallecido o del agente autorizado de uno de éstos, responderá por los daños
+16 causados.
+17 Para propósitos de este Artículo, el consentimiento requerido deberá ser escrito, específico
+18 e informado cuando el uso de la imagen se realice en el contexto de una relación laboral, educativa,
+19 contractual, promocional, institucional, de prestación de servicios, de producción de contenido, de
+20 publicidad o de reclutamiento. Dicho consentimiento no se presumirá por la mera existencia de
+21 una relación laboral, educativa, contractual o de otra naturaleza, ni por la participación de la
+10
+1 persona en una grabación, fotografía, video, entrevista, actividad, campaña, publicación, clase,
+2 curso, evento, producción, material promocional o contenido digital.
+3 El consentimiento para un uso determinado de la imagen no constituirá, por sí solo, una
+4 transferencia, cesión, licencia perpetua, autorización post-terminación, autorización para
+5 sublicenciar, ni autorización para crear, alterar, manipular, recrear o simular la imagen, voz,
+6 apariencia o identidad de una persona mediante inteligencia artificial o tecnología análoga, salvo
+7 que así surja de manera expresa, clara e inequívoca de un acuerdo escrito.
+8 La titularidad, propiedad, posesión, control, autoría, licencia o derecho de explotación sobre
+9 una fotografía, video, grabación, anuncio, pieza audiovisual, publicación, obra, campaña, archivo
+10 digital, material institucional o contenido promocional no se interpretará, por sí sola, como
+11 transferencia o renuncia del derecho sobre la propia imagen de la persona identificable en dicho
+12 contenido.
+13 El consentimiento podrá ser revocado prospectivamente por la persona titular del derecho
+14 sobre la propia imagen mediante notificación escrita, salvo que exista una transferencia escrita
+15 válida, licencia vigente o autorización contractual expresa que disponga una duración específica,
+16 una compensación determinada y los usos autorizados conforme a esta Ley. La revocación
+17 prospectiva no afectará usos válidamente realizados antes de recibida la notificación, pero obligará
+18 al cese de usos futuros no autorizados conforme a las disposiciones de esta Ley.
+19 En el evento de no obtenerse el consentimiento requerido en esta Ley, la persona
+20 afectada podrá presentar una acción para detener la utilización de dicha imagen y para
+21 recobrar los daños causados, incluyendo regalías dejadas de devengar o cualquier
+22 pérdida económica resultante de la violación del derecho aquí establecido.
+11
+1 La persona afectada también podrá solicitar el retiro, remoción, descontinuación,
+2 desindexación razonable, cese de publicación, cese de pauta publicitaria, cese de campaña, cese de
+3 distribución, preservación de evidencia digital, divulgación de los usos realizados y cualquier otra
+4 medida provisional, cautelar o permanente necesaria para impedir la continuación o repetición del
+5 uso no autorizado de su imagen.
+6 Sección 3. — Se añade un nuevo Artículo 3-A a la Ley Núm. 139 de 13 de julio de
+7 2011, según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”,
+8 para que lea como sigue:
+9 Artículo 3-A. — Uso de imagen en relaciones laborales, educativas, contractuales,
+10 institucionales, promocionales o de prestación de servicios.
+11 Toda persona natural o jurídica, incluyendo patronos, instituciones educativas,
+12 contratantes, agencias de publicidad, productores, entidades comerciales, entidades sin fines de
+13 lucro, entidades gubernamentales, instituciones postsecundarias, academias, corporaciones,
+14 asociaciones, organizaciones, plataformas digitales o cualquier persona que utilice la imagen de
+15 otra persona con fines comerciales, mercantiles, publicitarios, institucionales, promocionales o de
+16 reclutamiento en el contexto de una relación laboral, educativa, contractual, institucional,
+17 promocional o de prestación de servicios, deberá obtener consentimiento escrito, específico e
+18 informado de la persona titular del derecho sobre la propia imagen.
+19 El consentimiento requerido por este Artículo deberá constar en un documento separado
+20 del contrato principal, salvo que la cláusula de autorización aparezca en una sección independiente,
+21 destacada, específica, separada de otras condiciones generales, firmada o aceptada de forma
+12
+1 particular por la persona titular del derecho sobre la propia imagen, y redactada en lenguaje claro
+2 y comprensible.
+3 El consentimiento deberá especificar, como mínimo:
+4 (a) la imagen, voz, nombre, apariencia, atributo, grabación, fotografía, video,
+5 representación digital o identidad reconocible cuyo uso se autoriza;
+6 (b) el propósito específico del uso;
+7 (c) si el uso será comercial, mercantil, publicitario, institucional, promocional, educativo,
+8 informativo, de reclutamiento o una combinación de estos;
+9 (d) los medios, plataformas o canales autorizados, incluyendo expresamente redes sociales,
+10 páginas electrónicas, plataformas de video, medios impresos, radio, televisión, aplicaciones
+11 móviles, anuncios pagados o contenido patrocinado, cuando aplique;
+12 (e) el territorio o ámbito geográfico del uso autorizado;
+13 (f) la duración de la autorización;
+14 (g) si el uso continuará o no luego de terminada la relación laboral, educativa, contractual,
+15 institucional, promocional o de prestación de servicios;
+16 (h) si se autoriza edición, montaje, recorte, adaptación, alteración digital, doblaje,
+17 traducción, subtitulaje, combinación con otros contenidos, uso de filtros, manipulación
+18 algorítmica o modificación de la imagen o voz;
+19 (i) si se autoriza la creación, alteración, recreación, simulación, clonación o generación de
+20 la imagen, voz, apariencia, gestos, movimientos, expresiones o identidad reconocible mediante
+21 inteligencia artificial o tecnología análoga;
+13
+1 (j) si se autoriza cesión, sublicencia, transferencia, publicación o uso por terceros, afiliadas,
+2 subsidiarias, agencias de publicidad, contratistas, plataformas, distribuidores o entidades
+3 relacionadas;
+4 (k) si la autorización es gratuita o compensada y, de ser compensada, la naturaleza de la
+5 compensación;
+6 (l) el procedimiento para revocar prospectivamente la autorización, cuando proceda; y
+7 (m) la persona, oficina, dirección física o electrónica a la cual deberá dirigirse una solicitud
+8 de revocación, cese, remoción o aclaración sobre el uso de la imagen.
+9 Ningún patrono, institución educativa, contratante, entidad comercial, entidad
+10 gubernamental o persona jurídica podrá condicionar la contratación, permanencia en el empleo,
+11 matrícula, prestación de servicios, participación en un programa, concesión de beneficios,
+12 evaluación académica, evaluación profesional, renovación contractual o participación en una
+13 actividad a que la persona renuncie de forma general, indefinida o irrevocable a sus derechos sobre
+14 la propia imagen, salvo que dicha autorización sea indispensable para la naturaleza específica del
+15 servicio contratado, participación acordada o actividad promocional expresamente pactada.
+16 El uso de la imagen durante la vigencia de una relación laboral, educativa, contractual,
+17 institucional, promocional o de prestación de servicios no autorizará automáticamente el uso post-
+18 terminación. Para continuar utilizando la imagen luego de terminada la relación, deberá existir
+19 autorización escrita vigente que disponga expresamente el uso post-terminación, su duración, sus
+20 medios, su propósito y cualquier compensación aplicable.
+21 Cuando la autorización no disponga una duración específica, se presumirá revocable
+22 prospectivamente mediante notificación escrita. Recibida la notificación de revocación, la persona
+14
+1 natural o jurídica que controle el contenido deberá cesar el uso futuro no autorizado y realizar
+2 gestiones razonables para remover el contenido bajo su control directo dentro de un término no
+3 mayor de treinta (30) días calendario, salvo que un tribunal disponga un término distinto por justa
+4 causa.
+5 La obligación de remoción establecida en este Artículo aplicará al contenido bajo control
+6 directo de la persona natural o jurídica que utilizó la imagen, incluyendo páginas electrónicas,
+7 redes sociales oficiales, campañas activas, anuncios pagados, materiales promocionales vigentes,
+8 catálogos digitales, publicaciones controladas y plataformas administradas por dicha persona. Esta
+9 obligación no impondrá responsabilidad automática por copias, capturas, redistribuciones,
+10 republicaciones o usos realizados por terceros independientes que no estén bajo su control, sin
+11 perjuicio de las gestiones razonables que el tribunal pueda ordenar en cada caso.
+12 El uso de inteligencia artificial o tecnología análoga para crear, alterar, recrear, simular,
+13 clonar, sustituir, combinar o generar la imagen, voz, apariencia, gestos, movimientos, expresiones
+14 o identidad reconocible de una persona requerirá autorización expresa y específica. Una
+15 autorización general para el uso de imagen, fotografía, video o voz no se interpretará como
+16 autorización para crear o utilizar imagen sintética, voz clonada, avatar, deepfake, recreación
+17 digital, simulación algorítmica o cualquier modalidad análoga, salvo que así se disponga
+18 expresamente por escrito.
+19 La persona natural o jurídica que utilice la imagen de otra persona bajo una autorización
+20 escrita deberá conservar copia del consentimiento por el término de duración autorizado y por un
+21 periodo adicional de un (1) año luego de cesar el uso de la imagen. En caso de reclamación judicial,
+15
+1 deberá producir copia del consentimiento y de los usos realizados, sujeto a cualquier orden
+2 protectora o limitación de confidencialidad que el tribunal estime procedente.
+3 Nada de lo dispuesto en este Artículo se interpretará como una limitación a la libertad de
+4 expresión, libertad de prensa, expresión política, crítica, comentario, sátira, parodia, investigación,
+5 enseñanza, uso académico, uso noticioso, uso artístico protegido o cualquier otro uso exceptuado
+6 por esta Ley, siempre que dicho uso no constituya una explotación comercial, publicitaria,
+7 institucional, promocional o de reclutamiento encubierta de la imagen protegida.
+8 Sección 4. - Se enmienda el Artículo 4 de la Ley Núm. 139 de 13 de julio de 2011,
+9 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+10 lea como sigue:
+11 Artículo 4. — Remedios
+12 El propietario del derecho a la propia imagen que encuentre que el mismo ha sido
+13 violentado tendrá disponible el remedio de interdicto, así como una acción en daños y
+14 perjuicios. El Tribunal fijará la cuantía de los daños tomando como base los siguientes
+15 elementos: el beneficio bruto que hubiera obtenido la parte infractora mediante el uso de
+16 la imagen en cuestión; el importe de la ganancia que la persona perjudicada hubiere
+17 dejado de percibir como resultado de la actuación de la parte demandada; el valor del
+18 menoscabo que la actuación del demandado le hubiera ocasionado al demandante; y
+19 cualquier otro factor que a juicio del tribunal cuantifique adecuadamente los daños.
+20 Además, en casos que involucren uso no autorizado de imagen, voz, grabación,
+21 representación digital, imagen sintética, voz clonada, avatar, recreación, simulación, alteración
+22 mediante inteligencia artificial o uso post-terminación en relaciones laborales, educativas,
+16
+1 contractuales, institucionales, promocionales o de prestación de servicios, el tribunal podrá
+2 considerar como factores adicionales: la duración del uso no autorizado; el alcance de la difusión;
+3 el número de plataformas utilizadas; la naturaleza comercial, institucional, promocional o de
+4 reclutamiento del uso; la existencia de una solicitud previa de cese, remoción o revocación; el grado
+5 de control que tenía la parte demandada sobre el contenido; la intencionalidad o negligencia crasa;
+6 la persistencia del uso luego de notificación escrita; y el beneficio reputacional, comercial,
+7 institucional o digital obtenido por la parte infractora.
+8 El tribunal, en su discreción, podrá fijar la cuantía de los daños en una cantidad
+9 que no exceda tres (3) veces la ganancia del demandado y/o la pérdida del demandante
+10 cuando determine que la violación fue intencional o de mala fe.
+11 En la alternativa, el demandante podrá optar por solicitarle al tribunal, daños
+12 estatutarios. Los daños estatutarios podrán fijarse en una cuantía no menor de $750 ni
+13 mayor de $20,000 por violación, según el tribunal lo considere justo. En un caso en el cual
+14 el tribunal determine que la violación fue intencional o debido a una negligencia crasa, el
+15 tribunal, en su discreción, podrá aumentar la cuantía de daños estatutarios a una suma
+16 no mayor de $100,000 por violación. Cada violación bajo estos daños estatutarios será
+17 equivalente al acto de la utilización ilegal de la imagen del reclamante en un trabajo,
+18 independiente del número de copias que se hagan del trabajo en cuestión en un momento
+19 dado.
+20 Cuando la violación consista en el uso post-terminación de la imagen en una campaña,
+21 publicación, anuncio, plataforma digital, red social, video institucional, material promocional,
+22 contenido de reclutamiento, imagen sintética, voz clonada, avatar, recreación digital o pieza
+17
+1 generada o alterada mediante inteligencia artificial, el tribunal podrá considerar cada campaña,
+2 pieza, publicación, anuncio, video, grabación, plataforma, comunicación comercial o uso digital
+3 independiente como una violación separada, cuando las circunstancias así lo justifiquen y siempre
+4 que ello no constituya una duplicación irrazonable de daños por el mismo acto.
+5 Además, si el caso se resuelve a favor del titular del derecho, el tribunal siempre
+6 fijará la cuantía de las costas, honorarios y gastos del pleito a favor de éste.
+7 Cuándo el tribunal determine que el demandado desconocía y no tenía razón para
+8 saber o creer que sus actos constituían una violación a los derechos del demandante, el
+9 tribunal, en su discreción, podrá reducir la cuantía de daños.
+10 El tribunal podrá ordenar, además de cualquier otro remedio disponible:
+11 (a) el cese inmediato del uso no autorizado de la imagen;
+12 (b) la remoción de contenido bajo control directo de la parte infractora;
+13 (c) la suspensión o retiro de campañas publicitarias, institucionales, promocionales o de
+14 reclutamiento;
+15 (d) la descontinuación de anuncios pagados, publicaciones patrocinadas o comunicaciones
+16 comerciales;
+17 (e) la eliminación o sustitución razonable de material digital, audiovisual, impreso o
+18 promocional;
+19 (f) la prohibición de crear, utilizar, difundir o comercializar imagen sintética, voz clonada,
+20 avatar, deepfake, recreación digital o representación generada o alterada mediante inteligencia
+21 artificial sin autorización expresa;
+18
+1 (g) la preservación de evidencia digital, incluyendo publicaciones, métricas, archivos
+2 fuente, pautas, contratos de publicidad, registros de difusión, capturas de pantalla, anuncios
+3 pagados, registros de plataformas y cualquier otra evidencia pertinente;
+4 (h) la divulgación razonable de los usos realizados, incluyendo plataformas, fechas,
+5 campañas, medios, terceros contratados y duración del uso, sujeto a órdenes protectoras cuando
+6 proceda;
+7 (i) la notificación a terceros bajo control contractual de la parte infractora para que cesen
+8 el uso no autorizado; y
+9 (j) cualquier remedio provisional, cautelar, correctivo o permanente que resulte necesario
+10 para proteger el derecho sobre la propia imagen.
+11 Los remedios provistos por este Artículo son en adición a los remedios provistos
+12 por cualquier otro estatuto estatal o federal aplicable.
+13 Sección 5. Se enmienda el Artículo 8 de la Ley Núm. 139 de 13 de julio de 2011,
+14 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+15 lea como sigue:
+16 Artículo 8. — Excepciones
+17 Esta Ley no aplicará bajo las siguientes circunstancias:
+18 (a) Cuando se utilice la imagen de una persona en cualquier medio como parte de
+19 un reportaje noticioso, expresión política, transmisión de evento deportivo o artístico, o
+20 una presentación que tenga un interés público legítimo, y en donde no sea utilizada con
+21 propósitos comerciales o publicitarios.
+19
+1 (b) Cuando se utilice la imagen de una persona como parte de una sátira o parodia,
+2 en donde el propósito principal del uso de la imagen no sea uno comercial o publicitario.
+3 (c) Cuando se utilice la imagen con propósitos de crítica o comentario, académicos
+4 o investigativos, siempre que dicha utilización no constituya una explotación encubierta
+5 de la imagen protegida.
+6 (d) Cuando se utilice la imagen de una persona accesoria.
+7 Las excepciones reconocidas en este Artículo no aplicarán cuando el uso de la imagen, voz,
+8 nombre, apariencia, atributo, representación digital, imagen sintética, voz clonada, avatar o
+9 identidad reconocible de una persona se utilice como parte de una campaña comercial, mercantil,
+10 publicitaria, institucional, promocional o de reclutamiento, aunque el contenido incluya elementos
+11 informativos, educativos, artísticos, noticiosos, testimoniales o institucionales.
+12 Tampoco se considerará uso exceptuado aquel que, bajo apariencia de material informativo,
+13 académico, investigativo, artístico, institucional, testimonial, noticioso, satírico, paródico, crítico
+14 o de comentario, tenga como propósito principal anunciar, vender, ofrecer, promover, mercadear,
+15 reclutar, captar matrícula, endosar, posicionar una marca, atraer clientes, generar ingresos,
+16 aumentar tráfico digital comercial o promover bienes o servicios en el mercado mediante la
+17 explotación reconocible de la imagen de una persona sin el consentimiento requerido por esta Ley.
+18 Nada de lo dispuesto en este Artículo limitará la publicación, discusión, crítica,
+19 comentario, investigación, enseñanza, análisis periodístico, expresión política, reportaje noticioso,
+20 sátira, parodia, obra artística o expresión protegida constitucionalmente, siempre que el uso de la
+21 imagen no constituya una apropiación comercial, publicitaria, institucional, promocional o de
+22 reclutamiento no autorizada.
+20
+1 Sección 6.- Aplicabilidad.
+2 Esta Ley aplicará a todo uso de imagen realizado con posterioridad a su vigencia.
+3 En cuanto a contenido creado, grabado, fotografiado, producido o publicado antes de la
+4 vigencia de esta Ley, sus disposiciones aplicarán a todo uso nuevo, continuado,
+5 renovado, reactivado, republicado, pautado, promovido, distribuido o mantenido con
+6 fines comerciales, mercantiles, publicitarios, institucionales, promocionales o de
+7 reclutamiento luego de la vigencia de esta Ley, sujeto a los derechos adquiridos, licencias
+8 válidas, transferencias escritas, contratos vigentes y defensas reconocidas por el
+9 ordenamiento jurídico.
+10 Nada de lo dispuesto en esta Sección se interpretará como una delegación de
+11 autoridad para limitar, ampliar o alterar por reglamento los derechos, remedios o
+12 excepciones reconocidos en la Ley Núm. 139-2011, según enmendada.
+13 Sección 7.- Cláusula de interpretación.
+14 Esta Ley se interpretará de manera compatible con el derecho constitucional a la
+15 intimidad, la dignidad humana, la libertad de expresión, la libertad de prensa, el debido
+16 proceso de ley, la libertad contractual y la protección de la identidad personal frente a
+17 usos comerciales, mercantiles, publicitarios, institucionales, promocionales o de
+18 reclutamiento no autorizados.
+19 Nada de lo dispuesto en esta Ley se interpretará como una limitación a derechos
+20 de autor, derechos morales de autor, secretos comerciales, marcas, contratos válidos,
+21 licencias, derechos laborales, remedios civiles, remedios administrativos o cualquier otra
+22 protección reconocida por leyes estatales o federales, salvo en la medida en que resulte
+21
+1 incompatible con el derecho de una persona a controlar el uso no autorizado de su propia
+2 imagen conforme a esta Ley.
+3 Sección 8.- Separabilidad.
+4 Si cualquier cláusula, párrafo, subpárrafo, artículo, sección, inciso, subinciso o
+5 parte de esta Ley fuere declarada inconstitucional o nula por un tribunal competente, la
+6 sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las restantes
+7 disposiciones de esta Ley. El efecto de dicha sentencia quedará limitado a la cláusula,
+8 párrafo, subpárrafo, artículo, sección, inciso, subinciso o parte declarada inconstitucional
+9 o nula.
+10 Sección 9.- Vigencia.
+11 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3 .r L r p e u d i v n a a d i r d u p e r l y r p s t v c a o p i e e u a r o D s l P I r e e P R l]
+[DELETED:  A a d l l A L a u z c a e e d m l p d l d l n d c i c e o e e c l i d u p n s l a u i c e r s g d v p d c p p e p w p c d r a i g v c r d e a m p a u o o e p E n f d]
+[DELETED:  s d u c e l q u t h p e l p p s c e u c d s i l d d r y l d u s d c y d N p p e m h d e u r l c o d o e m a i a v a o h p m c p l c e q e u r d o p l c i l p d m e d c y l c p d d a e p c f c p i p]
+[DELETED:  e c p v m i i v c c p c d a o c o p U c l r q d o a l e q i c u l i v n p c u e n a d l i c s m e p w r s c d a i m c o p d b e L i e e u d i a y v a r r e g a o m l p d q s a l m p d c y]
+[DELETED:  e q d e n p u c c p c i p p o d r q p l i p p c j p p d u p l u d s i b u c d a o]
+[DELETED:  I — n f r v f a o c d u p q s p i a e p a u o e p m c p o t d E r m r o r g t o p m i a a a t a o c t a s q p i]
+[DELETED:  T i e u d l i d u p p p p m c m r c a p p s p u m s c o p e u a c e p o i E e a d r m p v i c i c f p c f v c c e p m k e p l p t d d s l p i o p s a a q d d m c l i v n a g]
+[DELETED:  r l d a l d c m d e p i r g f d i a d p p i m p d s c i m i e p i v p i p d c r p c a e c p c i c e o n I a o t a — s a a g a]
+[DELETED:  l i v a g m e o i r d u p o U p — u d l i d u p c f c m e p p P e c p u]
+[DELETED:  p c E t c l p a p a p s a q L u d m i o c p n s i p s s c t c E s v u c d y l u a c a e L L r p a l d c i r d d d o c]
+[DELETED:  L p a t p s e r r d d d m u A 3 — U d i e r l e c i T p n o j i p i e c l e g i p a c a o r e e c d u r l e c i p o d p d s d o c e e e i E d d e s d o c g f o a d f]
+[DELETED:  p y E ( l i v n a a g f v r ( ( i ( p e p d v m i r t a m ( ( ( i ( s s a e m r a a d d t s c c o c u d f m a ( l i]
+[DELETED:  ( s a d p c p d o e r ( c ( ( d N p i e c e c e g m p d s p e u p c d b e a e p r c o p e u a l s E i t a m C l a n d u d e s p r p]
+[DELETED:  n g m c L d r c o n i r a p c c r r p E c o i r d u p r a e y e U a g p e u d i f v o v n s i c a p c o u i s v c a d r d s a o c m a s q a s d e L e p]
+[DELETED:  d p c d c y d l u r s a c o p N e e p e L s q d u n c u e c p i A e c q i u n a d i v g r m i a o u p e r l e]
+[DELETED:  c i p o d p d s e t p c e n d p u l n c i p o d r d l p d u l d n e y e b r c i l a e d p o p s a t d C p c d r i s v c a r d o p]
+[DELETED:  g p i q E (  ( ( r ( c ( l e o s r d m d a i o p ( a a]
+[DELETED:  ( l p d e d i p m a f p c d p r d d c d p a p ( l d r d l u r i p f c p ( e ( p]
+[DELETED:  L n a a r d i s v c a o i p i T a o r c m e p u m a c g i a t d c o p b o s e e m m l e N d l d e e A l l p d c c s i r]
+[DELETED:  d e L s d a a t u n c c m p i p o d t e c v y d r p e d l d e e S s i c u d d p l a o a p r l d r o c m p i p o d a d m d a s c m c v]
+[DELETED:  c c p s a s i s o d a t e n a p n i l r]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1274
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 2, 3, 4 y 8 de la Ley Núm. 139 de 13 de julio de 2011, según
+enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”; añadir un
+nuevo Artículo 3-A a dicha Ley; a los fines de establecer requisitos específicos de
+consentimiento para el uso de imagen, voz, nombre, apariencia, atributos
+reconocibles, grabaciones, fotografías, material audiovisual, contenido promocional,
+representaciones digitales, avatares, imagen sintética, voz clonada o cualquier otra
+modalidad de identidad reconocible de una persona en relaciones laborales,
+educativas, contractuales, promocionales o de prestación de servicios; disponer que
+dicho consentimiento deberá ser escrito, específico, informado, separado del contrato
+principal y revocable prospectivamente, salvo transferencia válida conforme a
+derecho; regular el uso posterior a la terminación de una relación laboral, educativa,
+contractual o promocional; incluir expresamente el uso, alteración, recreación o
+simulación de imagen o voz mediante inteligencia artificial o tecnologías análogas;
+establecer remedios de cese, remoción, interdicto, preservación de evidencia digital,
+divulgación de usos realizados, daños y honorarios; aclarar las excepciones aplicables
+a expresión noticiosa, política, artística, académica, investigativa, crítica, comentario,
+sátira o parodia; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 139 de 13 de julio de 2011, según enmendada, conocida como la “Ley
+del Derecho sobre la Propia Imagen”, reconoció estatutariamente en Puerto Rico la
+
+2
+facultad de toda persona de controlar el uso comercial, mercantil o publicitario de su
+identidad. Al aprobarse dicha legislación, la Asamblea Legislativa atendió una zona
+jurídica que durante años había dependido principalmente del derecho constitucional a
+la intimidad, de la dignidad humana, de la responsabilidad civil extracontractual y de la
+jurisprudencia del Tribunal Supremo de Puerto Rico. La aprobación de esta ley, colocó
+en el centro de la protección jurídica el principio de que el nombre, la fotografía, el retrato,
+la voz, la firma, los atributos reconocibles y cualquier representación identificable de una
+persona no pueden ser apropiados por terceros para fines comerciales o publicitarios sin
+consentimiento.
+Desde su aprobación, la Ley Núm. 139-2011 ha servido como una herramienta
+importante para proteger a personas naturales frente al uso no autorizado de su imagen.
+Sin embargo, la evolución tecnológica, la expansión de las redes sociales, el uso constante
+de contenido audiovisual en estrategias de mercadeo, la profesionalización de la
+publicidad digital, la normalización de campañas institucionales con empleados o
+estudiantes, y el desarrollo acelerado de sistemas de inteligencia artificial han creado
+escenarios que no fueron contemplados expresamente al momento de aprobarse dicha
+legislación.
+En el entorno contemporáneo, la imagen de una persona no se limita a una
+fotografía impresa o a un anuncio tradicional. La identidad puede proyectarse mediante
+videos institucionales, campañas en redes sociales, grabaciones de voz, podcasts,
+anuncios digitales, cápsulas promocionales, plataformas educativas, páginas web,
+contenido patrocinado, campañas de reclutamiento, avatares, imágenes generadas
+artificialmente, voz clonada, recreaciones digitales, edición algorítmica, montajes,
+deepfakes, doblajes sintéticos y otras modalidades tecnológicas capaces de identificar a
+una persona ante un observador o escucha promedio. Estas nuevas formas de
+reproducción, manipulación y explotación comercial hacen necesario atemperar la Ley
+Núm. 139-2011 a la realidad actual.
+El Tribunal Supremo de Puerto Rico atendió recientemente esta materia en Friger
+Salgueiro v. Mech-Tech College, LLC, 2026 TSPR 30. En dicho caso, el Alto Foro examinó
+
+3
+el alcance del derecho sobre la propia imagen en el contexto de una relación laboral. El
+caso surgió de una controversia en la que un trabajador había participado en la
+producción y utilización de material audiovisual promocional durante su relación de
+trabajo, pero posteriormente se cuestionó el uso continuado de su imagen luego de
+terminada dicha relación y luego de una solicitud de cese y desista. Nuestro
+ordenamiento reconoció expresamente que el derecho sobre la propia imagen tiene una
+vertiente de personalidad y una vertiente patrimonial o comercial, y que esta última no
+se pierde por el mero hecho de existir una relación laboral, contractual o de otra
+naturaleza.
+La decisión en Friger Salgueiro es particularmente importante porque aclara que
+los derechos comerciales sobre la propia imagen solo se transmiten mediante acuerdo
+escrito o sucesión intestada. En ausencia de una transferencia escrita válida, una persona
+puede haber consentido determinado uso de su imagen durante una relación laboral o
+contractual, pero conserva la titularidad de sus derechos comerciales y puede retirar el
+consentimiento para usos posteriores. En adición, se sostuvo que la titularidad o control
+sobre el material audiovisual, incluyendo argumentos vinculados a obra hecha por
+encargo, no equivale necesariamente a una transferencia del derecho sobre la propia
+imagen de la persona que aparece o es identificable en dicho material.
+La controversia resuelta por el Supremo revela la necesidad de adoptar reglas
+legislativas más claras para los contextos en que existe una relación desigual o
+estructurada entre las partes, como ocurre en el empleo, la educación, la prestación de
+servicios profesionales, la contratación independiente, la producción de material
+audiovisual, el voluntariado institucional, la participación en campañas promocionales o
+la prestación de servicios vinculados a publicidad o mercadeo. En estos escenarios, puede
+existir presión implícita, ambigüedad contractual o confusión entre la autorización para
+aparecer en determinado contenido y la cesión permanente del derecho a explotar
+comercialmente la imagen de una persona.
+Esta Ley parte de una premisa sencilla: el consentimiento para usar la imagen de
+una persona con fines comerciales, publicitarios, institucionales, promocionales,
+
+4
+mercantiles o de reclutamiento debe ser claro, escrito, específico, informado y separado
+del contrato principal. No debe presumirse por el mero hecho de que la persona sea
+empleada, estudiante, contratista, participante, voluntaria, modelo, instructora,
+portavoz, creadora, productora o prestadora de servicios. Tampoco debe presumirse por
+el hecho de que la persona haya participado en una grabación, fotografía, entrevista,
+actividad institucional, video corporativo, clase, promoción, campaña de admisión o
+producción audiovisual.
+La medida también atiende el uso posterior a la terminación de la relación laboral,
+educativa, contractual o promocional. Una vez culmina la relación que dio origen al
+contenido, la entidad que interese continuar utilizando la imagen, voz, nombre,
+apariencia o identidad reconocible de la persona deberá contar con una autorización
+escrita vigente que expresamente permita dicho uso posterior. De lo contrario, el uso
+continuado puede constituir una explotación no autorizada de la imagen,
+particularmente cuando se mantiene en páginas web, redes sociales, campañas de
+admisión, anuncios institucionales, material comercial o plataformas digitales bajo
+control de la entidad.
+Asimismo, esta Ley incorpora expresamente el uso de inteligencia artificial y
+tecnologías análogas. El desarrollo de herramientas capaces de crear imágenes sintéticas,
+simular voces, alterar rostros, recrear expresiones, generar avatares o manipular la
+apariencia de una persona exige una protección clara. La apropiación comercial de la
+imagen no requiere necesariamente una fotografía real si el resultado permite identificar
+a la persona o explotar su identidad reconocible. Por tanto, el uso de inteligencia artificial
+para recrear, alterar, clonar, simular o generar la imagen, voz, apariencia o identidad de
+una persona debe quedar sujeto a los mismos principios de consentimiento y
+responsabilidad establecidos en la Ley Núm. 139-2011.
+La Asamblea Legislativa reconoce, a su vez, que esta protección debe coexistir con
+la libertad de expresión, la libertad de prensa, la expresión política, el comentario, la
+crítica, la sátira, la parodia, la academia, la investigación y los usos de interés público
+legítimo. Por ello, esta Ley no altera la protección que ya concede el Artículo 8 de la Ley
+
+5
+Núm. 139-2011 a expresiones no comerciales o de interés público legítimo. Lo que sí
+aclara es que dichas excepciones no pueden utilizarse como cubierta para campañas
+comerciales, institucionales, publicitarias, promocionales o de reclutamiento que
+exploten la identidad de una persona sin autorización.
+Por todo lo anterior, esta Asamblea Legislativa entiende necesario enmendar la
+Ley Núm. 139-2011 para establecer reglas claras sobre consentimiento, revocación, uso
+post-terminación, inteligencia artificial, remoción de contenido y remedios en contextos
+laborales, educativos, contractuales y promocionales. Esta medida fortalece la dignidad
+humana, protege la identidad personal, promueve certeza jurídica para patronos,
+instituciones educativas y contratantes, y actualiza el ordenamiento jurídico de Puerto
+Rico ante las nuevas realidades tecnológicas y comerciales
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 2 de la Ley Núm. 139 de 13 de julio de 2011,
+2 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+3 lea como sigue:
+4 Artículo 2. — Definiciones
+5 a) Agente autorizado — aquel que está autorizado directamente para consentir a
+6 nombre de una persona la utilización de su imagen, bajo un contrato de agencia o
+7 representación.
+8 b) Daños — todos los daños pecuniarios, incluyendo pero sin limitarse a, el dinero
+9 dejado de devengar si hubiera concedido una licencia sobre su imagen, así como las
+10 ganancias del infractor derivadas exclusivamente del uso no autorizado de la imagen del
+11 propietario.
+
+6
+1 c) Imagen — nombre, fotografía, retrato, voz, firma, atributo o cualquier
+2 representación de una persona que sirva para identificar a esa persona, ante un
+3 observador o escucha promedio, mediante cualquier procedimiento o técnica de
+4 reproducción. El término incluirá, sin limitarse a ello, la apariencia física, imagen corporal,
+5 rasgos faciales, gestos, movimientos, expresiones, grabaciones de voz, grabaciones audiovisuales,
+6 material fotográfico, contenido digital, contenido publicado o difundido en redes sociales, avatares,
+7 representaciones digitales, imagen sintética, voz clonada, recreaciones, simulaciones, alteraciones
+8 o reproducciones generadas total o parcialmente mediante inteligencia artificial, aprendizaje
+9 automático, tecnología algorítmica o cualquier tecnología análoga, siempre que permitan
+10 identificar razonablemente a una persona ante un observador o escucha promedio.
+11 d) Negligencia crasa — ausencia total de cuidado o el ejercicio de un grado tan
+12 pequeño de cuidado, que origina una presunción de indiferencia hacia las consecuencias,
+13 implicando una total despreocupación.
+14 e) Parodia — imitación burlesca que utiliza algunos elementos que, por lo menos
+15 en parte, comente o se burle directamente de la persona, alterando su imagen.
+16 f) Persona — persona natural, viva o muerta, independientemente del uso que se
+17 le haya dado a su imagen para propósitos comerciales. Incluye aquella entidad jurídica a
+18 quien una persona haya otorgado una licencia o haya transferido su derecho a la propia
+19 imagen.
+20 g) Persona accesoria — persona que no se presenta en el plano principal de una
+21 comunicación, sino como parte de un grupo o figura de trasfondo.
+
+7
+1 h) Propósito comercial — el uso de la imagen de una persona en conexión con el
+2 anuncio, la oferta de venta o la venta de un producto, mercancía, bien o servicio en el
+3 mercado. También incluirá el uso de la imagen de una persona para promover, posicionar,
+4 mercadear, distinguir, respaldar, endosar, aumentar el valor comercial, generar tráfico digital,
+5 captar matrícula, reclutar clientes, atraer participantes, promocionar servicios, promover una
+6 marca, fortalecer identidad institucional o inducir al público a contratar, comprar, matricularse,
+7 suscribirse, consumir o participar en una actividad comercial, educativa, profesional o
+8 institucional ofrecida en el mercado.
+9 i) Propósitos publicitarios — el uso de la imagen de una persona al difundir o
+10 informar al público sobre un bien o servicio en el mercado a través de los medios de
+11 comunicación, incluyendo el uso en los anuncios institucionales. El término incluirá el uso
+12 en medios impresos, radio, televisión, plataformas digitales, páginas electrónicas, redes sociales,
+13 aplicaciones móviles, contenido patrocinado, anuncios pagados, campañas de admisión, campañas
+14 de reclutamiento, materiales promocionales, videos institucionales, cápsulas informativas con
+15 finalidad promocional, catálogos, folletos, vallas, comunicaciones comerciales, eventos
+16 promocionales y cualquier otro medio presente o futuro utilizado para promover bienes, servicios,
+17 marcas, programas, cursos, instituciones, productos, actividades o entidades.
+18 j) Sátira — expresión cuyo objeto es censurar o poner en ridículo a alguien o algo,
+19 utilizando la imagen sin alteración o transformación.
+20 k) Consentimiento escrito, específico e informado — autorización escrita, firmada física o
+21 electrónicamente por la persona titular del derecho sobre la propia imagen, o por su agente
+22 autorizado, que describa de manera clara la imagen, voz, nombre, atributo, grabación,
+
+8
+1 representación o identidad autorizada; el propósito del uso; los medios o plataformas autorizadas;
+2 la duración; el territorio; la existencia o inexistencia de compensación; la autorización o prohibición
+3 de edición, montaje, alteración digital, sublicencia, cesión a terceros o uso mediante inteligencia
+4 artificial; y el procedimiento para revocar prospectivamente dicha autorización cuando proceda.
+5 l) Contrato principal — contrato de empleo, contrato de servicios profesionales, contrato
+6 de contratista independiente, contrato de matrícula, contrato educativo, contrato de participación,
+7 contrato de voluntariado, contrato de producción, reglamento institucional, manual de empleado,
+8 manual de estudiante, política interna, relevo general, formulario de inscripción, acuerdo de
+9 participación o cualquier otro documento cuyo objeto principal no sea la autorización específica
+10 para el uso comercial, publicitario, mercantil, institucional, promocional o de reclutamiento de la
+11 imagen de una persona.
+12 m) Relación laboral, educativa, contractual o promocional — cualquier relación de empleo,
+13 prestación de servicios, contratación independiente, matrícula, inscripción, estudio, práctica,
+14 internado, voluntariado, participación institucional, producción de contenido, representación
+15 promocional, colaboración, auspicio, endoso, campaña publicitaria, campaña institucional,
+16 campaña de reclutamiento, actividad educativa, actividad comercial o cualquier relación análoga
+17 en la que una persona pueda ser fotografiada, grabada, filmada, representada, recreada, identificada
+18 o incluida en contenido utilizado por otra persona natural o jurídica.
+19 n) Inteligencia artificial o tecnología análoga — sistema automatizado, algorítmico,
+20 generativo, predictivo, de aprendizaje automático o de procesamiento digital que permita crear,
+21 alterar, modificar, simular, clonar, recrear, sustituir, combinar, manipular, proyectar o reproducir
+
+9
+1 la imagen, voz, apariencia, gestos, movimientos, expresiones o identidad reconocible de una
+2 persona.
+3 o) Uso post-terminación — uso de la imagen de una persona con fines comerciales,
+4 mercantiles, publicitarios, institucionales, promocionales o de reclutamiento luego de concluida,
+5 extinguida, cancelada, vencida, resuelta o terminada la relación laboral, educativa, contractual,
+6 promocional o de prestación de servicios que dio origen a la creación, grabación, fotografía, captura,
+7 producción, autorización inicial o publicación del contenido.
+8 Sección 2. Se enmienda el Artículo 3 de la Ley Núm. 139 de 13 de julio de 2011,
+9 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+10 lea como sigue:
+11 Artículo 3. — Causa de Acción
+12 Cualquier persona natural o jurídica que utilice la imagen de otra persona con
+13 fines o propósitos comerciales, mercantiles o publicitarios, sin el consentimiento previo
+14 de ésta, de la persona que posea una licencia sobre tal imagen, de los herederos en caso
+15 de haber fallecido o del agente autorizado de uno de éstos, responderá por los daños
+16 causados.
+17 Para propósitos de este Artículo, el consentimiento requerido deberá ser escrito, específico
+18 e informado cuando el uso de la imagen se realice en el contexto de una relación laboral, educativa,
+19 contractual, promocional, institucional, de prestación de servicios, de producción de contenido, de
+20 publicidad o de reclutamiento. Dicho consentimiento no se presumirá por la mera existencia de
+21 una relación laboral, educativa, contractual o de otra naturaleza, ni por la participación de la
+
+10
+1 persona en una grabación, fotografía, video, entrevista, actividad, campaña, publicación, clase,
+2 curso, evento, producción, material promocional o contenido digital.
+3 El consentimiento para un uso determinado de la imagen no constituirá, por sí solo, una
+4 transferencia, cesión, licencia perpetua, autorización post-terminación, autorización para
+5 sublicenciar, ni autorización para crear, alterar, manipular, recrear o simular la imagen, voz,
+6 apariencia o identidad de una persona mediante inteligencia artificial o tecnología análoga, salvo
+7 que así surja de manera expresa, clara e inequívoca de un acuerdo escrito.
+8 La titularidad, propiedad, posesión, control, autoría, licencia o derecho de explotación sobre
+9 una fotografía, video, grabación, anuncio, pieza audiovisual, publicación, obra, campaña, archivo
+10 digital, material institucional o contenido promocional no se interpretará, por sí sola, como
+11 transferencia o renuncia del derecho sobre la propia imagen de la persona identificable en dicho
+12 contenido.
+13 El consentimiento podrá ser revocado prospectivamente por la persona titular del derecho
+14 sobre la propia imagen mediante notificación escrita, salvo que exista una transferencia escrita
+15 válida, licencia vigente o autorización contractual expresa que disponga una duración específica,
+16 una compensación determinada y los usos autorizados conforme a esta Ley. La revocación
+17 prospectiva no afectará usos válidamente realizados antes de recibida la notificación, pero obligará
+18 al cese de usos futuros no autorizados conforme a las disposiciones de esta Ley.
+19 En el evento de no obtenerse el consentimiento requerido en esta Ley, la persona
+20 afectada podrá presentar una acción para detener la utilización de dicha imagen y para
+21 recobrar los daños causados, incluyendo regalías dejadas de devengar o cualquier
+22 pérdida económica resultante de la violación del derecho aquí establecido.
+
+11
+1 La persona afectada también podrá solicitar el retiro, remoción, descontinuación,
+2 desindexación razonable, cese de publicación, cese de pauta publicitaria, cese de campaña, cese de
+3 distribución, preservación de evidencia digital, divulgación de los usos realizados y cualquier otra
+4 medida provisional, cautelar o permanente necesaria para impedir la continuación o repetición del
+5 uso no autorizado de su imagen.
+6 Sección 3. — Se añade un nuevo Artículo 3-A a la Ley Núm. 139 de 13 de julio de
+7 2011, según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”,
+8 para que lea como sigue:
+9 Artículo 3-A. — Uso de imagen en relaciones laborales, educativas, contractuales,
+10 institucionales, promocionales o de prestación de servicios.
+11 Toda persona natural o jurídica, incluyendo patronos, instituciones educativas,
+12 contratantes, agencias de publicidad, productores, entidades comerciales, entidades sin fines de
+13 lucro, entidades gubernamentales, instituciones postsecundarias, academias, corporaciones,
+14 asociaciones, organizaciones, plataformas digitales o cualquier persona que utilice la imagen de
+15 otra persona con fines comerciales, mercantiles, publicitarios, institucionales, promocionales o de
+16 reclutamiento en el contexto de una relación laboral, educativa, contractual, institucional,
+17 promocional o de prestación de servicios, deberá obtener consentimiento escrito, específico e
+18 informado de la persona titular del derecho sobre la propia imagen.
+19 El consentimiento requerido por este Artículo deberá constar en un documento separado
+20 del contrato principal, salvo que la cláusula de autorización aparezca en una sección independiente,
+21 destacada, específica, separada de otras condiciones generales, firmada o aceptada de forma
+
+12
+1 particular por la persona titular del derecho sobre la propia imagen, y redactada en lenguaje claro
+2 y comprensible.
+3 El consentimiento deberá especificar, como mínimo:
+4 (a) la imagen, voz, nombre, apariencia, atributo, grabación, fotografía, video,
+5 representación digital o identidad reconocible cuyo uso se autoriza;
+6 (b) el propósito específico del uso;
+7 (c) si el uso será comercial, mercantil, publicitario, institucional, promocional, educativo,
+8 informativo, de reclutamiento o una combinación de estos;
+9 (d) los medios, plataformas o canales autorizados, incluyendo expresamente redes sociales,
+10 páginas electrónicas, plataformas de video, medios impresos, radio, televisión, aplicaciones
+11 móviles, anuncios pagados o contenido patrocinado, cuando aplique;
+12 (e) el territorio o ámbito geográfico del uso autorizado;
+13 (f) la duración de la autorización;
+14 (g) si el uso continuará o no luego de terminada la relación laboral, educativa, contractual,
+15 institucional, promocional o de prestación de servicios;
+16 (h) si se autoriza edición, montaje, recorte, adaptación, alteración digital, doblaje,
+17 traducción, subtitulaje, combinación con otros contenidos, uso de filtros, manipulación
+18 algorítmica o modificación de la imagen o voz;
+19 (i) si se autoriza la creación, alteración, recreación, simulación, clonación o generación de
+20 la imagen, voz, apariencia, gestos, movimientos, expresiones o identidad reconocible mediante
+21 inteligencia artificial o tecnología análoga;
+
+13
+1 (j) si se autoriza cesión, sublicencia, transferencia, publicación o uso por terceros, afiliadas,
+2 subsidiarias, agencias de publicidad, contratistas, plataformas, distribuidores o entidades
+3 relacionadas;
+4 (k) si la autorización es gratuita o compensada y, de ser compensada, la naturaleza de la
+5 compensación;
+6 (l) el procedimiento para revocar prospectivamente la autorización, cuando proceda; y
+7 (m) la persona, oficina, dirección física o electrónica a la cual deberá dirigirse una solicitud
+8 de revocación, cese, remoción o aclaración sobre el uso de la imagen.
+9 Ningún patrono, institución educativa, contratante, entidad comercial, entidad
+10 gubernamental o persona jurídica podrá condicionar la contratación, permanencia en el empleo,
+11 matrícula, prestación de servicios, participación en un programa, concesión de beneficios,
+12 evaluación académica, evaluación profesional, renovación contractual o participación en una
+13 actividad a que la persona renuncie de forma general, indefinida o irrevocable a sus derechos sobre
+14 la propia imagen, salvo que dicha autorización sea indispensable para la naturaleza específica del
+15 servicio contratado, participación acordada o actividad promocional expresamente pactada.
+16 El uso de la imagen durante la vigencia de una relación laboral, educativa, contractual,
+17 institucional, promocional o de prestación de servicios no autorizará automáticamente el uso post-
+18 terminación. Para continuar utilizando la imagen luego de terminada la relación, deberá existir
+19 autorización escrita vigente que disponga expresamente el uso post-terminación, su duración, sus
+20 medios, su propósito y cualquier compensación aplicable.
+21 Cuando la autorización no disponga una duración específica, se presumirá revocable
+22 prospectivamente mediante notificación escrita. Recibida la notificación de revocación, la persona
+
+14
+1 natural o jurídica que controle el contenido deberá cesar el uso futuro no autorizado y realizar
+2 gestiones razonables para remover el contenido bajo su control directo dentro de un término no
+3 mayor de treinta (30) días calendario, salvo que un tribunal disponga un término distinto por justa
+4 causa.
+5 La obligación de remoción establecida en este Artículo aplicará al contenido bajo control
+6 directo de la persona natural o jurídica que utilizó la imagen, incluyendo páginas electrónicas,
+7 redes sociales oficiales, campañas activas, anuncios pagados, materiales promocionales vigentes,
+8 catálogos digitales, publicaciones controladas y plataformas administradas por dicha persona. Esta
+9 obligación no impondrá responsabilidad automática por copias, capturas, redistribuciones,
+10 republicaciones o usos realizados por terceros independientes que no estén bajo su control, sin
+11 perjuicio de las gestiones razonables que el tribunal pueda ordenar en cada caso.
+12 El uso de inteligencia artificial o tecnología análoga para crear, alterar, recrear, simular,
+13 clonar, sustituir, combinar o generar la imagen, voz, apariencia, gestos, movimientos, expresiones
+14 o identidad reconocible de una persona requerirá autorización expresa y específica. Una
+15 autorización general para el uso de imagen, fotografía, video o voz no se interpretará como
+16 autorización para crear o utilizar imagen sintética, voz clonada, avatar, deepfake, recreación
+17 digital, simulación algorítmica o cualquier modalidad análoga, salvo que así se disponga
+18 expresamente por escrito.
+19 La persona natural o jurídica que utilice la imagen de otra persona bajo una autorización
+20 escrita deberá conservar copia del consentimiento por el término de duración autorizado y por un
+21 periodo adicional de un (1) año luego de cesar el uso de la imagen. En caso de reclamación judicial,
+
+15
+1 deberá producir copia del consentimiento y de los usos realizados, sujeto a cualquier orden
+2 protectora o limitación de confidencialidad que el tribunal estime procedente.
+3 Nada de lo dispuesto en este Artículo se interpretará como una limitación a la libertad de
+4 expresión, libertad de prensa, expresión política, crítica, comentario, sátira, parodia, investigación,
+5 enseñanza, uso académico, uso noticioso, uso artístico protegido o cualquier otro uso exceptuado
+6 por esta Ley, siempre que dicho uso no constituya una explotación comercial, publicitaria,
+7 institucional, promocional o de reclutamiento encubierta de la imagen protegida.
+8 Sección 4. - Se enmienda el Artículo 4 de la Ley Núm. 139 de 13 de julio de 2011,
+9 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+10 lea como sigue:
+11 Artículo 4. — Remedios
+12 El propietario del derecho a la propia imagen que encuentre que el mismo ha sido
+13 violentado tendrá disponible el remedio de interdicto, así como una acción en daños y
+14 perjuicios. El Tribunal fijará la cuantía de los daños tomando como base los siguientes
+15 elementos: el beneficio bruto que hubiera obtenido la parte infractora mediante el uso de
+16 la imagen en cuestión; el importe de la ganancia que la persona perjudicada hubiere
+17 dejado de percibir como resultado de la actuación de la parte demandada; el valor del
+18 menoscabo que la actuación del demandado le hubiera ocasionado al demandante; y
+19 cualquier otro factor que a juicio del tribunal cuantifique adecuadamente los daños.
+20 Además, en casos que involucren uso no autorizado de imagen, voz, grabación,
+21 representación digital, imagen sintética, voz clonada, avatar, recreación, simulación, alteración
+22 mediante inteligencia artificial o uso post-terminación en relaciones laborales, educativas,
+
+16
+1 contractuales, institucionales, promocionales o de prestación de servicios, el tribunal podrá
+2 considerar como factores adicionales: la duración del uso no autorizado; el alcance de la difusión;
+3 el número de plataformas utilizadas; la naturaleza comercial, institucional, promocional o de
+4 reclutamiento del uso; la existencia de una solicitud previa de cese, remoción o revocación; el grado
+5 de control que tenía la parte demandada sobre el contenido; la intencionalidad o negligencia crasa;
+6 la persistencia del uso luego de notificación escrita; y el beneficio reputacional, comercial,
+7 institucional o digital obtenido por la parte infractora.
+8 El tribunal, en su discreción, podrá fijar la cuantía de los daños en una cantidad
+9 que no exceda tres (3) veces la ganancia del demandado y/o la pérdida del demandante
+10 cuando determine que la violación fue intencional o de mala fe.
+11 En la alternativa, el demandante podrá optar por solicitarle al tribunal, daños
+12 estatutarios. Los daños estatutarios podrán fijarse en una cuantía no menor de $750 ni
+13 mayor de $20,000 por violación, según el tribunal lo considere justo. En un caso en el cual
+14 el tribunal determine que la violación fue intencional o debido a una negligencia crasa, el
+15 tribunal, en su discreción, podrá aumentar la cuantía de daños estatutarios a una suma
+16 no mayor de $100,000 por violación. Cada violación bajo estos daños estatutarios será
+17 equivalente al acto de la utilización ilegal de la imagen del reclamante en un trabajo,
+18 independiente del número de copias que se hagan del trabajo en cuestión en un momento
+19 dado.
+20 Cuando la violación consista en el uso post-terminación de la imagen en una campaña,
+21 publicación, anuncio, plataforma digital, red social, video institucional, material promocional,
+22 contenido de reclutamiento, imagen sintética, voz clonada, avatar, recreación digital o pieza
+
+17
+1 generada o alterada mediante inteligencia artificial, el tribunal podrá considerar cada campaña,
+2 pieza, publicación, anuncio, video, grabación, plataforma, comunicación comercial o uso digital
+3 independiente como una violación separada, cuando las circunstancias así lo justifiquen y siempre
+4 que ello no constituya una duplicación irrazonable de daños por el mismo acto.
+5 Además, si el caso se resuelve a favor del titular del derecho, el tribunal siempre
+6 fijará la cuantía de las costas, honorarios y gastos del pleito a favor de éste.
+7 Cuándo el tribunal determine que el demandado desconocía y no tenía razón para
+8 saber o creer que sus actos constituían una violación a los derechos del demandante, el
+9 tribunal, en su discreción, podrá reducir la cuantía de daños.
+10 El tribunal podrá ordenar, además de cualquier otro remedio disponible:
+11 (a) el cese inmediato del uso no autorizado de la imagen;
+12 (b) la remoción de contenido bajo control directo de la parte infractora;
+13 (c) la suspensión o retiro de campañas publicitarias, institucionales, promocionales o de
+14 reclutamiento;
+15 (d) la descontinuación de anuncios pagados, publicaciones patrocinadas o comunicaciones
+16 comerciales;
+17 (e) la eliminación o sustitución razonable de material digital, audiovisual, impreso o
+18 promocional;
+19 (f) la prohibición de crear, utilizar, difundir o comercializar imagen sintética, voz clonada,
+20 avatar, deepfake, recreación digital o representación generada o alterada mediante inteligencia
+21 artificial sin autorización expresa;
+
+18
+1 (g) la preservación de evidencia digital, incluyendo publicaciones, métricas, archivos
+2 fuente, pautas, contratos de publicidad, registros de difusión, capturas de pantalla, anuncios
+3 pagados, registros de plataformas y cualquier otra evidencia pertinente;
+4 (h) la divulgación razonable de los usos realizados, incluyendo plataformas, fechas,
+5 campañas, medios, terceros contratados y duración del uso, sujeto a órdenes protectoras cuando
+6 proceda;
+7 (i) la notificación a terceros bajo control contractual de la parte infractora para que cesen
+8 el uso no autorizado; y
+9 (j) cualquier remedio provisional, cautelar, correctivo o permanente que resulte necesario
+10 para proteger el derecho sobre la propia imagen.
+11 Los remedios provistos por este Artículo son en adición a los remedios provistos
+12 por cualquier otro estatuto estatal o federal aplicable.
+13 Sección 5. Se enmienda el Artículo 8 de la Ley Núm. 139 de 13 de julio de 2011,
+14 según enmendada, conocida como la “Ley del Derecho sobre la Propia Imagen”, para que
+15 lea como sigue:
+16 Artículo 8. — Excepciones
+17 Esta Ley no aplicará bajo las siguientes circunstancias:
+18 (a) Cuando se utilice la imagen de una persona en cualquier medio como parte de
+19 un reportaje noticioso, expresión política, transmisión de evento deportivo o artístico, o
+20 una presentación que tenga un interés público legítimo, y en donde no sea utilizada con
+21 propósitos comerciales o publicitarios.
+
+19
+1 (b) Cuando se utilice la imagen de una persona como parte de una sátira o parodia,
+2 en donde el propósito principal del uso de la imagen no sea uno comercial o publicitario.
+3 (c) Cuando se utilice la imagen con propósitos de crítica o comentario, académicos
+4 o investigativos, siempre que dicha utilización no constituya una explotación encubierta
+5 de la imagen protegida.
+6 (d) Cuando se utilice la imagen de una persona accesoria.
+7 Las excepciones reconocidas en este Artículo no aplicarán cuando el uso de la imagen, voz,
+8 nombre, apariencia, atributo, representación digital, imagen sintética, voz clonada, avatar o
+9 identidad reconocible de una persona se utilice como parte de una campaña comercial, mercantil,
+10 publicitaria, institucional, promocional o de reclutamiento, aunque el contenido incluya elementos
+11 informativos, educativos, artísticos, noticiosos, testimoniales o institucionales.
+12 Tampoco se considerará uso exceptuado aquel que, bajo apariencia de material informativo,
+13 académico, investigativo, artístico, institucional, testimonial, noticioso, satírico, paródico, crítico
+14 o de comentario, tenga como propósito principal anunciar, vender, ofrecer, promover, mercadear,
+15 reclutar, captar matrícula, endosar, posicionar una marca, atraer clientes, generar ingresos,
+16 aumentar tráfico digital comercial o promover bienes o servicios en el mercado mediante la
+17 explotación reconocible de la imagen de una persona sin el consentimiento requerido por esta Ley.
+18 Nada de lo dispuesto en este Artículo limitará la publicación, discusión, crítica,
+19 comentario, investigación, enseñanza, análisis periodístico, expresión política, reportaje noticioso,
+20 sátira, parodia, obra artística o expresión protegida constitucionalmente, siempre que el uso de la
+21 imagen no constituya una apropiación comercial, publicitaria, institucional, promocional o de
+22 reclutamiento no autorizada.
+
+20
+1 Sección 6.- Aplicabilidad.
+2 Esta Ley aplicará a todo uso de imagen realizado con posterioridad a su vigencia.
+3 En cuanto a contenido creado, grabado, fotografiado, producido o publicado antes de la
+4 vigencia de esta Ley, sus disposiciones aplicarán a todo uso nuevo, continuado,
+5 renovado, reactivado, republicado, pautado, promovido, distribuido o mantenido con
+6 fines comerciales, mercantiles, publicitarios, institucionales, promocionales o de
+7 reclutamiento luego de la vigencia de esta Ley, sujeto a los derechos adquiridos, licencias
+8 válidas, transferencias escritas, contratos vigentes y defensas reconocidas por el
+9 ordenamiento jurídico.
+10 Nada de lo dispuesto en esta Sección se interpretará como una delegación de
+11 autoridad para limitar, ampliar o alterar por reglamento los derechos, remedios o
+12 excepciones reconocidos en la Ley Núm. 139-2011, según enmendada.
+13 Sección 7.- Cláusula de interpretación.
+14 Esta Ley se interpretará de manera compatible con el derecho constitucional a la
+15 intimidad, la dignidad humana, la libertad de expresión, la libertad de prensa, el debido
+16 proceso de ley, la libertad contractual y la protección de la identidad personal frente a
+17 usos comerciales, mercantiles, publicitarios, institucionales, promocionales o de
+18 reclutamiento no autorizados.
+19 Nada de lo dispuesto en esta Ley se interpretará como una limitación a derechos
+20 de autor, derechos morales de autor, secretos comerciales, marcas, contratos válidos,
+21 licencias, derechos laborales, remedios civiles, remedios administrativos o cualquier otra
+22 protección reconocida por leyes estatales o federales, salvo en la medida en que resulte
+
+21
+1 incompatible con el derecho de una persona a controlar el uso no autorizado de su propia
+2 imagen conforme a esta Ley.
+3 Sección 8.- Separabilidad.
+4 Si cualquier cláusula, párrafo, subpárrafo, artículo, sección, inciso, subinciso o
+5 parte de esta Ley fuere declarada inconstitucional o nula por un tribunal competente, la
+6 sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las restantes
+7 disposiciones de esta Ley. El efecto de dicha sentencia quedará limitado a la cláusula,
+8 párrafo, subpárrafo, artículo, sección, inciso, subinciso o parte declarada inconstitucional
+9 o nula.
+10 Sección 9.- Vigencia.
+11 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 .r L r p e u d i v n a a d i r d u p e r l y r p s t v c a o p i e e u a r o D s l P I r e e P R l]
+[DELETED:  A a d l l A L a u z c a e e d m l p d l d l n d c i c e o e e c l i d u p n s l a u i c e r s g d v p d c p p e p w p c d r a i g v c r d e a m p a u o o e p E n f d]
+[DELETED:  s d u c e l q u t h p e l p p s c e u c d s i l d d r y l d u s d c y d N p p e m h d e u r l c o d o e m a i a v a o h p m c p l c e q e u r d o p l c i l p d m e d c y l c p d d a e p c f c p i p]
+[DELETED:  e c p v m i i v c c p c d a o c o p U c l r q d o a l e q i c u l i v n p c u e n a d l i c s m e p w r s c d a i m c o p d b e L i e e u d i a y v a r r e g a o m l p d q s a l m p d c y]
+[DELETED:  e q d e n p u c c p c i p p o d r q p l i p p c j p p d u p l u d s i b u c d a o]
+[DELETED:  I — n f r v f a o c d u p q s p i a e p a u o e p m c p o t d E r m r o r g t o p m i a a a t a o c t a s q p i]
+[DELETED:  T i e u d l i d u p p p p m c m r c a p p s p u m s c o p e u a c e p o i E e a d r m p v i c i c f p c f v c c e p m k e p l p t d d s l p i o p s a a q d d m c l i v n a g]
+[DELETED:  r l d a l d c m d e p i r g f d i a d p p i m p d s c i m i e p i v p i p d c r p c a e c p c i c e o n I a o t a — s a a g a]
+[DELETED:  l i v a g m e o i r d u p o U p — u d l i d u p c f c m e p p P e c p u]
+[DELETED:  p c E t c l p a p a p s a q L u d m i o c p n s i p s s c t c E s v u c d y l u a c a e L L r p a l d c i r d d d o c]
+[DELETED:  L p a t p s e r r d d d m u A 3 — U d i e r l e c i T p n o j i p i e c l e g i p a c a o r e e c d u r l e c i p o d p d s d o c e e e i E d d e s d o c g f o a d f]
+[DELETED:  p y E ( l i v n a a g f v r ( ( i ( p e p d v m i r t a m ( ( ( i ( s s a e m r a a d d t s c c o c u d f m a ( l i]
+[DELETED:  ( s a d p c p d o e r ( c ( ( d N p i e c e c e g m p d s p e u p c d b e a e p r c o p e u a l s E i t a m C l a n d u d e s p r p]
+[DELETED:  n g m c L d r c o n i r a p c c r r p E c o i r d u p r a e y e U a g p e u d i f v o v n s i c a p c o u i s v c a d r d s a o c m a s q a s d e L e p]
+[DELETED:  d p c d c y d l u r s a c o p N e e p e L s q d u n c u e c p i A e c q i u n a d i v g r m i a o u p e r l e]
+[DELETED:  c i p o d p d s e t p c e n d p u l n c i p o d r d l p d u l d n e y e b r c i l a e d p o p s a t d C p c d r i s v c a r d o p]
+[DELETED:  g p i q E (  ( ( r ( c ( l e o s r d m d a i o p ( a a]
+[DELETED:  ( l p d e d i p m a f p c d p r d d c d p a p ( l d r d l u r i p f c p ( e ( p]
+[DELETED:  L n a a r d i s v c a o i p i T a o r c m e p u m a c g i a t d c o p b o s e e m m l e N d l d e e A l l p d c c s i r]
+[DELETED:  d e L s d a a t u n c c m p i p o d t e c v y d r p e d l d e e S s i c u d d p l a o a p r l d r o c m p i p o d a d m d a s c m c v]
+[DELETED:  c c p s a s i s o d a t e n a p n i l r]
