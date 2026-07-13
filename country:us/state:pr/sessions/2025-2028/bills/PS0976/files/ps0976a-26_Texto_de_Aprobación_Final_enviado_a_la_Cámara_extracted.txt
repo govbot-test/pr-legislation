@@ -1,0 +1,902 @@
+Title: Coautores las señoras Álvarez Conde, Barlucea Rodríguez; los señores González López, Reyes
+Official Title: Coautores las señoras Álvarez Conde, Barlucea Rodríguez; los señores González López, Reyes
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(23 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 976
+22 de enero de 2026
+Presentado por el señor Rivera Schatz
+Berríos; la señora Román Rodríguez; el señor Rosa Ramos; la señora Soto Tolentino; y los
+señores Sánchez Alvarez, Santos Ortiz y Toledo López
+Referido a la Comisión de Familia, Mujer, Personas de la Tercera Edad y Población con
+Diversidad Funcional e Impedimentos
+LEY
+Para enmendar el Capítulo 48 de la Ley Núm. 77 de 19 de junio de 1957, según
+enmendada, conocida como “Código de Seguros de Puerto Rico”, a los fines de
+regular el ofrecimiento y la venta de pólizas de seguros para mascotas, establecer
+divulgaciones mínimas y uniformes al consumidor, definir términos aplicables,
+disponer requisitos básicos de póliza y prácticas de mercadeo, facultar al
+Comisionado de Seguros para su implantación y fiscalización; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La relación entre las familias puertorriqueñas y sus mascotas ha evolucionado de
+forma acelerada en los pasados años. Actualmente, los animales de compañía ocupan un
+lugar central y significativo en gran parte de los hogares. Con ello, surge una necesidad
+real de contar con herramientas modernas que faciliten el acceso a servicios veterinarios
+y, a su vez, que permitan a los consumidores y dueños de mascotas, manejar el impacto
+económico derivado de enfermedades y accidentes que estas pueden padecer.
+2
+Según datos divulgados por el estudio de Radiografía del Consumidor que elaboró la
+Cámara de Mercadeo, Industria y Distribución de Alimentos en Puerto Rico (MIDA),
+para el 2023, aproximadamente el 48% de los hogares en Puerto Rico tiene mascotas, lo
+cual equivale a cerca de 643,000 hogares. Este fenómeno tiene un efecto directo en la
+economía familiar. El mismo análisis señala que los hogares con mascotas reportan una
+canasta mensual promedio mayor a la de los hogares sin mascotas, y que el gasto mensual
+en alimentos para mascotas ronda en aproximadamente $92 por hogar, además de un
+crecimiento significativo en esa categoría.
+En otras palabras, se trata de un mercado consolidado y en constante crecimiento,
+con consecuencias tangibles para el presupuesto de las familias puertorriqueñas y para
+la protección del consumidor.
+A la luz de ese contexto, esta Asamblea Legislativa entiende meritorio establecer un
+marco jurídico específico y claro aplicable a los seguros para mascotas, un producto que,
+aunque actualmente se ofrece en nuestro mercado, carece de una estructura normativa
+uniforme que garantice divulgaciones claras, prácticas comerciales transparentes y reglas
+mínimas consistentes sobre términos, exclusiones y beneficios. Esta situación puede
+colocar al consumidor en una posición desventajosa al comparar productos, interpretar
+cubiertas o evaluar restricciones de pólizas que suelen contener lenguaje técnico y
+variaciones significativas entre aseguradores.
+De otra parte, también es política pública de esta Asamblea Legislativa promover
+un ambiente reglamentario que, sin sacrificar la fiscalización responsable del
+Comisionado de Seguros, incentive la entrada y competencia de nuevos aseguradores,
+locales, nacionales e internacionales, en el renglón de seguros para mascotas. La
+competencia responsable tiende a ampliar ofertas, estimular innovación y mejorar
+condiciones para los consumidores, particularmente cuando el mercado se desarrolla con
+reglas claras y uniformes.
+A tales fines, en aras de adelantar protecciones necesarias a nuestros consumidores
+y dueños de mascotas, y a su vez promover la entrada al mercado de un mayor número
+3
+de compañías que ofrezcan cubiertas de seguros para mascotas, esta legislación establece
+un proceso sencillo y ágil mediante el cual la Oficina del Comisionado de Seguros podrá
+expedir, con prontitud y conforme a criterios uniformes, las certificaciones y
+autorizaciones necesarias a las compañías aseguradoras que deseen ofrecer este tipo de
+cubierta en Puerto Rico. Lo anterior, sin menoscabar la facultad fiscalizadora del
+Comisionado ni las protecciones mínimas establecidas en el Código de Seguros.
+Cónsono con lo antes expuesto, esta Ley adopta e incorpora en nuestro
+ordenamiento las disposiciones de la ley modelo de la National Association of Insurance
+Commissioners (NAIC), conocida como el Pet Insurance Model Act. La adopción de una ley
+modelo que provee un andamiaje reglamentario probado y que facilita que los productos
+y divulgaciones se estandaricen conforme a las mejores prácticas en las jurisdicciones
+hermanas en los Estados Unidos de América. Además, esta Ley se atempera con una
+tendencia creciente a nivel nacional: múltiples jurisdicciones ya han adoptado legislación
+basada en dicho modelo, incluyendo, entre otras, California, Delaware, Louisiana, Maine,
+Maryland, Nebraska, New Hampshire, Ohio, Pennsylvania, Vermont, Washington y
+recientemente, el estado de Florida, donde entró en vigor el 1ro. de enero de 2026.
+Conscientes de la realidad de la sociedad puertorriqueña, comprometidos con el
+bienestar de los animales y con la protección del consumidor, esta Asamblea Legislativa
+establece las bases uniformes necesarias para que el seguro de mascotas se ofrezca en
+nuestra jurisdicción de manera clara y transparente, fomentando un mercado más
+competitivo que amplíe la disponibilidad de productos de seguro de mascotas y, por
+ende, mayores alternativas a la ciudadanía.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Capítulo 48 de la Ley Núm. 77 de 19 de junio de 1957,
+2 según enmendada, conocida como “Código de Seguros de Puerto Rico”, para que lea
+3 como sigue:
+4 “CAPÍTULO 48 — SEGURO PARA MASCOTAS
+4
+1 Artículo 48.010.— Propósito, alcance y aplicabilidad.
+2 (A) El propósito de este Capítulo es promover el bienestar público mediante la
+3 creación de un marco jurídico integral bajo el cual el seguro para mascotas pueda ser
+4 ofrecido, vendido y administrado en Puerto Rico.
+5 (B) Este Capítulo aplicará a toda póliza de seguro para mascotas solicitada,
+6 negociada, vendida, entregada o emitida para entrega en Puerto Rico, siempre que
+7 dichas pólizas cumplan con los requisitos de radicación y aprobación establecidos en
+8 el Código de Seguros de Puerto Rico y la reglamentación aplicable promulgada por el
+9 Comisionado.
+10 (C) Las disposiciones contenidas en este Código serán de aplicación al seguro de
+11 mascotas. No obstante, los artículos incluidos en este Capítulo prevalecerán sobre
+12 cualquier disposición general del Código que resulte incompatible.
+13 Artículo 48.020.— Definiciones
+14 (A) Los siguientes términos, usados en el contexto de este Capítulo, significarán lo
+15 siguiente:
+16 (a) Administrador de Programa de Seguro de Mascotas – persona natural o
+17 jurídica, distinta del asegurador autorizado o actuando en representación
+18 de este, que diseña, desarrolla, administra, opera, mercadea, coordina o
+19 facilita un programa de seguros para mascotas, incluyendo, sin limitarse a
+20 la inscripción de asegurados, la facturación y cobro de primas, la gestión de
+21 reclamaciones, administración de redes de proveedores, provisión de
+22 plataformas tecnológicas, divulgación de información al consumidor y
+5
+1 atención de servicio al cliente, ya sea directamente o mediante contrato con
+2 un asegurador autorizado, sin que ello releve de responsabilidad legal a la
+3 entidad aseguradora emisora de la póliza conforme a este Código. No se
+4 considerará Administrador de Programa de Seguro de Mascotas cualquier
+5 proveedor o contratista que, bajo acuerdo con el asegurador, provea
+6 servicios auxiliares, tales como plataformas tecnológicas, facturación,
+7 servicio al cliente, procesamiento administrativo u otros servicios
+8 operacionales que no conlleven la administración sustantiva del programa
+9 de seguros.
+10 (b) Anomalía o trastorno congénito - condición presente desde el nacimiento,
+11 heredada o causada por el ambiente, que puede causar o contribuir a una
+12 enfermedad.
+13 (c) Condición crónica - condición que puede tratarse o manejarse, pero no
+14 curarse.
+15 (d) Condición preexistente - cualquier condición respecto la cual, antes de la
+16 fecha de efectividad de la póliza o durante cualquier periodo de espera,
+17 ocurra cualquiera de los siguientes:
+18 (1) un veterinario brindó consejo médico;
+19 (2) la mascota recibió tratamiento previo; o
+20 (3) basado en información de fuentes verificables, la mascota tuvo signos o
+21 síntomas directamente relacionados con la condición por la cual se
+22 somete una reclamación. Una condición para la cual se provea cubierta
+6
+1 bajo una póliza no podrá considerarse condición preexistente en ningún
+2 proceso de renovación de dicha póliza.
+3 (e) Gastos veterinarios - costos asociados con consejo médico, diagnóstico,
+4 cuidado médico o tratamiento provistos por un veterinario autorizado a
+5 ejercer en Puerto Rico, incluyendo medicamentos recetados y servicios
+6 prestados bajo la supervisión directa de dicho profesional.
+7 (f) Mascota - todo perro o gato, y cualquier otra especie doméstica mantenida
+8 principalmente para compañía en el hogar, según definida por reglamento
+9 del Comisionado, excluyendo animales destinados principalmente a uso
+10 agrícola, comercial, de trabajo, de investigación, o vida silvestre. Los
+11 aseguradores podrán establecer mediante las condiciones de sus pólizas las
+12 especies domésticas elegibles para cubierta, conforme a sus criterios de
+13 suscripción y apetito de riesgo.
+14 (g) Ortopédico - condiciones que afectan huesos, músculos esqueléticos,
+15 cartílago, tendones, ligamentos y articulaciones. Incluye, sin limitarse a,
+16 displasia de codo, displasia de cadera, degeneración de disco intervertebral,
+17 luxación patelar y ruptura del ligamento cruzado craneal. No incluye
+18 cánceres ni enfermedades metabólicas, hematopoyéticas o autoinmunes.
+19 (h) Periodo de espera - período establecido en la póliza emitida, que debe
+20 transcurrir antes de que alguna o toda la cubierta comience. Los períodos
+21 de espera no podrán aplicarse a renovaciones de cubierta existentes.
+7
+1 (i) Periodo para examinar y devolver (“free look”) – término mínimo de quince
+2 (15) días que todo asegurador debe otorgar al asegurado adquirente de una
+3 póliza para mascotas, durante el cual el asegurado examina la misma y tiene
+4 derecho a devolverla para su cancelación y reembolso, sin cargos ni
+5 penalidades aplicables, salvo que el asegurado haya presentado una
+6 reclamación durante dicho periodo bajo la póliza.
+7 (j) Programa de bienestar - programa por suscripción o reembolso, separado
+8 de una póliza de seguro, que provee bienes o servicios para promover la
+9 salud, seguridad o bienestar general de la mascota. Cuando, por su
+10 naturaleza o estructura, el programa constituya un contrato o transacción
+11 de seguro bajo el Código, quedará sujeto plenamente a las disposiciones
+12 aplicables del Código.
+13 (k) Radicación y uso (“file-and-use”) – mecanismo regulatorio mediante el cual
+14 un asegurador sujeto a supervisión podrá comenzar a utilizar tarifas,
+15 cargos, primas, términos contractuales, reglas operacionales, formularios y
+16 cualquier otro instrumento regulado, inmediatamente después de haberlos
+17 radicado formalmente ante el Comisionado como entidad reguladora, sin
+18 requerirse aprobación previa, quedando dichos instrumentos sujetos a
+19 revisión, auditoría y posible modificación o nulidad posterior por parte de
+20 la entidad reguladora. Ello incluye la facultad del Comisionado o de la
+21 entidad reguladora correspondiente, para ordenar reembolsos, ajustes o
+22 sanciones en caso de incumplimiento con la ley y el interés público.
+8
+1 (l) Renovación - emisión y entrega de una póliza, que sustituye una póliza
+2 previamente emitida por el mismo asegurador de mascotas o un afiliado del
+3 asegurador, tras haberse culminado el periodo de cubierta previa. La
+4 misma provee tipos y límites de cubierta sustancialmente similares a los de
+5 la póliza sustituida.
+6 (m) Seguro para mascotas - póliza de seguro que provee cubierta para
+7 accidentes y enfermedades de mascotas.
+8 (n) Trastorno hereditario - anormalidad transmitida genéticamente de
+9 progenitor a cría que puede causar enfermedad.
+10 (o) Veterinario - persona que posee una licencia válida para ejercer la práctica
+11 de la medicina veterinaria en Puerto Rico.
+12 (B) Cuando un asegurador utilice en una póliza los términos definidos en este
+13 Capítulo, deberá:
+14 (a) utilizar y aplicar los términos incluidos en este Capítulo según definidos;
+15 (b) incluirlos dentro del texto de la póliza o en un endoso de la misma como
+16 parte del contrato; y
+17 (c) hacerlos disponibles mediante un enlace claro y conspicuo en la página
+18 principal del sitio web del asegurador o del administrador de programa, según
+19 aplique.
+20 Artículo 48.030.— Divulgaciones obligatorias al Consumidor
+9
+1 (A) Todo asegurador que emita y suscriba un seguro para mascotas deberá
+2 divulgar al consumidor, de forma clara y precisa, previo a la compra y emisión de la
+3 póliza lo siguiente:
+4 (a) Si la póliza excluye cubierta por:
+5 (1) condición preexistente;
+6 (2) trastorno hereditario;
+7 (3) anomalía o trastorno congénito; o
+8 (4) condición crónica.
+9 (b) Si la póliza contiene otras exclusiones, una advertencia a los fines de que
+10 otras exclusiones pueden aplicar y que el consumidor debe revisar la
+11 sección de exclusiones de la póliza.
+12 (c) Limitaciones tales como periodos de espera, deducibles, coaseguros, límites
+13 máximos por evento, límites anuales o límites vitalicios, según aplique.
+14 (d) Si el asegurador puede reducir cubierta, modificar condiciones o aumentar
+15 primas por razón de historial de reclamaciones, edad de la mascota o
+16 cambios geográficos del asegurado. Toda modificación relacionada con las
+17 condiciones de la cubierta, así como cualquier aumento de primas basado
+18 en historial de reclamaciones, edad de la mascota o cambios geográficos
+19 del asegurado, deberá contar con la aprobación previa del Comisionado
+20 antes de su implementación.
+21 (e) Si el nombre de la entidad suscriptora es distinto al de la marca utilizada
+22 para mercadear el producto.
+10
+1 (f) El periodo aplicable para examinar y devolver (“free look”). Salvo que el
+2 asegurado haya presentado una reclamación bajo la póliza, el solicitante
+3 tendrá derecho a examinar y devolver la póliza, certificado o endoso dentro
+4 de un término mínimo de quince (15) días de recibida para el reembolso de
+5 la prima pagada. La póliza deberá incluir una notificación específica e
+6 instrucciones claras en torno al proceso de devolución y reembolso.
+7 (g) Transparencia sobre pagos de reclamaciones. El asegurador divulgará, en
+8 la póliza y de forma clara en su página principal, una descripción resumida
+9 de la base o fórmula utilizada para determinar pagos de reclamaciones,
+10 entre estos, reembolso basado en porcentaje de gastos elegibles, tabla de
+11 beneficios y tarifas usuales.
+12 (h) Cuando el asegurador utilice una tabla de beneficios, deberá incluirla en la
+13 póliza y mantenerla accesible en su sitio web, de forma clara y detallada.
+14 (i) Cuando el asegurador limite reembolsos mediante conceptos de tarifas
+15 prevalecientes, usuales u otra metodología basada en tarifas, deberá
+16 describir dicha metodología en la póliza y divulgarla de forma clara y
+17 específica.
+18 (j) Si la póliza requiere examen veterinario para activar la cubierta, el
+19 asegurador deberá divulgar con claridad los elementos requeridos y
+20 advertir que la documentación podría resultar en la aplicación de
+21 exclusiones por condición preexistente, de conformidad con este Capítulo.
+11
+1 (k) Los periodos de espera y los requisitos aplicables deberán divulgarse clara
+2 y específicamente antes de la compra.
+3 (B) El asegurador preparará un documento separado titulado “Divulgación del
+4 Asegurador sobre Disposiciones Importantes de la Póliza”, que contendrá un resumen
+5 de las divulgaciones requeridas en este Artículo. Dicho documento se entregará al
+6 consumidor al emitirse la póliza, en letra no menor de doce (12) puntos, y se publicará
+7 mediante enlace claro y preciso en la página principal del sitio web del asegurador o
+8 del administrador del programa, según aplique.
+9 (C) Al emitir o entregar una nueva póliza, el asegurador incluirá una divulgación
+10 escrita, en letra no menor de doce (12) puntos y en negritas, con la siguiente
+11 información:
+12 (a) dirección postal, número telefónico libre de cargos y dirección electrónica
+13 (sitio web) de la Oficina del Comisionado de Seguros de Puerto Rico;
+14 (b) dirección y teléfono de servicio al cliente del asegurador; y
+15 (c) si la póliza fue emitida o entregada por agente o corredor de seguros, dirección
+16 y teléfono de servicio al cliente del agente/corredor y un aviso recomendando
+17 al titular comunicarse con dicho profesional para asistencia.
+18 Artículo 48.040.— Condiciones mínimas de la póliza
+19 (A) Un asegurador podrá emitir pólizas que excluyan cobertura por condición
+20 preexistente con divulgación adecuada. El asegurador tendrá la responsabilidad de
+21 establecer y probar que la exclusión por condición preexistente aplica a la condición
+22 por la cual el asegurado reclama y se le deniega cubierta.
+12
+1 (B) Un asegurador podrá imponer períodos de espera al inicio de la póliza que no
+2 excedan de treinta (30) días para enfermedades o condiciones ortopédicas no
+3 resultantes de accidente. Se prohíben períodos de espera para accidentes.
+4 (C) Si el asegurador utiliza un periodo de espera permitido, deberá incluir una
+5 disposición contractual que permita renunciar (“waive”) el periodo de espera mediante
+6 examen médico veterinario realizado luego de la compra de la póliza por un
+7 veterinario licenciado. La póliza deberá indicar expresamente si el costo del examen
+8 será sufragado por el asegurado o por el asegurador. El asegurador podrá especificar,
+9 bajo un estándar de razonabilidad, los elementos clínicos y la documentación
+10 necesaria para validar el examen veterinario requerido para la renuncia del periodo
+11 de espera.
+12 (D) El asegurador no podrá requerir examen veterinario como condición para
+13 renovar la póliza.
+14 (E) Si el asegurador incluye dentro del formulario de póliza beneficios
+15 prescriptivos de bienestar o cualquier otro beneficio no relacionado al seguro, estos
+16 pasarán a ser parte del contrato y deberán cumplir con las disposiciones aplicables del
+17 Código, incluyendo las relacionadas a publicidad, divulgación y prácticas desleales.
+18 (F) La elegibilidad de un consumidor para adquirir una póliza de seguro para
+19 mascotas no podrá condicionarse a participar, o no participar en un programa de
+20 bienestar separado.
+21 Artículo 48.050.— Prácticas de venta relacionadas a programas de bienestar
+13
+1 (A) Ningún asegurador, productor, agente, corredor ni cualquier otra persona
+2 natural o jurídica que participe directa o indirectamente en la promoción o venta del
+3 producto podrá:
+4 (a) Mercadear un programa de bienestar como si fuera seguro para mascotas; o
+5 (b) Mercadear un programa de bienestar durante la venta, solicitud o
+6 negociación de un seguro para mascotas, de forma que pueda inducir a
+7 confusión sobre su naturaleza.
+8 (B) Si un programa de bienestar es vendido por un asegurador y/o productor:
+9 (a) Su compra no podrá ser requisito para adquirir el seguro para mascotas.
+10 (b) Su costo deberá ser separado e identificable del costo de la póliza de seguro.
+11 (c) Sus términos y condiciones deberán estar en un documento separado de la
+12 póliza de seguro.
+13 (d) Los productos o cubiertas provistas por el programa no podrán duplicar
+14 productos o cubiertas disponibles bajo la póliza.
+15 (e) La publicidad del programa no podrá ser engañosa y deberá cumplir con
+16 este Código.
+17 (f) El asegurador y/o productor divulgará clara y conspicuamente al
+18 consumidor, en letra no menor de doce (12) puntos y en negritas:
+19 (1) Que los programas de bienestar no constituyen seguro;
+20 (2) La dirección y teléfono de servicio al cliente del asegurador y/o
+21 productor o corredor de récord; y
+14
+1 (3) La dirección postal, número de teléfono libre de cargos y sitio web de
+2 la Oficina del Comisionado de Seguros de Puerto Rico.
+3 (g) Las cubiertas descritas como beneficios de “wellness” dentro del contrato
+4 de póliza constituyen seguro y quedarán sujetas al Código.
+5 Artículo 48.060.— Adiestramiento de productores
+6 (A) Ningún productor podrá vender, solicitar o negociar un producto de seguro
+7 para mascotas sin estar debidamente licenciado conforme a este Código y sin
+8 completar el adiestramiento requerido bajo este Artículo.
+9 (B) Todo asegurador ofrecerá a sus productores adiestramiento adecuado sobre
+10 las cubiertas y condiciones de sus productos de seguro para mascotas.
+11 (C) El adiestramiento incluirá, como mínimo, información sobre:
+12 (a) Condiciones preexistentes y períodos de espera;
+13 (b) Diferencias entre seguro para mascotas y programas de bienestar;
+14 (c) Trastornos hereditarios, anomalías congénitas y condiciones crónicas, y
+15 cómo interactúan con las cubiertas; y
+16 (d) Temas de clasificación, suscripción, renovación y administración de
+17 pólizas.
+18 (D) Adiestramientos similares completados en otras jurisdicciones de los Estados
+19 Unidos podrán ser evaluados por el Comisionado a los fines de determinar su
+20 validación para el cumplimiento del requisito establecido en este Artículo.
+21 Artículo 48.070.— Certificación de Productor de Seguros para Mascotas
+15
+1 (A) Se autoriza al Comisionado a expedir una Certificación de Productor de
+2 Seguros para Mascotas a entidades debidamente organizadas y autorizadas para hacer
+3 negocios en Puerto Rico y que soliciten suscribir seguros para mascotas en Puerto Rico.
+4 (B) La Certificación de Productor de Seguros para Mascotas autoriza únicamente
+5 la transacción del seguro para mascotas según definido en este Capítulo. Para
+6 cualquier otra clase de seguro, el solicitante deberá cumplir con los requisitos y
+7 procedimientos aplicables, conforme a este Código y cualquier otra ley que
+8 corresponda.
+9 (C) El Comisionado deberá establecer mediante reglamentación el proceso
+10 aplicable para la Certificación de Productor de Seguros para Mascotas.
+11 Con el fin de fomentar que entidades aseguradoras que se encuentren ofreciendo
+12 otro tipo de seguros en Puerto Rico incursionen en la industria de seguros para
+13 mascotas, así como para atraer nuevos participantes a este mercado en Puerto Rico, el
+14 procedimiento a establecerse deberá ser uno ágil y sencillo, el cual al menos deberá
+15 incluir:
+16 (a) Radicación electrónica de la solicitud y de los documentos complementarios
+17 que sean requeridos;
+18 (b) Requisitos documentales que incluyan:
+19 (1) Certificado de “good standing” de la entidad solicitante, expedido por el
+20 Departamento de Estado, así como, en los casos aplicables, la evidencia de
+21 autorización para hacer negocios en la jurisdicción de domicilio;
+22 (2) estados financieros auditados;
+16
+1 (3) nombramiento de representante autorizado para recibir notificaciones en
+2 Puerto Rico;
+3 (4) plan operacional y de servicio al consumidor aplicable a Puerto Rico.
+4 (c) Criterios de reconocimiento o equivalencia para solicitantes autorizados en
+5 jurisdicciones con marcos regulatorios sustancialmente similares, incluyendo
+6 jurisdicciones acreditadas por organismos reguladores reconocidos, según determine
+7 el Comisionado por reglamento.
+8 Nada de lo aquí dispuesto limitará la autoridad del Comisionado para requerir
+9 evidencia de solvencia, reaseguro, o garantías razonables, ni para denegar, suspender
+10 o revocar un certificado cuando exista justa causa y conforme al debido proceso de
+11 ley.
+12 El Comisionado dispondrá de un término máximo de noventa (90) días para emitir
+13 la determinación administrativa una vez la solicitud esté completada.
+14 Artículo 48.080.— Presentación y aprobación de formularios y tarifas
+15 (A) Los formularios, endosos, divulgaciones y tarifas aplicables al seguro para
+16 mascotas deberán someterse a la Oficina del Comisionado de Seguros para su revisión
+17 y aprobación previa, conforme a las disposiciones aplicables del Código de Seguros.
+18 (B) El Comisionado podrá, mediante reglamento, establecer categorías de revisión,
+19 incluyendo modificaciones no sustantivas o estandarizadas, y podrá ordenar
+20 correcciones cuando identifique lenguaje ambiguo, engañoso, o incompatible con este
+21 Capítulo o con el Código.
+17
+1 (C) Si el Comisionado determina que un formulario o tarifa viola las disposiciones
+2 de este Código o de la reglamentación que se apruebe, conforme a lo establecido en
+3 este Capítulo, podrá ordenar su corrección o la suspensión de su uso
+4 prospectivamente, sin perjuicio de la imposición de otros remedios, sanciones, así
+5 como restitución o reembolsos cuando corresponda.
+6 Artículo 48.090.— Administradores de programa
+7 (A) Un asegurador podrá designar un administrador de programa para el
+8 mercadeo, la administración o prestación de servicios de seguro para mascotas. No
+9 obstante, el asegurador continuará siendo responsable por el cumplimiento del
+10 Código y de este Capítulo.
+11 (B) El Comisionado podrá requerir a administradores de programa un registro,
+12 información corporativa mínima, así como establecer mecanismos de fiscalización
+13 adecuados.
+14 Artículo 48.100.— Violaciones y penalidades
+15 Las violaciones a este Capítulo estarán sujetas a las penalidades, sanciones y
+16 remedios administrativos aplicables del Código, incluyendo las disposiciones sobre
+17 prácticas desleales, publicidad engañosa, multas, y cualesquiera otros remedios
+18 disponibles en derecho.”
+19 Sección 2.– Reglamentación
+20 Dentro de un término de noventa (90) días siguientes a la aprobación de esta Ley,
+21 el Comisionado deberá promulgar la reglamentación correspondiente para la
+22 implementación efectiva de esta Ley.
+18
+1 Sección 3.– Disposiciones transitorias
+2 (A) Los aseguradores o productores que al presente estén ofreciendo productos
+3 que constituyan seguro para mascotas en Puerto Rico, deberán cumplir con las
+4 divulgaciones y requisitos mínimos de este Capítulo dentro de un término máximo de
+5 ciento ochenta (180) días de la aprobación de esta Ley.
+6 (B) El Comisionado queda autorizado para emitir cartas circulares, órdenes,
+7 normas interpretativas o reglamentos de emergencia, cuando sea necesario para lograr
+8 una transición ordenada y en cumplimiento con la normativa aplicable.
+9 Sección 4.- Separabilidad
+10 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, artículo, disposición,
+11 sección o parte de esta Ley fuere declarada inconstitucional o inválida por un tribunal
+12 competente, la sentencia a tal efecto no afectará, perjudicará ni invalidará el resto de
+13 esta Ley. El efecto de dicha sentencia quedará limitado a la cláusula, párrafo,
+14 subpárrafo, oración, palabra, artículo, disposición, sección o parte así declarada.
+15 Sección 5.- Vigencia
+16 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL   e e C 4 d l L N 7 d 1 d j d 1 s m y u a c d t a r b d p y p d m f a]
+[DELETED:    c s t e y b E s p o e r d p q s c l t y a r q s s l f r d n e i e e r d s p m L r t a a o e i y m]
+[DELETED:  c p y c a c u l c y e P R  L a s m l f f d c l a e e L a e i e nsP . N N H O P V W y j d m c y t f u m m]
+[DELETED:  E C a a t p d s p m s)A e q d d a o m c o a d r d p p d t d d i a c y]
+[DELETED:  o c q b a c e a p a t c p t f a c p a u o s)A)C c - c q p t o m p n)C d r c l c p l c s]
+[DELETED: )G v - c a c c m d e P R i m r y s)M C e a d p a u c d t d i o v s  L d e p c c a s c d)O - c q a h m e p y r d l c c N i)P d e - p e e l p e q d]
+[DELETED: )P a d p s c y r s c n a s q e a h p u)P s o b g d l m C p s)R a s a s p c a u t a p q d i s a r c p o r a o]
+[DELETED: )R t h c e p d c p  L)S p m - p d s q p c p)T h - a t g d)V]
+[DELETED:  T a q e y s u s p m d e p a y q e c d r l p r d h d r e d l m o]
+[DELETED:  p p L p d i u n e e C e a l r m c d t u u o m b e t d d m e l p y d d f c y S l p r e v p a l c e d d c c l e r y q l d p r e l a d]
+[DELETED:  e l n m d d ( p y e n c l s a p e p q e c p c]
+[DELETED:  d t ( d p e o c o n“” m v r l d l c d l p p u u e d r l e c y l d E a n p r e v c c p S e a i d d f d p b]
+[DELETED:  M u p d b d l v s o E a y p d c y c a)Q)L d y t d s a c d a y]
+[DELETED: )L“” m s e d l c a e C y s T d c s r y a d p s e p e C a l f d d s]
+[DELETED:  S a a C a e u C d P d t d s p m s d e e C P o c d s e s d c c l r y a c a e C y c o l q E C d e m r e p t d s e P R i e l i d s p“”]
+[DELETED:  C d r o e p s a e c m r s s i m n s o e y p o]
+[DELETED:  C p o s c o l s d s u r U a p d u a d p p e e a c s r p e c d c m a c e m d f v a e C e s a l p s y d p e m y c o r C d p l r c p l]
+[DELETED:  c s p m e P R d c c l E C q a p e c c ó L E e d d s q l a l c p]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(23 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 976
+22 de enero de 2026
+Presentado por el señor Rivera Schatz
+Coautores las señoras Álvarez Conde, Barlucea Rodríguez; los señores González López, Reyes
+Berríos; la señora Román Rodríguez; el señor Rosa Ramos; la señora Soto Tolentino; y los
+señores Sánchez Alvarez, Santos Ortiz y Toledo López
+Referido a la Comisión de Familia, Mujer, Personas de la Tercera Edad y Población con
+Diversidad Funcional e Impedimentos
+LEY
+Para enmendar el Capítulo 48 de la Ley Núm. 77 de 19 de junio de 1957, según
+enmendada, conocida como “Código de Seguros de Puerto Rico”, a los fines de
+regular el ofrecimiento y la venta de pólizas de seguros para mascotas, establecer
+divulgaciones mínimas y uniformes al consumidor, definir términos aplicables,
+disponer requisitos básicos de póliza y prácticas de mercadeo, facultar al
+Comisionado de Seguros para su implantación y fiscalización; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La relación entre las familias puertorriqueñas y sus mascotas ha evolucionado de
+forma acelerada en los pasados años. Actualmente, los animales de compañía ocupan un
+lugar central y significativo en gran parte de los hogares. Con ello, surge una necesidad
+real de contar con herramientas modernas que faciliten el acceso a servicios veterinarios
+y, a su vez, que permitan a los consumidores y dueños de mascotas, manejar el impacto
+económico derivado de enfermedades y accidentes que estas pueden padecer.
+
+2
+Según datos divulgados por el estudio de Radiografía del Consumidor que elaboró la
+Cámara de Mercadeo, Industria y Distribución de Alimentos en Puerto Rico (MIDA),
+para el 2023, aproximadamente el 48% de los hogares en Puerto Rico tiene mascotas, lo
+cual equivale a cerca de 643,000 hogares. Este fenómeno tiene un efecto directo en la
+economía familiar. El mismo análisis señala que los hogares con mascotas reportan una
+canasta mensual promedio mayor a la de los hogares sin mascotas, y que el gasto mensual
+en alimentos para mascotas ronda en aproximadamente $92 por hogar, además de un
+crecimiento significativo en esa categoría.
+En otras palabras, se trata de un mercado consolidado y en constante crecimiento,
+con consecuencias tangibles para el presupuesto de las familias puertorriqueñas y para
+la protección del consumidor.
+A la luz de ese contexto, esta Asamblea Legislativa entiende meritorio establecer un
+marco jurídico específico y claro aplicable a los seguros para mascotas, un producto que,
+aunque actualmente se ofrece en nuestro mercado, carece de una estructura normativa
+uniforme que garantice divulgaciones claras, prácticas comerciales transparentes y reglas
+mínimas consistentes sobre términos, exclusiones y beneficios. Esta situación puede
+colocar al consumidor en una posición desventajosa al comparar productos, interpretar
+cubiertas o evaluar restricciones de pólizas que suelen contener lenguaje técnico y
+variaciones significativas entre aseguradores.
+De otra parte, también es política pública de esta Asamblea Legislativa promover
+un ambiente reglamentario que, sin sacrificar la fiscalización responsable del
+Comisionado de Seguros, incentive la entrada y competencia de nuevos aseguradores,
+locales, nacionales e internacionales, en el renglón de seguros para mascotas. La
+competencia responsable tiende a ampliar ofertas, estimular innovación y mejorar
+condiciones para los consumidores, particularmente cuando el mercado se desarrolla con
+reglas claras y uniformes.
+A tales fines, en aras de adelantar protecciones necesarias a nuestros consumidores
+y dueños de mascotas, y a su vez promover la entrada al mercado de un mayor número
+
+3
+de compañías que ofrezcan cubiertas de seguros para mascotas, esta legislación establece
+un proceso sencillo y ágil mediante el cual la Oficina del Comisionado de Seguros podrá
+expedir, con prontitud y conforme a criterios uniformes, las certificaciones y
+autorizaciones necesarias a las compañías aseguradoras que deseen ofrecer este tipo de
+cubierta en Puerto Rico. Lo anterior, sin menoscabar la facultad fiscalizadora del
+Comisionado ni las protecciones mínimas establecidas en el Código de Seguros.
+Cónsono con lo antes expuesto, esta Ley adopta e incorpora en nuestro
+ordenamiento las disposiciones de la ley modelo de la National Association of Insurance
+Commissioners (NAIC), conocida como el Pet Insurance Model Act. La adopción de una ley
+modelo que provee un andamiaje reglamentario probado y que facilita que los productos
+y divulgaciones se estandaricen conforme a las mejores prácticas en las jurisdicciones
+hermanas en los Estados Unidos de América. Además, esta Ley se atempera con una
+tendencia creciente a nivel nacional: múltiples jurisdicciones ya han adoptado legislación
+basada en dicho modelo, incluyendo, entre otras, California, Delaware, Louisiana, Maine,
+Maryland, Nebraska, New Hampshire, Ohio, Pennsylvania, Vermont, Washington y
+recientemente, el estado de Florida, donde entró en vigor el 1ro. de enero de 2026.
+Conscientes de la realidad de la sociedad puertorriqueña, comprometidos con el
+bienestar de los animales y con la protección del consumidor, esta Asamblea Legislativa
+establece las bases uniformes necesarias para que el seguro de mascotas se ofrezca en
+nuestra jurisdicción de manera clara y transparente, fomentando un mercado más
+competitivo que amplíe la disponibilidad de productos de seguro de mascotas y, por
+ende, mayores alternativas a la ciudadanía.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Capítulo 48 de la Ley Núm. 77 de 19 de junio de 1957,
+2 según enmendada, conocida como “Código de Seguros de Puerto Rico”, para que lea
+3 como sigue:
+4 “CAPÍTULO 48 — SEGURO PARA MASCOTAS
+
+4
+1 Artículo 48.010.— Propósito, alcance y aplicabilidad.
+2 (A) El propósito de este Capítulo es promover el bienestar público mediante la
+3 creación de un marco jurídico integral bajo el cual el seguro para mascotas pueda ser
+4 ofrecido, vendido y administrado en Puerto Rico.
+5 (B) Este Capítulo aplicará a toda póliza de seguro para mascotas solicitada,
+6 negociada, vendida, entregada o emitida para entrega en Puerto Rico, siempre que
+7 dichas pólizas cumplan con los requisitos de radicación y aprobación establecidos en
+8 el Código de Seguros de Puerto Rico y la reglamentación aplicable promulgada por el
+9 Comisionado.
+10 (C) Las disposiciones contenidas en este Código serán de aplicación al seguro de
+11 mascotas. No obstante, los artículos incluidos en este Capítulo prevalecerán sobre
+12 cualquier disposición general del Código que resulte incompatible.
+13 Artículo 48.020.— Definiciones
+14 (A) Los siguientes términos, usados en el contexto de este Capítulo, significarán lo
+15 siguiente:
+16 (a) Administrador de Programa de Seguro de Mascotas – persona natural o
+17 jurídica, distinta del asegurador autorizado o actuando en representación
+18 de este, que diseña, desarrolla, administra, opera, mercadea, coordina o
+19 facilita un programa de seguros para mascotas, incluyendo, sin limitarse a
+20 la inscripción de asegurados, la facturación y cobro de primas, la gestión de
+21 reclamaciones, administración de redes de proveedores, provisión de
+22 plataformas tecnológicas, divulgación de información al consumidor y
+
+5
+1 atención de servicio al cliente, ya sea directamente o mediante contrato con
+2 un asegurador autorizado, sin que ello releve de responsabilidad legal a la
+3 entidad aseguradora emisora de la póliza conforme a este Código. No se
+4 considerará Administrador de Programa de Seguro de Mascotas cualquier
+5 proveedor o contratista que, bajo acuerdo con el asegurador, provea
+6 servicios auxiliares, tales como plataformas tecnológicas, facturación,
+7 servicio al cliente, procesamiento administrativo u otros servicios
+8 operacionales que no conlleven la administración sustantiva del programa
+9 de seguros.
+10 (b) Anomalía o trastorno congénito - condición presente desde el nacimiento,
+11 heredada o causada por el ambiente, que puede causar o contribuir a una
+12 enfermedad.
+13 (c) Condición crónica - condición que puede tratarse o manejarse, pero no
+14 curarse.
+15 (d) Condición preexistente - cualquier condición respecto la cual, antes de la
+16 fecha de efectividad de la póliza o durante cualquier periodo de espera,
+17 ocurra cualquiera de los siguientes:
+18 (1) un veterinario brindó consejo médico;
+19 (2) la mascota recibió tratamiento previo; o
+20 (3) basado en información de fuentes verificables, la mascota tuvo signos o
+21 síntomas directamente relacionados con la condición por la cual se
+22 somete una reclamación. Una condición para la cual se provea cubierta
+
+6
+1 bajo una póliza no podrá considerarse condición preexistente en ningún
+2 proceso de renovación de dicha póliza.
+3 (e) Gastos veterinarios - costos asociados con consejo médico, diagnóstico,
+4 cuidado médico o tratamiento provistos por un veterinario autorizado a
+5 ejercer en Puerto Rico, incluyendo medicamentos recetados y servicios
+6 prestados bajo la supervisión directa de dicho profesional.
+7 (f) Mascota - todo perro o gato, y cualquier otra especie doméstica mantenida
+8 principalmente para compañía en el hogar, según definida por reglamento
+9 del Comisionado, excluyendo animales destinados principalmente a uso
+10 agrícola, comercial, de trabajo, de investigación, o vida silvestre. Los
+11 aseguradores podrán establecer mediante las condiciones de sus pólizas las
+12 especies domésticas elegibles para cubierta, conforme a sus criterios de
+13 suscripción y apetito de riesgo.
+14 (g) Ortopédico - condiciones que afectan huesos, músculos esqueléticos,
+15 cartílago, tendones, ligamentos y articulaciones. Incluye, sin limitarse a,
+16 displasia de codo, displasia de cadera, degeneración de disco intervertebral,
+17 luxación patelar y ruptura del ligamento cruzado craneal. No incluye
+18 cánceres ni enfermedades metabólicas, hematopoyéticas o autoinmunes.
+19 (h) Periodo de espera - período establecido en la póliza emitida, que debe
+20 transcurrir antes de que alguna o toda la cubierta comience. Los períodos
+21 de espera no podrán aplicarse a renovaciones de cubierta existentes.
+
+7
+1 (i) Periodo para examinar y devolver (“free look”) – término mínimo de quince
+2 (15) días que todo asegurador debe otorgar al asegurado adquirente de una
+3 póliza para mascotas, durante el cual el asegurado examina la misma y tiene
+4 derecho a devolverla para su cancelación y reembolso, sin cargos ni
+5 penalidades aplicables, salvo que el asegurado haya presentado una
+6 reclamación durante dicho periodo bajo la póliza.
+7 (j) Programa de bienestar - programa por suscripción o reembolso, separado
+8 de una póliza de seguro, que provee bienes o servicios para promover la
+9 salud, seguridad o bienestar general de la mascota. Cuando, por su
+10 naturaleza o estructura, el programa constituya un contrato o transacción
+11 de seguro bajo el Código, quedará sujeto plenamente a las disposiciones
+12 aplicables del Código.
+13 (k) Radicación y uso (“file-and-use”) – mecanismo regulatorio mediante el cual
+14 un asegurador sujeto a supervisión podrá comenzar a utilizar tarifas,
+15 cargos, primas, términos contractuales, reglas operacionales, formularios y
+16 cualquier otro instrumento regulado, inmediatamente después de haberlos
+17 radicado formalmente ante el Comisionado como entidad reguladora, sin
+18 requerirse aprobación previa, quedando dichos instrumentos sujetos a
+19 revisión, auditoría y posible modificación o nulidad posterior por parte de
+20 la entidad reguladora. Ello incluye la facultad del Comisionado o de la
+21 entidad reguladora correspondiente, para ordenar reembolsos, ajustes o
+22 sanciones en caso de incumplimiento con la ley y el interés público.
+
+8
+1 (l) Renovación - emisión y entrega de una póliza, que sustituye una póliza
+2 previamente emitida por el mismo asegurador de mascotas o un afiliado del
+3 asegurador, tras haberse culminado el periodo de cubierta previa. La
+4 misma provee tipos y límites de cubierta sustancialmente similares a los de
+5 la póliza sustituida.
+6 (m) Seguro para mascotas - póliza de seguro que provee cubierta para
+7 accidentes y enfermedades de mascotas.
+8 (n) Trastorno hereditario - anormalidad transmitida genéticamente de
+9 progenitor a cría que puede causar enfermedad.
+10 (o) Veterinario - persona que posee una licencia válida para ejercer la práctica
+11 de la medicina veterinaria en Puerto Rico.
+12 (B) Cuando un asegurador utilice en una póliza los términos definidos en este
+13 Capítulo, deberá:
+14 (a) utilizar y aplicar los términos incluidos en este Capítulo según definidos;
+15 (b) incluirlos dentro del texto de la póliza o en un endoso de la misma como
+16 parte del contrato; y
+17 (c) hacerlos disponibles mediante un enlace claro y conspicuo en la página
+18 principal del sitio web del asegurador o del administrador de programa, según
+19 aplique.
+20 Artículo 48.030.— Divulgaciones obligatorias al Consumidor
+
+9
+1 (A) Todo asegurador que emita y suscriba un seguro para mascotas deberá
+2 divulgar al consumidor, de forma clara y precisa, previo a la compra y emisión de la
+3 póliza lo siguiente:
+4 (a) Si la póliza excluye cubierta por:
+5 (1) condición preexistente;
+6 (2) trastorno hereditario;
+7 (3) anomalía o trastorno congénito; o
+8 (4) condición crónica.
+9 (b) Si la póliza contiene otras exclusiones, una advertencia a los fines de que
+10 otras exclusiones pueden aplicar y que el consumidor debe revisar la
+11 sección de exclusiones de la póliza.
+12 (c) Limitaciones tales como periodos de espera, deducibles, coaseguros, límites
+13 máximos por evento, límites anuales o límites vitalicios, según aplique.
+14 (d) Si el asegurador puede reducir cubierta, modificar condiciones o aumentar
+15 primas por razón de historial de reclamaciones, edad de la mascota o
+16 cambios geográficos del asegurado. Toda modificación relacionada con las
+17 condiciones de la cubierta, así como cualquier aumento de primas basado
+18 en historial de reclamaciones, edad de la mascota o cambios geográficos
+19 del asegurado, deberá contar con la aprobación previa del Comisionado
+20 antes de su implementación.
+21 (e) Si el nombre de la entidad suscriptora es distinto al de la marca utilizada
+22 para mercadear el producto.
+
+10
+1 (f) El periodo aplicable para examinar y devolver (“free look”). Salvo que el
+2 asegurado haya presentado una reclamación bajo la póliza, el solicitante
+3 tendrá derecho a examinar y devolver la póliza, certificado o endoso dentro
+4 de un término mínimo de quince (15) días de recibida para el reembolso de
+5 la prima pagada. La póliza deberá incluir una notificación específica e
+6 instrucciones claras en torno al proceso de devolución y reembolso.
+7 (g) Transparencia sobre pagos de reclamaciones. El asegurador divulgará, en
+8 la póliza y de forma clara en su página principal, una descripción resumida
+9 de la base o fórmula utilizada para determinar pagos de reclamaciones,
+10 entre estos, reembolso basado en porcentaje de gastos elegibles, tabla de
+11 beneficios y tarifas usuales.
+12 (h) Cuando el asegurador utilice una tabla de beneficios, deberá incluirla en la
+13 póliza y mantenerla accesible en su sitio web, de forma clara y detallada.
+14 (i) Cuando el asegurador limite reembolsos mediante conceptos de tarifas
+15 prevalecientes, usuales u otra metodología basada en tarifas, deberá
+16 describir dicha metodología en la póliza y divulgarla de forma clara y
+17 específica.
+18 (j) Si la póliza requiere examen veterinario para activar la cubierta, el
+19 asegurador deberá divulgar con claridad los elementos requeridos y
+20 advertir que la documentación podría resultar en la aplicación de
+21 exclusiones por condición preexistente, de conformidad con este Capítulo.
+
+11
+1 (k) Los periodos de espera y los requisitos aplicables deberán divulgarse clara
+2 y específicamente antes de la compra.
+3 (B) El asegurador preparará un documento separado titulado “Divulgación del
+4 Asegurador sobre Disposiciones Importantes de la Póliza”, que contendrá un resumen
+5 de las divulgaciones requeridas en este Artículo. Dicho documento se entregará al
+6 consumidor al emitirse la póliza, en letra no menor de doce (12) puntos, y se publicará
+7 mediante enlace claro y preciso en la página principal del sitio web del asegurador o
+8 del administrador del programa, según aplique.
+9 (C) Al emitir o entregar una nueva póliza, el asegurador incluirá una divulgación
+10 escrita, en letra no menor de doce (12) puntos y en negritas, con la siguiente
+11 información:
+12 (a) dirección postal, número telefónico libre de cargos y dirección electrónica
+13 (sitio web) de la Oficina del Comisionado de Seguros de Puerto Rico;
+14 (b) dirección y teléfono de servicio al cliente del asegurador; y
+15 (c) si la póliza fue emitida o entregada por agente o corredor de seguros, dirección
+16 y teléfono de servicio al cliente del agente/corredor y un aviso recomendando
+17 al titular comunicarse con dicho profesional para asistencia.
+18 Artículo 48.040.— Condiciones mínimas de la póliza
+19 (A) Un asegurador podrá emitir pólizas que excluyan cobertura por condición
+20 preexistente con divulgación adecuada. El asegurador tendrá la responsabilidad de
+21 establecer y probar que la exclusión por condición preexistente aplica a la condición
+22 por la cual el asegurado reclama y se le deniega cubierta.
+
+12
+1 (B) Un asegurador podrá imponer períodos de espera al inicio de la póliza que no
+2 excedan de treinta (30) días para enfermedades o condiciones ortopédicas no
+3 resultantes de accidente. Se prohíben períodos de espera para accidentes.
+4 (C) Si el asegurador utiliza un periodo de espera permitido, deberá incluir una
+5 disposición contractual que permita renunciar (“waive”) el periodo de espera mediante
+6 examen médico veterinario realizado luego de la compra de la póliza por un
+7 veterinario licenciado. La póliza deberá indicar expresamente si el costo del examen
+8 será sufragado por el asegurado o por el asegurador. El asegurador podrá especificar,
+9 bajo un estándar de razonabilidad, los elementos clínicos y la documentación
+10 necesaria para validar el examen veterinario requerido para la renuncia del periodo
+11 de espera.
+12 (D) El asegurador no podrá requerir examen veterinario como condición para
+13 renovar la póliza.
+14 (E) Si el asegurador incluye dentro del formulario de póliza beneficios
+15 prescriptivos de bienestar o cualquier otro beneficio no relacionado al seguro, estos
+16 pasarán a ser parte del contrato y deberán cumplir con las disposiciones aplicables del
+17 Código, incluyendo las relacionadas a publicidad, divulgación y prácticas desleales.
+18 (F) La elegibilidad de un consumidor para adquirir una póliza de seguro para
+19 mascotas no podrá condicionarse a participar, o no participar en un programa de
+20 bienestar separado.
+21 Artículo 48.050.— Prácticas de venta relacionadas a programas de bienestar
+
+13
+1 (A) Ningún asegurador, productor, agente, corredor ni cualquier otra persona
+2 natural o jurídica que participe directa o indirectamente en la promoción o venta del
+3 producto podrá:
+4 (a) Mercadear un programa de bienestar como si fuera seguro para mascotas; o
+5 (b) Mercadear un programa de bienestar durante la venta, solicitud o
+6 negociación de un seguro para mascotas, de forma que pueda inducir a
+7 confusión sobre su naturaleza.
+8 (B) Si un programa de bienestar es vendido por un asegurador y/o productor:
+9 (a) Su compra no podrá ser requisito para adquirir el seguro para mascotas.
+10 (b) Su costo deberá ser separado e identificable del costo de la póliza de seguro.
+11 (c) Sus términos y condiciones deberán estar en un documento separado de la
+12 póliza de seguro.
+13 (d) Los productos o cubiertas provistas por el programa no podrán duplicar
+14 productos o cubiertas disponibles bajo la póliza.
+15 (e) La publicidad del programa no podrá ser engañosa y deberá cumplir con
+16 este Código.
+17 (f) El asegurador y/o productor divulgará clara y conspicuamente al
+18 consumidor, en letra no menor de doce (12) puntos y en negritas:
+19 (1) Que los programas de bienestar no constituyen seguro;
+20 (2) La dirección y teléfono de servicio al cliente del asegurador y/o
+21 productor o corredor de récord; y
+
+14
+1 (3) La dirección postal, número de teléfono libre de cargos y sitio web de
+2 la Oficina del Comisionado de Seguros de Puerto Rico.
+3 (g) Las cubiertas descritas como beneficios de “wellness” dentro del contrato
+4 de póliza constituyen seguro y quedarán sujetas al Código.
+5 Artículo 48.060.— Adiestramiento de productores
+6 (A) Ningún productor podrá vender, solicitar o negociar un producto de seguro
+7 para mascotas sin estar debidamente licenciado conforme a este Código y sin
+8 completar el adiestramiento requerido bajo este Artículo.
+9 (B) Todo asegurador ofrecerá a sus productores adiestramiento adecuado sobre
+10 las cubiertas y condiciones de sus productos de seguro para mascotas.
+11 (C) El adiestramiento incluirá, como mínimo, información sobre:
+12 (a) Condiciones preexistentes y períodos de espera;
+13 (b) Diferencias entre seguro para mascotas y programas de bienestar;
+14 (c) Trastornos hereditarios, anomalías congénitas y condiciones crónicas, y
+15 cómo interactúan con las cubiertas; y
+16 (d) Temas de clasificación, suscripción, renovación y administración de
+17 pólizas.
+18 (D) Adiestramientos similares completados en otras jurisdicciones de los Estados
+19 Unidos podrán ser evaluados por el Comisionado a los fines de determinar su
+20 validación para el cumplimiento del requisito establecido en este Artículo.
+21 Artículo 48.070.— Certificación de Productor de Seguros para Mascotas
+
+15
+1 (A) Se autoriza al Comisionado a expedir una Certificación de Productor de
+2 Seguros para Mascotas a entidades debidamente organizadas y autorizadas para hacer
+3 negocios en Puerto Rico y que soliciten suscribir seguros para mascotas en Puerto Rico.
+4 (B) La Certificación de Productor de Seguros para Mascotas autoriza únicamente
+5 la transacción del seguro para mascotas según definido en este Capítulo. Para
+6 cualquier otra clase de seguro, el solicitante deberá cumplir con los requisitos y
+7 procedimientos aplicables, conforme a este Código y cualquier otra ley que
+8 corresponda.
+9 (C) El Comisionado deberá establecer mediante reglamentación el proceso
+10 aplicable para la Certificación de Productor de Seguros para Mascotas.
+11 Con el fin de fomentar que entidades aseguradoras que se encuentren ofreciendo
+12 otro tipo de seguros en Puerto Rico incursionen en la industria de seguros para
+13 mascotas, así como para atraer nuevos participantes a este mercado en Puerto Rico, el
+14 procedimiento a establecerse deberá ser uno ágil y sencillo, el cual al menos deberá
+15 incluir:
+16 (a) Radicación electrónica de la solicitud y de los documentos complementarios
+17 que sean requeridos;
+18 (b) Requisitos documentales que incluyan:
+19 (1) Certificado de “good standing” de la entidad solicitante, expedido por el
+20 Departamento de Estado, así como, en los casos aplicables, la evidencia de
+21 autorización para hacer negocios en la jurisdicción de domicilio;
+22 (2) estados financieros auditados;
+
+16
+1 (3) nombramiento de representante autorizado para recibir notificaciones en
+2 Puerto Rico;
+3 (4) plan operacional y de servicio al consumidor aplicable a Puerto Rico.
+4 (c) Criterios de reconocimiento o equivalencia para solicitantes autorizados en
+5 jurisdicciones con marcos regulatorios sustancialmente similares, incluyendo
+6 jurisdicciones acreditadas por organismos reguladores reconocidos, según determine
+7 el Comisionado por reglamento.
+8 Nada de lo aquí dispuesto limitará la autoridad del Comisionado para requerir
+9 evidencia de solvencia, reaseguro, o garantías razonables, ni para denegar, suspender
+10 o revocar un certificado cuando exista justa causa y conforme al debido proceso de
+11 ley.
+12 El Comisionado dispondrá de un término máximo de noventa (90) días para emitir
+13 la determinación administrativa una vez la solicitud esté completada.
+14 Artículo 48.080.— Presentación y aprobación de formularios y tarifas
+15 (A) Los formularios, endosos, divulgaciones y tarifas aplicables al seguro para
+16 mascotas deberán someterse a la Oficina del Comisionado de Seguros para su revisión
+17 y aprobación previa, conforme a las disposiciones aplicables del Código de Seguros.
+18 (B) El Comisionado podrá, mediante reglamento, establecer categorías de revisión,
+19 incluyendo modificaciones no sustantivas o estandarizadas, y podrá ordenar
+20 correcciones cuando identifique lenguaje ambiguo, engañoso, o incompatible con este
+21 Capítulo o con el Código.
+
+17
+1 (C) Si el Comisionado determina que un formulario o tarifa viola las disposiciones
+2 de este Código o de la reglamentación que se apruebe, conforme a lo establecido en
+3 este Capítulo, podrá ordenar su corrección o la suspensión de su uso
+4 prospectivamente, sin perjuicio de la imposición de otros remedios, sanciones, así
+5 como restitución o reembolsos cuando corresponda.
+6 Artículo 48.090.— Administradores de programa
+7 (A) Un asegurador podrá designar un administrador de programa para el
+8 mercadeo, la administración o prestación de servicios de seguro para mascotas. No
+9 obstante, el asegurador continuará siendo responsable por el cumplimiento del
+10 Código y de este Capítulo.
+11 (B) El Comisionado podrá requerir a administradores de programa un registro,
+12 información corporativa mínima, así como establecer mecanismos de fiscalización
+13 adecuados.
+14 Artículo 48.100.— Violaciones y penalidades
+15 Las violaciones a este Capítulo estarán sujetas a las penalidades, sanciones y
+16 remedios administrativos aplicables del Código, incluyendo las disposiciones sobre
+17 prácticas desleales, publicidad engañosa, multas, y cualesquiera otros remedios
+18 disponibles en derecho.”
+19 Sección 2.– Reglamentación
+20 Dentro de un término de noventa (90) días siguientes a la aprobación de esta Ley,
+21 el Comisionado deberá promulgar la reglamentación correspondiente para la
+22 implementación efectiva de esta Ley.
+
+18
+1 Sección 3.– Disposiciones transitorias
+2 (A) Los aseguradores o productores que al presente estén ofreciendo productos
+3 que constituyan seguro para mascotas en Puerto Rico, deberán cumplir con las
+4 divulgaciones y requisitos mínimos de este Capítulo dentro de un término máximo de
+5 ciento ochenta (180) días de la aprobación de esta Ley.
+6 (B) El Comisionado queda autorizado para emitir cartas circulares, órdenes,
+7 normas interpretativas o reglamentos de emergencia, cuando sea necesario para lograr
+8 una transición ordenada y en cumplimiento con la normativa aplicable.
+9 Sección 4.- Separabilidad
+10 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, artículo, disposición,
+11 sección o parte de esta Ley fuere declarada inconstitucional o inválida por un tribunal
+12 competente, la sentencia a tal efecto no afectará, perjudicará ni invalidará el resto de
+13 esta Ley. El efecto de dicha sentencia quedará limitado a la cláusula, párrafo,
+14 subpárrafo, oración, palabra, artículo, disposición, sección o parte así declarada.
+15 Sección 5.- Vigencia
+16 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL   e e C 4 d l L N 7 d 1 d j d 1 s m y u a c d t a r b d p y p d m f a]
+[DELETED:    c s t e y b E s p o e r d p q s c l t y a r q s s l f r d n e i e e r d s p m L r t a a o e i y m]
+[DELETED:  c p y c a c u l c y e P R  L a s m l f f d c l a e e L a e i e nsP . N N H O P V W y j d m c y t f u m m]
+[DELETED:  E C a a t p d s p m s)A e q d d a o m c o a d r d p p d t d d i a c y]
+[DELETED:  o c q b a c e a p a t c p t f a c p a u o s)A)C c - c q p t o m p n)C d r c l c p l c s]
+[DELETED: )G v - c a c c m d e P R i m r y s)M C e a d p a u c d t d i o v s  L d e p c c a s c d)O - c q a h m e p y r d l c c N i)P d e - p e e l p e q d]
+[DELETED: )P a d p s c y r s c n a s q e a h p u)P s o b g d l m C p s)R a s a s p c a u t a p q d i s a r c p o r a o]
+[DELETED: )R t h c e p d c p  L)S p m - p d s q p c p)T h - a t g d)V]
+[DELETED:  T a q e y s u s p m d e p a y q e c d r l p r d h d r e d l m o]
+[DELETED:  p p L p d i u n e e C e a l r m c d t u u o m b e t d d m e l p y d d f c y S l p r e v p a l c e d d c c l e r y q l d p r e l a d]
+[DELETED:  e l n m d d ( p y e n c l s a p e p q e c p c]
+[DELETED:  d t ( d p e o c o n“” m v r l d l c d l p p u u e d r l e c y l d E a n p r e v c c p S e a i d d f d p b]
+[DELETED:  M u p d b d l v s o E a y p d c y c a)Q)L d y t d s a c d a y]
+[DELETED: )L“” m s e d l c a e C y s T d c s r y a d p s e p e C a l f d d s]
+[DELETED:  S a a C a e u C d P d t d s p m s d e e C P o c d s e s d c c l r y a c a e C y c o l q E C d e m r e p t d s e P R i e l i d s p“”]
+[DELETED:  C d r o e p s a e c m r s s i m n s o e y p o]
+[DELETED:  C p o s c o l s d s u r U a p d u a d p p e e a c s r p e c d c m a c e m d f v a e C e s a l p s y d p e m y c o r C d p l r c p l]
+[DELETED:  c s p m e P R d c c l E C q a p e c c ó L E e d d s q l a l c p]

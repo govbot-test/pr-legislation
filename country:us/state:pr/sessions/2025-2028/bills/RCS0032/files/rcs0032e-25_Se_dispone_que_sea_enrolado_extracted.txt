@@ -1,0 +1,130 @@
+Title: Para ordenar al Departamento de la Vivienda de Puerto Rico a realizar un inventario y
+Official Title: Para ordenar al Departamento de la Vivienda de Puerto Rico a realizar un inventario y
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+(R. C. del S. 32)
+RESOLUCIÓN CONJUNTA
+depuración de solares y fincas vacantes, con usufructo en abandono, sin
+propiedades enclavadas y con propiedades enclavadas, así como su digitalización
+para garantizar acceso a empleados gubernamentales y al público en general.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico enfrenta una crisis de vivienda que impacta a miles de ciudadanos, en
+búsqueda de acceso a terrenos y propiedades para establecer una residencia digna.
+Existen múltiples solares y fincas vacantes bajo la administración del Departamento de
+la Vivienda que han permanecido en abandono o en desuso, lo que limita su
+aprovechamiento en beneficio de la comunidad.
+Es imperativo que el Departamento de la Vivienda realice un inventario detallado
+de estos bienes inmuebles, categorizando aquellos con usufructo en abandono, sin
+propiedades enclavadas y con propiedades enclavadas. Este inventario deberá ser
+depurado a medida que se asignen usufructos o titularidades asegurando una base de
+datos actualizada y eficiente.
+Asimismo, se requiere la digitalización de este inventario para que los empleados
+del Departamento de la Vivienda y otras agencias pertinentes puedan ofrecer servicios
+oportunos a la ciudadanía y orientar a las personas con necesidad de vivienda sobre los
+procesos y oportunidades. Además, esta información deberá estar accesible al público
+para garantizar transparencia y facilitar la identificación de oportunidades de vivienda
+y desarrollo comunitario.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Inventario de Solares y Fincas Vacantes
+Se ordena al Departamento de la Vivienda de Puerto Rico a realizar un inventario
+completo de solares y fincas vacantes bajo su administración, categorizando aquellos
+con usufructo en abandono, sin propiedades enclavadas y con propiedades enclavadas.
+Artículo 2.- Depuración del Inventario
+El Departamento de la Vivienda deberá realizar una depuración constante del
+inventario a medida que se asignen nuevos usufructos o titularidades, garantizando
+que la base de datos muestre información actualizada en todo momento.
+Artículo 3.- Digitalización y Accesibilidad
+2
+El inventario deberá ser digitalizado y accesible a todos los empleados del
+Departamento de la Vivienda y demás agencias encargadas de brindar servicios de
+vivienda a la ciudadanía. Se establecerán mecanismos de acceso seguro y protocolos
+para garantizar la actualización constante de los datos.
+Artículo 4.- Acceso Público
+Se ordena que el inventario digitalizado esté disponible al público a través de una
+plataforma en línea, permitiendo a los ciudadanos conocer la disponibilidad de solares
+y fincas, así como los procedimientos para solicitar usufructo o titularidad.
+Artículo 5.- Plazo para Cumplimiento
+El Departamento de la Vivienda tendrá un plazo de seis (6) meses a partir de la
+aprobación de esta Resolución Conjunta para completar el inventario inicial. Además,
+contará con un plazo adicional de seis (6) meses para implementar la digitalización y
+acceso público.
+Artículo 6.- Supervisión y Reportes
+El Departamento de la Vivienda deberá presentar informes trimestrales a la
+Asamblea Legislativa detallando el progreso en la recopilación, depuración y
+digitalización del inventario. Dichos informes deberán incluir métricas sobre la cantidad
+de propiedades identificadas, asignadas y los casos en proceso.
+Artículo 7.- Vigencia
+Esta Resolución Conjunta comenzará a regir inmediatamente después de su
+aprobación.
+[DELETED:  d s y f v c u e a s d a a t y p p e u r d V q h p e a o e d l q l s e b i c a c u e a s e y c p e E i d sso D d l V d r u d c d a m q s a n u o t gd]
+[DELETED:  i d s d y a a t l e d d l V y d a e d b s d a l c S e m d a s po D d l V d p i t a l L d e p e l r d ya R C c a r i d d s]
+
+
+================================================================================
+
+Raw Text:
+(R. C. del S. 32)
+RESOLUCIÓN CONJUNTA
+Para ordenar al Departamento de la Vivienda de Puerto Rico a realizar un inventario y
+depuración de solares y fincas vacantes, con usufructo en abandono, sin
+propiedades enclavadas y con propiedades enclavadas, así como su digitalización
+para garantizar acceso a empleados gubernamentales y al público en general.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico enfrenta una crisis de vivienda que impacta a miles de ciudadanos, en
+búsqueda de acceso a terrenos y propiedades para establecer una residencia digna.
+Existen múltiples solares y fincas vacantes bajo la administración del Departamento de
+la Vivienda que han permanecido en abandono o en desuso, lo que limita su
+aprovechamiento en beneficio de la comunidad.
+Es imperativo que el Departamento de la Vivienda realice un inventario detallado
+de estos bienes inmuebles, categorizando aquellos con usufructo en abandono, sin
+propiedades enclavadas y con propiedades enclavadas. Este inventario deberá ser
+depurado a medida que se asignen usufructos o titularidades asegurando una base de
+datos actualizada y eficiente.
+Asimismo, se requiere la digitalización de este inventario para que los empleados
+del Departamento de la Vivienda y otras agencias pertinentes puedan ofrecer servicios
+oportunos a la ciudadanía y orientar a las personas con necesidad de vivienda sobre los
+procesos y oportunidades. Además, esta información deberá estar accesible al público
+para garantizar transparencia y facilitar la identificación de oportunidades de vivienda
+y desarrollo comunitario.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Inventario de Solares y Fincas Vacantes
+Se ordena al Departamento de la Vivienda de Puerto Rico a realizar un inventario
+completo de solares y fincas vacantes bajo su administración, categorizando aquellos
+con usufructo en abandono, sin propiedades enclavadas y con propiedades enclavadas.
+Artículo 2.- Depuración del Inventario
+El Departamento de la Vivienda deberá realizar una depuración constante del
+inventario a medida que se asignen nuevos usufructos o titularidades, garantizando
+que la base de datos muestre información actualizada en todo momento.
+Artículo 3.- Digitalización y Accesibilidad
+
+2
+El inventario deberá ser digitalizado y accesible a todos los empleados del
+Departamento de la Vivienda y demás agencias encargadas de brindar servicios de
+vivienda a la ciudadanía. Se establecerán mecanismos de acceso seguro y protocolos
+para garantizar la actualización constante de los datos.
+Artículo 4.- Acceso Público
+Se ordena que el inventario digitalizado esté disponible al público a través de una
+plataforma en línea, permitiendo a los ciudadanos conocer la disponibilidad de solares
+y fincas, así como los procedimientos para solicitar usufructo o titularidad.
+Artículo 5.- Plazo para Cumplimiento
+El Departamento de la Vivienda tendrá un plazo de seis (6) meses a partir de la
+aprobación de esta Resolución Conjunta para completar el inventario inicial. Además,
+contará con un plazo adicional de seis (6) meses para implementar la digitalización y
+acceso público.
+Artículo 6.- Supervisión y Reportes
+El Departamento de la Vivienda deberá presentar informes trimestrales a la
+Asamblea Legislativa detallando el progreso en la recopilación, depuración y
+digitalización del inventario. Dichos informes deberán incluir métricas sobre la cantidad
+de propiedades identificadas, asignadas y los casos en proceso.
+Artículo 7.- Vigencia
+Esta Resolución Conjunta comenzará a regir inmediatamente después de su
+aprobación.
+
+[DELETED:  d s y f v c u e a s d a a t y p p e u r d V q h p e a o e d l q l s e b i c a c u e a s e y c p e E i d sso D d l V d r u d c d a m q s a n u o t gd]
+[DELETED:  i d s d y a a t l e d d l V y d a e d b s d a l c S e m d a s po D d l V d p i t a l L d e p e l r d ya R C c a r i d d s]

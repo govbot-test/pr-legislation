@@ -1,0 +1,284 @@
+Title: Para crear la “Ley para la Operación, Administración y Modernización del Sistema de
+Official Title: Para crear la “Ley para la Operación, Administración y Modernización del Sistema de
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1207
+20 de abril de 2026
+Presentada por el señor Reyes Berríos
+Referida a
+LEY
+Refugios de Emergencia de Puerto Rico”, a los fines de establecer un marco legal
+uniforme para la planificación, activación, operación y cierre de refugios de
+emergencia; definir responsabilidades interagenciales; establecer estándares
+mínimos de funcionamiento; crear un sistema integrado de información para la
+gestión de refugios; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico ha enfrentado eventos de emergencia que han evidenciado la
+necesidad de contar con estructuras organizadas, uniformes y resilientes para la
+protección de la vida y la seguridad de la ciudadanía. La experiencia del huracán María
+en el año 2017 puso de manifiesto deficiencias en la coordinación interagencial, en los
+sistemas de comunicación y en la administración de refugios de emergencia, incluyendo
+limitaciones en el registro de personas refugiadas, el manejo de información y la
+distribución de recursos.
+La gestión moderna de emergencias requiere sistemas integrados que permitan la
+recopilación y análisis de información en tiempo real, así como la continuidad
+operacional aun en condiciones adversas. La ausencia de un marco legal uniforme ha
+provocado variabilidad en los procesos de administración de refugios y en la calidad de
+los servicios ofrecidos.
+1
+Esta Asamblea Legislativa entiende necesario establecer estándares mínimos con
+fuerza de ley que rijan la operación de refugios de emergencia, fortalezcan la
+coordinación interagencial y promuevan la modernización tecnológica, garantizando la
+protección de la dignidad humana, la seguridad de las personas refugiadas y la eficiencia
+en la respuesta gubernamental.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. — Título
+2 Esta Ley se conocerá como la “Ley para la Operación, Administración y
+3 Modernización del Sistema de Refugios de Emergencia de Puerto Rico”.
+4 Artículo 2. — Política Pública
+5 Será política pública del Gobierno de Puerto Rico garantizar que el sistema de
+6 refugios de emergencia opere bajo principios de protección de la vida, dignidad humana,
+7 coordinación interagencial, eficiencia y continuidad operacional, transparencia
+8 administrativa, protección de información confidencial y modernización tecnológica.
+9 Artículo 3. — Definiciones
+10 Para fines de esta Ley:
+11 (a) “Refugio de emergencia” — instalación temporera designada para albergar
+12 personas desplazadas como consecuencia de un evento de emergencia o desastre.
+13 (b) “Emergencia o desastre” — situación que requiera la activación de recursos
+14 gubernamentales para proteger la vida o la seguridad pública.
+15 (c) “Persona refugiada” — toda persona alojada en un refugio de emergencia.
+16 (d) “Departamento” — el Departamento de la Vivienda de Puerto Rico.
+2
+1 (e) “Negociado de Manejo de Emergencias” — el Negociado para el Manejo de
+2 Emergencias y Administración de Desastres.
+3 (f) “Administrador de refugio” — persona responsable de la operación directa de
+4 un refugio.
+5 (g) “Sistema Integrado de Gestión de Refugios” — plataforma tecnológica oficial
+6 para la administración y manejo de información de refugios.
+7 Artículo 4. — Entidad Responsable y Coordinación
+8 El Departamento de la Vivienda será responsable de la administración del
+9 componente de cuidado en masa y la operación de los refugios de emergencia.
+10 Dicha responsabilidad se ejercerá en coordinación con el Negociado de Manejo de
+11 Emergencias, el Departamento de Salud, el Negociado de la Policía, las policías
+12 municipales, los municipios y otras entidades pertinentes.
+13 El Negociado de Manejo de Emergencias mantendrá la coordinación general de la
+14 respuesta gubernamental durante eventos de emergencia.
+15 Artículo 5. — Fases Operacionales
+16 La operación de refugios de emergencia incluirá, como mínimo, las siguientes
+17 fases:
+18 (a) planificación y preparación;
+19 (b) activación;
+20 (c) apertura;
+21 (d) operación; y
+22 (e) cierre y desmovilización.
+3
+1 El Departamento establecerá mediante reglamentación los procedimientos
+2 aplicables a cada fase.
+3 Artículo 6. — Estándares de Operación
+4 Todo refugio deberá cumplir con estándares mínimos que incluyan:
+5 (a) procesos de registro y admisión;
+6 (b) control de entrada y salida;
+7 (c) normas de convivencia y orden interno;
+8 (d) mantenimiento de condiciones de higiene y salubridad;
+9 (e) manejo de donativos y suministros;
+10 (f) documentación de incidentes;
+11 (g) y coordinación interagencial.
+12 Artículo 7. — Registro y Manejo de Información
+13 Los refugios mantendrán registros oficiales sobre las personas refugiadas,
+14 ocupación, incidentes y recursos disponibles.
+15 La información recopilada será confidencial y su uso estará limitado a fines de
+16 manejo de emergencias, prestación de servicios y planificación gubernamental, conforme
+17 a la reglamentación aplicable.
+18 Artículo 8. — Seguridad y Protección
+19 El Departamento, en coordinación con las agencias correspondientes, establecerá
+20 protocolos para garantizar la seguridad en los refugios, incluyendo la protección de
+21 menores, adultos mayores, personas con discapacidad y otras poblaciones vulnerables,
+22 así como el manejo adecuado de incidentes.
+4
+1 Artículo 9. — Servicios Esenciales
+2 Se garantizará la prestación de servicios esenciales en los refugios, incluyendo
+3 atención médica básica, primeros auxilios y suministros esenciales.
+4 Artículo 10. — Personal y Capacitación
+5 El Departamento establecerá los requisitos mínimos de personal y programas de
+6 capacitación necesarios para la operación adecuada de los refugios.
+7 Artículo 11. — Sistema Integrado de Gestión de Refugios
+8 El Departamento desarrollará o adoptará un Sistema Integrado de Gestión de
+9 Refugios que permita:
+10 (a) monitoreo en tiempo real de refugios;
+11 (b) registro electrónico de personas refugiadas;
+12 (c) coordinación interagencial mediante intercambio seguro de información;
+13 (d) documentación digital de incidentes y servicios;
+14 (e) generación de informes y estadísticas; y
+15 (f) control de acceso al sistema.
+16 El sistema deberá contar con medidas de seguridad, confidencialidad,
+17 redundancia operativa y capacidad de funcionamiento bajo condiciones adversas.
+18 Artículo 12. — Reglamentación
+19 El Departamento adoptará la reglamentación necesaria para implantar esta Ley
+20 dentro de un término de ciento ochenta (180) días, pudiendo establecer fases de
+21 implementación.
+22 Artículo 13. — Separabilidad
+5
+1 Si cualquier disposición de esta Ley fuere declarada inconstitucional, las demás
+2 disposiciones permanecerán vigentes.
+3 Artículo 14. — Vigencia
+4 Esta Ley entrará en vigor inmediatamente, disponiéndose que las disposiciones
+5 relacionadas al sistema tecnológico podrán implementarse de manera escalonada.
+6
+[DELETED:   A 3  arL   p l p a o y c d r d d r i e e R h e e d e q h e l d c c e o u y r p l e e r d p r e m d i y l y a d i e t r a c l c]
+[DELETED:  d l q r l o d r d e f l L s c c l “ p l O A y i e y c o t]
+[DELETED:  D d l V s r d l a d e D d S e N d l P l p o d r d e i c m l s]
+[DELETED:  D e m r l p)p)c)n)m)m)d)y r m r o s l p r p g l s e l r i l p d]
+[DELETED:  D d o a u S I d G d s d c c m d s c d u t d c o ( d p e f d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1207
+20 de abril de 2026
+Presentada por el señor Reyes Berríos
+Referida a
+LEY
+Para crear la “Ley para la Operación, Administración y Modernización del Sistema de
+Refugios de Emergencia de Puerto Rico”, a los fines de establecer un marco legal
+uniforme para la planificación, activación, operación y cierre de refugios de
+emergencia; definir responsabilidades interagenciales; establecer estándares
+mínimos de funcionamiento; crear un sistema integrado de información para la
+gestión de refugios; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico ha enfrentado eventos de emergencia que han evidenciado la
+necesidad de contar con estructuras organizadas, uniformes y resilientes para la
+protección de la vida y la seguridad de la ciudadanía. La experiencia del huracán María
+en el año 2017 puso de manifiesto deficiencias en la coordinación interagencial, en los
+sistemas de comunicación y en la administración de refugios de emergencia, incluyendo
+limitaciones en el registro de personas refugiadas, el manejo de información y la
+distribución de recursos.
+La gestión moderna de emergencias requiere sistemas integrados que permitan la
+recopilación y análisis de información en tiempo real, así como la continuidad
+operacional aun en condiciones adversas. La ausencia de un marco legal uniforme ha
+provocado variabilidad en los procesos de administración de refugios y en la calidad de
+los servicios ofrecidos.
+1
+
+Esta Asamblea Legislativa entiende necesario establecer estándares mínimos con
+fuerza de ley que rijan la operación de refugios de emergencia, fortalezcan la
+coordinación interagencial y promuevan la modernización tecnológica, garantizando la
+protección de la dignidad humana, la seguridad de las personas refugiadas y la eficiencia
+en la respuesta gubernamental.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. — Título
+2 Esta Ley se conocerá como la “Ley para la Operación, Administración y
+3 Modernización del Sistema de Refugios de Emergencia de Puerto Rico”.
+4 Artículo 2. — Política Pública
+5 Será política pública del Gobierno de Puerto Rico garantizar que el sistema de
+6 refugios de emergencia opere bajo principios de protección de la vida, dignidad humana,
+7 coordinación interagencial, eficiencia y continuidad operacional, transparencia
+8 administrativa, protección de información confidencial y modernización tecnológica.
+9 Artículo 3. — Definiciones
+10 Para fines de esta Ley:
+11 (a) “Refugio de emergencia” — instalación temporera designada para albergar
+12 personas desplazadas como consecuencia de un evento de emergencia o desastre.
+13 (b) “Emergencia o desastre” — situación que requiera la activación de recursos
+14 gubernamentales para proteger la vida o la seguridad pública.
+15 (c) “Persona refugiada” — toda persona alojada en un refugio de emergencia.
+16 (d) “Departamento” — el Departamento de la Vivienda de Puerto Rico.
+2
+
+1 (e) “Negociado de Manejo de Emergencias” — el Negociado para el Manejo de
+2 Emergencias y Administración de Desastres.
+3 (f) “Administrador de refugio” — persona responsable de la operación directa de
+4 un refugio.
+5 (g) “Sistema Integrado de Gestión de Refugios” — plataforma tecnológica oficial
+6 para la administración y manejo de información de refugios.
+7 Artículo 4. — Entidad Responsable y Coordinación
+8 El Departamento de la Vivienda será responsable de la administración del
+9 componente de cuidado en masa y la operación de los refugios de emergencia.
+10 Dicha responsabilidad se ejercerá en coordinación con el Negociado de Manejo de
+11 Emergencias, el Departamento de Salud, el Negociado de la Policía, las policías
+12 municipales, los municipios y otras entidades pertinentes.
+13 El Negociado de Manejo de Emergencias mantendrá la coordinación general de la
+14 respuesta gubernamental durante eventos de emergencia.
+15 Artículo 5. — Fases Operacionales
+16 La operación de refugios de emergencia incluirá, como mínimo, las siguientes
+17 fases:
+18 (a) planificación y preparación;
+19 (b) activación;
+20 (c) apertura;
+21 (d) operación; y
+22 (e) cierre y desmovilización.
+3
+
+1 El Departamento establecerá mediante reglamentación los procedimientos
+2 aplicables a cada fase.
+3 Artículo 6. — Estándares de Operación
+4 Todo refugio deberá cumplir con estándares mínimos que incluyan:
+5 (a) procesos de registro y admisión;
+6 (b) control de entrada y salida;
+7 (c) normas de convivencia y orden interno;
+8 (d) mantenimiento de condiciones de higiene y salubridad;
+9 (e) manejo de donativos y suministros;
+10 (f) documentación de incidentes;
+11 (g) y coordinación interagencial.
+12 Artículo 7. — Registro y Manejo de Información
+13 Los refugios mantendrán registros oficiales sobre las personas refugiadas,
+14 ocupación, incidentes y recursos disponibles.
+15 La información recopilada será confidencial y su uso estará limitado a fines de
+16 manejo de emergencias, prestación de servicios y planificación gubernamental, conforme
+17 a la reglamentación aplicable.
+18 Artículo 8. — Seguridad y Protección
+19 El Departamento, en coordinación con las agencias correspondientes, establecerá
+20 protocolos para garantizar la seguridad en los refugios, incluyendo la protección de
+21 menores, adultos mayores, personas con discapacidad y otras poblaciones vulnerables,
+22 así como el manejo adecuado de incidentes.
+4
+
+1 Artículo 9. — Servicios Esenciales
+2 Se garantizará la prestación de servicios esenciales en los refugios, incluyendo
+3 atención médica básica, primeros auxilios y suministros esenciales.
+4 Artículo 10. — Personal y Capacitación
+5 El Departamento establecerá los requisitos mínimos de personal y programas de
+6 capacitación necesarios para la operación adecuada de los refugios.
+7 Artículo 11. — Sistema Integrado de Gestión de Refugios
+8 El Departamento desarrollará o adoptará un Sistema Integrado de Gestión de
+9 Refugios que permita:
+10 (a) monitoreo en tiempo real de refugios;
+11 (b) registro electrónico de personas refugiadas;
+12 (c) coordinación interagencial mediante intercambio seguro de información;
+13 (d) documentación digital de incidentes y servicios;
+14 (e) generación de informes y estadísticas; y
+15 (f) control de acceso al sistema.
+16 El sistema deberá contar con medidas de seguridad, confidencialidad,
+17 redundancia operativa y capacidad de funcionamiento bajo condiciones adversas.
+18 Artículo 12. — Reglamentación
+19 El Departamento adoptará la reglamentación necesaria para implantar esta Ley
+20 dentro de un término de ciento ochenta (180) días, pudiendo establecer fases de
+21 implementación.
+22 Artículo 13. — Separabilidad
+5
+
+1 Si cualquier disposición de esta Ley fuere declarada inconstitucional, las demás
+2 disposiciones permanecerán vigentes.
+3 Artículo 14. — Vigencia
+4 Esta Ley entrará en vigor inmediatamente, disponiéndose que las disposiciones
+5 relacionadas al sistema tecnológico podrán implementarse de manera escalonada.
+6
+
+[DELETED:   A 3  arL   p l p a o y c d r d d r i e e R h e e d e q h e l d c c e o u y r p l e e r d p r e m d i y l y a d i e t r a c l c]
+[DELETED:  d l q r l o d r d e f l L s c c l “ p l O A y i e y c o t]
+[DELETED:  D d l V s r d l a d e D d S e N d l P l p o d r d e i c m l s]
+[DELETED:  D e m r l p)p)c)n)m)m)d)y r m r o s l p r p g l s e l r i l p d]
+[DELETED:  D d o a u S I d G d s d c c m d s c d u t d c o ( d p e f d]

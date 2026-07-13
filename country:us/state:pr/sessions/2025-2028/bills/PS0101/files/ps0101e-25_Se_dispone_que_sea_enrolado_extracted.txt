@@ -1,0 +1,405 @@
+Title: Para añadir un nuevo inciso 39 y renumerar los actuales incisos 39 al 74 como los nuevos
+Official Title: Para añadir un nuevo inciso 39 y renumerar los actuales incisos 39 al 74 como los nuevos
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 101)
+LEY
+incisos 40 al 75 del Artículo 2.004; enmendar los Artículos 7.007 y 7.009 del Capítulo
+II, de la Ley 222-2011, según enmendada, conocida como “Ley para la Fiscalización de
+las Campañas Políticas en Puerto Rico”, y enmendar el Artículo 12.7 del Capítulo XII
+de la Ley 58-2020, según enmendada, conocida como “Código Electoral de Puerto Rico
+de 2020”; a los fines de incluir como derecho del elector conocer si cualquier
+propaganda, anuncio o comunicado fue generado parcial o completamente mediante
+la utilización o por medio de Inteligencia Artificial; añadir la definición de
+“Inteligencia Artificial” y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Vivimos en una época de grandes avances tecnológicos que, día a día, abren nuevas
+puertas a la integración digital, orientada a facilitar la vida de las personas en el espacio
+físico y cibernético. Uno de estos grandes avances ha sido la aparición de la Inteligencia
+Artificial, que, aunque no es un concepto nuevo, ha estado presente desde el inicio de las
+ciencias de la computación. Desde entonces, se ha discutido la posibilidad de que las
+máquinas puedan tomar decisiones con el mismo rigor y complejidad que lo haría un ser
+humano, trayendo consigo debates sobre su capacidad artística o intelectual.
+La Inteligencia Artificial (IA), como fenómeno, se volvió bastante popular
+recientemente, provocando que el interés, tanto público como privado, para el desarrollo
+de estas tecnologías haya aumentado exponencialmente en tan solo un par de años. La
+aparición en el mercado de softwares como ChatGPT o Dall-E, ambos propiedad de la
+compañía OpenAI, condujo el interés del público en las posibilidades futuras de los
+sistemas apoyados en IA y los diversos usos que podrían dárseles. Sin embargo, en tan
+solo unos pocos años de actividad, hemos sido capaces de presenciar lo vanguardista que
+es la integración de la Inteligencia Artificial en nuestras rutinas diarias y su uso, como
+también la falta de comprensión sobre el impacto que implica en nuestra sociedad.
+Observamos ejemplos como la alarmante cantidad de escuelas y universidades que
+reportaron el uso de ChatGPT por parte de sus estudiantes para la producción de ensayos
+y generar las respuestas a los exámenes más importantes. Asimismo, hay casos donde
+circularon imágenes generadas digitalmente que muestran a figuras públicas en escenas
+surreales y difamatorias que terminaron volviéndose virales, llevando a que se emitieran
+miles de comunicados a la prensa para aclarar la verdad e indicar que la imagen fue hecha
+con IA.
+En Puerto Rico, el fenómeno de los softwares de Inteligencia Artificial se ha recibido
+con los brazos abiertos, formando parte de los objetivos a alcanzar dentro de la política
+pública del Poder Ejecutivo. La meta es implementar sistemas que agilicen los procesos
+2
+burocráticos tanto para los ciudadanos como para los funcionarios públicos. Según un
+reporte ofrecido por el Puerto Rico Innovation and Technology Service (PRITS), cinco
+agencias del Gobierno de Puerto Rico ya han implementado softwares que utilizan algún
+tipo de modalidad de Inteligencia Artificial con fines operativos y de servicio al
+ciudadano. Sin embargo, al momento de la redacción de esta Ley no existe ningún tipo
+de regulación para su correcta implementación a nivel gubernamental, estatal o federal,
+abriendo la puerta a la incertidumbre y el mal uso de estos softwares.
+La amplitud de los programas de IA disponibles actualmente permite que cualquier
+usuario pueda aprovechar al máximo sus capacidades con cualquier fin, pero no siempre
+puede esperarse un fin positivo. Ya podemos observar el uso político de la Inteligencia
+Artificial con casos como la proyección de un vídeo de tipo Deep Fake durante la
+Convención del Comité Nacional del Partido Republicano que fue generada casi en toda
+su totalidad con sistemas de Inteligencia Artificial, con el fin de criticar la gestión del
+presidente demócrata Joe Biden. Así mismo, se vio el uso de presentadores generados de
+forma digital utilizados para divulgar propaganda en las redes sociales, como fue el caso
+de los anuncios programados durante las transmisiones en vivo de la Serie del Caribe
+2023 llevadas a cabo en Venezuela, con el fin de hacer propaganda a favor del régimen
+venezolano.
+Al igual que una tecnología capaz de impulsar el progreso, la Inteligencia Artificial
+representa un riesgo considerable para la seguridad nacional cuando no se emplea de
+manera cuidadosa y con comprensión. La integridad de las personas puede verse
+amenazadas por difamación con imágenes o videos generados artificialmente, del mismo
+modo, la integridad de las instituciones democráticas puede ser coartada ante la
+posibilidad de transmitir mensajes y comunicados falsos a la población. La estructura
+democrática sufre una amenaza severa ante la posibilidad de crear una falsa verdad
+donde las “fake news” y la difamación de las personas sean un peligro constante.
+Esta Asamblea Legislativa busca establecer las bases para una serie de
+legislaciones que deben ir en constante actualización debido lo novel del tema,
+manteniendo en mente el beneficio que tecnologías como esta y muchas otras,
+pueden proveerle al bienestar común de los puertorriqueños en el futuro. Al
+enmendar la Ley para la Fiscalización de las Campañas Políticas en Puerto
+Rico, prevemos la posibilidad de que el uso de estas tecnologías no se oriente
+a vulnerar el derecho al voto de los puertorriqueños y que además tengan el
+derecho a conocer el origen, humano o digital, del contenido multimedia que
+consumen.
+La amplitud del concepto de Inteligencia Artificial y la diversidad de herramientas
+tecnológicas disponibles hacen necesario delimitar con mayor precisión su alcance en el
+contexto electoral. En particular, el desarrollo de sistemas de Inteligencia Artificial
+Generativa, capaces de producir contenido original en forma de texto, imágenes, audio o
+video, ha incrementado los riesgos asociados a la desinformación y a la manipulación del
+3
+electorado. De igual forma, la proliferación de contenido conocido como “deepfakes”,
+que aparenta ser auténtico, pero representa hechos o expresiones que no ocurrieron,
+plantea retos significativos para la integridad del proceso democrático.
+Ante esta realidad, esta Asamblea Legislativa considera necesario y meritorio que los
+electores puertorriqueños conozcan si la propaganda, anuncio o comunicado fue
+generada utilizando, parcial o completamente, inteligencia artificial.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se añade un nuevo inciso 39 al Artículo 2.004 del Capítulo II de la Ley 222-
+2011, según enmendada, conocida como “Ley para la Fiscalización de las Campañas
+Políticas en Puerto Rico”, para que lea como sigue:
+“Artículo 2.004.- Definiciones.
+Para los propósitos de esta Ley, los siguientes términos tendrán el significado
+que se dispone a continuación, salvo que del propio texto se desprenda otro
+significado:
+(1) …
+…
+39) “Inteligencia Artificial” – Se define como un campo de la informática que se
+centra en la creación de sistemas y programas capaces de realizar tareas que
+requieren inteligencia humana. Estos sistemas pueden incluir capacidades como
+el aprendizaje automático, el procesamiento del lenguaje natural, el razonamiento
+lógico y la toma de decisiones, entre otros. El objetivo de la inteligencia artificial
+es desarrollar máquinas que puedan simular procesos cognitivos humanos y
+realizar tareas de manera autónoma, adaptativa y eficiente.
+Esta definición incluirá la “Inteligencia Artificial Generativa”, que se entenderá como
+todo sistema que posea la capacidad de producir o generar, de manera autónoma,
+contenido original en forma de texto, imágenes, audio, video, material multimedia u
+otros contenidos digitales, a partir de instrucciones, solicitudes específicas o datos
+suministrados por una persona.
+40) “Junta Fiscalizadora de Donativos y Gastos”: …
+…”
+Sección 2.- Se renumeran los actuales incisos 39 al 74 del Artículo 2.004 del Capítulo
+II de la Ley Núm. 222-2011, según enmendada, conocida como “Ley para la Fiscalización
+de las Campañas Políticas en Puerto Rico”, como los nuevos incisos 40 al 75.
+Sección 3.- Se enmienda el Artículo 7.007 de la Ley 222-2011, según enmendada,
+conocida como “Ley para la Fiscalización de Campañas Electorales”, para que lea como
+sigue:
+4
+“Artículo 7.007. - Publicación y Distribución de Comunicaciones; Prohibición de
+Discrimen por la Prensa Escrita.
+Siempre que un comité de acción política haga un desembolso para financiar
+cualquier comunicación a través de cualquier estación de radio o televisión,
+televisión por cable o satélite, vía Internet, por computadoras, periódico, revista,
+“billboard”, envío por correo a quinientas (500) personas o más de un mismo tipo de
+mensaje, o cualquier otro tipo de anuncio político al público en general, o cuando
+cualquier persona haga un desembolso para financiar una comunicación para fines
+electorales o para financiar una comunicación electoral según el término se define en
+el Artículo 2.004 de esta Ley, dicha comunicación deberá contener lo siguiente:
+(a) … .
+(b) … .
+(c) … .
+(d) Si la comunicación fue generada o alterada, parcial o completamente, con
+sistemas de Inteligencia Artificial, incluyendo Inteligencia Artificial Generativa,
+además de cumplir con los incisos anteriores, la comunicación deberá indicar
+claramente que fue generada o alterada, parcial o completamente, según el caso, con
+sistemas de Inteligencia Artificial.
+(e) Ninguna persona que vende espacio en televisión, radio, televisión por cable
+o satélite, periódico, revista, internet o billboard a un partido, aspirante o candidato,
+o sus comités, o agente del partido, aspirante o candidato, para fines de la campaña
+de estos, podrá cobrar una tarifa por dicho espacio que exceda la tarifa cobrada por
+el uso de dicho espacio para otros fines.”
+Sección 4.- Se enmienda el Artículo 7.009 de la Ley 222-2011, según enmendada,
+conocida como “Ley para la Fiscalización de Campañas Electorales”, para que lea como
+sigue:
+“Artículo 7.009.— Comunicaciones hechas por los candidatos o personas
+autorizadas.
+Por radio, televisión o cualquier otro medio audiovisual. Cualquier
+comunicación descrita en el Artículo 7.007 y que se trasmita por radio, además de
+cumplir con los requerimientos de dicho Artículo, deberá incluir la siguiente
+declaración en audio: “nombre de la persona o comité que pagó la comunicación y
+el nombre de cualquier organización relacionada a dicha persona o comité que es
+responsable por el contenido de este mensaje”. Estos requisitos serán de igual
+aplicación a cualquier comunicación proselitista transmitida por vía de la Internet.
+Además de lo anterior, si la comunicación fue generada o alterada, parcial o
+completamente, según el caso, con sistemas de Inteligencia Artificial, así, el anuncio
+deberá expresarlo mediante declaración en audio.”
+5
+Sección 5.- Se enmienda el Artículo 12.7 del Capítulo XII de la Ley 58-2020, según
+enmendada, conocida como “Código Electoral de Puerto Rico de 2020”, para que lea
+como sigue:
+“Artículo 12.7.- Falsedad de Datos o Imágenes en Sistemas Electrónicos.
+Toda persona que maliciosamente, por segunda o más ocasiones, incluya,
+mantenga o transmita por cualquier medio información, datos, documentos, formularios
+o imágenes falsas, alteradas o creadas con sistemas de inteligencia artificial sin un aviso
+claro y legible o que no respondan a la realidad y la verdad en cualquier sistema
+electrónico provisto y operado por la Comisión, incurrirá en delito menos grave y,
+convicta que fuere, será sancionada con pena de reclusión que no será mayor de un (1)
+año o multa de quinientos dólares ($500) por cada dato, información o imagen falsa o
+ambas penas a discreción del Tribunal.”
+Sección 6.- Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra,
+letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo, acápite o
+parte de la misma que así hubiere sido anulada o declarada inconstitucional. Si la
+aplicación a una persona o a una circunstancia de cualquier cláusula, párrafo,
+subpárrafo, oración, palabra, letra, artículo, disposición, sección, subsección, título,
+capítulo, subcapítulo, acápite o parte de esta Ley fuera invalidada o declarada
+inconstitucional, la resolución, dictamen o sentencia a tal efecto dictada no afectará ni
+invalidará la aplicación del remanente de esta Ley a aquellas personas o circunstancias
+en que se pueda aplicar válidamente. Es la voluntad expresa e inequívoca de esta
+Asamblea Legislativa que los tribunales hagan cumplir las disposiciones y la aplicación
+de esta Ley en la mayor medida posible, aunque se deje sin efecto, anule, invalide,
+perjudique o declare inconstitucional alguna de sus partes, o, aunque se deje sin efecto,
+invalide o declare inconstitucional su aplicación a alguna persona o circunstancia. Esta
+Asamblea Legislativa hubiera aprobado esta Ley sin importar la determinación de
+separabilidad que el Tribunal pueda hacer.
+Sección 7.- Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:   2 a l f d i c d d e c s c u o p m d I A a l d d I A ( c f s v b p c i d p e d l l f d c s e i q i e n s e c l a c d e y u q]
+[DELETED:   d m d I A c f o y d s a c c c l p d u v d t  d l F c y c c L i d l p p v l i d l i d p s c a l u a s u f“” A L b e l b p u s d d e E p e d d s d I A]
+[DELETED:   a o p c s l p a o c f s d a c s q d p t s d o)… e l s d m q p s p c h y 3 A]
+[DELETED:   d c a t d c e d r o t p,p d I A i I A G d c c l i a l c d ia  7 C h p l c o p r t o c o m a C c l r d d A d i l s p e c d e m E r s d i d l a s l c f g o a p o]
+[DELETED:   p q m p s o m o i y l o q n r a l r y l v e c s p y o p l C i e d m g y r o d l m q a h s a o d i S l a u p o a u c d c c p o p l a d s s t s a o p d e L f i o d q s p a v E l v e e i d e m L h a e L s i l d d]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 101)
+LEY
+Para añadir un nuevo inciso 39 y renumerar los actuales incisos 39 al 74 como los nuevos
+incisos 40 al 75 del Artículo 2.004; enmendar los Artículos 7.007 y 7.009 del Capítulo
+II, de la Ley 222-2011, según enmendada, conocida como “Ley para la Fiscalización de
+las Campañas Políticas en Puerto Rico”, y enmendar el Artículo 12.7 del Capítulo XII
+de la Ley 58-2020, según enmendada, conocida como “Código Electoral de Puerto Rico
+de 2020”; a los fines de incluir como derecho del elector conocer si cualquier
+propaganda, anuncio o comunicado fue generado parcial o completamente mediante
+la utilización o por medio de Inteligencia Artificial; añadir la definición de
+“Inteligencia Artificial” y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Vivimos en una época de grandes avances tecnológicos que, día a día, abren nuevas
+puertas a la integración digital, orientada a facilitar la vida de las personas en el espacio
+físico y cibernético. Uno de estos grandes avances ha sido la aparición de la Inteligencia
+Artificial, que, aunque no es un concepto nuevo, ha estado presente desde el inicio de las
+ciencias de la computación. Desde entonces, se ha discutido la posibilidad de que las
+máquinas puedan tomar decisiones con el mismo rigor y complejidad que lo haría un ser
+humano, trayendo consigo debates sobre su capacidad artística o intelectual.
+La Inteligencia Artificial (IA), como fenómeno, se volvió bastante popular
+recientemente, provocando que el interés, tanto público como privado, para el desarrollo
+de estas tecnologías haya aumentado exponencialmente en tan solo un par de años. La
+aparición en el mercado de softwares como ChatGPT o Dall-E, ambos propiedad de la
+compañía OpenAI, condujo el interés del público en las posibilidades futuras de los
+sistemas apoyados en IA y los diversos usos que podrían dárseles. Sin embargo, en tan
+solo unos pocos años de actividad, hemos sido capaces de presenciar lo vanguardista que
+es la integración de la Inteligencia Artificial en nuestras rutinas diarias y su uso, como
+también la falta de comprensión sobre el impacto que implica en nuestra sociedad.
+Observamos ejemplos como la alarmante cantidad de escuelas y universidades que
+reportaron el uso de ChatGPT por parte de sus estudiantes para la producción de ensayos
+y generar las respuestas a los exámenes más importantes. Asimismo, hay casos donde
+circularon imágenes generadas digitalmente que muestran a figuras públicas en escenas
+surreales y difamatorias que terminaron volviéndose virales, llevando a que se emitieran
+miles de comunicados a la prensa para aclarar la verdad e indicar que la imagen fue hecha
+con IA.
+En Puerto Rico, el fenómeno de los softwares de Inteligencia Artificial se ha recibido
+con los brazos abiertos, formando parte de los objetivos a alcanzar dentro de la política
+pública del Poder Ejecutivo. La meta es implementar sistemas que agilicen los procesos
+
+2
+burocráticos tanto para los ciudadanos como para los funcionarios públicos. Según un
+reporte ofrecido por el Puerto Rico Innovation and Technology Service (PRITS), cinco
+agencias del Gobierno de Puerto Rico ya han implementado softwares que utilizan algún
+tipo de modalidad de Inteligencia Artificial con fines operativos y de servicio al
+ciudadano. Sin embargo, al momento de la redacción de esta Ley no existe ningún tipo
+de regulación para su correcta implementación a nivel gubernamental, estatal o federal,
+abriendo la puerta a la incertidumbre y el mal uso de estos softwares.
+La amplitud de los programas de IA disponibles actualmente permite que cualquier
+usuario pueda aprovechar al máximo sus capacidades con cualquier fin, pero no siempre
+puede esperarse un fin positivo. Ya podemos observar el uso político de la Inteligencia
+Artificial con casos como la proyección de un vídeo de tipo Deep Fake durante la
+Convención del Comité Nacional del Partido Republicano que fue generada casi en toda
+su totalidad con sistemas de Inteligencia Artificial, con el fin de criticar la gestión del
+presidente demócrata Joe Biden. Así mismo, se vio el uso de presentadores generados de
+forma digital utilizados para divulgar propaganda en las redes sociales, como fue el caso
+de los anuncios programados durante las transmisiones en vivo de la Serie del Caribe
+2023 llevadas a cabo en Venezuela, con el fin de hacer propaganda a favor del régimen
+venezolano.
+Al igual que una tecnología capaz de impulsar el progreso, la Inteligencia Artificial
+representa un riesgo considerable para la seguridad nacional cuando no se emplea de
+manera cuidadosa y con comprensión. La integridad de las personas puede verse
+amenazadas por difamación con imágenes o videos generados artificialmente, del mismo
+modo, la integridad de las instituciones democráticas puede ser coartada ante la
+posibilidad de transmitir mensajes y comunicados falsos a la población. La estructura
+democrática sufre una amenaza severa ante la posibilidad de crear una falsa verdad
+donde las “fake news” y la difamación de las personas sean un peligro constante.
+Esta Asamblea Legislativa busca establecer las bases para una serie de
+legislaciones que deben ir en constante actualización debido lo novel del tema,
+manteniendo en mente el beneficio que tecnologías como esta y muchas otras,
+pueden proveerle al bienestar común de los puertorriqueños en el futuro. Al
+enmendar la Ley para la Fiscalización de las Campañas Políticas en Puerto
+Rico, prevemos la posibilidad de que el uso de estas tecnologías no se oriente
+a vulnerar el derecho al voto de los puertorriqueños y que además tengan el
+derecho a conocer el origen, humano o digital, del contenido multimedia que
+consumen.
+La amplitud del concepto de Inteligencia Artificial y la diversidad de herramientas
+tecnológicas disponibles hacen necesario delimitar con mayor precisión su alcance en el
+contexto electoral. En particular, el desarrollo de sistemas de Inteligencia Artificial
+Generativa, capaces de producir contenido original en forma de texto, imágenes, audio o
+video, ha incrementado los riesgos asociados a la desinformación y a la manipulación del
+
+3
+electorado. De igual forma, la proliferación de contenido conocido como “deepfakes”,
+que aparenta ser auténtico, pero representa hechos o expresiones que no ocurrieron,
+plantea retos significativos para la integridad del proceso democrático.
+Ante esta realidad, esta Asamblea Legislativa considera necesario y meritorio que los
+electores puertorriqueños conozcan si la propaganda, anuncio o comunicado fue
+generada utilizando, parcial o completamente, inteligencia artificial.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se añade un nuevo inciso 39 al Artículo 2.004 del Capítulo II de la Ley 222-
+2011, según enmendada, conocida como “Ley para la Fiscalización de las Campañas
+Políticas en Puerto Rico”, para que lea como sigue:
+“Artículo 2.004.- Definiciones.
+Para los propósitos de esta Ley, los siguientes términos tendrán el significado
+que se dispone a continuación, salvo que del propio texto se desprenda otro
+significado:
+(1) …
+…
+39) “Inteligencia Artificial” – Se define como un campo de la informática que se
+centra en la creación de sistemas y programas capaces de realizar tareas que
+requieren inteligencia humana. Estos sistemas pueden incluir capacidades como
+el aprendizaje automático, el procesamiento del lenguaje natural, el razonamiento
+lógico y la toma de decisiones, entre otros. El objetivo de la inteligencia artificial
+es desarrollar máquinas que puedan simular procesos cognitivos humanos y
+realizar tareas de manera autónoma, adaptativa y eficiente.
+Esta definición incluirá la “Inteligencia Artificial Generativa”, que se entenderá como
+todo sistema que posea la capacidad de producir o generar, de manera autónoma,
+contenido original en forma de texto, imágenes, audio, video, material multimedia u
+otros contenidos digitales, a partir de instrucciones, solicitudes específicas o datos
+suministrados por una persona.
+40) “Junta Fiscalizadora de Donativos y Gastos”: …
+…”
+Sección 2.- Se renumeran los actuales incisos 39 al 74 del Artículo 2.004 del Capítulo
+II de la Ley Núm. 222-2011, según enmendada, conocida como “Ley para la Fiscalización
+de las Campañas Políticas en Puerto Rico”, como los nuevos incisos 40 al 75.
+Sección 3.- Se enmienda el Artículo 7.007 de la Ley 222-2011, según enmendada,
+conocida como “Ley para la Fiscalización de Campañas Electorales”, para que lea como
+sigue:
+
+4
+“Artículo 7.007. - Publicación y Distribución de Comunicaciones; Prohibición de
+Discrimen por la Prensa Escrita.
+Siempre que un comité de acción política haga un desembolso para financiar
+cualquier comunicación a través de cualquier estación de radio o televisión,
+televisión por cable o satélite, vía Internet, por computadoras, periódico, revista,
+“billboard”, envío por correo a quinientas (500) personas o más de un mismo tipo de
+mensaje, o cualquier otro tipo de anuncio político al público en general, o cuando
+cualquier persona haga un desembolso para financiar una comunicación para fines
+electorales o para financiar una comunicación electoral según el término se define en
+el Artículo 2.004 de esta Ley, dicha comunicación deberá contener lo siguiente:
+(a) … .
+(b) … .
+(c) … .
+(d) Si la comunicación fue generada o alterada, parcial o completamente, con
+sistemas de Inteligencia Artificial, incluyendo Inteligencia Artificial Generativa,
+además de cumplir con los incisos anteriores, la comunicación deberá indicar
+claramente que fue generada o alterada, parcial o completamente, según el caso, con
+sistemas de Inteligencia Artificial.
+(e) Ninguna persona que vende espacio en televisión, radio, televisión por cable
+o satélite, periódico, revista, internet o billboard a un partido, aspirante o candidato,
+o sus comités, o agente del partido, aspirante o candidato, para fines de la campaña
+de estos, podrá cobrar una tarifa por dicho espacio que exceda la tarifa cobrada por
+el uso de dicho espacio para otros fines.”
+Sección 4.- Se enmienda el Artículo 7.009 de la Ley 222-2011, según enmendada,
+conocida como “Ley para la Fiscalización de Campañas Electorales”, para que lea como
+sigue:
+“Artículo 7.009.— Comunicaciones hechas por los candidatos o personas
+autorizadas.
+Por radio, televisión o cualquier otro medio audiovisual. Cualquier
+comunicación descrita en el Artículo 7.007 y que se trasmita por radio, además de
+cumplir con los requerimientos de dicho Artículo, deberá incluir la siguiente
+declaración en audio: “nombre de la persona o comité que pagó la comunicación y
+el nombre de cualquier organización relacionada a dicha persona o comité que es
+responsable por el contenido de este mensaje”. Estos requisitos serán de igual
+aplicación a cualquier comunicación proselitista transmitida por vía de la Internet.
+Además de lo anterior, si la comunicación fue generada o alterada, parcial o
+completamente, según el caso, con sistemas de Inteligencia Artificial, así, el anuncio
+deberá expresarlo mediante declaración en audio.”
+
+5
+Sección 5.- Se enmienda el Artículo 12.7 del Capítulo XII de la Ley 58-2020, según
+enmendada, conocida como “Código Electoral de Puerto Rico de 2020”, para que lea
+como sigue:
+“Artículo 12.7.- Falsedad de Datos o Imágenes en Sistemas Electrónicos.
+Toda persona que maliciosamente, por segunda o más ocasiones, incluya,
+mantenga o transmita por cualquier medio información, datos, documentos, formularios
+o imágenes falsas, alteradas o creadas con sistemas de inteligencia artificial sin un aviso
+claro y legible o que no respondan a la realidad y la verdad en cualquier sistema
+electrónico provisto y operado por la Comisión, incurrirá en delito menos grave y,
+convicta que fuere, será sancionada con pena de reclusión que no será mayor de un (1)
+año o multa de quinientos dólares ($500) por cada dato, información o imagen falsa o
+ambas penas a discreción del Tribunal.”
+Sección 6.- Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra,
+letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo, acápite o
+parte de la misma que así hubiere sido anulada o declarada inconstitucional. Si la
+aplicación a una persona o a una circunstancia de cualquier cláusula, párrafo,
+subpárrafo, oración, palabra, letra, artículo, disposición, sección, subsección, título,
+capítulo, subcapítulo, acápite o parte de esta Ley fuera invalidada o declarada
+inconstitucional, la resolución, dictamen o sentencia a tal efecto dictada no afectará ni
+invalidará la aplicación del remanente de esta Ley a aquellas personas o circunstancias
+en que se pueda aplicar válidamente. Es la voluntad expresa e inequívoca de esta
+Asamblea Legislativa que los tribunales hagan cumplir las disposiciones y la aplicación
+de esta Ley en la mayor medida posible, aunque se deje sin efecto, anule, invalide,
+perjudique o declare inconstitucional alguna de sus partes, o, aunque se deje sin efecto,
+invalide o declare inconstitucional su aplicación a alguna persona o circunstancia. Esta
+Asamblea Legislativa hubiera aprobado esta Ley sin importar la determinación de
+separabilidad que el Tribunal pueda hacer.
+Sección 7.- Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:   2 a l f d i c d d e c s c u o p m d I A a l d d I A ( c f s v b p c i d p e d l l f d c s e i q i e n s e c l a c d e y u q]
+[DELETED:   d m d I A c f o y d s a c c c l p d u v d t  d l F c y c c L i d l p p v l i d l i d p s c a l u a s u f“” A L b e l b p u s d d e E p e d d s d I A]
+[DELETED:   a o p c s l p a o c f s d a c s q d p t s d o)… e l s d m q p s p c h y 3 A]
+[DELETED:   d c a t d c e d r o t p,p d I A i I A G d c c l i a l c d ia  7 C h p l c o p r t o c o m a C c l r d d A d i l s p e c d e m E r s d i d l a s l c f g o a p o]
+[DELETED:   p q m p s o m o i y l o q n r a l r y l v e c s p y o p l C i e d m g y r o d l m q a h s a o d i S l a u p o a u c d c c p o p l a d s s t s a o p d e L f i o d q s p a v E l v e e i d e m L h a e L s i l d d]
