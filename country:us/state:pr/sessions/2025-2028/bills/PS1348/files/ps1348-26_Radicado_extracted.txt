@@ -1,0 +1,810 @@
+Title: Para enmendar los Artículos 1, 2, 20 y 22, y añadir un nuevo Artículo 3-A a la Ley 118-
+Official Title: Para enmendar los Artículos 1, 2, 20 y 22, y añadir un nuevo Artículo 3-A a la Ley 118-
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1348
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+2022, según enmendada, a los fines de crear una certificación provisional de interés
+sucesoral o propietario para el acceso limitado a ayudas públicas de vivienda, reparación,
+mitigación, emergencia, resiliencia y recuperación; ordenar reglamentación; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Después de cada emergencia, la recuperación de una familia comienza en lo más
+básico: poder regresar a su casa, reparar el techo, estabilizar una estructura, remover un
+riesgo o evitar que una vivienda continúe deteriorándose. Sin embargo, para muchas
+familias puertorriqueñas, ese primer paso se detiene ante una exigencia documental que
+no siempre responde a la realidad de la vivienda en Puerto Rico: tener un título perfecto,
+actualizado o inscrito.
+En la Isla existen propiedades que han pasado de padres a hijos, de abuelos a
+nietos o entre varios integrantes de una misma familia sin que se haya completado
+formalmente todo el trámite sucesoral, la partición hereditaria o la inscripción registral.
+Esa situación no necesariamente significa abandono, fraude o ausencia de vínculo con la
+propiedad. En muchas ocasiones, refleja una realidad común: familias que han vivido,
+mantenido, reparado y protegido una vivienda durante años, pero cuyo expediente legal
+no está completo por razón de costos, desconocimiento, ausencia de coherederos, falta de
+2
+tracto registral, controversias familiares, procesos pendientes o trámites que resultan
+demasiado extensos para una necesidad urgente.
+La Ley 118-2022 constituyó un paso importante para atender el problema de la
+falta de título en el contexto de los programas de recuperación. Dicha Ley reconoció que
+un número significativo de solicitantes a programas de recuperación y mitigación carece
+de título o de inscripción registral, y que los procedimientos necesarios para lograr dicha
+inscripción pueden ser largos y onerosos. También creó mecanismos para facilitar
+procesos administrativos y encaminar la obtención de títulos inscribibles en el Registro
+de la Propiedad.
+No obstante, persiste una situación que requiere atención legislativa adicional. No
+toda ayuda pública relacionada con una vivienda exige, por su naturaleza, una
+adjudicación final de dominio. Una reparación de emergencia, una intervención de
+mitigación, una mejora de seguridad, un trabajo de estabilización, una evaluación de
+daños o una asistencia preliminar de recuperación no siempre debe depender de que la
+familia haya culminado una declaratoria de herederos, una partición hereditaria, una
+inscripción registral o un procedimiento de tracto sucesivo.
+Esta medida atiende esa diferencia. Su propósito no es sustituir el Registro de la
+Propiedad, alterar el derecho sucesoral ni adjudicar controversias entre herederos. Su
+propósito es más limitado y práctico: permitir que, para ciertos programas de ayuda
+pública, una persona pueda acreditar un interés sucesoral, propietario, posesorio o
+familiar razonable sobre una vivienda mediante una certificación provisional,
+documentos alternos y una declaración bajo apercibimiento de perjurio.
+La Certificación Provisional de Interés Sucesoral o Propietario que aquí se crea no
+constituye título de propiedad, no es documento inscribible, no equivale a una
+declaratoria de herederos, no autoriza la venta, hipoteca, gravamen, transferencia o
+disposición de la propiedad, y no elimina los derechos de otros coherederos o personas
+con interés legítimo. Su función es servir como puente administrativo para que una
+familia no quede excluida de una ayuda urgente o necesaria únicamente porque la
+herencia no se ha completado formalmente.
+3
+La medida también procura evitar que el remedio se convierta en otra carga
+económica para quienes precisamente buscan asistencia. Por eso, la certificación se diseña
+como un mecanismo administrativo, uniforme y libre de costo para la persona solicitante.
+La contratación de servicios notariales privados, estudios de título, mensuras, planos,
+gestorías o trámites registrales no debe imponerse como requisito inicial cuando la ayuda
+solicitada no afecta el dominio ni requiere una transferencia de derechos reales.
+Al mismo tiempo, se incorporan salvaguardas para proteger la integridad de los
+programas y los derechos de terceros. La persona solicitante deberá identificar, en la
+medida de su conocimiento, a otras personas con posible interés sobre la propiedad;
+deberá explicar la base de su vínculo con la vivienda; y deberá reconocer expresamente
+que la certificación tiene un alcance limitado. Cuando la ayuda solicitada implique
+demolición permanente, reconstrucción total, relocalización, adquisición, transferencia,
+gravamen o cualquier actuación que pueda afectar sustancialmente derechos de terceros,
+la agencia administradora deberá exigir salvaguardas adicionales.
+La recuperación de Puerto Rico requiere procesos serios, pero también
+proporcionales. Una familia no debe perder la oportunidad de reparar o estabilizar su
+hogar porque el expediente hereditario todavía no está completo. Esta medida reconoce
+esa realidad y establece un mecanismo balanceado: acceso limitado a ayudas públicas,
+protección contra el fraude, respeto al derecho sucesoral y preservación de las normas
+registrales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley 118-2022, según enmendada, para
+2 que lea como sigue:
+3 Artículo 1.- Título y propósito.
+4 Esta Ley se conocerá y podrá ser citada como la “Ley especial para acelerar los
+5 procesos para otorgar títulos de propiedad bajo el Programa de Autorización de Títulos
+4
+1 adscrito al Departamento de la Vivienda.” El propósito de esta Ley especial es crear
+2 trámites expeditos para que las personas que no poseen título de propiedad de su
+3 vivienda, especialmente las personas damnificadas por los desastres que han ocurrido en
+4 los últimos años en Puerto Rico, puedan obtener un título de propiedad que tenga acceso
+5 al Registro de la Propiedad de manera que cuenten con un título que les permita tener
+6 acceso al mercado, brindarles oportunidades de justicia social, cumplir con los requisitos
+7 de los programas de recuperación para miles de familias puertorriqueñas y continuar con
+8 la reconstrucción de Puerto Rico.
+9 Además, esta Ley reconoce la necesidad de establecer mecanismos administrativos,
+10 provisionales y limitados para que las personas que acrediten un interés sucesoral, propietario,
+11 posesorio o familiar razonable sobre una vivienda puedan solicitar, tramitar o recibir ayudas
+12 públicas de vivienda, reparación, mitigación, emergencia, resiliencia o recuperación, sin que dicha
+13 acreditación constituya título registral, adjudicación hereditaria o declaración final de dominio.
+14 Sección 2.- Se enmienda el Artículo 2 de la Ley 118-2022, según enmendada, para
+15 que lea como sigue:
+16 Artículo 2.- Política Pública; Prueba de Título.
+17 La Ley del Registro de la Propiedad Inmobiliaria del Estado Libre Asociado de
+18 Puerto Rico, Ley 210-2015, según enmendada, requiere que conste previamente inscrito
+19 el derecho de la persona que otorgue o en cuyo nombre sean otorgados los actos o
+20 contratos referidos para poder inscribir documentos en que se declaren, transmitan,
+21 graven, modifiquen o extingan el dominio y demás derechos reales sobre bienes
+22 inmuebles.
+5
+1 No obstante, la gran mayoría de los solicitantes a los Programas CDBG-DR y MIT
+2 carecen de título o su propiedad no consta inscrita en el Registro de la Propiedad lo que
+3 ellos reclaman son sus residencias, propiedades o bienes inmuebles. Conocemos que en
+4 Puerto Rico la tradición y práctica ha sido que los procedimientos legales necesarios para
+5 poder inscribir las propiedades inmuebles son largos y onerosos.
+6 Por lo tanto, con esta Ley el Estado Libre Asociado de Puerto Rico tiene el
+7 propósito de flexibilizar y agilizar los procesos de titularidad para lograr su inscripción
+8 en el Registro de la Propiedad.
+9 Como parte de esa política pública, y sin sustituir los procesos de titularidad, inscripción
+10 registral, declaratoria de herederos, partición hereditaria, expediente de dominio, usucapión o
+11 asuntos no contenciosos ante notario, se reconoce que determinadas ayudas públicas de vivienda,
+12 reparación, mitigación, emergencia, resiliencia o recuperación pueden requerir únicamente una
+13 acreditación provisional y limitada de interés sucesoral, propietario, posesorio o familiar, cuando
+14 la naturaleza de la ayuda no implique adjudicar dominio, transferir derechos reales, gravar la
+15 propiedad o afectar sustancialmente derechos de terceros.
+16 Sección 3.- Se añade un nuevo Artículo 3-A a la Ley 118-2022, según enmendada,
+17 para que lea como sigue:
+18 Artículo 3-A.- Certificación Provisional de Interés Sucesoral o Propietario para ayudas
+19 públicas.
+20 (a) Se crea la Certificación Provisional de Interés Sucesoral o Propietario como mecanismo
+21 administrativo, uniforme, limitado y libre de costo para acreditar, exclusivamente ante agencias
+22 gubernamentales, corporaciones públicas, instrumentalidades, municipios o entidades
+6
+1 administradoras de programas públicos, que una persona solicitante posee un interés sucesoral,
+2 propietario, posesorio o familiar razonable sobre una vivienda para fines de solicitar, tramitar o
+3 recibir ayudas públicas de vivienda, reparación, mitigación, emergencia, resiliencia o recuperación.
+4 (b) La Certificación Provisional de Interés Sucesoral o Propietario podrá utilizarse cuando
+5 la persona solicitante no cuente con título inscrito, título perfecto, declaratoria de herederos final,
+6 partición hereditaria, tracto registral actualizado o documento tradicional de titularidad, pero
+7 pueda demostrar, mediante documentos alternos, declaración bajo apercibimiento de perjurio o
+8 información administrativa confiable, un vínculo razonable con la vivienda objeto de la ayuda.
+9 (c) Para fines de este Artículo, la Certificación Provisional de Interés Sucesoral o
+10 Propietario podrá ser aceptada en programas o ayudas dirigidas a:
+11 (1) reparación de vivienda;
+12 (2) reparación de emergencia;
+13 (3) sellado, estabilización o reparación de techos;
+14 (4) mitigación de riesgos;
+15 (5) mejoras de seguridad, salubridad, accesibilidad o resiliencia;
+16 (6) asistencia posterior a huracanes, terremotos, inundaciones, incendios u otros eventos
+17 de emergencia;
+18 (7) programas de recuperación, reconstrucción o rehabilitación de vivienda, en la medida
+19 en que no se requiera adjudicación final de titularidad para la etapa administrativa
+20 correspondiente;
+21 (8) trámites administrativos relacionados con permisos, inspecciones, evaluaciones,
+22 referidos o elegibilidad preliminar; y
+7
+1 (9) cualquier otro programa público estatal, municipal o administrado con fondos federales,
+2 siempre que la aceptación de la certificación sea compatible con la ley federal, la reglamentación
+3 aplicable, los acuerdos de subvención, los planes de acción aprobados y los requisitos específicos del
+4 programa.
+5 (d) La Certificación Provisional de Interés Sucesoral o Propietario no constituirá título de
+6 propiedad, título inscribible, declaratoria de herederos, partición hereditaria, adjudicación de
+7 dominio, expediente de dominio, sentencia, cesión de derechos, autorización para disponer de la
+8 propiedad ni reconocimiento final de titularidad. Tampoco podrá utilizarse, por sí sola, para
+9 vender, donar, hipotecar, gravar, transferir, arrendar a largo plazo, constituir derechos reales,
+10 segregar, agrupar, demoler permanentemente, enajenar o disponer de la propiedad.
+11 (e) La expedición o aceptación de la Certificación Provisional de Interés Sucesoral o
+12 Propietario no extinguirá, limitará ni adjudicará derechos de otros herederos, coherederos,
+13 titulares, poseedores, acreedores, usufructuarios, comuneros o personas con interés legítimo sobre
+14 la propiedad. Cualquier controversia sobre titularidad, partición, administración, posesión, uso,
+15 mejoras, frutos, gastos o derechos hereditarios deberá atenderse conforme al ordenamiento jurídico
+16 aplicable.
+17 (f) La persona solicitante podrá acreditar su interés sucesoral, propietario, posesorio o
+18 familiar mediante uno o más de los siguientes documentos o elementos, según resulten aplicables
+19 y razonablemente disponibles:
+20 (1) certificado de defunción de la persona titular registral, poseedora anterior o causante;
+21 (2) certificado de nacimiento, matrimonio, divorcio, adopción u otro documento que
+22 demuestre vínculo familiar o sucesoral con la persona causante;
+8
+1 (3) testamento, certificación de vigencia de testamento, declaratoria de herederos, instancia,
+2 escritura, documento privado, contrato, cesión, acuerdo familiar o cualquier documento
+3 relacionado con la sucesión o la forma de adquisición del interés reclamado, si existiere;
+4 (4) recibos del Centro de Recaudación de Ingresos Municipales, certificaciones catastrales,
+5 planillas, comprobantes contributivos o documentos municipales relacionados con la propiedad;
+6 (5) facturas, recibos o certificaciones de servicios de agua, energía eléctrica,
+7 telecomunicaciones, internet, mantenimiento, seguros, reparaciones o mejoras;
+8 (6) correspondencia, determinaciones, inspecciones, solicitudes o comunicaciones de la
+9 Agencia Federal para el Manejo de Emergencias, del Departamento de la Vivienda, de un
+10 municipio, de una agencia estatal, de una corporación pública, de una aseguradora o de una
+11 entidad administradora de ayudas públicas;
+12 (7) evidencia de residencia principal, ocupación, posesión, conservación, mantenimiento o
+13 responsabilidad sobre la vivienda;
+14 (8) fotografías, informes de daños, estimados de reparación, inspecciones, permisos,
+15 querellas, certificaciones comunitarias o documentos administrativos relacionados con la vivienda;
+16 (9) declaración bajo apercibimiento de perjurio en formulario uniforme, sin necesidad de
+17 juramentación notarial, en la que la persona solicitante explique la forma en que adquirió o reclama
+18 su interés, el uso de la vivienda, las circunstancias que impiden presentar prueba tradicional de
+19 titularidad y la existencia o desconocimiento de otras personas con posible interés sobre la
+20 propiedad; y
+9
+1 (10) cualquier otra documentación que la agencia administradora del programa considere
+2 razonablemente suficiente, caso a caso, para acreditar un interés sucesoral, propietario, posesorio
+3 o familiar limitado para los fines de la ayuda solicitada.
+4 (g) La declaración bajo apercibimiento de perjurio requerida por este Artículo deberá
+5 incluir, como mínimo:
+6 (1) el nombre completo, dirección física, dirección postal y datos de contacto de la persona
+7 solicitante;
+8 (2) la localización de la vivienda objeto de la solicitud;
+9 (3) la descripción del vínculo de la persona solicitante con la propiedad;
+10 (4) el tiempo durante el cual la persona solicitante o su familia ha ocupado, conservado,
+11 mantenido o reclamado la vivienda;
+12 (5) la identificación de otras personas conocidas que puedan tener interés sucesoral,
+13 propietario, posesorio o familiar sobre la vivienda;
+14 (6) una explicación de los esfuerzos razonables realizados para localizar o notificar a otras
+15 personas con posible interés, cuando ello sea necesario por la naturaleza de la ayuda solicitada;
+16 (7) una afirmación expresa de que la persona solicitante entiende que la certificación no
+17 constituye título de propiedad ni adjudicación de derechos hereditarios;
+18 (8) una autorización para que la agencia administradora verifique la información
+19 presentada ante fuentes gubernamentales, municipales, registrales, contributivas, administrativas
+20 o programáticas; y
+10
+1 (9) una advertencia clara sobre las consecuencias civiles, administrativas y penales de
+2 proveer información falsa, ocultar información material o utilizar la certificación para fines no
+3 autorizados.
+4 (h) Ninguna agencia gubernamental, corporación pública, instrumentalidad, municipio o
+5 entidad administradora de programas públicos podrá denegar automáticamente una solicitud de
+6 ayuda cubierta por este Artículo por la sola razón de que la persona solicitante no posea título
+7 inscrito, declaratoria de herederos, partición hereditaria, tracto registral actualizado, estudio de
+8 título, plano, mensura, escritura pública o documento notarial, cuando la naturaleza de la ayuda
+9 solicitada pueda atenderse mediante la Certificación Provisional de Interés Sucesoral o Propietario
+10 y documentos alternos razonables.
+11 (i) La Certificación Provisional de Interés Sucesoral o Propietario será un mecanismo libre
+12 de costo para la persona solicitante cuando sea emitida, evaluada o aceptada por una agencia
+13 gubernamental, corporación pública, instrumentalidad, municipio o entidad administradora de un
+14 programa público. Ninguna entidad cubierta por este Artículo podrá exigir, como condición inicial
+15 para evaluar ayudas de emergencia, reparación menor, mitigación, estabilización, accesibilidad,
+16 salubridad o seguridad, la contratación de servicios legales privados, servicios notariales privados,
+17 estudios de título, mensuras, planos, tasaciones, gestorías o trámites registrales, salvo que una ley
+18 federal, reglamento federal, acuerdo de subvención, plan de acción aprobado o requisito específico
+19 del programa lo exija expresamente.
+20 (j) Cuando la ayuda solicitada implique demolición permanente, reconstrucción total,
+21 relocalización permanente, adquisición, transferencia de titularidad, constitución de gravamen,
+22 imposición de restricciones reales, cesión de derechos, disposición de la propiedad o cualquier acto
+11
+1 que pueda afectar sustancialmente derechos de terceros, la agencia administradora deberá exigir
+2 salvaguardas adicionales, incluyendo, según corresponda, notificación razonable a otras personas
+3 con posible interés conocido, oportunidad de objeción, documentos adicionales, evaluación legal,
+4 cumplimiento con las normas federales aplicables y cualquier otro requisito indispensable para
+5 proteger derechos propietarios o sucesorales.
+6 (k) La agencia administradora podrá rechazar, suspender o dejar sin efecto una
+7 Certificación Provisional de Interés Sucesoral o Propietario cuando exista evidencia sustancial de
+8 fraude, falsedad, ocultación de información material, controversia activa que impida la concesión
+9 de la ayuda solicitada, oposición fundamentada de una persona con interés legítimo, riesgo de doble
+10 beneficio, incumplimiento con requisitos federales o estatales, o cualquier otra circunstancia que
+11 haga improcedente su aceptación.
+12 (l) La utilización de una Certificación Provisional de Interés Sucesoral o Propietario no
+13 impedirá que la persona solicitante sea referida al Programa de Autorización de Títulos, a servicios
+14 legales gratuitos, a programas de orientación sucesoral, a procesos de mediación, a mecanismos no
+15 contenciosos ante notario, a procedimientos judiciales o a cualquier otro trámite disponible para
+16 perfeccionar, aclarar o inscribir su derecho propietario. No obstante, dicho referido no podrá
+17 utilizarse para detener automáticamente una ayuda de emergencia, reparación menor, mitigación,
+18 estabilización, accesibilidad, salubridad o seguridad cuando la persona solicitante cumpla con los
+19 criterios limitados de este Artículo y la ayuda no requiera adjudicación final de titularidad.
+20 (m) En la medida permitida por la ley federal, la reglamentación federal, los acuerdos de
+21 subvención, los planes de acción aprobados y los requisitos del programa aplicable, las agencias
+22 gubernamentales, corporaciones públicas, instrumentalidades, municipios y entidades
+12
+1 administradoras de fondos públicos deberán armonizar sus formularios, guías, convocatorias,
+2 reglamentos, manuales, listas de cotejo y procedimientos internos con las disposiciones de este
+3 Artículo.
+4 (n) La agencia que emita, evalúe o acepte una Certificación Provisional de Interés Sucesoral
+5 o Propietario deberá conservar un expediente administrativo con la documentación presentada, la
+6 determinación realizada, las advertencias ofrecidas y cualquier evaluación de riesgo, fraude,
+7 duplicidad de beneficios o derechos de terceros. Dicho expediente no constituirá expediente
+8 registral ni sustituirá los procedimientos establecidos por la Ley del Registro de la Propiedad
+9 Inmobiliaria del Estado Libre Asociado de Puerto Rico, el Código Civil de Puerto Rico, la Ley de
+10 Asuntos No Contenciosos ante Notario, las Reglas de Procedimiento Civil o cualquier otra ley
+11 aplicable.
+12 (o) El Departamento de la Vivienda desarrollará un formulario uniforme de Certificación
+13 Provisional de Interés Sucesoral o Propietario, que podrá ser adoptado por agencias
+14 gubernamentales, corporaciones públicas, instrumentalidades, municipios y entidades
+15 administradoras de programas públicos. Dicho formulario deberá redactarse en lenguaje claro,
+16 estar disponible en formato físico y digital, y contener advertencias sobre su alcance limitado, el
+17 deber de veracidad y las consecuencias de su uso indebido.
+18 (p) Nada de lo dispuesto en este Artículo se interpretará como limitación a los requisitos
+19 indispensables de elegibilidad, inspección, duplicidad de beneficios, cumplimiento ambiental,
+20 zonificación, permisos, manejo de fondos federales, prevención de fraude, protección de derechos de
+21 terceros o cualquier otro requisito sustantivo aplicable al programa de ayuda correspondiente.
+13
+1 (q) Toda persona que, a sabiendas, presente información falsa, oculte información material
+2 o utilice la Certificación Provisional de Interés Sucesoral o Propietario para fines no autorizados
+3 estará sujeta a la denegación, suspensión, cancelación o recobro de la ayuda, sin perjuicio de los
+4 referidos administrativos, civiles o penales que procedan conforme al Código Penal de Puerto Rico,
+5 la reglamentación aplicable y cualquier otra ley estatal o federal pertinente.
+6 Sección 4.- Se enmienda el Artículo 20 de la Ley 118-2022, según enmendada, para
+7 que lea como sigue:
+8 Artículo 20.- Reglamentación.
+9 Se faculta al Departamento de la Vivienda a adoptar la reglamentación que sea
+10 necesaria para implementar las disposiciones de esta Ley. Así también, se ordena a todas
+11 las Agencias Gubernamentales, Corporaciones Públicas, Instrumentalidades y
+12 Municipios a adoptar las medidas y los reglamentos de carácter temporero que sean
+13 necesarios para cumplir con esta Ley, en los primeros sesenta (60) días de la aprobación
+14 de esta Ley, sin sujeción a las disposiciones de la Ley 38-2017, según enmendada,
+15 conocida como “Ley de Procedimiento Administrativo Uniforme de Puerto Rico.”
+16 El Departamento de la Vivienda deberá adoptar o enmendar, dentro de noventa (90) días
+17 contados a partir de la aprobación de la ley que añade el Artículo 3-A, la reglamentación,
+18 formularios, guías, listas de cotejo, manuales o protocolos necesarios para implantar la
+19 Certificación Provisional de Interés Sucesoral o Propietario creada en dicho Artículo.
+20 Dicha reglamentación deberá incluir, como mínimo:
+21 (a) el formulario uniforme de Certificación Provisional de Interés Sucesoral o Propietario;
+14
+1 (b) los documentos alternos que podrán aceptarse para acreditar un interés sucesoral,
+2 propietario, posesorio o familiar limitado;
+3 (c) el contenido mínimo de la declaración bajo apercibimiento de perjurio;
+4 (d) las categorías de ayudas públicas para las cuales podrá aceptarse la certificación;
+5 (e) las categorías de ayudas o intervenciones que requerirán salvaguardas adicionales por
+6 su posible impacto sobre derechos de terceros;
+7 (f) los mecanismos de verificación administrativa, prevención de fraude y control de
+8 duplicidad de beneficios;
+9 (g) las normas para referir a la persona solicitante al Programa de Autorización de Títulos,
+10 servicios legales gratuitos, procesos sucesorales, asuntos no contenciosos ante notario u otros
+11 mecanismos de perfeccionamiento de título, sin que dicho referido paralice automáticamente
+12 ayudas de emergencia o reparación menor cuando procedan;
+13 (h) las guías para proteger información personal, sucesoral, contributiva, registral o
+14 confidencial;
+15 (i) las obligaciones de las agencias gubernamentales, corporaciones públicas,
+16 instrumentalidades, municipios y entidades administradoras de programas públicos para
+17 armonizar sus procedimientos internos con esta Ley; y
+18 (j) cualquier otro requisito necesario para la implantación uniforme de este mecanismo, en
+19 la medida compatible con la ley federal, la reglamentación federal, los acuerdos de subvención, los
+20 planes de acción aprobados y los requisitos específicos de los programas aplicables.
+21 Hasta tanto se adopte o enmiende la reglamentación correspondiente, el Departamento de la
+22 Vivienda, las agencias gubernamentales, corporaciones públicas, instrumentalidades, municipios
+15
+1 y entidades administradoras de programas públicos deberán evaluar las solicitudes cubiertas por
+2 el Artículo 3-A de esta Ley conforme a los criterios mínimos allí dispuestos.
+3 Sección 5.- Se enmienda el Artículo 22 de la Ley 118-2022, según enmendada, para
+4 que lea como sigue:
+5 Artículo 22.- Retroactividad y aplicabilidad de esta Ley.
+6 Esta Ley tendrá efectos retroactivos en cuanto a los Solicitantes elegibles a recibir
+7 asistencia bajo los Programas CDBG-DR o MIT, conforme dispuesto en esta Ley. Se
+8 ordena al Departamento de la Vivienda a revisar todas las solicitudes denegadas por falta
+9 de título de propiedad. En aquellos casos en que conforme a los propósitos de esta Ley
+10 existan solicitudes denegados en las cuales la persona pueda beneficiarse de lo aquí
+11 dispuesto, el Departamento de la Vivienda tendrá que reactivar dicha solicitud.
+12 Las disposiciones del Artículo 3-A de esta Ley aplicarán a solicitudes pendientes y futuras
+13 de ayudas públicas de vivienda, reparación, mitigación, emergencia, resiliencia o recuperación.
+14 También podrán aplicarse, a solicitud de parte, a solicitudes previamente denegadas por falta de
+15 prueba tradicional de titularidad, siempre que la solicitud no haya adquirido firmeza
+16 administrativa, que su reapertura sea permitida por la ley, reglamentación o requisitos del
+17 programa aplicable, y que existan fondos, términos y condiciones programáticas que permitan su
+18 evaluación.
+19 Nada de lo dispuesto en esta Ley se interpretará como una obligación de reabrir solicitudes
+20 cuando ello sea incompatible con una norma federal, un acuerdo de subvención, un plan de acción
+21 aprobado, una determinación administrativa final y firme, una sentencia judicial, una fecha límite
+22 vencida, la ausencia de fondos disponibles o los requisitos sustantivos del programa aplicable.
+16
+1 Sección 6.- Cláusula de interpretación.
+2 Nada de lo dispuesto en esta Ley se interpretará como autorización para adjudicar
+3 derechos hereditarios, declarar titularidad, modificar el tracto registral, alterar las normas
+4 sobre sucesiones, sustituir los procedimientos de inscripción en el Registro de la
+5 Propiedad, limitar derechos de terceros o afectar controversias judiciales o extrajudiciales
+6 relacionadas con dominio, posesión, uso, administración, partición, comunidad
+7 hereditaria, usufructo, servidumbres, gravámenes o cualquier otro derecho real sobre
+8 bienes inmuebles.
+9 Sección 7.- Separabilidad.
+10 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+11 disposición, sección o parte de esta Ley fuere anulada o declarada inconstitucional por
+12 un tribunal competente, la resolución, dictamen o sentencia a tal efecto no afectará,
+13 perjudicará ni invalidará el remanente de esta Ley.
+14 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo,
+15 oración, palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada
+16 o declarada inconstitucional.
+17 Sección 8.- Vigencia.
+18 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL   s e a l f d c u c p d i o e v i d u m f s q s h c]
+[DELETED:  r c f p p o t q r p s l y o T c m p f a p r c u v e p s n u f d d U r d e u i d u p p a u i s p p o r s u v m u c p t d p n e d i n e a u d h n a l v h g t o i l S f e s c p a p q u n q e d u a u o n ú p l]
+[DELETED:  m t p e q e r s c e o c l c t u a l C l a s i r d P R r p s p t]
+[DELETED:  e p q l p q n p t d p d s A e L r l n d e m a p p o f r s u v p s t o r a p a d d l p q o o e c n s o l a o r p p i d e q s d t m o e e d y d d r s b]
+[DELETED:  l t c e L e E L A d P R t e C r d d h p h e d d u o a r a l p A p ( a g c p i m o e]
+[DELETED:  a p r ( l p p i ( P f d e A l C P d I S o P ( ( ( ( ( ( d ( e q n s r a f d t p l e a c ( t a r c p i e r]
+[DELETED:  ( s a p ( p t i d d h p h a d d p n r f d t T p u p s s p v s ( L e o a d l C P d I S o P n e l n a d d o h c t l m a ( L p s p a s i s p p o f y ( ( c d n m d a u o d q d]
+[DELETED:  ( e d p c c a f o c d r ( p ( f r o c d s d a e e t ( c d i s o c d l A F p e M d E d D d l V d u m e ( r ( f i d d e d r i p q ( j s t y l e o d d o p c p i s l p]
+[DELETED:  ( r o ( L d b a d p r p e A d i ( s ( ( ( m ( l i d o p c q p t i s p ( p ( c ( u a p q l a a v l i p o]
+[DELETED:  ( p a ( e a i t s y ( d g p p s e f d ( C l a s i d p r t r i]
+[DELETED:  q s c c p ( L a a p r s o d s e u C f d b h ( i l c p a o i s d p N o d r n p u e c ( s g c p i m y e]
+[DELETED:  a d f p d a s f g c r A ( o d r l a o y c e d r f d d b o d d t D e n c e r I A a ( P d I S o P q p s a p a g c p i m y e a e d ( i d e i d d b c a z t]
+[DELETED:  ( o e r l A G C P I y e L s s a l d d l L 3 s e E c a p d l a d l l q a e A 3 l r f g l d c m o p n p i l C D (]
+[DELETED:  ( l d a q p a p a u i s p ( ( ( s ( l m d v a p d f y c d d ( s l g p s a n c a n u o m d p d t s q d r p a a ( l g p p i p s c r o c ( l o d l a g c p i m y e a d p p p a ( l p H t s a o e l r c e D d l V]
+[DELETED:  y e b l P C o M c d e e L S s d e l c l p p b d l a L d T p t d t s q l s n h a f a q s r s p p l l r o r d p e N c a v]
+[DELETED:  s s l p d i e e R d l c d p u a p c c c p s o p l a t c l r d o s a t e n a]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1348
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 1, 2, 20 y 22, y añadir un nuevo Artículo 3-A a la Ley 118-
+2022, según enmendada, a los fines de crear una certificación provisional de interés
+sucesoral o propietario para el acceso limitado a ayudas públicas de vivienda, reparación,
+mitigación, emergencia, resiliencia y recuperación; ordenar reglamentación; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Después de cada emergencia, la recuperación de una familia comienza en lo más
+básico: poder regresar a su casa, reparar el techo, estabilizar una estructura, remover un
+riesgo o evitar que una vivienda continúe deteriorándose. Sin embargo, para muchas
+familias puertorriqueñas, ese primer paso se detiene ante una exigencia documental que
+no siempre responde a la realidad de la vivienda en Puerto Rico: tener un título perfecto,
+actualizado o inscrito.
+En la Isla existen propiedades que han pasado de padres a hijos, de abuelos a
+nietos o entre varios integrantes de una misma familia sin que se haya completado
+formalmente todo el trámite sucesoral, la partición hereditaria o la inscripción registral.
+Esa situación no necesariamente significa abandono, fraude o ausencia de vínculo con la
+propiedad. En muchas ocasiones, refleja una realidad común: familias que han vivido,
+mantenido, reparado y protegido una vivienda durante años, pero cuyo expediente legal
+no está completo por razón de costos, desconocimiento, ausencia de coherederos, falta de
+
+2
+tracto registral, controversias familiares, procesos pendientes o trámites que resultan
+demasiado extensos para una necesidad urgente.
+La Ley 118-2022 constituyó un paso importante para atender el problema de la
+falta de título en el contexto de los programas de recuperación. Dicha Ley reconoció que
+un número significativo de solicitantes a programas de recuperación y mitigación carece
+de título o de inscripción registral, y que los procedimientos necesarios para lograr dicha
+inscripción pueden ser largos y onerosos. También creó mecanismos para facilitar
+procesos administrativos y encaminar la obtención de títulos inscribibles en el Registro
+de la Propiedad.
+No obstante, persiste una situación que requiere atención legislativa adicional. No
+toda ayuda pública relacionada con una vivienda exige, por su naturaleza, una
+adjudicación final de dominio. Una reparación de emergencia, una intervención de
+mitigación, una mejora de seguridad, un trabajo de estabilización, una evaluación de
+daños o una asistencia preliminar de recuperación no siempre debe depender de que la
+familia haya culminado una declaratoria de herederos, una partición hereditaria, una
+inscripción registral o un procedimiento de tracto sucesivo.
+Esta medida atiende esa diferencia. Su propósito no es sustituir el Registro de la
+Propiedad, alterar el derecho sucesoral ni adjudicar controversias entre herederos. Su
+propósito es más limitado y práctico: permitir que, para ciertos programas de ayuda
+pública, una persona pueda acreditar un interés sucesoral, propietario, posesorio o
+familiar razonable sobre una vivienda mediante una certificación provisional,
+documentos alternos y una declaración bajo apercibimiento de perjurio.
+La Certificación Provisional de Interés Sucesoral o Propietario que aquí se crea no
+constituye título de propiedad, no es documento inscribible, no equivale a una
+declaratoria de herederos, no autoriza la venta, hipoteca, gravamen, transferencia o
+disposición de la propiedad, y no elimina los derechos de otros coherederos o personas
+con interés legítimo. Su función es servir como puente administrativo para que una
+familia no quede excluida de una ayuda urgente o necesaria únicamente porque la
+herencia no se ha completado formalmente.
+
+3
+La medida también procura evitar que el remedio se convierta en otra carga
+económica para quienes precisamente buscan asistencia. Por eso, la certificación se diseña
+como un mecanismo administrativo, uniforme y libre de costo para la persona solicitante.
+La contratación de servicios notariales privados, estudios de título, mensuras, planos,
+gestorías o trámites registrales no debe imponerse como requisito inicial cuando la ayuda
+solicitada no afecta el dominio ni requiere una transferencia de derechos reales.
+Al mismo tiempo, se incorporan salvaguardas para proteger la integridad de los
+programas y los derechos de terceros. La persona solicitante deberá identificar, en la
+medida de su conocimiento, a otras personas con posible interés sobre la propiedad;
+deberá explicar la base de su vínculo con la vivienda; y deberá reconocer expresamente
+que la certificación tiene un alcance limitado. Cuando la ayuda solicitada implique
+demolición permanente, reconstrucción total, relocalización, adquisición, transferencia,
+gravamen o cualquier actuación que pueda afectar sustancialmente derechos de terceros,
+la agencia administradora deberá exigir salvaguardas adicionales.
+La recuperación de Puerto Rico requiere procesos serios, pero también
+proporcionales. Una familia no debe perder la oportunidad de reparar o estabilizar su
+hogar porque el expediente hereditario todavía no está completo. Esta medida reconoce
+esa realidad y establece un mecanismo balanceado: acceso limitado a ayudas públicas,
+protección contra el fraude, respeto al derecho sucesoral y preservación de las normas
+registrales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley 118-2022, según enmendada, para
+2 que lea como sigue:
+3 Artículo 1.- Título y propósito.
+4 Esta Ley se conocerá y podrá ser citada como la “Ley especial para acelerar los
+5 procesos para otorgar títulos de propiedad bajo el Programa de Autorización de Títulos
+
+4
+1 adscrito al Departamento de la Vivienda.” El propósito de esta Ley especial es crear
+2 trámites expeditos para que las personas que no poseen título de propiedad de su
+3 vivienda, especialmente las personas damnificadas por los desastres que han ocurrido en
+4 los últimos años en Puerto Rico, puedan obtener un título de propiedad que tenga acceso
+5 al Registro de la Propiedad de manera que cuenten con un título que les permita tener
+6 acceso al mercado, brindarles oportunidades de justicia social, cumplir con los requisitos
+7 de los programas de recuperación para miles de familias puertorriqueñas y continuar con
+8 la reconstrucción de Puerto Rico.
+9 Además, esta Ley reconoce la necesidad de establecer mecanismos administrativos,
+10 provisionales y limitados para que las personas que acrediten un interés sucesoral, propietario,
+11 posesorio o familiar razonable sobre una vivienda puedan solicitar, tramitar o recibir ayudas
+12 públicas de vivienda, reparación, mitigación, emergencia, resiliencia o recuperación, sin que dicha
+13 acreditación constituya título registral, adjudicación hereditaria o declaración final de dominio.
+14 Sección 2.- Se enmienda el Artículo 2 de la Ley 118-2022, según enmendada, para
+15 que lea como sigue:
+16 Artículo 2.- Política Pública; Prueba de Título.
+17 La Ley del Registro de la Propiedad Inmobiliaria del Estado Libre Asociado de
+18 Puerto Rico, Ley 210-2015, según enmendada, requiere que conste previamente inscrito
+19 el derecho de la persona que otorgue o en cuyo nombre sean otorgados los actos o
+20 contratos referidos para poder inscribir documentos en que se declaren, transmitan,
+21 graven, modifiquen o extingan el dominio y demás derechos reales sobre bienes
+22 inmuebles.
+
+5
+1 No obstante, la gran mayoría de los solicitantes a los Programas CDBG-DR y MIT
+2 carecen de título o su propiedad no consta inscrita en el Registro de la Propiedad lo que
+3 ellos reclaman son sus residencias, propiedades o bienes inmuebles. Conocemos que en
+4 Puerto Rico la tradición y práctica ha sido que los procedimientos legales necesarios para
+5 poder inscribir las propiedades inmuebles son largos y onerosos.
+6 Por lo tanto, con esta Ley el Estado Libre Asociado de Puerto Rico tiene el
+7 propósito de flexibilizar y agilizar los procesos de titularidad para lograr su inscripción
+8 en el Registro de la Propiedad.
+9 Como parte de esa política pública, y sin sustituir los procesos de titularidad, inscripción
+10 registral, declaratoria de herederos, partición hereditaria, expediente de dominio, usucapión o
+11 asuntos no contenciosos ante notario, se reconoce que determinadas ayudas públicas de vivienda,
+12 reparación, mitigación, emergencia, resiliencia o recuperación pueden requerir únicamente una
+13 acreditación provisional y limitada de interés sucesoral, propietario, posesorio o familiar, cuando
+14 la naturaleza de la ayuda no implique adjudicar dominio, transferir derechos reales, gravar la
+15 propiedad o afectar sustancialmente derechos de terceros.
+16 Sección 3.- Se añade un nuevo Artículo 3-A a la Ley 118-2022, según enmendada,
+17 para que lea como sigue:
+18 Artículo 3-A.- Certificación Provisional de Interés Sucesoral o Propietario para ayudas
+19 públicas.
+20 (a) Se crea la Certificación Provisional de Interés Sucesoral o Propietario como mecanismo
+21 administrativo, uniforme, limitado y libre de costo para acreditar, exclusivamente ante agencias
+22 gubernamentales, corporaciones públicas, instrumentalidades, municipios o entidades
+
+6
+1 administradoras de programas públicos, que una persona solicitante posee un interés sucesoral,
+2 propietario, posesorio o familiar razonable sobre una vivienda para fines de solicitar, tramitar o
+3 recibir ayudas públicas de vivienda, reparación, mitigación, emergencia, resiliencia o recuperación.
+4 (b) La Certificación Provisional de Interés Sucesoral o Propietario podrá utilizarse cuando
+5 la persona solicitante no cuente con título inscrito, título perfecto, declaratoria de herederos final,
+6 partición hereditaria, tracto registral actualizado o documento tradicional de titularidad, pero
+7 pueda demostrar, mediante documentos alternos, declaración bajo apercibimiento de perjurio o
+8 información administrativa confiable, un vínculo razonable con la vivienda objeto de la ayuda.
+9 (c) Para fines de este Artículo, la Certificación Provisional de Interés Sucesoral o
+10 Propietario podrá ser aceptada en programas o ayudas dirigidas a:
+11 (1) reparación de vivienda;
+12 (2) reparación de emergencia;
+13 (3) sellado, estabilización o reparación de techos;
+14 (4) mitigación de riesgos;
+15 (5) mejoras de seguridad, salubridad, accesibilidad o resiliencia;
+16 (6) asistencia posterior a huracanes, terremotos, inundaciones, incendios u otros eventos
+17 de emergencia;
+18 (7) programas de recuperación, reconstrucción o rehabilitación de vivienda, en la medida
+19 en que no se requiera adjudicación final de titularidad para la etapa administrativa
+20 correspondiente;
+21 (8) trámites administrativos relacionados con permisos, inspecciones, evaluaciones,
+22 referidos o elegibilidad preliminar; y
+
+7
+1 (9) cualquier otro programa público estatal, municipal o administrado con fondos federales,
+2 siempre que la aceptación de la certificación sea compatible con la ley federal, la reglamentación
+3 aplicable, los acuerdos de subvención, los planes de acción aprobados y los requisitos específicos del
+4 programa.
+5 (d) La Certificación Provisional de Interés Sucesoral o Propietario no constituirá título de
+6 propiedad, título inscribible, declaratoria de herederos, partición hereditaria, adjudicación de
+7 dominio, expediente de dominio, sentencia, cesión de derechos, autorización para disponer de la
+8 propiedad ni reconocimiento final de titularidad. Tampoco podrá utilizarse, por sí sola, para
+9 vender, donar, hipotecar, gravar, transferir, arrendar a largo plazo, constituir derechos reales,
+10 segregar, agrupar, demoler permanentemente, enajenar o disponer de la propiedad.
+11 (e) La expedición o aceptación de la Certificación Provisional de Interés Sucesoral o
+12 Propietario no extinguirá, limitará ni adjudicará derechos de otros herederos, coherederos,
+13 titulares, poseedores, acreedores, usufructuarios, comuneros o personas con interés legítimo sobre
+14 la propiedad. Cualquier controversia sobre titularidad, partición, administración, posesión, uso,
+15 mejoras, frutos, gastos o derechos hereditarios deberá atenderse conforme al ordenamiento jurídico
+16 aplicable.
+17 (f) La persona solicitante podrá acreditar su interés sucesoral, propietario, posesorio o
+18 familiar mediante uno o más de los siguientes documentos o elementos, según resulten aplicables
+19 y razonablemente disponibles:
+20 (1) certificado de defunción de la persona titular registral, poseedora anterior o causante;
+21 (2) certificado de nacimiento, matrimonio, divorcio, adopción u otro documento que
+22 demuestre vínculo familiar o sucesoral con la persona causante;
+
+8
+1 (3) testamento, certificación de vigencia de testamento, declaratoria de herederos, instancia,
+2 escritura, documento privado, contrato, cesión, acuerdo familiar o cualquier documento
+3 relacionado con la sucesión o la forma de adquisición del interés reclamado, si existiere;
+4 (4) recibos del Centro de Recaudación de Ingresos Municipales, certificaciones catastrales,
+5 planillas, comprobantes contributivos o documentos municipales relacionados con la propiedad;
+6 (5) facturas, recibos o certificaciones de servicios de agua, energía eléctrica,
+7 telecomunicaciones, internet, mantenimiento, seguros, reparaciones o mejoras;
+8 (6) correspondencia, determinaciones, inspecciones, solicitudes o comunicaciones de la
+9 Agencia Federal para el Manejo de Emergencias, del Departamento de la Vivienda, de un
+10 municipio, de una agencia estatal, de una corporación pública, de una aseguradora o de una
+11 entidad administradora de ayudas públicas;
+12 (7) evidencia de residencia principal, ocupación, posesión, conservación, mantenimiento o
+13 responsabilidad sobre la vivienda;
+14 (8) fotografías, informes de daños, estimados de reparación, inspecciones, permisos,
+15 querellas, certificaciones comunitarias o documentos administrativos relacionados con la vivienda;
+16 (9) declaración bajo apercibimiento de perjurio en formulario uniforme, sin necesidad de
+17 juramentación notarial, en la que la persona solicitante explique la forma en que adquirió o reclama
+18 su interés, el uso de la vivienda, las circunstancias que impiden presentar prueba tradicional de
+19 titularidad y la existencia o desconocimiento de otras personas con posible interés sobre la
+20 propiedad; y
+
+9
+1 (10) cualquier otra documentación que la agencia administradora del programa considere
+2 razonablemente suficiente, caso a caso, para acreditar un interés sucesoral, propietario, posesorio
+3 o familiar limitado para los fines de la ayuda solicitada.
+4 (g) La declaración bajo apercibimiento de perjurio requerida por este Artículo deberá
+5 incluir, como mínimo:
+6 (1) el nombre completo, dirección física, dirección postal y datos de contacto de la persona
+7 solicitante;
+8 (2) la localización de la vivienda objeto de la solicitud;
+9 (3) la descripción del vínculo de la persona solicitante con la propiedad;
+10 (4) el tiempo durante el cual la persona solicitante o su familia ha ocupado, conservado,
+11 mantenido o reclamado la vivienda;
+12 (5) la identificación de otras personas conocidas que puedan tener interés sucesoral,
+13 propietario, posesorio o familiar sobre la vivienda;
+14 (6) una explicación de los esfuerzos razonables realizados para localizar o notificar a otras
+15 personas con posible interés, cuando ello sea necesario por la naturaleza de la ayuda solicitada;
+16 (7) una afirmación expresa de que la persona solicitante entiende que la certificación no
+17 constituye título de propiedad ni adjudicación de derechos hereditarios;
+18 (8) una autorización para que la agencia administradora verifique la información
+19 presentada ante fuentes gubernamentales, municipales, registrales, contributivas, administrativas
+20 o programáticas; y
+
+10
+1 (9) una advertencia clara sobre las consecuencias civiles, administrativas y penales de
+2 proveer información falsa, ocultar información material o utilizar la certificación para fines no
+3 autorizados.
+4 (h) Ninguna agencia gubernamental, corporación pública, instrumentalidad, municipio o
+5 entidad administradora de programas públicos podrá denegar automáticamente una solicitud de
+6 ayuda cubierta por este Artículo por la sola razón de que la persona solicitante no posea título
+7 inscrito, declaratoria de herederos, partición hereditaria, tracto registral actualizado, estudio de
+8 título, plano, mensura, escritura pública o documento notarial, cuando la naturaleza de la ayuda
+9 solicitada pueda atenderse mediante la Certificación Provisional de Interés Sucesoral o Propietario
+10 y documentos alternos razonables.
+11 (i) La Certificación Provisional de Interés Sucesoral o Propietario será un mecanismo libre
+12 de costo para la persona solicitante cuando sea emitida, evaluada o aceptada por una agencia
+13 gubernamental, corporación pública, instrumentalidad, municipio o entidad administradora de un
+14 programa público. Ninguna entidad cubierta por este Artículo podrá exigir, como condición inicial
+15 para evaluar ayudas de emergencia, reparación menor, mitigación, estabilización, accesibilidad,
+16 salubridad o seguridad, la contratación de servicios legales privados, servicios notariales privados,
+17 estudios de título, mensuras, planos, tasaciones, gestorías o trámites registrales, salvo que una ley
+18 federal, reglamento federal, acuerdo de subvención, plan de acción aprobado o requisito específico
+19 del programa lo exija expresamente.
+20 (j) Cuando la ayuda solicitada implique demolición permanente, reconstrucción total,
+21 relocalización permanente, adquisición, transferencia de titularidad, constitución de gravamen,
+22 imposición de restricciones reales, cesión de derechos, disposición de la propiedad o cualquier acto
+
+11
+1 que pueda afectar sustancialmente derechos de terceros, la agencia administradora deberá exigir
+2 salvaguardas adicionales, incluyendo, según corresponda, notificación razonable a otras personas
+3 con posible interés conocido, oportunidad de objeción, documentos adicionales, evaluación legal,
+4 cumplimiento con las normas federales aplicables y cualquier otro requisito indispensable para
+5 proteger derechos propietarios o sucesorales.
+6 (k) La agencia administradora podrá rechazar, suspender o dejar sin efecto una
+7 Certificación Provisional de Interés Sucesoral o Propietario cuando exista evidencia sustancial de
+8 fraude, falsedad, ocultación de información material, controversia activa que impida la concesión
+9 de la ayuda solicitada, oposición fundamentada de una persona con interés legítimo, riesgo de doble
+10 beneficio, incumplimiento con requisitos federales o estatales, o cualquier otra circunstancia que
+11 haga improcedente su aceptación.
+12 (l) La utilización de una Certificación Provisional de Interés Sucesoral o Propietario no
+13 impedirá que la persona solicitante sea referida al Programa de Autorización de Títulos, a servicios
+14 legales gratuitos, a programas de orientación sucesoral, a procesos de mediación, a mecanismos no
+15 contenciosos ante notario, a procedimientos judiciales o a cualquier otro trámite disponible para
+16 perfeccionar, aclarar o inscribir su derecho propietario. No obstante, dicho referido no podrá
+17 utilizarse para detener automáticamente una ayuda de emergencia, reparación menor, mitigación,
+18 estabilización, accesibilidad, salubridad o seguridad cuando la persona solicitante cumpla con los
+19 criterios limitados de este Artículo y la ayuda no requiera adjudicación final de titularidad.
+20 (m) En la medida permitida por la ley federal, la reglamentación federal, los acuerdos de
+21 subvención, los planes de acción aprobados y los requisitos del programa aplicable, las agencias
+22 gubernamentales, corporaciones públicas, instrumentalidades, municipios y entidades
+
+12
+1 administradoras de fondos públicos deberán armonizar sus formularios, guías, convocatorias,
+2 reglamentos, manuales, listas de cotejo y procedimientos internos con las disposiciones de este
+3 Artículo.
+4 (n) La agencia que emita, evalúe o acepte una Certificación Provisional de Interés Sucesoral
+5 o Propietario deberá conservar un expediente administrativo con la documentación presentada, la
+6 determinación realizada, las advertencias ofrecidas y cualquier evaluación de riesgo, fraude,
+7 duplicidad de beneficios o derechos de terceros. Dicho expediente no constituirá expediente
+8 registral ni sustituirá los procedimientos establecidos por la Ley del Registro de la Propiedad
+9 Inmobiliaria del Estado Libre Asociado de Puerto Rico, el Código Civil de Puerto Rico, la Ley de
+10 Asuntos No Contenciosos ante Notario, las Reglas de Procedimiento Civil o cualquier otra ley
+11 aplicable.
+12 (o) El Departamento de la Vivienda desarrollará un formulario uniforme de Certificación
+13 Provisional de Interés Sucesoral o Propietario, que podrá ser adoptado por agencias
+14 gubernamentales, corporaciones públicas, instrumentalidades, municipios y entidades
+15 administradoras de programas públicos. Dicho formulario deberá redactarse en lenguaje claro,
+16 estar disponible en formato físico y digital, y contener advertencias sobre su alcance limitado, el
+17 deber de veracidad y las consecuencias de su uso indebido.
+18 (p) Nada de lo dispuesto en este Artículo se interpretará como limitación a los requisitos
+19 indispensables de elegibilidad, inspección, duplicidad de beneficios, cumplimiento ambiental,
+20 zonificación, permisos, manejo de fondos federales, prevención de fraude, protección de derechos de
+21 terceros o cualquier otro requisito sustantivo aplicable al programa de ayuda correspondiente.
+
+13
+1 (q) Toda persona que, a sabiendas, presente información falsa, oculte información material
+2 o utilice la Certificación Provisional de Interés Sucesoral o Propietario para fines no autorizados
+3 estará sujeta a la denegación, suspensión, cancelación o recobro de la ayuda, sin perjuicio de los
+4 referidos administrativos, civiles o penales que procedan conforme al Código Penal de Puerto Rico,
+5 la reglamentación aplicable y cualquier otra ley estatal o federal pertinente.
+6 Sección 4.- Se enmienda el Artículo 20 de la Ley 118-2022, según enmendada, para
+7 que lea como sigue:
+8 Artículo 20.- Reglamentación.
+9 Se faculta al Departamento de la Vivienda a adoptar la reglamentación que sea
+10 necesaria para implementar las disposiciones de esta Ley. Así también, se ordena a todas
+11 las Agencias Gubernamentales, Corporaciones Públicas, Instrumentalidades y
+12 Municipios a adoptar las medidas y los reglamentos de carácter temporero que sean
+13 necesarios para cumplir con esta Ley, en los primeros sesenta (60) días de la aprobación
+14 de esta Ley, sin sujeción a las disposiciones de la Ley 38-2017, según enmendada,
+15 conocida como “Ley de Procedimiento Administrativo Uniforme de Puerto Rico.”
+16 El Departamento de la Vivienda deberá adoptar o enmendar, dentro de noventa (90) días
+17 contados a partir de la aprobación de la ley que añade el Artículo 3-A, la reglamentación,
+18 formularios, guías, listas de cotejo, manuales o protocolos necesarios para implantar la
+19 Certificación Provisional de Interés Sucesoral o Propietario creada en dicho Artículo.
+20 Dicha reglamentación deberá incluir, como mínimo:
+21 (a) el formulario uniforme de Certificación Provisional de Interés Sucesoral o Propietario;
+
+14
+1 (b) los documentos alternos que podrán aceptarse para acreditar un interés sucesoral,
+2 propietario, posesorio o familiar limitado;
+3 (c) el contenido mínimo de la declaración bajo apercibimiento de perjurio;
+4 (d) las categorías de ayudas públicas para las cuales podrá aceptarse la certificación;
+5 (e) las categorías de ayudas o intervenciones que requerirán salvaguardas adicionales por
+6 su posible impacto sobre derechos de terceros;
+7 (f) los mecanismos de verificación administrativa, prevención de fraude y control de
+8 duplicidad de beneficios;
+9 (g) las normas para referir a la persona solicitante al Programa de Autorización de Títulos,
+10 servicios legales gratuitos, procesos sucesorales, asuntos no contenciosos ante notario u otros
+11 mecanismos de perfeccionamiento de título, sin que dicho referido paralice automáticamente
+12 ayudas de emergencia o reparación menor cuando procedan;
+13 (h) las guías para proteger información personal, sucesoral, contributiva, registral o
+14 confidencial;
+15 (i) las obligaciones de las agencias gubernamentales, corporaciones públicas,
+16 instrumentalidades, municipios y entidades administradoras de programas públicos para
+17 armonizar sus procedimientos internos con esta Ley; y
+18 (j) cualquier otro requisito necesario para la implantación uniforme de este mecanismo, en
+19 la medida compatible con la ley federal, la reglamentación federal, los acuerdos de subvención, los
+20 planes de acción aprobados y los requisitos específicos de los programas aplicables.
+21 Hasta tanto se adopte o enmiende la reglamentación correspondiente, el Departamento de la
+22 Vivienda, las agencias gubernamentales, corporaciones públicas, instrumentalidades, municipios
+
+15
+1 y entidades administradoras de programas públicos deberán evaluar las solicitudes cubiertas por
+2 el Artículo 3-A de esta Ley conforme a los criterios mínimos allí dispuestos.
+3 Sección 5.- Se enmienda el Artículo 22 de la Ley 118-2022, según enmendada, para
+4 que lea como sigue:
+5 Artículo 22.- Retroactividad y aplicabilidad de esta Ley.
+6 Esta Ley tendrá efectos retroactivos en cuanto a los Solicitantes elegibles a recibir
+7 asistencia bajo los Programas CDBG-DR o MIT, conforme dispuesto en esta Ley. Se
+8 ordena al Departamento de la Vivienda a revisar todas las solicitudes denegadas por falta
+9 de título de propiedad. En aquellos casos en que conforme a los propósitos de esta Ley
+10 existan solicitudes denegados en las cuales la persona pueda beneficiarse de lo aquí
+11 dispuesto, el Departamento de la Vivienda tendrá que reactivar dicha solicitud.
+12 Las disposiciones del Artículo 3-A de esta Ley aplicarán a solicitudes pendientes y futuras
+13 de ayudas públicas de vivienda, reparación, mitigación, emergencia, resiliencia o recuperación.
+14 También podrán aplicarse, a solicitud de parte, a solicitudes previamente denegadas por falta de
+15 prueba tradicional de titularidad, siempre que la solicitud no haya adquirido firmeza
+16 administrativa, que su reapertura sea permitida por la ley, reglamentación o requisitos del
+17 programa aplicable, y que existan fondos, términos y condiciones programáticas que permitan su
+18 evaluación.
+19 Nada de lo dispuesto en esta Ley se interpretará como una obligación de reabrir solicitudes
+20 cuando ello sea incompatible con una norma federal, un acuerdo de subvención, un plan de acción
+21 aprobado, una determinación administrativa final y firme, una sentencia judicial, una fecha límite
+22 vencida, la ausencia de fondos disponibles o los requisitos sustantivos del programa aplicable.
+
+16
+1 Sección 6.- Cláusula de interpretación.
+2 Nada de lo dispuesto en esta Ley se interpretará como autorización para adjudicar
+3 derechos hereditarios, declarar titularidad, modificar el tracto registral, alterar las normas
+4 sobre sucesiones, sustituir los procedimientos de inscripción en el Registro de la
+5 Propiedad, limitar derechos de terceros o afectar controversias judiciales o extrajudiciales
+6 relacionadas con dominio, posesión, uso, administración, partición, comunidad
+7 hereditaria, usufructo, servidumbres, gravámenes o cualquier otro derecho real sobre
+8 bienes inmuebles.
+9 Sección 7.- Separabilidad.
+10 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+11 disposición, sección o parte de esta Ley fuere anulada o declarada inconstitucional por
+12 un tribunal competente, la resolución, dictamen o sentencia a tal efecto no afectará,
+13 perjudicará ni invalidará el remanente de esta Ley.
+14 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo,
+15 oración, palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada
+16 o declarada inconstitucional.
+17 Sección 8.- Vigencia.
+18 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL   s e a l f d c u c p d i o e v i d u m f s q s h c]
+[DELETED:  r c f p p o t q r p s l y o T c m p f a p r c u v e p s n u f d d U r d e u i d u p p a u i s p p o r s u v m u c p t d p n e d i n e a u d h n a l v h g t o i l S f e s c p a p q u n q e d u a u o n ú p l]
+[DELETED:  m t p e q e r s c e o c l c t u a l C l a s i r d P R r p s p t]
+[DELETED:  e p q l p q n p t d p d s A e L r l n d e m a p p o f r s u v p s t o r a p a d d l p q o o e c n s o l a o r p p i d e q s d t m o e e d y d d r s b]
+[DELETED:  l t c e L e E L A d P R t e C r d d h p h e d d u o a r a l p A p ( a g c p i m o e]
+[DELETED:  a p r ( l p p i ( P f d e A l C P d I S o P ( ( ( ( ( ( d ( e q n s r a f d t p l e a c ( t a r c p i e r]
+[DELETED:  ( s a p ( p t i d d h p h a d d p n r f d t T p u p s s p v s ( L e o a d l C P d I S o P n e l n a d d o h c t l m a ( L p s p a s i s p p o f y ( ( c d n m d a u o d q d]
+[DELETED:  ( e d p c c a f o c d r ( p ( f r o c d s d a e e t ( c d i s o c d l A F p e M d E d D d l V d u m e ( r ( f i d d e d r i p q ( j s t y l e o d d o p c p i s l p]
+[DELETED:  ( r o ( L d b a d p r p e A d i ( s ( ( ( m ( l i d o p c q p t i s p ( p ( c ( u a p q l a a v l i p o]
+[DELETED:  ( p a ( e a i t s y ( d g p p s e f d ( C l a s i d p r t r i]
+[DELETED:  q s c c p ( L a a p r s o d s e u C f d b h ( i l c p a o i s d p N o d r n p u e c ( s g c p i m y e]
+[DELETED:  a d f p d a s f g c r A ( o d r l a o y c e d r f d d b o d d t D e n c e r I A a ( P d I S o P q p s a p a g c p i m y e a e d ( i d e i d d b c a z t]
+[DELETED:  ( o e r l A G C P I y e L s s a l d d l L 3 s e E c a p d l a d l l q a e A 3 l r f g l d c m o p n p i l C D (]
+[DELETED:  ( l d a q p a p a u i s p ( ( ( s ( l m d v a p d f y c d d ( s l g p s a n c a n u o m d p d t s q d r p a a ( l g p p i p s c r o c ( l o d l a g c p i m y e a d p p p a ( l p H t s a o e l r c e D d l V]
+[DELETED:  y e b l P C o M c d e e L S s d e l c l p p b d l a L d T p t d t s q l s n h a f a q s r s p p l l r o r d p e N c a v]
+[DELETED:  s s l p d i e e R d l c d p u a p c c c p s o p l a t c l r d o s a t e n a]

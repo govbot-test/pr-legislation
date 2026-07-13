@@ -1,0 +1,291 @@
+Title: Referido a las Comisiones de Planificación, Permisos, Infraestructura y Urbanismo; y de
+Official Title: Referido a las Comisiones de Planificación, Permisos, Infraestructura y Urbanismo; y de
+Number of Sections: 1
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 959
+14 de enero de 2026
+Presentado por la señora Soto Aguilú
+Turismo, Recursos Naturales y Ambientales
+LEY
+Para enmendar el Artículo 11 de la Ley Núm. 75 de 24 de junio de 1975, según
+enmendada, conocida como "Ley Orgánica de la Junta de Planificación de Puerto
+Rico", a los fines de incorporar nuevas funciones relacionadas con la integración de
+consideraciones de cambio climático y sostenibilidad ambiental en los procesos de
+planificación, la promoción del uso de tecnologías digitales para mayor
+transparencia y participación ciudadana en los trámites de zonificación y desarrollo,
+y el fortalecimiento de la coordinación con los municipios en la elaboración y
+revisión de planes locales de usos de terrenos; garantizar la alineación con políticas
+públicas de resiliencia, gobierno electrónico y autonomía municipal; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Junta de Planificación de Puerto Rico, creada por la Ley Núm. 75 de 1975, ha
+sido un pilar en el desarrollo ordenado de la Isla, pero enfrenta desafíos modernos que
+requieren actualizaciones a sus funciones generales detalladas en el Artículo 11. En los
+últimos años, Puerto Rico ha experimentado impactos severos del cambio climático,
+como huracanes (e.g., María en 2017 y Fiona en 2022), que han destruido infraestructura
+y desplazado comunidades, según el Informe del Grupo Intergubernamental de Expertos
+2
+sobre el Cambio Climático (IPCC) de las Naciones Unidas (2022), que destaca a Puerto
+Rico como una zona vulnerable en el Caribe con proyecciones de aumento en el nivel del
+mar de hasta 1 metro para 2100 si no se integran medidas de adaptación en la
+planificación urbana.
+Un estudio del Departamento de Recursos Naturales y Ambientales (DRNA) de
+Puerto Rico (2024) indica que el 60% de las costas urbanas están en riesgo, y recomienda
+incorporar sostenibilidad en leyes como esta para mitigar daños económicos estimados
+en $1,800 millones anuales por eventos climáticos (datos del Banco Mundial, 2023, en su
+reporte "Climate Risk Profile: Puerto Rico"). Adicionalmente, la digitalización de
+procesos gubernamentales es esencial para eficiencia y transparencia. El Informe de
+Gobierno Electrónico de las Naciones Unidas (2024) posiciona a Puerto Rico en el puesto
+78 global, recomendando la integración de herramientas digitales en agencias como la
+Junta para reducir tiempos de trámites en un 50%, como se ha visto en modelos exitosos
+en Costa Rica y Estonia.
+En Puerto Rico, la Ley Núm. 38-2017 ("Ley para un Gobierno Electrónico") y el
+Plan Estratégico de Tecnología de Información del Gobierno (2023-2027, Oficina de
+Innovación y Servicios de Tecnología) enfatizan la necesidad de plataformas digitales
+para participación ciudadana, lo que alinearía la Junta con iniciativas como PR.gov,
+reduciendo burocracia en zonificación y permitiendo vistas públicas virtuales,
+beneficiando a más de 500,000 residentes anuales que interactúan con procesos de
+planificación (datos del Censo de EE.UU., 2020, ajustados por migración post-María).
+Finalmente, la coordinación con municipios es crucial para una planificación
+descentralizada. La Ley Núm. 81-1991 ("Ley de Municipios Autónomos") otorga
+competencias locales en usos de terrenos, pero un informe de la Federación de
+Municipios de Puerto Rico (2025) revela inconsistencias en 40 municipios donde planes
+locales no se alinean con estatales, generando litigios y demoras en proyectos de vivienda
+(e.g., 15% de permisos denegados por falta de coordinación, según datos de la Oficina de
+3
+Gerencia de Permisos, 2024). Estudios de la Asociación Americana de Planificadores
+(APA, 2023) recomiendan fortalecer alianzas estatales-municipales para resiliencia, como
+en modelos de Florida post-huracanes.
+Estas enmiendas combinadas responden a estos desafíos, fortaleciendo la Junta sin
+sobrecargar recursos, alineadas con la Agenda 2030 de la ONU para Desarrollo Sostenible
+(Objetivos 11: Ciudades Sostenibles, 13: Acción por el Clima, y 17: Alianzas), y
+precedentes legislativos locales como la Ley Núm. 107-2020 para resiliencia post-
+desastres. La medida promueve eficiencia legislativa, evitando fragmentación y
+facilitando implementación integrada, beneficiando el desarrollo equitativo de Puerto
+Rico.
+La Junta de Planificación de Puerto Rico, creada por la Ley Núm. 75 de 24 de junio de
+1975, según enmendada, ha constituido por décadas uno de los principales instrumentos del Estado
+para guiar el desarrollo físico, económico y social del País. A través de sus funciones de
+planificación, asesoramiento y coordinación interagencial, la Junta ha desempeñado un rol esencial
+en la formulación de política pública relacionada al uso de terrenos y al desarrollo ordenado de
+Puerto Rico. No obstante, los retos contemporáneos exigen una revisión puntual de sus facultades
+generales, particularmente aquellas contenidas en el Artículo 11 de su ley orgánica, a los fines de
+atemperarlas a las realidades actuales.
+Puerto Rico enfrenta, en el presente, desafíos complejos que inciden directamente sobre la
+planificación del territorio. Los eventos atmosféricos recientes han evidenciado la vulnerabilidad
+de nuestra infraestructura y de múltiples comunidades ante fenómenos naturales de gran
+magnitud. Esta realidad impone la necesidad de fortalecer los procesos de planificación con un
+enfoque preventivo y de resiliencia, de manera que las decisiones sobre uso de terrenos y desarrollo
+urbano respondan no solo a criterios de crecimiento, sino también a la protección de la vida, la
+propiedad y los recursos naturales.
+De igual forma, la modernización de los procesos gubernamentales constituye un elemento
+indispensable para asegurar una gestión pública más eficiente, transparente y accesible. La
+4
+incorporación de herramientas tecnológicas en los procesos de planificación permite agilizar
+trámites, facilitar el acceso a la información y ampliar los espacios de participación ciudadana. En
+ese contexto, resulta pertinente reforzar las facultades de la Junta para promover mecanismos que
+optimicen la gestión de datos, la evaluación de proyectos y la interacción con la ciudadanía, en
+armonía con la política pública vigente en materia de gobierno electrónico.
+Por otro lado, la realidad administrativa del País exige una mayor coordinación entre el
+Gobierno Central y los municipios. La aprobación de la Ley 107-2020, según enmendada, conocida
+como el “Código Municipal de Puerto Rico”, reafirmó el rol protagónico de los municipios en la
+ordenación territorial. Sin embargo, dicha descentralización requiere, a su vez, estructuras de
+coordinación efectivas que eviten inconsistencias en la aplicación de la política pública y
+promuevan un desarrollo integrado a nivel regional. En ese sentido, resulta meritorio fortalecer
+los mecanismos de colaboración entre la Junta de Planificación y los gobiernos municipales.
+Las enmiendas propuestas a la Ley Núm. 75 de 1975 responden a la necesidad de actualizar
+el marco normativo que rige a la Junta de Planificación, sin alterar su naturaleza ni su misión
+fundamental. Mediante esta medida, se busca robustecer sus facultades para atender los retos
+actuales, promover una planificación más ágil y coherente, y propiciar una gestión pública más
+efectiva en beneficio del desarrollo ordenado y sostenible de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 11 de la Ley Núm. 75 de 24 de junio de 1975,
+2 según enmendada, conocida como "Ley Orgánica de la Junta de Planificación de Puerto
+3 Rico", para que se lea como sigue:
+4 "Artículo 11. — Funciones y facultades generales de la Junta.
+5 La Junta tendrá las siguientes funciones y facultades generales:
+6 (1)…….
+7 …
+5
+1 (31)(29) Integrar consideraciones de cambio climático y sostenibilidad ambiental en todos
+2 los planes y reglamentos de desarrollo, incluyendo evaluaciones de riesgo por eventos extremos y
+3 promoción de prácticas resilientes en usos de terrenos, en coordinación con el Departamento de
+4 Recursos Naturales y Ambientales;
+5 (32)(30) Promover el uso de tecnologías digitales en los procesos de planificación, tales
+6 como plataformas en línea para consultas públicas, trámites electrónicos de zonificación y mapas
+7 interactivos, para fomentar la transparencia y participación ciudadana, alineado con la Ley 151-
+8 2004, según enmendada, conocida como “Ley de Gobierno Electrónico”Ley de Gobierno
+9 Electrónico;
+10 (33)(31) Fortalecer la coordinación con los municipios en la elaboración, revisión y aprobación
+11 de planes locales de usos de terrenos, proporcionando asistencia técnica y protocolos conjuntos
+12 para asegurar alineación con el Plan de Desarrollo Integral, respetando la autonomía municipal
+13 establecida en la Ley 107-2020, según enmendada, conocida como “Código Municipal de Puerto
+14 Rico Núm. 81-1991."
+15 Sección 2. – Cláusula Clausula de Separabilidad.
+16 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o inválida
+17 por un tribunal con jurisdicción competente, dicha declaración no afectará las demás
+18 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+19 Sección 3.- Vigencia.
+20 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3  .r L r e e A 1 d l L N 7 d 2 d j d 1 s l p d u d t d p m e f d l c c l m e l e y a P R h e i s d c c]
+[DELETED:  d h 1 m p 2 s n s i m d a e l " R P P R  A l d d g e e p e y t E I d E d T d I d G ( O d p c l q a l J c i c P b e z y p v p v a m d 5 r a q i c p d l c c m e c p u p L L N 8 ( d M A o l e u d t p u i d l F d]
+[DELETED:  d P 2 E d l A A d P 1 C S 1 A p e C y 1 A y l l c l L N 1 p r p L m p e l e f y g e d f e y s d P A t d s f d n i y d m c a f n d g p a u g p m e t y a L]
+[DELETED:  d h t e l p d p p a e q e i e l a d l p p y ]
+[DELETED:  s e c c “ d G E d G C u t  c d d n a l d j]
+
+
+================================================================================
+
+Raw Text:
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 959
+14 de enero de 2026
+Presentado por la señora Soto Aguilú
+Referido a las Comisiones de Planificación, Permisos, Infraestructura y Urbanismo; y de
+Turismo, Recursos Naturales y Ambientales
+LEY
+Para enmendar el Artículo 11 de la Ley Núm. 75 de 24 de junio de 1975, según
+enmendada, conocida como "Ley Orgánica de la Junta de Planificación de Puerto
+Rico", a los fines de incorporar nuevas funciones relacionadas con la integración de
+consideraciones de cambio climático y sostenibilidad ambiental en los procesos de
+planificación, la promoción del uso de tecnologías digitales para mayor
+transparencia y participación ciudadana en los trámites de zonificación y desarrollo,
+y el fortalecimiento de la coordinación con los municipios en la elaboración y
+revisión de planes locales de usos de terrenos; garantizar la alineación con políticas
+públicas de resiliencia, gobierno electrónico y autonomía municipal; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Junta de Planificación de Puerto Rico, creada por la Ley Núm. 75 de 1975, ha
+sido un pilar en el desarrollo ordenado de la Isla, pero enfrenta desafíos modernos que
+requieren actualizaciones a sus funciones generales detalladas en el Artículo 11. En los
+últimos años, Puerto Rico ha experimentado impactos severos del cambio climático,
+como huracanes (e.g., María en 2017 y Fiona en 2022), que han destruido infraestructura
+y desplazado comunidades, según el Informe del Grupo Intergubernamental de Expertos
+
+2
+sobre el Cambio Climático (IPCC) de las Naciones Unidas (2022), que destaca a Puerto
+Rico como una zona vulnerable en el Caribe con proyecciones de aumento en el nivel del
+mar de hasta 1 metro para 2100 si no se integran medidas de adaptación en la
+planificación urbana.
+Un estudio del Departamento de Recursos Naturales y Ambientales (DRNA) de
+Puerto Rico (2024) indica que el 60% de las costas urbanas están en riesgo, y recomienda
+incorporar sostenibilidad en leyes como esta para mitigar daños económicos estimados
+en $1,800 millones anuales por eventos climáticos (datos del Banco Mundial, 2023, en su
+reporte "Climate Risk Profile: Puerto Rico"). Adicionalmente, la digitalización de
+procesos gubernamentales es esencial para eficiencia y transparencia. El Informe de
+Gobierno Electrónico de las Naciones Unidas (2024) posiciona a Puerto Rico en el puesto
+78 global, recomendando la integración de herramientas digitales en agencias como la
+Junta para reducir tiempos de trámites en un 50%, como se ha visto en modelos exitosos
+en Costa Rica y Estonia.
+En Puerto Rico, la Ley Núm. 38-2017 ("Ley para un Gobierno Electrónico") y el
+Plan Estratégico de Tecnología de Información del Gobierno (2023-2027, Oficina de
+Innovación y Servicios de Tecnología) enfatizan la necesidad de plataformas digitales
+para participación ciudadana, lo que alinearía la Junta con iniciativas como PR.gov,
+reduciendo burocracia en zonificación y permitiendo vistas públicas virtuales,
+beneficiando a más de 500,000 residentes anuales que interactúan con procesos de
+planificación (datos del Censo de EE.UU., 2020, ajustados por migración post-María).
+Finalmente, la coordinación con municipios es crucial para una planificación
+descentralizada. La Ley Núm. 81-1991 ("Ley de Municipios Autónomos") otorga
+competencias locales en usos de terrenos, pero un informe de la Federación de
+Municipios de Puerto Rico (2025) revela inconsistencias en 40 municipios donde planes
+locales no se alinean con estatales, generando litigios y demoras en proyectos de vivienda
+(e.g., 15% de permisos denegados por falta de coordinación, según datos de la Oficina de
+
+3
+Gerencia de Permisos, 2024). Estudios de la Asociación Americana de Planificadores
+(APA, 2023) recomiendan fortalecer alianzas estatales-municipales para resiliencia, como
+en modelos de Florida post-huracanes.
+Estas enmiendas combinadas responden a estos desafíos, fortaleciendo la Junta sin
+sobrecargar recursos, alineadas con la Agenda 2030 de la ONU para Desarrollo Sostenible
+(Objetivos 11: Ciudades Sostenibles, 13: Acción por el Clima, y 17: Alianzas), y
+precedentes legislativos locales como la Ley Núm. 107-2020 para resiliencia post-
+desastres. La medida promueve eficiencia legislativa, evitando fragmentación y
+facilitando implementación integrada, beneficiando el desarrollo equitativo de Puerto
+Rico.
+La Junta de Planificación de Puerto Rico, creada por la Ley Núm. 75 de 24 de junio de
+1975, según enmendada, ha constituido por décadas uno de los principales instrumentos del Estado
+para guiar el desarrollo físico, económico y social del País. A través de sus funciones de
+planificación, asesoramiento y coordinación interagencial, la Junta ha desempeñado un rol esencial
+en la formulación de política pública relacionada al uso de terrenos y al desarrollo ordenado de
+Puerto Rico. No obstante, los retos contemporáneos exigen una revisión puntual de sus facultades
+generales, particularmente aquellas contenidas en el Artículo 11 de su ley orgánica, a los fines de
+atemperarlas a las realidades actuales.
+Puerto Rico enfrenta, en el presente, desafíos complejos que inciden directamente sobre la
+planificación del territorio. Los eventos atmosféricos recientes han evidenciado la vulnerabilidad
+de nuestra infraestructura y de múltiples comunidades ante fenómenos naturales de gran
+magnitud. Esta realidad impone la necesidad de fortalecer los procesos de planificación con un
+enfoque preventivo y de resiliencia, de manera que las decisiones sobre uso de terrenos y desarrollo
+urbano respondan no solo a criterios de crecimiento, sino también a la protección de la vida, la
+propiedad y los recursos naturales.
+De igual forma, la modernización de los procesos gubernamentales constituye un elemento
+indispensable para asegurar una gestión pública más eficiente, transparente y accesible. La
+
+4
+incorporación de herramientas tecnológicas en los procesos de planificación permite agilizar
+trámites, facilitar el acceso a la información y ampliar los espacios de participación ciudadana. En
+ese contexto, resulta pertinente reforzar las facultades de la Junta para promover mecanismos que
+optimicen la gestión de datos, la evaluación de proyectos y la interacción con la ciudadanía, en
+armonía con la política pública vigente en materia de gobierno electrónico.
+Por otro lado, la realidad administrativa del País exige una mayor coordinación entre el
+Gobierno Central y los municipios. La aprobación de la Ley 107-2020, según enmendada, conocida
+como el “Código Municipal de Puerto Rico”, reafirmó el rol protagónico de los municipios en la
+ordenación territorial. Sin embargo, dicha descentralización requiere, a su vez, estructuras de
+coordinación efectivas que eviten inconsistencias en la aplicación de la política pública y
+promuevan un desarrollo integrado a nivel regional. En ese sentido, resulta meritorio fortalecer
+los mecanismos de colaboración entre la Junta de Planificación y los gobiernos municipales.
+Las enmiendas propuestas a la Ley Núm. 75 de 1975 responden a la necesidad de actualizar
+el marco normativo que rige a la Junta de Planificación, sin alterar su naturaleza ni su misión
+fundamental. Mediante esta medida, se busca robustecer sus facultades para atender los retos
+actuales, promover una planificación más ágil y coherente, y propiciar una gestión pública más
+efectiva en beneficio del desarrollo ordenado y sostenible de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 11 de la Ley Núm. 75 de 24 de junio de 1975,
+2 según enmendada, conocida como "Ley Orgánica de la Junta de Planificación de Puerto
+3 Rico", para que se lea como sigue:
+4 "Artículo 11. — Funciones y facultades generales de la Junta.
+5 La Junta tendrá las siguientes funciones y facultades generales:
+6 (1)…….
+7 …
+
+5
+1 (31)(29) Integrar consideraciones de cambio climático y sostenibilidad ambiental en todos
+2 los planes y reglamentos de desarrollo, incluyendo evaluaciones de riesgo por eventos extremos y
+3 promoción de prácticas resilientes en usos de terrenos, en coordinación con el Departamento de
+4 Recursos Naturales y Ambientales;
+5 (32)(30) Promover el uso de tecnologías digitales en los procesos de planificación, tales
+6 como plataformas en línea para consultas públicas, trámites electrónicos de zonificación y mapas
+7 interactivos, para fomentar la transparencia y participación ciudadana, alineado con la Ley 151-
+8 2004, según enmendada, conocida como “Ley de Gobierno Electrónico”Ley de Gobierno
+9 Electrónico;
+10 (33)(31) Fortalecer la coordinación con los municipios en la elaboración, revisión y aprobación
+11 de planes locales de usos de terrenos, proporcionando asistencia técnica y protocolos conjuntos
+12 para asegurar alineación con el Plan de Desarrollo Integral, respetando la autonomía municipal
+13 establecida en la Ley 107-2020, según enmendada, conocida como “Código Municipal de Puerto
+14 Rico Núm. 81-1991."
+15 Sección 2. – Cláusula Clausula de Separabilidad.
+16 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o inválida
+17 por un tribunal con jurisdicción competente, dicha declaración no afectará las demás
+18 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+19 Sección 3.- Vigencia.
+20 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3  .r L r e e A 1 d l L N 7 d 2 d j d 1 s l p d u d t d p m e f d l c c l m e l e y a P R h e i s d c c]
+[DELETED:  d h 1 m p 2 s n s i m d a e l " R P P R  A l d d g e e p e y t E I d E d T d I d G ( O d p c l q a l J c i c P b e z y p v p v a m d 5 r a q i c p d l c c m e c p u p L L N 8 ( d M A o l e u d t p u i d l F d]
+[DELETED:  d P 2 E d l A A d P 1 C S 1 A p e C y 1 A y l l c l L N 1 p r p L m p e l e f y g e d f e y s d P A t d s f d n i y d m c a f n d g p a u g p m e t y a L]
+[DELETED:  d h t e l p d p p a e q e i e l a d l p p y ]
+[DELETED:  s e c c “ d G E d G C u t  c d d n a l d j]

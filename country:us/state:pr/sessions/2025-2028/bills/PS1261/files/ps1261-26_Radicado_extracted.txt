@@ -1,0 +1,750 @@
+Title: Para enmendar la Ley Núm. 146-2012, según enmendada, conocida como “Código
+Official Title: Para enmendar la Ley Núm. 146-2012, según enmendada, conocida como “Código
+Number of Sections: 2
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1261
+12 de mayo de 2026
+Presentado por el señor Ríos Santiago
+Referido a
+LEY
+Penal de Puerto Rico”; la Ley Núm. 33 de 13 de julio de 1978, según enmendada,
+conocida como “Ley Contra el Crimen Organizado y Lavado de Dinero del Estado
+Libre Asociado de Puerto Rico”; la Ley Núm. 255-2002, según enmendada, conocida
+como “Ley de Sociedades Cooperativas de Ahorro y Crédito de 2002”; y la Ley
+Núm. 60 de 18 de junio de 1963, según enmendada, conocida como "Ley Uniforme
+de Valores de Puerto Rico", a los fines de fortalecer el régimen de prescripción
+aplicable a determinados delitos económicos y financieros; disponer el cómputo del
+término desde el descubrimiento del delito; establecer la suspensión de la
+prescripción por encubrimiento activo; armonizar la prescripción de los delitos
+subyacentes al lavado de dinero y al crimen organizado; establecer un tope absoluto
+de veinte (20) años para el ejercicio de la acción penal; disponer salvaguardas
+procesales compatibles con el debido proceso de ley; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Los delitos económicos y financieros constituyen una de las amenazas más graves,
+sofisticadas y persistentes que enfrenta Puerto Rico en la actualidad. A diferencia de los
+delitos convencionales, cuya naturaleza es generalmente inmediata y perceptible, los
+delitos económicos y financieros, entre ellos el fraude, la apropiación ilegal agravada, la
+malversación de fondos públicos, la falsificación de documentos y el lavado de dinero,
+2
+operan de manera estructurada, prolongada y deliberadamente oculta, con el propósito
+expreso de evadir la detección y el procesamiento penal.
+Los datos oficiales confirman la gravedad del problema. La Red de Control de
+Delitos Financieros del Gobierno Federal (FinCEN, por sus siglas en inglés) informó en
+2024, durante una visita oficial a Puerto Rico, que la Isla había generado más de 47,000
+informes de actividad sospechosa (SARs, por sus siglas en inglés) relacionados con
+posible fraude y lavado de dinero, incluyendo estafas vinculadas a ayudas
+gubernamentales y transacciones deliberadamente fragmentadas para ocultar el rastro
+de fondos ilícitos. Esa cifra es desproporcionada para una jurisdicción del tamaño de
+Puerto Rico y evidencia la profundidad del riesgo que enfrenta el sistema financiero de
+la Isla. Reflejo también de esa realidad es que el Distrito de Puerto Rico representó el
+
+Section 2:
+3.2% del total nacional de convicciones federales por lavado de dinero en el año fiscal
+2024, una proporción que no habla de éxito investigativo, sino de la persistencia del
+fenómeno.
+En materia de fondos públicos, la situación es igualmente preocupante. Entre 2020 y
+2024, las auditorías de la Oficina del Contralor identificaron irregularidades en
+contratos gubernamentales por $44,501,586. De esa suma, a marzo de 2025, menos del
+1% había sido recuperado y más de $2,100,668 se declararon incobrables. Ese resultado
+no es solo un indicador de debilidad institucional; es la consecuencia directa de un
+marco jurídico que no logra convertir los hallazgos de auditoría en consecuencias
+penales efectivas.
+Frente a esa realidad, la Ley Núm. 55-2026 extendió a diez (10) años el término de
+prescripción para ciertos delitos económicos de alta cuantía, lo que representó un paso
+hacia adelante. Sin embargo, persisten tres lagunas estructurales que siguen
+favoreciendo la impunidad. En primer lugar, el Artículo 89 de nuestro Código Penal
+computa el término prescriptivo desde la comisión del delito, sin tomar en cuenta que
+muchos de estos esquemas solo pueden documentarse años después, luego de
+investigaciones complejas que incluyen auditorías forenses, análisis financiero
+3
+especializado e intercambio de información interagencial. Por otro lado, el
+ordenamiento no reconoce el encubrimiento activo como causa de suspensión del
+término, de modo que alterar registros, destruir documentos o utilizar entidades
+interpuestas para ocultar la conducta ilícita no tiene efecto alguno sobre el curso de la
+prescripción. Finalmente, existe una inconsistencia normativa entre el Código Penal y la
+Ley Núm. 33 de 13 de julio de 1978, según enmendada, conocida como "Ley Contra el
+Crimen Organizado y Lavado de Dinero del Estado Libre Asociado de Puerto Rico",
+pues los delitos que sirven de base al lavado de dinero o al crimen organizado pueden
+prescribir antes que el esquema principal, comprometiendo la capacidad del Estado de
+probar el origen ilícito de los bienes y procesar el esquema de forma integral.
+Por otro lado, el avance tecnológico agudiza aún más estas limitaciones. Los delitos
+económicos contemporáneos se cometen mediante banca electrónica, depósitos
+fotográficos fraudulentos y evidencia digital fácilmente alterable o eliminable,
+modalidades para las que el ordenamiento actual no fue diseñado y ante las cuales
+resulta insuficiente.
+La regla del descubrimiento (discovery rule) y la doctrina de la ocultación fraudulenta
+(fraudulent concealment) ofrecen soluciones jurídicas con respaldo en el derecho
+comparado. La primera ha sido reconocida por el Tribunal Supremo federal en Merck &
+Co. v. Reynolds, 559 U.S. 633 (2010), bajo el principio de que el fraude se considera
+descubierto cuando, mediante el ejercicio de diligencia razonable, pudo haberse
+conocido. La segunda es una doctrina de equidad que impide que la conducta engañosa
+del autor opere como mecanismo para extinguir la acción penal, siempre que se
+acrediten actos afirmativos, intencionalidad específica y nexo causal con el retraso en
+detección.
+En cuanto a la armonización con la Ley Núm. 33 de 13 de julio de 1978, cabe señalar
+que dicha ley se inspiró en la Racketeer Influenced and Corrupt Organizations Act (RICO
+Act), 18 U.S.C. §1961-1968, cuyo régimen reconoce la naturaleza continua de los
+4
+esquemas delictivos. El Tribunal Supremo de Puerto Rico en Costas Elena v. Magic Sport
+Culinary Corporation, 213 DPR 523 (2024), reafirmó la validez de acudir a la
+jurisprudencia federal como marco de referencia para interpretar la Ley Núm. 33 de 13
+de julio de 1978, siempre que ello no frustre los objetivos de la Asamblea Legislativa ni
+vulnere derechos protegidos por la Constitución de Puerto Rico. La armonización
+planteada en esta medida es coherente con ese marco y corrige la inconsistencia que
+actualmente permite que los delitos subyacentes prescriban mientras el esquema
+principal permanece procesable.
+Esta ley introduce siete enmiendas puntuales y coherentes entre sí. En primer lugar,
+el inciso (b) del Artículo 87 se enmienda para eliminar el umbral de cuantía de $500,000
+dispuesto por la Ley Núm. 55-2026 y ampliar su cobertura a los delitos de malversación
+de fondos y falsificación de documentos, extendiendo así el término de diez (10) años a
+todos los supuestos, independientemente de la cuantía envuelta.
+Por otro lado, el Artículo 89 se modifica para que el término prescriptivo en los
+delitos económicos y financieros comience a contarse desde el descubrimiento del
+delito, con un tope absoluto de veinte (20) años desde la comisión, sin crear plazos
+indefinidos. A su vez, se incorpora el nuevo Artículo 89-A que suspende ese término
+mientras el imputado realice actos afirmativos de encubrimiento, requiriéndose al
+Ministerio Público demostrar la intencionalidad y el nexo causal con el retraso en la
+detección. Por su parte, el nuevo Artículo 89-B codifica las salvaguardas procesales
+aplicables, incluyendo la carga de prueba sobre el Ministerio Público, el criterio objetivo
+de diligencia razonable y la prohibición de efectos retroactivos adversos.
+De igual manera, el Artículo 4 de la Ley Núm. 33 de 13 de julio de 1978 se enmienda
+para que los delitos subyacentes al lavado de dinero o al crimen organizado no
+prescriban antes que el esquema del que forman parte, aplicándose el régimen de
+cómputo desde el descubrimiento dispuesto en el Artículo 89 del Código Penal, con un
+tope absoluto de veinte (20) años.
+5
+Finalmente, el Artículo 9.06 de la Ley Núm. 255-2002, según enmendada, conocida
+como “Ley de Sociedades Cooperativas de Ahorro y Crédito de 2002”; y el Artículo
+409(a) de la Ley Núm. 60 de 18 de junio de 1963, según enmendada, conocida como
+“Ley Uniforme de Valores de Puerto Rico” se enmiendan para incorporar la regla del
+descubrimiento y la remisión expresa al régimen de cómputo, suspensión y
+salvaguardas del Código Penal, logrando así la uniformidad normativa que requiere un
+sistema prescriptivo coherente.
+Cabe destacar que la presente medida es producto de los trabajos de la Comisión
+Conjunta de la Asamblea Legislativa para la Revisión Continua del Código Penal y para
+la Reforma de las Leyes Penales y de un proceso amplio de consulta con las agencias y
+entidades pertinentes, canalizado mediante vistas públicas y memoriales explicativos.
+Comparecieron ante la Comisión la Oficina del Contralor de Puerto Rico, el
+Departamento de Justicia, la Oficina del Comisionado de Instituciones Financieras
+(OCIF), la Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto
+Rico (COSSEC), la Oficina del Inspector General de Puerto Rico (OIG), el Cuerpo de
+Investigaciones Criminales de la Policía de Puerto Rico y la Asociación de Bancos de
+Puerto Rico, entre otras entidades. Dichas agencias expresaron su respaldo a las
+propuestas aquí contenidas, reflejando un consenso institucional entre organismos
+fiscalizadores, entes reguladores, componentes de seguridad pública y representantes
+del sector financiero privado que confirma la necesidad y urgencia de esta legislación.
+En virtud de todo lo anterior, la Asamblea Legislativa establece como política
+pública el fortalecimiento del régimen de prescripción penal aplicable a los delitos
+económicos y financieros, a fin de que los términos prescriptivos reflejen la complejidad
+real de estos delitos, desincentiven el ocultamiento y aseguren la coherencia del sistema
+frente al crimen organizado y el lavado de dinero, todo ello en plena armonía con las
+garantías constitucionales de debido proceso, presunción de inocencia y
+proporcionalidad, y conforme a las mejores prácticas legislativas reconocidas en otras
+jurisdicciones.
+6
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 87 de la Ley Núm. 146-2012, según
+2 enmendada, conocida como "Código Penal de Puerto Rico", para que lea como sigue:
+3 “Artículo 87. — Prescripción.
+4 La acción penal prescribirá:
+5 (a) A los cinco (5) años, en los delitos graves, y en los delitos graves clasificados en la
+6 ley especial.
+7 (b) A los diez (10) años en los delitos de apropiación ilegal agravada, fraude,
+8 malversación de fondos, falsificación de documentos y lavado de dinero; [cuando la
+9 cuantía ascienda a quinientos mil dólares ($500,000) o más] independientemente
+10 de la cuantía. El término prescriptivo en estos delitos se computará conforme a lo
+11 dispuesto en el Artículo 89 de este Código. Lo aquí dispuesto no afectará la
+12 imprescriptibilidad establecida en el Artículo 88 de este Código para aquellos delitos
+13 cometidos por funcionarios o empleados públicos en el desempeño de la función pública.
+14 (c) Al año, en los delitos menos graves, salvo los provenientes de infracciones a las
+15 leyes fiscales y todo delito menos grave, cometido por funcionarios o empleados
+16 públicos en el desempeño de sus funciones, que prescribirán a los cinco (5) años.
+17 (d) Los delitos de encubrimiento y conspiración prescribirán a los diez (10) años,
+18 cuando se cometan en relación al delito de asesinato.
+19 (e) A los diez (10) años, en los delitos de homicidio.
+20 (f) A los veinte (20) años, en los delitos de agresión sexual, incesto y actos lascivos.
+7
+1 Lo dispuesto en los incisos (a) y (c) de este Artículo no aplica a las leyes especiales,
+2 cuyos delitos tengan un período prescriptivo mayor al aquí propuesto.”
+3 Sección 2. — Se enmienda el Artículo 89 de la Ley Núm. 146-2012, según
+4 enmendada, conocida como “Código Penal de Puerto Rico”, para que lea como sigue:
+5 “Artículo 89. — Cómputo del término de prescripción.
+6 El término de prescripción se computará desde el día de la comisión del delito hasta
+7 la fecha en que se determine causa probable para el arresto o citación. En aquellos casos
+8 en que sea necesario recurrir en alzada, la celebración de una audiencia para la
+9 determinación de causa probable para el arresto o citación interrumpirá el término
+10 prescriptivo.
+11 No obstante, en los delitos en que la víctima no ha cumplido dieciocho (18) años de
+12 edad, y sean de los que tienen término de prescripción, el término de prescripción se
+13 computará a partir de que la víctima cumpla sus dieciocho (18) años de edad.
+14 En cuanto a los delitos de apropiación ilegal agravada, fraude, malversación de fondos,
+15 falsificación de documentos y lavado de dinero, el término prescriptivo de diez (10) años
+16 establecido en el Artículo 87(b) de este Código comenzará a transcurrir desde la fecha en que el
+17 delito fue descubierto, o desde la fecha en que razonablemente pudo haber sido descubierto
+18 mediante el ejercicio de diligencia razonable por parte de las autoridades competentes, lo que
+19 ocurra primero.
+20 A los fines de este Artículo, se entenderá por descubrimiento el momento en que surgen
+21 elementos objetivos suficientes para iniciar formalmente una investigación sobre la posible
+22 comisión del delito.
+8
+1 En ningún caso podrá incoarse la acción penal una vez transcurridos veinte (20) años desde
+2 la comisión del delito, independientemente de la fecha de descubrimiento. Este tope absoluto
+3 prevalecerá sobre cualquier período de suspensión por encubrimiento activo dispuesto en el
+4 Artículo 89-A de este Código.”
+5 Sección 3. — Se añade un nuevo Artículo 89-A a la Ley Núm. 146-2012, según
+6 enmendada, conocida como "Código Penal de Puerto Rico", para que lea como sigue:
+7 “Artículo 89-A. — Suspensión del término prescriptivo por encubrimiento activo.
+8 El término prescriptivo de la acción penal quedará suspendido durante cualquier período en
+9 que el imputado haya incurrido en actos afirmativos de encubrimiento activo dirigidos a ocultar
+10 la comisión del delito o a impedir razonablemente su detección.
+11 Constituirán actos de encubrimiento activo, entre otros, los siguientes:
+12 (a) la alteración, destrucción, mutilación, ocultación o fabricación de documentos físicos o
+13 electrónicos, incluyendo evidencia digital;
+14 (b) la manipulación de libros, récords, estados financieros, informes o registros contables;
+15 (c) el uso de terceros, entidades interpuestas, cuentas, estructuras corporativas o
+16 transacciones fraccionadas con el propósito de ocultar la naturaleza, origen, localización,
+17 disposición, movimiento o titularidad de bienes o fondos;
+18 (d) cualquier otra acción engañosa, afirmativa e intencional dirigida a evitar que las
+19 autoridades competentes descubran oportunamente la conducta delictiva.
+20 No constituirá encubrimiento activo, por sí solo, el mero silencio del imputado, la negativa a
+21 autoincriminarse ni la simple ausencia de cooperación con la investigación.
+9
+1 Para que proceda la suspensión del término prescriptivo bajo este Artículo, el Ministerio
+2 Público deberá demostrar:
+3 (1) la existencia de actos afirmativos de ocultación;
+4 (2) la intención específica de impedir el descubrimiento del delito; y
+5 (3) una relación causal entre los actos de encubrimiento y la imposibilidad o retraso
+6 razonable en la detección de la conducta delictiva.
+7 El término prescriptivo se reanudará una vez cesen los actos de encubrimiento activo o desde
+8 la fecha en que el delito haya sido descubierto, lo que ocurra primero. En ningún caso la
+9 suspensión por encubrimiento activo podrá extender el término más allá del tope absoluto de
+10 veinte (20) años desde la comisión del delito, establecido en el Artículo 89 de este Código.
+11 La aplicación de este Artículo estará sujeta a revisión judicial estricta y a las salvaguardas
+12 dispuestas en el Artículo 89-B de este Código.”
+13 Sección 4. — Se añade un nuevo Artículo 89-B a la Ley Núm. 146-2012, según
+14 enmendada, conocida como "Código Penal de Puerto Rico", para que lea como sigue:
+15 “Artículo 89-B. — Salvaguardas procesales en delitos económicos y financieros.
+16 En la aplicación de los Artículos 89 y 89-A de este Código a los delitos económicos y
+17 financieros, regirán las siguientes salvaguardas procesales:
+18 (a) Corresponderá al Ministerio Público alegar y probar la fecha de descubrimiento del delito
+19 y, de ser aplicable, la existencia, naturaleza y duración de los actos de encubrimiento
+20 activo.
+21 (b) La determinación del descubrimiento se regirá por un criterio objetivo de diligencia
+22 razonable, evaluable judicialmente, considerando cuándo las autoridades competentes,
+10
+1 actuando con la diligencia ordinaria requerida por las circunstancias, pudieron haber
+2 descubierto la conducta delictiva.
+3 (c) La suspensión por encubrimiento activo requerirá actos afirmativos, intencionales y
+4 específicamente dirigidos a impedir la detección del delito, más allá de la mera omisión, el
+5 silencio o la falta de cooperación.
+6 (d) Toda controversia sobre el cómputo del término prescriptivo al amparo de los Artículos
+7 89 y 89-A será resuelta por el tribunal mediante determinaciones fundamentadas en el
+8 expediente del caso.
+9 (e) Las disposiciones de este Código sobre prescripción en delitos económicos y financieros no
+10 producirán efectos retroactivos adversos ni menoscabarán derechos adquiridos, en
+11 conformidad con los principios constitucionales de legalidad y debido proceso.
+12 (f) Las disposiciones de este Artículo se interpretarán de manera compatible con el debido
+13 proceso de ley, la presunción de inocencia y el derecho del imputado a preparar y
+14 presentar una defensa efectiva.”
+15 Sección 5. — Se enmienda el Artículo 4 de la Ley Núm. 33 de 13 de julio de 1978,
+16 según enmendada, conocida como "Ley Contra el Crimen Organizado y Lavado de
+17 Dinero del Estado Libre Asociado de Puerto Rico", para que lea como sigue:
+18 “Artículo 4. — Prescripción.
+19 La acción penal que pueda instarse contra la persona que infrinja las disposiciones
+20 del Artículo 3 de esta Ley no prescribe.
+21 Cualquier acto individual que forme parte del patrón de crimen organizado o de
+22 lavado de dinero, ocurrido con posterioridad a la aprobación de esta Ley, prescribirá a
+11
+1 los diez (10) años [excepto aquellos casos en que el Artículo 87 del Código Penal de
+2 Estado Libre Asociado de Puerto Rico o cualquier ley especial establezca un término
+3 prescriptivo mayor] contados desde la fecha en que el acto fue descubierto, o desde la fecha en
+4 que razonablemente pudo haber sido descubierto mediante el ejercicio de diligencia razonable por
+5 parte de las autoridades competentes, lo que ocurra primero, excepto en aquellos casos en que el
+6 Artículo 87 del Código Penal de Puerto Rico o cualquier ley especial establezca un término
+7 prescriptivo mayor o disponga su imprescriptibilidad.
+8 Cuando un delito constituya una infracción subyacente al delito de lavado de dinero o al
+9 patrón de crimen organizado, el término prescriptivo de dicho delito subyacente no expirará
+10 antes del término aplicable al delito de lavado de dinero o crimen organizado relacionado, siempre
+11 que ambos surjan del mismo esquema delictivo.
+12 Las disposiciones del Código Penal relativas al descubrimiento del delito, la suspensión por
+13 encubrimiento activo y las salvaguardas procesales de los Artículos 89, 89-A y 89-B serán
+14 aplicables, en lo pertinente, a la interpretación y aplicación de este Artículo.
+15 En ningún caso podrá incoarse la acción penal por actos individuales una vez transcurridos
+16 veinte (20) años desde la comisión del acto, independientemente de la fecha de descubrimiento."
+17 Sección 6. — Se enmienda el Artículo 9.06 de la Ley Núm. 255-2002, según
+18 enmendada, conocida como “Ley de Sociedades Cooperativas de Ahorro y Crédito de
+19 2002”, para que lea como sigue:
+20 " Artículo 9.06 — Delitos Contra los Fondos de las Cooperativas.
+21 Será castigado con pena de reclusión por un término fijo de ocho (8) años todo
+22 miembro de la Junta, de los comités, funcionario, empleado o agente de una cooperativa
+12
+1 y toda persona encargada de recibir, guardar, traspasar o desembolsar fondos de una
+2 cooperativa que realice uno o más de los siguientes actos:
+3 (a) sin autoridad legal se los apropie, en todo o en parte, para beneficio particular o
+4 el de otra persona;
+5 (b) …
+6 …
+7 (k) …
+8 Toda persona que no sea miembro de la Junta, de los comités ni funcionario
+9 ejecutivo, empleado o agente de una cooperativa que sea culpable de uno o más de los
+10 actos prohibidos en este Artículo, independientemente de si obtuvo o no lucro
+11 económico personal, será sancionada con la pena aquí dispuesta. La acción penal para
+12 los delitos dispuestos en este Artículo prescribirá a los diez (10) años.
+13 Dicho término se computará conforme a las reglas de descubrimiento, suspensión por
+14 encubrimiento activo y salvaguardas procesales dispuestas en los Artículos 89, 89-A y 89-B de la
+15 Ley Núm. 146-2012, según enmendada, conocida como Código Penal de Puerto Rico, las cuales
+16 se incorporan por referencia a este Artículo. En ningún caso podrá incoarse la acción penal una
+17 vez transcurridos veinte (20) años desde la comisión del acto, independientemente de la fecha de
+18 descubrimiento."
+19 Sección 7. - Se enmienda el Artículo 409, inciso (a), de la Ley Núm. 60 de 18 de junio
+20 de 1963, según enmendada, conocida como "Ley Uniforme de Valores de Puerto Rico",
+21 para que lea como sigue:
+22 "Artículo 409. — Penalidades.
+13
+1 (a) Cualquier persona que voluntariamente viole cualquier disposición de esta ley,
+2 excepto el Artículo 404, o que voluntariamente viole cualquier reglamento u
+3 orden promulgada de acuerdo con las disposiciones de esta ley, o que
+4 voluntariamente viole el Artículo 404 sabiendo que la declaración hecha es falsa
+5 o engañosa en cualquier aspecto material, una vez fuere convicta será castigada
+6 con una multa que no será menor de quinientos (500) dólares ni mayor de diez
+7 mil (10,000) dólares, o con pena de reclusión por un término que no será menor
+8 de seis (6) meses ni mayor de cinco (5) años, o ambas penas. Ningún
+9 procedimiento penal podrá incoarse después de transcurridos diez (10) años [de
+10 la alegada violación] contados desde la fecha en que la alegada violación fue
+11 descubierta, o desde la fecha en que razonablemente pudo haber sido descubierta mediante
+12 el ejercicio de diligencia razonable por parte de las autoridades competentes, lo que ocurra
+13 primero. El cómputo de dicho término, su suspensión por encubrimiento activo y las
+14 salvaguardas procesales aplicables se regirán por lo dispuesto en los Artículos 89, 89-A y
+15 89-B de la Ley Núm. 146-2012, según enmendada, conocida como “Código Penal de
+16 Puerto Rico”, los cuales se incorporan por referencia a este Artículo. En ningún caso
+17 podrá incoarse la acción penal una vez transcurridos veinte (20) años desde la comisión
+18 de la alegada violación, independientemente de la fecha de descubrimiento.
+19 (b) …
+20 (c) …
+21 (d) …”
+22 Sección 8. - Interpretación.
+14
+1 Las disposiciones de esta Ley se interpretarán liberalmente para adelantar el interés
+2 apremiante del Estado en investigar y procesar efectivamente los delitos económicos y
+3 financieros complejos, sin menoscabo de las garantías constitucionales del debido
+4 proceso de ley. En caso de duda sobre la aplicación de una disposición procesal, el
+5 tribunal deberá armonizar el interés público en la persecución del delito con la
+6 protección efectiva de los derechos del imputado.
+7 Sección 9. — Aplicabilidad.
+8 Esta Ley aplicará prospectivamente a los hechos cometidos con posterioridad a su
+9 vigencia. También podrá aplicarse a acciones penales no prescritas a la fecha de su
+10 aprobación, siempre que dicha aplicación no constituya una violación a la prohibición
+11 constitucional contra leyes ex post facto ni menoscabe derechos sustantivos adquiridos.
+12 Sección 10. — Separabilidad.
+13 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+14 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta ley
+15 fuera anulada o declarada inconstitucional, la resolución, el dictamen o la sentencia
+16 dictada a tal efecto no afectará, perjudicará, ni invalidará el remanente de esta ley. El
+17 efecto de tal sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración,
+18 palabra, letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo,
+19 acápite o parte de ésta que así hubiera sido anulada o declarada inconstitucional.
+20 Sección 11. — Vigencia.
+21 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:    3  .rL    e l L N 1 s e c c “ “ d S C d A y C d 2 y l L V d P R a l f d f e r d p d e d d d e l s d l p e a a l p d l d v ( a p e e d l a p d s c c n e g i y p l]
+[DELETED:  d o c l g d p L R d C d d a s ( p s s e i r c f y l d d i e v a a l a d l O d C i i e e s u i d d i e l c d d u j q n l c l h d a e c a S e p t l e q s d e e s p d a d l d c q i a f a f]
+[DELETED:  e i d i i P o l e n r e e a c c d s d d m q a r d d o u e c s c m b e d f y e d f a o e p l q e o a n f d y a l c() o s j c r e e d c v R 5 U 6 ( b e p d q e f s c c m e e d d r p h a o c m p e l a p s q s   1 U § c r r l n c d l]
+[DELETED:  C 2 D 5 ( r l v d a a l d p p l C d P R L a p q l d s p m e e o l e A 8 s m p q e t p e l e y f c a c d e d d c u t a d v ( a d l c s c p e i r a a d e r a P s p e n A 8 c l s p q l d s a l d d o a c o n a q e e d q f p a e r d]
+[DELETED:  “ d S C d A y C d 2 e A y l r e a r d c s y a l C l O d C d P R e d J l O d C d I F R e o e D a e s r a l a c r u c i e o v d t l a l A L e c p e f d r d p p a a l d c d d p p d i y]
+[DELETED:  1 — S e e A 8 d l L N 1 s)A), l d ( a e l d d a i a f l c.E t p e e d s c c a l e e A 8 d e C L a d n a l e e e A 8 d e C p a d)A)L d d e y c p a l d ( a)A)A]
+[DELETED:  2 — S e e A 8 d l L N 1 s q s n r e a l c d u a p l d c p p e a o c i e t c a l d d a i a f m d f d d y l d d e t p d d ( a f d o d l f e q r p h s d e e d r p p d l a c l q l f d e A s e p d e m e q s o s p i f u i s l p]
+[DELETED:  c d d i d l f d d E t a s c p d s p e a d e e 3 —S a u n A 8 a l L N 1 s e u d t e i c e c o c o a e a e i d a e q l]
+[DELETED:  q p l s d t p b e A e M u r c e l a d e y l i o r f e q e d h s d l q o p E n c l 4 — S a u n A 8 a l L N 1 s l a d l A 8 y 8 d e C a l d e y)C d s a l e n y d d l a d e)L d d d s r p u c o d d e j c c l a c]
+[DELETED:  c l d o r p l c p h)L s p e a r a a i y)T)L e r a n m d a e)L d l l p d i y e d d i a p y e c c " C e C O y L d]
+[DELETED:  8 d C P d P R o c l e e u t d c o e t p d d d s n e a y l s p d l A 8 8 y 8 s 6 — S e e A 9 d l L N 2 s c c p d r p u t f d o ( a t]
+[DELETED:  p q n s m d l J d l c n f p e e A i d s o o n l . t s c c a l r d d s p]
+[DELETED:  e A 4 o q v v c r u p d a c l d d e l o q s ( m n m d c ( a o a p N   a v d l f e q l a v f E c d d t s s p e a y l d l L N 1 s e c c “ P d]
+[DELETED:  c s m d l g c d d d l E c d d s l a d u d p e d a e i p e l p d d c l T p a a a p n p a l f d s c c p s o p l a a o d i l r e d o l s d t s q l a l c p s o l a d s s t c s]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1261
+12 de mayo de 2026
+Presentado por el señor Ríos Santiago
+Referido a
+LEY
+Para enmendar la Ley Núm. 146-2012, según enmendada, conocida como “Código
+Penal de Puerto Rico”; la Ley Núm. 33 de 13 de julio de 1978, según enmendada,
+conocida como “Ley Contra el Crimen Organizado y Lavado de Dinero del Estado
+Libre Asociado de Puerto Rico”; la Ley Núm. 255-2002, según enmendada, conocida
+como “Ley de Sociedades Cooperativas de Ahorro y Crédito de 2002”; y la Ley
+Núm. 60 de 18 de junio de 1963, según enmendada, conocida como "Ley Uniforme
+de Valores de Puerto Rico", a los fines de fortalecer el régimen de prescripción
+aplicable a determinados delitos económicos y financieros; disponer el cómputo del
+término desde el descubrimiento del delito; establecer la suspensión de la
+prescripción por encubrimiento activo; armonizar la prescripción de los delitos
+subyacentes al lavado de dinero y al crimen organizado; establecer un tope absoluto
+de veinte (20) años para el ejercicio de la acción penal; disponer salvaguardas
+procesales compatibles con el debido proceso de ley; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Los delitos económicos y financieros constituyen una de las amenazas más graves,
+sofisticadas y persistentes que enfrenta Puerto Rico en la actualidad. A diferencia de los
+delitos convencionales, cuya naturaleza es generalmente inmediata y perceptible, los
+delitos económicos y financieros, entre ellos el fraude, la apropiación ilegal agravada, la
+malversación de fondos públicos, la falsificación de documentos y el lavado de dinero,
+
+2
+operan de manera estructurada, prolongada y deliberadamente oculta, con el propósito
+expreso de evadir la detección y el procesamiento penal.
+Los datos oficiales confirman la gravedad del problema. La Red de Control de
+Delitos Financieros del Gobierno Federal (FinCEN, por sus siglas en inglés) informó en
+2024, durante una visita oficial a Puerto Rico, que la Isla había generado más de 47,000
+informes de actividad sospechosa (SARs, por sus siglas en inglés) relacionados con
+posible fraude y lavado de dinero, incluyendo estafas vinculadas a ayudas
+gubernamentales y transacciones deliberadamente fragmentadas para ocultar el rastro
+de fondos ilícitos. Esa cifra es desproporcionada para una jurisdicción del tamaño de
+Puerto Rico y evidencia la profundidad del riesgo que enfrenta el sistema financiero de
+la Isla. Reflejo también de esa realidad es que el Distrito de Puerto Rico representó el
+3.2% del total nacional de convicciones federales por lavado de dinero en el año fiscal
+2024, una proporción que no habla de éxito investigativo, sino de la persistencia del
+fenómeno.
+En materia de fondos públicos, la situación es igualmente preocupante. Entre 2020 y
+2024, las auditorías de la Oficina del Contralor identificaron irregularidades en
+contratos gubernamentales por $44,501,586. De esa suma, a marzo de 2025, menos del
+1% había sido recuperado y más de $2,100,668 se declararon incobrables. Ese resultado
+no es solo un indicador de debilidad institucional; es la consecuencia directa de un
+marco jurídico que no logra convertir los hallazgos de auditoría en consecuencias
+penales efectivas.
+Frente a esa realidad, la Ley Núm. 55-2026 extendió a diez (10) años el término de
+prescripción para ciertos delitos económicos de alta cuantía, lo que representó un paso
+hacia adelante. Sin embargo, persisten tres lagunas estructurales que siguen
+favoreciendo la impunidad. En primer lugar, el Artículo 89 de nuestro Código Penal
+computa el término prescriptivo desde la comisión del delito, sin tomar en cuenta que
+muchos de estos esquemas solo pueden documentarse años después, luego de
+investigaciones complejas que incluyen auditorías forenses, análisis financiero
+
+3
+especializado e intercambio de información interagencial. Por otro lado, el
+ordenamiento no reconoce el encubrimiento activo como causa de suspensión del
+término, de modo que alterar registros, destruir documentos o utilizar entidades
+interpuestas para ocultar la conducta ilícita no tiene efecto alguno sobre el curso de la
+prescripción. Finalmente, existe una inconsistencia normativa entre el Código Penal y la
+Ley Núm. 33 de 13 de julio de 1978, según enmendada, conocida como "Ley Contra el
+Crimen Organizado y Lavado de Dinero del Estado Libre Asociado de Puerto Rico",
+pues los delitos que sirven de base al lavado de dinero o al crimen organizado pueden
+prescribir antes que el esquema principal, comprometiendo la capacidad del Estado de
+probar el origen ilícito de los bienes y procesar el esquema de forma integral.
+Por otro lado, el avance tecnológico agudiza aún más estas limitaciones. Los delitos
+económicos contemporáneos se cometen mediante banca electrónica, depósitos
+fotográficos fraudulentos y evidencia digital fácilmente alterable o eliminable,
+modalidades para las que el ordenamiento actual no fue diseñado y ante las cuales
+resulta insuficiente.
+La regla del descubrimiento (discovery rule) y la doctrina de la ocultación fraudulenta
+(fraudulent concealment) ofrecen soluciones jurídicas con respaldo en el derecho
+comparado. La primera ha sido reconocida por el Tribunal Supremo federal en Merck &
+Co. v. Reynolds, 559 U.S. 633 (2010), bajo el principio de que el fraude se considera
+descubierto cuando, mediante el ejercicio de diligencia razonable, pudo haberse
+conocido. La segunda es una doctrina de equidad que impide que la conducta engañosa
+del autor opere como mecanismo para extinguir la acción penal, siempre que se
+acrediten actos afirmativos, intencionalidad específica y nexo causal con el retraso en
+detección.
+En cuanto a la armonización con la Ley Núm. 33 de 13 de julio de 1978, cabe señalar
+que dicha ley se inspiró en la Racketeer Influenced and Corrupt Organizations Act (RICO
+Act), 18 U.S.C. §1961-1968, cuyo régimen reconoce la naturaleza continua de los
+
+4
+esquemas delictivos. El Tribunal Supremo de Puerto Rico en Costas Elena v. Magic Sport
+Culinary Corporation, 213 DPR 523 (2024), reafirmó la validez de acudir a la
+jurisprudencia federal como marco de referencia para interpretar la Ley Núm. 33 de 13
+de julio de 1978, siempre que ello no frustre los objetivos de la Asamblea Legislativa ni
+vulnere derechos protegidos por la Constitución de Puerto Rico. La armonización
+planteada en esta medida es coherente con ese marco y corrige la inconsistencia que
+actualmente permite que los delitos subyacentes prescriban mientras el esquema
+principal permanece procesable.
+Esta ley introduce siete enmiendas puntuales y coherentes entre sí. En primer lugar,
+el inciso (b) del Artículo 87 se enmienda para eliminar el umbral de cuantía de $500,000
+dispuesto por la Ley Núm. 55-2026 y ampliar su cobertura a los delitos de malversación
+de fondos y falsificación de documentos, extendiendo así el término de diez (10) años a
+todos los supuestos, independientemente de la cuantía envuelta.
+Por otro lado, el Artículo 89 se modifica para que el término prescriptivo en los
+delitos económicos y financieros comience a contarse desde el descubrimiento del
+delito, con un tope absoluto de veinte (20) años desde la comisión, sin crear plazos
+indefinidos. A su vez, se incorpora el nuevo Artículo 89-A que suspende ese término
+mientras el imputado realice actos afirmativos de encubrimiento, requiriéndose al
+Ministerio Público demostrar la intencionalidad y el nexo causal con el retraso en la
+detección. Por su parte, el nuevo Artículo 89-B codifica las salvaguardas procesales
+aplicables, incluyendo la carga de prueba sobre el Ministerio Público, el criterio objetivo
+de diligencia razonable y la prohibición de efectos retroactivos adversos.
+De igual manera, el Artículo 4 de la Ley Núm. 33 de 13 de julio de 1978 se enmienda
+para que los delitos subyacentes al lavado de dinero o al crimen organizado no
+prescriban antes que el esquema del que forman parte, aplicándose el régimen de
+cómputo desde el descubrimiento dispuesto en el Artículo 89 del Código Penal, con un
+tope absoluto de veinte (20) años.
+
+5
+Finalmente, el Artículo 9.06 de la Ley Núm. 255-2002, según enmendada, conocida
+como “Ley de Sociedades Cooperativas de Ahorro y Crédito de 2002”; y el Artículo
+409(a) de la Ley Núm. 60 de 18 de junio de 1963, según enmendada, conocida como
+“Ley Uniforme de Valores de Puerto Rico” se enmiendan para incorporar la regla del
+descubrimiento y la remisión expresa al régimen de cómputo, suspensión y
+salvaguardas del Código Penal, logrando así la uniformidad normativa que requiere un
+sistema prescriptivo coherente.
+Cabe destacar que la presente medida es producto de los trabajos de la Comisión
+Conjunta de la Asamblea Legislativa para la Revisión Continua del Código Penal y para
+la Reforma de las Leyes Penales y de un proceso amplio de consulta con las agencias y
+entidades pertinentes, canalizado mediante vistas públicas y memoriales explicativos.
+Comparecieron ante la Comisión la Oficina del Contralor de Puerto Rico, el
+Departamento de Justicia, la Oficina del Comisionado de Instituciones Financieras
+(OCIF), la Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto
+Rico (COSSEC), la Oficina del Inspector General de Puerto Rico (OIG), el Cuerpo de
+Investigaciones Criminales de la Policía de Puerto Rico y la Asociación de Bancos de
+Puerto Rico, entre otras entidades. Dichas agencias expresaron su respaldo a las
+propuestas aquí contenidas, reflejando un consenso institucional entre organismos
+fiscalizadores, entes reguladores, componentes de seguridad pública y representantes
+del sector financiero privado que confirma la necesidad y urgencia de esta legislación.
+En virtud de todo lo anterior, la Asamblea Legislativa establece como política
+pública el fortalecimiento del régimen de prescripción penal aplicable a los delitos
+económicos y financieros, a fin de que los términos prescriptivos reflejen la complejidad
+real de estos delitos, desincentiven el ocultamiento y aseguren la coherencia del sistema
+frente al crimen organizado y el lavado de dinero, todo ello en plena armonía con las
+garantías constitucionales de debido proceso, presunción de inocencia y
+proporcionalidad, y conforme a las mejores prácticas legislativas reconocidas en otras
+jurisdicciones.
+
+6
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 87 de la Ley Núm. 146-2012, según
+2 enmendada, conocida como "Código Penal de Puerto Rico", para que lea como sigue:
+3 “Artículo 87. — Prescripción.
+4 La acción penal prescribirá:
+5 (a) A los cinco (5) años, en los delitos graves, y en los delitos graves clasificados en la
+6 ley especial.
+7 (b) A los diez (10) años en los delitos de apropiación ilegal agravada, fraude,
+8 malversación de fondos, falsificación de documentos y lavado de dinero; [cuando la
+9 cuantía ascienda a quinientos mil dólares ($500,000) o más] independientemente
+10 de la cuantía. El término prescriptivo en estos delitos se computará conforme a lo
+11 dispuesto en el Artículo 89 de este Código. Lo aquí dispuesto no afectará la
+12 imprescriptibilidad establecida en el Artículo 88 de este Código para aquellos delitos
+13 cometidos por funcionarios o empleados públicos en el desempeño de la función pública.
+14 (c) Al año, en los delitos menos graves, salvo los provenientes de infracciones a las
+15 leyes fiscales y todo delito menos grave, cometido por funcionarios o empleados
+16 públicos en el desempeño de sus funciones, que prescribirán a los cinco (5) años.
+17 (d) Los delitos de encubrimiento y conspiración prescribirán a los diez (10) años,
+18 cuando se cometan en relación al delito de asesinato.
+19 (e) A los diez (10) años, en los delitos de homicidio.
+20 (f) A los veinte (20) años, en los delitos de agresión sexual, incesto y actos lascivos.
+
+7
+1 Lo dispuesto en los incisos (a) y (c) de este Artículo no aplica a las leyes especiales,
+2 cuyos delitos tengan un período prescriptivo mayor al aquí propuesto.”
+3 Sección 2. — Se enmienda el Artículo 89 de la Ley Núm. 146-2012, según
+4 enmendada, conocida como “Código Penal de Puerto Rico”, para que lea como sigue:
+5 “Artículo 89. — Cómputo del término de prescripción.
+6 El término de prescripción se computará desde el día de la comisión del delito hasta
+7 la fecha en que se determine causa probable para el arresto o citación. En aquellos casos
+8 en que sea necesario recurrir en alzada, la celebración de una audiencia para la
+9 determinación de causa probable para el arresto o citación interrumpirá el término
+10 prescriptivo.
+11 No obstante, en los delitos en que la víctima no ha cumplido dieciocho (18) años de
+12 edad, y sean de los que tienen término de prescripción, el término de prescripción se
+13 computará a partir de que la víctima cumpla sus dieciocho (18) años de edad.
+14 En cuanto a los delitos de apropiación ilegal agravada, fraude, malversación de fondos,
+15 falsificación de documentos y lavado de dinero, el término prescriptivo de diez (10) años
+16 establecido en el Artículo 87(b) de este Código comenzará a transcurrir desde la fecha en que el
+17 delito fue descubierto, o desde la fecha en que razonablemente pudo haber sido descubierto
+18 mediante el ejercicio de diligencia razonable por parte de las autoridades competentes, lo que
+19 ocurra primero.
+20 A los fines de este Artículo, se entenderá por descubrimiento el momento en que surgen
+21 elementos objetivos suficientes para iniciar formalmente una investigación sobre la posible
+22 comisión del delito.
+
+8
+1 En ningún caso podrá incoarse la acción penal una vez transcurridos veinte (20) años desde
+2 la comisión del delito, independientemente de la fecha de descubrimiento. Este tope absoluto
+3 prevalecerá sobre cualquier período de suspensión por encubrimiento activo dispuesto en el
+4 Artículo 89-A de este Código.”
+5 Sección 3. — Se añade un nuevo Artículo 89-A a la Ley Núm. 146-2012, según
+6 enmendada, conocida como "Código Penal de Puerto Rico", para que lea como sigue:
+7 “Artículo 89-A. — Suspensión del término prescriptivo por encubrimiento activo.
+8 El término prescriptivo de la acción penal quedará suspendido durante cualquier período en
+9 que el imputado haya incurrido en actos afirmativos de encubrimiento activo dirigidos a ocultar
+10 la comisión del delito o a impedir razonablemente su detección.
+11 Constituirán actos de encubrimiento activo, entre otros, los siguientes:
+12 (a) la alteración, destrucción, mutilación, ocultación o fabricación de documentos físicos o
+13 electrónicos, incluyendo evidencia digital;
+14 (b) la manipulación de libros, récords, estados financieros, informes o registros contables;
+15 (c) el uso de terceros, entidades interpuestas, cuentas, estructuras corporativas o
+16 transacciones fraccionadas con el propósito de ocultar la naturaleza, origen, localización,
+17 disposición, movimiento o titularidad de bienes o fondos;
+18 (d) cualquier otra acción engañosa, afirmativa e intencional dirigida a evitar que las
+19 autoridades competentes descubran oportunamente la conducta delictiva.
+20 No constituirá encubrimiento activo, por sí solo, el mero silencio del imputado, la negativa a
+21 autoincriminarse ni la simple ausencia de cooperación con la investigación.
+
+9
+1 Para que proceda la suspensión del término prescriptivo bajo este Artículo, el Ministerio
+2 Público deberá demostrar:
+3 (1) la existencia de actos afirmativos de ocultación;
+4 (2) la intención específica de impedir el descubrimiento del delito; y
+5 (3) una relación causal entre los actos de encubrimiento y la imposibilidad o retraso
+6 razonable en la detección de la conducta delictiva.
+7 El término prescriptivo se reanudará una vez cesen los actos de encubrimiento activo o desde
+8 la fecha en que el delito haya sido descubierto, lo que ocurra primero. En ningún caso la
+9 suspensión por encubrimiento activo podrá extender el término más allá del tope absoluto de
+10 veinte (20) años desde la comisión del delito, establecido en el Artículo 89 de este Código.
+11 La aplicación de este Artículo estará sujeta a revisión judicial estricta y a las salvaguardas
+12 dispuestas en el Artículo 89-B de este Código.”
+13 Sección 4. — Se añade un nuevo Artículo 89-B a la Ley Núm. 146-2012, según
+14 enmendada, conocida como "Código Penal de Puerto Rico", para que lea como sigue:
+15 “Artículo 89-B. — Salvaguardas procesales en delitos económicos y financieros.
+16 En la aplicación de los Artículos 89 y 89-A de este Código a los delitos económicos y
+17 financieros, regirán las siguientes salvaguardas procesales:
+18 (a) Corresponderá al Ministerio Público alegar y probar la fecha de descubrimiento del delito
+19 y, de ser aplicable, la existencia, naturaleza y duración de los actos de encubrimiento
+20 activo.
+21 (b) La determinación del descubrimiento se regirá por un criterio objetivo de diligencia
+22 razonable, evaluable judicialmente, considerando cuándo las autoridades competentes,
+
+10
+1 actuando con la diligencia ordinaria requerida por las circunstancias, pudieron haber
+2 descubierto la conducta delictiva.
+3 (c) La suspensión por encubrimiento activo requerirá actos afirmativos, intencionales y
+4 específicamente dirigidos a impedir la detección del delito, más allá de la mera omisión, el
+5 silencio o la falta de cooperación.
+6 (d) Toda controversia sobre el cómputo del término prescriptivo al amparo de los Artículos
+7 89 y 89-A será resuelta por el tribunal mediante determinaciones fundamentadas en el
+8 expediente del caso.
+9 (e) Las disposiciones de este Código sobre prescripción en delitos económicos y financieros no
+10 producirán efectos retroactivos adversos ni menoscabarán derechos adquiridos, en
+11 conformidad con los principios constitucionales de legalidad y debido proceso.
+12 (f) Las disposiciones de este Artículo se interpretarán de manera compatible con el debido
+13 proceso de ley, la presunción de inocencia y el derecho del imputado a preparar y
+14 presentar una defensa efectiva.”
+15 Sección 5. — Se enmienda el Artículo 4 de la Ley Núm. 33 de 13 de julio de 1978,
+16 según enmendada, conocida como "Ley Contra el Crimen Organizado y Lavado de
+17 Dinero del Estado Libre Asociado de Puerto Rico", para que lea como sigue:
+18 “Artículo 4. — Prescripción.
+19 La acción penal que pueda instarse contra la persona que infrinja las disposiciones
+20 del Artículo 3 de esta Ley no prescribe.
+21 Cualquier acto individual que forme parte del patrón de crimen organizado o de
+22 lavado de dinero, ocurrido con posterioridad a la aprobación de esta Ley, prescribirá a
+
+11
+1 los diez (10) años [excepto aquellos casos en que el Artículo 87 del Código Penal de
+2 Estado Libre Asociado de Puerto Rico o cualquier ley especial establezca un término
+3 prescriptivo mayor] contados desde la fecha en que el acto fue descubierto, o desde la fecha en
+4 que razonablemente pudo haber sido descubierto mediante el ejercicio de diligencia razonable por
+5 parte de las autoridades competentes, lo que ocurra primero, excepto en aquellos casos en que el
+6 Artículo 87 del Código Penal de Puerto Rico o cualquier ley especial establezca un término
+7 prescriptivo mayor o disponga su imprescriptibilidad.
+8 Cuando un delito constituya una infracción subyacente al delito de lavado de dinero o al
+9 patrón de crimen organizado, el término prescriptivo de dicho delito subyacente no expirará
+10 antes del término aplicable al delito de lavado de dinero o crimen organizado relacionado, siempre
+11 que ambos surjan del mismo esquema delictivo.
+12 Las disposiciones del Código Penal relativas al descubrimiento del delito, la suspensión por
+13 encubrimiento activo y las salvaguardas procesales de los Artículos 89, 89-A y 89-B serán
+14 aplicables, en lo pertinente, a la interpretación y aplicación de este Artículo.
+15 En ningún caso podrá incoarse la acción penal por actos individuales una vez transcurridos
+16 veinte (20) años desde la comisión del acto, independientemente de la fecha de descubrimiento."
+17 Sección 6. — Se enmienda el Artículo 9.06 de la Ley Núm. 255-2002, según
+18 enmendada, conocida como “Ley de Sociedades Cooperativas de Ahorro y Crédito de
+19 2002”, para que lea como sigue:
+20 " Artículo 9.06 — Delitos Contra los Fondos de las Cooperativas.
+21 Será castigado con pena de reclusión por un término fijo de ocho (8) años todo
+22 miembro de la Junta, de los comités, funcionario, empleado o agente de una cooperativa
+
+12
+1 y toda persona encargada de recibir, guardar, traspasar o desembolsar fondos de una
+2 cooperativa que realice uno o más de los siguientes actos:
+3 (a) sin autoridad legal se los apropie, en todo o en parte, para beneficio particular o
+4 el de otra persona;
+5 (b) …
+6 …
+7 (k) …
+8 Toda persona que no sea miembro de la Junta, de los comités ni funcionario
+9 ejecutivo, empleado o agente de una cooperativa que sea culpable de uno o más de los
+10 actos prohibidos en este Artículo, independientemente de si obtuvo o no lucro
+11 económico personal, será sancionada con la pena aquí dispuesta. La acción penal para
+12 los delitos dispuestos en este Artículo prescribirá a los diez (10) años.
+13 Dicho término se computará conforme a las reglas de descubrimiento, suspensión por
+14 encubrimiento activo y salvaguardas procesales dispuestas en los Artículos 89, 89-A y 89-B de la
+15 Ley Núm. 146-2012, según enmendada, conocida como Código Penal de Puerto Rico, las cuales
+16 se incorporan por referencia a este Artículo. En ningún caso podrá incoarse la acción penal una
+17 vez transcurridos veinte (20) años desde la comisión del acto, independientemente de la fecha de
+18 descubrimiento."
+19 Sección 7. - Se enmienda el Artículo 409, inciso (a), de la Ley Núm. 60 de 18 de junio
+20 de 1963, según enmendada, conocida como "Ley Uniforme de Valores de Puerto Rico",
+21 para que lea como sigue:
+22 "Artículo 409. — Penalidades.
+
+13
+1 (a) Cualquier persona que voluntariamente viole cualquier disposición de esta ley,
+2 excepto el Artículo 404, o que voluntariamente viole cualquier reglamento u
+3 orden promulgada de acuerdo con las disposiciones de esta ley, o que
+4 voluntariamente viole el Artículo 404 sabiendo que la declaración hecha es falsa
+5 o engañosa en cualquier aspecto material, una vez fuere convicta será castigada
+6 con una multa que no será menor de quinientos (500) dólares ni mayor de diez
+7 mil (10,000) dólares, o con pena de reclusión por un término que no será menor
+8 de seis (6) meses ni mayor de cinco (5) años, o ambas penas. Ningún
+9 procedimiento penal podrá incoarse después de transcurridos diez (10) años [de
+10 la alegada violación] contados desde la fecha en que la alegada violación fue
+11 descubierta, o desde la fecha en que razonablemente pudo haber sido descubierta mediante
+12 el ejercicio de diligencia razonable por parte de las autoridades competentes, lo que ocurra
+13 primero. El cómputo de dicho término, su suspensión por encubrimiento activo y las
+14 salvaguardas procesales aplicables se regirán por lo dispuesto en los Artículos 89, 89-A y
+15 89-B de la Ley Núm. 146-2012, según enmendada, conocida como “Código Penal de
+16 Puerto Rico”, los cuales se incorporan por referencia a este Artículo. En ningún caso
+17 podrá incoarse la acción penal una vez transcurridos veinte (20) años desde la comisión
+18 de la alegada violación, independientemente de la fecha de descubrimiento.
+19 (b) …
+20 (c) …
+21 (d) …”
+22 Sección 8. - Interpretación.
+
+14
+1 Las disposiciones de esta Ley se interpretarán liberalmente para adelantar el interés
+2 apremiante del Estado en investigar y procesar efectivamente los delitos económicos y
+3 financieros complejos, sin menoscabo de las garantías constitucionales del debido
+4 proceso de ley. En caso de duda sobre la aplicación de una disposición procesal, el
+5 tribunal deberá armonizar el interés público en la persecución del delito con la
+6 protección efectiva de los derechos del imputado.
+7 Sección 9. — Aplicabilidad.
+8 Esta Ley aplicará prospectivamente a los hechos cometidos con posterioridad a su
+9 vigencia. También podrá aplicarse a acciones penales no prescritas a la fecha de su
+10 aprobación, siempre que dicha aplicación no constituya una violación a la prohibición
+11 constitucional contra leyes ex post facto ni menoscabe derechos sustantivos adquiridos.
+12 Sección 10. — Separabilidad.
+13 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+14 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta ley
+15 fuera anulada o declarada inconstitucional, la resolución, el dictamen o la sentencia
+16 dictada a tal efecto no afectará, perjudicará, ni invalidará el remanente de esta ley. El
+17 efecto de tal sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración,
+18 palabra, letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo,
+19 acápite o parte de ésta que así hubiera sido anulada o declarada inconstitucional.
+20 Sección 11. — Vigencia.
+21 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:    3  .rL    e l L N 1 s e c c “ “ d S C d A y C d 2 y l L V d P R a l f d f e r d p d e d d d e l s d l p e a a l p d l d v ( a p e e d l a p d s c c n e g i y p l]
+[DELETED:  d o c l g d p L R d C d d a s ( p s s e i r c f y l d d i e v a a l a d l O d C i i e e s u i d d i e l c d d u j q n l c l h d a e c a S e p t l e q s d e e s p d a d l d c q i a f a f]
+[DELETED:  e i d i i P o l e n r e e a c c d s d d m q a r d d o u e c s c m b e d f y e d f a o e p l q e o a n f d y a l c() o s j c r e e d c v R 5 U 6 ( b e p d q e f s c c m e e d d r p h a o c m p e l a p s q s   1 U § c r r l n c d l]
+[DELETED:  C 2 D 5 ( r l v d a a l d p p l C d P R L a p q l d s p m e e o l e A 8 s m p q e t p e l e y f c a c d e d d c u t a d v ( a d l c s c p e i r a a d e r a P s p e n A 8 c l s p q l d s a l d d o a c o n a q e e d q f p a e r d]
+[DELETED:  “ d S C d A y C d 2 e A y l r e a r d c s y a l C l O d C d P R e d J l O d C d I F R e o e D a e s r a l a c r u c i e o v d t l a l A L e c p e f d r d p p a a l d c d d p p d i y]
+[DELETED:  1 — S e e A 8 d l L N 1 s)A), l d ( a e l d d a i a f l c.E t p e e d s c c a l e e A 8 d e C L a d n a l e e e A 8 d e C p a d)A)L d d e y c p a l d ( a)A)A]
+[DELETED:  2 — S e e A 8 d l L N 1 s q s n r e a l c d u a p l d c p p e a o c i e t c a l d d a i a f m d f d d y l d d e t p d d ( a f d o d l f e q r p h s d e e d r p p d l a c l q l f d e A s e p d e m e q s o s p i f u i s l p]
+[DELETED:  c d d i d l f d d E t a s c p d s p e a d e e 3 —S a u n A 8 a l L N 1 s e u d t e i c e c o c o a e a e i d a e q l]
+[DELETED:  q p l s d t p b e A e M u r c e l a d e y l i o r f e q e d h s d l q o p E n c l 4 — S a u n A 8 a l L N 1 s l a d l A 8 y 8 d e C a l d e y)C d s a l e n y d d l a d e)L d d d s r p u c o d d e j c c l a c]
+[DELETED:  c l d o r p l c p h)L s p e a r a a i y)T)L e r a n m d a e)L d l l p d i y e d d i a p y e c c " C e C O y L d]
+[DELETED:  8 d C P d P R o c l e e u t d c o e t p d d d s n e a y l s p d l A 8 8 y 8 s 6 — S e e A 9 d l L N 2 s c c p d r p u t f d o ( a t]
+[DELETED:  p q n s m d l J d l c n f p e e A i d s o o n l . t s c c a l r d d s p]
+[DELETED:  e A 4 o q v v c r u p d a c l d d e l o q s ( m n m d c ( a o a p N   a v d l f e q l a v f E c d d t s s p e a y l d l L N 1 s e c c “ P d]
+[DELETED:  c s m d l g c d d d l E c d d s l a d u d p e d a e i p e l p d d c l T p a a a p n p a l f d s c c p s o p l a a o d i l r e d o l s d t s q l a l c p s o l a d s s t c s]

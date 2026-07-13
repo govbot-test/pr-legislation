@@ -1,0 +1,205 @@
+Title: Para ordenar a la Autoridad de Energía Eléctrica (“AEE”) y/o el operador de la red
+Official Title: Para ordenar a la Autoridad de Energía Eléctrica (“AEE”) y/o el operador de la red
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+(R. C. de la C. 193)
+(Conferencia)
+RESOLUCIÓN CONJUNTA
+eléctrica LUMA Energy, LLC. (“LUMA”) cesar el cobro de todo cargo por concepto
+de Estudio Suplementario y por mejoras a la red que hubiese sido requerido para
+sistemas de hasta 25 kilovatios por el Reglamento Número 8915, Reglamento para
+Interconectar Generadores con el Sistema de Distribución Eléctrica de la
+Autoridad de Energía Eléctrica y Participar en los Programas de Medición Neta
+del 6 de febrero de 2017, incluyendo pero sin limitarse a los cargos dispuestos en
+la Sección V, Artículo B de dicho Reglamento 8915; y ordenar al Negociado de
+Energía de Puerto Rico a adoptar un nuevo reglamento de interconexión
+consistente con la Ley 17 de 2019, Ley de Política Pública Energética de Puerto Rico
+y con esta Resolución dentro de un término de tiempo específico.
+EXPOSICIÓN DE MOTIVOS
+El uso de sistemas de energía fotovoltaica en Puerto Rico ha experimentado un
+aumento significativo en los últimos 5 años. De acuerdo a expresiones del Presidente de
+LUMA Energy, LLC, Juan Saca, en Puerto Rico existían para el 31 de diciembre de 2023
+unas 110,000 residencias que cuentan con sistemas de energía fotovoltaica.
+El 6 de febrero de 2017 entró en vigor el Reglamento Número 8915, el Reglamento
+para Interconectar Generadores con el Sistema de Distribución Eléctrica de la Autoridad
+de Energía Eléctrica (AEE) y Participar en los Programas de Medición Neta del 6 de
+febrero de 2017, el cual detalla los procesos para interconectar estos sistemas de energía
+renovable a la red de distribución.
+En la Sección V, Artículo B (Revisión Mediante Estudio Suplementario y Proceso
+Expedito) del Reglamento Número 8915 se establece en la Tabla 2 una guía de los costos
+para los Estudios Suplementarios, según la capacidad del GD (sistema de generación
+distribuida, por las iniciales utilizadas en el Reglamento Número 8915) y otros cargos.
+Estos cargos del Reglamento Número 8915 son contrarios al espíritu y letra de la
+política pública declarada en la Ley 17-2019, mejor conocida como la Ley de Política
+Pública Energética de Puerto Rico, la cual, inter alia, establece como requisito lograr que
+en el año 2050 el 100 por ciento de la energía que se produzca en Puerto Rico sea
+renovable.
+2
+La Ley 17 de 2019 requirió que dentro de los 180 días siguientes a su aprobación
+se iniciara un proceso conducente a la adopción de un nuevo Reglamento de
+Interconexión por el Negociado de Energía. Sin embargo, al día de hoy tal reglamentación
+no se ha adoptado, creando múltiples problemas, incluyendo el que esta Legislatura
+atiende vía esta Resolución. Ante tal inacción, hoy múltiples disposiciones del
+Reglamento 8915 chocan con la letra y el espíritu de la Ley 17 de 2019.
+La presente legislación elimina los cargos a clientes en casos de sistemas
+fotovoltaicos de menos de 25 kilovatios de capacidad y ordena al Negociado de Energía
+a adoptar estándares modernos al completar un nuevo Reglamento de Interconexión.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Esta Asamblea Legislativa ordena lo siguiente:
+a. La Autoridad de Energía Eléctrica (“AEE”) y/o el operador de la red eléctrica
+LUMA Energy, LLC. (“LUMA”) cesarán de notificar y cobrar todo cargo por
+concepto de Estudio Suplementario y por mejoras a la red requerido por el
+Reglamento Número 8915, Reglamento para Interconectar Generadores con el
+Sistema de Distribución Eléctrica de la Autoridad de Energía Eléctrica y Participar
+en los Programas de Medición Neta del 6 de febrero de 2017 (“Reglamento 8915”),
+incluyendo, pero sin limitarse a los cargos dispuestos en la Sección V, Artículo B
+de dicho Reglamento 8915, en los casos de clientes con sistemas fotovoltaicos de
+hasta 25 kW que han notificado a LUMA la interconexión de su sistema antes de
+la fecha de vigencia de esta Resolución Conjunta.
+b. No se cobrará cargo alguno por Estudio Suplementario, para ningún sistema
+fotovoltaico cuya capacidad de generación sea menor o igual a 25kW.
+c. Toda disposición del Reglamento 8915 que sea inconsistente con los incisos a, y b
+de la Sección 1 de esta Resolución Conjunta queda, por la presente, sin efecto.
+Sección 2.- Una vez aprobada la presente Resolución Conjunta, el Negociado de
+Energía reanudará los procesos administrativos en los casos consolidados NEPR-MI-
+2019-0009 y CEPR-MI-2018-0008 para llevar a cabo talleres participativos con entidades
+interesadas, guiados por una firma o entidad reconocida por su alto expertise y sustancial
+experiencia previa probada en moderación de procesos intensivos y multi-participativos
+de reglamentación de interconexión. Estos talleres conducidos por expertos considerarán
+nuevos insumos y retroalimentación de las diversas partes interesadas y finalizarán con
+la preparación de un borrador de propuesta de reglamento de interconexión, el cual será
+objeto del proceso formal de reglamentación provisto en la Ley de Procedimiento
+Administrativo Uniforme, Ley 38-2017, según enmendada. Esta reglamentación adoptará
+3
+tecnologías y conceptos modernos de interconexión, incluyendo planificación proactiva
+de capacidad de alojamiento y planificación presupuestaria (proactive hosting capacity
+planning and budgeting), adaptadores de base de contador (meter socket adapters), “carga
+mínima diurna” (daytime minimum load), compensaciones por pérdidas económicas a
+clientes que sufran restricciones en la exportación de energía (curtailment) asociadas a
+imposición de configuraciones en inversores, costos del operador del sistema de
+transmisión y distribución para estudios de la red, entre otros. Los costos relacionados a
+las modificaciones o mejoras, que puedan ser requeridas, se determinarán conforme a los
+principios de razonabilidad, proporcionalidad y beneficio recibido, evitando que tales
+costos se trasladen, de forma injusta, a la totalidad de los clientes del sistema eléctrico. La
+metodología para determinar la distribución de los costos se establecerá por el Negociado
+de Energía mediante reglamento. El proceso conducente a la preparación de un borrador
+de propuesta de reglamento de interconexión deberá concluir dentro de los ciento
+ochenta (180) días contados de la fecha de aprobación de la presente Resolución Conjunta.
+Sección 3. - Con la asistencia de la firma o entidad reconocida mencionada en la
+anterior Sección 2 y la participación activa de partes interesadas, el Negociado de Energía
+finalizará el proceso de reglamentación para la adopción de un nuevo Reglamento de
+Interconexión dentro de trescientos sesenta y cinco días (365) contados desde la
+aprobación de la presente Resolución Conjunta.
+Sección 4.-Esta Resolución Conjunta comenzará a regir inmediatamente después de
+su aprobación.
+[DELETED:  G c e S d D E d l d P R a a u n r d i e a 2 e 1 p c d l e q s p e P R s]
+[DELETED:  i u p c a l a d u n R d s h a c m p i e q e L v e R A t i h m d d p l e l c a c e c d s.L E L ( c d n y c t c p d E S y p m a l r r p e N 8 R p I G c e.N s c c a p E S p n s.T 2 U v a l p R C e N d r l p a e l c c N d p f d r p e l L d P]
+[DELETED:  c d a y p p h cgm() d () c p p e a m l() d c e i c d o d s d p d r d i d c d d l c 3 - C l a d l f o e r m e l d d t s y c d ( c d l]
+
+
+================================================================================
+
+Raw Text:
+(R. C. de la C. 193)
+(Conferencia)
+RESOLUCIÓN CONJUNTA
+Para ordenar a la Autoridad de Energía Eléctrica (“AEE”) y/o el operador de la red
+eléctrica LUMA Energy, LLC. (“LUMA”) cesar el cobro de todo cargo por concepto
+de Estudio Suplementario y por mejoras a la red que hubiese sido requerido para
+sistemas de hasta 25 kilovatios por el Reglamento Número 8915, Reglamento para
+Interconectar Generadores con el Sistema de Distribución Eléctrica de la
+Autoridad de Energía Eléctrica y Participar en los Programas de Medición Neta
+del 6 de febrero de 2017, incluyendo pero sin limitarse a los cargos dispuestos en
+la Sección V, Artículo B de dicho Reglamento 8915; y ordenar al Negociado de
+Energía de Puerto Rico a adoptar un nuevo reglamento de interconexión
+consistente con la Ley 17 de 2019, Ley de Política Pública Energética de Puerto Rico
+y con esta Resolución dentro de un término de tiempo específico.
+EXPOSICIÓN DE MOTIVOS
+El uso de sistemas de energía fotovoltaica en Puerto Rico ha experimentado un
+aumento significativo en los últimos 5 años. De acuerdo a expresiones del Presidente de
+LUMA Energy, LLC, Juan Saca, en Puerto Rico existían para el 31 de diciembre de 2023
+unas 110,000 residencias que cuentan con sistemas de energía fotovoltaica.
+El 6 de febrero de 2017 entró en vigor el Reglamento Número 8915, el Reglamento
+para Interconectar Generadores con el Sistema de Distribución Eléctrica de la Autoridad
+de Energía Eléctrica (AEE) y Participar en los Programas de Medición Neta del 6 de
+febrero de 2017, el cual detalla los procesos para interconectar estos sistemas de energía
+renovable a la red de distribución.
+En la Sección V, Artículo B (Revisión Mediante Estudio Suplementario y Proceso
+Expedito) del Reglamento Número 8915 se establece en la Tabla 2 una guía de los costos
+para los Estudios Suplementarios, según la capacidad del GD (sistema de generación
+distribuida, por las iniciales utilizadas en el Reglamento Número 8915) y otros cargos.
+Estos cargos del Reglamento Número 8915 son contrarios al espíritu y letra de la
+política pública declarada en la Ley 17-2019, mejor conocida como la Ley de Política
+Pública Energética de Puerto Rico, la cual, inter alia, establece como requisito lograr que
+en el año 2050 el 100 por ciento de la energía que se produzca en Puerto Rico sea
+renovable.
+
+2
+La Ley 17 de 2019 requirió que dentro de los 180 días siguientes a su aprobación
+se iniciara un proceso conducente a la adopción de un nuevo Reglamento de
+Interconexión por el Negociado de Energía. Sin embargo, al día de hoy tal reglamentación
+no se ha adoptado, creando múltiples problemas, incluyendo el que esta Legislatura
+atiende vía esta Resolución. Ante tal inacción, hoy múltiples disposiciones del
+Reglamento 8915 chocan con la letra y el espíritu de la Ley 17 de 2019.
+La presente legislación elimina los cargos a clientes en casos de sistemas
+fotovoltaicos de menos de 25 kilovatios de capacidad y ordena al Negociado de Energía
+a adoptar estándares modernos al completar un nuevo Reglamento de Interconexión.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Esta Asamblea Legislativa ordena lo siguiente:
+a. La Autoridad de Energía Eléctrica (“AEE”) y/o el operador de la red eléctrica
+LUMA Energy, LLC. (“LUMA”) cesarán de notificar y cobrar todo cargo por
+concepto de Estudio Suplementario y por mejoras a la red requerido por el
+Reglamento Número 8915, Reglamento para Interconectar Generadores con el
+Sistema de Distribución Eléctrica de la Autoridad de Energía Eléctrica y Participar
+en los Programas de Medición Neta del 6 de febrero de 2017 (“Reglamento 8915”),
+incluyendo, pero sin limitarse a los cargos dispuestos en la Sección V, Artículo B
+de dicho Reglamento 8915, en los casos de clientes con sistemas fotovoltaicos de
+hasta 25 kW que han notificado a LUMA la interconexión de su sistema antes de
+la fecha de vigencia de esta Resolución Conjunta.
+b. No se cobrará cargo alguno por Estudio Suplementario, para ningún sistema
+fotovoltaico cuya capacidad de generación sea menor o igual a 25kW.
+c. Toda disposición del Reglamento 8915 que sea inconsistente con los incisos a, y b
+de la Sección 1 de esta Resolución Conjunta queda, por la presente, sin efecto.
+Sección 2.- Una vez aprobada la presente Resolución Conjunta, el Negociado de
+Energía reanudará los procesos administrativos en los casos consolidados NEPR-MI-
+2019-0009 y CEPR-MI-2018-0008 para llevar a cabo talleres participativos con entidades
+interesadas, guiados por una firma o entidad reconocida por su alto expertise y sustancial
+experiencia previa probada en moderación de procesos intensivos y multi-participativos
+de reglamentación de interconexión. Estos talleres conducidos por expertos considerarán
+nuevos insumos y retroalimentación de las diversas partes interesadas y finalizarán con
+la preparación de un borrador de propuesta de reglamento de interconexión, el cual será
+objeto del proceso formal de reglamentación provisto en la Ley de Procedimiento
+Administrativo Uniforme, Ley 38-2017, según enmendada. Esta reglamentación adoptará
+
+3
+tecnologías y conceptos modernos de interconexión, incluyendo planificación proactiva
+de capacidad de alojamiento y planificación presupuestaria (proactive hosting capacity
+planning and budgeting), adaptadores de base de contador (meter socket adapters), “carga
+mínima diurna” (daytime minimum load), compensaciones por pérdidas económicas a
+clientes que sufran restricciones en la exportación de energía (curtailment) asociadas a
+imposición de configuraciones en inversores, costos del operador del sistema de
+transmisión y distribución para estudios de la red, entre otros. Los costos relacionados a
+las modificaciones o mejoras, que puedan ser requeridas, se determinarán conforme a los
+principios de razonabilidad, proporcionalidad y beneficio recibido, evitando que tales
+costos se trasladen, de forma injusta, a la totalidad de los clientes del sistema eléctrico. La
+metodología para determinar la distribución de los costos se establecerá por el Negociado
+de Energía mediante reglamento. El proceso conducente a la preparación de un borrador
+de propuesta de reglamento de interconexión deberá concluir dentro de los ciento
+ochenta (180) días contados de la fecha de aprobación de la presente Resolución Conjunta.
+Sección 3. - Con la asistencia de la firma o entidad reconocida mencionada en la
+anterior Sección 2 y la participación activa de partes interesadas, el Negociado de Energía
+finalizará el proceso de reglamentación para la adopción de un nuevo Reglamento de
+Interconexión dentro de trescientos sesenta y cinco días (365) contados desde la
+aprobación de la presente Resolución Conjunta.
+Sección 4.-Esta Resolución Conjunta comenzará a regir inmediatamente después de
+su aprobación.
+
+[DELETED:  G c e S d D E d l d P R a a u n r d i e a 2 e 1 p c d l e q s p e P R s]
+[DELETED:  i u p c a l a d u n R d s h a c m p i e q e L v e R A t i h m d d p l e l c a c e c d s.L E L ( c d n y c t c p d E S y p m a l r r p e N 8 R p I G c e.N s c c a p E S p n s.T 2 U v a l p R C e N d r l p a e l c c N d p f d r p e l L d P]
+[DELETED:  c d a y p p h cgm() d () c p p e a m l() d c e i c d o d s d p d r d i d c d d l c 3 - C l a d l f o e r m e l d d t s y c d ( c d l]

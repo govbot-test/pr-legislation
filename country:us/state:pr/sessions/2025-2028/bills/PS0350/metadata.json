@@ -606,6 +606,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:56Z"
+    "logs_latest_update": "2026-07-13T06:06:56Z",
+    "text_extraction_latest_update": "2026-07-13T12:53:51.090536Z"
   }
 }

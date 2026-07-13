@@ -1,0 +1,502 @@
+Title: Para enmendar los artículos 1, 2, 3, 4, 5, 6, 7, 8 y 8 10 de la Ley 19-2011, según enmendada,
+Official Title: Para enmendar los artículos 1, 2, 3, 4, 5, 6, 7, 8 y 8 10 de la Ley 19-2011, según enmendada,
+Number of Sections: 1
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+ENTIRILLADO ELECTRÓNICO
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 877
+15 de diciembre de 2025
+Presentado por el señor Rosa Ramos
+Referido a la Comisión de Agricultura
+LEY
+conocida como “Ley del Registro Interactivo de Propiedades Públicas con
+Oportunidad de Desarrollo Económico o Conservación y Protección”, con el
+propósito de ampliar los alcances de dicha Ley, para que puedan aprovecharse las
+fincas agrícolas vacantes pertenecientes a la Autoridad de Tierras de Puerto Rico,
+así como cualquier otro predio disponible que sea propiedad de la Compañía de
+Fomento Industrial, la Administración de Terrenos y el Departamento de la
+Vivienda; facilitar que los agricultores bona fide tengan acceso irrestricto y gratuito a la
+información contenida en el Registro Interactivo de Propiedades Públicas y Fincas Agrícolas
+con Oportunidad de Desarrollo Económico, Aprovechamiento o Conservación y Protección,
+a través de la plataforma denominada como AgroPerfil; renombrar la Ley como “Ley del
+Registro Interactivo de Propiedades Públicas y Fincas Agrícolas con Oportunidad
+de Desarrollo Económico, Aprovechamiento o Conservación y Protección”; hacer
+enmiendas técnicas; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+De conformidad con la Ley Núm. 26 de 12 de abril de 1941 según enmendada,
+conocida como Ley de Tierras de Puerto Rico, se creó la Autoridad de Tierras de Puerto
+Rico. Por disposición del “Plan de Reorganización del Departamento de Agricultura de
+2010”, Plan 4-2010, según enmendado, la Autoridad de Tierras se convirtió en un
+componente programático y operacional del Departamento de Agricultura, con la
+2
+función de adquirir, conservar y preservar terrenos de alto valor agrícola para hacerlos
+disponibles y accesibles a los empresarios agrícolas de Puerto Rico.
+A tenor con lo anterior, la Autoridad posee alrededor de 85,000 cuerdas de terreno
+en todo Puerto Rico, especialmente en la zona costera, así como, otras 52,500 cuerdas bajo
+el Programa de Fincas Familiares en el área montañosa de nuestra Isla. Con el fin de
+fomentar el bienestar de los habitantes de Puerto Rico, se busca a través de la Autoridad
+de Tierras, alcanzar la estabilidad económica y la justicia social proveyendo una mejor
+distribución y aprovechamiento de los terrenos de alto valor agrícola.
+Entre las funciones principales de la Autoridad está el garantizar a las futuras
+generaciones la conservación de las tierras, adquirir y administrar los terrenos agrícolas
+mediante arrendamiento para el desarrollo de proyectos agrícolas sostenibles y rentables,
+ayudar en la formación de nuevos agricultores y facilitar la utilización de las tierras para
+el mayor beneficio público bajo planes de producción eficientes y económicamente
+viables.
+Para llevar a cabo las funciones relacionadas a la administración de las fincas
+disponibles, la Autoridad cuenta con un Departamento de Bienes Raíces, responsable de:
+(1) Tramitar las ventas, arrendamientos, permutas y permisos de todas las propiedades
+inmuebles de la ATPR; (2) Asistir a los agricultores asignándoles tierras agrícolas para su
+desarrollo agropecuario y potenciarla al máximo; (3) Traspasar permuta o vender
+terrenos que no tienen uso agrícola para el desarrollo económico de la Isla; (4) Evalúar y
+tramitar las solicitudes de arrendamientos para la producción agrícola; (5) Promueve el
+desarrollo de proyectos agrícolas de manera científica.
+Según la información disponible, al 23 de octubre de 2025, había ceinto veinte (120)
+fincas disponibles o vacantes a través de las siente (7) áreas en las que la Autoridad divide
+a Puerto Rico, para un total de 4,585.46 cuerdas, a saber: Área 1: Hatillo, Arecibo,
+Barceloneta y Florida; Área 2: Vega Baja, Vega Alta, Dorado, Toa Baja, Toa Alta y Manatí;
+Área 3: Loíza, Río Grande, Luquillo, Fajardo y Ceiba; Área 4: Carolina Canóvanas,
+Naguabo, Humacao, Yabucoa, Maunabo y Vieques; Área 5: Arroyo, Guayama, Salinas,
+3
+Ponce, Juana Díaz y Santa Isabel; Área 6: Guánica, Cabo Rojo, Lajas, Sabana Grande y San
+Germán; Área 7: Aguadillas, Aguada, Moca, Añasco, San Sebastián, Lares y Mayagüez.
+Ahora bien, nos hemos percatado de que dicha entidad corporativa no cuenta con
+un portal cibernético propio, a través del cual puedan mercadear aquellas fincas
+disponibles para ser utilizadas por empresarios agrícolas u otros agricultores interesados.
+Sobre lo expuesto en el párrafo que antecede, es de notar la existencia de la Ley 19-
+2011, según enmendada, conocida como “Ley del Registro Interactivo de Propiedades
+Públicas con Oportunidad de Desarrollo Económico o Conservación y Protección”. Esta
+Ley establece como un asunto de política pública, asegurar la mejor utilización de la
+propiedad pública y fomentar el desarrollo económico, urbano y social mediante el
+establecimiento de planes estratégicos de acción para cada estructura e inmueble
+perteneciente a la Compañía de Fomento Industrial, la Administración de Terrenos, la
+Autoridad de Tierras y el Departamento de la Vivienda. A estos fines, los planes
+estratégicos de acción estarán enmarcados en las áreas de conservación de recursos
+naturales, la rehabilitación del patrimonio histórico y de centros urbanos y el desarrollo
+económico, industrial, comercial, turístico y de vivienda.
+Por tanto, y reconociendo la existencia de una Ley que ya provee para el mercadeo
+de propiedad pública dirigida al desarrollo económico, urbano y social de Puerto Rico,
+entendemos apropiado enmendarla, a los efectos de ampliar los alcances de la misma,
+para que puedan aprovecharse las fincas agrícolas vacantes pertenecientes a la Autoridad
+de Tierras de Puerto Rico, así como cualquier otro predio disponible que sea propiedad
+de la Compañía de Fomento Industrial, la Administración de Terrenos y el Departamento
+de la Vivienda. Dicho esto, la Ley no solo se enfocaría en el mercadeo de estructuras, sino
+también en el de predios o fincas que pudieran aprovecharse para fines agrícolas.
+Ciertamente, el desarrollo de la agricultura local es vital para alcanzar la
+autosuficiencia alimentaria y reducir la dependencia excesiva de productos importados.
+En la actualidad, una gran parte de los alimentos que se consumen en Puerto Rico
+provienen del extranjero, lo que limita el crecimiento de la economía agrícola del país y
+representa una amenaza para la seguridad alimentaria.
+4
+Ante esta realidad, resulta esencial identificar y promover oportunidades reales
+para que nuevos agricultores puedan emprender y establecer sus proyectos en fincas
+disponibles a través de la Autoridad de Tierras. Para lograrlo es necesario contar con un
+inventario claro, actualizado y accesible de las propiedades agrícolas del Gobierno, que
+permita conocer su disponibilidad, ubicación y estado actual.
+Esta iniciativa, fomentará el desarrollo de una nueva generación de agricultores,
+promoviendo así, un mejoramiento de la economía, salud y sostenibilidad de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley 19-2011, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 1. — Título.
+4 Esta Ley se conocerá y podrá citarse como la “Ley del Registro Interactivo de
+5 Propiedades Públicas y Fincas Agrícolas con Oportunidad de Desarrollo Económico,
+6 Aprovechamiento o Conservación y Protección”.”
+7 Sección 2.- Se enmienda el Artículo 2 de la Ley 19-2011, según enmendada, para
+8 que lea como sigue:
+9 “Artículo 2. — Declaración de Política Pública.
+10 Será política pública del Gobierno de Puerto Rico asegurar la mejor utilización y
+11 aprovechamiento de la propiedad pública y de las fincas agrícolas vacantes y fomentar el
+12 desarrollo económico, urbano, rural y social mediante el establecimiento de planes
+13 estratégicos de acción para cada predio, finca, estructura e inmueble perteneciente a la
+14 Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad de
+15 Tierras y el Departamento de la Vivienda. A estos fines, los planes estratégicos de
+5
+1 acción estarán enmarcados en las áreas de conservación de recursos naturales, la
+2 rehabilitación del patrimonio histórico y de centros urbanos, desarrollo agrícola y el
+3 desarrollo económico, industrial, comercial, turístico y de vivienda. La Junta de
+4 Planificación de Puerto Rico inscribirá cada predio, finca, estructura e inmueble en un
+5 registro público, actualizado y desarrollado en un sistema de información geográfica.”
+6 Sección 3.- Se enmienda el Artículo 3 de la Ley 19-2011, según enmendada, para
+7 que lea como sigue:
+8 “Artículo 3. — Definiciones.
+9 Los términos aquí incluidos tendrán los siguientes significados:
+10 …
+11 2. Autoridad. — Es la Autoridad de Tierras de Puerto Rico, creada mediante la
+12 Ley Núm. 26 de 12 de abril de 1941, según enmendada, conocida como “Ley de Tierras de
+13 Puerto Rico”, y componente operacional del Departamento de Agricultura, por
+14 disposición del [Plan de Reorganización Núm. 1 de 4 de mayo de 1994] Plan 4-2010,
+15 según enmendado, conocido como “Plan de Reorganización del Departamento de Agricultura
+16 de 2010”.
+17 …
+18 6. Registro. — Es el Registro Interactivo de Propiedades y Fincas Agrícolas creado
+19 por esta Ley.
+20 …”
+21 Sección 4.- Se enmienda el Artículo 4 de la Ley 19-2011, según enmendada, para
+22 que lea como sigue:
+6
+1 “Artículo 4. — Registro.
+2 Se crea el Registro de predios, fincas, estructuras e inmuebles pertenecientes a la
+3 Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad de
+4 Tierras y el Departamento de la Vivienda, el cual servirá como herramienta de
+5 información y un instrumento de promoción para el desarrollo de actividad
+6 económica y agrícola. La Junta de Planificación podrá fijar una cuota de acceso a
+7 usuarios habituales con el fin de sufragar el costo de creación, organización,
+8 implementación y operación del Registro estatuido por esta Ley, siempre que permita
+9 accesos casuales, limitados, periódicos y gratuitos al público general. En el caso de los
+10 agricultores bona fides, estos tendrán accesibilidad digital irrestricta y gratuita al Registro aquí
+11 creado a través de la plataforma AgroPerfil. A tales efectos, la Junta de Planificación, el
+12 Departamento de Agricultura, la Autoridad de Tierras y la Puerto Rico Innovation and
+13 Technology Service establecerán la coordinación necesaria para que la información contenida
+14 en el Registro pueda ser enlazada a la antes mencionada plataforma digital AgroPerfil.
+15 …”
+16 Sección 5.- Se enmienda el Artículo 5 de la Ley 19-2011, según enmendada, para
+17 que lea como sigue:
+18 “Artículo 5. — Obligación de registrarse.
+19 Se dispone que la Compañía de Fomento Industrial, la Administración de
+20 Terrenos, la Autoridad de Tierras y el Departamento de la Vivienda, registrarán [toda]
+21 todo predio, finca, estructura o propiedad inmueble en el Registro creado por esta Ley.”
+7
+1 Sección 6.- Se enmienda el Artículo 6 de la Ley 19-2011, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 6. — Plan Estratégico de Acción.
+4 La Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad
+5 de Tierras y el Departamento de la Vivienda, definirán el equipo de trabajo que
+6 coordinará y elaborará un Plan Estratégico de Acción para cada una de sus
+7 propiedades inmuebles, fincas o predios. El Plan deberá estar en armonía con el
+8 documento Herramientas de Acción y Coordinación Estratégicas Sostenibles
+9 (HACES) de cada agencia concernida. El Plan [deberá estar listo dentro de los ciento
+10 ochenta (180) días posteriores a la aprobación de esta Ley y] comprenderá como
+11 mínimo lo siguiente:
+12 …”
+13 Sección 7.- Se enmienda el Artículo 7 de la Ley 19-2011, según enmendada, para
+14 que lea como sigue:
+15 “Artículo 7. — Marco para el Plan Estratégico de Acción.
+16 Cada Plan estará delimitado para fines específicos, según el uso, características
+17 condición y potencial de cada predio, finca, estructura e inmueble. La Junta, en
+18 coordinación con la agencia concerniente establecerá mediante reglamento los
+19 requisitos mínimos que deberá contener el Plan de acuerdo a con los siguientes
+20 propósitos:
+21 1…
+22 …
+8
+1 7. Conservación y Aprovechamiento de Tierra Agrícola. — Zonas de alto valor
+2 agrícola para hacerlas disponibles a empresarios agrícolas u otros agricultores
+3 interesados en adquirirlas o arrendarlas. Por lo regular, las propiedades de la Autoridad
+4 estarán bajo este marco.”
+5 Sección 8.- Se enmienda el Artículo 8 de la Ley 19-2011, según enmendada, para
+6 que lea como sigue:
+7 “Artículo 8. — Obligación de informar.
+8 La Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad
+9 de Tierras y el Departamento de la Vivienda, tendrán la obligación continua de
+10 informar a la Junta, no más tarde de treinta días posteriores a la culminación de cada
+11 año fiscal, el cumplimiento con los Planes Estratégicos de Acción. Cualquier negocio
+12 jurídico que conlleve la compra, venta, arrendamiento, permuta o traspaso de alguna
+13 de las propiedades que deben formar parte del Registro deberá ser notificado a la
+14 Junta, no más tarde de treinta días posteriores a la fecha de la compra, venta,
+15 arrendamiento, permuta o traspaso.”
+16 Sección 9.- Se enmienda el Artículo 10 de la Ley 19-2011, según enmendada, para que lea
+17 como sigue:
+18 “Artículo 10. — Cláusula de Cumplimiento.
+19 La Junta rendirá a la Asamblea Legislativa un informe detallado sobre el estado, la
+20 efectividad, y el progreso del Registro Interactivo de Propiedades, el cual deberá ser
+21 presentado a las Secretarías de Ambos Cuerpos no más tarde de treinta (30) días
+22 después de la culminación de cada año fiscal. Dicho informe incluirá información relativa
+9
+1 a todo negocio jurídico que haya conllevado la compra, venta, arrendamiento, permuta o
+2 traspaso de alguna de las propiedades o fincas agrícolas que formaban parte del Registro
+3 durante el transcurso del año fiscal correspondiente.”
+4 Sección 9 10.-Por la presente se deroga cualquier ley, o parte de ley, que sea
+5 incompatible con ésta.
+6 Sección 10 11.-Las disposiciones de esta Ley prevalecerán sobre cualquier otra
+7 disposición de ley que no estuviere en armonía con lo aquí establecido.
+8 Sección 11 12.-Si cualquier palabra, frase, oración, párrafo, artículo, o parte de esta
+9 ley fuere declarado inconstitucional por un tribunal competente, la sentencia a tal
+10 efecto dictada no afectará, perjudicará, ni invalidará el resto de esta ley. El efecto de
+11 dicha sentencia quedará limitado a la palabra, frase, oración, párrafo, artículo, o parte
+12 de la misma esta que así hubiere sido declarado inconstitucional.
+13 Sección 12 13.-Esta Ley entrará en vigor inmediatamente ciento ochenta (180) días
+14 después de su aprobación. Una vez comience a regir, el Director Ejecutivo de la Autoridad
+15 de Tierras contará con un término de ciento ochenta (180) días adicionales a partir de su
+16 vigencia, para confeccionar un inventario de predios, fincas, estructuras e inmuebles
+17 pertenecientes a la corporación pública, que contenga la información descrita en los incisos
+18 desde el (a) hasta el (i) del Artículo 4 de la Ley 19-2011, según enmendada, para que se incluya
+19 en el Registro Interactivo de Propiedades Públicas y Fincas Agrícolas con Oportunidad de
+20 Desarrollo Económico, Aprovechamiento o Conservación y Protección; y para que la Junta de
+21 Planificación, el Departamento de Agricultura, la Autoridad de Tierras y la Puerto Rico
+22 Innovation and Technology Service establezcan la coordinación necesaria para que la
+10
+1 información contenida en el mencionado Registro pueda ser enlazada a la plataforma digital
+2 AgroPerfil, según lo ordenado por esta Ley.
+[DELETED: 0 A 3 .rL  7   81 c “ d R I d P P c d D E o C y P c e I l A d T y e D d l P 4 s e l A d T s c e u p y o d D d A c l]
+[DELETED:  m b p b p d p e y e l a d a y p a m ( T p o v P R p u t d 4 c a s Á 1 H A 3 L R G L F y C Á 4 C C]
+[DELETED:  p c p a t d c p m a f p y f e d e u y s m e d p e d a p c e e i d T y e D d l V A e f l p d a e e e l á d c d r e d d l a l e v p a l l a u g p d l a q s c e P R]
+[DELETED:  y c R  s,o”oy  o   ]
+[DELETED:  e e e l á d c d r n ls  e i c t y d v L J d  o  R,y c o d D d Aa p   ]
+[DELETED:    y e D d l V e c s c h d y u i d p p e d d a . L J d P p f u c d a a a h c e f d s e c d c o a t d l p A A t e l J d P e d A l A d T y l P R I a d q l C d F I l A d ]
+[DELETED:  T y e D d l V d e e d t q y e u P E d A p c u d s . E P d e e a c e f o p H d A y C E S y p d c e e i L J e f c l a c e m r l m q d c e P d a a  l s]
+[DELETED:  C  d T A — Z d a v A p h d a e a  osa T y e D d l V t l o c d   n m t d t d p a l f d l c v d m d]
+[DELETED:  t n j q h c l c v a p o d a d l p o f a q f p d R 9 . l p s d c l o p d l q s 1 . d d e L p s c o .   . 3c p c u i d p f e e i e D d A l A d T y l P R a T S e l c n p q l]
+
+
+================================================================================
+
+Raw Text:
+ENTIRILLADO ELECTRÓNICO
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 877
+15 de diciembre de 2025
+Presentado por el señor Rosa Ramos
+Referido a la Comisión de Agricultura
+LEY
+Para enmendar los artículos 1, 2, 3, 4, 5, 6, 7, 8 y 8 10 de la Ley 19-2011, según enmendada,
+conocida como “Ley del Registro Interactivo de Propiedades Públicas con
+Oportunidad de Desarrollo Económico o Conservación y Protección”, con el
+propósito de ampliar los alcances de dicha Ley, para que puedan aprovecharse las
+fincas agrícolas vacantes pertenecientes a la Autoridad de Tierras de Puerto Rico,
+así como cualquier otro predio disponible que sea propiedad de la Compañía de
+Fomento Industrial, la Administración de Terrenos y el Departamento de la
+Vivienda; facilitar que los agricultores bona fide tengan acceso irrestricto y gratuito a la
+información contenida en el Registro Interactivo de Propiedades Públicas y Fincas Agrícolas
+con Oportunidad de Desarrollo Económico, Aprovechamiento o Conservación y Protección,
+a través de la plataforma denominada como AgroPerfil; renombrar la Ley como “Ley del
+Registro Interactivo de Propiedades Públicas y Fincas Agrícolas con Oportunidad
+de Desarrollo Económico, Aprovechamiento o Conservación y Protección”; hacer
+enmiendas técnicas; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+De conformidad con la Ley Núm. 26 de 12 de abril de 1941 según enmendada,
+conocida como Ley de Tierras de Puerto Rico, se creó la Autoridad de Tierras de Puerto
+Rico. Por disposición del “Plan de Reorganización del Departamento de Agricultura de
+2010”, Plan 4-2010, según enmendado, la Autoridad de Tierras se convirtió en un
+componente programático y operacional del Departamento de Agricultura, con la
+
+2
+función de adquirir, conservar y preservar terrenos de alto valor agrícola para hacerlos
+disponibles y accesibles a los empresarios agrícolas de Puerto Rico.
+A tenor con lo anterior, la Autoridad posee alrededor de 85,000 cuerdas de terreno
+en todo Puerto Rico, especialmente en la zona costera, así como, otras 52,500 cuerdas bajo
+el Programa de Fincas Familiares en el área montañosa de nuestra Isla. Con el fin de
+fomentar el bienestar de los habitantes de Puerto Rico, se busca a través de la Autoridad
+de Tierras, alcanzar la estabilidad económica y la justicia social proveyendo una mejor
+distribución y aprovechamiento de los terrenos de alto valor agrícola.
+Entre las funciones principales de la Autoridad está el garantizar a las futuras
+generaciones la conservación de las tierras, adquirir y administrar los terrenos agrícolas
+mediante arrendamiento para el desarrollo de proyectos agrícolas sostenibles y rentables,
+ayudar en la formación de nuevos agricultores y facilitar la utilización de las tierras para
+el mayor beneficio público bajo planes de producción eficientes y económicamente
+viables.
+Para llevar a cabo las funciones relacionadas a la administración de las fincas
+disponibles, la Autoridad cuenta con un Departamento de Bienes Raíces, responsable de:
+(1) Tramitar las ventas, arrendamientos, permutas y permisos de todas las propiedades
+inmuebles de la ATPR; (2) Asistir a los agricultores asignándoles tierras agrícolas para su
+desarrollo agropecuario y potenciarla al máximo; (3) Traspasar permuta o vender
+terrenos que no tienen uso agrícola para el desarrollo económico de la Isla; (4) Evalúar y
+tramitar las solicitudes de arrendamientos para la producción agrícola; (5) Promueve el
+desarrollo de proyectos agrícolas de manera científica.
+Según la información disponible, al 23 de octubre de 2025, había ceinto veinte (120)
+fincas disponibles o vacantes a través de las siente (7) áreas en las que la Autoridad divide
+a Puerto Rico, para un total de 4,585.46 cuerdas, a saber: Área 1: Hatillo, Arecibo,
+Barceloneta y Florida; Área 2: Vega Baja, Vega Alta, Dorado, Toa Baja, Toa Alta y Manatí;
+Área 3: Loíza, Río Grande, Luquillo, Fajardo y Ceiba; Área 4: Carolina Canóvanas,
+Naguabo, Humacao, Yabucoa, Maunabo y Vieques; Área 5: Arroyo, Guayama, Salinas,
+
+3
+Ponce, Juana Díaz y Santa Isabel; Área 6: Guánica, Cabo Rojo, Lajas, Sabana Grande y San
+Germán; Área 7: Aguadillas, Aguada, Moca, Añasco, San Sebastián, Lares y Mayagüez.
+Ahora bien, nos hemos percatado de que dicha entidad corporativa no cuenta con
+un portal cibernético propio, a través del cual puedan mercadear aquellas fincas
+disponibles para ser utilizadas por empresarios agrícolas u otros agricultores interesados.
+Sobre lo expuesto en el párrafo que antecede, es de notar la existencia de la Ley 19-
+2011, según enmendada, conocida como “Ley del Registro Interactivo de Propiedades
+Públicas con Oportunidad de Desarrollo Económico o Conservación y Protección”. Esta
+Ley establece como un asunto de política pública, asegurar la mejor utilización de la
+propiedad pública y fomentar el desarrollo económico, urbano y social mediante el
+establecimiento de planes estratégicos de acción para cada estructura e inmueble
+perteneciente a la Compañía de Fomento Industrial, la Administración de Terrenos, la
+Autoridad de Tierras y el Departamento de la Vivienda. A estos fines, los planes
+estratégicos de acción estarán enmarcados en las áreas de conservación de recursos
+naturales, la rehabilitación del patrimonio histórico y de centros urbanos y el desarrollo
+económico, industrial, comercial, turístico y de vivienda.
+Por tanto, y reconociendo la existencia de una Ley que ya provee para el mercadeo
+de propiedad pública dirigida al desarrollo económico, urbano y social de Puerto Rico,
+entendemos apropiado enmendarla, a los efectos de ampliar los alcances de la misma,
+para que puedan aprovecharse las fincas agrícolas vacantes pertenecientes a la Autoridad
+de Tierras de Puerto Rico, así como cualquier otro predio disponible que sea propiedad
+de la Compañía de Fomento Industrial, la Administración de Terrenos y el Departamento
+de la Vivienda. Dicho esto, la Ley no solo se enfocaría en el mercadeo de estructuras, sino
+también en el de predios o fincas que pudieran aprovecharse para fines agrícolas.
+Ciertamente, el desarrollo de la agricultura local es vital para alcanzar la
+autosuficiencia alimentaria y reducir la dependencia excesiva de productos importados.
+En la actualidad, una gran parte de los alimentos que se consumen en Puerto Rico
+provienen del extranjero, lo que limita el crecimiento de la economía agrícola del país y
+representa una amenaza para la seguridad alimentaria.
+
+4
+Ante esta realidad, resulta esencial identificar y promover oportunidades reales
+para que nuevos agricultores puedan emprender y establecer sus proyectos en fincas
+disponibles a través de la Autoridad de Tierras. Para lograrlo es necesario contar con un
+inventario claro, actualizado y accesible de las propiedades agrícolas del Gobierno, que
+permita conocer su disponibilidad, ubicación y estado actual.
+Esta iniciativa, fomentará el desarrollo de una nueva generación de agricultores,
+promoviendo así, un mejoramiento de la economía, salud y sostenibilidad de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley 19-2011, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 1. — Título.
+4 Esta Ley se conocerá y podrá citarse como la “Ley del Registro Interactivo de
+5 Propiedades Públicas y Fincas Agrícolas con Oportunidad de Desarrollo Económico,
+6 Aprovechamiento o Conservación y Protección”.”
+7 Sección 2.- Se enmienda el Artículo 2 de la Ley 19-2011, según enmendada, para
+8 que lea como sigue:
+9 “Artículo 2. — Declaración de Política Pública.
+10 Será política pública del Gobierno de Puerto Rico asegurar la mejor utilización y
+11 aprovechamiento de la propiedad pública y de las fincas agrícolas vacantes y fomentar el
+12 desarrollo económico, urbano, rural y social mediante el establecimiento de planes
+13 estratégicos de acción para cada predio, finca, estructura e inmueble perteneciente a la
+14 Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad de
+15 Tierras y el Departamento de la Vivienda. A estos fines, los planes estratégicos de
+
+5
+1 acción estarán enmarcados en las áreas de conservación de recursos naturales, la
+2 rehabilitación del patrimonio histórico y de centros urbanos, desarrollo agrícola y el
+3 desarrollo económico, industrial, comercial, turístico y de vivienda. La Junta de
+4 Planificación de Puerto Rico inscribirá cada predio, finca, estructura e inmueble en un
+5 registro público, actualizado y desarrollado en un sistema de información geográfica.”
+6 Sección 3.- Se enmienda el Artículo 3 de la Ley 19-2011, según enmendada, para
+7 que lea como sigue:
+8 “Artículo 3. — Definiciones.
+9 Los términos aquí incluidos tendrán los siguientes significados:
+10 …
+11 2. Autoridad. — Es la Autoridad de Tierras de Puerto Rico, creada mediante la
+12 Ley Núm. 26 de 12 de abril de 1941, según enmendada, conocida como “Ley de Tierras de
+13 Puerto Rico”, y componente operacional del Departamento de Agricultura, por
+14 disposición del [Plan de Reorganización Núm. 1 de 4 de mayo de 1994] Plan 4-2010,
+15 según enmendado, conocido como “Plan de Reorganización del Departamento de Agricultura
+16 de 2010”.
+17 …
+18 6. Registro. — Es el Registro Interactivo de Propiedades y Fincas Agrícolas creado
+19 por esta Ley.
+20 …”
+21 Sección 4.- Se enmienda el Artículo 4 de la Ley 19-2011, según enmendada, para
+22 que lea como sigue:
+
+6
+1 “Artículo 4. — Registro.
+2 Se crea el Registro de predios, fincas, estructuras e inmuebles pertenecientes a la
+3 Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad de
+4 Tierras y el Departamento de la Vivienda, el cual servirá como herramienta de
+5 información y un instrumento de promoción para el desarrollo de actividad
+6 económica y agrícola. La Junta de Planificación podrá fijar una cuota de acceso a
+7 usuarios habituales con el fin de sufragar el costo de creación, organización,
+8 implementación y operación del Registro estatuido por esta Ley, siempre que permita
+9 accesos casuales, limitados, periódicos y gratuitos al público general. En el caso de los
+10 agricultores bona fides, estos tendrán accesibilidad digital irrestricta y gratuita al Registro aquí
+11 creado a través de la plataforma AgroPerfil. A tales efectos, la Junta de Planificación, el
+12 Departamento de Agricultura, la Autoridad de Tierras y la Puerto Rico Innovation and
+13 Technology Service establecerán la coordinación necesaria para que la información contenida
+14 en el Registro pueda ser enlazada a la antes mencionada plataforma digital AgroPerfil.
+15 …”
+16 Sección 5.- Se enmienda el Artículo 5 de la Ley 19-2011, según enmendada, para
+17 que lea como sigue:
+18 “Artículo 5. — Obligación de registrarse.
+19 Se dispone que la Compañía de Fomento Industrial, la Administración de
+20 Terrenos, la Autoridad de Tierras y el Departamento de la Vivienda, registrarán [toda]
+21 todo predio, finca, estructura o propiedad inmueble en el Registro creado por esta Ley.”
+
+7
+1 Sección 6.- Se enmienda el Artículo 6 de la Ley 19-2011, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 6. — Plan Estratégico de Acción.
+4 La Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad
+5 de Tierras y el Departamento de la Vivienda, definirán el equipo de trabajo que
+6 coordinará y elaborará un Plan Estratégico de Acción para cada una de sus
+7 propiedades inmuebles, fincas o predios. El Plan deberá estar en armonía con el
+8 documento Herramientas de Acción y Coordinación Estratégicas Sostenibles
+9 (HACES) de cada agencia concernida. El Plan [deberá estar listo dentro de los ciento
+10 ochenta (180) días posteriores a la aprobación de esta Ley y] comprenderá como
+11 mínimo lo siguiente:
+12 …”
+13 Sección 7.- Se enmienda el Artículo 7 de la Ley 19-2011, según enmendada, para
+14 que lea como sigue:
+15 “Artículo 7. — Marco para el Plan Estratégico de Acción.
+16 Cada Plan estará delimitado para fines específicos, según el uso, características
+17 condición y potencial de cada predio, finca, estructura e inmueble. La Junta, en
+18 coordinación con la agencia concerniente establecerá mediante reglamento los
+19 requisitos mínimos que deberá contener el Plan de acuerdo a con los siguientes
+20 propósitos:
+21 1…
+22 …
+
+8
+1 7. Conservación y Aprovechamiento de Tierra Agrícola. — Zonas de alto valor
+2 agrícola para hacerlas disponibles a empresarios agrícolas u otros agricultores
+3 interesados en adquirirlas o arrendarlas. Por lo regular, las propiedades de la Autoridad
+4 estarán bajo este marco.”
+5 Sección 8.- Se enmienda el Artículo 8 de la Ley 19-2011, según enmendada, para
+6 que lea como sigue:
+7 “Artículo 8. — Obligación de informar.
+8 La Compañía de Fomento Industrial, la Administración de Terrenos, la Autoridad
+9 de Tierras y el Departamento de la Vivienda, tendrán la obligación continua de
+10 informar a la Junta, no más tarde de treinta días posteriores a la culminación de cada
+11 año fiscal, el cumplimiento con los Planes Estratégicos de Acción. Cualquier negocio
+12 jurídico que conlleve la compra, venta, arrendamiento, permuta o traspaso de alguna
+13 de las propiedades que deben formar parte del Registro deberá ser notificado a la
+14 Junta, no más tarde de treinta días posteriores a la fecha de la compra, venta,
+15 arrendamiento, permuta o traspaso.”
+16 Sección 9.- Se enmienda el Artículo 10 de la Ley 19-2011, según enmendada, para que lea
+17 como sigue:
+18 “Artículo 10. — Cláusula de Cumplimiento.
+19 La Junta rendirá a la Asamblea Legislativa un informe detallado sobre el estado, la
+20 efectividad, y el progreso del Registro Interactivo de Propiedades, el cual deberá ser
+21 presentado a las Secretarías de Ambos Cuerpos no más tarde de treinta (30) días
+22 después de la culminación de cada año fiscal. Dicho informe incluirá información relativa
+
+9
+1 a todo negocio jurídico que haya conllevado la compra, venta, arrendamiento, permuta o
+2 traspaso de alguna de las propiedades o fincas agrícolas que formaban parte del Registro
+3 durante el transcurso del año fiscal correspondiente.”
+4 Sección 9 10.-Por la presente se deroga cualquier ley, o parte de ley, que sea
+5 incompatible con ésta.
+6 Sección 10 11.-Las disposiciones de esta Ley prevalecerán sobre cualquier otra
+7 disposición de ley que no estuviere en armonía con lo aquí establecido.
+8 Sección 11 12.-Si cualquier palabra, frase, oración, párrafo, artículo, o parte de esta
+9 ley fuere declarado inconstitucional por un tribunal competente, la sentencia a tal
+10 efecto dictada no afectará, perjudicará, ni invalidará el resto de esta ley. El efecto de
+11 dicha sentencia quedará limitado a la palabra, frase, oración, párrafo, artículo, o parte
+12 de la misma esta que así hubiere sido declarado inconstitucional.
+13 Sección 12 13.-Esta Ley entrará en vigor inmediatamente ciento ochenta (180) días
+14 después de su aprobación. Una vez comience a regir, el Director Ejecutivo de la Autoridad
+15 de Tierras contará con un término de ciento ochenta (180) días adicionales a partir de su
+16 vigencia, para confeccionar un inventario de predios, fincas, estructuras e inmuebles
+17 pertenecientes a la corporación pública, que contenga la información descrita en los incisos
+18 desde el (a) hasta el (i) del Artículo 4 de la Ley 19-2011, según enmendada, para que se incluya
+19 en el Registro Interactivo de Propiedades Públicas y Fincas Agrícolas con Oportunidad de
+20 Desarrollo Económico, Aprovechamiento o Conservación y Protección; y para que la Junta de
+21 Planificación, el Departamento de Agricultura, la Autoridad de Tierras y la Puerto Rico
+22 Innovation and Technology Service establezcan la coordinación necesaria para que la
+
+10
+1 información contenida en el mencionado Registro pueda ser enlazada a la plataforma digital
+2 AgroPerfil, según lo ordenado por esta Ley.
+
+[DELETED: 0 A 3 .rL  7   81 c “ d R I d P P c d D E o C y P c e I l A d T y e D d l P 4 s e l A d T s c e u p y o d D d A c l]
+[DELETED:  m b p b p d p e y e l a d a y p a m ( T p o v P R p u t d 4 c a s Á 1 H A 3 L R G L F y C Á 4 C C]
+[DELETED:  p c p a t d c p m a f p y f e d e u y s m e d p e d a p c e e i d T y e D d l V A e f l p d a e e e l á d c d r e d d l a l e v p a l l a u g p d l a q s c e P R]
+[DELETED:  y c R  s,o”oy  o   ]
+[DELETED:  e e e l á d c d r n ls  e i c t y d v L J d  o  R,y c o d D d Aa p   ]
+[DELETED:    y e D d l V e c s c h d y u i d p p e d d a . L J d P p f u c d a a a h c e f d s e c d c o a t d l p A A t e l J d P e d A l A d T y l P R I a d q l C d F I l A d ]
+[DELETED:  T y e D d l V d e e d t q y e u P E d A p c u d s . E P d e e a c e f o p H d A y C E S y p d c e e i L J e f c l a c e m r l m q d c e P d a a  l s]
+[DELETED:  C  d T A — Z d a v A p h d a e a  osa T y e D d l V t l o c d   n m t d t d p a l f d l c v d m d]
+[DELETED:  t n j q h c l c v a p o d a d l p o f a q f p d R 9 . l p s d c l o p d l q s 1 . d d e L p s c o .   . 3c p c u i d p f e e i e D d A l A d T y l P R a T S e l c n p q l]

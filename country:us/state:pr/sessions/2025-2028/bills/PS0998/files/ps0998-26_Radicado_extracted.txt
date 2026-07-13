@@ -1,0 +1,316 @@
+Title: Para enmendar la Sección 3 del Artículo VI de la Ley 72-1993, según enmendada,
+Official Title: Para enmendar la Sección 3 del Artículo VI de la Ley 72-1993, según enmendada,
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 998
+27 de enero de 2026
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+conocida como “Ley de la Administración de Seguros de Salud de Puerto Rico”, a los
+fines de incluir a los pacientes bajo las Reglas 240 y 241 de Procedimiento Criminal
+de Puerto Rico dentro de la modalidad de grupo médico virtual del Plan Vital para
+la cobertura de salud física, medicamentos, estudios y tratamientos especializados
+necesarios fuera de las instituciones psiquiátricas; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Durante los últimos años, la Administración de Servicios de Salud Mental y Contra
+la Adicción (ASSMCA) ha enfrentado un creciente reto en la atención de la población
+recluida en los hospitales psiquiátricos forenses de Puerto Rico. Estos hospitales atienden
+personas que, tras ser referidas por los tribunales conforme a las Reglas 240 y 241 de
+Procedimiento Criminal, se encuentran hospitalizadas para evaluación, diagnóstico y
+tratamiento de condiciones mentales severas. En muchos casos, su proceso penal queda
+paralizado indefinidamente al determinarse que no poseen la capacidad mental necesaria
+para cooperar con su defensa y enfrentar el proceso criminal.
+Puerto Rico cuenta con dos (2) hospitales psiquiátricos forenses, uno ubicado en
+San Juan, con capacidad de 168 camas para varones, y otro en Ponce, con capacidad de
+2
+125 camas, (99 camas para varones y 26 camas para féminas). Ambos hospitales están
+adscritos a la ASSMCA, reportando ocupación total y hasta listas de espera. Estos centros
+ofrecen servicios de hospitalización, evaluación y tratamiento a personas referidas por el
+Tribunal bajo las Reglas 240 y 241 de las Reglas de Procedimiento Criminal.
+Los pacientes al amparo de la Regla 240 son individuos cuyo proceso penal ha sido
+paralizado temporalmente mientras se determina su capacidad mental para enfrentar el
+juicio. Durante ese periodo son ingresados al hospital forense para recibir evaluación,
+diagnóstico, tratamiento y charlas de educativas para adquirir capacidad
+(“procesabilidad”); no están sentenciados ni son confinados, por lo que su estatus legal
+es de imputados no procesables. Por su parte, los pacientes admitidos mediante el
+mecanismo de la Regla 241 son aquellos declarados permanentemente inimputables, por
+lo que el Tribunal, luego de que se presente la prueba pericial, puede determinar
+peligrosidad y aplicar una medida de seguridad, ordenando su egreso a la comunidad,
+su hospitalización civil o cualquier modalidad de tratamiento, incluyendo
+hospitalización parcial, hogares transicionales, tratamiento residencial, ambulatorio u
+otros.
+Una parte significativa de estos pacientes no pertenece al sistema penal, ni se les
+considera pacientes civiles ordinarios. En consecuencia, no existe una fuente clara de
+pago que cubra los costos de su atención médica y psiquiátrica. Si bien los trabajadores
+sociales del hospital realizan su afiliación al Plan Vital de la Administración de Seguros
+de Salud de Puerto Rico (ASES) dicha afiliación únicamente activa la asignación de un
+médico primario dentro de la red general, sin que se reembolsen pagos por servicios
+clínicos y hospitalarios que ofrece, especialmente los relacionados con servicios de salud
+física.
+Como resultado, los hospitales asumen directamente los gastos relacionados con
+la atención física, mental y farmacéutica de estos pacientes, incluyendo servicios de
+laboratorio y tratamiento psiquiátrico intensivo, psicoterapia y terapia ocupacional.
+Entre los costos más onerosos se encuentran los medicamentos de mantenimiento para
+condiciones como la Diabetes, tratamiento para la hepatitis, entre otros.
+3
+Además, los médicos asignados no visitan ni atienden a estos pacientes dentro del
+hospital psiquiátrico forense. Trasladar a un paciente bajo dicho estatus implica colocarle
+medidas restrictivas de movimiento, esposados de manos y pies, escoltados por oficiales
+de seguridad y con la debida autorización judicial. Por esta razón, la mayoría de los
+médicos se rehúsan a recibirlos en sus consultorios. Esta situación se agrava cuando un
+paciente requiere tratamientos y visitas a especialistas, cuya coordinación resulta
+sumamente compleja y prolongada, en espera de que se tramite un referido por parte del
+médico primario que nunca ha evaluado personalmente al paciente.
+Por su parte, si el equipo multidisciplinario recomienda que un paciente bajo la
+Regla 241 sea ubicado en un lugar menos restrictivo, para ser admitido se le solicitan
+pruebas y evaluaciones que deben ser realizadas por especialistas o subespecialistas no
+disponibles en el hospital psiquiátrico forense. Al no contar con referidos del médico
+primario, se retrasa el traslado, lo que conlleva a que ese paciente ocupe una cama
+hospitalaria por mucho más tiempo.
+El costo promedio de tratamiento hospitalario ronda entre $350 y $500 diarios, lo
+que representa un gasto estimado de entre $20 y $30 millones anuales asumidos por la
+ASSMCA. Ante esta realidad, se considera necesario establecer un mecanismo que
+permita la inclusión de los pacientes forenses en la modalidad de grupo médico virtual
+del Plan Vital, a fin de que ASES pueda contratar servicios médicos externos, tramitar
+cobertura para tratamiento de salud física, consultas especializadas, asegurar la
+continuidad de cuidado sin necesidad de traslados innecesarios, ni referidos presenciales
+y garantizar los derechos de los pacientes a recibir los servicios médicos adecuados, sin
+discrimen.
+En este contexto, la alternativa más viable consiste en asignarle un grupo médico
+virtual, de modo que este pueda evaluar la viabilidad, asignar una partida presupuestaria
+o, en su defecto, establecer contractualmente un acuerdo con la entidad que administra
+los servicios de salud mental bajo el Plan Vital. De esta manera, se garantizaría la
+sostenibilidad económica de la atención integral que actualmente los hospitales forenses
+deben sufragar con fondos estatales.
+4
+Esta disposición busca corregir dicha omisión mediante la incorporación de un
+mecanismo formal, presupuestario y contractual que permita cubrir los costos de
+atención médica integral de los pacientes forenses. Esta legislación, además, permitirá
+garantizar el acceso continuo a servicios de salud física y sin interrupciones
+administrativas, fortalecer la coordinación entre ASES, ASSMCA y el Departamento de
+Salud, asegurar el cumplimiento de los principios de trato digno, debido proceso y
+tratamiento menos restrictivo establecidos en la Ley 408-2000, según enmendada,
+conocida como “Ley de Salud Mental de Puerto Rico” y optimizar el uso de fondos
+públicos, evitando la duplicidad de servicios y la carga económica sobre ASSMCA.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se enmienda la Sección 3 del Artículo VI de la Ley 72-1993, según enmendada,
+2 conocida como “Ley de la Administración de Seguros de Salud de Puerto Rico” para que
+3 lea como sigue:
+4 “Artículo VI. — Plan De Seguros De Salud
+5 Sección 1. — Selección de Planes de Seguros de Salud
+6 …
+7 Sección 2. — Contratación
+8 …
+9 Sección 3. — Beneficiarios del Plan de Salud.
+10 Todos los residentes de Puerto Rico podrán ser beneficiarios del Plan de Salud que
+11 se establecen por la implantación de esta ley, siempre y cuando cumplan con los
+12 siguientes requisitos, según corresponda:
+13 (a) …
+14 …
+5
+1 (m) Los pacientes, que conforme a las Reglas 240 y 241 del Procedimiento Criminal de
+2 Puerto Rico, sean referidos a los hospitales psiquiátricos forenses adscritos a la Administración de
+3 Servicios de Salud Mental y Contra la Adicción (ASSMCA), serán incluidos dentro de la
+4 modalidad de grupo médico virtual del Plan Vital. La Administración de Seguros de Salud de
+5 Puerto Rico (ASES) podrá contratar, mediante acuerdo o convenio con ASSMCA o con entidades
+6 proveedoras designadas y contratadas por la agencia para la prestación de servicios de salud a esta
+7 población, garantizando su acceso a cuidado integral sin necesidad de referidos presenciales del
+8 médico primario.
+9 Dichos servicios incluirán, sin limitarse a:
+10 1. Tratamiento y seguimiento de condiciones médicas o infecciosas, tales como hepatitis C,
+11 VIH/SIDA, diabetes, hipertensión, enfermedades respiratorias, hepáticas o renales, entre
+12 otras;
+13 2. Consultas, evaluaciones y tratamientos con especialistas y subespecialistas médicos
+14 requeridos para diagnóstico y continuidad del cuidado;
+15 3. Estudios y procedimientos especializados necesarios para diagnóstico, tratamiento o
+16 evaluación previa a traslados o egresos;
+17 4. Provisión y despacho de medicamentos de mantenimiento y preventivos prescritos; y
+18 5. Evaluaciones, laboratorios o procedimientos médicos que no estén disponibles dentro de la
+19 institución forense.”
+20 Artículo 2 – Reglamentación.
+21 La Administración de Seguros de Salud de Puerto Rico (ASES) promulgará la
+22 reglamentación necesaria para implementación de esta Ley, en coordinación con
+6
+1 ASSMCA y el Departamento de Salud, en un término de noventa (90) días a partir de
+2 su vigencia.
+3 Artículo 3- Separabilidad.
+4 Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+5 un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+6 restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+7 Artículo 4.- Vigencia.
+8 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0A         3S r          2  e l S 3 d A V d l L 7 s e C s e h p e d y]
+[DELETED:  t y c d e p a c d i n p P s p l p a m e q e T l d q s p l p p p d h c o c m d t i p h t t r a u a f m y f d e p i s d y t p i p y t o]
+[DELETED:  r t y v a e c c r s r e t l q c a q e p o u c A e r s c n e u m q p t d s f c e a l s d s m b e P V D e m s g l]
+[DELETED:  f p y c q p c l c d e a c a s d s f y s i a e c d l p d t d d p y m r e e l L 4 s e c “ d S M d P R o e u d f e p l i d e l s y c c c l)…]
+[DELETED:  ( P S d S M y C l A ( s i d d l m P p p m D 1.T V o 2.C e y t c e y s m r 3.E y p e n p d t o e 4.P E i n p i d e L e c c]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 998
+27 de enero de 2026
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+Para enmendar la Sección 3 del Artículo VI de la Ley 72-1993, según enmendada,
+conocida como “Ley de la Administración de Seguros de Salud de Puerto Rico”, a los
+fines de incluir a los pacientes bajo las Reglas 240 y 241 de Procedimiento Criminal
+de Puerto Rico dentro de la modalidad de grupo médico virtual del Plan Vital para
+la cobertura de salud física, medicamentos, estudios y tratamientos especializados
+necesarios fuera de las instituciones psiquiátricas; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Durante los últimos años, la Administración de Servicios de Salud Mental y Contra
+la Adicción (ASSMCA) ha enfrentado un creciente reto en la atención de la población
+recluida en los hospitales psiquiátricos forenses de Puerto Rico. Estos hospitales atienden
+personas que, tras ser referidas por los tribunales conforme a las Reglas 240 y 241 de
+Procedimiento Criminal, se encuentran hospitalizadas para evaluación, diagnóstico y
+tratamiento de condiciones mentales severas. En muchos casos, su proceso penal queda
+paralizado indefinidamente al determinarse que no poseen la capacidad mental necesaria
+para cooperar con su defensa y enfrentar el proceso criminal.
+Puerto Rico cuenta con dos (2) hospitales psiquiátricos forenses, uno ubicado en
+San Juan, con capacidad de 168 camas para varones, y otro en Ponce, con capacidad de
+
+2
+125 camas, (99 camas para varones y 26 camas para féminas). Ambos hospitales están
+adscritos a la ASSMCA, reportando ocupación total y hasta listas de espera. Estos centros
+ofrecen servicios de hospitalización, evaluación y tratamiento a personas referidas por el
+Tribunal bajo las Reglas 240 y 241 de las Reglas de Procedimiento Criminal.
+Los pacientes al amparo de la Regla 240 son individuos cuyo proceso penal ha sido
+paralizado temporalmente mientras se determina su capacidad mental para enfrentar el
+juicio. Durante ese periodo son ingresados al hospital forense para recibir evaluación,
+diagnóstico, tratamiento y charlas de educativas para adquirir capacidad
+(“procesabilidad”); no están sentenciados ni son confinados, por lo que su estatus legal
+es de imputados no procesables. Por su parte, los pacientes admitidos mediante el
+mecanismo de la Regla 241 son aquellos declarados permanentemente inimputables, por
+lo que el Tribunal, luego de que se presente la prueba pericial, puede determinar
+peligrosidad y aplicar una medida de seguridad, ordenando su egreso a la comunidad,
+su hospitalización civil o cualquier modalidad de tratamiento, incluyendo
+hospitalización parcial, hogares transicionales, tratamiento residencial, ambulatorio u
+otros.
+Una parte significativa de estos pacientes no pertenece al sistema penal, ni se les
+considera pacientes civiles ordinarios. En consecuencia, no existe una fuente clara de
+pago que cubra los costos de su atención médica y psiquiátrica. Si bien los trabajadores
+sociales del hospital realizan su afiliación al Plan Vital de la Administración de Seguros
+de Salud de Puerto Rico (ASES) dicha afiliación únicamente activa la asignación de un
+médico primario dentro de la red general, sin que se reembolsen pagos por servicios
+clínicos y hospitalarios que ofrece, especialmente los relacionados con servicios de salud
+física.
+Como resultado, los hospitales asumen directamente los gastos relacionados con
+la atención física, mental y farmacéutica de estos pacientes, incluyendo servicios de
+laboratorio y tratamiento psiquiátrico intensivo, psicoterapia y terapia ocupacional.
+Entre los costos más onerosos se encuentran los medicamentos de mantenimiento para
+condiciones como la Diabetes, tratamiento para la hepatitis, entre otros.
+
+3
+Además, los médicos asignados no visitan ni atienden a estos pacientes dentro del
+hospital psiquiátrico forense. Trasladar a un paciente bajo dicho estatus implica colocarle
+medidas restrictivas de movimiento, esposados de manos y pies, escoltados por oficiales
+de seguridad y con la debida autorización judicial. Por esta razón, la mayoría de los
+médicos se rehúsan a recibirlos en sus consultorios. Esta situación se agrava cuando un
+paciente requiere tratamientos y visitas a especialistas, cuya coordinación resulta
+sumamente compleja y prolongada, en espera de que se tramite un referido por parte del
+médico primario que nunca ha evaluado personalmente al paciente.
+Por su parte, si el equipo multidisciplinario recomienda que un paciente bajo la
+Regla 241 sea ubicado en un lugar menos restrictivo, para ser admitido se le solicitan
+pruebas y evaluaciones que deben ser realizadas por especialistas o subespecialistas no
+disponibles en el hospital psiquiátrico forense. Al no contar con referidos del médico
+primario, se retrasa el traslado, lo que conlleva a que ese paciente ocupe una cama
+hospitalaria por mucho más tiempo.
+El costo promedio de tratamiento hospitalario ronda entre $350 y $500 diarios, lo
+que representa un gasto estimado de entre $20 y $30 millones anuales asumidos por la
+ASSMCA. Ante esta realidad, se considera necesario establecer un mecanismo que
+permita la inclusión de los pacientes forenses en la modalidad de grupo médico virtual
+del Plan Vital, a fin de que ASES pueda contratar servicios médicos externos, tramitar
+cobertura para tratamiento de salud física, consultas especializadas, asegurar la
+continuidad de cuidado sin necesidad de traslados innecesarios, ni referidos presenciales
+y garantizar los derechos de los pacientes a recibir los servicios médicos adecuados, sin
+discrimen.
+En este contexto, la alternativa más viable consiste en asignarle un grupo médico
+virtual, de modo que este pueda evaluar la viabilidad, asignar una partida presupuestaria
+o, en su defecto, establecer contractualmente un acuerdo con la entidad que administra
+los servicios de salud mental bajo el Plan Vital. De esta manera, se garantizaría la
+sostenibilidad económica de la atención integral que actualmente los hospitales forenses
+deben sufragar con fondos estatales.
+
+4
+Esta disposición busca corregir dicha omisión mediante la incorporación de un
+mecanismo formal, presupuestario y contractual que permita cubrir los costos de
+atención médica integral de los pacientes forenses. Esta legislación, además, permitirá
+garantizar el acceso continuo a servicios de salud física y sin interrupciones
+administrativas, fortalecer la coordinación entre ASES, ASSMCA y el Departamento de
+Salud, asegurar el cumplimiento de los principios de trato digno, debido proceso y
+tratamiento menos restrictivo establecidos en la Ley 408-2000, según enmendada,
+conocida como “Ley de Salud Mental de Puerto Rico” y optimizar el uso de fondos
+públicos, evitando la duplicidad de servicios y la carga económica sobre ASSMCA.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se enmienda la Sección 3 del Artículo VI de la Ley 72-1993, según enmendada,
+2 conocida como “Ley de la Administración de Seguros de Salud de Puerto Rico” para que
+3 lea como sigue:
+4 “Artículo VI. — Plan De Seguros De Salud
+5 Sección 1. — Selección de Planes de Seguros de Salud
+6 …
+7 Sección 2. — Contratación
+8 …
+9 Sección 3. — Beneficiarios del Plan de Salud.
+10 Todos los residentes de Puerto Rico podrán ser beneficiarios del Plan de Salud que
+11 se establecen por la implantación de esta ley, siempre y cuando cumplan con los
+12 siguientes requisitos, según corresponda:
+13 (a) …
+14 …
+
+5
+1 (m) Los pacientes, que conforme a las Reglas 240 y 241 del Procedimiento Criminal de
+2 Puerto Rico, sean referidos a los hospitales psiquiátricos forenses adscritos a la Administración de
+3 Servicios de Salud Mental y Contra la Adicción (ASSMCA), serán incluidos dentro de la
+4 modalidad de grupo médico virtual del Plan Vital. La Administración de Seguros de Salud de
+5 Puerto Rico (ASES) podrá contratar, mediante acuerdo o convenio con ASSMCA o con entidades
+6 proveedoras designadas y contratadas por la agencia para la prestación de servicios de salud a esta
+7 población, garantizando su acceso a cuidado integral sin necesidad de referidos presenciales del
+8 médico primario.
+9 Dichos servicios incluirán, sin limitarse a:
+10 1. Tratamiento y seguimiento de condiciones médicas o infecciosas, tales como hepatitis C,
+11 VIH/SIDA, diabetes, hipertensión, enfermedades respiratorias, hepáticas o renales, entre
+12 otras;
+13 2. Consultas, evaluaciones y tratamientos con especialistas y subespecialistas médicos
+14 requeridos para diagnóstico y continuidad del cuidado;
+15 3. Estudios y procedimientos especializados necesarios para diagnóstico, tratamiento o
+16 evaluación previa a traslados o egresos;
+17 4. Provisión y despacho de medicamentos de mantenimiento y preventivos prescritos; y
+18 5. Evaluaciones, laboratorios o procedimientos médicos que no estén disponibles dentro de la
+19 institución forense.”
+20 Artículo 2 – Reglamentación.
+21 La Administración de Seguros de Salud de Puerto Rico (ASES) promulgará la
+22 reglamentación necesaria para implementación de esta Ley, en coordinación con
+
+6
+1 ASSMCA y el Departamento de Salud, en un término de noventa (90) días a partir de
+2 su vigencia.
+3 Artículo 3- Separabilidad.
+4 Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+5 un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+6 restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+7 Artículo 4.- Vigencia.
+8 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0A         3S r          2  e l S 3 d A V d l L 7 s e C s e h p e d y]
+[DELETED:  t y c d e p a c d i n p P s p l p a m e q e T l d q s p l p p p d h c o c m d t i p h t t r a u a f m y f d e p i s d y t p i p y t o]
+[DELETED:  r t y v a e c c r s r e t l q c a q e p o u c A e r s c n e u m q p t d s f c e a l s d s m b e P V D e m s g l]
+[DELETED:  f p y c q p c l c d e a c a s d s f y s i a e c d l p d t d d p y m r e e l L 4 s e c “ d S M d P R o e u d f e p l i d e l s y c c c l)…]
+[DELETED:  ( P S d S M y C l A ( s i d d l m P p p m D 1.T V o 2.C e y t c e y s m r 3.E y p e n p d t o e 4.P E i n p i d e L e c c]

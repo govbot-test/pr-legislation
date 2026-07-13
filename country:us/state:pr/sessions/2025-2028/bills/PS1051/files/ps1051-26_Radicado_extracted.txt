@@ -1,0 +1,351 @@
+Title: Para incentivar donaciones voluntarias a fondos públicos mediante el redondeo de
+Official Title: Para incentivar donaciones voluntarias a fondos públicos mediante el redondeo de
+Number of Sections: 2
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1051
+3 de febrero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+compras en plataformas digitales y establecimientos comerciales que recolecten el
+Impuesto sobre Ventas y Uso (IVU); crear un marco voluntario para que plataformas de
+pago y comercios ofrezcan la opción de redondear el monto de transacciones al dólar
+superior y donar la diferencia a arcas estatales designadas; promover la filantropía
+ciudadana sin imponer impuestos nuevos ni costos adicionales a los consumidores o
+empresas; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+En el contexto de una economía digital y post-pandémica, Puerto Rico enfrenta
+desafíos fiscales persistentes, con un presupuesto gubernamental que depende en gran
+medida de recaudos impositivos y fondos federales. Según datos del Departamento de
+Hacienda, el déficit presupuestario proyectado para el año fiscal 2026 supera los $500
+millones, lo que limita la capacidad de inversión en áreas críticas como educación, salud
+y infraestructura. Para abordar esto de manera innovadora y no coercitiva, esta medida
+propone un marco voluntario para incentivar donaciones microscópicas a través del
+redondeo de compras, una práctica que permite a los consumidores donar centavos
+sobrantes sin impacto significativo en su bolsillo.
+2
+El mecanismo de redondeo consiste en ofrecer a los compradores la opción de
+redondear el monto total de una transacción al dólar superior, donando la diferencia (por
+ejemplo, de $9.75 a $10.00, donando $0.25) a fondos públicos específicos, como el Fondo
+General o fondos dedicados a educación y salud. Esta opción se extenderá no solo a
+plataformas digitales y apps de pago (como Apple Pay, Google Pay o aplicaciones
+locales), sino también a establecimientos comerciales físicos y en línea que ya actúan
+como recaudadores del IVU bajo el Código de Rentas Internas para un Nuevo Puerto
+Rico (Ley Núm. 1-2011, según enmendada).
+Dado que estos comercios ya manejan transacciones fiscales y remiten el IVU a
+Hacienda, integrar el redondeo voluntario no requiere infraestructura nueva,
+minimizando costos y facilitando la implementación. Uno de los beneficios principales
+es la promoción de la filantropía ciudadana sin imponer cargas adicionales. Estudios
+internacionales, como el informe de la Organización para la Cooperación y el Desarrollo
+Económicos (OCDE) de 2023 sobre micro-donaciones, indican que esquemas de
+redondeo pueden generar millones en fondos adicionales sin afectar la percepción de
+costo para el consumidor.
+En Puerto Rico, con un alto volumen de transacciones diarias —estimadas en más de
+10 millones según datos del Banco de Desarrollo Económico—, incluso una participación
+voluntaria del 10% podría recaudar hasta $5 millones anuales, dirigidos a prioridades
+públicas. Esto es particularmente relevante en una Isla con una población vulnerable: el
+43% de los hogares viven bajo el nivel de pobreza (Censo 2020), y las personas mayores
+(23% de la población) podrían confundirse inicialmente con el redondeo, pero con
+divulgación clara, se empodera su participación voluntaria sin riesgos de engaño.
+Adicionalmente, esta medida protege a los consumidores al asegurar que el redondeo
+sea estrictamente opt-in, con confirmación explícita en cada transacción o configuración
+predeterminada revocable. No se crean impuestos nuevos; las donaciones son deducibles
+para el donante bajo las disposiciones existentes del Código de Rentas Internas (Sección
+3
+
+Section 2:
+1033.15), incentivando la participación sin costo fiscal neto. Empresas participantes
+podrían recibir reconocimientos públicos o exenciones administrativas menores,
+fomentando adopción voluntaria sin subsidios del erario.
+En términos de derecho comparado, el Reino Unido ha implementado esquemas
+exitosos de redondeo y donaciones voluntarias. Bajo el Gift Aid Scheme (introducido en
+1990 y actualizado en 2020), las caridades reclaman un extra del 25% del gobierno por
+donaciones de contribuyentes, aplicable a micro-donaciones digitales sin costo adicional
+al donante. Además, iniciativas como "Pennies" (lanzada en 2010 y expandida en 2020)
+permiten redondeo en compras en comercios y apps, captando millones para caridades
+públicas y privadas —por ejemplo, recaudando £30 millones anuales para fondos sociales
+sin impuestos nuevos.
+Estos modelos demuestran que un enfoque voluntario aumenta la recaudación
+filantrópica en un 15-20% sin erosionar la confianza del consumidor, adaptándose
+perfectamente al contexto puertorriqueño donde no existe legislación similar. Esta ley
+sería pionera, complementando marcos existentes como la Ley de Protección al
+Consumidor (Ley Núm. 5 de 1973) y el Código de Rentas Internas, sin solapamientos. El
+objetivo es empoderar a los puertorriqueños para contribuir directamente al bien común,
+fomentando una cultura de solidaridad fiscal voluntaria que alivie presiones
+presupuestarias y beneficie a comunidades vulnerables, como familias de bajos ingresos
+y personas mayores, quienes podrían ver mejoras en servicios esenciales financiados por
+estos fondos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. - Título.
+2 Esta Ley se conocerá como la "Ley para el Incentivo de Donaciones Voluntarias
+3 mediante Redondeo en Compras en Puerto Rico".
+4 Artículo 2. - Definiciones.
+4
+1 Para los fines de esta Ley, los siguientes términos tendrán los significados que a
+2 continuación se expresan:
+3 a) Redondeo Voluntario: La opción ofrecida al consumidor de redondear el monto
+4 total de una transacción comercial al dólar superior, donando la diferencia en centavos a
+5 fondos públicos designados.
+6 b) Plataforma de Pago: Cualquier aplicación digital, sitio web o sistema de
+7 procesamiento de pagos electrónicos que facilite transacciones comerciales.
+8 c) Establecimiento Comercial: Cualquier negocio físico o en línea que recolecte el
+9 IVU conforme al Código de Rentas Internas (Ley Núm. 1-2011).
+10 d) Donación Voluntaria: La cantidad redondeada donada por el consumidor,
+11 deducible fiscalmente sin costo adicional.
+12 e) Fondos Públicos: El Fondo General o fondos especiales designados por el
+13 Departamento de Hacienda para educación, salud o infraestructura.
+14 f) Consumidor: Toda persona natural o jurídica que realice una compra en Puerto
+15 Rico.
+16 Artículo 3. – Ámbito de Aplicación.
+17 Esta Ley aplicará voluntariamente a plataformas de pago y establecimientos
+18 comerciales que recolecten IVU en el territorio de Puerto Rico. No impondrá obligaciones
+19 mandatorias ni creará impuestos nuevos. Esta regulación es nueva y no modifica leyes
+20 existentes, salvo en lo necesario para su implementación.
+21 Artículo 4. – Marco Voluntario para Redondeo.
+5
+1 Las plataformas de pago y establecimientos comerciales podrán ofrecer la opción
+2 de redondeo voluntario en transacciones, debiendo:
+3 a) Obtener consentimiento explícito del consumidor en cada transacción o
+4 mediante configuración predeterminada revocable.
+5 b) Informar claramente el monto a donar y el fondo público beneficiario, con frases
+6 como “Redondee y done a fondos públicos: Sí/No”.
+7 c) Remitir las donaciones recolectadas mensualmente al Departamento de
+8 Hacienda, sin retención de comisiones.
+9 d) Integrar el sistema con mecanismos existentes de recaudo de IVU para
+10 minimizar costos.
+11 e) Proporcionar recibos digitales o físicos que certifiquen la donación para
+12 deducciones fiscales.
+13 Esta opción no impondrá costos adicionales significativos, ya que aprovecha
+14 infraestructura fiscal existente.
+15 Artículo 5. - Incentivos y Beneficios.
+16 a) Las donaciones serán deducibles para el consumidor bajo el Código de Rentas
+17 Internas (Sección 1033.15).
+18 b) Empresas participantes recibirán certificados de reconocimiento público del
+19 Departamento de Hacienda, utilizables para mercadeo ético.
+20 c) El Departamento de Hacienda podrá eximir administrativamente requisitos
+21 menores para participantes, sin subsidios fiscales.
+22 Artículo 6. - Prohibiciones.
+6
+1 Se prohíbe:
+2 a) Imponer el redondeo sin consentimiento explícito.
+3 b) Utilizar las donaciones para fines distintos a los fondos públicos designados.
+4 c) Cobrar comisiones o fees sobre las donaciones recolectadas.
+5 d) Engañar al consumidor sobre el destino o voluntariedad de la donación.
+6 Artículo 7. - Protección al Consumidor.
+7 Los consumidores tendrán derecho a:
+8 a) Revocar el consentimiento en cualquier momento sin penalidades.
+9 b) Denunciar violaciones ante el Departamento de Asuntos del Consumidor
+10 (DACO), que investigará sin costo.
+11 c) Recibir reembolsos inmediatos si el redondeo fue no autorizado.
+12 d) Acceder a campañas educativas del gobierno sobre el programa.
+13 Artículo 8. - Sanciones.
+14 Las violaciones a esta Ley serán sancionadas por el DACO o Hacienda con:
+15 a) Multas administrativas de $500 a $5,000 por infracción, escalando por
+16 reincidencias.
+17 b) Órdenes de cese y desista.
+18 c) En casos graves, remisión al Departamento de Hacienda, la Policía de Puerto
+19 Rico, Fiscalía y/o Departamento de Justicia para cargos de fraude.
+20 Artículo 9. - Implementación y Reglamentación.
+21 El Departamento de Hacienda, en coordinación con el DACO, adoptará
+22 reglamentos dentro de 90 días de la aprobación de esta Ley, incluyendo guías para
+7
+1 integración en sistemas de IVU y mecanismos de monitoreo. Se creará un portal público
+2 para rastreo de donaciones agregadas.
+3 Articulo 10.- Cláusula de Separabilidad.
+4 Si cualquier disposición, palabra, oración o inciso de esta Ley fuera impugnado
+5 por cualquier razón ante un tribunal y declarado inconstitucional o nulo, tal sentencia no
+6 afectará, menoscabará o invalidará las restantes disposiciones de esta Ley.
+7 Articulo 11.- Vigencia.
+8 Esta Ley comenzará a regir 120 días después de su aprobación.
+[DELETED: 0 A 3 .rL    e p d y e c q r e y d l d a a e d p l f e c d u e d y p P R e u m v p i d m a t d d c u p q p a l c d c]
+[DELETED:  m d r c e o a l c l o d d y a d p ( A P G P o a q e c y m t f y r e I a i e r v n r i n ( d 2 s m i q e d d l p p c i c e r p c]
+[DELETED:  i l p s c f n E p r r p o e a m t d d c e R U h i e m d q u e v a l r e u 1 s e l c d c a p c m e c l L d P a u c d s f v q a p]
+[DELETED:  P d P C a d s w o s d D V L c r d p e c F P E F G o f e d p e L a v a p d p y e]
+[DELETED:  O c e d c e c t o R l d r m a D d I e s c m e d r d I p P r d o f q c l d p o n i c a s y q a E p r c d r p d E D d H p e a r]
+[DELETED:  D v a e D d A d Cs  M a d $ a $ p i e p D d H e c c e D a d d 9 d d l a d e L i g p]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1051
+3 de febrero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para incentivar donaciones voluntarias a fondos públicos mediante el redondeo de
+compras en plataformas digitales y establecimientos comerciales que recolecten el
+Impuesto sobre Ventas y Uso (IVU); crear un marco voluntario para que plataformas de
+pago y comercios ofrezcan la opción de redondear el monto de transacciones al dólar
+superior y donar la diferencia a arcas estatales designadas; promover la filantropía
+ciudadana sin imponer impuestos nuevos ni costos adicionales a los consumidores o
+empresas; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+En el contexto de una economía digital y post-pandémica, Puerto Rico enfrenta
+desafíos fiscales persistentes, con un presupuesto gubernamental que depende en gran
+medida de recaudos impositivos y fondos federales. Según datos del Departamento de
+Hacienda, el déficit presupuestario proyectado para el año fiscal 2026 supera los $500
+millones, lo que limita la capacidad de inversión en áreas críticas como educación, salud
+y infraestructura. Para abordar esto de manera innovadora y no coercitiva, esta medida
+propone un marco voluntario para incentivar donaciones microscópicas a través del
+redondeo de compras, una práctica que permite a los consumidores donar centavos
+sobrantes sin impacto significativo en su bolsillo.
+
+2
+El mecanismo de redondeo consiste en ofrecer a los compradores la opción de
+redondear el monto total de una transacción al dólar superior, donando la diferencia (por
+ejemplo, de $9.75 a $10.00, donando $0.25) a fondos públicos específicos, como el Fondo
+General o fondos dedicados a educación y salud. Esta opción se extenderá no solo a
+plataformas digitales y apps de pago (como Apple Pay, Google Pay o aplicaciones
+locales), sino también a establecimientos comerciales físicos y en línea que ya actúan
+como recaudadores del IVU bajo el Código de Rentas Internas para un Nuevo Puerto
+Rico (Ley Núm. 1-2011, según enmendada).
+Dado que estos comercios ya manejan transacciones fiscales y remiten el IVU a
+Hacienda, integrar el redondeo voluntario no requiere infraestructura nueva,
+minimizando costos y facilitando la implementación. Uno de los beneficios principales
+es la promoción de la filantropía ciudadana sin imponer cargas adicionales. Estudios
+internacionales, como el informe de la Organización para la Cooperación y el Desarrollo
+Económicos (OCDE) de 2023 sobre micro-donaciones, indican que esquemas de
+redondeo pueden generar millones en fondos adicionales sin afectar la percepción de
+costo para el consumidor.
+En Puerto Rico, con un alto volumen de transacciones diarias —estimadas en más de
+10 millones según datos del Banco de Desarrollo Económico—, incluso una participación
+voluntaria del 10% podría recaudar hasta $5 millones anuales, dirigidos a prioridades
+públicas. Esto es particularmente relevante en una Isla con una población vulnerable: el
+43% de los hogares viven bajo el nivel de pobreza (Censo 2020), y las personas mayores
+(23% de la población) podrían confundirse inicialmente con el redondeo, pero con
+divulgación clara, se empodera su participación voluntaria sin riesgos de engaño.
+Adicionalmente, esta medida protege a los consumidores al asegurar que el redondeo
+sea estrictamente opt-in, con confirmación explícita en cada transacción o configuración
+predeterminada revocable. No se crean impuestos nuevos; las donaciones son deducibles
+para el donante bajo las disposiciones existentes del Código de Rentas Internas (Sección
+
+3
+1033.15), incentivando la participación sin costo fiscal neto. Empresas participantes
+podrían recibir reconocimientos públicos o exenciones administrativas menores,
+fomentando adopción voluntaria sin subsidios del erario.
+En términos de derecho comparado, el Reino Unido ha implementado esquemas
+exitosos de redondeo y donaciones voluntarias. Bajo el Gift Aid Scheme (introducido en
+1990 y actualizado en 2020), las caridades reclaman un extra del 25% del gobierno por
+donaciones de contribuyentes, aplicable a micro-donaciones digitales sin costo adicional
+al donante. Además, iniciativas como "Pennies" (lanzada en 2010 y expandida en 2020)
+permiten redondeo en compras en comercios y apps, captando millones para caridades
+públicas y privadas —por ejemplo, recaudando £30 millones anuales para fondos sociales
+sin impuestos nuevos.
+Estos modelos demuestran que un enfoque voluntario aumenta la recaudación
+filantrópica en un 15-20% sin erosionar la confianza del consumidor, adaptándose
+perfectamente al contexto puertorriqueño donde no existe legislación similar. Esta ley
+sería pionera, complementando marcos existentes como la Ley de Protección al
+Consumidor (Ley Núm. 5 de 1973) y el Código de Rentas Internas, sin solapamientos. El
+objetivo es empoderar a los puertorriqueños para contribuir directamente al bien común,
+fomentando una cultura de solidaridad fiscal voluntaria que alivie presiones
+presupuestarias y beneficie a comunidades vulnerables, como familias de bajos ingresos
+y personas mayores, quienes podrían ver mejoras en servicios esenciales financiados por
+estos fondos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. - Título.
+2 Esta Ley se conocerá como la "Ley para el Incentivo de Donaciones Voluntarias
+3 mediante Redondeo en Compras en Puerto Rico".
+4 Artículo 2. - Definiciones.
+
+4
+1 Para los fines de esta Ley, los siguientes términos tendrán los significados que a
+2 continuación se expresan:
+3 a) Redondeo Voluntario: La opción ofrecida al consumidor de redondear el monto
+4 total de una transacción comercial al dólar superior, donando la diferencia en centavos a
+5 fondos públicos designados.
+6 b) Plataforma de Pago: Cualquier aplicación digital, sitio web o sistema de
+7 procesamiento de pagos electrónicos que facilite transacciones comerciales.
+8 c) Establecimiento Comercial: Cualquier negocio físico o en línea que recolecte el
+9 IVU conforme al Código de Rentas Internas (Ley Núm. 1-2011).
+10 d) Donación Voluntaria: La cantidad redondeada donada por el consumidor,
+11 deducible fiscalmente sin costo adicional.
+12 e) Fondos Públicos: El Fondo General o fondos especiales designados por el
+13 Departamento de Hacienda para educación, salud o infraestructura.
+14 f) Consumidor: Toda persona natural o jurídica que realice una compra en Puerto
+15 Rico.
+16 Artículo 3. – Ámbito de Aplicación.
+17 Esta Ley aplicará voluntariamente a plataformas de pago y establecimientos
+18 comerciales que recolecten IVU en el territorio de Puerto Rico. No impondrá obligaciones
+19 mandatorias ni creará impuestos nuevos. Esta regulación es nueva y no modifica leyes
+20 existentes, salvo en lo necesario para su implementación.
+21 Artículo 4. – Marco Voluntario para Redondeo.
+
+5
+1 Las plataformas de pago y establecimientos comerciales podrán ofrecer la opción
+2 de redondeo voluntario en transacciones, debiendo:
+3 a) Obtener consentimiento explícito del consumidor en cada transacción o
+4 mediante configuración predeterminada revocable.
+5 b) Informar claramente el monto a donar y el fondo público beneficiario, con frases
+6 como “Redondee y done a fondos públicos: Sí/No”.
+7 c) Remitir las donaciones recolectadas mensualmente al Departamento de
+8 Hacienda, sin retención de comisiones.
+9 d) Integrar el sistema con mecanismos existentes de recaudo de IVU para
+10 minimizar costos.
+11 e) Proporcionar recibos digitales o físicos que certifiquen la donación para
+12 deducciones fiscales.
+13 Esta opción no impondrá costos adicionales significativos, ya que aprovecha
+14 infraestructura fiscal existente.
+15 Artículo 5. - Incentivos y Beneficios.
+16 a) Las donaciones serán deducibles para el consumidor bajo el Código de Rentas
+17 Internas (Sección 1033.15).
+18 b) Empresas participantes recibirán certificados de reconocimiento público del
+19 Departamento de Hacienda, utilizables para mercadeo ético.
+20 c) El Departamento de Hacienda podrá eximir administrativamente requisitos
+21 menores para participantes, sin subsidios fiscales.
+22 Artículo 6. - Prohibiciones.
+
+6
+1 Se prohíbe:
+2 a) Imponer el redondeo sin consentimiento explícito.
+3 b) Utilizar las donaciones para fines distintos a los fondos públicos designados.
+4 c) Cobrar comisiones o fees sobre las donaciones recolectadas.
+5 d) Engañar al consumidor sobre el destino o voluntariedad de la donación.
+6 Artículo 7. - Protección al Consumidor.
+7 Los consumidores tendrán derecho a:
+8 a) Revocar el consentimiento en cualquier momento sin penalidades.
+9 b) Denunciar violaciones ante el Departamento de Asuntos del Consumidor
+10 (DACO), que investigará sin costo.
+11 c) Recibir reembolsos inmediatos si el redondeo fue no autorizado.
+12 d) Acceder a campañas educativas del gobierno sobre el programa.
+13 Artículo 8. - Sanciones.
+14 Las violaciones a esta Ley serán sancionadas por el DACO o Hacienda con:
+15 a) Multas administrativas de $500 a $5,000 por infracción, escalando por
+16 reincidencias.
+17 b) Órdenes de cese y desista.
+18 c) En casos graves, remisión al Departamento de Hacienda, la Policía de Puerto
+19 Rico, Fiscalía y/o Departamento de Justicia para cargos de fraude.
+20 Artículo 9. - Implementación y Reglamentación.
+21 El Departamento de Hacienda, en coordinación con el DACO, adoptará
+22 reglamentos dentro de 90 días de la aprobación de esta Ley, incluyendo guías para
+
+7
+1 integración en sistemas de IVU y mecanismos de monitoreo. Se creará un portal público
+2 para rastreo de donaciones agregadas.
+3 Articulo 10.- Cláusula de Separabilidad.
+4 Si cualquier disposición, palabra, oración o inciso de esta Ley fuera impugnado
+5 por cualquier razón ante un tribunal y declarado inconstitucional o nulo, tal sentencia no
+6 afectará, menoscabará o invalidará las restantes disposiciones de esta Ley.
+7 Articulo 11.- Vigencia.
+8 Esta Ley comenzará a regir 120 días después de su aprobación.
+
+[DELETED: 0 A 3 .rL    e p d y e c q r e y d l d a a e d p l f e c d u e d y p P R e u m v p i d m a t d d c u p q p a l c d c]
+[DELETED:  m d r c e o a l c l o d d y a d p ( A P G P o a q e c y m t f y r e I a i e r v n r i n ( d 2 s m i q e d d l p p c i c e r p c]
+[DELETED:  i l p s c f n E p r r p o e a m t d d c e R U h i e m d q u e v a l r e u 1 s e l c d c a p c m e c l L d P a u c d s f v q a p]
+[DELETED:  P d P C a d s w o s d D V L c r d p e c F P E F G o f e d p e L a v a p d p y e]
+[DELETED:  O c e d c e c t o R l d r m a D d I e s c m e d r d I p P r d o f q c l d p o n i c a s y q a E p r c d r p d E D d H p e a r]
+[DELETED:  D v a e D d A d Cs  M a d $ a $ p i e p D d H e c c e D a d d 9 d d l a d e L i g p]
