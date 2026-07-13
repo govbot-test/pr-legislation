@@ -1,0 +1,2187 @@
+Title: Para enmendar la Ley 107-2020, según enmendada, conocida como “Código Municipal
+Official Title: Para enmendar la Ley 107-2020, según enmendada, conocida como “Código Municipal
+Number of Sections: 8
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 777)
+LEY
+de Puerto Rico” en sus Artículos 1.008 (h); 1.019 (j); 1.020; 1.022; 1.037 (a) y (b); 1.053;
+
+Section 2:
+2.006; 2.014 y para añadir un nuevo inciso (d); 2.018 (a)(10); 2.019; 2.050; 2.055; 2.059;
+
+Section 3:
+2.061; 2.085; 3.042 (36); 4.009 (c); 4.010 y los incisos (a), (d) y (e) y para añadir dos
+nuevos incisos (f) y (g); 4.011 (b); 4.012; 4.012A y los incisos (f) y (g); 4.014; 6.007;
+
+Section 4:
+6.016; 7.200 para añadir un nuevo inciso (k); y 8.001; a los fines de añadir enmiendas
+técnicas; aclarar el alcance de la facultad municipal para adquirir o aceptar
+propiedades declaradas estorbo público y fortalecer los mecanismos procesales;
+conceder mayor flexibilidad a los alcaldes respecto al manejo del tiempo en el
+sometimiento de informes; aclarar que la Legislatura Municipal podrá componerse
+de hasta un número máximo de miembros elegibles; aclarar las definiciones de
+sesiones ordinarias y sesiones extraordinarias; incorporar al Director de la Oficina de
+Ordenación Territorial o al Oficial de Permisos municipal dentro de las
+disposiciones de inmunidad; crear el puesto de Director de la Unidad de Auditoría
+Interna; aclarar el alcance de la nulidad contractual conforme a la Ley 215-2024;
+aclarar la no obligación de consignación en acciones de expropiación; autorizar la
+adquisición de inmuebles sin consulta previa; flexibilizar los requisitos del
+Coordinador de Reciclaje municipal; flexibilizar procesos de retracto, planificación
+territorial y clasificación de puestos clave; atemperar la patente municipal sobre
+contratos municipales; modificar las definiciones de “Estorbo Público” y
+“Obligaciones Estatutarias”; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 107-2020, según enmendada, conocida como “Código Municipal de
+Puerto Rico”, se aprobó con el propósito de compilar de forma sistemática, ordenada y
+actualizada toda legislación referente a la organización, gobierno, administración y
+funcionamiento de los municipios de Puerto Rico. Además, de atemperar las leyes
+vigentes que de una forma u otra impactaban la administración, y el financiamiento de
+los municipios a la realidad que estos enfrentan día a día. Como parte de la intención
+legislativa se consigna en la Exposición de Motivos de la Ley 107, supra, que ... “[t]oda la
+legislación relacionada a los municipios estaría codificada en una sola ley, facilitando el
+análisis, y estableciendo un solo ordenamiento jurídico estructurado y compilado que
+contenga todas las obligaciones y responsabilidades municipales. A esos fines,
+emprendimos el enorme reto de diseñar una legislación moderna, realista y práctica, a
+la vez que les provee autonomía fiscal y administrativa a los gobiernos municipales. En
+este nuevo Código Municipal se compila e integra todas las leyes existentes y
+vinculadas al funcionamiento de los gobiernos municipales.” Es por ello, que la
+presente legislación atiende, exclusivamente, asuntos de administración municipal.
+2
+La Ley 107, supra, en su Artículo 1.003 declara política pública el proveer a los
+municipios de aquellos poderes y facultades necesarias para que puedan asumir su
+función fundamental a favor del desarrollo social y económico de sus jurisdicciones. De
+la misma manera, el Código Municipal provee los mecanismos administrativos y
+fiscales para la transferencia adecuada de otros poderes y competencias del Gobierno
+estatal, procurando cumplir con el interés público en proveer a la ciudadanía de un
+gobierno efectivo y responsivo a sus necesidades y aspiraciones. Además, con la
+aprobación del Código Municipal, se reconoció que los municipios son la entidad
+gubernamental más cercana al pueblo y el mejor intérprete de sus necesidades y
+aspiraciones. En consecuencia, declara de máximo interés público que los municipios
+cuenten con los recursos necesarios para rendir sus servicios, disponiendo, por ende,
+que todas las ramas de Gobierno deberán proteger las fuentes de recursos municipales.
+No obstante, esta Asamblea Legislativa entiende que es menester atender ciertas
+disposiciones de administración municipal, ya que han pasado varios años desde la
+aprobación y puesta en vigor la Ley 107-2020, supra, a los fines de continuar
+fomentando la autonomía municipal y velar porque los procesos se lleven en armonía y
+en el mejor interés de los municipios y de los ciudadanos. Además, es necesario proveer
+herramientas a los municipios para la ejecución efectiva de sus deberes y para que
+continúen ofreciendo los servicios de primeras necesidades a los ciudadanos, así como
+hacer valer los resultados electorales por el voto directo de los constituyentes y que la
+distribución de los legisladores municipales, que puedan ser añadidos como
+representantes de minorías y que no resultaron electos por el voto directo, no trastoque
+o varíe el resultado obtenido por el partido que obtiene la mayoría del voto directo del
+electorado.
+“Sabido es que la premisa básica de nuestro ordenamiento es que la mayoría
+gobierna mediante sus representantes debidamente electos.” Silva v. Hernández Agosto,
+118 DPR 45, 69 (1986). La premisa básica de nuestro ordenamiento es que la mayoría
+gobierna mediante sus representantes debidamente electos en la Rama Legislativa. Sin
+embargo, nuestra Constitución también incorporó en la Sección 7 del Artículo III un
+innovador mecanismo para garantizar la representación efectiva de las minorías en la
+Legislatura, asunto que es extensivo a las Legislaturas Municipales. Este mecanismo
+garantiza la existencia efectiva de las minorías, elemento indispensable en un gobierno
+democrático constitucional como el nuestro. El principio de “un hombre, un voto”,
+consagrado por nuestra Constitución, no se limita solamente al proceso eleccionario. De
+nada sirve que a los ciudadanos se le garantice su derecho al voto si luego aquellos que
+fueron depositarios de la confianza de los electores son excluidos en momentos
+cruciales del proceso legislativo. (Citas omitidas). Silva v. Hernández Agosto, supra.
+Por otro lado, es necesario corregir y hacer varias enmiendas técnicas, con el fin
+de aclarar ciertas disposiciones de la derogada Ley 81-1991 y atemperarlo con la Ley
+107-2020, según enmendada, cuando el (la) alcalde (sa) convoque a la celebración de las
+Sesiones Ordinarias y Extraordinarias, ya que ciertos Artículos del Código Municipal
+3
+pueden crear confusión en cuanto a la celebración de las sesiones legislativas
+municipales. Además, a tenor con el estado de derecho actual, atemperar el término del
+proceso de evaluación y aprobación de la resolución de presupuesto.
+Además, es necesario revisar las disposiciones del Artículo 2.006 del Código
+Municipal en cuanto a la Unidad de Auditoría Interna a los fines de disponer que para
+dicha unidad el Municipio podrá nombrar a un funcionario bajo el puesto de
+Director(a) de la Oficina de Auditoría Interna que colabore sustancialmente en el
+proceso de formulación de política pública, implemente medidas preventivas de
+administración y previas al desembolso de los fondos municipales, asesore
+directamente, o preste servicios directos al alcalde y, establecer las funciones y
+responsabilidades que tendrá en beneficio de la intervención de procesos y
+transacciones en la administración municipal y a su vez, que el puesto de Auditor
+Interno esté sujeto a los requisitos de reclutamiento y selección conforme al principio de
+mérito, entre otras.
+Asimismo, es necesario enmendar el Artículo 2.014, para que sea cónsono con la
+enmienda introducida por la Ley 215-2024 y a su vez, incorporar el contrato de servicios
+técnicos y especializados en tecnología cónsono con la política pública enunciada en el
+Código Municipal relativa a establecer, adoptar e incorporar sistemas y procedimientos
+modernos o noveles para lograr mayor producción de ingresos y eficiencia para
+ejecución de las funciones municipales, como parte de las facultades de contratación
+municipal para realizar las actividades, programas y operaciones municipales o para
+cumplir con cualquier fin público autorizado por este Código o por cualquier otra ley
+que pueda aplicar a los municipios, sin que esta facultad se entienda como contratación
+contingente para el cobro de deudas declaradas morosas, incobrables o sean el producto
+de la identificación de evasores contributivos y de la determinación oficial de la deuda
+identificada por el Director de Finanzas.
+Por otro lado, es menester atemperar el Artículo 2.055 sobre las limitaciones de
+transacciones en periodo eleccionario con lo ya establecido en el Artículo 2.094 en
+relación a las disposiciones especiales para años de elecciones, con el fin de disponer y
+aclarar que cuando la Comisión Estatal de Elecciones emita una certificación preliminar
+en la que se determine que un alcalde incumbente ha sido reelecto serán de
+aplicabilidad las disposiciones establecidas en el referido Artículo 2.094 de la Ley 107-
+2020, supra.
+Asimismo, se aclaran varios alcances incorporados al Código Municipal en
+virtud de la Ley 114-2024, sobre propiedades declaradas como estorbo público en el
+interés de agilizar la declaración de estorbos públicos y reforzar la política pública de
+promover la restauración de las comunidades y vecindarios, en el orden físico,
+económico, social y cultural; fortalecer la seguridad entre las comunidades y propiciar
+la calidad de vida de todos los residentes, así como la salud y la seguridad pública, así
+como promover que las propiedades declaradas como estorbo público puedan ser
+4
+rehabilitadas como residencias y sean reutilizadas para el desarrollo equitativo de la
+comunidad y crear nuevas oportunidades de vivienda asequible y desarrollo
+comunitario. De igual forma, se atienden efectos particulares en los casos de
+expropiación ordinaria y bajo el nuevo procedimiento sumario de propiedades
+finalmente declaradas como estorbo público, atendiendo el interés ciudadano y el deber
+de cada ayuntamiento de proveer calidad de vida a sus residentes procurando justicia a
+las comunidades que diariamente sufren los efectos dañinos de las propiedades
+abandonadas.
+Además, es necesario aclarar las disposiciones del Artículo 6.016, según fuera
+enmendado por la Ley 118-2024, a los fines de disponer que los puestos de Director de
+la Oficina de Ordenación Territorial y del Oficial de Permisos, como Director de la
+Oficina de Permisos, serán empleados de confianza y no empleados regulares, cuando
+estos no sean contratados por servicios profesionales.
+Cabe destacar que con la aprobación de la Ley Núm. 90-2025, se enmendaron los
+Artículos 7.200 y 7.207 de la Ley 107-2020, según enmendada. Entre los aspectos
+fundamentales de dicha enmienda, se establece que el volumen proveniente de
+contratos municipales se considerará ingreso bruto de industria o negocio del
+Municipio contratante, independiente del Municipio donde el contratista mantenga
+oficina, sucursal, almacén o lugar de negocios, siendo esto un gran paso de avance en la
+autonomía fiscal de los municipios. No obstante, es menester añadir al Artículo 7.200 un
+nuevo inciso (k), para establecer los aspectos procesales de patente municipal que
+impactarán a los municipios en cuanto a la declaración y el pago de patente municipal
+en virtud de los contratos municipales. Así también, reconociendo los nuevos retos y
+realidades a las que se enfrentan los municipios, esta Asamblea Legislativa mantiene su
+compromiso de procurar, a favor de los municipios los poderes esenciales a su
+subsistencia y sus fuentes de ingreso, así como las facultades que sean esenciales para
+lograr el bien común y una mejor calidad de vida a sus constituyentes. Cónsono con la
+política pública, se establece de forma clara la intención de esta Asamblea Legislativa en
+cuanto a las facultades tributarias municipales cuales se interpretarán liberalmente a
+favor del pueblo representado por el Municipio, siempre que sean dentro de sus límites
+jurisdiccionales y que no sean incompatibles con las leyes impositivas del Gobierno
+Federal o del Gobierno Estatal.
+Por todo lo antes expuesto, esta Asamblea Legislativa entiende necesario
+enmendar la Ley 107-2020, según enmendada, con el fin de realizar varias enmiendas
+técnicas y aclarar ciertas disposiciones a la referida Ley, como parte de nuestro
+compromiso y empeño de proveer herramientas necesarias a los municipios para la
+ejecución efectiva de sus deberes y para que continúen ofreciendo los servicios de
+primera necesidad a los ciudadanos.
+5
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.– Se enmienda el inciso (h) del Artículo 1.008 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 1.008. — Poderes de los municipios
+Los municipios tendrán los poderes naturales y cedidos que le correspondan
+para ejercer las facultades inherentes a sus fines y funciones. Además de lo dispuesto en
+este Código o en cualesquiera otras leyes, los municipios tendrán los siguientes
+poderes:
+(a) …
+…
+(h) Una vez una propiedad es declarada estorbo público, el Municipio podrá
+adquirir, aceptar, expropiar, embargar, gravar y ejecutar cualquier propiedad
+declarada estorbo público para el cobro de contribuciones sobre la propiedad,
+multas, gastos administrativos, otros gastos relacionados a la declaración de
+estorbo público y gastos relacionados al manejo de su condición de estorbo a
+tenor con el Artículo 4.010 de este Código. El Municipio podrá deducir dichos
+gastos del cómputo de la justa compensación. Para activar este mecanismo el
+Municipio deberá notificar al CRIM sobre su intención de adquirir, aceptar,
+expropiar, embargar, gravar y ejecutar.
+(i) …
+…”
+Sección 2.– Se enmienda el inciso (j) del Artículo 1.019 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 1.019.— Obligaciones del Alcalde Respecto a la Legislatura Municipal
+Además de cualesquiera otras obligaciones dispuestas en este Código y otras
+leyes, el alcalde tendrá, respecto a la Legislatura Municipal, las siguientes obligaciones:
+(a) …
+…
+(j) El alcalde someterá, no más tarde del 15 de noviembre de cada año, un
+informe completo de las finanzas y actividades administrativas del Municipio al 30 de
+junio del año fiscal precedente. El alcalde podrá, a su discreción, presentar dicho
+informe en audiencia pública. Este se radicará ante el Secretario de la Legislatura
+Municipal con copias suficientes para cada miembro de dicho Cuerpo y estará
+disponible para el público, en las páginas cibernéticas del municipio y/o de forma
+digital, desde la fecha de su presentación.
+Si previo a la fecha límite para someter el informe según lo dispuesto en este
+inciso el Municipio fuera declarado zona de desastre por el Gobernador de Puerto Rico
+6
+o por el Presidente de Estados Unidos, el alcalde tendrá cuarenta y cinco (45) días
+adicionales, contados a partir del día 15 de noviembre para someter el informe
+completo de finanzas y actividades administrativas del Municipio.
+(k) …
+…”
+Sección 3.– Se enmienda el Artículo 1.020 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 1.020. — Legislatura Municipal
+Las facultades legislativas que por este Código se confieren a los municipios,
+serán ejercidas por una Legislatura Municipal. La Legislatura de cada uno de los
+municipios se compondrá hasta el número máximo de miembros que a continuación se
+indica, tomando como base el último censo decenal:
+Población Número máximo de Legisladores
+(a) 40,000 o más habitantes 16 miembros
+(b) 20,000 pero menos de 40,000 habitantes 14 miembros
+(c) Menos de 20,000 habitantes 12 miembros
+La Legislatura de la Ciudad Capital de San Juan estará integrada hasta un
+máximo de diecisiete (17) miembros y la del Municipio de Culebra hasta un máximo de
+cinco (5) miembros.”
+Sección 4. – Se enmienda el Artículo 1.022 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 1.022 — Elección de la Legislatura Municipal
+Los miembros de las Legislaturas Municipales serán electos por el voto directo
+de los electores del Municipio a que corresponda en cada elección general, por un
+término de cuatro (4) años, contados a partir del segundo lunes de enero del año
+siguiente a la elección general en que son electos y ejercerán las funciones de sus cargos
+hasta el segundo lunes del mes de enero posterior a la elección general.
+Los partidos políticos solo podrán postular hasta un máximo de trece (13), once
+(11) y nueve (9) candidatos a las Legislaturas Municipales compuestas con hasta un
+máximo de dieciséis (16), catorce (14) y doce (12) miembros respectivamente;
+disponiéndose, que para la Ciudad Capital de San Juan, podrán postular hasta un
+máximo de catorce (14) y para Culebra hasta un máximo de cuatro (4), según su número
+máximo de miembros.
+La Comisión Estatal de Elecciones declarará electos entre todos los candidatos de
+los partidos políticos, nominación directa o independiente, a los trece (13), once (11),
+nueve (9), catorce (14) y cuatro (4) que hayan obtenido la mayor cantidad de votos
+directos. En caso de que surja un empate para determinar la última posición entre los
+7
+que serán electos por el voto directo, se utilizará el orden en que aparecen en la
+papeleta, de arriba hacia abajo, para determinar cuál será electo.
+En caso de que los trece (13), once (11), nueve (9), catorce (14) y cuatro (4)
+candidatos postulados de un mismo partido resulten electos por el voto directo,
+entonces se elegirán hasta tres (3) miembros adicionales de cada una de las Legislaturas
+Municipales, excepto Culebra que tendrá solo uno (1) adicional, de entre los candidatos
+de los dos (2) partidos principales contrarios al que pertenece la mayoría de los
+Legisladores Municipales electos mediante el voto directo, como sigue:
+(a) La Comisión Estatal de Elecciones declarará electo de ser necesario, entre los
+candidatos que no hayan sido electos por el voto directo, aquellos dos (2) que
+hayan obtenido más votos en el partido que llegó segundo en la votación para
+Legislador Municipal, y uno (1) del partido que llegó tercero. En el caso de
+Culebra, el Legislador Municipal adicional que se declarará electo será del
+partido segundo en la votación para Legislador Municipal. En este caso la
+Legislatura Municipal quedará compuesta por el número máximo de
+legisladores conforme a ese Código.
+(b) En el caso del segundo partido, cuando hubiere más de dos (2) candidatos
+con la misma o mayor cantidad de votos, se utilizará el orden en que aparecen en
+la papeleta, en la columna del partido, de arriba hacia abajo, para determinar
+cuál será electo. Igual disposición aplicará para elegir el candidato de minoría del
+tercer partido.
+(c) Si solamente figuraran dos (2) partidos en la papeleta electoral, los tres (3)
+miembros adicionales se elegirán entre los candidatos que hayan obtenido más
+votos y que no hayan sido electos por el voto directo en el partido que llegó
+segundo en la votación para Legislador Municipal.
+En caso de que entre los trece (13), once (11), nueve (9), catorce (14) y cuatro (4)
+candidatos postulados de un mismo partido para Legislador Municipal, un partido para
+el que se haya elegido por voto directo dos terceras (2/3) partes de los miembros de la
+Legislatura Municipal, pero sin resultar electos la totalidad de los candidatos
+postulados del mismo partido, se hará la determinación de elección de los legisladores
+adicionales que corresponda hasta un máximo de tres (3) miembros, dentro del número
+máximo de candidatos a ser postulados conforme a este Código, a cada uno de los
+partidos de minoría en la siguiente manera:
+(a) La Comisión Estatal de Elecciones declarará electo, entre los candidatos de los
+partidos de minoría, aquellos dos (2) que hayan obtenido más votos en el
+partido que llegó segundo en la votación para Legislador Municipal, y uno (1)
+del partido que llegó tercero de ser necesario para garantizar balance.
+(b) En el caso del segundo partido, cuando hubiere más de dos (2) candidatos
+con la misma o mayor cantidad de votos, se utilizará el orden en que
+aparecen en la papeleta, en la columna del partido, de arriba hacia abajo, para
+8
+determinar cuál será electo. Igual disposición aplicará para elegir el candidato
+de minoría del tercer partido.
+(c) Si solamente figuraran dos (2) partidos en la papeleta electoral, los tres (3)
+miembros adicionales se elegirán entre los candidatos que hayan obtenido
+más votos y que no hayan sido electos por el voto directo en el partido que
+llegó segundo en la votación para Legislador Municipal.
+La Comisión Estatal de Elecciones adoptará las medidas necesarias para
+reglamentar las disposiciones contenidas en este Artículo.
+Si por cualquier circunstancia cualquiera de los miembros adicionales de cada
+una de las Legislaturas Municipales a que hace referencia este Artículo no calificare
+para ser declarado electo por la Comisión Estatal de Elecciones, se designará en su lugar
+otra persona a propuesta del partido que eligió al Legislador Municipal que no calificó
+para el cargo.
+El Secretario de Estado de Puerto Rico revisará el número máximo de miembros
+que compongan las Legislaturas Municipales, después de cada censo decenal, a partir
+del año 2020. La determinación del Secretario de Estado regirá para las elecciones
+generales que se celebren después de cada revisión. El Secretario le notificará a la
+Comisión Estatal de Elecciones dicha determinación y se hará pública para
+conocimiento general.”
+Sección 5. – Se enmiendan los incisos (a) y (b) del Artículo 1.037 de la Ley 107-2020,
+según enmendada, para que lea como sigue:
+“Artículo 1.037 — Sesiones de la Legislatura Municipal
+…
+(a) Sesiones ordinarias —
+…
+Cuando el alcalde convoque a la celebración de una Sesión Extraordinaria
+para atender un asunto de emergencia mientras la Legislatura Municipal se
+encuentra reunida dentro de una Sesión Ordinaria, la Legislatura Municipal
+podría, con el voto de dos terceras (2/3) partes de sus miembros activos,
+aprobar la interrupción de la Sesión Ordinaria por un período que no
+excederá de cinco (5) días para atender dicho asunto. Concluido el término de
+los cinco (5) días de Sesión Extraordinaria, la Legislatura Municipal podrá
+reanudar la Sesión Ordinaria por el número de días que corresponda sin
+exceder el periodo que dispone este Artículo.
+…
+El alcalde vendrá obligado a radicar en la Secretaría de la Legislatura
+Municipal, el Proyecto de Resolución del Presupuesto del Municipio, las
+obligaciones establecidas en el Artículo 1.019 de este Código, además de
+9
+cualesquiera otros asuntos dispuestos por otras leyes y en este Código. En
+cuanto al proyecto de resolución del presupuesto general de ingresos y gastos
+del Municipio, la Legislatura Municipal lo evaluará y aprobará, según lo
+dispone este Código, durante la primera Sesión Ordinaria. El proceso de
+evaluación y aprobación de la resolución de presupuesto podrá comenzar
+antes, pero nunca más tarde del día diez (10) de junio de cada año y podrá
+tener una duración no mayor de diez (10) días. Los mismos no tendrán que
+ser consecutivos, excluyendo domingo y días feriados, pero en todo caso,
+deberá concluir no más tarde del 20 de junio de cada año con la aprobación
+del presupuesto según se dispone en el Artículo 2.101 de este Código.
+(b) Sesiones Extraordinarias —
+Las Sesiones Extraordinarias se podrán celebrar en cualquier fecha de un
+año natural en la cual no se esté celebrando una Sesión Ordinaria, excepto
+que se trate de un asunto de emergencia, según definido en este Código, o
+cualquier otro asunto que se entienda necesario y debidamente convocado.
+… “
+Sección 6. – Se enmienda el Artículo 1.053 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 1.053 — Acciones por Daños y Perjuicios No Autorizadas
+No estarán autorizadas las acciones contra el Municipio por daños y perjuicios a
+la persona o la propiedad por acto u omisión de un funcionario, agente, empleado de
+cualquier Municipio, incluyendo, al Director de la Oficina de Ordenación Territorial o el
+Oficial de Permisos municipal, cuando alguno de estos ejerza las funciones de dichos
+puestos bajo contrato, a tenor con el Artículo 6.016 de este Código:
+… “
+Sección 7. – Se enmienda el Artículo 2.006 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.006— Unidad de Auditoría Interna
+Los municipios tendrán una unidad administrativa de Auditoría Interna, la cual
+será dirigida por una persona que posea los requisitos establecidos en este Código, que
+goce de buena reputación en la comunidad, capacidad profesional y con conocimientos
+sobre contabilidad, auditorías, intervención de cuentas, administración y gestión
+gubernamental o una combinación de estas y, además, reúna aquellos otros requisitos
+que se dispongan en el plan de puestos para el servicio de confianza que apruebe la
+Legislatura Municipal. El Director de la Oficina de Auditoría Interna será nombrado
+por el alcalde y confirmado por la Legislatura Municipal. Sin que se entienda como una
+limitación, el Director de la Oficina de Auditoría Interna tendrá las siguientes
+funciones y responsabilidades:
+10
+(a) Asesorar al alcalde en la adopción e implementación de mecanismos
+dirigidos a lograr niveles óptimos de eficiencia y efectividad de sus sistemas
+administrativos y de gestión de riesgos, control y dirección; y para hacer
+cumplir las normas municipales y la normativa adoptada sobre la
+administración de los recursos y bienes municipales.
+(b) Desarrollar un programa municipal de auditoría previa y de auditoría
+basado en evaluación de riesgos, incluyendo la utilización de los fondos
+asignados y administrados por el Municipio, incluyendo los sistemas de
+información gubernamentales.
+(c) Dar seguimiento y supervisar a las auditorías e intervenciones realizadas
+por el Auditor Interno y los Auditores de la unidad de auditoría interna.
+(d) Dar seguimiento a los planes de acción correctiva implantados por el
+Municipio, a fin de evaluar los resultados y logros obtenidos y asesorar al
+alcalde en la formulación de las recomendaciones pertinentes.
+(e) Coordinar y ampliar las gestiones municipales para promover la
+integridad y eficiencia, detectar y prevenir el fraude, malversación y abuso en
+el uso de los fondos y propiedad municipal.
+(f) Asesorar al alcalde en el desarrollo de estándares, políticas, normas y
+procedimientos para guiar al Municipio en el establecimiento de controles y
+en el cumplimiento de prácticas de sana administración.
+Por su parte, el puesto del Auditor Interno deberá poseer un grado de
+Bachillerato en Administración de Empresas con especialidad en contabilidad o
+finanzas, o en áreas relacionadas, de una institución universitaria acreditada y por lo
+menos dos (2) años de experiencia en auditoría o en intervención de cuentas, procesos
+u operaciones de una organización, preferiblemente en el sector gubernamental, que le
+cualifiquen para desempeñarse en el área fiscal, administrativa o de cumplimiento y en
+la de auditoría; que goce de buena reputación en la comunidad y reúna aquellos
+requisitos que se dispongan en el plan de clasificación de puestos que apruebe la
+Legislatura Municipal. Estos no podrán ser empleados de confianza ni podrán prestar
+sus servicios por medio de contratación gubernamental.
+El Auditor Interno será nombrado por el alcalde, y su nombramiento estará
+sujeto a las disposiciones sobre reclutamiento y selección que se establecen en este
+Código. Este asesorará y recomendará en materia de procedimientos fiscales y
+operacionales, del establecimiento y perfeccionamiento de controles internos y del
+cumplimiento con leyes, ordenanzas, resoluciones y reglamentos en general. Además
+de cualesquiera otras dispuestas en este Código o en cualquier otra ley, el Auditor
+Interno tendrá las siguientes funciones y responsabilidades:
+…. ”
+11
+Sección 8.– Se enmienda el Artículo 2.014 y se añade un nuevo inciso (d) del referido
+Artículo 2.014 de la Ley 107-2020, según enmendada, para que lea como sigue:
+“Artículo 2.014— Contratación de Servicios
+El Municipio podrá contratar los servicios profesionales, técnicos y consultivos
+que sean necesarios para llevar a cabo las actividades, programas y operaciones
+municipales o para cumplir con cualquier fin público autorizado por este Código o por
+cualquier otro estatuto aplicable. No obstante, todo contrato que se ejecute o suscriba
+en contravención a lo dispuesto en este Artículo será nulo y no tendrá efecto, y los
+fondos públicos invertidos en su administración o ejecución serán recobrados a
+nombre del Municipio mediante acción incoada a tal propósito.
+…
+Por su parte, será anulable todo contrato que se ejecute o suscriba en
+contravención a las siguientes disposiciones especiales, salvo que tales disposiciones se
+subsanen dentro de la vigencia del contrato:
+(a) …
+…
+(d) Contratos de servicios técnicos y especializados en tecnología.
+El Municipio podrá contratar los servicios profesionales, técnicos y
+consultivos, especializados en el uso de la tecnología, que sean necesarios y
+convenientes para realizar las actividades, programas y operaciones
+municipales, así como para cumplir con cualquier fin público autorizado
+por ley, incluyendo, pero sin limitarse, a promover eficiencia operativa, la
+modernización digital de procesos municipales, la generación de ingresos
+nuevos o que puedan maximizarse con la implementación de la tecnología y
+los sistemas relacionados a esta. Los honorarios a ser pagados al contratista
+estarán basados en el valor real que tienen en el mercado los servicios a
+prestarse. La fijación de los honorarios se hará dentro de un marco de
+razonabilidad por parte del Municipio contratante. Disponiéndose, que este
+tipo de contratación no constituye ni se interpretará como un contrato de
+cobro de deudas, según el Artículo 1.018 (r) de este Código.
+… ”
+Sección 9.– Se enmienda el inciso (a) (10) del Artículo 2.018 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 2.018 — Adquisición de Bienes por Expropiación Forzosa
+(a) Las disposiciones contenidas en la Ley General de Expropiación Forzosa de
+12 de marzo de 1903, según enmendada, serán de carácter supletorias en las
+acciones de expropiación forzosa por parte de los municipios y estos podrán
+12
+instar procesos de expropiación forzosa por cuenta propia bajo lo establecido
+en este Código:
+(1) Privación de Propiedad. - …
+(2) …
+…
+(10) Investidura de Título y Posesión Material. — Tan pronto el Municipio
+expropiante radique la Petición de Expropiación junto a la
+Declaración para la Adquisición y Entrega Material de la Propiedad,
+conforme a este Código y a la Regla 58.3 de las Reglas de
+Procedimiento Civil de Puerto Rico, el Tribunal expedirá en un
+término jurisdiccional de cinco (5) días el título absoluto de dominio
+de dicha propiedad, o cualquier derecho o interés menor en la misma,
+según quede especificado en la declaración, quedará investido en el
+Municipio expropiante, y tal propiedad deberá considerarse como
+expropiada y adquirida para el uso del Municipio que hubiese
+requerido la expropiación, y el derecho a justa compensación por la
+misma quedará investido en la persona o personas a quienes
+corresponda. Desde ese instante el Tribunal podrá fijar el término y
+las condiciones bajo las cuales los poseedores de los bienes
+expropiados deberán entregar la posesión material de los mismos al
+demandante. En las expropiaciones de propiedades declaradas
+estorbos públicos bajo cualquier disposición de expropiación provista
+en este Código, el Municipio no vendrá obligado a consignar dinero
+alguno sobre la expropiación al radicar la demanda. Dicha obligación
+comenzará al momento en que él o los demandados comparezcan al
+tribunal según lo establecido en la Regla 58.5 de Procedimiento Civil
+de Puerto Rico. Una vez el tribunal emita una sentencia estableciendo
+en ella la justa compensación, cualquier persona que tenga derecho a
+esta, tendrá tres años para reclamarla. Transcurrido dicho término, la
+acción para reclamar la cuantía determinada por el tribunal estará
+prescrito, según se establece en el Artículo 4.012A de este Código.
+… “
+Sección 10. – Se enmienda el Artículo 2.019 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.019 — Autorización a los municipios para Adquirir o Vender
+Bienes Inmuebles sin el Requisito de Obtener una Consulta de Transacción
+Se autoriza a los municipios a adquirir un bien inmueble por el
+procedimiento de expropiación forzosa o por cualquier otro medio permitido en ley,
+sin el requisito previo de consulta de transacción y ubicación ante la Junta de
+Planificación, siempre que dicho inmueble esté ubicado dentro de la jurisdicción y
+13
+cuya adquisición sea parte de un proyecto designado por el Municipio como
+estratégico, prioritario, o de infraestructura crítica; y/o que cumple con los criterios de
+designación de proyecto crítico bajo la Sección 503 de la “Ley de Supervisión,
+Administración, y Estabilidad Económica de Puerto Rico” (PROMESA, por sus siglas
+en inglés); y/o de proyectos declarados como estratégicos, según la Ley 19-2017, según
+enmendada, conocida como “Ley para Simplificar y Transformar el Proceso de
+Permisos de 2017”.
+De igual forma, la venta de bienes inmuebles o solares para fines
+residenciales o comerciales, que se realice conforme al Artículo 2.025 de este Código, a
+los usufructuarios, poseedores de hecho, arrendatarios o inquilino del solar, estará
+exenta del requisito de consulta de transacción ante la Junta de Planificación, siempre
+que dicho inmueble esté ubicado dentro de la jurisdicción municipal.
+De otro lado, se exime la venta de solares vacantes del requisito de la consulta
+de transacción siempre que estén localizados en el centro urbano del Municipio, según
+delimitado en el Plan de Ordenación Territorial. La venta de solares vacantes fuera del
+centro urbano requerirá cumplir con la consulta de transacción.”
+Sección 11.– Se enmienda el Artículo 2.050 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.050 — Ascensos, Traslados, Descensos y Adiestramientos
+Se podrán efectuar ascensos y traslados de empleados de carrera siempre que
+reúnan los requisitos mínimos de los puestos a los cuales sean ascendidos o trasladados.
+…
+Cualquier Municipio podrá destacar personal de carrera, regular o de
+confianza entre municipios, así como entre municipios, empresas municipales,
+franquicias, corporaciones municipales creadas bajo este Código y agencias o
+instrumentalidades públicas, por un término no mayor de doce (12) meses,
+devengando el pago de salarios y de todos los beneficios de su puesto oficial del
+Municipio de origen, para ejercer sus funciones, o funciones análogas a las de su
+puesto, en otro Municipio, empresa municipal o agencia, previa autorización de la
+autoridad nominadora de la entidad de origen y la autoridad nominadora de la
+entidad que recibe al empleado, así como el consentimiento del empleado a destacarse.
+En el caso de destaque de personal municipal en empresas o franquicias municipales o
+en corporaciones municipales creadas bajo este Código, solo se requerirá la previa
+autorización de la autoridad nominadora de la empresa municipal o de la Junta de
+Directores, así como el consentimiento del empleado a destacarse. El pago por
+concepto de diferenciales, dietas, millaje, gastos de transportación o cualquier otro
+reembolso de gastos, será a cargo de la entidad para la cual el empleado destacado está
+prestando el servicio.
+…”
+14
+Sección 12. – Se enmienda el Artículo 2.055 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.055— Limitaciones de Transacciones en Período Eleccionario
+A los fines de asegurar la fiel aplicación del principio de mérito en el servicio
+público municipal, las autoridades nominadoras se abstendrán de efectuar cualquier
+transacción de personal que envuelva las áreas esenciales al principio de mérito, tales
+como nombramientos, ascensos, traslados, descensos, reclasificaciones, cambio en
+sueldos y cambios de categorías de puesto y empleados, en un período de tiempo
+comprendido entre los dos (2) meses anteriores a la fecha de celebración de las
+elecciones generales y hasta el segundo lunes del mes de enero siguiente a dichas
+elecciones. Disponiéndose, a modo de excepción, que cuando la Comisión Estatal de
+Elecciones emita una certificación preliminar en la que se determine que un alcalde
+incumbente ha sido reelecto quedarán sin efecto las disposiciones de este Artículo a
+partir de la fecha en que se emita la certificación preliminar, similar a lo dispuesto en el
+Artículo 2.094 de este Código.
+…”
+Sección 13. – Se enmienda el Artículo 2.059 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.059 — Jornada de Trabajo y Asistencia
+El Municipio administrará lo relativo al horario, a la jornada de trabajo y a la
+asistencia de los empleados, conforme a la reglamentación que adopte. La jornada
+regular no excederá de ocho (8) horas diarias ni de cuarenta (40) horas semanales. Se
+concederá a todo empleado una hora para tomar alimentos durante su jornada regular
+diaria. No obstante, mediante acuerdo escrito entre el empleado y la autoridad
+nominadora, la hora de tomar alimento puede reducirse a media (1/2) hora. El periodo
+de alimentos comenzará a disfrutar luego de concluida la tercera y media (3ra y ½)
+hora de trabajo del empleado y nunca luego de la quinta (5ta) hora de trabajo
+consecutivo.
+Cuando los empleados presten servicios en exceso de la jornada de trabajo diario
+o semanal establecida por el Municipio, en sus días de descanso, en cualquier día
+feriado o en cualquier día que se suspendan los servicios por resolución municipal,
+sujeto a lo dispuesto en el Artículo 2.057 (a), tendrán derecho a recibir licencia
+compensatoria a razón de tiempo y medio o pago en efectivo, según dispuesto en la
+Ley Federal de Normas Razonables del Trabajo de 1938, según enmendada. Se podrá
+exceptuar de esta disposición a los empleados que realicen funciones de naturaleza
+profesional, administrativa o ejecutiva.
+…”
+Sección 14. – Se enmienda el Artículo 2.061 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+15
+“Artículo 2.061— Sistema de Ahorros y Retiro
+Los empleados municipales que estén debidamente nombrados a ocupar
+puestos permanentes de carrera, tendrán derecho a acogerse a los beneficios de la Ley
+9-2013, según enmendada, conocida como “Ley de la Asociación de Empleados del
+Estado Libre Asociado de Puerto Rico de 2013”. Asimismo, a cualquier sistema de
+pensiones o retiro para empleados del Gobierno de Puerto Rico vigente,
+subvencionado por dicho Gobierno y que estén cotizando a la fecha de aprobación de
+este Código.
+En lo concerniente a los alcaldes que hayan sido electos a partir del año 2012,
+se podrán acoger al sistema de retiro auspiciado por el Gobierno del Estado Libre
+Asociado de Puerto Rico, de forma voluntaria u optativa. Esta disposición tendrá
+supremacía sobre cualquier otra disposición aplicable a los sistemas de pensiones o
+retiro para empleados del Gobierno del Estado Libre Asociado de Puerto Rico.”
+Sección 15. – Se enmienda el Artículo 2.085 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.085— Prohibición de Discrimen
+No se podrá establecer, en la implementación u operación de las
+disposiciones de este Capítulo VII del Libro II, discrimen alguno por motivo de la raza,
+color, sexo, nacimiento, edad, orientación sexual, identidad de género, origen o
+condición social, por ideas políticas o religiosas o por ser víctima de violencia
+doméstica, ni por ser víctima de agresión sexual o acecho, ni por ser veterano(a) de las
+Fuerzas Armadas, ni tampoco por impedimento físico o mental, ni por tener peinados
+protectores y texturas de cabello que regularmente se asocian con identidades de raza
+y origen nacional particulares.”
+Sección 16. – Se enmienda el inciso (36) del Artículo 3.042 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 3.042 — Poderes y Funciones
+Los municipios tendrán la responsabilidad de implementar y hacer cumplir
+este Capítulo. Además de sus otros poderes y responsabilidades, los municipios
+deberán:
+(1)…
+…
+(36) Los municipios reclutarán un empleado o funcionario de confianza para que
+funja como coordinador de reciclaje o puesto de similar naturaleza, conforme esté
+establecido en el Plan de Clasificación de Puestos y Retribución Uniforme vigente en
+el Municipio, o mediante un contrato de servicios para realizar las funciones del
+puesto para la implementación de la política pública municipal, de manera que
+puedan cumplir efectivamente con lo requerido por este Capítulo.
+16
+… “
+Sección 17. – Se enmienda el inciso (c) del Artículo 4.009 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 4.009 — Vista, Oficial Examinador y Orden
+El oficial examinador será un ingeniero licenciado o un abogado licenciado. Si
+el Municipio no cuenta con un ingeniero licenciado o con un abogado licenciado
+podrá contratar los servicios de uno de estos para este fin e incluir los costos del
+mismo en los costos del procedimiento o entrar en un acuerdo de colaboración con
+otro Municipio. La vista solicitada por el propietario, poseedor o persona con interés
+se celebrará ante un oficial examinador designado por el Municipio, quien evaluará
+la prueba y dictará una orden a los efectos siguientes:
+(a) …
+…
+(c) Si se determina que la propiedad sí debe declararse como estorbo público,
+y que no es susceptible de ser reparada, se ordenará su demolición y
+limpieza, por cuenta del propietario, poseedor o persona con interés, dentro
+de un término de tiempo razonable, que no será mayor de treinta (30) días. A
+petición de parte, por razón justificada y circunstancias extraordinarias, el
+Oficial Examinador podrá conceder una prórroga no mayor de noventa (90)
+días para concluir la demolición y limpieza. Al concluir el término antes
+dispuesto, el Municipio podrá proceder a su costo con las labores de
+demolición y limpieza, anotando en el Registro de la Propiedad
+correspondiente un gravamen por la cantidad de dinero utilizada en tal
+gestión o mediante certificación expedida por el Municipio, se determinará la
+cantidad de los gastos incurridos por el Municipio en tal gestión, a los fines
+de deducirlos contra la justa compensación, a no ser que el propietario,
+poseedor o persona con interés en la propiedad le reembolse al Municipio
+dicha cantidad. La certificación de gastos expedida por el Municipio será un
+elemento a considerar de forma prioritaria durante la etapa de distribución de
+los fondos consignados.”
+Sección 18. – Se enmienda el Artículo 4.010 y los incisos (a), (d) y (e), y se añaden los
+incisos (f) y (g) del referido Artículo 4.010 de la Ley 107-2020, según enmendada, para
+que lea como sigue:
+“Artículo 4.010 — Declaración de Estorbo Público
+Cuando el propietario, poseedor o persona con interés sea notificado
+conforme a lo dispuesto en el Artículo 4.008 de este Código, y no compareciere en
+forma alguna a oponerse a la identificación de la propiedad como estorbo público; o
+luego de expedida una orden a tenor con lo dispuesto en el inciso (b) o el inciso (c)
+del Artículo 4.009 de este Código no cumpliere con la misma, el Municipio podrá
+17
+declarar la propiedad como estorbo público y notificará la declaración final al
+propietario, poseedor o persona con interés a la última dirección conocida que obre
+en el expediente del caso.
+Una vez emitida una declaración de estorbo público sobre una propiedad
+inmueble, si el propietario no realiza o cumple con la orden expedida, según lo antes
+dispuesto, dentro del término de treinta (30) días a partir de la notificación de la
+declaración, el Municipio-teniendo entonces la facultad primaria sobre esa
+propiedad a tenor con el Artículo 1.008 de este Código- podrá realizar las obras
+necesarias para asegurar la salud y seguridad del público en general. Para fines de
+este Artículo, obras necesarias son aquellas de reparación, limpieza, mantenimiento
+o demolición que haya determinado pertinentes el Oficial Examinador en la orden
+emitida cuando se haya solicitado vista en oposición a la declaración de estorbo
+público al amparo del Artículo 4.009 de esta Ley o de no haberse solicitado dicha
+vista serán aquellas que mediante evaluación del Municipio eliminen la condición
+nociva o perjudicial de la propiedad para asegurar la salud y seguridad de vecinos y
+ciudadanos. Además, tendrá derecho a reclamar por todos los gastos incurridos en
+dicha gestión. Los gastos incurridos y no recobrados por el Municipio en la gestión
+de limpieza o eliminación de la condición nociva o perjudicial constituirán un
+gravamen sobre la propiedad equivalente a una hipoteca legal tácita, según definido
+en las distintas leyes de Puerto Rico, subordinado únicamente en carácter de
+prioridad al gravamen de contribuciones adeudadas sobre la propiedad inmueble
+dispuesto en este Código o mediante certificación expedida por el Municipio, se
+determinará la cantidad de los gastos incurridos por el Municipio en tal gestión, a
+los fines de deducirlos contra la justa compensación. Este gravamen en favor del
+Municipio por gastos incurridos, se hará constar mediante instancia en el Registro
+de la Propiedad. En aquellos casos en que el Municipio haya realizado las labores de
+limpieza o realizado la eliminación de la condición nociva o perjudicial se le
+impondrá una multa trimestral al titular, a ser pagada al Municipio donde esté
+situada la propiedad inmueble, la cual será no menor de mil (1,000) dólares ni
+mayor de cinco mil (5,000) dólares. De la misma manera, a los titulares que incurran
+en un patrón de dejadez y sus propiedades recaigan en condición de estorbo
+público, se le impondrán las siguientes multas. Se multará por la primera
+reincidencia no menos de mil (1,000) dólares, pero nunca más de mil quinientos
+(1,500) dólares. En caso de una segunda reincidencia la multa no será menor de dos
+mil (2,000) dólares, ni mayor de tres mil quinientos (3,500). Por cada reincidencia
+adicional se impondrá una multa fija de cinco mil (5,000) dólares. Dicha multa se
+podrá establecer por cada bien inmueble a nombre del titular a quien se le haya
+hecho la correspondiente notificación y requerimiento de acción. Esta multa será
+adicional al costo que conlleve la limpieza, y de no efectuar el pago correspondiente
+dentro del término de sesenta (60) días de haber sido debidamente solicitado y
+notificado por el Municipio, tal monto se incluirá dentro del gravamen hipotecario
+tácito que gravará la titularidad del inmueble correspondiente. Dichos gastos y
+multas podrán ser incluidas en la demanda expropiación, si el Municipio así lo
+18
+desea. Las multas impuestas serán pagadas al Municipio donde esté ubicada la
+propiedad inmueble. Si dentro del término de sesenta (60) días de haberse realizado
+la última gestión de cobro, incluyendo las de localización o notificación a la última
+dirección del dueño, estas resultaren infructuosas, el Municipio podrá presentar la
+acción judicial que corresponda para la ejecución de la propiedad y su venta en
+pública subasta conforme a lo establecido en las Reglas de Procedimiento Civil de
+2009, según enmendadas.
+La declaración de estorbo público tendrá los siguientes efectos:
+(a) El Municipio podrá establecer la rotulación oficial del inmueble declarado
+como estorbo público y colocar en el inmueble la rotulación que indique que
+la propiedad ha sido declarada como estorbo público.
+…
+(d) El Municipio podrá expropiar el inmueble por motivo de utilidad pública,
+vivienda asequible o conforme a las disposiciones del procedimiento sumario
+aquí establecido. El Municipio, también podrá embargar, gravar y ejecutar la
+propiedad conforme a los Artículos 7.072 y 7.073 de este Código. Cuando el
+inmueble objeto de expropiación tenga deudas, intereses, recargos o
+penalidades con el Centro de Recaudación de Ingresos Municipales sobre la
+contribución a la propiedad se le restará la cantidad adeudada al valor de
+tasación al momento de calcular la justa compensación. Una vez se le
+transfiera la titularidad al Municipio, toda deuda, intereses, recargo o
+penalidades con el Centro de Recaudación de Ingresos Municipales será
+cancelada en su totalidad. Así también, se descontará la cantidad adeudada
+por concepto de multas y los gastos de limpieza y de mantenimiento de la
+propiedad, en que el Municipio haya incurrido al valor de la justa
+compensación. Una vez se le transfiera la titularidad al Municipio, en los
+casos que dicha expropiación sea por motivo de utilidad pública o vivienda
+asequible, toda deuda, intereses, recargo o penalidades de contribuciones
+sobre la propiedad con el Centro de Recaudación de Ingresos Municipales
+será cancelada en su totalidad.
+(e) Cuando un inmueble declarado estorbo público no tenga titular o dueño vivo
+alguno ni heredero(s) aplicarán las disposiciones respecto a la herencia ab
+intestato del Código Civil. Sin embargo, la propiedad inmueble declarada
+estorbo público conforme a esté Código, como legislación especial aplicable,
+se adjudicará la titularidad al Gobierno Municipal en cuya jurisdicción esté
+sito el inmueble;. Cuando el inmueble tenga heredero(s), pero hayan pasado
+más de tres (3) años, luego de haber sido declarado estorbo público, sin ser
+reclamado, el mismo será adjudicado al Municipio donde esté sito, mediante
+mandamiento judicial. A tales efectos, el Municipio presentará una petición
+ex parte en el Tribunal de Primera Instancia con competencia, e incluirá la
+prueba de que se hicieron las debidas notificaciones a la última dirección
+19
+conocida de la persona o personas con derecho hereditario sobre la
+propiedad. El Inventario de Propiedades Declaradas Estorbo Público
+identificará las propiedades inmuebles que sean adjudicadas a los municipios
+al amparo de este inciso. Los municipios podrán vender, ceder, donar o
+arrendar estas propiedades conforme lo establece este Código.
+(f) En los casos de un inmueble declarado estorbo público al que no compareció
+ningún titular ni persona alguna con un derecho real sobre la propiedad a
+oponerse a la declaración y haya pasado más de un (1) año, luego de haber
+sido declarado estorbo público, sin ser reclamado, el mismo será adjudicado
+al Municipio donde esté sito, mediante mandamiento judicial. A tales efectos,
+el Municipio presentará una petición ex parte en el Tribunal de Primera
+Instancia con competencia, e incluirá la prueba de que se realizó la debida
+notificación a “persona desconocida”, mediante la publicación de un aviso en
+un (1) periódico impreso de circulación general o regional y uno (1) digital de
+conformidad con las ordenanzas del Municipio y sin que medie orden judicial
+previa. El Municipio deberá comprobar a satisfacción del tribunal, mediante
+una declaración jurada la cual indique y detalle las gestiones realizadas para
+dar con el paradero de las personas con interés, y que no se pudo localizar a
+la persona desconocida, luego de realizadas las diligencias pertinentes.
+(g) Para fines de este Artículo no se considerará un estorbo público la estructura
+ocupada como residencia principal de un poseedor que ejerce dominio sobre
+la propiedad.”
+Sección 19. – Se enmienda el inciso (b) del Artículo 4.011 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 4.011 — Inventario de Propiedades Declaradas como Estorbo
+Público
+Cuando el Municipio no fuere a expropiar inmuebles declarados como
+estorbo público, por motivos de utilidad pública, procederá a preparar un Inventario
+de Propiedades Declaradas como Estorbo Público, que incluirá la siguiente
+información:
+(a) Localización física de la propiedad.
+(b) Descripción registral, de estar inscrita en el Registro de la Propiedad.
+(c) Número de Catastro.
+…”
+Sección 20. – Se enmienda el Artículo 4.012 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 4.012 — Intención de Adquirir; Expropiación
+20
+Las propiedades incluidas en el Inventario de Propiedades Declaradas como
+Estorbo Publico podrán ser objeto de expropiación y adquisición por el Municipio,
+para su posterior transferencia a toda persona que esté en disposición de adquirirla
+para su rehabilitación, reconstrucción, restauración, demolición o para hacer una
+nueva edificación. Para ello, el Municipio tendrá que adquirir la propiedad, ya sea por
+compraventa o sujetándose al procedimiento de expropiación forzosa, mediante el cual
+viene obligado a pagar al titular el justo valor de la propiedad en los casos que así
+aplique. A los efectos, se observará el siguiente procedimiento:
+(a) El solicitante-adquiriente le notificará al Municipio de su intención de
+adquirir el inmueble de que se trate.
+(b) El solicitante-adquiriente le suministrará al Municipio una suma de dinero
+equivalente al valor establecido en el informe de tasación, más una suma
+equivalente al diez por ciento (10%) del valor de tasación, para las costas y
+honorarios del procedimiento, incluyendo estudio de título, reembolso al
+Municipio del costo de la tasación, emplazamiento, gastos notariales e
+inscripción de título en el Registro de la Propiedad, previo a formalizar un
+contrato con el Municipio para la expropiación del estorbo y donde se
+establezca el compromiso de adquirir la propiedad a expropiarse. El
+solicitante-adquirente vendrá obligado a cubrir cualquier suma adicional que
+se requiera por el Tribunal de Primera Instancia como justa compensación.
+Cualesquiera sumas no utilizadas le serán devueltas al solicitante-adquiriente
+cuando concluyan los procedimientos. El solicitante-adquiriente será
+responsable de pagar aquellas sanciones y penalidades que imponga el
+Tribunal como consecuencia de su falta de cooperación a falta de proveer los
+fondos necesarios para cubrir la justa compensación, costas, y cualquier otro
+gasto del litigio necesario para el trámite del caso.
+(c) Con anterioridad al inicio de los procedimientos de expropiación forzosa por
+parte del Municipio de la propiedad declarada estorbo público, el solicitante-
+adquirente proveerá al Municipio los fondos necesarios para el pago del valor
+de la propiedad en el mercado, según la tasación del Municipio, más una
+suma equivalente al diez por ciento (10%) del valor de tasación. Cualquier
+gasto que exceda ese monto deberá ser facturado al solicitante-adquirente por
+el Municipio.
+(d) De no ser suficiente la cantidad suministrada por el solicitante-adquiriente
+para cubrir el justo valor de la propiedad, intereses, las costas y honorarios
+del procedimiento, incluyendo estudio de título, emplazamiento, gastos
+notariales e inscripción de título en el Registro de la Propiedad, así como para
+cubrir cualquier suma adicional que se requiera por el Tribunal de Primera
+Instancia como justa compensación, será responsabilidad del solicitante-
+adquiriente el suministrar al Municipio la suma de dinero para cubrir la
+diferencia. El Municipio no realizará el traspaso de la titularidad de la
+21
+propiedad al solicitante-adquiriente hasta que este no salde cualquier suma
+que adeude por motivo del proceso. El Municipio estará facultado por
+disposición de este Código de realizar las acciones de cobro pertinentes
+contra el solicitante-adquiriente y anotarle embargo contra sus bienes.
+(e) El solicitante-adquiriente será responsable de cubrir cualquier cantidad que se
+imponga como justa compensación, intereses, costas, penalidades, sanciones,
+gastos del litigio y honorarios de abogados en aquellos casos que decida
+desistir de la expropiación estando el caso ya presentado. De igual forma,
+será responsabilidad del solicitante-adquiriente el cubrir cualquier cantidad
+que se imponga como justa compensación, intereses, costas, penalidades,
+sanciones, gastos del litigio y honorarios de abogados en aquellos casos que
+por falta de su cooperación o por falta de proveer los fondos el Municipio
+tenga que desistir del pleito de expropiación o el Tribunal desestime el
+mismo.
+(f) La demanda de expropiación se presentará por el Municipio de conformidad
+con las disposiciones de la Regla 58 de Procedimiento Civil de 2009, según
+enmendada. El pleito judicial, desde la contestación a la demanda o la
+anotación en rebeldía, en caso de no contestar la demanda en el tiempo
+estipulado por las Reglas de Procedimiento Civil, hasta la resolución en sus
+méritos, no podrá exceder de un (1) año.
+(g) Luego de dictarse sentencia, el Municipio transferirá la titularidad del
+inmueble objeto del procedimiento, al solicitante-adquiriente”.
+Sección 21. – Se enmienda el Artículo 4.012A y los incisos (f) y (g) de la Ley 107-2020,
+según enmendada, para que lea como sigue:
+“Artículo 4.012A — Procedimiento de Expropiación Sumario
+Se establece un procedimiento sumario de expropiación en los casos que el
+Municipio interese expropiar inmuebles declarados como estorbo público de manera
+sumaria, a tales efectos:
+(a) …
+…
+(f) El Municipio no vendrá obligado a consignar dinero alguno sobre la
+expropiación al radicar la demanda, según lo dispuesto en el Artículo 2.018 de
+este Código. Dicha obligación comenzará al momento en que el o los
+demandados comparezcan al tribunal mediante las alegaciones responsivas
+contenidas en su contestación a la demanda. En caso de que el demandado
+comparezca al procedimiento, el Municipio solo podrá descontar de la justa
+compensación que debe consignar, la cantidad adeudada de contribuciones sobre
+la propiedad y la cantidad adeudada por concepto de multas y los gastos de
+22
+limpieza y de mantenimiento de la propiedad, en que el Municipio haya
+incurrido, según lo dispuesto en el Artículo 4.010 de este Código.
+(g) Una vez el tribunal emita una sentencia estableciendo en ella la justa
+compensación, cualquier persona que tenga derecho a esta, tendrá tres (3) años
+para reclamarla. Transcurrido dicho término la acción para reclamar la cuantía
+determinada por el tribunal estará prescrito.
+El Municipio, mediante ordenanza municipal aprobada por la Legislatura
+Municipal y firmada por el alcalde, podrá adoptar aquellos requisitos y normas para
+la transferencia o venta de las propiedades adquiridas por compra o mediante el
+procedimiento sumario de expropiación aquí establecido, cuando se trate de
+propiedades edificadas que puedan ser rehabilitadas como residencias. A estos
+fines, el Municipio deberá considerar como primera opción, cuando existan
+ciudadanos interesados, a personas cuya oportunidad de adquirir una propiedad
+estén limitadas en los procesos del mercado tradicional. No se utilizará el
+mecanismo sumario de expropiación aquí establecido, para beneficiar a terceros
+adquirientes, incluyendo aquellos que sean reconocidos como inversionistas del
+mercado inmobiliario. Se considerará un tercero adquiriente quien no ostenta el
+derecho legítimo de propiedad, como sería un heredero o dueño registral. A modo
+de excepción, durante el primer año del Municipio haber declarado la propiedad
+estorbo público, según la ordenanza aprobada conforme a este Artículo, las personas
+cuyas oportunidades de adquirir una propiedad estén limitadas en los procesos del
+mercado tradicional, no se considerarán terceros adquirientes. Para ello, se
+concederá el término de un (1) año al ciudadano interesado, para que pueda
+asegurar los fondos, ayudas o cualquier otro método disponible para satisfacer la
+justa compensación y gastos asociados al proceso de expropiación forzosa. Se podrá
+conceder un término adicional de seis (6) meses. Transcurrido la totalidad del
+término, sin que se haya concretado dicha compra, el Municipio podrá vender la
+misma a terceros adquirientes, incluyendo inversionistas del mercado inmobiliario.
+De igual modo, de haber transcurrido un (1) año desde que la propiedad fue
+declarada estorbo público e incluida en el inventario de propiedades declaradas
+como tal, sin que persona alguna haya demostrado interés en adquirir la misma, el
+Municipio podrá disponer de esta, conforme a las disposiciones de este Artículo.”
+Sección 22. Se enmienda el Artículo 4.014 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 4.014- Retracto Convencional
+Cuando el adquirente, durante el año contado a partir de la transferencia de
+la titularidad del inmueble, no haya realizado la rehabilitación, reconstrucción,
+restauración o demolición de la propiedad adquirida, el Municipio podrá ejercer la
+acción de retracto convencional, de conformidad con lo dispuesto en el Código Civil de
+Puerto Rico.”
+23
+Sección 23. Se enmienda el Artículo 6.007 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 6.007-Plan Territorial
+…
+(a) …
+(b) …
+(c) …
+…
+Dentro del suelo rústico del Plan Territorial cumplirá, entre otros, con lo
+siguiente:
+(1) …
+(2) Suelo rústico especialmente protegido. — Es aquel no contemplado
+para uso urbano o urbanizable en un Plan Territorial, y que por su especial
+ubicación, topografía, valor estético, arqueológico o ecológico, recursos
+naturales únicos u otros atributos, se identifica como un terreno que no
+deberá utilizarse como suelo urbano a menos que la Junta de Planificación
+de Puerto Rico determine que cumple con al menos uno de los siguientes
+requisitos:
+i. Se trate de proyectos designados por el Municipio o como
+estratégicos, prioritarios, o de infraestructura crítica; y/o que
+cumplan con los criterios de designación de proyectos críticos bajo la
+Sección 503 de la “Ley de Supervisión, Administración y Estabilidad
+Económica de Puerto Rico” (PROMESA, por sus siglas en inglés),
+y/o de proyectos declarados como estratégicos, según la Ley 19-2017,
+según enmendada, conocida como “Ley para Simplificar y
+Transformar el Proceso de Permisos de 2017”, pues esa designación
+por parte del Estado de por sí demuestra que su incorporación al
+desarrollo urbano responde a necesidades estratégicas que
+promueven el desarrollo económico o el bien común;
+ii. Se justifique mediante estudios técnicos y ambientales que
+demuestren que dicho desarrollo es compatible con la conservación
+del entorno;
+iii. Que el proyecto en cuestión identifique, incorpore o mitigue en
+su plan de desarrollo la protección y conservación de aquellas
+características especiales por las cuales dicho terreno ha sido
+identificado como suelo rústico especialmente protegido; o
+iv. Que el plan de desarrollo aprobado para el proyecto en cuestión
+incluya un sistema de generación de energía eléctrica sujeto a las
+24
+disposiciones del Reglamento Núm. 9028 de 2018 del Negociado de
+Energía de Puerto Rico, conocido como “Reglamento para el
+Desarrollo de Microrredes” o cualquier reglamento sucesor.
+(d) El Plan Territorial no establecerá ninguna clasificación de uso de terrenos
+que impida todo uso de la propiedad sin previa notificación y compensación
+al titular o titulares de dicha propiedad.
+(e) Toda solicitud de paralización siempre requerirá el pago de fianza, cuya
+cantidad nunca será menor del diez por ciento (10%) del valor del proyecto
+propuesto, según surja de cualquier autorización del desarrollo emitida por la
+agencia competente. El requisito mandatorio de fianza aquí dispuesto, y el
+monto mínimo establecido por la misma, será de aplicación a todo
+procedimiento judicial o administrativo y regirá con carácter de especialidad
+sobre cualquier otra disposición relacionada a procedimientos o solicitudes
+de remedios provisionales, recursos extraordinarios, tales como entredichos
+provisionales, injunction preliminar y/o permanente, órdenes de cese y
+desista, o cualesquiera otros, que tengan como finalidad la obtención de una
+orden de paralización de una construcción o proyecto autorizado por la
+agencia competente.”
+Sección 24. – Se enmienda el Artículo 6.016 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 6.016 — Oficina de Ordenación Territorial; Oficina de Permisos y
+Reglamentos Internos
+El Municipio, previo o durante la elaboración de un Plan de Ordenación,
+creará una Oficina de Ordenación Territorial, cuyas funciones, serán, sin que se
+entienda una limitación, las siguientes:
+(a) …
+…
+La Oficina de Ordenación Territorial será dirigida por un Director nombrado
+por el alcalde y confirmado por la Legislatura Municipal. Dicho Director será un
+planificador licenciado conforme a la Ley 160-1996, según enmendada, conocida
+como “Ley para Reglamentar la Profesión de Planificador en Puerto Rico” o que
+posea un grado de maestría en planificación y cinco (5) años de experiencia en el
+campo de la planificación. El Municipio revisará su organigrama administrativo
+para ubicar estas oficinas y coordinar su funcionamiento con otras oficinas de
+planificación, existentes o de futura creación.
+El alcalde podrá enviar a la Legislatura Municipal un nombramiento como
+empleado de confianza, o bajo un contrato por servicios profesionales, para cubrir
+dicho puesto. En ambos casos, el Director no podrá intervenir en ninguna
+evaluación, cuyo proyecto, endoso o cualquier instancia que concierna al Plan de
+25
+Ordenamiento Territorial el cual represente un conflicto de intereses, ya sea porque
+posea intereses económicos o personales, o los posea algún miembro de su familia
+hasta el tercer grado de consanguineidad o segundo de afinidad. En los casos bajo
+servicios profesionales, se pueden establecer a través de una corporación, siempre y
+cuando la persona que brinde el servicio directo al Municipio tenga todas las
+credenciales y sea la que firme los documentos pertinentes.
+…
+La Oficina de Permisos será dirigida por el Oficial de Permisos, quien será
+una persona de reconocida capacidad, conocimiento y con más de cinco (5) años de
+experiencia en el área de permisos. El mismo será nombrado por el alcalde y
+confirmado por la Legislatura Municipal.
+… “
+Sección 25. – Se enmienda el Artículo 7.200 para añadir un nuevo inciso (k) de la Ley
+107-2020, según enmendada, para que lea como sigue:
+“Artículo 7.200 — Volumen de Negocios
+(a) …
+…
+(k) Contratos Municipales - el volumen de negocios proveniente de contratos
+municipales por la prestación de cualquier servicio o por la venta de cualquier bien,
+cual se considerará ingreso bruto de industria o negocio del Municipio contratante,
+independiente del Municipio donde el contratista mantenga oficina, sucursal,
+almacén o lugar de negocios, el contratista municipal que no mantenga presencia
+física en el Municipio a través de oficina, sucursal, almacén o lugar de negocios,
+deberá adquirir una patente provisional en el Municipio que se trate, pagando la
+patente municipal correspondiente computada sobre el volumen de negocio a ser
+generado por el contrato municipal. El pago de esta patente municipal se realizará
+dentro del término dispuesto para el registro del contrato municipal en la Oficina
+del Contralor de Puerto Rico, en cumplimiento con la Ley Núm. 18 de 30 de octubre
+de 1975, según enmendada, sin que sea necesario requerir al contribuyente
+documento adicional alguno, que no sea acreditar el contrato municipal otorgado y
+para el cual no tendrá que expedirse el certificado de patente, conforme se dispone
+en el Artículo 7.209 de este Código. La cantidad pagada por la patente municipal en
+virtud de este inciso será deducida y acreditada contra el monto total a pagar por
+concepto de patente basado en la declaración de volumen de negocio a ser radicada,
+de acuerdo a lo establecido en los Artículos 7.207 y 7.208 de este Código. El
+Municipio emitirá un recibo de pago que será evidencia para la deducción a la que
+se refiere el inciso (h).
+Sección 26. – Se enmienda el Artículo 8.001 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+26
+“Artículo 8.001 — Definiciones
+Los términos utilizados en este Código tendrán los significados que a
+continuación se expresa, excepto donde el contexto claramente indique otra
+definición; los términos en singular incluyen el plural y en la acepción masculina se
+incluye la femenina:
+
+Section 5:
+1. …
+…
+
+Section 6:
+98. Estorbo Público: Cualquier estructura abandonada o solar abandonado,
+yermo o baldío que es inadecuada para ser habitada o utilizada por seres
+humanos, por estar en condiciones de ruina, falta de reparación, defectos de
+construcción, o que es perjudicial a la salud o seguridad del público. Dichas
+condiciones pueden incluir, pero sin limitarse a, las siguientes: defectos en la
+estructura que aumentan los riesgos de incendios o accidentes; depósito de
+chatarras o escombros, falta de adecuada ventilación o facilidades sanitarias;
+falta de energía eléctrica o agua potable; y falta de limpieza.
+…
+
+Section 7:
+171. Obligaciones Estatutarias: Serán aquellas deudas vencidas, líquidas y
+exigibles del Municipio, incluyendo deudas con el Centro de Recaudación de
+Ingresos Municipales o deudas con cualquier entidad gubernamental o
+corporaciones públicas. A estos fines, se incluyen las siguientes: intereses,
+amortizaciones y retiro de la deuda pública municipal; otros gastos y
+obligaciones que la Ley exija su prelación y cumplimiento; el pago de las
+sentencias finales de los tribunales de justicia; la cantidad que fuere necesaria
+para cubrir cualquier déficit del año fiscal anterior; los gastos a que esté
+legalmente obligado el Municipio por contratos ya celebrados; gastos de
+utilidades y servicios públicos; los gastos u obligaciones cuya inclusión se
+exige en este Código.
+
+Section 8:
+172. …
+…”
+Sección 27. – Separabilidad
+Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+disposición, sección, subsección, título, capítulo, subcapítulo, acápite, o parte de esta
+Ley fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+de dicha resolución, dictamen o sentencia quedará limitado a la cláusula, párrafo,
+subpárrafo, oración, palabra, letra, artículo, disposición, sección, subsección, título,
+capítulo, subcapítulo, acápite, o parte de esta Ley que así hubiere sido anulada o
+declarada inconstitucional.
+27
+Sección 28. – Vigencia
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:  a e a d l f m p a o a d e p y f l m p m f a l a r a m d t e e h u n m d m e a l d d T o a O d P m d d l a e a d l n c c a l L 2 d i s c p f l r d y c d p c a l p m s m m l d d “ P y L 1 s e c c “ M d t l r a l o g a y d l m d P R A d a l l , t l o y r m A e f n C M s c e i t l l e y a f d l g m E p e q l]
+[DELETED:  , d a p y f n p q p a s m m e C M p l m a y p c c e i p e p a l c d u e y r a s n y a A c l d C M s r q l m s l e m c a p y e m i d s n y d a m y q h p v a d l y p e v l L 1 , a l f d c a l m p l e e d s d y p q d l l m q p s a c e q l p b d n o e q l m n C t i e l S 7 A I u a q e e a l L M E m c c e n E p d “ h u v d d l c d l e s e e m , .os]
+[DELETED:  c c e c a l c d l s l e n r l d d A 2 d C u e M p n a u f b e p d d l O d A I q c s e e d f d p p i m p d y p a d d l f m a o p s d a a y e l f y q t e b d l i d p y e l a m y a s v q e p d A o n p l m p d i y e p c e p e c l y e e e A 24e l q s d q u a i h s r s d . s a v a i a C M e d l L 1 s p d c e p e e l r d l c y v e e o f p q l p d c e p p s]
+[DELETED:  d y c n o d v a y d D i f s a e p e l c d o y b e n p s d p c q d s l e d d l p e n a l d d A 6 s f O d O T y d O d P c D d l 7 y 7 d l L 1 s e E l a d d e s e q e v p d m s c i b d i o n d c i d M d e c m i ( p e l a p d p m q d p a f d l m l p e a s a l f t m c s i l a y q n s i c l l i d G t l a e e A L e n y a c d a l r L c p d n y e d p h n a l m p l e d s d y p q c o l s d]
+[DELETED:  m t l p n y c q l c C o e c o l l m t l s v u p e d e p e M p a e e g y e c p e p p e c d s l p g a o g r a l d d p y g r a m d s c d e a d c d l j c P a e m e d n a C s s i d a a d c o o d e e C y o E a s n m t d 1 d n d c a u d a f p E a p a s d p d e a p E s r a e S d l L c c s p c m d d C y e p e p e l p c d m y d f]
+[DELETED:  p e P d E U e a t c y c ( d c a p d d 1 d n p s e i 3 S e e A 1 d l L 1 s e f l q p e C s c a l m e p u L M L L d c u d l                      L d l C C d S J e i h u l e d M a q c e c e g p u d c ( a c a p d s l d e d a y n ( c a l L M c c h u d d ( c ( y d ( m r q p l C C d S J p p h u ( c ( y c ( q h o l m c d v]
+[DELETED:  s e p e v d s u e o e q a e l c d q l t ( o ( n ( c ( y c ( p d u m p r e p e v d l d ( p p c a q p l m d l M y u ( d p q l t E e c d e L M a q s d e s d s e l v p L M E e c l M q c p e n m d p e l c d p d a h a p d y q n h s e p e v d e e p q l M p s r e l t d l cah d c a s p c a e C a c u d l)L d m a d ( q h o m v e e)E l m o m c d v s u e o e q]
+[DELETED: )S a s e e l c q h o C E d E a l m n p d l L M a q h r e A n c a 2 L d d S d E r p l e q s c d d c r E S l n a l E d E d d y s h p p)S c e v d d t ( p d s m a l i d l S O p u p q n c ( d d S E l L M p l S O p e n d d q c s … a v o a r e l S d l L e P d R d P d M l e e e A 1 d e C a d]
+[DELETED:  o a d p l e e C E M l L M l e y a s l e C d l p S O E p d y a d l r d p p c c e d y d f p e t cod,cs c a i d c a y g e D d l O d A I t l s]
+[DELETED:  A a a e l a e i d m y d g d r c y d y p h l n m y l n a s l D u p m d a p y d a e e d r i l u d l f y a p e M i l s d D s a l p d a c i p e a f d e l l y a y a l g m p p l A a a e e d d e p n yP s p e p dlA I d p u g d e A d E c e e c oai,p  d a q g d b r e l c y r a q s d e e p d c d psq a l.E A I s n p e a y s n e a l d s r y s q s e e e E a y r e m d p f y d e y p d c i y d c o d e e C o e c o l e A…]
+[DELETED:  s n p l a c l a p y oáe,y p i e sua o e s r aea s p s a t c q s e o s e M p c l s p t y p r l a p y o a c p c c c f p a b e e v r q t e e m l s a L f d l h s h d d u m d)L]
+[DELETED: )P)…)I r l P d E j a l a e C y a l R 5 d l R d C d P R e T e e u e y t p d c c y a p e u d M q h q i e l p o p a q c b l c l p d l b E l e d p d.U p r l c d p e t e 2 — A a l m p A o V a a l m a a u b i p e e r p d c d t y u a l J d s q d i e u d d l j y]
+[DELETED:  a s p d u p d p e  M c d p c b l S 5 d l “ d S c c “ p S y T e P d i f l v d b i o s p f u p d h a o i d s e M p d p d c r o d e m a c e m e m c m c b e C y a o p p u t n m d d ( m e p d s y d t l b d s p o d d o p e s f o f a a l d s e o M e m o a p a d l n d l e d o y l a n d l c m c b e C s s r l pnd l a n d l e m o d l J d,a c e c d e a d E p p d d d m g d t o c o]
+[DELETED:  n a t d r c e y c d c d p y e e u p d t e l d ( m a a l f d c d l g y h e s l d m d e s a d u c. d l e c a l r q a  L j  N o m a e e e e y l a d t d e y n l d l q ( h d t s e p e M,e s d d d e c d s a l d e e A 2 ( t d a r l d e d a l e q r f d n]
+[DELETED:  e m q e d n a o s e c c “ d l A d E d L A d P R d 2 A a c s d o r p e d G d P R v p a a s d r a p e G d E L d P R d f v u o E d t s c o d a a l s d p o s p e e l i u o d l s n e o s i d g o o s p i p o r o p s v d v,n C A d s o p y r l m)L m M o m u c d s p r l f d p l i d l p p m d m q]
+[DELETED:  M n c c u i l o c u a l q n e s d s r s o s d y d p p r j y c e e p c l d y l A c e t a e M p p a s c c l l d y l a e e R d l P u g p l c d d u e t d c l j c a n s q e p o p c i e l p l r a M e p p o p c i s n]
+[DELETED:  l p c e poy n l d f a v e u d d e p s u p e M e l f p s e a t c e A 1 d e C p r l o c s h s v e o a l d d e l o e d l c n o p c u l d l d P R s ú e c d e e C o m c e p e M s f d d c l j c E g e f d o r l e d l c n o p s l u m t a t a s p a M d e l p i l c s n m d m ( d n u p d d y s p r e c d e s l i l s m S m p l p n m d m ( d p n m d m q e p c b i a n d t a q s l h l c n y r d a E m s d t d s ( d d h s d s y q g l t d i c D g y p s i e l d e s e M a l]
+[DELETED:  L m i s p a M d e u l j q c p l e d l p y s v e)E M p e l r o d i d o d e t d i r o a l p s l r l c a a v d a m d c l j c U v s l l t a M t d i r o c e C d R d I M s e q e M h ioa v d l j U v s l t l t a M e l t d i r o p d c l p c e C d R d I M)C n h a l d r a l had C C S e l p i d d q s h l d n a l ú d]
+[DELETED:  d l p o p c d h s l E I d P D E P a d e i L m p v c d o M p u p e p e e T d P 4 — I d P D c E e M n f a e i d c P D c E P q i l s]
+[DELETED:  P p s o d e y a p e M s r r r d o p h u E s l n a M d s i d a v e e e i d t m u s d p i e d t r a d c d l t e g n e c e M p l e d eod sy e c d a l p a e E c l p E s s d p a s y p q i e l p e e m s l t d M m u p i e d t e g c j c s r d s e s a M l s d d p c l E M n r e t d l t d l]
+[DELETED:  a p m d p E Moe f p d e C d r l a d c p d l y h d a e a c q d s i c j c i c p q d d p d e o e T d e L E p j d l c a l d o l e r e c d n c l d e e t L d d s e M t l t d)…)E M n v o a c d a s l C D o c a m e q e o l c a t m l a r e s c a l d E c d q e d a p e M s p d d l j p y l c a p c d m y l g d]
+[DELETED:  y d m d l p e q e M h)U v e t e u s e e e l ját M m o m a p l L s d e a e c s t d e q p s r c r A e e M d c c p o c e i a p c o d a u p l e l p d m t N s u e s d e a e p b a t i a q s r c i d i S c u t a q n o e h t n s c t a P e s e t d u ( a a c i p q p u t a d s ( m T l t d p i m d h t u ( a d q l p f e p e i e e i d p d 2 S e e A 4 d l L 1 s e-R t d i n h r l r r o d d l p a e M p e l]
+[DELETED:  2 S e e A 6 d l L 1 s e … S r e p — E a n c t v e a o e r ú u o a s i c u t q n S t d p d p e M o c p o d i c y q d P R ( p s s e i e c c “ p S y p d E d p s d q s i a u r a n e q S j m e t y a q p d d l p y c d a e p l c d t h s u s d g d e e s a l]
+[DELETED:  d P R c c “ p e m e p l m s d a a t i p y p ó d c y d p d u c o p a p l M p o d l e d u P d O u O d O T c f s s q s e a y c p l L M D D s u l c a l L 1 s e c “ p R l P d P e P R o q d l p E M r s o a u e o y c s f c o o d p E a c e D n p i e n]
+[DELETED:  l p q b e s d a M t t l e e á d p E m s n p e a y C M - e v d n p d csl d M d e c m o s e e M a t d o s a o l d n 1 s e s q s n r a c a a l e e l A 7 y 7 d e C E]
+[DELETED:  t u e e C t l s q a s e e d e c c i o.… E P C e a o s a o b q e i p s h o u p s.O E S a d v l y M o d c c e g o p A e f s i l s i y r d l d p m o g y q l L e s p y c e p d l c c d d a f a l g a q e o e M p c y c g d y s p l g u o c i s c c p s o p l a s s t c s a o p d e d r d o s q l a l c p o p l a d s s t s a o p d e L q a h s a o]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 777)
+LEY
+Para enmendar la Ley 107-2020, según enmendada, conocida como “Código Municipal
+de Puerto Rico” en sus Artículos 1.008 (h); 1.019 (j); 1.020; 1.022; 1.037 (a) y (b); 1.053;
+2.006; 2.014 y para añadir un nuevo inciso (d); 2.018 (a)(10); 2.019; 2.050; 2.055; 2.059;
+2.061; 2.085; 3.042 (36); 4.009 (c); 4.010 y los incisos (a), (d) y (e) y para añadir dos
+nuevos incisos (f) y (g); 4.011 (b); 4.012; 4.012A y los incisos (f) y (g); 4.014; 6.007;
+6.016; 7.200 para añadir un nuevo inciso (k); y 8.001; a los fines de añadir enmiendas
+técnicas; aclarar el alcance de la facultad municipal para adquirir o aceptar
+propiedades declaradas estorbo público y fortalecer los mecanismos procesales;
+conceder mayor flexibilidad a los alcaldes respecto al manejo del tiempo en el
+sometimiento de informes; aclarar que la Legislatura Municipal podrá componerse
+de hasta un número máximo de miembros elegibles; aclarar las definiciones de
+sesiones ordinarias y sesiones extraordinarias; incorporar al Director de la Oficina de
+Ordenación Territorial o al Oficial de Permisos municipal dentro de las
+disposiciones de inmunidad; crear el puesto de Director de la Unidad de Auditoría
+Interna; aclarar el alcance de la nulidad contractual conforme a la Ley 215-2024;
+aclarar la no obligación de consignación en acciones de expropiación; autorizar la
+adquisición de inmuebles sin consulta previa; flexibilizar los requisitos del
+Coordinador de Reciclaje municipal; flexibilizar procesos de retracto, planificación
+territorial y clasificación de puestos clave; atemperar la patente municipal sobre
+contratos municipales; modificar las definiciones de “Estorbo Público” y
+“Obligaciones Estatutarias”; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 107-2020, según enmendada, conocida como “Código Municipal de
+Puerto Rico”, se aprobó con el propósito de compilar de forma sistemática, ordenada y
+actualizada toda legislación referente a la organización, gobierno, administración y
+funcionamiento de los municipios de Puerto Rico. Además, de atemperar las leyes
+vigentes que de una forma u otra impactaban la administración, y el financiamiento de
+los municipios a la realidad que estos enfrentan día a día. Como parte de la intención
+legislativa se consigna en la Exposición de Motivos de la Ley 107, supra, que ... “[t]oda la
+legislación relacionada a los municipios estaría codificada en una sola ley, facilitando el
+análisis, y estableciendo un solo ordenamiento jurídico estructurado y compilado que
+contenga todas las obligaciones y responsabilidades municipales. A esos fines,
+emprendimos el enorme reto de diseñar una legislación moderna, realista y práctica, a
+la vez que les provee autonomía fiscal y administrativa a los gobiernos municipales. En
+este nuevo Código Municipal se compila e integra todas las leyes existentes y
+vinculadas al funcionamiento de los gobiernos municipales.” Es por ello, que la
+presente legislación atiende, exclusivamente, asuntos de administración municipal.
+
+2
+La Ley 107, supra, en su Artículo 1.003 declara política pública el proveer a los
+municipios de aquellos poderes y facultades necesarias para que puedan asumir su
+función fundamental a favor del desarrollo social y económico de sus jurisdicciones. De
+la misma manera, el Código Municipal provee los mecanismos administrativos y
+fiscales para la transferencia adecuada de otros poderes y competencias del Gobierno
+estatal, procurando cumplir con el interés público en proveer a la ciudadanía de un
+gobierno efectivo y responsivo a sus necesidades y aspiraciones. Además, con la
+aprobación del Código Municipal, se reconoció que los municipios son la entidad
+gubernamental más cercana al pueblo y el mejor intérprete de sus necesidades y
+aspiraciones. En consecuencia, declara de máximo interés público que los municipios
+cuenten con los recursos necesarios para rendir sus servicios, disponiendo, por ende,
+que todas las ramas de Gobierno deberán proteger las fuentes de recursos municipales.
+No obstante, esta Asamblea Legislativa entiende que es menester atender ciertas
+disposiciones de administración municipal, ya que han pasado varios años desde la
+aprobación y puesta en vigor la Ley 107-2020, supra, a los fines de continuar
+fomentando la autonomía municipal y velar porque los procesos se lleven en armonía y
+en el mejor interés de los municipios y de los ciudadanos. Además, es necesario proveer
+herramientas a los municipios para la ejecución efectiva de sus deberes y para que
+continúen ofreciendo los servicios de primeras necesidades a los ciudadanos, así como
+hacer valer los resultados electorales por el voto directo de los constituyentes y que la
+distribución de los legisladores municipales, que puedan ser añadidos como
+representantes de minorías y que no resultaron electos por el voto directo, no trastoque
+o varíe el resultado obtenido por el partido que obtiene la mayoría del voto directo del
+electorado.
+“Sabido es que la premisa básica de nuestro ordenamiento es que la mayoría
+gobierna mediante sus representantes debidamente electos.” Silva v. Hernández Agosto,
+118 DPR 45, 69 (1986). La premisa básica de nuestro ordenamiento es que la mayoría
+gobierna mediante sus representantes debidamente electos en la Rama Legislativa. Sin
+embargo, nuestra Constitución también incorporó en la Sección 7 del Artículo III un
+innovador mecanismo para garantizar la representación efectiva de las minorías en la
+Legislatura, asunto que es extensivo a las Legislaturas Municipales. Este mecanismo
+garantiza la existencia efectiva de las minorías, elemento indispensable en un gobierno
+democrático constitucional como el nuestro. El principio de “un hombre, un voto”,
+consagrado por nuestra Constitución, no se limita solamente al proceso eleccionario. De
+nada sirve que a los ciudadanos se le garantice su derecho al voto si luego aquellos que
+fueron depositarios de la confianza de los electores son excluidos en momentos
+cruciales del proceso legislativo. (Citas omitidas). Silva v. Hernández Agosto, supra.
+Por otro lado, es necesario corregir y hacer varias enmiendas técnicas, con el fin
+de aclarar ciertas disposiciones de la derogada Ley 81-1991 y atemperarlo con la Ley
+107-2020, según enmendada, cuando el (la) alcalde (sa) convoque a la celebración de las
+Sesiones Ordinarias y Extraordinarias, ya que ciertos Artículos del Código Municipal
+
+3
+pueden crear confusión en cuanto a la celebración de las sesiones legislativas
+municipales. Además, a tenor con el estado de derecho actual, atemperar el término del
+proceso de evaluación y aprobación de la resolución de presupuesto.
+Además, es necesario revisar las disposiciones del Artículo 2.006 del Código
+Municipal en cuanto a la Unidad de Auditoría Interna a los fines de disponer que para
+dicha unidad el Municipio podrá nombrar a un funcionario bajo el puesto de
+Director(a) de la Oficina de Auditoría Interna que colabore sustancialmente en el
+proceso de formulación de política pública, implemente medidas preventivas de
+administración y previas al desembolso de los fondos municipales, asesore
+directamente, o preste servicios directos al alcalde y, establecer las funciones y
+responsabilidades que tendrá en beneficio de la intervención de procesos y
+transacciones en la administración municipal y a su vez, que el puesto de Auditor
+Interno esté sujeto a los requisitos de reclutamiento y selección conforme al principio de
+mérito, entre otras.
+Asimismo, es necesario enmendar el Artículo 2.014, para que sea cónsono con la
+enmienda introducida por la Ley 215-2024 y a su vez, incorporar el contrato de servicios
+técnicos y especializados en tecnología cónsono con la política pública enunciada en el
+Código Municipal relativa a establecer, adoptar e incorporar sistemas y procedimientos
+modernos o noveles para lograr mayor producción de ingresos y eficiencia para
+ejecución de las funciones municipales, como parte de las facultades de contratación
+municipal para realizar las actividades, programas y operaciones municipales o para
+cumplir con cualquier fin público autorizado por este Código o por cualquier otra ley
+que pueda aplicar a los municipios, sin que esta facultad se entienda como contratación
+contingente para el cobro de deudas declaradas morosas, incobrables o sean el producto
+de la identificación de evasores contributivos y de la determinación oficial de la deuda
+identificada por el Director de Finanzas.
+Por otro lado, es menester atemperar el Artículo 2.055 sobre las limitaciones de
+transacciones en periodo eleccionario con lo ya establecido en el Artículo 2.094 en
+relación a las disposiciones especiales para años de elecciones, con el fin de disponer y
+aclarar que cuando la Comisión Estatal de Elecciones emita una certificación preliminar
+en la que se determine que un alcalde incumbente ha sido reelecto serán de
+aplicabilidad las disposiciones establecidas en el referido Artículo 2.094 de la Ley 107-
+2020, supra.
+Asimismo, se aclaran varios alcances incorporados al Código Municipal en
+virtud de la Ley 114-2024, sobre propiedades declaradas como estorbo público en el
+interés de agilizar la declaración de estorbos públicos y reforzar la política pública de
+promover la restauración de las comunidades y vecindarios, en el orden físico,
+económico, social y cultural; fortalecer la seguridad entre las comunidades y propiciar
+la calidad de vida de todos los residentes, así como la salud y la seguridad pública, así
+como promover que las propiedades declaradas como estorbo público puedan ser
+
+4
+rehabilitadas como residencias y sean reutilizadas para el desarrollo equitativo de la
+comunidad y crear nuevas oportunidades de vivienda asequible y desarrollo
+comunitario. De igual forma, se atienden efectos particulares en los casos de
+expropiación ordinaria y bajo el nuevo procedimiento sumario de propiedades
+finalmente declaradas como estorbo público, atendiendo el interés ciudadano y el deber
+de cada ayuntamiento de proveer calidad de vida a sus residentes procurando justicia a
+las comunidades que diariamente sufren los efectos dañinos de las propiedades
+abandonadas.
+Además, es necesario aclarar las disposiciones del Artículo 6.016, según fuera
+enmendado por la Ley 118-2024, a los fines de disponer que los puestos de Director de
+la Oficina de Ordenación Territorial y del Oficial de Permisos, como Director de la
+Oficina de Permisos, serán empleados de confianza y no empleados regulares, cuando
+estos no sean contratados por servicios profesionales.
+Cabe destacar que con la aprobación de la Ley Núm. 90-2025, se enmendaron los
+Artículos 7.200 y 7.207 de la Ley 107-2020, según enmendada. Entre los aspectos
+fundamentales de dicha enmienda, se establece que el volumen proveniente de
+contratos municipales se considerará ingreso bruto de industria o negocio del
+Municipio contratante, independiente del Municipio donde el contratista mantenga
+oficina, sucursal, almacén o lugar de negocios, siendo esto un gran paso de avance en la
+autonomía fiscal de los municipios. No obstante, es menester añadir al Artículo 7.200 un
+nuevo inciso (k), para establecer los aspectos procesales de patente municipal que
+impactarán a los municipios en cuanto a la declaración y el pago de patente municipal
+en virtud de los contratos municipales. Así también, reconociendo los nuevos retos y
+realidades a las que se enfrentan los municipios, esta Asamblea Legislativa mantiene su
+compromiso de procurar, a favor de los municipios los poderes esenciales a su
+subsistencia y sus fuentes de ingreso, así como las facultades que sean esenciales para
+lograr el bien común y una mejor calidad de vida a sus constituyentes. Cónsono con la
+política pública, se establece de forma clara la intención de esta Asamblea Legislativa en
+cuanto a las facultades tributarias municipales cuales se interpretarán liberalmente a
+favor del pueblo representado por el Municipio, siempre que sean dentro de sus límites
+jurisdiccionales y que no sean incompatibles con las leyes impositivas del Gobierno
+Federal o del Gobierno Estatal.
+Por todo lo antes expuesto, esta Asamblea Legislativa entiende necesario
+enmendar la Ley 107-2020, según enmendada, con el fin de realizar varias enmiendas
+técnicas y aclarar ciertas disposiciones a la referida Ley, como parte de nuestro
+compromiso y empeño de proveer herramientas necesarias a los municipios para la
+ejecución efectiva de sus deberes y para que continúen ofreciendo los servicios de
+primera necesidad a los ciudadanos.
+
+5
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.– Se enmienda el inciso (h) del Artículo 1.008 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 1.008. — Poderes de los municipios
+Los municipios tendrán los poderes naturales y cedidos que le correspondan
+para ejercer las facultades inherentes a sus fines y funciones. Además de lo dispuesto en
+este Código o en cualesquiera otras leyes, los municipios tendrán los siguientes
+poderes:
+(a) …
+…
+(h) Una vez una propiedad es declarada estorbo público, el Municipio podrá
+adquirir, aceptar, expropiar, embargar, gravar y ejecutar cualquier propiedad
+declarada estorbo público para el cobro de contribuciones sobre la propiedad,
+multas, gastos administrativos, otros gastos relacionados a la declaración de
+estorbo público y gastos relacionados al manejo de su condición de estorbo a
+tenor con el Artículo 4.010 de este Código. El Municipio podrá deducir dichos
+gastos del cómputo de la justa compensación. Para activar este mecanismo el
+Municipio deberá notificar al CRIM sobre su intención de adquirir, aceptar,
+expropiar, embargar, gravar y ejecutar.
+(i) …
+…”
+Sección 2.– Se enmienda el inciso (j) del Artículo 1.019 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 1.019.— Obligaciones del Alcalde Respecto a la Legislatura Municipal
+Además de cualesquiera otras obligaciones dispuestas en este Código y otras
+leyes, el alcalde tendrá, respecto a la Legislatura Municipal, las siguientes obligaciones:
+(a) …
+…
+(j) El alcalde someterá, no más tarde del 15 de noviembre de cada año, un
+informe completo de las finanzas y actividades administrativas del Municipio al 30 de
+junio del año fiscal precedente. El alcalde podrá, a su discreción, presentar dicho
+informe en audiencia pública. Este se radicará ante el Secretario de la Legislatura
+Municipal con copias suficientes para cada miembro de dicho Cuerpo y estará
+disponible para el público, en las páginas cibernéticas del municipio y/o de forma
+digital, desde la fecha de su presentación.
+Si previo a la fecha límite para someter el informe según lo dispuesto en este
+inciso el Municipio fuera declarado zona de desastre por el Gobernador de Puerto Rico
+
+6
+o por el Presidente de Estados Unidos, el alcalde tendrá cuarenta y cinco (45) días
+adicionales, contados a partir del día 15 de noviembre para someter el informe
+completo de finanzas y actividades administrativas del Municipio.
+(k) …
+…”
+Sección 3.– Se enmienda el Artículo 1.020 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 1.020. — Legislatura Municipal
+Las facultades legislativas que por este Código se confieren a los municipios,
+serán ejercidas por una Legislatura Municipal. La Legislatura de cada uno de los
+municipios se compondrá hasta el número máximo de miembros que a continuación se
+indica, tomando como base el último censo decenal:
+Población Número máximo de Legisladores
+(a) 40,000 o más habitantes 16 miembros
+(b) 20,000 pero menos de 40,000 habitantes 14 miembros
+(c) Menos de 20,000 habitantes 12 miembros
+La Legislatura de la Ciudad Capital de San Juan estará integrada hasta un
+máximo de diecisiete (17) miembros y la del Municipio de Culebra hasta un máximo de
+cinco (5) miembros.”
+Sección 4. – Se enmienda el Artículo 1.022 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 1.022 — Elección de la Legislatura Municipal
+Los miembros de las Legislaturas Municipales serán electos por el voto directo
+de los electores del Municipio a que corresponda en cada elección general, por un
+término de cuatro (4) años, contados a partir del segundo lunes de enero del año
+siguiente a la elección general en que son electos y ejercerán las funciones de sus cargos
+hasta el segundo lunes del mes de enero posterior a la elección general.
+Los partidos políticos solo podrán postular hasta un máximo de trece (13), once
+(11) y nueve (9) candidatos a las Legislaturas Municipales compuestas con hasta un
+máximo de dieciséis (16), catorce (14) y doce (12) miembros respectivamente;
+disponiéndose, que para la Ciudad Capital de San Juan, podrán postular hasta un
+máximo de catorce (14) y para Culebra hasta un máximo de cuatro (4), según su número
+máximo de miembros.
+La Comisión Estatal de Elecciones declarará electos entre todos los candidatos de
+los partidos políticos, nominación directa o independiente, a los trece (13), once (11),
+nueve (9), catorce (14) y cuatro (4) que hayan obtenido la mayor cantidad de votos
+directos. En caso de que surja un empate para determinar la última posición entre los
+
+7
+que serán electos por el voto directo, se utilizará el orden en que aparecen en la
+papeleta, de arriba hacia abajo, para determinar cuál será electo.
+En caso de que los trece (13), once (11), nueve (9), catorce (14) y cuatro (4)
+candidatos postulados de un mismo partido resulten electos por el voto directo,
+entonces se elegirán hasta tres (3) miembros adicionales de cada una de las Legislaturas
+Municipales, excepto Culebra que tendrá solo uno (1) adicional, de entre los candidatos
+de los dos (2) partidos principales contrarios al que pertenece la mayoría de los
+Legisladores Municipales electos mediante el voto directo, como sigue:
+(a) La Comisión Estatal de Elecciones declarará electo de ser necesario, entre los
+candidatos que no hayan sido electos por el voto directo, aquellos dos (2) que
+hayan obtenido más votos en el partido que llegó segundo en la votación para
+Legislador Municipal, y uno (1) del partido que llegó tercero. En el caso de
+Culebra, el Legislador Municipal adicional que se declarará electo será del
+partido segundo en la votación para Legislador Municipal. En este caso la
+Legislatura Municipal quedará compuesta por el número máximo de
+legisladores conforme a ese Código.
+(b) En el caso del segundo partido, cuando hubiere más de dos (2) candidatos
+con la misma o mayor cantidad de votos, se utilizará el orden en que aparecen en
+la papeleta, en la columna del partido, de arriba hacia abajo, para determinar
+cuál será electo. Igual disposición aplicará para elegir el candidato de minoría del
+tercer partido.
+(c) Si solamente figuraran dos (2) partidos en la papeleta electoral, los tres (3)
+miembros adicionales se elegirán entre los candidatos que hayan obtenido más
+votos y que no hayan sido electos por el voto directo en el partido que llegó
+segundo en la votación para Legislador Municipal.
+En caso de que entre los trece (13), once (11), nueve (9), catorce (14) y cuatro (4)
+candidatos postulados de un mismo partido para Legislador Municipal, un partido para
+el que se haya elegido por voto directo dos terceras (2/3) partes de los miembros de la
+Legislatura Municipal, pero sin resultar electos la totalidad de los candidatos
+postulados del mismo partido, se hará la determinación de elección de los legisladores
+adicionales que corresponda hasta un máximo de tres (3) miembros, dentro del número
+máximo de candidatos a ser postulados conforme a este Código, a cada uno de los
+partidos de minoría en la siguiente manera:
+(a) La Comisión Estatal de Elecciones declarará electo, entre los candidatos de los
+partidos de minoría, aquellos dos (2) que hayan obtenido más votos en el
+partido que llegó segundo en la votación para Legislador Municipal, y uno (1)
+del partido que llegó tercero de ser necesario para garantizar balance.
+(b) En el caso del segundo partido, cuando hubiere más de dos (2) candidatos
+con la misma o mayor cantidad de votos, se utilizará el orden en que
+aparecen en la papeleta, en la columna del partido, de arriba hacia abajo, para
+
+8
+determinar cuál será electo. Igual disposición aplicará para elegir el candidato
+de minoría del tercer partido.
+(c) Si solamente figuraran dos (2) partidos en la papeleta electoral, los tres (3)
+miembros adicionales se elegirán entre los candidatos que hayan obtenido
+más votos y que no hayan sido electos por el voto directo en el partido que
+llegó segundo en la votación para Legislador Municipal.
+La Comisión Estatal de Elecciones adoptará las medidas necesarias para
+reglamentar las disposiciones contenidas en este Artículo.
+Si por cualquier circunstancia cualquiera de los miembros adicionales de cada
+una de las Legislaturas Municipales a que hace referencia este Artículo no calificare
+para ser declarado electo por la Comisión Estatal de Elecciones, se designará en su lugar
+otra persona a propuesta del partido que eligió al Legislador Municipal que no calificó
+para el cargo.
+El Secretario de Estado de Puerto Rico revisará el número máximo de miembros
+que compongan las Legislaturas Municipales, después de cada censo decenal, a partir
+del año 2020. La determinación del Secretario de Estado regirá para las elecciones
+generales que se celebren después de cada revisión. El Secretario le notificará a la
+Comisión Estatal de Elecciones dicha determinación y se hará pública para
+conocimiento general.”
+Sección 5. – Se enmiendan los incisos (a) y (b) del Artículo 1.037 de la Ley 107-2020,
+según enmendada, para que lea como sigue:
+“Artículo 1.037 — Sesiones de la Legislatura Municipal
+…
+(a) Sesiones ordinarias —
+…
+Cuando el alcalde convoque a la celebración de una Sesión Extraordinaria
+para atender un asunto de emergencia mientras la Legislatura Municipal se
+encuentra reunida dentro de una Sesión Ordinaria, la Legislatura Municipal
+podría, con el voto de dos terceras (2/3) partes de sus miembros activos,
+aprobar la interrupción de la Sesión Ordinaria por un período que no
+excederá de cinco (5) días para atender dicho asunto. Concluido el término de
+los cinco (5) días de Sesión Extraordinaria, la Legislatura Municipal podrá
+reanudar la Sesión Ordinaria por el número de días que corresponda sin
+exceder el periodo que dispone este Artículo.
+…
+El alcalde vendrá obligado a radicar en la Secretaría de la Legislatura
+Municipal, el Proyecto de Resolución del Presupuesto del Municipio, las
+obligaciones establecidas en el Artículo 1.019 de este Código, además de
+
+9
+cualesquiera otros asuntos dispuestos por otras leyes y en este Código. En
+cuanto al proyecto de resolución del presupuesto general de ingresos y gastos
+del Municipio, la Legislatura Municipal lo evaluará y aprobará, según lo
+dispone este Código, durante la primera Sesión Ordinaria. El proceso de
+evaluación y aprobación de la resolución de presupuesto podrá comenzar
+antes, pero nunca más tarde del día diez (10) de junio de cada año y podrá
+tener una duración no mayor de diez (10) días. Los mismos no tendrán que
+ser consecutivos, excluyendo domingo y días feriados, pero en todo caso,
+deberá concluir no más tarde del 20 de junio de cada año con la aprobación
+del presupuesto según se dispone en el Artículo 2.101 de este Código.
+(b) Sesiones Extraordinarias —
+Las Sesiones Extraordinarias se podrán celebrar en cualquier fecha de un
+año natural en la cual no se esté celebrando una Sesión Ordinaria, excepto
+que se trate de un asunto de emergencia, según definido en este Código, o
+cualquier otro asunto que se entienda necesario y debidamente convocado.
+… “
+Sección 6. – Se enmienda el Artículo 1.053 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 1.053 — Acciones por Daños y Perjuicios No Autorizadas
+No estarán autorizadas las acciones contra el Municipio por daños y perjuicios a
+la persona o la propiedad por acto u omisión de un funcionario, agente, empleado de
+cualquier Municipio, incluyendo, al Director de la Oficina de Ordenación Territorial o el
+Oficial de Permisos municipal, cuando alguno de estos ejerza las funciones de dichos
+puestos bajo contrato, a tenor con el Artículo 6.016 de este Código:
+… “
+Sección 7. – Se enmienda el Artículo 2.006 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.006— Unidad de Auditoría Interna
+Los municipios tendrán una unidad administrativa de Auditoría Interna, la cual
+será dirigida por una persona que posea los requisitos establecidos en este Código, que
+goce de buena reputación en la comunidad, capacidad profesional y con conocimientos
+sobre contabilidad, auditorías, intervención de cuentas, administración y gestión
+gubernamental o una combinación de estas y, además, reúna aquellos otros requisitos
+que se dispongan en el plan de puestos para el servicio de confianza que apruebe la
+Legislatura Municipal. El Director de la Oficina de Auditoría Interna será nombrado
+por el alcalde y confirmado por la Legislatura Municipal. Sin que se entienda como una
+limitación, el Director de la Oficina de Auditoría Interna tendrá las siguientes
+funciones y responsabilidades:
+
+10
+(a) Asesorar al alcalde en la adopción e implementación de mecanismos
+dirigidos a lograr niveles óptimos de eficiencia y efectividad de sus sistemas
+administrativos y de gestión de riesgos, control y dirección; y para hacer
+cumplir las normas municipales y la normativa adoptada sobre la
+administración de los recursos y bienes municipales.
+(b) Desarrollar un programa municipal de auditoría previa y de auditoría
+basado en evaluación de riesgos, incluyendo la utilización de los fondos
+asignados y administrados por el Municipio, incluyendo los sistemas de
+información gubernamentales.
+(c) Dar seguimiento y supervisar a las auditorías e intervenciones realizadas
+por el Auditor Interno y los Auditores de la unidad de auditoría interna.
+(d) Dar seguimiento a los planes de acción correctiva implantados por el
+Municipio, a fin de evaluar los resultados y logros obtenidos y asesorar al
+alcalde en la formulación de las recomendaciones pertinentes.
+(e) Coordinar y ampliar las gestiones municipales para promover la
+integridad y eficiencia, detectar y prevenir el fraude, malversación y abuso en
+el uso de los fondos y propiedad municipal.
+(f) Asesorar al alcalde en el desarrollo de estándares, políticas, normas y
+procedimientos para guiar al Municipio en el establecimiento de controles y
+en el cumplimiento de prácticas de sana administración.
+Por su parte, el puesto del Auditor Interno deberá poseer un grado de
+Bachillerato en Administración de Empresas con especialidad en contabilidad o
+finanzas, o en áreas relacionadas, de una institución universitaria acreditada y por lo
+menos dos (2) años de experiencia en auditoría o en intervención de cuentas, procesos
+u operaciones de una organización, preferiblemente en el sector gubernamental, que le
+cualifiquen para desempeñarse en el área fiscal, administrativa o de cumplimiento y en
+la de auditoría; que goce de buena reputación en la comunidad y reúna aquellos
+requisitos que se dispongan en el plan de clasificación de puestos que apruebe la
+Legislatura Municipal. Estos no podrán ser empleados de confianza ni podrán prestar
+sus servicios por medio de contratación gubernamental.
+El Auditor Interno será nombrado por el alcalde, y su nombramiento estará
+sujeto a las disposiciones sobre reclutamiento y selección que se establecen en este
+Código. Este asesorará y recomendará en materia de procedimientos fiscales y
+operacionales, del establecimiento y perfeccionamiento de controles internos y del
+cumplimiento con leyes, ordenanzas, resoluciones y reglamentos en general. Además
+de cualesquiera otras dispuestas en este Código o en cualquier otra ley, el Auditor
+Interno tendrá las siguientes funciones y responsabilidades:
+…. ”
+
+11
+Sección 8.– Se enmienda el Artículo 2.014 y se añade un nuevo inciso (d) del referido
+Artículo 2.014 de la Ley 107-2020, según enmendada, para que lea como sigue:
+“Artículo 2.014— Contratación de Servicios
+El Municipio podrá contratar los servicios profesionales, técnicos y consultivos
+que sean necesarios para llevar a cabo las actividades, programas y operaciones
+municipales o para cumplir con cualquier fin público autorizado por este Código o por
+cualquier otro estatuto aplicable. No obstante, todo contrato que se ejecute o suscriba
+en contravención a lo dispuesto en este Artículo será nulo y no tendrá efecto, y los
+fondos públicos invertidos en su administración o ejecución serán recobrados a
+nombre del Municipio mediante acción incoada a tal propósito.
+…
+Por su parte, será anulable todo contrato que se ejecute o suscriba en
+contravención a las siguientes disposiciones especiales, salvo que tales disposiciones se
+subsanen dentro de la vigencia del contrato:
+(a) …
+…
+(d) Contratos de servicios técnicos y especializados en tecnología.
+El Municipio podrá contratar los servicios profesionales, técnicos y
+consultivos, especializados en el uso de la tecnología, que sean necesarios y
+convenientes para realizar las actividades, programas y operaciones
+municipales, así como para cumplir con cualquier fin público autorizado
+por ley, incluyendo, pero sin limitarse, a promover eficiencia operativa, la
+modernización digital de procesos municipales, la generación de ingresos
+nuevos o que puedan maximizarse con la implementación de la tecnología y
+los sistemas relacionados a esta. Los honorarios a ser pagados al contratista
+estarán basados en el valor real que tienen en el mercado los servicios a
+prestarse. La fijación de los honorarios se hará dentro de un marco de
+razonabilidad por parte del Municipio contratante. Disponiéndose, que este
+tipo de contratación no constituye ni se interpretará como un contrato de
+cobro de deudas, según el Artículo 1.018 (r) de este Código.
+… ”
+Sección 9.– Se enmienda el inciso (a) (10) del Artículo 2.018 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 2.018 — Adquisición de Bienes por Expropiación Forzosa
+(a) Las disposiciones contenidas en la Ley General de Expropiación Forzosa de
+12 de marzo de 1903, según enmendada, serán de carácter supletorias en las
+acciones de expropiación forzosa por parte de los municipios y estos podrán
+
+12
+instar procesos de expropiación forzosa por cuenta propia bajo lo establecido
+en este Código:
+(1) Privación de Propiedad. - …
+(2) …
+…
+(10) Investidura de Título y Posesión Material. — Tan pronto el Municipio
+expropiante radique la Petición de Expropiación junto a la
+Declaración para la Adquisición y Entrega Material de la Propiedad,
+conforme a este Código y a la Regla 58.3 de las Reglas de
+Procedimiento Civil de Puerto Rico, el Tribunal expedirá en un
+término jurisdiccional de cinco (5) días el título absoluto de dominio
+de dicha propiedad, o cualquier derecho o interés menor en la misma,
+según quede especificado en la declaración, quedará investido en el
+Municipio expropiante, y tal propiedad deberá considerarse como
+expropiada y adquirida para el uso del Municipio que hubiese
+requerido la expropiación, y el derecho a justa compensación por la
+misma quedará investido en la persona o personas a quienes
+corresponda. Desde ese instante el Tribunal podrá fijar el término y
+las condiciones bajo las cuales los poseedores de los bienes
+expropiados deberán entregar la posesión material de los mismos al
+demandante. En las expropiaciones de propiedades declaradas
+estorbos públicos bajo cualquier disposición de expropiación provista
+en este Código, el Municipio no vendrá obligado a consignar dinero
+alguno sobre la expropiación al radicar la demanda. Dicha obligación
+comenzará al momento en que él o los demandados comparezcan al
+tribunal según lo establecido en la Regla 58.5 de Procedimiento Civil
+de Puerto Rico. Una vez el tribunal emita una sentencia estableciendo
+en ella la justa compensación, cualquier persona que tenga derecho a
+esta, tendrá tres años para reclamarla. Transcurrido dicho término, la
+acción para reclamar la cuantía determinada por el tribunal estará
+prescrito, según se establece en el Artículo 4.012A de este Código.
+… “
+Sección 10. – Se enmienda el Artículo 2.019 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.019 — Autorización a los municipios para Adquirir o Vender
+Bienes Inmuebles sin el Requisito de Obtener una Consulta de Transacción
+Se autoriza a los municipios a adquirir un bien inmueble por el
+procedimiento de expropiación forzosa o por cualquier otro medio permitido en ley,
+sin el requisito previo de consulta de transacción y ubicación ante la Junta de
+Planificación, siempre que dicho inmueble esté ubicado dentro de la jurisdicción y
+
+13
+cuya adquisición sea parte de un proyecto designado por el Municipio como
+estratégico, prioritario, o de infraestructura crítica; y/o que cumple con los criterios de
+designación de proyecto crítico bajo la Sección 503 de la “Ley de Supervisión,
+Administración, y Estabilidad Económica de Puerto Rico” (PROMESA, por sus siglas
+en inglés); y/o de proyectos declarados como estratégicos, según la Ley 19-2017, según
+enmendada, conocida como “Ley para Simplificar y Transformar el Proceso de
+Permisos de 2017”.
+De igual forma, la venta de bienes inmuebles o solares para fines
+residenciales o comerciales, que se realice conforme al Artículo 2.025 de este Código, a
+los usufructuarios, poseedores de hecho, arrendatarios o inquilino del solar, estará
+exenta del requisito de consulta de transacción ante la Junta de Planificación, siempre
+que dicho inmueble esté ubicado dentro de la jurisdicción municipal.
+De otro lado, se exime la venta de solares vacantes del requisito de la consulta
+de transacción siempre que estén localizados en el centro urbano del Municipio, según
+delimitado en el Plan de Ordenación Territorial. La venta de solares vacantes fuera del
+centro urbano requerirá cumplir con la consulta de transacción.”
+Sección 11.– Se enmienda el Artículo 2.050 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.050 — Ascensos, Traslados, Descensos y Adiestramientos
+Se podrán efectuar ascensos y traslados de empleados de carrera siempre que
+reúnan los requisitos mínimos de los puestos a los cuales sean ascendidos o trasladados.
+…
+Cualquier Municipio podrá destacar personal de carrera, regular o de
+confianza entre municipios, así como entre municipios, empresas municipales,
+franquicias, corporaciones municipales creadas bajo este Código y agencias o
+instrumentalidades públicas, por un término no mayor de doce (12) meses,
+devengando el pago de salarios y de todos los beneficios de su puesto oficial del
+Municipio de origen, para ejercer sus funciones, o funciones análogas a las de su
+puesto, en otro Municipio, empresa municipal o agencia, previa autorización de la
+autoridad nominadora de la entidad de origen y la autoridad nominadora de la
+entidad que recibe al empleado, así como el consentimiento del empleado a destacarse.
+En el caso de destaque de personal municipal en empresas o franquicias municipales o
+en corporaciones municipales creadas bajo este Código, solo se requerirá la previa
+autorización de la autoridad nominadora de la empresa municipal o de la Junta de
+Directores, así como el consentimiento del empleado a destacarse. El pago por
+concepto de diferenciales, dietas, millaje, gastos de transportación o cualquier otro
+reembolso de gastos, será a cargo de la entidad para la cual el empleado destacado está
+prestando el servicio.
+…”
+
+14
+Sección 12. – Se enmienda el Artículo 2.055 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.055— Limitaciones de Transacciones en Período Eleccionario
+A los fines de asegurar la fiel aplicación del principio de mérito en el servicio
+público municipal, las autoridades nominadoras se abstendrán de efectuar cualquier
+transacción de personal que envuelva las áreas esenciales al principio de mérito, tales
+como nombramientos, ascensos, traslados, descensos, reclasificaciones, cambio en
+sueldos y cambios de categorías de puesto y empleados, en un período de tiempo
+comprendido entre los dos (2) meses anteriores a la fecha de celebración de las
+elecciones generales y hasta el segundo lunes del mes de enero siguiente a dichas
+elecciones. Disponiéndose, a modo de excepción, que cuando la Comisión Estatal de
+Elecciones emita una certificación preliminar en la que se determine que un alcalde
+incumbente ha sido reelecto quedarán sin efecto las disposiciones de este Artículo a
+partir de la fecha en que se emita la certificación preliminar, similar a lo dispuesto en el
+Artículo 2.094 de este Código.
+…”
+Sección 13. – Se enmienda el Artículo 2.059 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.059 — Jornada de Trabajo y Asistencia
+El Municipio administrará lo relativo al horario, a la jornada de trabajo y a la
+asistencia de los empleados, conforme a la reglamentación que adopte. La jornada
+regular no excederá de ocho (8) horas diarias ni de cuarenta (40) horas semanales. Se
+concederá a todo empleado una hora para tomar alimentos durante su jornada regular
+diaria. No obstante, mediante acuerdo escrito entre el empleado y la autoridad
+nominadora, la hora de tomar alimento puede reducirse a media (1/2) hora. El periodo
+de alimentos comenzará a disfrutar luego de concluida la tercera y media (3ra y ½)
+hora de trabajo del empleado y nunca luego de la quinta (5ta) hora de trabajo
+consecutivo.
+Cuando los empleados presten servicios en exceso de la jornada de trabajo diario
+o semanal establecida por el Municipio, en sus días de descanso, en cualquier día
+feriado o en cualquier día que se suspendan los servicios por resolución municipal,
+sujeto a lo dispuesto en el Artículo 2.057 (a), tendrán derecho a recibir licencia
+compensatoria a razón de tiempo y medio o pago en efectivo, según dispuesto en la
+Ley Federal de Normas Razonables del Trabajo de 1938, según enmendada. Se podrá
+exceptuar de esta disposición a los empleados que realicen funciones de naturaleza
+profesional, administrativa o ejecutiva.
+…”
+Sección 14. – Se enmienda el Artículo 2.061 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+
+15
+“Artículo 2.061— Sistema de Ahorros y Retiro
+Los empleados municipales que estén debidamente nombrados a ocupar
+puestos permanentes de carrera, tendrán derecho a acogerse a los beneficios de la Ley
+9-2013, según enmendada, conocida como “Ley de la Asociación de Empleados del
+Estado Libre Asociado de Puerto Rico de 2013”. Asimismo, a cualquier sistema de
+pensiones o retiro para empleados del Gobierno de Puerto Rico vigente,
+subvencionado por dicho Gobierno y que estén cotizando a la fecha de aprobación de
+este Código.
+En lo concerniente a los alcaldes que hayan sido electos a partir del año 2012,
+se podrán acoger al sistema de retiro auspiciado por el Gobierno del Estado Libre
+Asociado de Puerto Rico, de forma voluntaria u optativa. Esta disposición tendrá
+supremacía sobre cualquier otra disposición aplicable a los sistemas de pensiones o
+retiro para empleados del Gobierno del Estado Libre Asociado de Puerto Rico.”
+Sección 15. – Se enmienda el Artículo 2.085 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 2.085— Prohibición de Discrimen
+No se podrá establecer, en la implementación u operación de las
+disposiciones de este Capítulo VII del Libro II, discrimen alguno por motivo de la raza,
+color, sexo, nacimiento, edad, orientación sexual, identidad de género, origen o
+condición social, por ideas políticas o religiosas o por ser víctima de violencia
+doméstica, ni por ser víctima de agresión sexual o acecho, ni por ser veterano(a) de las
+Fuerzas Armadas, ni tampoco por impedimento físico o mental, ni por tener peinados
+protectores y texturas de cabello que regularmente se asocian con identidades de raza
+y origen nacional particulares.”
+Sección 16. – Se enmienda el inciso (36) del Artículo 3.042 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 3.042 — Poderes y Funciones
+Los municipios tendrán la responsabilidad de implementar y hacer cumplir
+este Capítulo. Además de sus otros poderes y responsabilidades, los municipios
+deberán:
+(1)…
+…
+(36) Los municipios reclutarán un empleado o funcionario de confianza para que
+funja como coordinador de reciclaje o puesto de similar naturaleza, conforme esté
+establecido en el Plan de Clasificación de Puestos y Retribución Uniforme vigente en
+el Municipio, o mediante un contrato de servicios para realizar las funciones del
+puesto para la implementación de la política pública municipal, de manera que
+puedan cumplir efectivamente con lo requerido por este Capítulo.
+
+16
+… “
+Sección 17. – Se enmienda el inciso (c) del Artículo 4.009 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 4.009 — Vista, Oficial Examinador y Orden
+El oficial examinador será un ingeniero licenciado o un abogado licenciado. Si
+el Municipio no cuenta con un ingeniero licenciado o con un abogado licenciado
+podrá contratar los servicios de uno de estos para este fin e incluir los costos del
+mismo en los costos del procedimiento o entrar en un acuerdo de colaboración con
+otro Municipio. La vista solicitada por el propietario, poseedor o persona con interés
+se celebrará ante un oficial examinador designado por el Municipio, quien evaluará
+la prueba y dictará una orden a los efectos siguientes:
+(a) …
+…
+(c) Si se determina que la propiedad sí debe declararse como estorbo público,
+y que no es susceptible de ser reparada, se ordenará su demolición y
+limpieza, por cuenta del propietario, poseedor o persona con interés, dentro
+de un término de tiempo razonable, que no será mayor de treinta (30) días. A
+petición de parte, por razón justificada y circunstancias extraordinarias, el
+Oficial Examinador podrá conceder una prórroga no mayor de noventa (90)
+días para concluir la demolición y limpieza. Al concluir el término antes
+dispuesto, el Municipio podrá proceder a su costo con las labores de
+demolición y limpieza, anotando en el Registro de la Propiedad
+correspondiente un gravamen por la cantidad de dinero utilizada en tal
+gestión o mediante certificación expedida por el Municipio, se determinará la
+cantidad de los gastos incurridos por el Municipio en tal gestión, a los fines
+de deducirlos contra la justa compensación, a no ser que el propietario,
+poseedor o persona con interés en la propiedad le reembolse al Municipio
+dicha cantidad. La certificación de gastos expedida por el Municipio será un
+elemento a considerar de forma prioritaria durante la etapa de distribución de
+los fondos consignados.”
+Sección 18. – Se enmienda el Artículo 4.010 y los incisos (a), (d) y (e), y se añaden los
+incisos (f) y (g) del referido Artículo 4.010 de la Ley 107-2020, según enmendada, para
+que lea como sigue:
+“Artículo 4.010 — Declaración de Estorbo Público
+Cuando el propietario, poseedor o persona con interés sea notificado
+conforme a lo dispuesto en el Artículo 4.008 de este Código, y no compareciere en
+forma alguna a oponerse a la identificación de la propiedad como estorbo público; o
+luego de expedida una orden a tenor con lo dispuesto en el inciso (b) o el inciso (c)
+del Artículo 4.009 de este Código no cumpliere con la misma, el Municipio podrá
+
+17
+declarar la propiedad como estorbo público y notificará la declaración final al
+propietario, poseedor o persona con interés a la última dirección conocida que obre
+en el expediente del caso.
+Una vez emitida una declaración de estorbo público sobre una propiedad
+inmueble, si el propietario no realiza o cumple con la orden expedida, según lo antes
+dispuesto, dentro del término de treinta (30) días a partir de la notificación de la
+declaración, el Municipio-teniendo entonces la facultad primaria sobre esa
+propiedad a tenor con el Artículo 1.008 de este Código- podrá realizar las obras
+necesarias para asegurar la salud y seguridad del público en general. Para fines de
+este Artículo, obras necesarias son aquellas de reparación, limpieza, mantenimiento
+o demolición que haya determinado pertinentes el Oficial Examinador en la orden
+emitida cuando se haya solicitado vista en oposición a la declaración de estorbo
+público al amparo del Artículo 4.009 de esta Ley o de no haberse solicitado dicha
+vista serán aquellas que mediante evaluación del Municipio eliminen la condición
+nociva o perjudicial de la propiedad para asegurar la salud y seguridad de vecinos y
+ciudadanos. Además, tendrá derecho a reclamar por todos los gastos incurridos en
+dicha gestión. Los gastos incurridos y no recobrados por el Municipio en la gestión
+de limpieza o eliminación de la condición nociva o perjudicial constituirán un
+gravamen sobre la propiedad equivalente a una hipoteca legal tácita, según definido
+en las distintas leyes de Puerto Rico, subordinado únicamente en carácter de
+prioridad al gravamen de contribuciones adeudadas sobre la propiedad inmueble
+dispuesto en este Código o mediante certificación expedida por el Municipio, se
+determinará la cantidad de los gastos incurridos por el Municipio en tal gestión, a
+los fines de deducirlos contra la justa compensación. Este gravamen en favor del
+Municipio por gastos incurridos, se hará constar mediante instancia en el Registro
+de la Propiedad. En aquellos casos en que el Municipio haya realizado las labores de
+limpieza o realizado la eliminación de la condición nociva o perjudicial se le
+impondrá una multa trimestral al titular, a ser pagada al Municipio donde esté
+situada la propiedad inmueble, la cual será no menor de mil (1,000) dólares ni
+mayor de cinco mil (5,000) dólares. De la misma manera, a los titulares que incurran
+en un patrón de dejadez y sus propiedades recaigan en condición de estorbo
+público, se le impondrán las siguientes multas. Se multará por la primera
+reincidencia no menos de mil (1,000) dólares, pero nunca más de mil quinientos
+(1,500) dólares. En caso de una segunda reincidencia la multa no será menor de dos
+mil (2,000) dólares, ni mayor de tres mil quinientos (3,500). Por cada reincidencia
+adicional se impondrá una multa fija de cinco mil (5,000) dólares. Dicha multa se
+podrá establecer por cada bien inmueble a nombre del titular a quien se le haya
+hecho la correspondiente notificación y requerimiento de acción. Esta multa será
+adicional al costo que conlleve la limpieza, y de no efectuar el pago correspondiente
+dentro del término de sesenta (60) días de haber sido debidamente solicitado y
+notificado por el Municipio, tal monto se incluirá dentro del gravamen hipotecario
+tácito que gravará la titularidad del inmueble correspondiente. Dichos gastos y
+multas podrán ser incluidas en la demanda expropiación, si el Municipio así lo
+
+18
+desea. Las multas impuestas serán pagadas al Municipio donde esté ubicada la
+propiedad inmueble. Si dentro del término de sesenta (60) días de haberse realizado
+la última gestión de cobro, incluyendo las de localización o notificación a la última
+dirección del dueño, estas resultaren infructuosas, el Municipio podrá presentar la
+acción judicial que corresponda para la ejecución de la propiedad y su venta en
+pública subasta conforme a lo establecido en las Reglas de Procedimiento Civil de
+2009, según enmendadas.
+La declaración de estorbo público tendrá los siguientes efectos:
+(a) El Municipio podrá establecer la rotulación oficial del inmueble declarado
+como estorbo público y colocar en el inmueble la rotulación que indique que
+la propiedad ha sido declarada como estorbo público.
+…
+(d) El Municipio podrá expropiar el inmueble por motivo de utilidad pública,
+vivienda asequible o conforme a las disposiciones del procedimiento sumario
+aquí establecido. El Municipio, también podrá embargar, gravar y ejecutar la
+propiedad conforme a los Artículos 7.072 y 7.073 de este Código. Cuando el
+inmueble objeto de expropiación tenga deudas, intereses, recargos o
+penalidades con el Centro de Recaudación de Ingresos Municipales sobre la
+contribución a la propiedad se le restará la cantidad adeudada al valor de
+tasación al momento de calcular la justa compensación. Una vez se le
+transfiera la titularidad al Municipio, toda deuda, intereses, recargo o
+penalidades con el Centro de Recaudación de Ingresos Municipales será
+cancelada en su totalidad. Así también, se descontará la cantidad adeudada
+por concepto de multas y los gastos de limpieza y de mantenimiento de la
+propiedad, en que el Municipio haya incurrido al valor de la justa
+compensación. Una vez se le transfiera la titularidad al Municipio, en los
+casos que dicha expropiación sea por motivo de utilidad pública o vivienda
+asequible, toda deuda, intereses, recargo o penalidades de contribuciones
+sobre la propiedad con el Centro de Recaudación de Ingresos Municipales
+será cancelada en su totalidad.
+(e) Cuando un inmueble declarado estorbo público no tenga titular o dueño vivo
+alguno ni heredero(s) aplicarán las disposiciones respecto a la herencia ab
+intestato del Código Civil. Sin embargo, la propiedad inmueble declarada
+estorbo público conforme a esté Código, como legislación especial aplicable,
+se adjudicará la titularidad al Gobierno Municipal en cuya jurisdicción esté
+sito el inmueble;. Cuando el inmueble tenga heredero(s), pero hayan pasado
+más de tres (3) años, luego de haber sido declarado estorbo público, sin ser
+reclamado, el mismo será adjudicado al Municipio donde esté sito, mediante
+mandamiento judicial. A tales efectos, el Municipio presentará una petición
+ex parte en el Tribunal de Primera Instancia con competencia, e incluirá la
+prueba de que se hicieron las debidas notificaciones a la última dirección
+
+19
+conocida de la persona o personas con derecho hereditario sobre la
+propiedad. El Inventario de Propiedades Declaradas Estorbo Público
+identificará las propiedades inmuebles que sean adjudicadas a los municipios
+al amparo de este inciso. Los municipios podrán vender, ceder, donar o
+arrendar estas propiedades conforme lo establece este Código.
+(f) En los casos de un inmueble declarado estorbo público al que no compareció
+ningún titular ni persona alguna con un derecho real sobre la propiedad a
+oponerse a la declaración y haya pasado más de un (1) año, luego de haber
+sido declarado estorbo público, sin ser reclamado, el mismo será adjudicado
+al Municipio donde esté sito, mediante mandamiento judicial. A tales efectos,
+el Municipio presentará una petición ex parte en el Tribunal de Primera
+Instancia con competencia, e incluirá la prueba de que se realizó la debida
+notificación a “persona desconocida”, mediante la publicación de un aviso en
+un (1) periódico impreso de circulación general o regional y uno (1) digital de
+conformidad con las ordenanzas del Municipio y sin que medie orden judicial
+previa. El Municipio deberá comprobar a satisfacción del tribunal, mediante
+una declaración jurada la cual indique y detalle las gestiones realizadas para
+dar con el paradero de las personas con interés, y que no se pudo localizar a
+la persona desconocida, luego de realizadas las diligencias pertinentes.
+(g) Para fines de este Artículo no se considerará un estorbo público la estructura
+ocupada como residencia principal de un poseedor que ejerce dominio sobre
+la propiedad.”
+Sección 19. – Se enmienda el inciso (b) del Artículo 4.011 de la Ley 107-2020, según
+enmendada, para que lea como sigue:
+“Artículo 4.011 — Inventario de Propiedades Declaradas como Estorbo
+Público
+Cuando el Municipio no fuere a expropiar inmuebles declarados como
+estorbo público, por motivos de utilidad pública, procederá a preparar un Inventario
+de Propiedades Declaradas como Estorbo Público, que incluirá la siguiente
+información:
+(a) Localización física de la propiedad.
+(b) Descripción registral, de estar inscrita en el Registro de la Propiedad.
+(c) Número de Catastro.
+…”
+Sección 20. – Se enmienda el Artículo 4.012 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 4.012 — Intención de Adquirir; Expropiación
+
+20
+Las propiedades incluidas en el Inventario de Propiedades Declaradas como
+Estorbo Publico podrán ser objeto de expropiación y adquisición por el Municipio,
+para su posterior transferencia a toda persona que esté en disposición de adquirirla
+para su rehabilitación, reconstrucción, restauración, demolición o para hacer una
+nueva edificación. Para ello, el Municipio tendrá que adquirir la propiedad, ya sea por
+compraventa o sujetándose al procedimiento de expropiación forzosa, mediante el cual
+viene obligado a pagar al titular el justo valor de la propiedad en los casos que así
+aplique. A los efectos, se observará el siguiente procedimiento:
+(a) El solicitante-adquiriente le notificará al Municipio de su intención de
+adquirir el inmueble de que se trate.
+(b) El solicitante-adquiriente le suministrará al Municipio una suma de dinero
+equivalente al valor establecido en el informe de tasación, más una suma
+equivalente al diez por ciento (10%) del valor de tasación, para las costas y
+honorarios del procedimiento, incluyendo estudio de título, reembolso al
+Municipio del costo de la tasación, emplazamiento, gastos notariales e
+inscripción de título en el Registro de la Propiedad, previo a formalizar un
+contrato con el Municipio para la expropiación del estorbo y donde se
+establezca el compromiso de adquirir la propiedad a expropiarse. El
+solicitante-adquirente vendrá obligado a cubrir cualquier suma adicional que
+se requiera por el Tribunal de Primera Instancia como justa compensación.
+Cualesquiera sumas no utilizadas le serán devueltas al solicitante-adquiriente
+cuando concluyan los procedimientos. El solicitante-adquiriente será
+responsable de pagar aquellas sanciones y penalidades que imponga el
+Tribunal como consecuencia de su falta de cooperación a falta de proveer los
+fondos necesarios para cubrir la justa compensación, costas, y cualquier otro
+gasto del litigio necesario para el trámite del caso.
+(c) Con anterioridad al inicio de los procedimientos de expropiación forzosa por
+parte del Municipio de la propiedad declarada estorbo público, el solicitante-
+adquirente proveerá al Municipio los fondos necesarios para el pago del valor
+de la propiedad en el mercado, según la tasación del Municipio, más una
+suma equivalente al diez por ciento (10%) del valor de tasación. Cualquier
+gasto que exceda ese monto deberá ser facturado al solicitante-adquirente por
+el Municipio.
+(d) De no ser suficiente la cantidad suministrada por el solicitante-adquiriente
+para cubrir el justo valor de la propiedad, intereses, las costas y honorarios
+del procedimiento, incluyendo estudio de título, emplazamiento, gastos
+notariales e inscripción de título en el Registro de la Propiedad, así como para
+cubrir cualquier suma adicional que se requiera por el Tribunal de Primera
+Instancia como justa compensación, será responsabilidad del solicitante-
+adquiriente el suministrar al Municipio la suma de dinero para cubrir la
+diferencia. El Municipio no realizará el traspaso de la titularidad de la
+
+21
+propiedad al solicitante-adquiriente hasta que este no salde cualquier suma
+que adeude por motivo del proceso. El Municipio estará facultado por
+disposición de este Código de realizar las acciones de cobro pertinentes
+contra el solicitante-adquiriente y anotarle embargo contra sus bienes.
+(e) El solicitante-adquiriente será responsable de cubrir cualquier cantidad que se
+imponga como justa compensación, intereses, costas, penalidades, sanciones,
+gastos del litigio y honorarios de abogados en aquellos casos que decida
+desistir de la expropiación estando el caso ya presentado. De igual forma,
+será responsabilidad del solicitante-adquiriente el cubrir cualquier cantidad
+que se imponga como justa compensación, intereses, costas, penalidades,
+sanciones, gastos del litigio y honorarios de abogados en aquellos casos que
+por falta de su cooperación o por falta de proveer los fondos el Municipio
+tenga que desistir del pleito de expropiación o el Tribunal desestime el
+mismo.
+(f) La demanda de expropiación se presentará por el Municipio de conformidad
+con las disposiciones de la Regla 58 de Procedimiento Civil de 2009, según
+enmendada. El pleito judicial, desde la contestación a la demanda o la
+anotación en rebeldía, en caso de no contestar la demanda en el tiempo
+estipulado por las Reglas de Procedimiento Civil, hasta la resolución en sus
+méritos, no podrá exceder de un (1) año.
+(g) Luego de dictarse sentencia, el Municipio transferirá la titularidad del
+inmueble objeto del procedimiento, al solicitante-adquiriente”.
+Sección 21. – Se enmienda el Artículo 4.012A y los incisos (f) y (g) de la Ley 107-2020,
+según enmendada, para que lea como sigue:
+“Artículo 4.012A — Procedimiento de Expropiación Sumario
+Se establece un procedimiento sumario de expropiación en los casos que el
+Municipio interese expropiar inmuebles declarados como estorbo público de manera
+sumaria, a tales efectos:
+(a) …
+…
+(f) El Municipio no vendrá obligado a consignar dinero alguno sobre la
+expropiación al radicar la demanda, según lo dispuesto en el Artículo 2.018 de
+este Código. Dicha obligación comenzará al momento en que el o los
+demandados comparezcan al tribunal mediante las alegaciones responsivas
+contenidas en su contestación a la demanda. En caso de que el demandado
+comparezca al procedimiento, el Municipio solo podrá descontar de la justa
+compensación que debe consignar, la cantidad adeudada de contribuciones sobre
+la propiedad y la cantidad adeudada por concepto de multas y los gastos de
+
+22
+limpieza y de mantenimiento de la propiedad, en que el Municipio haya
+incurrido, según lo dispuesto en el Artículo 4.010 de este Código.
+(g) Una vez el tribunal emita una sentencia estableciendo en ella la justa
+compensación, cualquier persona que tenga derecho a esta, tendrá tres (3) años
+para reclamarla. Transcurrido dicho término la acción para reclamar la cuantía
+determinada por el tribunal estará prescrito.
+El Municipio, mediante ordenanza municipal aprobada por la Legislatura
+Municipal y firmada por el alcalde, podrá adoptar aquellos requisitos y normas para
+la transferencia o venta de las propiedades adquiridas por compra o mediante el
+procedimiento sumario de expropiación aquí establecido, cuando se trate de
+propiedades edificadas que puedan ser rehabilitadas como residencias. A estos
+fines, el Municipio deberá considerar como primera opción, cuando existan
+ciudadanos interesados, a personas cuya oportunidad de adquirir una propiedad
+estén limitadas en los procesos del mercado tradicional. No se utilizará el
+mecanismo sumario de expropiación aquí establecido, para beneficiar a terceros
+adquirientes, incluyendo aquellos que sean reconocidos como inversionistas del
+mercado inmobiliario. Se considerará un tercero adquiriente quien no ostenta el
+derecho legítimo de propiedad, como sería un heredero o dueño registral. A modo
+de excepción, durante el primer año del Municipio haber declarado la propiedad
+estorbo público, según la ordenanza aprobada conforme a este Artículo, las personas
+cuyas oportunidades de adquirir una propiedad estén limitadas en los procesos del
+mercado tradicional, no se considerarán terceros adquirientes. Para ello, se
+concederá el término de un (1) año al ciudadano interesado, para que pueda
+asegurar los fondos, ayudas o cualquier otro método disponible para satisfacer la
+justa compensación y gastos asociados al proceso de expropiación forzosa. Se podrá
+conceder un término adicional de seis (6) meses. Transcurrido la totalidad del
+término, sin que se haya concretado dicha compra, el Municipio podrá vender la
+misma a terceros adquirientes, incluyendo inversionistas del mercado inmobiliario.
+De igual modo, de haber transcurrido un (1) año desde que la propiedad fue
+declarada estorbo público e incluida en el inventario de propiedades declaradas
+como tal, sin que persona alguna haya demostrado interés en adquirir la misma, el
+Municipio podrá disponer de esta, conforme a las disposiciones de este Artículo.”
+Sección 22. Se enmienda el Artículo 4.014 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 4.014- Retracto Convencional
+Cuando el adquirente, durante el año contado a partir de la transferencia de
+la titularidad del inmueble, no haya realizado la rehabilitación, reconstrucción,
+restauración o demolición de la propiedad adquirida, el Municipio podrá ejercer la
+acción de retracto convencional, de conformidad con lo dispuesto en el Código Civil de
+Puerto Rico.”
+
+23
+Sección 23. Se enmienda el Artículo 6.007 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 6.007-Plan Territorial
+…
+(a) …
+(b) …
+(c) …
+…
+Dentro del suelo rústico del Plan Territorial cumplirá, entre otros, con lo
+siguiente:
+(1) …
+(2) Suelo rústico especialmente protegido. — Es aquel no contemplado
+para uso urbano o urbanizable en un Plan Territorial, y que por su especial
+ubicación, topografía, valor estético, arqueológico o ecológico, recursos
+naturales únicos u otros atributos, se identifica como un terreno que no
+deberá utilizarse como suelo urbano a menos que la Junta de Planificación
+de Puerto Rico determine que cumple con al menos uno de los siguientes
+requisitos:
+i. Se trate de proyectos designados por el Municipio o como
+estratégicos, prioritarios, o de infraestructura crítica; y/o que
+cumplan con los criterios de designación de proyectos críticos bajo la
+Sección 503 de la “Ley de Supervisión, Administración y Estabilidad
+Económica de Puerto Rico” (PROMESA, por sus siglas en inglés),
+y/o de proyectos declarados como estratégicos, según la Ley 19-2017,
+según enmendada, conocida como “Ley para Simplificar y
+Transformar el Proceso de Permisos de 2017”, pues esa designación
+por parte del Estado de por sí demuestra que su incorporación al
+desarrollo urbano responde a necesidades estratégicas que
+promueven el desarrollo económico o el bien común;
+ii. Se justifique mediante estudios técnicos y ambientales que
+demuestren que dicho desarrollo es compatible con la conservación
+del entorno;
+iii. Que el proyecto en cuestión identifique, incorpore o mitigue en
+su plan de desarrollo la protección y conservación de aquellas
+características especiales por las cuales dicho terreno ha sido
+identificado como suelo rústico especialmente protegido; o
+iv. Que el plan de desarrollo aprobado para el proyecto en cuestión
+incluya un sistema de generación de energía eléctrica sujeto a las
+
+24
+disposiciones del Reglamento Núm. 9028 de 2018 del Negociado de
+Energía de Puerto Rico, conocido como “Reglamento para el
+Desarrollo de Microrredes” o cualquier reglamento sucesor.
+(d) El Plan Territorial no establecerá ninguna clasificación de uso de terrenos
+que impida todo uso de la propiedad sin previa notificación y compensación
+al titular o titulares de dicha propiedad.
+(e) Toda solicitud de paralización siempre requerirá el pago de fianza, cuya
+cantidad nunca será menor del diez por ciento (10%) del valor del proyecto
+propuesto, según surja de cualquier autorización del desarrollo emitida por la
+agencia competente. El requisito mandatorio de fianza aquí dispuesto, y el
+monto mínimo establecido por la misma, será de aplicación a todo
+procedimiento judicial o administrativo y regirá con carácter de especialidad
+sobre cualquier otra disposición relacionada a procedimientos o solicitudes
+de remedios provisionales, recursos extraordinarios, tales como entredichos
+provisionales, injunction preliminar y/o permanente, órdenes de cese y
+desista, o cualesquiera otros, que tengan como finalidad la obtención de una
+orden de paralización de una construcción o proyecto autorizado por la
+agencia competente.”
+Sección 24. – Se enmienda el Artículo 6.016 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+“Artículo 6.016 — Oficina de Ordenación Territorial; Oficina de Permisos y
+Reglamentos Internos
+El Municipio, previo o durante la elaboración de un Plan de Ordenación,
+creará una Oficina de Ordenación Territorial, cuyas funciones, serán, sin que se
+entienda una limitación, las siguientes:
+(a) …
+…
+La Oficina de Ordenación Territorial será dirigida por un Director nombrado
+por el alcalde y confirmado por la Legislatura Municipal. Dicho Director será un
+planificador licenciado conforme a la Ley 160-1996, según enmendada, conocida
+como “Ley para Reglamentar la Profesión de Planificador en Puerto Rico” o que
+posea un grado de maestría en planificación y cinco (5) años de experiencia en el
+campo de la planificación. El Municipio revisará su organigrama administrativo
+para ubicar estas oficinas y coordinar su funcionamiento con otras oficinas de
+planificación, existentes o de futura creación.
+El alcalde podrá enviar a la Legislatura Municipal un nombramiento como
+empleado de confianza, o bajo un contrato por servicios profesionales, para cubrir
+dicho puesto. En ambos casos, el Director no podrá intervenir en ninguna
+evaluación, cuyo proyecto, endoso o cualquier instancia que concierna al Plan de
+
+25
+Ordenamiento Territorial el cual represente un conflicto de intereses, ya sea porque
+posea intereses económicos o personales, o los posea algún miembro de su familia
+hasta el tercer grado de consanguineidad o segundo de afinidad. En los casos bajo
+servicios profesionales, se pueden establecer a través de una corporación, siempre y
+cuando la persona que brinde el servicio directo al Municipio tenga todas las
+credenciales y sea la que firme los documentos pertinentes.
+…
+La Oficina de Permisos será dirigida por el Oficial de Permisos, quien será
+una persona de reconocida capacidad, conocimiento y con más de cinco (5) años de
+experiencia en el área de permisos. El mismo será nombrado por el alcalde y
+confirmado por la Legislatura Municipal.
+… “
+Sección 25. – Se enmienda el Artículo 7.200 para añadir un nuevo inciso (k) de la Ley
+107-2020, según enmendada, para que lea como sigue:
+“Artículo 7.200 — Volumen de Negocios
+(a) …
+…
+(k) Contratos Municipales - el volumen de negocios proveniente de contratos
+municipales por la prestación de cualquier servicio o por la venta de cualquier bien,
+cual se considerará ingreso bruto de industria o negocio del Municipio contratante,
+independiente del Municipio donde el contratista mantenga oficina, sucursal,
+almacén o lugar de negocios, el contratista municipal que no mantenga presencia
+física en el Municipio a través de oficina, sucursal, almacén o lugar de negocios,
+deberá adquirir una patente provisional en el Municipio que se trate, pagando la
+patente municipal correspondiente computada sobre el volumen de negocio a ser
+generado por el contrato municipal. El pago de esta patente municipal se realizará
+dentro del término dispuesto para el registro del contrato municipal en la Oficina
+del Contralor de Puerto Rico, en cumplimiento con la Ley Núm. 18 de 30 de octubre
+de 1975, según enmendada, sin que sea necesario requerir al contribuyente
+documento adicional alguno, que no sea acreditar el contrato municipal otorgado y
+para el cual no tendrá que expedirse el certificado de patente, conforme se dispone
+en el Artículo 7.209 de este Código. La cantidad pagada por la patente municipal en
+virtud de este inciso será deducida y acreditada contra el monto total a pagar por
+concepto de patente basado en la declaración de volumen de negocio a ser radicada,
+de acuerdo a lo establecido en los Artículos 7.207 y 7.208 de este Código. El
+Municipio emitirá un recibo de pago que será evidencia para la deducción a la que
+se refiere el inciso (h).
+Sección 26. – Se enmienda el Artículo 8.001 de la Ley 107-2020, según enmendada,
+para que lea como sigue:
+
+26
+“Artículo 8.001 — Definiciones
+Los términos utilizados en este Código tendrán los significados que a
+continuación se expresa, excepto donde el contexto claramente indique otra
+definición; los términos en singular incluyen el plural y en la acepción masculina se
+incluye la femenina:
+1. …
+…
+98. Estorbo Público: Cualquier estructura abandonada o solar abandonado,
+yermo o baldío que es inadecuada para ser habitada o utilizada por seres
+humanos, por estar en condiciones de ruina, falta de reparación, defectos de
+construcción, o que es perjudicial a la salud o seguridad del público. Dichas
+condiciones pueden incluir, pero sin limitarse a, las siguientes: defectos en la
+estructura que aumentan los riesgos de incendios o accidentes; depósito de
+chatarras o escombros, falta de adecuada ventilación o facilidades sanitarias;
+falta de energía eléctrica o agua potable; y falta de limpieza.
+…
+171. Obligaciones Estatutarias: Serán aquellas deudas vencidas, líquidas y
+exigibles del Municipio, incluyendo deudas con el Centro de Recaudación de
+Ingresos Municipales o deudas con cualquier entidad gubernamental o
+corporaciones públicas. A estos fines, se incluyen las siguientes: intereses,
+amortizaciones y retiro de la deuda pública municipal; otros gastos y
+obligaciones que la Ley exija su prelación y cumplimiento; el pago de las
+sentencias finales de los tribunales de justicia; la cantidad que fuere necesaria
+para cubrir cualquier déficit del año fiscal anterior; los gastos a que esté
+legalmente obligado el Municipio por contratos ya celebrados; gastos de
+utilidades y servicios públicos; los gastos u obligaciones cuya inclusión se
+exige en este Código.
+172. …
+…”
+Sección 27. – Separabilidad
+Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+disposición, sección, subsección, título, capítulo, subcapítulo, acápite, o parte de esta
+Ley fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+de dicha resolución, dictamen o sentencia quedará limitado a la cláusula, párrafo,
+subpárrafo, oración, palabra, letra, artículo, disposición, sección, subsección, título,
+capítulo, subcapítulo, acápite, o parte de esta Ley que así hubiere sido anulada o
+declarada inconstitucional.
+
+27
+Sección 28. – Vigencia
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:  a e a d l f m p a o a d e p y f l m p m f a l a r a m d t e e h u n m d m e a l d d T o a O d P m d d l a e a d l n c c a l L 2 d i s c p f l r d y c d p c a l p m s m m l d d “ P y L 1 s e c c “ M d t l r a l o g a y d l m d P R A d a l l , t l o y r m A e f n C M s c e i t l l e y a f d l g m E p e q l]
+[DELETED:  , d a p y f n p q p a s m m e C M p l m a y p c c e i p e p a l c d u e y r a s n y a A c l d C M s r q l m s l e m c a p y e m i d s n y d a m y q h p v a d l y p e v l L 1 , a l f d c a l m p l e e d s d y p q d l l m q p s a c e q l p b d n o e q l m n C t i e l S 7 A I u a q e e a l L M E m c c e n E p d “ h u v d d l c d l e s e e m , .os]
+[DELETED:  c c e c a l c d l s l e n r l d d A 2 d C u e M p n a u f b e p d d l O d A I q c s e e d f d p p i m p d y p a d d l f m a o p s d a a y e l f y q t e b d l i d p y e l a m y a s v q e p d A o n p l m p d i y e p c e p e c l y e e e A 24e l q s d q u a i h s r s d . s a v a i a C M e d l L 1 s p d c e p e e l r d l c y v e e o f p q l p d c e p p s]
+[DELETED:  d y c n o d v a y d D i f s a e p e l c d o y b e n p s d p c q d s l e d d l p e n a l d d A 6 s f O d O T y d O d P c D d l 7 y 7 d l L 1 s e E l a d d e s e q e v p d m s c i b d i o n d c i d M d e c m i ( p e l a p d p m q d p a f d l m l p e a s a l f t m c s i l a y q n s i c l l i d G t l a e e A L e n y a c d a l r L c p d n y e d p h n a l m p l e d s d y p q c o l s d]
+[DELETED:  m t l p n y c q l c C o e c o l l m t l s v u p e d e p e M p a e e g y e c p e p p e c d s l p g a o g r a l d d p y g r a m d s c d e a d c d l j c P a e m e d n a C s s i d a a d c o o d e e C y o E a s n m t d 1 d n d c a u d a f p E a p a s d p d e a p E s r a e S d l L c c s p c m d d C y e p e p e l p c d m y d f]
+[DELETED:  p e P d E U e a t c y c ( d c a p d d 1 d n p s e i 3 S e e A 1 d l L 1 s e f l q p e C s c a l m e p u L M L L d c u d l                      L d l C C d S J e i h u l e d M a q c e c e g p u d c ( a c a p d s l d e d a y n ( c a l L M c c h u d d ( c ( y d ( m r q p l C C d S J p p h u ( c ( y c ( q h o l m c d v]
+[DELETED:  s e p e v d s u e o e q a e l c d q l t ( o ( n ( c ( y c ( p d u m p r e p e v d l d ( p p c a q p l m d l M y u ( d p q l t E e c d e L M a q s d e s d s e l v p L M E e c l M q c p e n m d p e l c d p d a h a p d y q n h s e p e v d e e p q l M p s r e l t d l cah d c a s p c a e C a c u d l)L d m a d ( q h o m v e e)E l m o m c d v s u e o e q]
+[DELETED: )S a s e e l c q h o C E d E a l m n p d l L M a q h r e A n c a 2 L d d S d E r p l e q s c d d c r E S l n a l E d E d d y s h p p)S c e v d d t ( p d s m a l i d l S O p u p q n c ( d d S E l L M p l S O p e n d d q c s … a v o a r e l S d l L e P d R d P d M l e e e A 1 d e C a d]
+[DELETED:  o a d p l e e C E M l L M l e y a s l e C d l p S O E p d y a d l r d p p c c e d y d f p e t cod,cs c a i d c a y g e D d l O d A I t l s]
+[DELETED:  A a a e l a e i d m y d g d r c y d y p h l n m y l n a s l D u p m d a p y d a e e d r i l u d l f y a p e M i l s d D s a l p d a c i p e a f d e l l y a y a l g m p p l A a a e e d d e p n yP s p e p dlA I d p u g d e A d E c e e c oai,p  d a q g d b r e l c y r a q s d e e p d c d psq a l.E A I s n p e a y s n e a l d s r y s q s e e e E a y r e m d p f y d e y p d c i y d c o d e e C o e c o l e A…]
+[DELETED:  s n p l a c l a p y oáe,y p i e sua o e s r aea s p s a t c q s e o s e M p c l s p t y p r l a p y o a c p c c c f p a b e e v r q t e e m l s a L f d l h s h d d u m d)L]
+[DELETED: )P)…)I r l P d E j a l a e C y a l R 5 d l R d C d P R e T e e u e y t p d c c y a p e u d M q h q i e l p o p a q c b l c l p d l b E l e d p d.U p r l c d p e t e 2 — A a l m p A o V a a l m a a u b i p e e r p d c d t y u a l J d s q d i e u d d l j y]
+[DELETED:  a s p d u p d p e  M c d p c b l S 5 d l “ d S c c “ p S y T e P d i f l v d b i o s p f u p d h a o i d s e M p d p d c r o d e m a c e m e m c m c b e C y a o p p u t n m d d ( m e p d s y d t l b d s p o d d o p e s f o f a a l d s e o M e m o a p a d l n d l e d o y l a n d l c m c b e C s s r l pnd l a n d l e m o d l J d,a c e c d e a d E p p d d d m g d t o c o]
+[DELETED:  n a t d r c e y c d c d p y e e u p d t e l d ( m a a l f d c d l g y h e s l d m d e s a d u c. d l e c a l r q a  L j  N o m a e e e e y l a d t d e y n l d l q ( h d t s e p e M,e s d d d e c d s a l d e e A 2 ( t d a r l d e d a l e q r f d n]
+[DELETED:  e m q e d n a o s e c c “ d l A d E d L A d P R d 2 A a c s d o r p e d G d P R v p a a s d r a p e G d E L d P R d f v u o E d t s c o d a a l s d p o s p e e l i u o d l s n e o s i d g o o s p i p o r o p s v d v,n C A d s o p y r l m)L m M o m u c d s p r l f d p l i d l p p m d m q]
+[DELETED:  M n c c u i l o c u a l q n e s d s r s o s d y d p p r j y c e e p c l d y l A c e t a e M p p a s c c l l d y l a e e R d l P u g p l c d d u e t d c l j c a n s q e p o p c i e l p l r a M e p p o p c i s n]
+[DELETED:  l p c e poy n l d f a v e u d d e p s u p e M e l f p s e a t c e A 1 d e C p r l o c s h s v e o a l d d e l o e d l c n o p c u l d l d P R s ú e c d e e C o m c e p e M s f d d c l j c E g e f d o r l e d l c n o p s l u m t a t a s p a M d e l p i l c s n m d m ( d n u p d d y s p r e c d e s l i l s m S m p l p n m d m ( d p n m d m q e p c b i a n d t a q s l h l c n y r d a E m s d t d s ( d d h s d s y q g l t d i c D g y p s i e l d e s e M a l]
+[DELETED:  L m i s p a M d e u l j q c p l e d l p y s v e)E M p e l r o d i d o d e t d i r o a l p s l r l c a a v d a m d c l j c U v s l l t a M t d i r o c e C d R d I M s e q e M h ioa v d l j U v s l t l t a M e l t d i r o p d c l p c e C d R d I M)C n h a l d r a l had C C S e l p i d d q s h l d n a l ú d]
+[DELETED:  d l p o p c d h s l E I d P D E P a d e i L m p v c d o M p u p e p e e T d P 4 — I d P D c E e M n f a e i d c P D c E P q i l s]
+[DELETED:  P p s o d e y a p e M s r r r d o p h u E s l n a M d s i d a v e e e i d t m u s d p i e d t r a d c d l t e g n e c e M p l e d eod sy e c d a l p a e E c l p E s s d p a s y p q i e l p e e m s l t d M m u p i e d t e g c j c s r d s e s a M l s d d p c l E M n r e t d l t d l]
+[DELETED:  a p m d p E Moe f p d e C d r l a d c p d l y h d a e a c q d s i c j c i c p q d d p d e o e T d e L E p j d l c a l d o l e r e c d n c l d e e t L d d s e M t l t d)…)E M n v o a c d a s l C D o c a m e q e o l c a t m l a r e s c a l d E c d q e d a p e M s p d d l j p y l c a p c d m y l g d]
+[DELETED:  y d m d l p e q e M h)U v e t e u s e e e l ját M m o m a p l L s d e a e c s t d e q p s r c r A e e M d c c p o c e i a p c o d a u p l e l p d m t N s u e s d e a e p b a t i a q s r c i d i S c u t a q n o e h t n s c t a P e s e t d u ( a a c i p q p u t a d s ( m T l t d p i m d h t u ( a d q l p f e p e i e e i d p d 2 S e e A 4 d l L 1 s e-R t d i n h r l r r o d d l p a e M p e l]
+[DELETED:  2 S e e A 6 d l L 1 s e … S r e p — E a n c t v e a o e r ú u o a s i c u t q n S t d p d p e M o c p o d i c y q d P R ( p s s e i e c c “ p S y p d E d p s d q s i a u r a n e q S j m e t y a q p d d l p y c d a e p l c d t h s u s d g d e e s a l]
+[DELETED:  d P R c c “ p e m e p l m s d a a t i p y p ó d c y d p d u c o p a p l M p o d l e d u P d O u O d O T c f s s q s e a y c p l L M D D s u l c a l L 1 s e c “ p R l P d P e P R o q d l p E M r s o a u e o y c s f c o o d p E a c e D n p i e n]
+[DELETED:  l p q b e s d a M t t l e e á d p E m s n p e a y C M - e v d n p d csl d M d e c m o s e e M a t d o s a o l d n 1 s e s q s n r a c a a l e e l A 7 y 7 d e C E]
+[DELETED:  t u e e C t l s q a s e e d e c c i o.… E P C e a o s a o b q e i p s h o u p s.O E S a d v l y M o d c c e g o p A e f s i l s i y r d l d p m o g y q l L e s p y c e p d l c c d d a f a l g a q e o e M p c y c g d y s p l g u o c i s c c p s o p l a s s t c s a o p d e d r d o s q l a l c p o p l a d s s t s a o p d e L q a h s a o]

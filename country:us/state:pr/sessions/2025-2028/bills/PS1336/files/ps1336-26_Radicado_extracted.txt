@@ -1,0 +1,422 @@
+Title: Para enmendar el Artículo 13 y añadir un nuevo Artículo 13-A a la Ley 90-2020, según
+Official Title: Para enmendar el Artículo 13 y añadir un nuevo Artículo 13-A a la Ley 90-2020, según
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1336
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+enmendada, conocida como “Ley para prohibir y prevenir el Acoso Laboral en Puerto
+Rico”, a los fines de establecer el procedimiento judicial aplicable a las reclamaciones de
+acoso laboral instadas por personas empleadas del sector público; disponer para la
+tramitación preferente de dichas reclamaciones conforme a las Reglas de Procedimiento
+Civil; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La protección de la dignidad en el lugar de trabajo no depende de la naturaleza
+pública o privada del patrono. Toda persona debe poder desempeñar sus funciones en
+un ambiente libre de conductas abusivas, intimidantes o humillantes que menoscaben su
+integridad, afecten su salud o interfieran irrazonablemente con el ejercicio de sus
+responsabilidades. Con esa finalidad, la Ley 90-2020 reconoció una causa de acción
+específica contra el acoso laboral y extendió su aplicación a una amplia variedad de
+relaciones de empleo.
+La legislación incluyó expresamente dentro del concepto de patrono al Gobierno de
+Puerto Rico, las ramas Ejecutiva, Legislativa y Judicial, sus instrumentalidades y
+corporaciones públicas, los municipios y sus entidades. Sin embargo, al establecer el
+procedimiento judicial para hacer valer sus disposiciones, permitió que la persona
+perjudicada escogiera entre el procedimiento sumario de la Ley Núm. 2 de 17 de octubre
+2
+de 1961 y el procedimiento ordinario de las Reglas de Procedimiento Civil, sin distinguir
+entre las personas que podían acogerse válidamente a cada una de esas vías.
+Esa falta de precisión fue atendida por el Tribunal Supremo de Puerto Rico en Reyes
+Berríos v. Estado Libre Asociado de Puerto Rico, 2024 TSPR 53. Allí se resolvió que la Ley
+90-2020 protege sustantivamente a las personas empleadas del sector público y permite
+exigir responsabilidad civil al Gobierno como patrono, pero que la referencia general
+contenida en su Artículo 13 no tuvo el efecto de extender el procedimiento sumario de la
+Ley Núm. 2 a quienes están excluidos de su ámbito de aplicación. En tales circunstancias,
+la reclamación debe tramitarse mediante el procedimiento ordinario dispuesto en las
+Reglas de Procedimiento Civil.
+La decisión judicial resolvió la controversia interpretativa, pero el texto estatutario
+continúa presentando como igualmente disponibles dos procedimientos que no
+necesariamente aplican a todas las personas protegidas por la Ley 90-2020. Mantener esa
+redacción puede inducir a error al momento de presentar una reclamación, emplazar al
+patrono, calcular el término para contestar o solicitar la anotación de rebeldía. También
+perpetúa una diferencia práctica: mientras algunas personas pueden procurar un trámite
+sumario, otras quedan sujetas a un proceso ordinario que puede extenderse por un
+periodo considerable, aun cuando ambas reclaman protección frente a una misma
+conducta proscrita.
+La solución no debe consistir en trasladar automáticamente al sector público la
+totalidad de la Ley Núm. 2. Ese estatuto contiene términos abreviados, consecuencias
+procesales estrictas y limitaciones al descubrimiento de prueba concebidas para un
+contexto particular. Su aplicación indiscriminada a reclamaciones contra agencias,
+municipios o instrumentalidades podría afectar el emplazamiento correspondiente, la
+representación legal del Gobierno, el manejo de expedientes públicos y la adecuada
+comparecencia de las partes.
+Esta medida adopta una alternativa más equilibrada. Se aclara que la disponibilidad
+del procedimiento sumario dependerá de que la persona reclamante esté comprendida
+dentro de la definición y del ámbito de aplicación de la Ley Núm. 2. Cuando no lo esté,
+3
+su reclamación se tramitará bajo las Reglas de Procedimiento Civil, pero recibirá atención
+preferente mediante una conferencia inicial temprana, una orden de manejo del caso, un
+descubrimiento proporcional y mecanismos para atender con prontitud solicitudes
+dirigidas a prevenir represalias o preservar evidencia.
+El procedimiento propuesto no crea una nueva causa de acción, no amplía los daños
+reconocidos por la Ley 90-2020 y no elimina las defensas que correspondan a las partes.
+Su propósito es ofrecer certeza sobre el cauce procesal aplicable y evitar que el acceso
+efectivo a los remedios contra el acoso laboral dependa exclusivamente de si la persona
+presta servicios en el sector público o privado. De esta forma, se armoniza el texto
+legislativo con la jurisprudencia vigente y se preserva un balance adecuado entre
+celeridad, debido proceso y buena administración de la justicia.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.—Se enmienda el Artículo 13 de la Ley 90-2020, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 13.—[Procedimiento Sumario.] Procedimiento judicial aplicable.
+4 [En todo pleito judicial que se inste por violación a las disposiciones de esta Ley,
+5 la persona perjudicada podrá optar por tramitar su causa de acción mediante el
+6 procedimiento sumario que establece la Ley Núm. 2 de 17 de octubre de 1961, o
+7 mediante el procedimiento ordinario que establece las Reglas de Procedimiento Civil
+8 de 2009.]
+9 (a) En todo pleito judicial que se inste por violación a las disposiciones de esta Ley, la
+10 persona perjudicada que esté comprendida dentro de la definición de obrero o empleado y del ámbito
+11 de aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, podrá optar por
+4
+1 tramitar su causa de acción mediante el procedimiento sumario establecido en dicha Ley o mediante
+2 el procedimiento ordinario dispuesto en las Reglas de Procedimiento Civil vigentes.
+3 (b) Cuando la persona reclamante no esté comprendida dentro de la definición o del ámbito
+4 de aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, tramitará su causa de
+5 acción conforme a las Reglas de Procedimiento Civil y al procedimiento preferente establecido en
+6 el Artículo 13-A de esta Ley.
+7 (c) La disponibilidad del procedimiento sumario se determinará conforme al ámbito de
+8 aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, y no dependerá
+9 exclusivamente de la naturaleza pública o privada del patrono. Nada de lo dispuesto en este
+10 Artículo impedirá que una persona empleada por una corporación pública, instrumentalidad u
+11 otra entidad gubernamental utilice el procedimiento sumario cuando esté comprendida dentro de
+12 la definición de obrero o empleado y del ámbito de aplicación de dicha Ley.
+13 (d) La selección o determinación del procedimiento judicial aplicable no ampliará ni
+14 reducirá los derechos sustantivos, remedios, cargas probatorias, términos prescriptivos, defensas o
+15 requisitos previos establecidos por esta Ley o por cualquier otra disposición legal aplicable.”
+16 Sección 2.—Se añade un nuevo Artículo 13-A a la Ley 90-2020, según enmendada,
+17 para que lea como sigue:
+18 “Artículo 13-A.—Procedimiento preferente para determinadas reclamaciones de personas
+19 empleadas del sector público.
+20 (a) Aplicabilidad.—Las disposiciones de este Artículo serán aplicables a toda reclamación
+21 instada al amparo de esta Ley por una persona que preste servicios al Gobierno de Puerto Rico,
+22 incluyendo sus ramas Ejecutiva, Legislativa y Judicial, departamentos, agencias,
+5
+1 instrumentalidades, corporaciones públicas, municipios, instrumentalidades municipales o
+2 corporaciones municipales, cuando la persona reclamante no esté comprendida dentro del ámbito
+3 de aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada.
+4 (b) Presentación, emplazamiento y contestación.—La presentación de la demanda, la
+5 expedición y diligenciamiento del emplazamiento, el término para formular alegaciones
+6 responsivas y las consecuencias del incumplimiento se regirán por las Reglas de Procedimiento
+7 Civil y por las disposiciones especiales que resulten aplicables al patrono demandado. No serán
+8 aplicables los términos abreviados para contestar ni las consecuencias automáticas de rebeldía
+9 establecidas en la Ley Núm. 2 de 17 de octubre de 1961, según enmendada.
+10 (c) Tramitación preferente.—El Tribunal de Primera Instancia identificará estas
+11 reclamaciones como asuntos de tramitación preferente. Una vez trabada la controversia mediante
+12 la presentación de las alegaciones correspondientes, el tribunal celebrará, siempre que las
+13 circunstancias del caso lo permitan, una conferencia inicial dentro de los sesenta (60) días
+14 siguientes.
+15 En la conferencia inicial, el tribunal emitirá una orden de manejo del caso que atienda,
+16 entre otros asuntos:
+17 (1) la delimitación de las controversias de hecho y de derecho;
+18 (2) la identificación de las personas con conocimiento de los hechos;
+19 (3) la preservación e intercambio de documentos, comunicaciones y evidencia electrónica;
+20 (4) el alcance proporcional del descubrimiento de prueba;
+21 (5) las fechas para la presentación y resolución de mociones;
+22 (6) la posibilidad de estipular hechos o documentos no controvertidos; y
+6
+1 (7) la fecha estimada para la conclusión del descubrimiento y la celebración del juicio.
+2 El incumplimiento con el término dispuesto para la conferencia inicial no afectará la
+3 jurisdicción del tribunal ni será fundamento para la desestimación de la reclamación.
+4 (d) Descubrimiento de prueba.—El descubrimiento será proporcional a las necesidades del
+5 caso y deberá dirigirse a obtener la información necesaria para adjudicar las alegaciones y defensas
+6 de las partes sin imponer cargas indebidas. Como norma general, deberá concluir dentro de los
+7 ciento ochenta (180) días siguientes a la conferencia inicial. El tribunal podrá ampliar dicho
+8 término por justa causa, tomando en consideración la complejidad de la controversia, el número
+9 de partes, la disponibilidad de expedientes públicos, las necesidades de prueba pericial y cualquier
+10 otra circunstancia pertinente.
+11 El tribunal podrá ordenar que el descubrimiento se realice por etapas, limitar asuntos
+12 repetitivos o marginales, fomentar el intercambio electrónico de información y adoptar las medidas
+13 necesarias para proteger información confidencial o privilegiada.
+14 (e) Resolución prioritaria.—Las solicitudes de remedios provisionales y las mociones
+15 dispositivas recibirán consideración prioritaria, de forma compatible con el debido proceso de ley.
+16 Concluido el descubrimiento y resueltas las mociones que puedan disponer total o parcialmente de
+17 la controversia, el tribunal señalará el juicio para la fecha más próxima que permita su calendario
+18 y la adecuada preparación de las partes.
+19 (f) Remedios provisionales.—A solicitud de parte y previa oportunidad de ser oído, el
+20 tribunal podrá conceder aquellos remedios provisionales autorizados por las Reglas de
+21 Procedimiento Civil que resulten necesarios para:
+22 (1) prevenir actos de represalia;
+7
+1 (2) preservar documentos, comunicaciones, grabaciones, expedientes o evidencia
+2 electrónica;
+3 (3) evitar la alteración o destrucción de prueba;
+4 (4) proteger la salud, seguridad o integridad de las personas involucradas; o
+5 (5) impedir que la continuación de la conducta alegada torne académico o ineficaz el
+6 remedio final.
+7 Al evaluar una solicitud de remedio provisional, el tribunal considerará la probabilidad de
+8 que la parte solicitante prevalezca, la existencia de un daño irreparable, el balance de intereses, la
+9 continuidad de los servicios públicos y el interés público. La concesión de una medida provisional
+10 no constituirá una adjudicación anticipada sobre los méritos de la reclamación.
+11 (g) Relación con otras leyes.—Nada de lo dispuesto en este Artículo se interpretará como
+12 una modificación de las normas aplicables al emplazamiento, comparecencia y representación legal
+13 del Gobierno de Puerto Rico, sus agencias, instrumentalidades, corporaciones públicas o
+14 municipios. Tampoco alterará las inmunidades, limitaciones de responsabilidad o defensas que
+15 resulten aplicables, excepto cuando esta Ley disponga expresamente lo contrario.
+16 La presentación de una reclamación al amparo de esta Ley no conferirá al tribunal
+17 jurisdicción sobre materias que otra ley haya asignado de forma exclusiva a un organismo
+18 administrativo. No obstante, la existencia de un procedimiento administrativo relacionado con una
+19 controversia distinta no privará al tribunal de jurisdicción sobre la causa de acción civil creada por
+20 esta Ley, sujeto al cumplimiento de los requisitos previos que resulten aplicables.
+21 (h) Facultad reglamentaria judicial.—La Rama Judicial podrá adoptar aquellas reglas,
+22 órdenes administrativas o mecanismos de manejo de casos que estime necesarios para implantar
+8
+1 este procedimiento, de conformidad con su autoridad constitucional y procurando una
+2 adjudicación justa, rápida y económica.”
+3 Sección 3.—Aplicación a procedimientos pendientes.
+4 Las disposiciones procesales de esta Ley serán aplicables a las acciones
+5 presentadas a partir de su fecha de vigencia. En aquellas acciones que se encuentren
+6 pendientes y sobre las cuales no haya recaído sentencia final y firme, el tribunal podrá
+7 aplicar el Artículo 13-A cuando ello facilite la tramitación justa y expedita del caso y no
+8 menoscabe derechos sustantivos adquiridos por las partes.
+9 Sección 4.—Cláusula de separabilidad.
+10 Si cualquier cláusula, párrafo, subpárrafo, artículo, disposición, sección o parte de
+11 esta Ley fuera declarada inconstitucional, nula o inválida por un tribunal con jurisdicción,
+12 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará sus restantes
+13 disposiciones. El efecto de dicha sentencia quedará limitado a la cláusula, párrafo,
+14 subpárrafo, artículo, disposición, sección o parte que hubiera sido declarada
+15 inconstitucional, nula o inválida.
+16 Sección 5.—Vigencia.
+17 Esta Ley entrará en vigor a los noventa (90) días después de su aprobación.
+[DELETED: 0 A 3 .rL   l i p p e d s p d p l p d l d e e l d t n d d l n a s s o i i c e e d s C e f l L 9 r u c d a c e a l e s a a u a v d R l r E L y J s i y p l m y s e S e a e e j p h v s d p q l p]
+[DELETED:  p c i d d p q n o q s a u p o q p e p u c a c a r p f a u m s n d c e t a a s p l e y l a d d p c p u p S a i a r c a l d G e m d e p y l a]
+[DELETED:  p y m p a c p s s e e s p o p D e f s a e t c l j v y s p u b a e—  P p p p o p t s c d a m e s q e l L N 2 d 1 d o d 1 o ( p d]
+[DELETED:  t e ( d a e ( a d l L N 2 d 1 d o d 1 s e y n d e d l n p o p d p N d l d e e A o l ( L s o d d p j a n a n r r “ e ( i i s r E L y J d a]
+[DELETED:  i c p m i m o c d ( P e y c p d l d l e y d d e e t p f a r C a e ( T p T d P I i e r l p d l a c e t c s q l c d c l p u c i d d l s ( d s E e ( ( ( ( ( (]
+[DELETED:  ( E i c e t d p l c i n a l j ( c d c o ( d s a l c i E t p a d t d o E r n ( R p s d r p y l m d C l y ( R p s d p y p o s o e t p c a r p a p l R d P (]
+[DELETED:  ( p d c g e o e e ( ( ( i q l c d l c a t a o i e r A q c n ( u d G d P R s a i c p o m r L p d u r a a d e L n c a t j s m q o l h a d f e a u o a c e ( F r j R J p a a r ó]
+[DELETED:  e p d c c s a c y p u a d p d e L s a a l a E e d d s q l a l c p a d s o p q h s d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1336
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar el Artículo 13 y añadir un nuevo Artículo 13-A a la Ley 90-2020, según
+enmendada, conocida como “Ley para prohibir y prevenir el Acoso Laboral en Puerto
+Rico”, a los fines de establecer el procedimiento judicial aplicable a las reclamaciones de
+acoso laboral instadas por personas empleadas del sector público; disponer para la
+tramitación preferente de dichas reclamaciones conforme a las Reglas de Procedimiento
+Civil; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La protección de la dignidad en el lugar de trabajo no depende de la naturaleza
+pública o privada del patrono. Toda persona debe poder desempeñar sus funciones en
+un ambiente libre de conductas abusivas, intimidantes o humillantes que menoscaben su
+integridad, afecten su salud o interfieran irrazonablemente con el ejercicio de sus
+responsabilidades. Con esa finalidad, la Ley 90-2020 reconoció una causa de acción
+específica contra el acoso laboral y extendió su aplicación a una amplia variedad de
+relaciones de empleo.
+La legislación incluyó expresamente dentro del concepto de patrono al Gobierno de
+Puerto Rico, las ramas Ejecutiva, Legislativa y Judicial, sus instrumentalidades y
+corporaciones públicas, los municipios y sus entidades. Sin embargo, al establecer el
+procedimiento judicial para hacer valer sus disposiciones, permitió que la persona
+perjudicada escogiera entre el procedimiento sumario de la Ley Núm. 2 de 17 de octubre
+
+2
+de 1961 y el procedimiento ordinario de las Reglas de Procedimiento Civil, sin distinguir
+entre las personas que podían acogerse válidamente a cada una de esas vías.
+Esa falta de precisión fue atendida por el Tribunal Supremo de Puerto Rico en Reyes
+Berríos v. Estado Libre Asociado de Puerto Rico, 2024 TSPR 53. Allí se resolvió que la Ley
+90-2020 protege sustantivamente a las personas empleadas del sector público y permite
+exigir responsabilidad civil al Gobierno como patrono, pero que la referencia general
+contenida en su Artículo 13 no tuvo el efecto de extender el procedimiento sumario de la
+Ley Núm. 2 a quienes están excluidos de su ámbito de aplicación. En tales circunstancias,
+la reclamación debe tramitarse mediante el procedimiento ordinario dispuesto en las
+Reglas de Procedimiento Civil.
+La decisión judicial resolvió la controversia interpretativa, pero el texto estatutario
+continúa presentando como igualmente disponibles dos procedimientos que no
+necesariamente aplican a todas las personas protegidas por la Ley 90-2020. Mantener esa
+redacción puede inducir a error al momento de presentar una reclamación, emplazar al
+patrono, calcular el término para contestar o solicitar la anotación de rebeldía. También
+perpetúa una diferencia práctica: mientras algunas personas pueden procurar un trámite
+sumario, otras quedan sujetas a un proceso ordinario que puede extenderse por un
+periodo considerable, aun cuando ambas reclaman protección frente a una misma
+conducta proscrita.
+La solución no debe consistir en trasladar automáticamente al sector público la
+totalidad de la Ley Núm. 2. Ese estatuto contiene términos abreviados, consecuencias
+procesales estrictas y limitaciones al descubrimiento de prueba concebidas para un
+contexto particular. Su aplicación indiscriminada a reclamaciones contra agencias,
+municipios o instrumentalidades podría afectar el emplazamiento correspondiente, la
+representación legal del Gobierno, el manejo de expedientes públicos y la adecuada
+comparecencia de las partes.
+Esta medida adopta una alternativa más equilibrada. Se aclara que la disponibilidad
+del procedimiento sumario dependerá de que la persona reclamante esté comprendida
+dentro de la definición y del ámbito de aplicación de la Ley Núm. 2. Cuando no lo esté,
+
+3
+su reclamación se tramitará bajo las Reglas de Procedimiento Civil, pero recibirá atención
+preferente mediante una conferencia inicial temprana, una orden de manejo del caso, un
+descubrimiento proporcional y mecanismos para atender con prontitud solicitudes
+dirigidas a prevenir represalias o preservar evidencia.
+El procedimiento propuesto no crea una nueva causa de acción, no amplía los daños
+reconocidos por la Ley 90-2020 y no elimina las defensas que correspondan a las partes.
+Su propósito es ofrecer certeza sobre el cauce procesal aplicable y evitar que el acceso
+efectivo a los remedios contra el acoso laboral dependa exclusivamente de si la persona
+presta servicios en el sector público o privado. De esta forma, se armoniza el texto
+legislativo con la jurisprudencia vigente y se preserva un balance adecuado entre
+celeridad, debido proceso y buena administración de la justicia.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.—Se enmienda el Artículo 13 de la Ley 90-2020, según enmendada, para
+2 que lea como sigue:
+3 “Artículo 13.—[Procedimiento Sumario.] Procedimiento judicial aplicable.
+4 [En todo pleito judicial que se inste por violación a las disposiciones de esta Ley,
+5 la persona perjudicada podrá optar por tramitar su causa de acción mediante el
+6 procedimiento sumario que establece la Ley Núm. 2 de 17 de octubre de 1961, o
+7 mediante el procedimiento ordinario que establece las Reglas de Procedimiento Civil
+8 de 2009.]
+9 (a) En todo pleito judicial que se inste por violación a las disposiciones de esta Ley, la
+10 persona perjudicada que esté comprendida dentro de la definición de obrero o empleado y del ámbito
+11 de aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, podrá optar por
+
+4
+1 tramitar su causa de acción mediante el procedimiento sumario establecido en dicha Ley o mediante
+2 el procedimiento ordinario dispuesto en las Reglas de Procedimiento Civil vigentes.
+3 (b) Cuando la persona reclamante no esté comprendida dentro de la definición o del ámbito
+4 de aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, tramitará su causa de
+5 acción conforme a las Reglas de Procedimiento Civil y al procedimiento preferente establecido en
+6 el Artículo 13-A de esta Ley.
+7 (c) La disponibilidad del procedimiento sumario se determinará conforme al ámbito de
+8 aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, y no dependerá
+9 exclusivamente de la naturaleza pública o privada del patrono. Nada de lo dispuesto en este
+10 Artículo impedirá que una persona empleada por una corporación pública, instrumentalidad u
+11 otra entidad gubernamental utilice el procedimiento sumario cuando esté comprendida dentro de
+12 la definición de obrero o empleado y del ámbito de aplicación de dicha Ley.
+13 (d) La selección o determinación del procedimiento judicial aplicable no ampliará ni
+14 reducirá los derechos sustantivos, remedios, cargas probatorias, términos prescriptivos, defensas o
+15 requisitos previos establecidos por esta Ley o por cualquier otra disposición legal aplicable.”
+16 Sección 2.—Se añade un nuevo Artículo 13-A a la Ley 90-2020, según enmendada,
+17 para que lea como sigue:
+18 “Artículo 13-A.—Procedimiento preferente para determinadas reclamaciones de personas
+19 empleadas del sector público.
+20 (a) Aplicabilidad.—Las disposiciones de este Artículo serán aplicables a toda reclamación
+21 instada al amparo de esta Ley por una persona que preste servicios al Gobierno de Puerto Rico,
+22 incluyendo sus ramas Ejecutiva, Legislativa y Judicial, departamentos, agencias,
+
+5
+1 instrumentalidades, corporaciones públicas, municipios, instrumentalidades municipales o
+2 corporaciones municipales, cuando la persona reclamante no esté comprendida dentro del ámbito
+3 de aplicación de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada.
+4 (b) Presentación, emplazamiento y contestación.—La presentación de la demanda, la
+5 expedición y diligenciamiento del emplazamiento, el término para formular alegaciones
+6 responsivas y las consecuencias del incumplimiento se regirán por las Reglas de Procedimiento
+7 Civil y por las disposiciones especiales que resulten aplicables al patrono demandado. No serán
+8 aplicables los términos abreviados para contestar ni las consecuencias automáticas de rebeldía
+9 establecidas en la Ley Núm. 2 de 17 de octubre de 1961, según enmendada.
+10 (c) Tramitación preferente.—El Tribunal de Primera Instancia identificará estas
+11 reclamaciones como asuntos de tramitación preferente. Una vez trabada la controversia mediante
+12 la presentación de las alegaciones correspondientes, el tribunal celebrará, siempre que las
+13 circunstancias del caso lo permitan, una conferencia inicial dentro de los sesenta (60) días
+14 siguientes.
+15 En la conferencia inicial, el tribunal emitirá una orden de manejo del caso que atienda,
+16 entre otros asuntos:
+17 (1) la delimitación de las controversias de hecho y de derecho;
+18 (2) la identificación de las personas con conocimiento de los hechos;
+19 (3) la preservación e intercambio de documentos, comunicaciones y evidencia electrónica;
+20 (4) el alcance proporcional del descubrimiento de prueba;
+21 (5) las fechas para la presentación y resolución de mociones;
+22 (6) la posibilidad de estipular hechos o documentos no controvertidos; y
+
+6
+1 (7) la fecha estimada para la conclusión del descubrimiento y la celebración del juicio.
+2 El incumplimiento con el término dispuesto para la conferencia inicial no afectará la
+3 jurisdicción del tribunal ni será fundamento para la desestimación de la reclamación.
+4 (d) Descubrimiento de prueba.—El descubrimiento será proporcional a las necesidades del
+5 caso y deberá dirigirse a obtener la información necesaria para adjudicar las alegaciones y defensas
+6 de las partes sin imponer cargas indebidas. Como norma general, deberá concluir dentro de los
+7 ciento ochenta (180) días siguientes a la conferencia inicial. El tribunal podrá ampliar dicho
+8 término por justa causa, tomando en consideración la complejidad de la controversia, el número
+9 de partes, la disponibilidad de expedientes públicos, las necesidades de prueba pericial y cualquier
+10 otra circunstancia pertinente.
+11 El tribunal podrá ordenar que el descubrimiento se realice por etapas, limitar asuntos
+12 repetitivos o marginales, fomentar el intercambio electrónico de información y adoptar las medidas
+13 necesarias para proteger información confidencial o privilegiada.
+14 (e) Resolución prioritaria.—Las solicitudes de remedios provisionales y las mociones
+15 dispositivas recibirán consideración prioritaria, de forma compatible con el debido proceso de ley.
+16 Concluido el descubrimiento y resueltas las mociones que puedan disponer total o parcialmente de
+17 la controversia, el tribunal señalará el juicio para la fecha más próxima que permita su calendario
+18 y la adecuada preparación de las partes.
+19 (f) Remedios provisionales.—A solicitud de parte y previa oportunidad de ser oído, el
+20 tribunal podrá conceder aquellos remedios provisionales autorizados por las Reglas de
+21 Procedimiento Civil que resulten necesarios para:
+22 (1) prevenir actos de represalia;
+
+7
+1 (2) preservar documentos, comunicaciones, grabaciones, expedientes o evidencia
+2 electrónica;
+3 (3) evitar la alteración o destrucción de prueba;
+4 (4) proteger la salud, seguridad o integridad de las personas involucradas; o
+5 (5) impedir que la continuación de la conducta alegada torne académico o ineficaz el
+6 remedio final.
+7 Al evaluar una solicitud de remedio provisional, el tribunal considerará la probabilidad de
+8 que la parte solicitante prevalezca, la existencia de un daño irreparable, el balance de intereses, la
+9 continuidad de los servicios públicos y el interés público. La concesión de una medida provisional
+10 no constituirá una adjudicación anticipada sobre los méritos de la reclamación.
+11 (g) Relación con otras leyes.—Nada de lo dispuesto en este Artículo se interpretará como
+12 una modificación de las normas aplicables al emplazamiento, comparecencia y representación legal
+13 del Gobierno de Puerto Rico, sus agencias, instrumentalidades, corporaciones públicas o
+14 municipios. Tampoco alterará las inmunidades, limitaciones de responsabilidad o defensas que
+15 resulten aplicables, excepto cuando esta Ley disponga expresamente lo contrario.
+16 La presentación de una reclamación al amparo de esta Ley no conferirá al tribunal
+17 jurisdicción sobre materias que otra ley haya asignado de forma exclusiva a un organismo
+18 administrativo. No obstante, la existencia de un procedimiento administrativo relacionado con una
+19 controversia distinta no privará al tribunal de jurisdicción sobre la causa de acción civil creada por
+20 esta Ley, sujeto al cumplimiento de los requisitos previos que resulten aplicables.
+21 (h) Facultad reglamentaria judicial.—La Rama Judicial podrá adoptar aquellas reglas,
+22 órdenes administrativas o mecanismos de manejo de casos que estime necesarios para implantar
+
+8
+1 este procedimiento, de conformidad con su autoridad constitucional y procurando una
+2 adjudicación justa, rápida y económica.”
+3 Sección 3.—Aplicación a procedimientos pendientes.
+4 Las disposiciones procesales de esta Ley serán aplicables a las acciones
+5 presentadas a partir de su fecha de vigencia. En aquellas acciones que se encuentren
+6 pendientes y sobre las cuales no haya recaído sentencia final y firme, el tribunal podrá
+7 aplicar el Artículo 13-A cuando ello facilite la tramitación justa y expedita del caso y no
+8 menoscabe derechos sustantivos adquiridos por las partes.
+9 Sección 4.—Cláusula de separabilidad.
+10 Si cualquier cláusula, párrafo, subpárrafo, artículo, disposición, sección o parte de
+11 esta Ley fuera declarada inconstitucional, nula o inválida por un tribunal con jurisdicción,
+12 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará sus restantes
+13 disposiciones. El efecto de dicha sentencia quedará limitado a la cláusula, párrafo,
+14 subpárrafo, artículo, disposición, sección o parte que hubiera sido declarada
+15 inconstitucional, nula o inválida.
+16 Sección 5.—Vigencia.
+17 Esta Ley entrará en vigor a los noventa (90) días después de su aprobación.
+
+[DELETED: 0 A 3 .rL   l i p p e d s p d p l p d l d e e l d t n d d l n a s s o i i c e e d s C e f l L 9 r u c d a c e a l e s a a u a v d R l r E L y J s i y p l m y s e S e a e e j p h v s d p q l p]
+[DELETED:  p c i d d p q n o q s a u p o q p e p u c a c a r p f a u m s n d c e t a a s p l e y l a d d p c p u p S a i a r c a l d G e m d e p y l a]
+[DELETED:  p y m p a c p s s e e s p o p D e f s a e t c l j v y s p u b a e—  P p p p o p t s c d a m e s q e l L N 2 d 1 d o d 1 o ( p d]
+[DELETED:  t e ( d a e ( a d l L N 2 d 1 d o d 1 s e y n d e d l n p o p d p N d l d e e A o l ( L s o d d p j a n a n r r “ e ( i i s r E L y J d a]
+[DELETED:  i c p m i m o c d ( P e y c p d l d l e y d d e e t p f a r C a e ( T p T d P I i e r l p d l a c e t c s q l c d c l p u c i d d l s ( d s E e ( ( ( ( ( (]
+[DELETED:  ( E i c e t d p l c i n a l j ( c d c o ( d s a l c i E t p a d t d o E r n ( R p s d r p y l m d C l y ( R p s d p y p o s o e t p c a r p a p l R d P (]
+[DELETED:  ( p d c g e o e e ( ( ( i q l c d l c a t a o i e r A q c n ( u d G d P R s a i c p o m r L p d u r a a d e L n c a t j s m q o l h a d f e a u o a c e ( F r j R J p a a r ó]
+[DELETED:  e p d c c s a c y p u a d p d e L s a a l a E e d d s q l a l c p a d s o p q h s d]

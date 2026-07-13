@@ -1,0 +1,520 @@
+Title: Para enmendar las Secciones 3.13, 3.14 y 3.18 de la Ley Núm. 38-2017, según enmendada,
+Official Title: Para enmendar las Secciones 3.13, 3.14 y 3.18 de la Ley Núm. 38-2017, según enmendada,
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1333
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+conocida como “Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto
+Rico”, a los fines de regular la adopción total o parcial de informes preparados por
+oficiales examinadores, jueces administrativos o funcionarios que presidan vistas
+adjudicativas; establecer requisitos mínimos para su incorporación por referencia en
+órdenes o resoluciones finales; disponer su inclusión en el expediente oficial; aclarar el
+deber adjudicativo final de la agencia; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 38-2017, según enmendada, conocida como “Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico”, establece las garantías mínimas
+que rigen los procedimientos adjudicativos ante las agencias administrativas. Entre
+dichas garantías se encuentran el derecho a una vista justa, la preparación de un
+expediente oficial, la emisión de órdenes o resoluciones finales por escrito, la inclusión
+de determinaciones de hecho y conclusiones de derecho, y la notificación adecuada de
+los recursos disponibles.
+En los procedimientos adjudicativos administrativos, es común que la vista sea
+presidida por un oficial examinador, juez administrativo o funcionario autorizado. Dicho
+funcionario recibe prueba, evalúa testimonios, atiende incidencias procesales y, cuando
+no posee autoridad delegada para emitir la decisión final, prepara un informe para la
+2
+consideración de la agencia. Ese informe puede resultar esencial para la adjudicación
+final, especialmente cuando contiene determinaciones de credibilidad, resumen de la
+prueba, determinaciones de hecho, conclusiones de derecho y recomendaciones.
+El Tribunal Supremo de Puerto Rico atendió recientemente esta materia en Vur-Jer,
+LLC v. Junta Reglamentadora de Cannabis Medicinal, 2026 TSPR 46. En dicho caso, el
+Tribunal evaluó si una agencia administrativa puede acoger íntegramente el informe de
+una oficial examinadora e incorporarlo por referencia como parte de su resolución final.
+La controversia giró en torno a si dicha práctica satisface el deber de la agencia de exponer
+determinaciones de hecho y conclusiones de derecho conforme a la Ley de Procedimiento
+Administrativo Uniforme.
+Esta Asamblea Legislativa entiende que la incorporación por referencia de un informe
+de oficial examinador puede ser una práctica válida, eficiente y compatible con el debido
+proceso de ley, siempre que se realice de manera clara, transparente y verificable. No
+obstante, también entiende que dicha práctica debe regularse expresamente para evitar
+impugnaciones por defectos de forma, notificaciones incompletas o dudas sobre si la
+agencia realmente ejerció su función adjudicativa final.
+La finalidad de esta medida no es impedir que las agencias adopten informes
+preparados por oficiales examinadores, jueces administrativos o funcionarios que
+presidan vistas. Por el contrario, se reconoce que dichos informes pueden constituir una
+herramienta útil para la adjudicación administrativa. Sin embargo, cuando una agencia
+opte por adoptar total o parcialmente un informe, deberá identificarlo adecuadamente,
+incorporarlo como anejo o parte integral de la resolución final, certificar que fue revisado
+junto con el expediente administrativo, especificar cualquier modificación o rechazo, y
+garantizar que las partes tengan acceso efectivo al informe adoptado.
+Asimismo, esta pieza legislativa aclara que la adopción de un informe no releva a la
+agencia de su responsabilidad adjudicativa final. La agencia conserva el deber de emitir
+una orden o resolución final conforme a derecho, con determinaciones de hecho y
+conclusiones de derecho suficientes, y con las advertencias necesarias sobre
+reconsideración o revisión judicial. La incorporación por referencia no puede convertirse
+3
+en una delegación automática de la función decisional, ni en un mecanismo que prive a
+las partes o al foro revisor de conocer los fundamentos reales de la adjudicación.
+Por todo lo anterior, estimamos necesario enmendar la Ley Núm. 38-2017, según
+enmendada, para establecer reglas uniformes sobre la preparación, adopción,
+incorporación, notificación y archivo de informes de oficiales examinadores, jueces
+administrativos o funcionarios que presidan vistas adjudicativas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se enmienda el inciso (a) de la Sección 3.13 de la Ley Núm. 38-2017,
+2 según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+3 Gobierno de Puerto Rico”, para que lea como sigue:
+4 “Sección 3.13. — Procedimiento Durante la Vista.
+5 (a) La vista deberá grabarse o estenografiarse, y el funcionario que presida la
+6 misma preparará un informe para la consideración de la agencia, o emitirá la decisión
+7 por escrito si le ha sido delegada la autoridad para ello. El informe preparado para la
+8 consideración de la agencia deberá contener, según la naturaleza del procedimiento y la prueba
+9 presentada, una relación de las controversias adjudicadas, un resumen de la prueba material
+10 recibida o considerada, las determinaciones de hecho propuestas, las conclusiones de derecho
+11 propuestas, cualquier determinación de credibilidad que resulte pertinente, y la recomendación
+12 correspondiente, cuando proceda. Cuando una persona que padezca de sordera profunda,
+13 severa, moderada o leve, o que refleje cualquier otra situación de hipoacusia o condición
+14 que le impida comunicarse efectivamente, sea parte en un proceso adversativo incoado
+15 ante una agencia administrativa conforme a las disposiciones de esta Ley, o de alguna ley
+16 especial, la agencia, a solicitud de parte, podrá tomar aquellas medidas necesarias para
+4
+1 que las vistas y demás procesos presenciales se conserven mediante algún método de
+2 grabación video-magnetofónico o digital que permita la reproducción de la grabación y
+3 garantice la preservación e integridad visual del proceso, particularmente de los
+4 interrogatorios, testimonios y argumentaciones prestadas o interpretadas mediante
+5 lenguaje de señas, labio lectura o a base de los acomodos razonables necesarios.”
+6 Artículo 2.- Se añade un nuevo inciso (h) a la Sección 3.13 de la Ley Núm. 38-2017,
+7 según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+8 Gobierno de Puerto Rico”, para que lea como sigue:
+9 “Sección 3.13. — Procedimiento Durante la Vista.
+10 (h) Todo informe preparado por el funcionario que presida una vista adjudicativa, cuando
+11 dicho funcionario no tenga autoridad delegada para emitir la decisión final, deberá ser remitido a
+12 la agencia con el expediente administrativo o con la porción del expediente que sea necesaria para
+13 la adjudicación final. La agencia podrá adoptar dicho informe total o parcialmente, modificarlo,
+14 rechazarlo o devolverlo para actuaciones ulteriores, conforme a la prueba que obre en el expediente
+15 y al derecho aplicable.
+16 La preparación de un informe para la consideración de la agencia no sustituirá la obligación
+17 de la agencia de emitir una orden o resolución final conforme a la Sección 3.14 de esta Ley, ni
+18 relevará a la agencia de su responsabilidad adjudicativa final.”
+19 Artículo 3.- Se enmienda la Sección 3.14 de la Ley Núm. 38-2017, según
+20 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+21 Gobierno de Puerto Rico”, para añadir nuevos párrafos luego del segundo párrafo de
+22 dicha Sección, para que lea como sigue:
+5
+1 “Sección 3.14. — Órdenes o Resoluciones Finales.
+2 Una orden o resolución final deberá ser emitida por escrito dentro de noventa (90)
+3 días después de concluida la vista o después de la presentación de las propuestas
+4 determinaciones de hechos y conclusiones de derecho, a menos que este término sea
+5 renunciado o ampliado con el consentimiento escrito de todas las partes o por causa
+6 justificada.
+7 La orden o resolución deberá incluir y exponer separadamente determinaciones
+8 de hecho si éstas no se han renunciado, conclusiones de derecho, que fundamentan la
+9 adjudicación, la disponibilidad del recurso de reconsideración o revisión según sea el
+10 caso. La orden o resolución deberá ser firmada por el jefe de la agencia o cualquier otro
+11 funcionario autorizado por ley.
+12 Cuando una agencia adopte total o parcialmente el informe preparado por un oficial
+13 examinador, juez administrativo o funcionario que haya presidido la vista adjudicativa, podrá
+14 incorporar dicho informe por referencia como parte integral de su orden o resolución final, siempre
+15 que cumpla con los requisitos dispuestos en esta Sección.
+16 La orden o resolución final que adopte total o parcialmente un informe deberá:
+17 (a) identificar el informe adoptado, incluyendo su fecha, título, nombre y cargo del
+18 funcionario que lo preparó, número del procedimiento adjudicativo, partes y asunto adjudicado;
+19 (b) expresar si el informe se adopta en su totalidad o parcialmente;
+20 (c) indicar de manera específica cualquier determinación de hecho, conclusión de derecho,
+21 recomendación o porción del informe que sea modificada, rechazada o sustituida por la agencia;
+6
+1 (d) disponer que el informe adoptado se incorpora por referencia y forma parte integral de
+2 la orden o resolución final;
+3 (e) acompañar copia simple del informe adoptado junto con la notificación de la orden o
+4 resolución final, ya sea en formato físico o electrónico, salvo que por su volumen, confidencialidad
+5 o limitación tecnológica se provea acceso efectivo, simultáneo y razonable al informe mediante el
+6 expediente administrativo, portal electrónico, enlace seguro o mecanismo equivalente;
+7 (f) certificar que el jefe de la agencia, cuerpo colegiado o funcionario autorizado por ley
+8 revisó el informe adoptado y el expediente administrativo, o aquellas partes del expediente
+9 necesarias para adjudicar las controversias sometidas;
+10 (g) certificar, cuando aplique, que la decisión fue deliberada y aprobada por el cuerpo
+11 colegiado, junta o entidad adjudicadora conforme a su ley orgánica, reglamento o norma interna
+12 aplicable;
+13 (h) contener, por sí misma o mediante el informe válidamente incorporado por referencia,
+14 determinaciones de hecho y conclusiones de derecho suficientes para permitir a las partes conocer
+15 los fundamentos de la adjudicación y para viabilizar la revisión judicial; y
+16 (i) incluir las advertencias sobre reconsideración o revisión judicial requeridas por esta Ley,
+17 incluyendo el foro correspondiente, los términos aplicables y las partes que deberán ser notificadas
+18 del recurso de revisión.
+19 La incorporación por referencia de un informe no eximirá a la agencia de su deber de emitir
+20 una orden o resolución final escrita, firmada por el jefe de la agencia o por cualquier otro
+21 funcionario autorizado por ley, ni de notificar adecuadamente a las partes conforme a esta Ley.
+7
+1 Una orden o resolución final que adopte un informe sin identificarlo adecuadamente, sin
+2 incorporarlo como parte integral de la determinación final, sin hacerlo disponible a las partes, o sin
+3 contener determinaciones de hecho y conclusiones de derecho suficientes, no activará los términos
+4 para solicitar reconsideración o revisión judicial cuando dicho incumplimiento sea sustancial y
+5 afecte el derecho de las partes a conocer los fundamentos de la adjudicación o a ejercer efectivamente
+6 su derecho de revisión. En tales casos, los términos comenzarán a transcurrir desde la notificación
+7 de una orden o resolución final corregida que cumpla sustancialmente con los requisitos de esta
+8 Sección.
+9 La orden o resolución advertirá el derecho de solicitar la reconsideración ante la
+10 agencia o de instar el recurso de revisión como cuestión de derecho en el Tribunal de
+11 Apelaciones, así como las partes que deberán ser notificadas del recurso de revisión, con
+12 expresión de los términos correspondientes. Cumplido este requisito comenzarán a
+13 correr dichos términos.
+14 La agencia deberá especificar en la certificación de sus órdenes o resoluciones los
+15 nombres y direcciones de las personas naturales o jurídicas a quienes, en calidad de
+16 partes, les fue notificado el dictamen, a los fines de que estas puedan ejercer
+17 efectivamente el derecho a la revisión judicial conferido por ley.
+18 La agencia deberá notificar con copia simple por correo ordinario o electrónico a
+19 las partes, y a sus abogados de tenerlos, la orden o resolución a la brevedad posible, y
+20 deberá archivar en autos copia de la orden o resolución final y de la constancia de la
+21 notificación. Una parte no podrá ser requerida a cumplir con una orden final a menos que
+22 dicha parte haya sido notificada de la misma.
+8
+1 Una resolución emitida contra una persona que padezca de sordera profunda,
+2 severa, moderada o leve, o que refleje cualquier otra situación de hipoacusia o condición
+3 que le impida comunicarse efectivamente, podría ser declarada nula si a ésta no se le
+4 proveyó un intérprete de lenguaje de señas y/o labio lectura, o algún otro acomodo
+5 razonable que, conforme a las disposiciones del “Americans with Disabilities Act” (Ley
+6 Pública 101-336, según enmendada) y de la Ley 136–1996, garantice la efectividad de la
+7 comunicación a través del proceso adversativo.”
+8 Artículo 4.- Se enmienda el inciso (h), se redesigna el actual inciso (i) como inciso
+9 (j), y se añade un nuevo inciso (i) a la Sección 3.18 de la Ley Núm. 38-2017, según
+10 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+11 Gobierno de Puerto Rico”, para que lea como sigue:
+12 “Sección 3.18. — Archivo de Expediente Oficial.
+13 La agencia establecerá una unidad para el archivo de los expedientes oficiales de
+14 los casos adjudicativos. Podrán establecerse subunidades de ella en las oficinas regionales
+15 de la agencia o por los diversos programas de la agencia, según lo requieran las
+16 necesidades del servicio.
+17 La agencia mantendrá un expediente oficial de cada procedimiento adjudicativo
+18 llevado a cabo de conformidad al procedimiento establecido en este Capítulo. El
+19 expediente incluirá, pero sin limitarse a:
+20 (a) Las notificaciones de todos los procedimientos.
+21 (b) Cualquier orden o resolución interlocutoria dictada antes de la vista.
+22 (c) Cualquier moción, alegación, petición o requerimiento.
+9
+1 (d) Evidencia recibida o considerada.
+2 (e) Una relación de todas las materias de las que se tomó conocimiento oficial.
+3 (f) Ofrecimiento de prueba, objeciones y resoluciones sobre las mismas.
+4 (g) Propuestas de determinaciones de hecho y conclusiones de derecho, órdenes
+5 solicitadas y excepciones.
+6 (h) El memorando o informe preparado por el funcionario que presidió la vista,
+7 junto con cualquier transcripción de todo o parte de la vista considerada antes de la
+8 disposición final del procedimiento, en aquellos casos en que el funcionario que presidió
+9 la vista no tenga facultades de adjudicar, incluyendo todo informe adoptado total o
+10 parcialmente por la agencia como parte de su orden o resolución final.
+11 (i) La certificación de revisión, deliberación o aprobación requerida por la Sección 3.14 de
+12 esta Ley, cuando aplique.
+13 (j) Cualquier orden o resolución final, preliminar o en reconsideración.
+14 El expediente de la agencia constituirá la base exclusiva para la acción de la
+15 agencia en un procedimiento adjudicativo bajo esta Ley y para la revisión judicial
+16 ulterior.”
+17 Artículo 5.- Cláusula de interpretación.
+18 Nada de lo dispuesto en esta Ley se interpretará como una prohibición a que una
+19 agencia adopte total o parcialmente el informe preparado por un oficial examinador, juez
+20 administrativo o funcionario que haya presidido una vista adjudicativa.
+21 Tampoco se interpretará esta Ley como una autorización para que la agencia
+22 delegue de manera absoluta, automática o irreflexiva su función adjudicativa final. La
+10
+1 agencia conservará en todo momento la responsabilidad de revisar el informe, considerar
+2 el expediente administrativo, ejercer su juicio adjudicativo y emitir una orden o
+3 resolución final conforme a la Ley.
+4 La incorporación por referencia de un informe será válida únicamente cuando
+5 permita a las partes conocer los fundamentos de la adjudicación y permita al foro revisor
+6 ejercer adecuadamente su función de revisión judicial.
+7 Artículo 6.- Aplicabilidad.
+8 Las disposiciones de esta Ley aplicarán a los procedimientos adjudicativos
+9 administrativos en los que se emita una orden o resolución final a partir de la fecha de
+10 vigencia de esta Ley.
+11 Nada de lo dispuesto en esta Ley se interpretará como una autorización para
+12 invalidar órdenes o resoluciones finales y firmes emitidas antes de su vigencia.
+13 Artículo 7.- Separabilidad.
+14 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+15 disposición, sección, inciso o parte de esta Ley fuera anulada o declarada inconstitucional,
+16 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará las demás
+17 disposiciones de esta Ley.
+18 Artículo 8.- Vigencia.
+19 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+[DELETED: 0 A 3 .rL   a l f d r l a t o p d i p p e j a o f q p v e r m p s i p r e L N 3 s e c c “ d P r l p a a l a a E g s e e d a u v j l p d u l p a a e c q l v s]
+[DELETED:  e c c d d c r d l f d e m n e i q l a a i p o e j a o f q o o r f c a d c d d h y d d s y c l a n s]
+[DELETED:  t l a e n e l L N 3 s p e r u s l p a n y a d i d o e j L v d g o e y e f q p l e s l h s d l a p e E i p p l c p u r d l c a u r d l p m r o c l d d h p l c d d p c]
+[DELETED:  l p e i v d p p d l t y a p o i m ( d l l r y L d r 3 S e l S 3 d l L N 3 s c c “ d P A U d]
+[DELETED:  d d c l v o d d l p d l p C u a a t o p e i p p u o e i q L ( i e i a i s f t n y c d f ( ( r]
+[DELETED:  ( l ( r o e ( r e i a y e e a o a p d e n ( c c a q l d f d y a p e c c a ( d l ( i d L u o o r f e f p e j d l a o p c o f]
+[DELETED:  U i c p a s d S d l t c C e r c a l f n e d a l f d q e p e]
+[DELETED:  y s a u n i ( a l S 3 d l L N 3 s c c “ d P A U d l a o p l d p d l a s l r l a c d c a p e e e C E]
+[DELETED:  v n t f d a i t i a t o ( e e d l a c l b e p l a d l e u p a b e L y p l r j s i e L c u a p q l a]
+[DELETED:  e a e s j a y e u o o d d e L a a l p a d l d e e L s i c u a p c c p s o p l a s d a e e n a p n i l d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1333
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar las Secciones 3.13, 3.14 y 3.18 de la Ley Núm. 38-2017, según enmendada,
+conocida como “Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto
+Rico”, a los fines de regular la adopción total o parcial de informes preparados por
+oficiales examinadores, jueces administrativos o funcionarios que presidan vistas
+adjudicativas; establecer requisitos mínimos para su incorporación por referencia en
+órdenes o resoluciones finales; disponer su inclusión en el expediente oficial; aclarar el
+deber adjudicativo final de la agencia; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 38-2017, según enmendada, conocida como “Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico”, establece las garantías mínimas
+que rigen los procedimientos adjudicativos ante las agencias administrativas. Entre
+dichas garantías se encuentran el derecho a una vista justa, la preparación de un
+expediente oficial, la emisión de órdenes o resoluciones finales por escrito, la inclusión
+de determinaciones de hecho y conclusiones de derecho, y la notificación adecuada de
+los recursos disponibles.
+En los procedimientos adjudicativos administrativos, es común que la vista sea
+presidida por un oficial examinador, juez administrativo o funcionario autorizado. Dicho
+funcionario recibe prueba, evalúa testimonios, atiende incidencias procesales y, cuando
+no posee autoridad delegada para emitir la decisión final, prepara un informe para la
+
+2
+consideración de la agencia. Ese informe puede resultar esencial para la adjudicación
+final, especialmente cuando contiene determinaciones de credibilidad, resumen de la
+prueba, determinaciones de hecho, conclusiones de derecho y recomendaciones.
+El Tribunal Supremo de Puerto Rico atendió recientemente esta materia en Vur-Jer,
+LLC v. Junta Reglamentadora de Cannabis Medicinal, 2026 TSPR 46. En dicho caso, el
+Tribunal evaluó si una agencia administrativa puede acoger íntegramente el informe de
+una oficial examinadora e incorporarlo por referencia como parte de su resolución final.
+La controversia giró en torno a si dicha práctica satisface el deber de la agencia de exponer
+determinaciones de hecho y conclusiones de derecho conforme a la Ley de Procedimiento
+Administrativo Uniforme.
+Esta Asamblea Legislativa entiende que la incorporación por referencia de un informe
+de oficial examinador puede ser una práctica válida, eficiente y compatible con el debido
+proceso de ley, siempre que se realice de manera clara, transparente y verificable. No
+obstante, también entiende que dicha práctica debe regularse expresamente para evitar
+impugnaciones por defectos de forma, notificaciones incompletas o dudas sobre si la
+agencia realmente ejerció su función adjudicativa final.
+La finalidad de esta medida no es impedir que las agencias adopten informes
+preparados por oficiales examinadores, jueces administrativos o funcionarios que
+presidan vistas. Por el contrario, se reconoce que dichos informes pueden constituir una
+herramienta útil para la adjudicación administrativa. Sin embargo, cuando una agencia
+opte por adoptar total o parcialmente un informe, deberá identificarlo adecuadamente,
+incorporarlo como anejo o parte integral de la resolución final, certificar que fue revisado
+junto con el expediente administrativo, especificar cualquier modificación o rechazo, y
+garantizar que las partes tengan acceso efectivo al informe adoptado.
+Asimismo, esta pieza legislativa aclara que la adopción de un informe no releva a la
+agencia de su responsabilidad adjudicativa final. La agencia conserva el deber de emitir
+una orden o resolución final conforme a derecho, con determinaciones de hecho y
+conclusiones de derecho suficientes, y con las advertencias necesarias sobre
+reconsideración o revisión judicial. La incorporación por referencia no puede convertirse
+
+3
+en una delegación automática de la función decisional, ni en un mecanismo que prive a
+las partes o al foro revisor de conocer los fundamentos reales de la adjudicación.
+Por todo lo anterior, estimamos necesario enmendar la Ley Núm. 38-2017, según
+enmendada, para establecer reglas uniformes sobre la preparación, adopción,
+incorporación, notificación y archivo de informes de oficiales examinadores, jueces
+administrativos o funcionarios que presidan vistas adjudicativas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se enmienda el inciso (a) de la Sección 3.13 de la Ley Núm. 38-2017,
+2 según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+3 Gobierno de Puerto Rico”, para que lea como sigue:
+4 “Sección 3.13. — Procedimiento Durante la Vista.
+5 (a) La vista deberá grabarse o estenografiarse, y el funcionario que presida la
+6 misma preparará un informe para la consideración de la agencia, o emitirá la decisión
+7 por escrito si le ha sido delegada la autoridad para ello. El informe preparado para la
+8 consideración de la agencia deberá contener, según la naturaleza del procedimiento y la prueba
+9 presentada, una relación de las controversias adjudicadas, un resumen de la prueba material
+10 recibida o considerada, las determinaciones de hecho propuestas, las conclusiones de derecho
+11 propuestas, cualquier determinación de credibilidad que resulte pertinente, y la recomendación
+12 correspondiente, cuando proceda. Cuando una persona que padezca de sordera profunda,
+13 severa, moderada o leve, o que refleje cualquier otra situación de hipoacusia o condición
+14 que le impida comunicarse efectivamente, sea parte en un proceso adversativo incoado
+15 ante una agencia administrativa conforme a las disposiciones de esta Ley, o de alguna ley
+16 especial, la agencia, a solicitud de parte, podrá tomar aquellas medidas necesarias para
+
+4
+1 que las vistas y demás procesos presenciales se conserven mediante algún método de
+2 grabación video-magnetofónico o digital que permita la reproducción de la grabación y
+3 garantice la preservación e integridad visual del proceso, particularmente de los
+4 interrogatorios, testimonios y argumentaciones prestadas o interpretadas mediante
+5 lenguaje de señas, labio lectura o a base de los acomodos razonables necesarios.”
+6 Artículo 2.- Se añade un nuevo inciso (h) a la Sección 3.13 de la Ley Núm. 38-2017,
+7 según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+8 Gobierno de Puerto Rico”, para que lea como sigue:
+9 “Sección 3.13. — Procedimiento Durante la Vista.
+10 (h) Todo informe preparado por el funcionario que presida una vista adjudicativa, cuando
+11 dicho funcionario no tenga autoridad delegada para emitir la decisión final, deberá ser remitido a
+12 la agencia con el expediente administrativo o con la porción del expediente que sea necesaria para
+13 la adjudicación final. La agencia podrá adoptar dicho informe total o parcialmente, modificarlo,
+14 rechazarlo o devolverlo para actuaciones ulteriores, conforme a la prueba que obre en el expediente
+15 y al derecho aplicable.
+16 La preparación de un informe para la consideración de la agencia no sustituirá la obligación
+17 de la agencia de emitir una orden o resolución final conforme a la Sección 3.14 de esta Ley, ni
+18 relevará a la agencia de su responsabilidad adjudicativa final.”
+19 Artículo 3.- Se enmienda la Sección 3.14 de la Ley Núm. 38-2017, según
+20 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+21 Gobierno de Puerto Rico”, para añadir nuevos párrafos luego del segundo párrafo de
+22 dicha Sección, para que lea como sigue:
+
+5
+1 “Sección 3.14. — Órdenes o Resoluciones Finales.
+2 Una orden o resolución final deberá ser emitida por escrito dentro de noventa (90)
+3 días después de concluida la vista o después de la presentación de las propuestas
+4 determinaciones de hechos y conclusiones de derecho, a menos que este término sea
+5 renunciado o ampliado con el consentimiento escrito de todas las partes o por causa
+6 justificada.
+7 La orden o resolución deberá incluir y exponer separadamente determinaciones
+8 de hecho si éstas no se han renunciado, conclusiones de derecho, que fundamentan la
+9 adjudicación, la disponibilidad del recurso de reconsideración o revisión según sea el
+10 caso. La orden o resolución deberá ser firmada por el jefe de la agencia o cualquier otro
+11 funcionario autorizado por ley.
+12 Cuando una agencia adopte total o parcialmente el informe preparado por un oficial
+13 examinador, juez administrativo o funcionario que haya presidido la vista adjudicativa, podrá
+14 incorporar dicho informe por referencia como parte integral de su orden o resolución final, siempre
+15 que cumpla con los requisitos dispuestos en esta Sección.
+16 La orden o resolución final que adopte total o parcialmente un informe deberá:
+17 (a) identificar el informe adoptado, incluyendo su fecha, título, nombre y cargo del
+18 funcionario que lo preparó, número del procedimiento adjudicativo, partes y asunto adjudicado;
+19 (b) expresar si el informe se adopta en su totalidad o parcialmente;
+20 (c) indicar de manera específica cualquier determinación de hecho, conclusión de derecho,
+21 recomendación o porción del informe que sea modificada, rechazada o sustituida por la agencia;
+
+6
+1 (d) disponer que el informe adoptado se incorpora por referencia y forma parte integral de
+2 la orden o resolución final;
+3 (e) acompañar copia simple del informe adoptado junto con la notificación de la orden o
+4 resolución final, ya sea en formato físico o electrónico, salvo que por su volumen, confidencialidad
+5 o limitación tecnológica se provea acceso efectivo, simultáneo y razonable al informe mediante el
+6 expediente administrativo, portal electrónico, enlace seguro o mecanismo equivalente;
+7 (f) certificar que el jefe de la agencia, cuerpo colegiado o funcionario autorizado por ley
+8 revisó el informe adoptado y el expediente administrativo, o aquellas partes del expediente
+9 necesarias para adjudicar las controversias sometidas;
+10 (g) certificar, cuando aplique, que la decisión fue deliberada y aprobada por el cuerpo
+11 colegiado, junta o entidad adjudicadora conforme a su ley orgánica, reglamento o norma interna
+12 aplicable;
+13 (h) contener, por sí misma o mediante el informe válidamente incorporado por referencia,
+14 determinaciones de hecho y conclusiones de derecho suficientes para permitir a las partes conocer
+15 los fundamentos de la adjudicación y para viabilizar la revisión judicial; y
+16 (i) incluir las advertencias sobre reconsideración o revisión judicial requeridas por esta Ley,
+17 incluyendo el foro correspondiente, los términos aplicables y las partes que deberán ser notificadas
+18 del recurso de revisión.
+19 La incorporación por referencia de un informe no eximirá a la agencia de su deber de emitir
+20 una orden o resolución final escrita, firmada por el jefe de la agencia o por cualquier otro
+21 funcionario autorizado por ley, ni de notificar adecuadamente a las partes conforme a esta Ley.
+
+7
+1 Una orden o resolución final que adopte un informe sin identificarlo adecuadamente, sin
+2 incorporarlo como parte integral de la determinación final, sin hacerlo disponible a las partes, o sin
+3 contener determinaciones de hecho y conclusiones de derecho suficientes, no activará los términos
+4 para solicitar reconsideración o revisión judicial cuando dicho incumplimiento sea sustancial y
+5 afecte el derecho de las partes a conocer los fundamentos de la adjudicación o a ejercer efectivamente
+6 su derecho de revisión. En tales casos, los términos comenzarán a transcurrir desde la notificación
+7 de una orden o resolución final corregida que cumpla sustancialmente con los requisitos de esta
+8 Sección.
+9 La orden o resolución advertirá el derecho de solicitar la reconsideración ante la
+10 agencia o de instar el recurso de revisión como cuestión de derecho en el Tribunal de
+11 Apelaciones, así como las partes que deberán ser notificadas del recurso de revisión, con
+12 expresión de los términos correspondientes. Cumplido este requisito comenzarán a
+13 correr dichos términos.
+14 La agencia deberá especificar en la certificación de sus órdenes o resoluciones los
+15 nombres y direcciones de las personas naturales o jurídicas a quienes, en calidad de
+16 partes, les fue notificado el dictamen, a los fines de que estas puedan ejercer
+17 efectivamente el derecho a la revisión judicial conferido por ley.
+18 La agencia deberá notificar con copia simple por correo ordinario o electrónico a
+19 las partes, y a sus abogados de tenerlos, la orden o resolución a la brevedad posible, y
+20 deberá archivar en autos copia de la orden o resolución final y de la constancia de la
+21 notificación. Una parte no podrá ser requerida a cumplir con una orden final a menos que
+22 dicha parte haya sido notificada de la misma.
+
+8
+1 Una resolución emitida contra una persona que padezca de sordera profunda,
+2 severa, moderada o leve, o que refleje cualquier otra situación de hipoacusia o condición
+3 que le impida comunicarse efectivamente, podría ser declarada nula si a ésta no se le
+4 proveyó un intérprete de lenguaje de señas y/o labio lectura, o algún otro acomodo
+5 razonable que, conforme a las disposiciones del “Americans with Disabilities Act” (Ley
+6 Pública 101-336, según enmendada) y de la Ley 136–1996, garantice la efectividad de la
+7 comunicación a través del proceso adversativo.”
+8 Artículo 4.- Se enmienda el inciso (h), se redesigna el actual inciso (i) como inciso
+9 (j), y se añade un nuevo inciso (i) a la Sección 3.18 de la Ley Núm. 38-2017, según
+10 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+11 Gobierno de Puerto Rico”, para que lea como sigue:
+12 “Sección 3.18. — Archivo de Expediente Oficial.
+13 La agencia establecerá una unidad para el archivo de los expedientes oficiales de
+14 los casos adjudicativos. Podrán establecerse subunidades de ella en las oficinas regionales
+15 de la agencia o por los diversos programas de la agencia, según lo requieran las
+16 necesidades del servicio.
+17 La agencia mantendrá un expediente oficial de cada procedimiento adjudicativo
+18 llevado a cabo de conformidad al procedimiento establecido en este Capítulo. El
+19 expediente incluirá, pero sin limitarse a:
+20 (a) Las notificaciones de todos los procedimientos.
+21 (b) Cualquier orden o resolución interlocutoria dictada antes de la vista.
+22 (c) Cualquier moción, alegación, petición o requerimiento.
+
+9
+1 (d) Evidencia recibida o considerada.
+2 (e) Una relación de todas las materias de las que se tomó conocimiento oficial.
+3 (f) Ofrecimiento de prueba, objeciones y resoluciones sobre las mismas.
+4 (g) Propuestas de determinaciones de hecho y conclusiones de derecho, órdenes
+5 solicitadas y excepciones.
+6 (h) El memorando o informe preparado por el funcionario que presidió la vista,
+7 junto con cualquier transcripción de todo o parte de la vista considerada antes de la
+8 disposición final del procedimiento, en aquellos casos en que el funcionario que presidió
+9 la vista no tenga facultades de adjudicar, incluyendo todo informe adoptado total o
+10 parcialmente por la agencia como parte de su orden o resolución final.
+11 (i) La certificación de revisión, deliberación o aprobación requerida por la Sección 3.14 de
+12 esta Ley, cuando aplique.
+13 (j) Cualquier orden o resolución final, preliminar o en reconsideración.
+14 El expediente de la agencia constituirá la base exclusiva para la acción de la
+15 agencia en un procedimiento adjudicativo bajo esta Ley y para la revisión judicial
+16 ulterior.”
+17 Artículo 5.- Cláusula de interpretación.
+18 Nada de lo dispuesto en esta Ley se interpretará como una prohibición a que una
+19 agencia adopte total o parcialmente el informe preparado por un oficial examinador, juez
+20 administrativo o funcionario que haya presidido una vista adjudicativa.
+21 Tampoco se interpretará esta Ley como una autorización para que la agencia
+22 delegue de manera absoluta, automática o irreflexiva su función adjudicativa final. La
+
+10
+1 agencia conservará en todo momento la responsabilidad de revisar el informe, considerar
+2 el expediente administrativo, ejercer su juicio adjudicativo y emitir una orden o
+3 resolución final conforme a la Ley.
+4 La incorporación por referencia de un informe será válida únicamente cuando
+5 permita a las partes conocer los fundamentos de la adjudicación y permita al foro revisor
+6 ejercer adecuadamente su función de revisión judicial.
+7 Artículo 6.- Aplicabilidad.
+8 Las disposiciones de esta Ley aplicarán a los procedimientos adjudicativos
+9 administrativos en los que se emita una orden o resolución final a partir de la fecha de
+10 vigencia de esta Ley.
+11 Nada de lo dispuesto en esta Ley se interpretará como una autorización para
+12 invalidar órdenes o resoluciones finales y firmes emitidas antes de su vigencia.
+13 Artículo 7.- Separabilidad.
+14 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+15 disposición, sección, inciso o parte de esta Ley fuera anulada o declarada inconstitucional,
+16 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará las demás
+17 disposiciones de esta Ley.
+18 Artículo 8.- Vigencia.
+19 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+
+[DELETED: 0 A 3 .rL   a l f d r l a t o p d i p p e j a o f q p v e r m p s i p r e L N 3 s e c c “ d P r l p a a l a a E g s e e d a u v j l p d u l p a a e c q l v s]
+[DELETED:  e c c d d c r d l f d e m n e i q l a a i p o e j a o f q o o r f c a d c d d h y d d s y c l a n s]
+[DELETED:  t l a e n e l L N 3 s p e r u s l p a n y a d i d o e j L v d g o e y e f q p l e s l h s d l a p e E i p p l c p u r d l c a u r d l p m r o c l d d h p l c d d p c]
+[DELETED:  l p e i v d p p d l t y a p o i m ( d l l r y L d r 3 S e l S 3 d l L N 3 s c c “ d P A U d]
+[DELETED:  d d c l v o d d l p d l p C u a a t o p e i p p u o e i q L ( i e i a i s f t n y c d f ( ( r]
+[DELETED:  ( l ( r o e ( r e i a y e e a o a p d e n ( c c a q l d f d y a p e c c a ( d l ( i d L u o o r f e f p e j d l a o p c o f]
+[DELETED:  U i c p a s d S d l t c C e r c a l f n e d a l f d q e p e]
+[DELETED:  y s a u n i ( a l S 3 d l L N 3 s c c “ d P A U d l a o p l d p d l a s l r l a c d c a p e e e C E]
+[DELETED:  v n t f d a i t i a t o ( e e d l a c l b e p l a d l e u p a b e L y p l r j s i e L c u a p q l a]
+[DELETED:  e a e s j a y e u o o d d e L a a l p a d l d e e L s i c u a p c c p s o p l a s d a e e n a p n i l d]

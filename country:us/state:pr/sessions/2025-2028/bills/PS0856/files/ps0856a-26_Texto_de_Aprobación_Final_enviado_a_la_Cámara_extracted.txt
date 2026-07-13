@@ -1,0 +1,1304 @@
+Title: Presentado por los señores Rivera Schatz, Ríos Santiago; la señora Jiménez Santoni; los
+Official Title: Presentado por los señores Rivera Schatz, Ríos Santiago; la señora Jiménez Santoni; los
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(9 DE MARZO DE 2026)
+A-083
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 856
+12 de noviembre de 2025
+señores Matías Rosario, Morales Rodríguez; la señora Barlucea Rodríguez; los señores Colón
+La Santa, González López; las señoras Padilla Alvelo, Moran Trinidad, Pérez Soto; el señor
+Reyes Berríos; la señora Román Rodríguez; los señores Rosa Ramos, Sánchez Álvarez, Santos
+Ortiz; las señoras Soto Aguilú, Soto Tolentino; y el señor Toledo López
+Referido a la Comisión de Innovación, Reforma y Nombramientos
+LEY
+Para añadir los nuevos incisos (K), (L), (M) y (N) al Artículo 44.010; enmendar los
+Artículos 44.050, 44.060 y 44.080 de la Ley Núm. 77 de 19 de junio de 1957, según
+enmendada, conocida como, “Código de Seguros de Puerto Rico”, a los fines de
+atemperar sus disposiciones a las enmiendas introducidas por la Asociación
+Nacional de Comisionados de Seguros (NAIC, por sus siglas en inglés) a la Ley
+Modelo “Insurance Holding Company System Regulatory Act”; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El monitoreo de las finanzas y la solvencia de los aseguradores y de las
+organizaciones de servicios de salud es de suma importancia, ya que ha probado ser
+una herramienta eficaz para proteger al consumidor al darle la confianza en que el
+asegurador que elija tendrá la capacidad económica para cumplir con sus obligaciones
+contraídas con su asegurado. La importancia del monitoreo de la solvencia adquiere
+mayor relevancia al considerar que muchos de los aseguradores y organizaciones en
+Puerto Rico se encuentran dentro de una estructura de control, conocida como
+2
+entidades matrices o holding companies, estructura que incide en la solvencia del
+asegurador.
+Por la importancia de la supervisión de estas estructuras de control, Puerto Rico
+incorporó regulación para estas mediante la Ley Núm. 51-2012, que añadió al Código de
+Seguros de Puerto Rico el Capítulo 44. Esta Ley se aprobó con el propósito de
+supervisar las estructuras de control y así promover un mercado competitivo y
+confiable para el negocio de seguros, promoviendo estándares uniformes y
+modernizados de las leyes y reglamentos estatales, conforme a los estándares
+establecidos por la Asociación Nacional de Comisionados de Seguros (NAIC, por sus
+siglas en inglés). La NAIC es una organización clave que agrupa a los reguladores de
+seguros, buscando un foro no gubernamental para abordar los problemas que enfrenta
+la industria y promover una regulación compatible con la de los demás estados y
+territorios que pertenecen a los Estados Unidos. La adopción de las leyes y reglamentos
+modelos de la NAIC es parte indispensable para que los organismos reguladores de los
+estados y territorios mantengan la acreditación de la NAIC. Puerto Rico, como miembro
+de la NAIC, se benefició de la adopción de la Ley Modelo 440 de la NAIC al adoptar la
+Ley Núm. 51-2012, para regular y supervisar la operación de los holdings companies.
+Han pasado más de diez años desde la aprobación de la Ley Núm. 51-2012.
+Aunque este instrumento ha permitido al Comisionado de Seguros supervisar
+eficazmente las relaciones de control en la industria, el mercado y las exigencias
+económicas de los aseguradores han evolucionado de forma notable. La naturaleza
+dinámica de los riesgos y la creciente complejidad de las estructuras corporativas exigen
+hoy herramientas de fiscalización más modernas y especializadas. Para responder a esta
+necesidad, la NAIC actualizó su Ley Modelo 440 (Insurance Holding Company System
+Regulatory Act) y propone a los estados y territorios adoptar enmiendas que refuercen la
+supervisión de los grupos aseguradores. Entre los mecanismos sugeridos destacan el
+Cálculo de Capital de Grupo (GCC, por sus siglas en inglés) y el Marco de Pruebas de
+Resistencia de Liquidez (LST, por sus siglas en inglés). Estas herramientas permiten
+3
+evaluar de manera integral los riesgos de todo el grupo, verificar la suficiencia de
+capital y detectar posibles riesgos de liquidez del grupo. De este modo, se facilita la
+identificación temprana de riesgos financieros y la adopción oportuna de medidas
+correctivas, salvaguardando la solvencia de las entidades reguladas conforme a los
+criterios y procedimientos del Manual de Análisis Financiero de la NAIC.
+En atención a esto, se hace imperioso revisar y atemperar el Capítulo 44 del
+Código de Seguros de Puerto Rico a los cambios identificados por la NAIC. La adopción
+de estas nuevas herramientas de fiscalización de la solvencia del grupo no solo
+propende a mejorar la fiscalización de solvencia de aseguradores y organizaciones de
+servicios de salud que forman parte de una estructura de control de compañías de
+seguros, sino que también es parte de la regulación de solvencia financiera requerida de
+manera mandatoria a la Oficina del Comisionado de Seguros de Puerto Rico como parte
+del Programa de Acreditación de la NAIC.
+Con ello en mente, la presente pieza legislativa procura actualizar el Capítulo 44
+del Código de Seguros de Puerto Rico para adherirlo a los estándares de regulación
+financiera promovidos por la NAIC en su Ley Modelo 440, capacitando al Comisionado
+de Seguros con herramientas de fiscalización ágiles y eficientes. Esta actualización
+mejora la supervisión de la solvencia y liquidez de aseguradores y organizaciones de
+servicios de salud dentro de estructuras de control, asegura el cumplimiento con los
+estándares de la NAIC y fortalece la acreditación de la Oficina del Comisionado de
+Seguros, un logro esencial para la estabilidad y el reconocimiento regulatorio de Puerto
+Rico. Con estas enmiendas, se robustece la supervisión prudencial de la industria de
+seguros, protegiendo así a los consumidores a la vez que promueve un mercado
+competitivo y confiable.
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añaden los nuevos incisos (K), (L), (M) y (N) al Artículo 44.010 de
+2 la Ley Número 77 de 19 de junio de 1957, según enmendada, conocida como “Código
+3 de Seguros de Puerto Rico”, para que lean como sigue:
+4 “Artículo 44.010 – Definiciones
+5 (A)…
+6 …
+7 (K) “Instrucciones para el Cálculo del Capital del Grupo”: significa las
+8 instrucciones para calcular el capital del grupo, según sean adoptadas por la
+9 NAIC y enmendadas de vez en cuando por la NAIC conforme a los
+10 procedimientos que dicha asociación adopte.
+11 (L) “NAIC”: significa la Asociación Nacional de Comisionados de Seguros.
+12 (M) “Marco de Pruebas de Resistencia de Liquidez de la NAIC”: el “Marco de
+13 Pruebas de Resistencia de Liquidez de la NAIC” (o “NAIC Liquidity Stress Test
+14 Framework”) es una publicación aparte de la NAIC que incluye un historial del
+15 desarrollo por parte de la NAIC de las pruebas de resistencia de liquidez
+16 reglamentarias, los criterios de alcance aplicables para un año específico de
+17 datos, y las instrucciones y plantillas de los informes de las pruebas de
+18 resistencia de liquidez para un año específico de datos, según la NAIC adopte
+19 dichos criterios de alcance, instrucciones y plantillas de informes, así como las
+20 enmiendas que, de tiempo en tiempo, promulgue dicha entidad.
+5
+1 (N) “Criterios de alcance”: los criterios de alcance o “scope criteria”, tal como se
+2 detallan en el Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+3 Liquidity Stress Test Framework”), son las bases de exposición designadas y las
+4 magnitudes mínimas de estas para el año de datos especificado, que se utilizan
+5 para establecer una lista preliminar de aseguradores que se consideran incluidas
+6 en el Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC Liquidity
+7 Stress Test Framework”) para ese año de datos.”
+8 Sección 2. - Se enmienda el Artículo 44.050 de la Ley Número de 19 de junio de
+9 1957, según enmendada, mejor conocida como “Código de Seguros de Puerto Rico”,
+10 para que lea como sigue:
+11 “Artículo 44.050. – Inscripción de aseguradores u organizaciones de servicios de
+12 salud.
+13 (A) Inscripción…
+14 …
+15 (D) Materialidad. No se tendrá que divulgar ninguna información en la
+16 declaración de inscripción que se radique conforme al Artículo 44.050B, si
+17 la información no es pertinente al presente Artículo, salvo que el
+18 Comisionado disponga lo contrario mediante reglamentación u orden. Las
+19 ventas, compras, permutas, préstamos o la concesión de crédito,
+20 inversiones o garantías que involucren la mitad del uno por ciento (0.5%) o
+21 menos de los activos admitidos del asegurador u organización de servicios
+22 de salud al 31 de diciembre del pasado año no se considerarán pertinentes
+6
+1 para los propósitos de este Artículo. La definición de materialidad
+2 proporcionada en este inciso no aplicará a efectos del Cálculo del Capital
+3 del Grupo ni del Marco de Pruebas de Resistencia de Liquidez (“NAIC
+4 Liquidity Stress Test Framework”).
+5 (E) …
+6 …
+7 (M) Riesgo Empresarial.
+8 (1) La persona que ostente el control final de un asegurador constituido en
+9 Puerto Rico u organización de servicios de salud doméstica, deberá
+10 presentar un informe anual sobre riesgo empresarial, en el cual identifique
+11 los riesgos significativos dentro de la estructura de control de compañías
+12 de seguros (insurance holding company), que a su mejor conocimiento e
+13 información, de no ser remediado oportunamente, probablemente
+14 ocasionaría un efecto adverso en la condición financiera o liquidez del
+15 asegurador constituido en Puerto Rico u organización de servicios de
+16 salud doméstica. Dicho informe será presentado ante el Comisionado del
+17 estado que posee autoridad máxima sobre la estructura de control de
+18 compañías de seguros (insurance holding company), según sea determinado,
+19 de conformidad con los criterios establecidos en el Financial Analysis
+20 Handbook de la NAIC.
+21 (2) Cálculo del Capital del Grupo (“Group Capital Calculation”). Salvo lo
+22 dispuesto a continuación, la persona que ostente el control final en cada
+7
+1 asegurador obligado a registrarse deberá presentar, simultáneamente con
+2 el registro, un cálculo anual del capital del grupo conforme a las
+3 instrucciones del comisionado del estado principal de creación del
+4 asegurador u organización de servicios de salud (“lead state”). El informe
+5 deberá cumplimentarse de conformidad con las Instrucciones para el
+6 Cálculo del Capital del Grupo de la NAIC, lo cual puede facultar al
+7 comisionado del estado principal (“lead state”) a autorizar a una persona
+8 que ejerza control, pero que no sea la persona que ostente el control final,
+9 a presentar el cálculo del capital del grupo. El informe se presentará ante
+10 el comisionado del estado principal (“lead state”) de la estructura de
+11 control de compañías de seguros, según lo determine el comisionado de
+12 conformidad con los procedimientos del Manual de Análisis Financiero
+13 (“Financial Analysis Handbook”) adoptado por la NAIC. Las estructuras de
+14 control de compañías de seguros (“holding companies”) descritas a
+15 continuación están exentas de presentar el cálculo del capital del grupo:
+16 (a) Una estructura de control de compañías de seguros que solo
+17 tiene un asegurador en su estructura de control que solo tramita
+18 negocios y solo está autorizado en el estado donde está domiciliado
+19 y no asume negocios de ningún otro asegurador;
+20 (b) Una estructura de control de compañías de seguros que está
+21 obligada a realizar el cálculo del capital del grupo que disponga la
+22 Junta de la Reserva Federal de los Estados Unidos (“United States
+8
+1 Federal Reserve Board”). El comisionado del estado principal (“lead
+2 state”) solicitará el cálculo a la Junta de la Reserva Federal conforme
+3 a los términos de los acuerdos de intercambio de información
+4 vigentes. Si la Junta de la Reserva Federal no puede compartir el
+5 cálculo con el comisionado del estado principal (“lead state”), la
+6 estructura de control de compañías de seguros no quedará exenta
+7 de la presentación del informe del cálculo del capital del grupo;
+8 (c) Una estructura de control de compañías de seguros cuyo
+9 supervisor de grupo foráneo (“non-U.S. group-wide supervisor”) está
+10 ubicado en una Jurisdicción Recíproca según lo descrito en la Regla
+11 98(5)(H), que reconoce el enfoque regulatorio del estado de Estados
+12 Unidos para la supervisión del grupo y el capital del grupo;
+13 (d) Una estructura de control de compañías de seguros:
+14 (i) Que proporciona información al estado principal (“lead
+15 state”) que cumple con los requisitos para la acreditación
+16 conforme a las normas financieras y del programa de
+17 acreditación de la NAIC, ya sea directa o indirectamente a
+18 través del supervisor del grupo (“group-wide supervisor”),
+19 quien ha determinado que dicha información es satisfactoria
+20 para permitir que el estado principal (“lead state”) cumpla
+21 con el enfoque de la NAIC de supervisión del grupo, tal y
+9
+1 como se detalla en el Manual de Análisis Financiero de la
+2 NAIC ( “NAIC Financial Analysis Handbook”); y
+3 (ii) cuyo supervisor de grupo foráneo (“non-U.S. supervisor”)
+4 que no se encuentre en una Jurisdicción Recíproca reconozca
+5 y acepte el cálculo del capital del grupo como la evaluación
+6 del capital del grupo a nivel mundial de los grupos de
+7 seguros estadounidenses que operen en dicha jurisdicción,
+8 conforme a lo establecido por el comisionado en la
+9 reglamentación.
+10 (e) Independientemente de lo dispuesto en los Artículos
+11 44.050(M)(2)(c) y 44.050(M)(2)(d), el comisionado del estado
+12 principal (“lead state”) exigirá el cálculo del capital del grupo para
+13 las operaciones en Estados Unidos de cualquier estructura de
+14 control de compañías de seguros no domiciliadas en Estados
+15 Unidos cuando, tras las consultas necesarias con otros supervisores
+16 o directivos, el comisionado del estado principal lo considere
+17 adecuado para la supervisión prudente y el control de la solvencia
+18 o para garantizar la competitividad del mercado de seguros.
+19 (f) Independientemente de las exenciones de la obligación de
+20 presentar el cálculo del capital del grupo establecidas en el Artículo
+21 44.050(M)(2)(a) al Artículo 44.050(M)(2)(d), el comisionado del
+22 estado principal (“lead state”) tiene la facultad discrecional de
+10
+1 conceder una exención a la persona que ostente el control final de la
+2 obligación de presentar el cálculo anual del capital del grupo o de
+3 aceptar una presentación o informe limitado del capital del grupo
+4 de conformidad con los criterios que especifique el comisionado
+5 mediante su regulación.
+6 (g) Si el comisionado del estado principal (“lead state commissioner”)
+7 determina que una estructura de control de compañías de seguros
+8 (“holding company system”) ya no cumple con uno o más de los
+9 requisitos para una exención de la presentación del cálculo del
+10 capital del grupo en virtud de este Artículo, la estructura de control
+11 de compañías de seguros deberá presentar el cálculo del capital del
+12 grupo en la siguiente fecha de presentación del informe anual,
+13 salvo que el comisionado del estado principal conceda una
+14 prórroga por motivos razonables demostrados.
+15 (3) Prueba de Resistencia de Liquidez (“Liquidity Stress Test”). La persona que
+16 ostente el control final de cada asegurador u organización de servicios de
+17 salud obligada a registrarse o autorizarse y que también esté incluida en el
+18 alcance del Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+19 Liquidity Stress Test Framework”) deberá presentar los resultados de la Prueba
+20 de Resistencia de Liquidez de un año en específico. El informe se presentará
+21 ante el comisionado de seguros del estado principal de la estructura de
+11
+1 control de compañías de seguros, según lo determinado en el Manual de
+2 Análisis Financiero (“Financial Analysis Handbook”) que adopte la NAIC.
+3 (a) El Marco de Pruebas de Resistencia de Liquidez de la NAIC
+4 (“NAIC Liquidity Stress Test Framework”) incluye Criterios de
+5 Alcance aplicables a un año específico de datos. Estos Criterios de
+6 Alcance son objeto de una revisión anual, como mínimo, por parte
+7 del Grupo de Trabajo sobre Estabilidad Financiera (“Financial
+8 Stability Task Force”) o su sucesor. Cualquier cambio en el Marco de
+9 Pruebas de Resistencia de Liquidez de la NAIC o en el año de datos
+10 para el que deban medirse los Criterios de Alcance entrará en vigor
+11 el 1 de enero del año siguiente al año natural en que se adopten
+12 dichos cambios. Los aseguradores u organizaciones de servicios de
+13 salud que cumplan con al menos uno de los umbrales de los
+14 Criterios de Alcance se consideran incluidos en el alcance del
+15 Marco de Pruebas de Resistencia de Liquidez de la NAIC para el
+16 año de datos especificado, salvo que el comisionado de seguros del
+17 estado principal, con la colaboración del Grupo de Trabajo de
+18 Estabilidad Financiera de la NAIC (“NAIC Financial Stability Task
+19 Force”) o su sucesor, determine que el asegurador u organización
+20 de servicios de salud no debe incluirse en el alcance del Marco
+21 (Framework) para ese año de datos. Asimismo, los aseguradores u
+22 organizaciones de servicios de salud que no cumplan con al menos
+12
+1 uno de los umbrales de los Criterios de Alcance se consideran
+2 excluidos del alcance del Marco de Pruebas de Resistencia de
+3 Liquidez de la NAIC para el año de datos especificado, salvo que el
+4 comisionado de seguros del estado principal, con la colaboración
+5 del Grupo de Trabajo de Estabilidad Financiera de la NAIC (“NAIC
+6 Financial Stability Task Force”), o su sucesor, determine que el
+7 asegurador se debe incluir en el alcance del Marco (Framework) para
+8 ese año de datos.
+9 (i) Las entidades reguladoras buscan evitar que los
+10 aseguradores u organizaciones de servicios de salud se
+11 incluyan y se excluyan con frecuencia del alcance del Marco
+12 de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+13 Liquidity Stress Test Framework”). El comisionado de seguros
+14 del estado principal (“lead state”), con el asesoramiento del
+15 Grupo de Trabajo de Estabilidad Financiera (“NAIC Financial
+16 Stability Task Force”) o su sucesor, evaluará esta
+17 preocupación como parte de la determinación
+18 correspondiente a un asegurador.
+19 (b) La ejecución de la Prueba de Resistencia de Liquidez de un año
+20 específico, así como la presentación del informe sobre los
+21 resultados de la misma, deberán atenerse a las instrucciones del
+22 Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+13
+1 Liquidity Stress Test Framework”) y a las plantillas de los informes
+2 correspondientes a dicho año, así como a las determinaciones del
+3 comisionado de seguros del estado principal (“lead state”), con la
+4 colaboración del Grupo de Trabajo de Estabilidad Financiera
+5 (“NAIC Financial Stability Task Force”), o su sucesor, conforme a lo
+6 dispuesto en el Marco ( “Framework”).”
+7 Sección 3. - Se enmienda el Artículo 44.060 de la Ley Número 77 de 19 de junio
+8 de 1957, según enmendada, mejor conocida como “Código de Seguros de Puerto Rico”,
+9 para que lea como sigue:
+10 “Artículo 44.060.– Normas y administración de los aseguradores u
+11 organizaciones de servicios de salud que formen parte de una estructura de
+12 control de compañías de seguros.
+13 (A) Transacciones dentro de una estructura de control de compañías de seguros
+14 “insurance holding company system”.
+15 (1) Las siguientes normas regirán las transacciones dentro de una estructura
+16 de control de compañías de seguros en que participa un asegurador u
+17 organización de servicios de salud sujeto a inscripción:
+18 (a) …
+19 …
+20 (f) Si el Comisionado considera que un asegurador u organización de
+21 servicios de salud sujeto a esta Ley se encuentra en una condición financiera
+22 adversa según lo definido en la Regla 94 titulada “Estándares y autoridad del
+14
+1 Comisionado de Seguros con respecto a aseguradores que presenten una
+2 condición financiera adversa”, una condición que sería motivo para
+3 supervisión, tutela o un proceso de insolvencia, el Comisionado puede exigir
+4 que el asegurador u organización de servicios de salud garantice y mantenga
+5 un depósito, retenido por el Comisionado, o una fianza, según lo determine el
+6 asegurador u organización de servicios de salud bajo su discreción, para la
+7 protección del asegurador u organización de servicios de salud durante la
+8 duración de cada contrato o acuerdo, o la existencia de la condición por la
+9 cual el Comisionado haya requerido el depósito o la fianza.
+10 Al determinar si se requiere un depósito o una fianza, el Comisionado debe
+11 considerar si existe alguna preocupación con respecto a la capacidad de la
+12 persona afiliada para cumplir con todo contrato o acuerdo si el asegurador u
+13 organización de servicios de salud entrase en un proceso de liquidación. Una
+14 vez el Comisionado determina que el asegurador u organización de servicios
+15 de salud se encuentra en una condición financiera adversa o en una condición
+16 que podría ser motivo para supervisión, tutela o un proceso de insolvencia, y
+17 resulta necesario un depósito o fianza; el Comisionado tendrá discreción para
+18 determinar el importe del depósito o fianza, el cual no podrá superar el valor
+19 de todo contrato o acuerdo en un año determinado, y si dicho depósito o
+20 fianza debe exigirse para un único contrato, varios contratos o un contrato
+21 únicamente con una persona o personas específicas;
+15
+1 (g) Todos los registros y datos del asegurador u organización de servicios de
+2 salud que se encuentren en poder de una afiliada son y seguirán siendo
+3 propiedad del asegurador u organización, sujetos al control del asegurador u
+4 organización. Estos registros y datos también deberán ser identificables y
+5 estar separados o ser fácilmente separables de los registros y datos de todas
+6 las demás personas, sin costo adicional para el asegurador u organización de
+7 servicios de salud. Esto incluye todos los registros y datos que sean
+8 propiedad del asegurador u organización de servicios de salud, cualquiera
+9 que sea la forma en que se conserven, incluidos, entre otros, las reclamaciones
+10 y los expedientes de las reclamaciones, las listas de asegurados, los
+11 expedientes de solicitudes, los expedientes de litigios, los expedientes de
+12 primas, los libros de tarifas (los manuales de tarifas), los manuales de
+13 suscripción, los expedientes de personal, los expedientes financieros o
+14 registros similares que estén en el poder, la custodia o el control de la afiliada.
+15 A solicitud del asegurador u organización de servicios de salud, la afiliada
+16 deberá garantizar que el síndico pueda obtener un expediente completo de
+17 todos los registros de cualquier tipo relacionados con el negocio del
+18 asegurador u organización de servicios de salud; obtener acceso a los
+19 sistemas operativos en los que se mantienen los datos; obtener el programa
+20 (“software”) que ejecuta dichos sistemas, ya sea mediante la suscripción de
+21 acuerdos de licencia o de cualquier otro modo y restringir el uso de los datos
+22 por parte de la afiliada si dicha afiliada no está operando el negocio del
+16
+1 asegurador. La afiliada proporcionará una exención de cualquier gravamen
+2 de arrendador u otro gravamen para conceder al asegurador u organización
+3 acceso a todos los registros y datos si la afiliada incumple un contrato de
+4 arrendamiento u otro acuerdo y;
+5 (h) Las primas u otros fondos que pertenezcan al asegurador u organización de
+6 servicios de salud y cuyo cobro o retención esté en manos de una afiliada son
+7 propiedad exclusiva del asegurador u organización de servicios de salud y
+8 están sujetos al control del asegurador u organización de servicios de salud.
+9 Todo derecho de compensación en caso de que un asegurador u organización
+10 de servicios de salud entre en un proceso de sindicatura estará sujeto a lo
+11 dispuesto en el Capítulo 40 del Código de Seguros de Puerto Rico.
+12 (2) …
+13 …
+14 (6) Procedimientos de supervisión, incautación, tutela o sindicatura.
+15 (a) Toda afiliada que sea parte de un acuerdo o contrato con un
+16 asegurador u organización de servicios de salud doméstico en virtud del
+17 Artículo 44.060A(2)(d) estará sujeta a la jurisdicción de todo
+18 procedimiento de supervisión, incautación, tutela o sindicatura
+19 interpuesto en contra del asegurador u organización de servicios de salud
+20 y a la autoridad de todo supervisor, tutor, rehabilitador o liquidador del
+21 asegurador designado de conformidad con las leyes de supervisión y
+22 sindicatura con el fin de interpretar, imponer y supervisar, en virtud del
+17
+1 acuerdo o contrato, las obligaciones de la afiliada con respecto a la
+2 prestación de servicios al asegurador que:
+3 (i) Sean parte integral de las operaciones del asegurador, incluidas,
+4 entre otras, las funciones de dirección, administración,
+5 contabilidad, procesamiento de datos, mercadeo, suscripción,
+6 tramitación de reclamaciones, inversión o cualquier otra función
+7 similar o que;
+8 (ii) Sean esenciales para la capacidad del asegurador de cumplir
+9 con sus obligaciones en virtud de las pólizas de seguro.
+10 (b) El Comisionado puede exigir que un acuerdo o contrato conforme al
+11 Artículo 44.060A(2)(d) para la prestación de los servicios descritos en (i) y
+12 (ii) especifique que la afiliada preste su consentimiento a la jurisdicción
+13 según lo establecido en este Artículo 44.060A(6).
+14 (B)…”
+15 Sección 4. - Se enmiendan los incisos (A) y (C) del Artículo 44.080 de la Ley
+16 Número 77 de 19 de junio de 1957, según enmendada, mejor conocida como “Código de
+17 Seguros de Puerto Rico”, y se añaden a éste los incisos (F) y (G), para que lean como
+18 sigue:
+19 “Artículo 44.080.– Trato confidencial
+20 (A) Todos los documentos, materiales u otra información en manos de la Oficina
+21 del Comisionado de Seguros, o bajo control de esta, que se hayan obtenido o
+22 hayan sido divulgados al Comisionado o a alguna otra persona en el
+18
+1 transcurso de un examen o investigación realizada conforme a los Artículos
+2 44.070, 44.071 y 44.072, y todos los informes presentados conforme a los
+3 Artículos 44.030, 44.050 y 44.060 se reconocerán por el Comisionado como
+4 propietario y que contiene secretos de negocios y se considerarán
+5 confidenciales y de naturaleza privilegiada y no estarán sujetos a inspección
+6 pública ni serán admisibles como evidencia en un proceso judicial civil. No
+7 obstante, se autoriza al Comisionado a usar los documentos, materiales u otra
+8 información en el proceso de ejercer sus funciones oficiales regulatorias o
+9 llevar alguna acción judicial. El Comisionado no divulgará los documentos,
+10 materiales u otra información sin el consentimiento previo por escrito del
+11 asegurador afectado, a menos que el Comisionado, previa notificación y vista,
+12 determine que dicha divulgación servirá a los intereses de los tenedores de
+13 pólizas, accionistas o del público, en cuyo caso el Comisionado podrá
+14 publicar todos o parte de dichos documentos, materiales u otra información
+15 como estime adecuado.
+16 (1) A los efectos de la información sometida y proporcionada a la Oficina
+17 del Comisionado de Seguros de conformidad con el Artículo
+18 44.050(M)(2), el Comisionado mantendrá la confidencialidad del
+19 cálculo del capital del grupo y la relación/razón del capital del grupo
+20 que resulte de dicho cálculo y toda información del capital del grupo
+21 recibida de una estructura de control de compañías de seguros bajo la
+19
+1 supervisión de la Junta de la Reserva Federal o cualquier supervisor
+2 del grupo de los Estados Unidos.
+3 (2) A los efectos de la información sometida y proporcionada a la Oficina
+4 del Comisionado de Seguros de conformidad con el Artículo
+5 44.050(M)(3), el Comisionado mantendrá la confidencialidad de los
+6 resultados de la prueba de resistencia de liquidez y las divulgaciones
+7 que las sustente, así como toda información sobre la prueba de
+8 resistencia de liquidez que sea recibida de una estructura de control de
+9 compañías de seguros bajo la supervisión de la Junta de la Reserva
+10 Federal o cualquier supervisor del grupo de los Estados Unidos.
+11 (B)…
+12 (C) En el desempeño de sus deberes el Comisionado podrá:
+13 (1) Compartir documentos, materiales u otra información, incluidos los
+14 documentos, materiales o información confidenciales y privilegiados
+15 referidos en el Apartado A de este Artículo, incluyendo documentos y
+16 materiales propietarios y secretos de negocios con otras agencias
+17 reguladoras estatales, federales e internacionales, con la NAIC, cualquier
+18 consultor designado por el Comisionado y con las autoridades de
+19 cumplimiento estatales, federales e internacionales, incluyendo a los
+20 miembros de un colegio de supervisores o los miembros de un colegio
+21 amplio de supervisores o el supervisor relacionado a un grupo de
+22 aseguradores activos internacionalmente constituido de conformidad con
+20
+1 este Capítulo, siempre y cuando la persona que los reciba acuerde por
+2 escrito a mantener el carácter confidencial y de privilegio del documento,
+3 material u otra información. No obstante, el Comisionado en el proceso de
+4 ejercer sus funciones sólo podrá compartir documentos, materiales o
+5 información confidenciales y privilegiados suministrada en cuanto a
+6 riesgos empresariales con cualquier otro comisionado o regulador de la
+7 industria de seguros de un estado que posea criterios de regulación
+8 sustancialmente similares a las disposiciones de trato confidencial
+9 establecidas en este Artículo y que acuerde por escrito no divulgar la
+10 referida información;
+11 (2) Recibir documentos, materiales o información, incluidos documentos,
+12 materiales o información, que de otra manera serían confidenciales y
+13 privilegiados, de la NAIC y sus afiliados y subsidiarias y de los oficiales
+14 regulatorios y de cumplimiento de ley de otras jurisdicciones extranjeras o
+15 nacionales, y mantendrá el carácter confidencial y de privilegio del
+16 documento, material o información que se le entregue con la advertencia o
+17 entendimiento de que son de carácter confidencial o de privilegio
+18 conforme a las leyes de la jurisdicción originaria del documento, material
+19 o información. Independientemente de lo dispuesto anteriormente en este
+20 párrafo, el Comisionado sólo podrá compartir documentos, material o
+21 información confidenciales y privilegiados que se hayan presentado de
+22 conformidad con el Artículo 44.050(M)(1) con comisionados de estados
+21
+1 que tengan estatutos o reglamentos sustancialmente similares al inciso A y
+2 que hayan acordado por escrito no divulgar dicha información.
+3 (3) Recibir documentos, materiales u otra información, incluidos
+4 documentos, materiales o información que de otra manera serían
+5 confidenciales y privilegiados, lo que incluye información o documentos
+6 que constituyen información privada exclusiva o secretos de negocios, por
+7 parte de la NAIC y sus afiliadas y subsidiarias, así como por parte de
+8 funcionarios regulatorios y oficiales de orden público de otras
+9 jurisdicciones foráneas o domésticas y mantendrá como confidencial o
+10 privilegiado todo documento, material o información recibidos con el
+11 aviso o el entendimiento de que son confidenciales o privilegiados
+12 conforme a las leyes de la jurisdicción de origen del documento, material o
+13 información; y
+14 (4) Suscribir acuerdos por escrito con la NAIC y con cualquier tercero
+15 consultor designado por el Comisionado con el propósito de establecer
+16 cómo se llevarán a cabo los procesos de compartir el uso de información
+17 proporcionada con arreglo a las disposiciones de este Artículo, en el cual
+18 se establezcan asuntos tales como:
+19 (i) Especificar los procedimientos y protocolos de seguridad con
+20 respecto a la protección de la confidencialidad y carácter
+21 privilegiado de la información compartida con la NAIC, y
+22 cualquier tercero consultor designado por el Comisionado,
+22
+1 incluyendo los procedimientos y protocolos para compartir
+2 por parte de la NAIC u otros reguladores estatales, federales o
+3 internacionales. El acuerdo proveerá que el recipiente acuerda
+4 por escrito el mantener la confidencialidad y el estatus
+5 privilegiado de los documentos, materiales u otra información
+6 y que ha verificado aquella autoridad legal para mantenerlos
+7 confidenciales;
+8 (ii) Establecer que la autoridad sobre la información compartida
+9 con la NAIC, o un tercero consultor la retendrá el
+10 Comisionado, la NAIC o el tercero consultor según designado
+11 por el Comisionado, y que el uso de la información
+12 compartida estará sujeto a la supervisión del Comisionado;
+13 (iii) Salvo los documentos, el material o la información
+14 divulgados en virtud del Artículo 44.050(M)(3), prohibir a la
+15 NAIC o al consultor externo designado por el Comisionado
+16 que almacene la información compartida en virtud de esta Ley
+17 en una base de datos permanente una vez finalizado el
+18 análisis subyacente;
+19 (iv) Requerir dar aviso oportuno al asegurador u organización de
+20 servicios de salud, en la eventualidad de que se reciba un
+21 requerimiento, subpoena u orden para la divulgación o
+22 producción de información confidencial de este, que esté en
+23
+1 posesión de la NAIC, o de un tercero consultor designado por
+2 el Comisionado, cualquier miembro del colegio de
+3 supervisores, del colegio amplio de supervisores o autoridad
+4 oficial reguladora;
+5 (v)Requerir a la NAIC y a un tercero consultor designado por el
+6 Comisionado a consentir, mediante oportuna solicitud, la
+7 intervención de un asegurador u organización de servicios de
+8 salud en un procedimiento judicial o administrativo en el cual
+9 le sea requerido a la NAIC y a un tercero consultor designado
+10 por el Comisionado la divulgación o producción de
+11 información confidencial de dicho asegurador u organización
+12 de servicios de salud obtenida conforme a las disposiciones de
+13 este Capítulo;
+14 (vi) Para documentos, materiales o información de reportes de
+15 conformidad con el Artículo 44.050(M)(3), en caso de un
+16 acuerdo que envuelva a un tercero consultor, se debe proveer
+17 notificación de la identidad del consultor al asegurador u
+18 organización de servicios de salud que le aplique.
+19 (D) La divulgación de los documentos, materiales o información al Comisionado
+20 no constituirá una renuncia al derecho de privilegio o reclamación de
+21 confidencialidad aplicables, conforme al presente Artículo o como resultado de
+22 compartir la información según se autoriza en el Apartado (C).
+24
+1 (E) Nada de lo dispuesto en este Artículo podrá entenderse como una delegación
+2 de la autoridad del Comisionado de regular y examinar las operaciones de los
+3 aseguradores u organizaciones de servicios de salud domésticas que formen
+4 parte de una estructura de control de compañías de seguros (insurance holding
+5 company system) y emitir cualquier orden para exigir el cumplimiento de las
+6 disposiciones de este Capítulo.
+7 (F) Todo documento, material u otra información en manos o bajo el control de la
+8 NAIC o de consultores externos designados por el Comisionado en virtud de
+9 esta Ley se considerarán confidenciales al amparo de la ley y será información
+10 privilegiada, no estará sujeto a divulgación pública, no estará sujeto a citación ni
+11 a descubrimiento de prueba, ni será admisible como prueba en ningún litigio
+12 civil entre partes privadas.
+13 (G) El cálculo del capital del grupo y la relación/razón del capital del grupo
+14 resultante (“resulting group capital ratio”), exigidos en el Artículo 44.050(M), y la
+15 prueba de resistencia de liquidez, junto con sus resultados y las divulgaciones
+16 que las sustenten exigidas en el Artículo 44.050(M)(2), son herramientas
+17 reglamentarias para la evaluación de los riesgos del grupo y la suficiencia del
+18 capital y los riesgos de liquidez del grupo, respectivamente, y no constituyen un
+19 recurso para clasificar a los aseguradores, organizaciones de servicios de salud o
+20 a las estructuras de control de las compañías de seguros en general. Por lo tanto,
+21 salvo que se exija lo contrario en virtud de las disposiciones de la presente Ley, la
+22 realización, publicación, difusión, circulación o presentación al público, o causar
+25
+1 directa o indirectamente que se realice, publique, difunda, circule o presente al
+2 público en un periódico, revista u otra publicación, o por medio de un aviso,
+3 circular, folleto, carta o cartel, o a través de cualquier emisora de radio o
+4 televisión o cualquier medio electrónico de comunicación disponible para el
+5 público, o de cualquier otro modo como publicidad, anuncio o declaración que
+6 contenga una manifestación o declaración con respecto al cálculo del capital del
+7 grupo, la razón/relación del capital del grupo (“resulting group capital ratio”), los
+8 resultados de la prueba de resistencia de liquidez o las divulgaciones de apoyo
+9 para la prueba de resistencia de liquidez de cualquier asegurador, organización
+10 de servicios de salud o de cualquier grupo de aseguradores u organizaciones de
+11 servicios de salud, o de cualquier componente derivado del cálculo por cualquier
+12 asegurador, organización de servicios de salud, corredor u otra persona
+13 relacionada de cualquier modo con el negocio de seguros, sería engañosa y, por
+14 lo tanto, está prohibida; siempre y cuando cualquier declaración sustancialmente
+15 falsa con respecto al cálculo del capital del grupo, la razón/relación del capital
+16 del grupo resultante (“resulting group capital ratio”), una comparación inadecuada
+17 de cualquier cantidad con el cálculo del capital del grupo de un asegurador,
+18 organización de servicios de salud o grupo de aseguradores o la razón/relación
+19 del capital del grupo resultante (“resulting group capital ratio”), el resultado de la
+20 prueba de resistencia de liquidez, las divulgaciones de apoyo para la prueba de
+21 resistencia de liquidez o una comparación inadecuada de cualquier cantidad con
+22 el resultado de la prueba de resistencia de liquidez de un asegurador,
+23 organización de servicios de salud o grupo de aseguradores o las divulgaciones
+26
+1 de apoyo se publique en cualquier publicación escrita y el asegurador u
+2 organización de servicios de salud pueda demostrar al Comisionado con pruebas
+3 sustanciales la falsedad de dicha declaración o su inadecuación, según sea el
+4 caso, entonces el asegurador u organización de servicios de salud podrá publicar
+5 anuncios en una publicación escrita si el propósito exclusivo del anuncio es
+6 refutar la declaración sustancialmente falsa.”
+7 Sección 5. - Separabilidad
+8 Si cualquier parte de esta Ley fuera anulada o declarada inconstitucional, la
+9 resolución, dictamen o sentencia a tal efecto dictada no afectará, perjudicará, ni
+10 invalidará el remanente de esta Ley. El efecto de dicha resolución, dictamen o sentencia
+11 quedará limitado a la parte específica de la misma que así hubiere sido anulada o
+12 declarada inconstitucional. Si la aplicación a una persona o a una circunstancia de
+13 cualquier parte de esta Ley fuera invalidada o declarada inconstitucional, la resolución,
+14 dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación del
+15 remanente de esta Ley a aquellas personas o circunstancia en que se pueda aplicar
+16 válidamente.
+17 Sección 6.-Vigencia.
+18 Esta Ley comenzará a regir inmediatamente luego de su aprobación.
+[DELETED: 0A 2S dL        l l J la;  zCaGzP ; ;sRzR ;;SoT ; a l n i ( ( ( y ( a A 4 e l s d a l e i p l A L “” y p o f H C S R A m d l f y l s d l a y d l h e p p a c a d l c e q e s a L d m r q R s e d d u e d c c c]
+[DELETED: 2 m o , e q i e l s d c d P R e C 4 E L s a c e p d l e d c y a p u m c y p e n d s p e u y d l l y r e c a l e i y p u r c c l d l d e y . p m d d a d l a d l L N 5 e i h p a C d S s l r d c e l i e m y l e d l a h e d f n L n l N a s L M 4  H C S d l e d L ( p s s e i E h p]
+[DELETED: 3 d m i l r d t e g v l s d p g t d r f y l a o d m s l s d l e r c a l a a e s h i r y a e C 4 d e n h d f d l s d g n s d s q f p d u e d c d c d C d a d S c h d f á y e E a e c l d l N y f l a d l O d C d p a a l c a l v q p u m]
+[DELETED: 47d  “ p e C d C d G s l p c e c d g s s a p l y e d v e c p l N c a l p p d l N d l p d r d l l c d a a p u a e d y l i y p d l i d l p d]
+[DELETED: 5 S T F s l b d e d y l e c d)I N s t q d n i e l i n e p a p A s q e c p p o l c d c]
+[DELETED: 6 l p d e A L d d moa G n d M d P d R d L (”)…)R ( R u o d s d s d d s  q a s m c e h c d n s r o p u e a e l c f o l d c e P R u o d s d q p a m s l e d c d , c c l c e e e A ( d C d G (S l C C]
+[DELETED: 7 r u c a d c d g c a l d c d e p d c ddE c d c c l I p e d C d G d l N l c p f ala c d e p d l e d s d d c d ssd a( c U e d c d c d s q s u a e s e d U e d c d c d s q e]
+[DELETED: 8d  l t d l a d i d i c e c d e pll( s U e d c d c d s coe U Q p i a e p( c c l r p l a a l n f y d p d d s d g( s p q e e plc( s]
+[DELETED: 9 s e e M ACy c d g a n m d l g d e q o e d j a l e p e c e l I d l d e l A y 4 e c d e e o e E U d c e d d c d s n d e E d e c d e p l c I d l e d l o d a A 4 e c d p t l f d d s]
+[DELETED: 1 c c l c q e e c c s n c c u o m d l p u e d l p d c d e l s f d p d i a q e c d e p c u L e c f d c a u o d s d e c d s d e p d l e d]
+[DELETED: 1 d c d s s l d e e M doq . E M d P d R d L d l N L S T F C dea G d T s E F( q c c a m u d l u d l d A s c i e e a d p c l c d G d T d d s d s n d i e e a d M]
+[DELETED: 1 d l u d l C d A s c d a d M d P d R d e ldF  S T F s s d q eo) L e r b e q l u o d s d s s c T F s s e e c p d l d a c l p d i s l d l m d a a l i d]
+[DELETED: 1 s c l d G d T d E Fo.7d  4 N y a d l a u d s d s q f p d u e d” c d c d s e q p u a u S e C c q u a u o d]
+[DELETED: 1 d S c r a a q p u f a u c q s m pnl d a u o d s d s d l s p c r t c o a e u a d y s d d o d ú c]
+[DELETED: 1 q s e e p d u a s y s s E r y d t d s i y d s E i t l r y d q s a u o d s d c l e d l r l l d a l d s l e d l l e d l l d t ( m d t l m d l e d p l e f o l r d c t r c e n d u o d s d s o a a l e d s y s m l s d p d l a s d a n e o e n d]
+[DELETED: 1 a t l r y d s l a i u c dde d a u o d s d s y s d s e e u p d s e s a l           … T a q s p d u a o c c u 4 e s a l j d t d s i t o s d d c cnl l d s y]
+[DELETED: 1 o c l o d l a c r a l o l f d d a p d d m s d r i o c o f S e p l c d a d c 4 - S e l i ( y ( d A 4 d l L7d  s d a C o a a o p e e]
+[DELETED: 1 4 y 4 y t l i p c a l 4 4 y 4 s r p e C c y q c s d n y s c e e p d e s f o r o u o i s e c p p e d a o d p e c c e C p)A C d S d c c e A e C m l c d]
+[DELETED: 1)A C d S d c c e A e C m l c d l l s a c t i s l p d d s b l s d l J d l R C d m u o i i l m o i c y p e e A A d e A i d y p y s d n c o a d p e C y c l a d e f e i i a l d u c d s o l m d u c d s o e s r a u g d]
+[DELETED: 2 C s y c l p q l r a p s f s p c d m o c y p s e c a c o d d s d u e q p c d r s a l d d t c e e A y q a p e n d l o i q d o m s c y y m e c c y d p d d q s d c c o d p e C s p c d m o c y p q s h p d c e A 4 c c d e]
+[DELETED: 2 R d m u o i i m o i q d o m s d l N y s a y s a c p p d r y o d o p d o f o d y m c c o t d m o i r c e o e e d q s c o p S a p e c l N y c c t d p e C c e p d e a l p d l c y c d l i c c l N y t c d p e C]
+[DELETED: 2 l p y p p c e e m l c y e e l N o u t c l r e e C y q e u d l i S l d e m o l i o a c e d p e C u b d d p u v f e d s e l e d q s r u s u o p l d o d e]
+[DELETED: 2 C c m d c d a c m o s  l e C l d o p d P d m o i d r d c e A 4 e c d u d l i d c a a u c u r a d d p o r d]
+[DELETED: 2 u o d s d s d q f d sy e c o p e e c d l c e C d d p n s a c p e n l E g d c g“” l s e e e A 4 s h]
+[DELETED: 2 u p o p o m d a f c o c o a t d c e d r o o c m e d c d p e l o d s d s c u o p u c c c e c d c d g d u a e r d l p d r d l d u a]
+[DELETED: 2 a s p e c p e y e a u l f d d d o s i s s e e u p e s e p e d a e c p d e L f a o d i l d o s a t e d n a p n l a l p e d l m q a h s a o i  S l a a u p o a u c d o s a t e d n a n i l a d d e L a a p o c e q s p a]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(9 DE MARZO DE 2026)
+A-083
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 856
+12 de noviembre de 2025
+Presentado por los señores Rivera Schatz, Ríos Santiago; la señora Jiménez Santoni; los
+señores Matías Rosario, Morales Rodríguez; la señora Barlucea Rodríguez; los señores Colón
+La Santa, González López; las señoras Padilla Alvelo, Moran Trinidad, Pérez Soto; el señor
+Reyes Berríos; la señora Román Rodríguez; los señores Rosa Ramos, Sánchez Álvarez, Santos
+Ortiz; las señoras Soto Aguilú, Soto Tolentino; y el señor Toledo López
+Referido a la Comisión de Innovación, Reforma y Nombramientos
+LEY
+Para añadir los nuevos incisos (K), (L), (M) y (N) al Artículo 44.010; enmendar los
+Artículos 44.050, 44.060 y 44.080 de la Ley Núm. 77 de 19 de junio de 1957, según
+enmendada, conocida como, “Código de Seguros de Puerto Rico”, a los fines de
+atemperar sus disposiciones a las enmiendas introducidas por la Asociación
+Nacional de Comisionados de Seguros (NAIC, por sus siglas en inglés) a la Ley
+Modelo “Insurance Holding Company System Regulatory Act”; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El monitoreo de las finanzas y la solvencia de los aseguradores y de las
+organizaciones de servicios de salud es de suma importancia, ya que ha probado ser
+una herramienta eficaz para proteger al consumidor al darle la confianza en que el
+asegurador que elija tendrá la capacidad económica para cumplir con sus obligaciones
+contraídas con su asegurado. La importancia del monitoreo de la solvencia adquiere
+mayor relevancia al considerar que muchos de los aseguradores y organizaciones en
+Puerto Rico se encuentran dentro de una estructura de control, conocida como
+
+2
+entidades matrices o holding companies, estructura que incide en la solvencia del
+asegurador.
+Por la importancia de la supervisión de estas estructuras de control, Puerto Rico
+incorporó regulación para estas mediante la Ley Núm. 51-2012, que añadió al Código de
+Seguros de Puerto Rico el Capítulo 44. Esta Ley se aprobó con el propósito de
+supervisar las estructuras de control y así promover un mercado competitivo y
+confiable para el negocio de seguros, promoviendo estándares uniformes y
+modernizados de las leyes y reglamentos estatales, conforme a los estándares
+establecidos por la Asociación Nacional de Comisionados de Seguros (NAIC, por sus
+siglas en inglés). La NAIC es una organización clave que agrupa a los reguladores de
+seguros, buscando un foro no gubernamental para abordar los problemas que enfrenta
+la industria y promover una regulación compatible con la de los demás estados y
+territorios que pertenecen a los Estados Unidos. La adopción de las leyes y reglamentos
+modelos de la NAIC es parte indispensable para que los organismos reguladores de los
+estados y territorios mantengan la acreditación de la NAIC. Puerto Rico, como miembro
+de la NAIC, se benefició de la adopción de la Ley Modelo 440 de la NAIC al adoptar la
+Ley Núm. 51-2012, para regular y supervisar la operación de los holdings companies.
+Han pasado más de diez años desde la aprobación de la Ley Núm. 51-2012.
+Aunque este instrumento ha permitido al Comisionado de Seguros supervisar
+eficazmente las relaciones de control en la industria, el mercado y las exigencias
+económicas de los aseguradores han evolucionado de forma notable. La naturaleza
+dinámica de los riesgos y la creciente complejidad de las estructuras corporativas exigen
+hoy herramientas de fiscalización más modernas y especializadas. Para responder a esta
+necesidad, la NAIC actualizó su Ley Modelo 440 (Insurance Holding Company System
+Regulatory Act) y propone a los estados y territorios adoptar enmiendas que refuercen la
+supervisión de los grupos aseguradores. Entre los mecanismos sugeridos destacan el
+Cálculo de Capital de Grupo (GCC, por sus siglas en inglés) y el Marco de Pruebas de
+Resistencia de Liquidez (LST, por sus siglas en inglés). Estas herramientas permiten
+
+3
+evaluar de manera integral los riesgos de todo el grupo, verificar la suficiencia de
+capital y detectar posibles riesgos de liquidez del grupo. De este modo, se facilita la
+identificación temprana de riesgos financieros y la adopción oportuna de medidas
+correctivas, salvaguardando la solvencia de las entidades reguladas conforme a los
+criterios y procedimientos del Manual de Análisis Financiero de la NAIC.
+En atención a esto, se hace imperioso revisar y atemperar el Capítulo 44 del
+Código de Seguros de Puerto Rico a los cambios identificados por la NAIC. La adopción
+de estas nuevas herramientas de fiscalización de la solvencia del grupo no solo
+propende a mejorar la fiscalización de solvencia de aseguradores y organizaciones de
+servicios de salud que forman parte de una estructura de control de compañías de
+seguros, sino que también es parte de la regulación de solvencia financiera requerida de
+manera mandatoria a la Oficina del Comisionado de Seguros de Puerto Rico como parte
+del Programa de Acreditación de la NAIC.
+Con ello en mente, la presente pieza legislativa procura actualizar el Capítulo 44
+del Código de Seguros de Puerto Rico para adherirlo a los estándares de regulación
+financiera promovidos por la NAIC en su Ley Modelo 440, capacitando al Comisionado
+de Seguros con herramientas de fiscalización ágiles y eficientes. Esta actualización
+mejora la supervisión de la solvencia y liquidez de aseguradores y organizaciones de
+servicios de salud dentro de estructuras de control, asegura el cumplimiento con los
+estándares de la NAIC y fortalece la acreditación de la Oficina del Comisionado de
+Seguros, un logro esencial para la estabilidad y el reconocimiento regulatorio de Puerto
+Rico. Con estas enmiendas, se robustece la supervisión prudencial de la industria de
+seguros, protegiendo así a los consumidores a la vez que promueve un mercado
+competitivo y confiable.
+
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añaden los nuevos incisos (K), (L), (M) y (N) al Artículo 44.010 de
+2 la Ley Número 77 de 19 de junio de 1957, según enmendada, conocida como “Código
+3 de Seguros de Puerto Rico”, para que lean como sigue:
+4 “Artículo 44.010 – Definiciones
+5 (A)…
+6 …
+7 (K) “Instrucciones para el Cálculo del Capital del Grupo”: significa las
+8 instrucciones para calcular el capital del grupo, según sean adoptadas por la
+9 NAIC y enmendadas de vez en cuando por la NAIC conforme a los
+10 procedimientos que dicha asociación adopte.
+11 (L) “NAIC”: significa la Asociación Nacional de Comisionados de Seguros.
+12 (M) “Marco de Pruebas de Resistencia de Liquidez de la NAIC”: el “Marco de
+13 Pruebas de Resistencia de Liquidez de la NAIC” (o “NAIC Liquidity Stress Test
+14 Framework”) es una publicación aparte de la NAIC que incluye un historial del
+15 desarrollo por parte de la NAIC de las pruebas de resistencia de liquidez
+16 reglamentarias, los criterios de alcance aplicables para un año específico de
+17 datos, y las instrucciones y plantillas de los informes de las pruebas de
+18 resistencia de liquidez para un año específico de datos, según la NAIC adopte
+19 dichos criterios de alcance, instrucciones y plantillas de informes, así como las
+20 enmiendas que, de tiempo en tiempo, promulgue dicha entidad.
+
+5
+1 (N) “Criterios de alcance”: los criterios de alcance o “scope criteria”, tal como se
+2 detallan en el Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+3 Liquidity Stress Test Framework”), son las bases de exposición designadas y las
+4 magnitudes mínimas de estas para el año de datos especificado, que se utilizan
+5 para establecer una lista preliminar de aseguradores que se consideran incluidas
+6 en el Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC Liquidity
+7 Stress Test Framework”) para ese año de datos.”
+8 Sección 2. - Se enmienda el Artículo 44.050 de la Ley Número de 19 de junio de
+9 1957, según enmendada, mejor conocida como “Código de Seguros de Puerto Rico”,
+10 para que lea como sigue:
+11 “Artículo 44.050. – Inscripción de aseguradores u organizaciones de servicios de
+12 salud.
+13 (A) Inscripción…
+14 …
+15 (D) Materialidad. No se tendrá que divulgar ninguna información en la
+16 declaración de inscripción que se radique conforme al Artículo 44.050B, si
+17 la información no es pertinente al presente Artículo, salvo que el
+18 Comisionado disponga lo contrario mediante reglamentación u orden. Las
+19 ventas, compras, permutas, préstamos o la concesión de crédito,
+20 inversiones o garantías que involucren la mitad del uno por ciento (0.5%) o
+21 menos de los activos admitidos del asegurador u organización de servicios
+22 de salud al 31 de diciembre del pasado año no se considerarán pertinentes
+
+6
+1 para los propósitos de este Artículo. La definición de materialidad
+2 proporcionada en este inciso no aplicará a efectos del Cálculo del Capital
+3 del Grupo ni del Marco de Pruebas de Resistencia de Liquidez (“NAIC
+4 Liquidity Stress Test Framework”).
+5 (E) …
+6 …
+7 (M) Riesgo Empresarial.
+8 (1) La persona que ostente el control final de un asegurador constituido en
+9 Puerto Rico u organización de servicios de salud doméstica, deberá
+10 presentar un informe anual sobre riesgo empresarial, en el cual identifique
+11 los riesgos significativos dentro de la estructura de control de compañías
+12 de seguros (insurance holding company), que a su mejor conocimiento e
+13 información, de no ser remediado oportunamente, probablemente
+14 ocasionaría un efecto adverso en la condición financiera o liquidez del
+15 asegurador constituido en Puerto Rico u organización de servicios de
+16 salud doméstica. Dicho informe será presentado ante el Comisionado del
+17 estado que posee autoridad máxima sobre la estructura de control de
+18 compañías de seguros (insurance holding company), según sea determinado,
+19 de conformidad con los criterios establecidos en el Financial Analysis
+20 Handbook de la NAIC.
+21 (2) Cálculo del Capital del Grupo (“Group Capital Calculation”). Salvo lo
+22 dispuesto a continuación, la persona que ostente el control final en cada
+
+7
+1 asegurador obligado a registrarse deberá presentar, simultáneamente con
+2 el registro, un cálculo anual del capital del grupo conforme a las
+3 instrucciones del comisionado del estado principal de creación del
+4 asegurador u organización de servicios de salud (“lead state”). El informe
+5 deberá cumplimentarse de conformidad con las Instrucciones para el
+6 Cálculo del Capital del Grupo de la NAIC, lo cual puede facultar al
+7 comisionado del estado principal (“lead state”) a autorizar a una persona
+8 que ejerza control, pero que no sea la persona que ostente el control final,
+9 a presentar el cálculo del capital del grupo. El informe se presentará ante
+10 el comisionado del estado principal (“lead state”) de la estructura de
+11 control de compañías de seguros, según lo determine el comisionado de
+12 conformidad con los procedimientos del Manual de Análisis Financiero
+13 (“Financial Analysis Handbook”) adoptado por la NAIC. Las estructuras de
+14 control de compañías de seguros (“holding companies”) descritas a
+15 continuación están exentas de presentar el cálculo del capital del grupo:
+16 (a) Una estructura de control de compañías de seguros que solo
+17 tiene un asegurador en su estructura de control que solo tramita
+18 negocios y solo está autorizado en el estado donde está domiciliado
+19 y no asume negocios de ningún otro asegurador;
+20 (b) Una estructura de control de compañías de seguros que está
+21 obligada a realizar el cálculo del capital del grupo que disponga la
+22 Junta de la Reserva Federal de los Estados Unidos (“United States
+
+8
+1 Federal Reserve Board”). El comisionado del estado principal (“lead
+2 state”) solicitará el cálculo a la Junta de la Reserva Federal conforme
+3 a los términos de los acuerdos de intercambio de información
+4 vigentes. Si la Junta de la Reserva Federal no puede compartir el
+5 cálculo con el comisionado del estado principal (“lead state”), la
+6 estructura de control de compañías de seguros no quedará exenta
+7 de la presentación del informe del cálculo del capital del grupo;
+8 (c) Una estructura de control de compañías de seguros cuyo
+9 supervisor de grupo foráneo (“non-U.S. group-wide supervisor”) está
+10 ubicado en una Jurisdicción Recíproca según lo descrito en la Regla
+11 98(5)(H), que reconoce el enfoque regulatorio del estado de Estados
+12 Unidos para la supervisión del grupo y el capital del grupo;
+13 (d) Una estructura de control de compañías de seguros:
+14 (i) Que proporciona información al estado principal (“lead
+15 state”) que cumple con los requisitos para la acreditación
+16 conforme a las normas financieras y del programa de
+17 acreditación de la NAIC, ya sea directa o indirectamente a
+18 través del supervisor del grupo (“group-wide supervisor”),
+19 quien ha determinado que dicha información es satisfactoria
+20 para permitir que el estado principal (“lead state”) cumpla
+21 con el enfoque de la NAIC de supervisión del grupo, tal y
+
+9
+1 como se detalla en el Manual de Análisis Financiero de la
+2 NAIC ( “NAIC Financial Analysis Handbook”); y
+3 (ii) cuyo supervisor de grupo foráneo (“non-U.S. supervisor”)
+4 que no se encuentre en una Jurisdicción Recíproca reconozca
+5 y acepte el cálculo del capital del grupo como la evaluación
+6 del capital del grupo a nivel mundial de los grupos de
+7 seguros estadounidenses que operen en dicha jurisdicción,
+8 conforme a lo establecido por el comisionado en la
+9 reglamentación.
+10 (e) Independientemente de lo dispuesto en los Artículos
+11 44.050(M)(2)(c) y 44.050(M)(2)(d), el comisionado del estado
+12 principal (“lead state”) exigirá el cálculo del capital del grupo para
+13 las operaciones en Estados Unidos de cualquier estructura de
+14 control de compañías de seguros no domiciliadas en Estados
+15 Unidos cuando, tras las consultas necesarias con otros supervisores
+16 o directivos, el comisionado del estado principal lo considere
+17 adecuado para la supervisión prudente y el control de la solvencia
+18 o para garantizar la competitividad del mercado de seguros.
+19 (f) Independientemente de las exenciones de la obligación de
+20 presentar el cálculo del capital del grupo establecidas en el Artículo
+21 44.050(M)(2)(a) al Artículo 44.050(M)(2)(d), el comisionado del
+22 estado principal (“lead state”) tiene la facultad discrecional de
+
+10
+1 conceder una exención a la persona que ostente el control final de la
+2 obligación de presentar el cálculo anual del capital del grupo o de
+3 aceptar una presentación o informe limitado del capital del grupo
+4 de conformidad con los criterios que especifique el comisionado
+5 mediante su regulación.
+6 (g) Si el comisionado del estado principal (“lead state commissioner”)
+7 determina que una estructura de control de compañías de seguros
+8 (“holding company system”) ya no cumple con uno o más de los
+9 requisitos para una exención de la presentación del cálculo del
+10 capital del grupo en virtud de este Artículo, la estructura de control
+11 de compañías de seguros deberá presentar el cálculo del capital del
+12 grupo en la siguiente fecha de presentación del informe anual,
+13 salvo que el comisionado del estado principal conceda una
+14 prórroga por motivos razonables demostrados.
+15 (3) Prueba de Resistencia de Liquidez (“Liquidity Stress Test”). La persona que
+16 ostente el control final de cada asegurador u organización de servicios de
+17 salud obligada a registrarse o autorizarse y que también esté incluida en el
+18 alcance del Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+19 Liquidity Stress Test Framework”) deberá presentar los resultados de la Prueba
+20 de Resistencia de Liquidez de un año en específico. El informe se presentará
+21 ante el comisionado de seguros del estado principal de la estructura de
+
+11
+1 control de compañías de seguros, según lo determinado en el Manual de
+2 Análisis Financiero (“Financial Analysis Handbook”) que adopte la NAIC.
+3 (a) El Marco de Pruebas de Resistencia de Liquidez de la NAIC
+4 (“NAIC Liquidity Stress Test Framework”) incluye Criterios de
+5 Alcance aplicables a un año específico de datos. Estos Criterios de
+6 Alcance son objeto de una revisión anual, como mínimo, por parte
+7 del Grupo de Trabajo sobre Estabilidad Financiera (“Financial
+8 Stability Task Force”) o su sucesor. Cualquier cambio en el Marco de
+9 Pruebas de Resistencia de Liquidez de la NAIC o en el año de datos
+10 para el que deban medirse los Criterios de Alcance entrará en vigor
+11 el 1 de enero del año siguiente al año natural en que se adopten
+12 dichos cambios. Los aseguradores u organizaciones de servicios de
+13 salud que cumplan con al menos uno de los umbrales de los
+14 Criterios de Alcance se consideran incluidos en el alcance del
+15 Marco de Pruebas de Resistencia de Liquidez de la NAIC para el
+16 año de datos especificado, salvo que el comisionado de seguros del
+17 estado principal, con la colaboración del Grupo de Trabajo de
+18 Estabilidad Financiera de la NAIC (“NAIC Financial Stability Task
+19 Force”) o su sucesor, determine que el asegurador u organización
+20 de servicios de salud no debe incluirse en el alcance del Marco
+21 (Framework) para ese año de datos. Asimismo, los aseguradores u
+22 organizaciones de servicios de salud que no cumplan con al menos
+
+12
+1 uno de los umbrales de los Criterios de Alcance se consideran
+2 excluidos del alcance del Marco de Pruebas de Resistencia de
+3 Liquidez de la NAIC para el año de datos especificado, salvo que el
+4 comisionado de seguros del estado principal, con la colaboración
+5 del Grupo de Trabajo de Estabilidad Financiera de la NAIC (“NAIC
+6 Financial Stability Task Force”), o su sucesor, determine que el
+7 asegurador se debe incluir en el alcance del Marco (Framework) para
+8 ese año de datos.
+9 (i) Las entidades reguladoras buscan evitar que los
+10 aseguradores u organizaciones de servicios de salud se
+11 incluyan y se excluyan con frecuencia del alcance del Marco
+12 de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+13 Liquidity Stress Test Framework”). El comisionado de seguros
+14 del estado principal (“lead state”), con el asesoramiento del
+15 Grupo de Trabajo de Estabilidad Financiera (“NAIC Financial
+16 Stability Task Force”) o su sucesor, evaluará esta
+17 preocupación como parte de la determinación
+18 correspondiente a un asegurador.
+19 (b) La ejecución de la Prueba de Resistencia de Liquidez de un año
+20 específico, así como la presentación del informe sobre los
+21 resultados de la misma, deberán atenerse a las instrucciones del
+22 Marco de Pruebas de Resistencia de Liquidez de la NAIC (“NAIC
+
+13
+1 Liquidity Stress Test Framework”) y a las plantillas de los informes
+2 correspondientes a dicho año, así como a las determinaciones del
+3 comisionado de seguros del estado principal (“lead state”), con la
+4 colaboración del Grupo de Trabajo de Estabilidad Financiera
+5 (“NAIC Financial Stability Task Force”), o su sucesor, conforme a lo
+6 dispuesto en el Marco ( “Framework”).”
+7 Sección 3. - Se enmienda el Artículo 44.060 de la Ley Número 77 de 19 de junio
+8 de 1957, según enmendada, mejor conocida como “Código de Seguros de Puerto Rico”,
+9 para que lea como sigue:
+10 “Artículo 44.060.– Normas y administración de los aseguradores u
+11 organizaciones de servicios de salud que formen parte de una estructura de
+12 control de compañías de seguros.
+13 (A) Transacciones dentro de una estructura de control de compañías de seguros
+14 “insurance holding company system”.
+15 (1) Las siguientes normas regirán las transacciones dentro de una estructura
+16 de control de compañías de seguros en que participa un asegurador u
+17 organización de servicios de salud sujeto a inscripción:
+18 (a) …
+19 …
+20 (f) Si el Comisionado considera que un asegurador u organización de
+21 servicios de salud sujeto a esta Ley se encuentra en una condición financiera
+22 adversa según lo definido en la Regla 94 titulada “Estándares y autoridad del
+
+14
+1 Comisionado de Seguros con respecto a aseguradores que presenten una
+2 condición financiera adversa”, una condición que sería motivo para
+3 supervisión, tutela o un proceso de insolvencia, el Comisionado puede exigir
+4 que el asegurador u organización de servicios de salud garantice y mantenga
+5 un depósito, retenido por el Comisionado, o una fianza, según lo determine el
+6 asegurador u organización de servicios de salud bajo su discreción, para la
+7 protección del asegurador u organización de servicios de salud durante la
+8 duración de cada contrato o acuerdo, o la existencia de la condición por la
+9 cual el Comisionado haya requerido el depósito o la fianza.
+10 Al determinar si se requiere un depósito o una fianza, el Comisionado debe
+11 considerar si existe alguna preocupación con respecto a la capacidad de la
+12 persona afiliada para cumplir con todo contrato o acuerdo si el asegurador u
+13 organización de servicios de salud entrase en un proceso de liquidación. Una
+14 vez el Comisionado determina que el asegurador u organización de servicios
+15 de salud se encuentra en una condición financiera adversa o en una condición
+16 que podría ser motivo para supervisión, tutela o un proceso de insolvencia, y
+17 resulta necesario un depósito o fianza; el Comisionado tendrá discreción para
+18 determinar el importe del depósito o fianza, el cual no podrá superar el valor
+19 de todo contrato o acuerdo en un año determinado, y si dicho depósito o
+20 fianza debe exigirse para un único contrato, varios contratos o un contrato
+21 únicamente con una persona o personas específicas;
+
+15
+1 (g) Todos los registros y datos del asegurador u organización de servicios de
+2 salud que se encuentren en poder de una afiliada son y seguirán siendo
+3 propiedad del asegurador u organización, sujetos al control del asegurador u
+4 organización. Estos registros y datos también deberán ser identificables y
+5 estar separados o ser fácilmente separables de los registros y datos de todas
+6 las demás personas, sin costo adicional para el asegurador u organización de
+7 servicios de salud. Esto incluye todos los registros y datos que sean
+8 propiedad del asegurador u organización de servicios de salud, cualquiera
+9 que sea la forma en que se conserven, incluidos, entre otros, las reclamaciones
+10 y los expedientes de las reclamaciones, las listas de asegurados, los
+11 expedientes de solicitudes, los expedientes de litigios, los expedientes de
+12 primas, los libros de tarifas (los manuales de tarifas), los manuales de
+13 suscripción, los expedientes de personal, los expedientes financieros o
+14 registros similares que estén en el poder, la custodia o el control de la afiliada.
+15 A solicitud del asegurador u organización de servicios de salud, la afiliada
+16 deberá garantizar que el síndico pueda obtener un expediente completo de
+17 todos los registros de cualquier tipo relacionados con el negocio del
+18 asegurador u organización de servicios de salud; obtener acceso a los
+19 sistemas operativos en los que se mantienen los datos; obtener el programa
+20 (“software”) que ejecuta dichos sistemas, ya sea mediante la suscripción de
+21 acuerdos de licencia o de cualquier otro modo y restringir el uso de los datos
+22 por parte de la afiliada si dicha afiliada no está operando el negocio del
+
+16
+1 asegurador. La afiliada proporcionará una exención de cualquier gravamen
+2 de arrendador u otro gravamen para conceder al asegurador u organización
+3 acceso a todos los registros y datos si la afiliada incumple un contrato de
+4 arrendamiento u otro acuerdo y;
+5 (h) Las primas u otros fondos que pertenezcan al asegurador u organización de
+6 servicios de salud y cuyo cobro o retención esté en manos de una afiliada son
+7 propiedad exclusiva del asegurador u organización de servicios de salud y
+8 están sujetos al control del asegurador u organización de servicios de salud.
+9 Todo derecho de compensación en caso de que un asegurador u organización
+10 de servicios de salud entre en un proceso de sindicatura estará sujeto a lo
+11 dispuesto en el Capítulo 40 del Código de Seguros de Puerto Rico.
+12 (2) …
+13 …
+14 (6) Procedimientos de supervisión, incautación, tutela o sindicatura.
+15 (a) Toda afiliada que sea parte de un acuerdo o contrato con un
+16 asegurador u organización de servicios de salud doméstico en virtud del
+17 Artículo 44.060A(2)(d) estará sujeta a la jurisdicción de todo
+18 procedimiento de supervisión, incautación, tutela o sindicatura
+19 interpuesto en contra del asegurador u organización de servicios de salud
+20 y a la autoridad de todo supervisor, tutor, rehabilitador o liquidador del
+21 asegurador designado de conformidad con las leyes de supervisión y
+22 sindicatura con el fin de interpretar, imponer y supervisar, en virtud del
+
+17
+1 acuerdo o contrato, las obligaciones de la afiliada con respecto a la
+2 prestación de servicios al asegurador que:
+3 (i) Sean parte integral de las operaciones del asegurador, incluidas,
+4 entre otras, las funciones de dirección, administración,
+5 contabilidad, procesamiento de datos, mercadeo, suscripción,
+6 tramitación de reclamaciones, inversión o cualquier otra función
+7 similar o que;
+8 (ii) Sean esenciales para la capacidad del asegurador de cumplir
+9 con sus obligaciones en virtud de las pólizas de seguro.
+10 (b) El Comisionado puede exigir que un acuerdo o contrato conforme al
+11 Artículo 44.060A(2)(d) para la prestación de los servicios descritos en (i) y
+12 (ii) especifique que la afiliada preste su consentimiento a la jurisdicción
+13 según lo establecido en este Artículo 44.060A(6).
+14 (B)…”
+15 Sección 4. - Se enmiendan los incisos (A) y (C) del Artículo 44.080 de la Ley
+16 Número 77 de 19 de junio de 1957, según enmendada, mejor conocida como “Código de
+17 Seguros de Puerto Rico”, y se añaden a éste los incisos (F) y (G), para que lean como
+18 sigue:
+19 “Artículo 44.080.– Trato confidencial
+20 (A) Todos los documentos, materiales u otra información en manos de la Oficina
+21 del Comisionado de Seguros, o bajo control de esta, que se hayan obtenido o
+22 hayan sido divulgados al Comisionado o a alguna otra persona en el
+
+18
+1 transcurso de un examen o investigación realizada conforme a los Artículos
+2 44.070, 44.071 y 44.072, y todos los informes presentados conforme a los
+3 Artículos 44.030, 44.050 y 44.060 se reconocerán por el Comisionado como
+4 propietario y que contiene secretos de negocios y se considerarán
+5 confidenciales y de naturaleza privilegiada y no estarán sujetos a inspección
+6 pública ni serán admisibles como evidencia en un proceso judicial civil. No
+7 obstante, se autoriza al Comisionado a usar los documentos, materiales u otra
+8 información en el proceso de ejercer sus funciones oficiales regulatorias o
+9 llevar alguna acción judicial. El Comisionado no divulgará los documentos,
+10 materiales u otra información sin el consentimiento previo por escrito del
+11 asegurador afectado, a menos que el Comisionado, previa notificación y vista,
+12 determine que dicha divulgación servirá a los intereses de los tenedores de
+13 pólizas, accionistas o del público, en cuyo caso el Comisionado podrá
+14 publicar todos o parte de dichos documentos, materiales u otra información
+15 como estime adecuado.
+16 (1) A los efectos de la información sometida y proporcionada a la Oficina
+17 del Comisionado de Seguros de conformidad con el Artículo
+18 44.050(M)(2), el Comisionado mantendrá la confidencialidad del
+19 cálculo del capital del grupo y la relación/razón del capital del grupo
+20 que resulte de dicho cálculo y toda información del capital del grupo
+21 recibida de una estructura de control de compañías de seguros bajo la
+
+19
+1 supervisión de la Junta de la Reserva Federal o cualquier supervisor
+2 del grupo de los Estados Unidos.
+3 (2) A los efectos de la información sometida y proporcionada a la Oficina
+4 del Comisionado de Seguros de conformidad con el Artículo
+5 44.050(M)(3), el Comisionado mantendrá la confidencialidad de los
+6 resultados de la prueba de resistencia de liquidez y las divulgaciones
+7 que las sustente, así como toda información sobre la prueba de
+8 resistencia de liquidez que sea recibida de una estructura de control de
+9 compañías de seguros bajo la supervisión de la Junta de la Reserva
+10 Federal o cualquier supervisor del grupo de los Estados Unidos.
+11 (B)…
+12 (C) En el desempeño de sus deberes el Comisionado podrá:
+13 (1) Compartir documentos, materiales u otra información, incluidos los
+14 documentos, materiales o información confidenciales y privilegiados
+15 referidos en el Apartado A de este Artículo, incluyendo documentos y
+16 materiales propietarios y secretos de negocios con otras agencias
+17 reguladoras estatales, federales e internacionales, con la NAIC, cualquier
+18 consultor designado por el Comisionado y con las autoridades de
+19 cumplimiento estatales, federales e internacionales, incluyendo a los
+20 miembros de un colegio de supervisores o los miembros de un colegio
+21 amplio de supervisores o el supervisor relacionado a un grupo de
+22 aseguradores activos internacionalmente constituido de conformidad con
+
+20
+1 este Capítulo, siempre y cuando la persona que los reciba acuerde por
+2 escrito a mantener el carácter confidencial y de privilegio del documento,
+3 material u otra información. No obstante, el Comisionado en el proceso de
+4 ejercer sus funciones sólo podrá compartir documentos, materiales o
+5 información confidenciales y privilegiados suministrada en cuanto a
+6 riesgos empresariales con cualquier otro comisionado o regulador de la
+7 industria de seguros de un estado que posea criterios de regulación
+8 sustancialmente similares a las disposiciones de trato confidencial
+9 establecidas en este Artículo y que acuerde por escrito no divulgar la
+10 referida información;
+11 (2) Recibir documentos, materiales o información, incluidos documentos,
+12 materiales o información, que de otra manera serían confidenciales y
+13 privilegiados, de la NAIC y sus afiliados y subsidiarias y de los oficiales
+14 regulatorios y de cumplimiento de ley de otras jurisdicciones extranjeras o
+15 nacionales, y mantendrá el carácter confidencial y de privilegio del
+16 documento, material o información que se le entregue con la advertencia o
+17 entendimiento de que son de carácter confidencial o de privilegio
+18 conforme a las leyes de la jurisdicción originaria del documento, material
+19 o información. Independientemente de lo dispuesto anteriormente en este
+20 párrafo, el Comisionado sólo podrá compartir documentos, material o
+21 información confidenciales y privilegiados que se hayan presentado de
+22 conformidad con el Artículo 44.050(M)(1) con comisionados de estados
+
+21
+1 que tengan estatutos o reglamentos sustancialmente similares al inciso A y
+2 que hayan acordado por escrito no divulgar dicha información.
+3 (3) Recibir documentos, materiales u otra información, incluidos
+4 documentos, materiales o información que de otra manera serían
+5 confidenciales y privilegiados, lo que incluye información o documentos
+6 que constituyen información privada exclusiva o secretos de negocios, por
+7 parte de la NAIC y sus afiliadas y subsidiarias, así como por parte de
+8 funcionarios regulatorios y oficiales de orden público de otras
+9 jurisdicciones foráneas o domésticas y mantendrá como confidencial o
+10 privilegiado todo documento, material o información recibidos con el
+11 aviso o el entendimiento de que son confidenciales o privilegiados
+12 conforme a las leyes de la jurisdicción de origen del documento, material o
+13 información; y
+14 (4) Suscribir acuerdos por escrito con la NAIC y con cualquier tercero
+15 consultor designado por el Comisionado con el propósito de establecer
+16 cómo se llevarán a cabo los procesos de compartir el uso de información
+17 proporcionada con arreglo a las disposiciones de este Artículo, en el cual
+18 se establezcan asuntos tales como:
+19 (i) Especificar los procedimientos y protocolos de seguridad con
+20 respecto a la protección de la confidencialidad y carácter
+21 privilegiado de la información compartida con la NAIC, y
+22 cualquier tercero consultor designado por el Comisionado,
+
+22
+1 incluyendo los procedimientos y protocolos para compartir
+2 por parte de la NAIC u otros reguladores estatales, federales o
+3 internacionales. El acuerdo proveerá que el recipiente acuerda
+4 por escrito el mantener la confidencialidad y el estatus
+5 privilegiado de los documentos, materiales u otra información
+6 y que ha verificado aquella autoridad legal para mantenerlos
+7 confidenciales;
+8 (ii) Establecer que la autoridad sobre la información compartida
+9 con la NAIC, o un tercero consultor la retendrá el
+10 Comisionado, la NAIC o el tercero consultor según designado
+11 por el Comisionado, y que el uso de la información
+12 compartida estará sujeto a la supervisión del Comisionado;
+13 (iii) Salvo los documentos, el material o la información
+14 divulgados en virtud del Artículo 44.050(M)(3), prohibir a la
+15 NAIC o al consultor externo designado por el Comisionado
+16 que almacene la información compartida en virtud de esta Ley
+17 en una base de datos permanente una vez finalizado el
+18 análisis subyacente;
+19 (iv) Requerir dar aviso oportuno al asegurador u organización de
+20 servicios de salud, en la eventualidad de que se reciba un
+21 requerimiento, subpoena u orden para la divulgación o
+22 producción de información confidencial de este, que esté en
+
+23
+1 posesión de la NAIC, o de un tercero consultor designado por
+2 el Comisionado, cualquier miembro del colegio de
+3 supervisores, del colegio amplio de supervisores o autoridad
+4 oficial reguladora;
+5 (v)Requerir a la NAIC y a un tercero consultor designado por el
+6 Comisionado a consentir, mediante oportuna solicitud, la
+7 intervención de un asegurador u organización de servicios de
+8 salud en un procedimiento judicial o administrativo en el cual
+9 le sea requerido a la NAIC y a un tercero consultor designado
+10 por el Comisionado la divulgación o producción de
+11 información confidencial de dicho asegurador u organización
+12 de servicios de salud obtenida conforme a las disposiciones de
+13 este Capítulo;
+14 (vi) Para documentos, materiales o información de reportes de
+15 conformidad con el Artículo 44.050(M)(3), en caso de un
+16 acuerdo que envuelva a un tercero consultor, se debe proveer
+17 notificación de la identidad del consultor al asegurador u
+18 organización de servicios de salud que le aplique.
+19 (D) La divulgación de los documentos, materiales o información al Comisionado
+20 no constituirá una renuncia al derecho de privilegio o reclamación de
+21 confidencialidad aplicables, conforme al presente Artículo o como resultado de
+22 compartir la información según se autoriza en el Apartado (C).
+
+24
+1 (E) Nada de lo dispuesto en este Artículo podrá entenderse como una delegación
+2 de la autoridad del Comisionado de regular y examinar las operaciones de los
+3 aseguradores u organizaciones de servicios de salud domésticas que formen
+4 parte de una estructura de control de compañías de seguros (insurance holding
+5 company system) y emitir cualquier orden para exigir el cumplimiento de las
+6 disposiciones de este Capítulo.
+7 (F) Todo documento, material u otra información en manos o bajo el control de la
+8 NAIC o de consultores externos designados por el Comisionado en virtud de
+9 esta Ley se considerarán confidenciales al amparo de la ley y será información
+10 privilegiada, no estará sujeto a divulgación pública, no estará sujeto a citación ni
+11 a descubrimiento de prueba, ni será admisible como prueba en ningún litigio
+12 civil entre partes privadas.
+13 (G) El cálculo del capital del grupo y la relación/razón del capital del grupo
+14 resultante (“resulting group capital ratio”), exigidos en el Artículo 44.050(M), y la
+15 prueba de resistencia de liquidez, junto con sus resultados y las divulgaciones
+16 que las sustenten exigidas en el Artículo 44.050(M)(2), son herramientas
+17 reglamentarias para la evaluación de los riesgos del grupo y la suficiencia del
+18 capital y los riesgos de liquidez del grupo, respectivamente, y no constituyen un
+19 recurso para clasificar a los aseguradores, organizaciones de servicios de salud o
+20 a las estructuras de control de las compañías de seguros en general. Por lo tanto,
+21 salvo que se exija lo contrario en virtud de las disposiciones de la presente Ley, la
+22 realización, publicación, difusión, circulación o presentación al público, o causar
+
+25
+1 directa o indirectamente que se realice, publique, difunda, circule o presente al
+2 público en un periódico, revista u otra publicación, o por medio de un aviso,
+3 circular, folleto, carta o cartel, o a través de cualquier emisora de radio o
+4 televisión o cualquier medio electrónico de comunicación disponible para el
+5 público, o de cualquier otro modo como publicidad, anuncio o declaración que
+6 contenga una manifestación o declaración con respecto al cálculo del capital del
+7 grupo, la razón/relación del capital del grupo (“resulting group capital ratio”), los
+8 resultados de la prueba de resistencia de liquidez o las divulgaciones de apoyo
+9 para la prueba de resistencia de liquidez de cualquier asegurador, organización
+10 de servicios de salud o de cualquier grupo de aseguradores u organizaciones de
+11 servicios de salud, o de cualquier componente derivado del cálculo por cualquier
+12 asegurador, organización de servicios de salud, corredor u otra persona
+13 relacionada de cualquier modo con el negocio de seguros, sería engañosa y, por
+14 lo tanto, está prohibida; siempre y cuando cualquier declaración sustancialmente
+15 falsa con respecto al cálculo del capital del grupo, la razón/relación del capital
+16 del grupo resultante (“resulting group capital ratio”), una comparación inadecuada
+17 de cualquier cantidad con el cálculo del capital del grupo de un asegurador,
+18 organización de servicios de salud o grupo de aseguradores o la razón/relación
+19 del capital del grupo resultante (“resulting group capital ratio”), el resultado de la
+20 prueba de resistencia de liquidez, las divulgaciones de apoyo para la prueba de
+21 resistencia de liquidez o una comparación inadecuada de cualquier cantidad con
+22 el resultado de la prueba de resistencia de liquidez de un asegurador,
+23 organización de servicios de salud o grupo de aseguradores o las divulgaciones
+
+26
+1 de apoyo se publique en cualquier publicación escrita y el asegurador u
+2 organización de servicios de salud pueda demostrar al Comisionado con pruebas
+3 sustanciales la falsedad de dicha declaración o su inadecuación, según sea el
+4 caso, entonces el asegurador u organización de servicios de salud podrá publicar
+5 anuncios en una publicación escrita si el propósito exclusivo del anuncio es
+6 refutar la declaración sustancialmente falsa.”
+7 Sección 5. - Separabilidad
+8 Si cualquier parte de esta Ley fuera anulada o declarada inconstitucional, la
+9 resolución, dictamen o sentencia a tal efecto dictada no afectará, perjudicará, ni
+10 invalidará el remanente de esta Ley. El efecto de dicha resolución, dictamen o sentencia
+11 quedará limitado a la parte específica de la misma que así hubiere sido anulada o
+12 declarada inconstitucional. Si la aplicación a una persona o a una circunstancia de
+13 cualquier parte de esta Ley fuera invalidada o declarada inconstitucional, la resolución,
+14 dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación del
+15 remanente de esta Ley a aquellas personas o circunstancia en que se pueda aplicar
+16 válidamente.
+17 Sección 6.-Vigencia.
+18 Esta Ley comenzará a regir inmediatamente luego de su aprobación.
+
+[DELETED: 0A 2S dL        l l J la;  zCaGzP ; ;sRzR ;;SoT ; a l n i ( ( ( y ( a A 4 e l s d a l e i p l A L “” y p o f H C S R A m d l f y l s d l a y d l h e p p a c a d l c e q e s a L d m r q R s e d d u e d c c c]
+[DELETED: 2 m o , e q i e l s d c d P R e C 4 E L s a c e p d l e d c y a p u m c y p e n d s p e u y d l l y r e c a l e i y p u r c c l d l d e y . p m d d a d l a d l L N 5 e i h p a C d S s l r d c e l i e m y l e d l a h e d f n L n l N a s L M 4  H C S d l e d L ( p s s e i E h p]
+[DELETED: 3 d m i l r d t e g v l s d p g t d r f y l a o d m s l s d l e r c a l a a e s h i r y a e C 4 d e n h d f d l s d g n s d s q f p d u e d c d c d C d a d S c h d f á y e E a e c l d l N y f l a d l O d C d p a a l c a l v q p u m]
+[DELETED: 47d  “ p e C d C d G s l p c e c d g s s a p l y e d v e c p l N c a l p p d l N d l p d r d l l c d a a p u a e d y l i y p d l i d l p d]
+[DELETED: 5 S T F s l b d e d y l e c d)I N s t q d n i e l i n e p a p A s q e c p p o l c d c]
+[DELETED: 6 l p d e A L d d moa G n d M d P d R d L (”)…)R ( R u o d s d s d d s  q a s m c e h c d n s r o p u e a e l c f o l d c e P R u o d s d q p a m s l e d c d , c c l c e e e A ( d C d G (S l C C]
+[DELETED: 7 r u c a d c d g c a l d c d e p d c ddE c d c c l I p e d C d G d l N l c p f ala c d e p d l e d s d d c d ssd a( c U e d c d c d s q s u a e s e d U e d c d c d s q e]
+[DELETED: 8d  l t d l a d i d i c e c d e pll( s U e d c d c d s coe U Q p i a e p( c c l r p l a a l n f y d p d d s d g( s p q e e plc( s]
+[DELETED: 9 s e e M ACy c d g a n m d l g d e q o e d j a l e p e c e l I d l d e l A y 4 e c d e e o e E U d c e d d c d s n d e E d e c d e p l c I d l e d l o d a A 4 e c d p t l f d d s]
+[DELETED: 1 c c l c q e e c c s n c c u o m d l p u e d l p d c d e l s f d p d i a q e c d e p c u L e c f d c a u o d s d e c d s d e p d l e d]
+[DELETED: 1 d c d s s l d e e M doq . E M d P d R d L d l N L S T F C dea G d T s E F( q c c a m u d l u d l d A s c i e e a d p c l c d G d T d d s d s n d i e e a d M]
+[DELETED: 1 d l u d l C d A s c d a d M d P d R d e ldF  S T F s s d q eo) L e r b e q l u o d s d s s c T F s s e e c p d l d a c l p d i s l d l m d a a l i d]
+[DELETED: 1 s c l d G d T d E Fo.7d  4 N y a d l a u d s d s q f p d u e d” c d c d s e q p u a u S e C c q u a u o d]
+[DELETED: 1 d S c r a a q p u f a u c q s m pnl d a u o d s d s d l s p c r t c o a e u a d y s d d o d ú c]
+[DELETED: 1 q s e e p d u a s y s s E r y d t d s i y d s E i t l r y d q s a u o d s d c l e d l r l l d a l d s l e d l l e d l l d t ( m d t l m d l e d p l e f o l r d c t r c e n d u o d s d s o a a l e d s y s m l s d p d l a s d a n e o e n d]
+[DELETED: 1 a t l r y d s l a i u c dde d a u o d s d s y s d s e e u p d s e s a l           … T a q s p d u a o c c u 4 e s a l j d t d s i t o s d d c cnl l d s y]
+[DELETED: 1 o c l o d l a c r a l o l f d d a p d d m s d r i o c o f S e p l c d a d c 4 - S e l i ( y ( d A 4 d l L7d  s d a C o a a o p e e]
+[DELETED: 1 4 y 4 y t l i p c a l 4 4 y 4 s r p e C c y q c s d n y s c e e p d e s f o r o u o i s e c p p e d a o d p e c c e C p)A C d S d c c e A e C m l c d]
+[DELETED: 1)A C d S d c c e A e C m l c d l l s a c t i s l p d d s b l s d l J d l R C d m u o i i l m o i c y p e e A A d e A i d y p y s d n c o a d p e C y c l a d e f e i i a l d u c d s o l m d u c d s o e s r a u g d]
+[DELETED: 2 C s y c l p q l r a p s f s p c d m o c y p s e c a c o d d s d u e q p c d r s a l d d t c e e A y q a p e n d l o i q d o m s c y y m e c c y d p d d q s d c c o d p e C s p c d m o c y p q s h p d c e A 4 c c d e]
+[DELETED: 2 R d m u o i i m o i q d o m s d l N y s a y s a c p p d r y o d o p d o f o d y m c c o t d m o i r c e o e e d q s c o p S a p e c l N y c c t d p e C c e p d e a l p d l c y c d l i c c l N y t c d p e C]
+[DELETED: 2 l p y p p c e e m l c y e e l N o u t c l r e e C y q e u d l i S l d e m o l i o a c e d p e C u b d d p u v f e d s e l e d q s r u s u o p l d o d e]
+[DELETED: 2 C c m d c d a c m o s  l e C l d o p d P d m o i d r d c e A 4 e c d u d l i d c a a u c u r a d d p o r d]
+[DELETED: 2 u o d s d s d q f d sy e c o p e e c d l c e C d d p n s a c p e n l E g d c g“” l s e e e A 4 s h]
+[DELETED: 2 u p o p o m d a f c o c o a t d c e d r o o c m e d c d p e l o d s d s c u o p u c c c e c d c d g d u a e r d l p d r d l d u a]
+[DELETED: 2 a s p e c p e y e a u l f d d d o s i s s e e u p e s e p e d a e c p d e L f a o d i l d o s a t e d n a p n l a l p e d l m q a h s a o i  S l a a u p o a u c d o s a t e d n a n i l a d d e L a a p o c e q s p a]

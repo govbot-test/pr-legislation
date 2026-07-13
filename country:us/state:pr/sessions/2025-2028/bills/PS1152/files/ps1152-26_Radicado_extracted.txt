@@ -1,0 +1,835 @@
+Title: Para crear la “Ley para la Transición Gradual hacia la Movilidad Eléctrica en el
+Official Title: Para crear la “Ley para la Transición Gradual hacia la Movilidad Eléctrica en el
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1152
+23 de marzo de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Transporte Público de Puerto Rico”; establecer como política pública del Gobierno de
+Puerto Rico la electrificación progresiva, escalonada y técnicamente viable de
+determinadas flotas y facilidades de transporte público colectivo; crear el Programa de
+Movilidad Eléctrica en el Transporte Público adscrito a la Autoridad de Transporte
+Integrado de Puerto Rico, en coordinación con el Departamento de Transportación y
+Obras Públicas; ordenar la preparación y adopción de un Plan Maestro de Transición e
+Infraestructura de Carga; autorizar proyectos piloto, mecanismos de financiamiento e
+incentivos para operadores elegibles, sujeto a disponibilidad de fondos; disponer criterios
+de implantación, reglamentación, fiscalización e informes; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico enfrenta el reto continuo de modernizar su sistema de transporte
+público colectivo dentro de un contexto de alta dependencia de combustibles fósiles,
+volatilidad en los costos energéticos, fragilidad de infraestructura crítica y necesidad de
+fortalecer la resiliencia de los servicios esenciales. Esta realidad impacta directamente la
+continuidad, el costo, la eficiencia y la confiabilidad de los sistemas de transportación
+colectiva que sirven diariamente a miles de ciudadanos en rutas urbanas, regionales,
+rurales e intermunicipales.
+2
+La transportación pública constituye un componente indispensable de la
+movilidad, del acceso al empleo, a la educación, a los servicios de salud y a la integración
+social y económica de las comunidades. No obstante, una parte significativa de la flota
+utilizada en distintos componentes del transporte colectivo continúa dependiendo de
+combustibles tradicionales, lo que expone al sistema a mayores costos operacionales,
+fluctuaciones externas de precios, gastos recurrentes de mantenimiento y mayores
+niveles de emisiones contaminantes.
+La transición gradual hacia modelos de movilidad eléctrica representa una
+oportunidad real para encaminar una política pública más eficiente, moderna y resiliente.
+La electrificación de determinadas flotas y facilidades del transporte público puede
+contribuir a reducir costos operacionales a mediano y largo plazo, disminuir emisiones
+contaminantes, mejorar la confiabilidad del servicio, promover una infraestructura de
+transporte más eficiente y fortalecer la capacidad institucional del Gobierno de Puerto
+Rico para planificar sistemas de movilidad más sostenibles.
+La política pública vigente de Puerto Rico en materia de transportación colectiva
+y energía ofrece una base institucional adecuada para encaminar una transición ordenada
+y fiscalmente responsable. En particular, la Ley 123-2014, según enmendada, conocida
+como la “Ley de la Autoridad de Transporte Integrado de Puerto Rico”, provee el
+andamiaje operacional para la coordinación de facilidades y actividades de
+transportación colectiva, mientras que la Ley 17-2019, según enmendada, conocida como
+la “Ley de Política Pública Energética de Puerto Rico”, reconoce la necesidad de
+modernizar la infraestructura energética, promover mayor eficiencia y fortalecer la
+resiliencia del sistema energético de Puerto Rico.
+No obstante, esa transformación no debe imponerse de manera automática ni
+uniforme, sin atender las diferencias reales entre rutas, tipos de vehículos, condiciones
+topográficas, necesidades de carga, capacidad de la red eléctrica, disponibilidad de
+facilidades, estructura contractual de los operadores y acceso a fondos. Una transición
+responsable requiere planificación rigurosa, implantación escalonada, análisis de
+3
+viabilidad técnica y financiera, priorización de rutas y terminales, y coordinación efectiva
+entre las entidades gubernamentales concernidas.
+Por ello, esta Asamblea Legislativa entiende necesario establecer un marco legal
+específico que permita encaminar la electrificación progresiva del transporte público de
+Puerto Rico de forma ordenada, medible y fiscalmente responsable. Esta Ley crea una
+política pública y un programa de implantación gradual que deberá desarrollarse
+mediante un Plan Maestro de Transición e Infraestructura de Carga, sujeto a evaluación
+técnica, priorización operacional y disponibilidad de fondos. Asimismo, habilita el uso
+de proyectos piloto, compras escalonadas, mecanismos de financiamiento e incentivos
+para operadores elegibles, conforme a la realidad fiscal, energética y operacional de
+Puerto Rico.
+Esta Ley no persigue sustituir de forma inmediata e indiscriminada toda la flota
+existente ni prohibir automáticamente todas las tecnologías convencionales en ausencia
+de infraestructura suficiente. Su propósito es encaminar un proceso estructurado
+mediante el cual la Autoridad de Transporte Integrado de Puerto Rico, el Departamento
+de Transportación y Obras Públicas y las demás entidades concernidas puedan
+identificar, priorizar e implantar aquellas medidas de electrificación que resulten más
+costo-efectivas, operacionalmente viables y beneficiosas para la ciudadanía.
+Mediante esta Ley, la Asamblea Legislativa de Puerto Rico reafirma su
+compromiso con la modernización del transporte público, la resiliencia de la
+infraestructura crítica, la eficiencia del gasto público y la protección del interés
+ciudadano, creando un instrumento jurídico flexible y responsable para promover la
+transición gradual hacia la movilidad eléctrica en el transporte público de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley para la Transición Gradual hacia
+3 la Movilidad Eléctrica en el Transporte Público de Puerto Rico”.
+4
+1 Artículo 2.- Declaración de Política Pública.
+2 Se declara como política pública del Gobierno de Puerto Rico promover la
+3 transición gradual, escalonada, fiscalmente responsable y técnicamente viable hacia la
+4 electrificación de determinadas flotas, facilidades e infraestructura del transporte público
+5 colectivo, con el propósito de:
+6 (a) fortalecer la confiabilidad, continuidad y eficiencia del servicio de transporte
+7 público;
+8 (b) reducir, en la medida posible, la dependencia de combustibles fósiles en la
+9 operación del transporte colectivo;
+10 (c) disminuir costos operacionales a mediano y largo plazo, sujeto a evaluación
+11 objetiva de costo total de propiedad;
+12 (d) reducir emisiones contaminantes asociadas al transporte colectivo;
+13 (e) fomentar la resiliencia energética y operacional de terminales, patios,
+14 estaciones y demás facilidades esenciales;
+15 (f) promover la modernización tecnológica del sistema de transporte público;
+16 (g) ampliar las capacidades institucionales y ocupacionales relacionadas con
+17 mantenimiento, operación y administración de flotas eléctricas; y
+18 (h) priorizar, dentro de la disponibilidad de recursos, soluciones de movilidad más
+19 eficientes para las comunidades con mayor dependencia del transporte colectivo.
+20 La implantación de esta política pública se llevará a cabo de manera progresiva y
+21 conforme a criterios técnicos, operacionales, energéticos, presupuestarios y de
+22 disponibilidad de fondos.
+5
+1 Artículo 3.- Definiciones.
+2 Para fines de esta Ley, los siguientes términos tendrán el significado que a
+3 continuación se expresa:
+4 (a) Autoridad o ATI.- la Autoridad de Transporte Integrado de Puerto Rico.
+5 (b) Departamento o DTOP.- el Departamento de Transportación y Obras Públicas
+6 del Gobierno de Puerto Rico.
+7 (c) Transporte público colectivo.- todo sistema, servicio, ruta, vehículo, facilidad o
+8 mecanismo de transportación terrestre, marítima o multimodal destinado al traslado
+9 colectivo de pasajeros bajo operación pública o bajo autorización, concesión, contrato o
+10 acuerdo con una instrumentalidad pública competente, según sea aplicable.
+11 (d) Vehículo eléctrico de transporte público.- autobús, guagua, van, lancha u otro
+12 vehículo o unidad destinada al transporte colectivo de pasajeros, impulsado total o
+13 predominantemente por energía eléctrica almacenada en baterías u otra tecnología de
+14 cero emisiones al tubo de escape o equivalente funcional, conforme a las especificaciones
+15 técnicas que se adopten por reglamento o determinación administrativa aplicable.
+16 (e) Infraestructura de carga.- el conjunto de equipos, componentes, sistemas,
+17 facilidades, conexiones, obras y mejoras requeridas para suplir energía a vehículos
+18 eléctricos de transporte público, incluyendo cargadores, transformadores, paneles,
+19 sistemas de control, interconexiones, equipos de almacenamiento y estructuras
+20 auxiliares.
+21 (f) Infraestructura energética resiliente.- cualquier combinación de equipos,
+22 sistemas o facilidades energéticas destinadas a mejorar la continuidad operacional de la
+6
+1 infraestructura de carga o de las facilidades del transporte público, incluyendo sistemas
+2 fotovoltaicos, almacenamiento en baterías, microrredes u otras soluciones técnicamente
+3 viables.
+4 (g) Operador elegible.- toda entidad pública, corporación pública, municipio,
+5 concesionario, contratista, operador autorizado o entidad privada que preste o participe
+6 en la prestación de servicios de transporte público colectivo bajo autorización, contrato o
+7 marco regulatorio aplicable, y que cumpla con los criterios establecidos por esta Ley y
+8 por la reglamentación que se adopte al amparo de la misma.
+9 (h) Plan Maestro.- el Plan Maestro de Transición e Infraestructura de Carga para
+10 la Movilidad Eléctrica en el Transporte Público creado por esta Ley.
+11 (i) Proyecto piloto.- toda iniciativa de alcance limitado, duración definida y
+12 evaluación estructurada, dirigida a probar la viabilidad técnica, económica, operacional,
+13 energética o administrativa de la electrificación de vehículos, rutas, terminales, patios o
+14 facilidades relacionadas con el transporte público.
+15 Artículo 4.- Creación del Programa de Movilidad Eléctrica en el Transporte
+16 Público.
+17 Se crea el adscrito a la Autoridad de Transporte Integrado de Puerto Rico, en
+18 coordinación con el Departamento de Transportación y Obras Públicas y en consulta con
+19 las entidades gubernamentales concernidas en materias energéticas, fiscales,
+20 contractuales, ambientales, de compras, infraestructura y administración pública.
+21 El Programa tendrá como propósito principal dirigir, coordinar, planificar y
+22 promover la transición gradual hacia la movilidad eléctrica en el transporte público de
+7
+1 Puerto Rico, incluyendo la electrificación progresiva de flotas, la instalación de
+2 infraestructura de carga, el desarrollo de proyectos piloto, la formulación de guías de
+3 contratación y la identificación de mecanismos de financiamiento e incentivos.
+4 La Autoridad será la entidad responsable de la administración general del
+5 Programa y podrá establecer acuerdos de colaboración, comités técnicos, instrumentos
+6 de coordinación interagencial, alianzas permitidas por ley y otros mecanismos
+7 administrativos necesarios para la consecución de los fines de esta Ley.
+8 Artículo 5.- Funciones del Programa.
+9 El Programa tendrá, entre otras, las siguientes funciones:
+10 (a) levantar y mantener un inventario actualizado de la flota de transporte público
+11 bajo la jurisdicción o coordinación aplicable de la Autoridad y de los operadores elegibles
+12 participantes;
+13 (b) identificar rutas, terminales, patios, centros operacionales, muelles y otras
+14 facilidades susceptibles de electrificación progresiva;
+15 (c) evaluar necesidades energéticas, operacionales y de infraestructura para la
+16 implantación de proyectos de movilidad eléctrica;
+17 (d) recomendar prioridades de implantación conforme a criterios de demanda,
+18 costo, viabilidad técnica, resiliencia, impacto social y disponibilidad de recursos;
+19 (e) diseñar e implantar proyectos piloto;
+20 (f) formular criterios para el uso de incentivos, subsidios, financiamiento,
+21 preferencias contractuales o mecanismos similares autorizados por ley;
+8
+1 (g) coordinar procesos de capacitación para choferes, operadores, técnicos,
+2 mecánicos, supervisores y personal administrativo;
+3 (h) desarrollar métricas para evaluar desempeño, ahorro, reducción de emisiones,
+4 confiabilidad del servicio y costo total de propiedad;
+5 (i) promover la integración razonable de infraestructura energética resiliente en
+6 aquellas facilidades donde ello resulte técnica y económicamente viable;
+7 (j) asistir en la preparación de solicitudes de fondos estatales, federales,
+8 competitivos, especiales o de otra naturaleza; y
+9 (k) rendir los informes requeridos por esta Ley.
+10 Artículo 6.- Plan Maestro de Transición e Infraestructura de Carga.
+11 La Autoridad, en coordinación con el Departamento y en consulta con las
+12 entidades gubernamentales concernidas, preparará y adoptará un Plan Maestro de
+13 Transición e Infraestructura de Carga para la implantación de esta Ley.
+14 Dicho Plan Maestro deberá presentarse dentro de un término no mayor de
+15 doscientos cuarenta (240) días contados a partir de la vigencia de esta Ley y deberá ser
+16 revisado y actualizado, al menos, cada dos (2) años.
+17 El Plan Maestro deberá incluir, como mínimo:
+18 (a) un inventario inicial de la flota existente y su condición operacional;
+19 (b) un diagnóstico de rutas, terminales, patios, estaciones, muelles y demás
+20 facilidades susceptibles de electrificación;
+21 (c) un análisis de viabilidad técnica, energética y económica para la electrificación
+22 de segmentos del sistema de transporte público;
+9
+1 (d) una propuesta de fases de implantación;
+2 (e) criterios de priorización de rutas, regiones, facilidades y proyectos;
+3 (f) evaluación de necesidades de infraestructura de carga y, cuando sea viable, de
+4 infraestructura energética resiliente;
+5 (g) proyecciones de costos de adquisición, instalación, operación, mantenimiento
+6 y reemplazo;
+7 (h) identificación de fuentes de financiamiento disponibles o potenciales;
+8 (i) recomendaciones sobre contratación, compras, concesiones y participación de
+9 operadores elegibles;
+10 (j) propuestas de capacitación y readiestramiento del recurso humano;
+11 (k) indicadores de desempeño y mecanismos de medición;
+12 (l) recomendaciones sobre reglamentación, normas técnicas y guías operacionales;
+13 y
+14 (m) cualquier otro componente que la Autoridad estime necesario para una
+15 implantación ordenada y efectiva.
+16 Artículo 7.- Fases de Implementación.
+17 La implementación de esta Ley se realizará por fases y conforme al Plan Maestro.
+18 Ninguna meta de electrificación o sustitución de flota se interpretará como automática,
+19 uniforme o de cumplimiento inmediato para todas las rutas, operadores o regiones.
+20 Las fases de implantación podrán incluir, entre otras:
+21 (a) proyectos piloto en rutas, corredores, regiones o servicios específicos;
+10
+1 (b) electrificación progresiva de parte de la flota pública operada o coordinada por
+2 la Autoridad;
+3 (c) desarrollo de infraestructura de carga en terminales, patios, centros de
+4 transferencia, muelles y otras facilidades estratégicas;
+5 (d) incorporación gradual de criterios de movilidad eléctrica en nuevos procesos
+6 de compra, contratación o renovación de acuerdos;
+7 (e) ampliación progresiva de incentivos a operadores elegibles; y
+8 (f) medidas especiales para municipios, zonas rurales o islas municipio donde la
+9 movilidad eléctrica resulte particularmente conveniente o necesaria.
+10 Artículo 8.- Criterios de Prioridad.
+11 Al diseñar e implantar las fases y proyectos autorizados por esta Ley, la Autoridad
+12 dará consideración prioritaria, según corresponda, a:
+13 (a) rutas de alta demanda o alta frecuencia;
+14 (b) terminales, patios, estaciones o muelles con mayor viabilidad técnica para la
+15 instalación de infraestructura de carga;
+16 (c) corredores con alto potencial de reducción de costos operacionales o de
+17 emisiones;
+18 (d) comunidades con alta dependencia del transporte público;
+19 (e) municipios o regiones con limitadas alternativas de movilidad;
+20 (f) rutas o facilidades cuya electrificación pueda mejorar significativamente la
+21 resiliencia del sistema;
+11
+1 (g) islas municipio y zonas geográficas con necesidades particulares de acceso y
+2 continuidad del servicio; y
+3 (h) escenarios en que la electrificación parcial o total de la operación resulte costo-
+4 efectiva y operacionalmente razonable.
+5 Artículo 9.- Infraestructura de Carga e Infraestructura Energética Resiliente.
+6 La Autoridad podrá desarrollar, adquirir, coordinar, autorizar o facilitar la
+7 instalación de infraestructura de carga en terminales, patios, estaciones, muelles, centros
+8 operacionales, corredores o facilidades estratégicas del transporte público, conforme a la
+9 disponibilidad de fondos y a los criterios establecidos en el Plan Maestro.
+10 La infraestructura de carga no tendrá que instalarse de manera uniforme por cada
+11 ruta, servicio o región, sino conforme a evaluación técnica, necesidad operacional,
+12 capacidad energética, costo, localización, uso previsto y conveniencia administrativa.
+13 En aquellas facilidades donde resulte técnica, económica y operacionalmente
+14 viable, la Autoridad podrá promover la integración de infraestructura energética
+15 resiliente, incluyendo sistemas fotovoltaicos, almacenamiento en baterías, microrredes u
+16 otras soluciones análogas, con el fin de fortalecer la continuidad del servicio y reducir
+17 vulnerabilidades del sistema.
+18 Artículo 10.- Proyectos Piloto.
+19 La Autoridad podrá establecer proyectos piloto para probar la viabilidad de:
+20 (a) autobuses, guaguas, vans, lanchas u otras unidades eléctricas en servicios
+21 determinados;
+22 (b) estaciones, centros o sistemas de carga;
+12
+1 (c) soluciones de carga rápida, carga en patio o carga de oportunidad;
+2 (d) modelos de operación conjunta con operadores elegibles;
+3 (e) infraestructura energética resiliente asociada al transporte público; y
+4 (f) esquemas de financiamiento o contratación innovadores permitidos por ley.
+5 Todo proyecto piloto deberá contar con parámetros definidos de evaluación,
+6 métricas de desempeño, duración razonable y mecanismo de documentación de
+7 resultados.
+8 Artículo 11.- Compras, Contratación y Renovación de Acuerdos.
+9 La Autoridad, el Departamento y cualquier otra entidad pública concernida
+10 procurarán incorporar, de forma gradual y conforme a la disponibilidad de fondos y a la
+11 viabilidad técnica, criterios de preferencia por tecnologías de cero emisiones o bajas
+12 emisiones en los procesos de adquisición de vehículos, equipo o servicios vinculados al
+13 transporte público.
+14 En los nuevos contratos, concesiones, subastas, solicitudes de propuestas o
+15 renovaciones relacionadas con la operación del transporte público colectivo, podrán
+16 incluirse cláusulas, criterios de evaluación o incentivos dirigidos a promover la
+17 incorporación gradual de vehículos eléctricos, infraestructura de carga o prácticas de
+18 operación compatibles con los fines de esta Ley, siempre que ello sea legalmente
+19 procedente, fiscalmente razonable y operacionalmente viable.
+20 Nada de lo dispuesto en este Artículo se interpretará como una prohibición
+21 absoluta e inmediata de toda adquisición de vehículos con tecnologías convencionales
+22 cuando, por razones de disponibilidad, costo total de propiedad, condiciones de ruta,
+13
+1 infraestructura insuficiente, servicio esencial o necesidad operacional debidamente
+2 justificada, resulte necesario utilizar otra tecnología.
+3 Artículo 12.- Incentivos para Operadores Elegibles.
+4 Sujeto a disponibilidad de fondos y conforme a reglamentación, la Autoridad
+5 podrá establecer mecanismos de apoyo para operadores elegibles que participen en la
+6 transición hacia la movilidad eléctrica en el transporte público, incluyendo, sin limitarse
+7 a:
+8 (a) subsidios parciales o aportaciones para adquisición de vehículos eléctricos o
+9 infraestructura de carga;
+10 (b) asistencia técnica para evaluación de viabilidad e implantación;
+11 (c) preferencias o puntuación adicional en procesos competitivos, cuando ello sea
+12 legalmente permitido;
+13 (d) programas de readiestramiento y capacitación;
+14 (e) apoyo para desarrollar proyectos piloto; y
+15 (f) cualquier otro mecanismo de incentivo compatible con la ley y con los fondos
+16 disponibles.
+17 La concesión de tales incentivos deberá obedecer a criterios uniformes, objetivos y
+18 fiscalizables, establecidos mediante reglamento o guía administrativa.
+19 Artículo 13.- Financiamiento.
+20 La implementación de esta Ley estará sujeta a la disponibilidad de fondos
+21 estatales, federales, especiales, competitivos, donativos, economías operacionales,
+14
+1 alianzas autorizadas por ley y cualquier otro mecanismo de financiamiento legalmente
+2 disponible.
+3 La Autoridad y el Departamento podrán identificar, gestionar y utilizar, conforme
+4 a derecho, fondos provenientes de programas o fuentes aplicables a transportación,
+5 movilidad, infraestructura, energía, resiliencia, mitigación, calidad de aire, innovación
+6 tecnológica y adquisición de flota, así como fondos estatales o especiales que puedan
+7 asignarse en el futuro para estos fines.
+8 Asimismo, podrán evaluarse mecanismos de alianzas autorizadas por la Ley 29-
+9 2009, según enmendada, conocida como la “Ley de Alianzas Público Privadas”, así como
+10 acuerdos de colaboración, financiamiento por fases, esquemas de ahorro operacional,
+11 arrendamientos, adquisiciones escalonadas y otros instrumentos compatibles con el
+12 ordenamiento jurídico vigente.
+13 Nada de lo dispuesto en esta Ley se interpretará como una asignación automática
+14 de fondos ni como una autorización para comprometer recursos públicos sin cumplir con
+15 los requisitos presupuestarios, contractuales y fiscales aplicables.
+16 Artículo 14.- Capacitación y Desarrollo Ocupacional.
+17 La Autoridad promoverá, en coordinación con las entidades públicas, educativas
+18 o técnicas concernidas, programas de capacitación dirigidos a choferes, operadores,
+19 despachadores, técnicos, mecánicos, supervisores, personal administrativo y demás
+20 recurso humano vinculado a la operación y mantenimiento de flotas eléctricas e
+21 infraestructura relacionada.
+15
+1 Estos esfuerzos podrán incluir adiestramientos sobre operación segura,
+2 mantenimiento preventivo, respuesta a incidentes, manejo energético, diagnóstico
+3 técnico, procedimientos de carga, continuidad operacional y otros aspectos necesarios
+4 para una implantación adecuada de esta Ley.
+5 Artículo 15.- Informes.
+6 La Autoridad rendirá a la Asamblea Legislativa de Puerto Rico y a la persona
+7 titular del Poder Ejecutivo un informe anual sobre la implantación de esta Ley.
+8 Dicho informe incluirá, como mínimo:
+9 (a) el estado de adopción e implantación del Plan Maestro;
+10 (b) los proyectos piloto iniciados, en curso o culminados;
+11 (c) la cantidad y tipo de vehículos eléctricos incorporados al sistema;
+12 (d) la infraestructura de carga instalada o proyectada;
+13 (e) las fuentes de fondos identificadas o utilizadas;
+14 (f) los ahorros operacionales estimados o documentados, si alguno;
+15 (g) las reducciones de emisiones estimadas o documentadas, si alguna;
+16 (h) las dificultades de implantación identificadas;
+17 (i) las recomendaciones administrativas o legislativas pertinentes; y
+18 (j) cualquier otro dato relevante para evaluar el cumplimiento de la política pública
+19 establecida en esta Ley.
+20 Artículo 16.- Reglamentación.
+21 La Autoridad, en coordinación con el Departamento y en consulta con las
+22 entidades gubernamentales concernidas, adoptará la reglamentación necesaria para la
+16
+1 implantación de esta Ley dentro de un término no mayor de ciento ochenta (180) días
+2 contados a partir de su vigencia.
+3 Dicha reglamentación podrá incluir, sin limitarse a:
+4 (a) criterios de elegibilidad para operadores participantes;
+5 (b) parámetros para proyectos piloto;
+6 (c) normas para la evaluación de viabilidad técnica y operacional;
+7 (d) criterios para el otorgamiento de incentivos;
+8 (e) guías para adquisición e instalación de infraestructura de carga;
+9 (f) métricas de evaluación y desempeño;
+10 (g) criterios de priorización territorial, operacional y programática; y
+11 (h) cualquier otra disposición necesaria para la administración efectiva del
+12 Programa.
+13 Artículo 17.- Interpretación.
+14 Las disposiciones de esta Ley se interpretarán de forma liberal a favor de la
+15 consecución de su política pública, pero siempre en armonía con las limitaciones fiscales,
+16 energéticas, técnicas, operacionales y contractuales aplicables.
+17 Nada de lo dispuesto en esta Ley se interpretará como autorización para incumplir
+18 con legislación, reglamentación, normas técnicas, procesos presupuestarios, requisitos de
+19 contratación pública o criterios de seguridad aplicables al transporte público o a la
+20 infraestructura energética.
+17
+1 Artículo 18.- Cláusula de Separabilidad.
+2 Si cualquier cláusula, párrafo, subinciso, artículo, disposición, sección o parte de esta Ley
+3 fuere declarada inconstitucional, nula o inválida por un tribunal con jurisdicción
+4 competente, la sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las
+5 demás disposiciones de esta Ley, las cuales permanecerán en pleno vigor y efecto.
+6 Artículo 19.- Vigencia.
+7 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3  .r L r c l “ p l T G h l M E e e R l e p e y t v d E e e T P a a l A d T i r f e i y p o f R e e r c d m s s d t]
+[DELETED:  t p c u c i d l e d p g r d m y m t g h m d m e r u e d d f y f d t p p l “ d l A d T I d P R p e o p l c d f y a d “ d P P E d P R r l n d l i e p m e y f l o e t n d i d m a n n d c c d l r e d d r p r i e a d]
+[DELETED:  p y u p d i g q d d o e c a l r f e y o d i s S p e e u p e T y O P y l d e c p e L l A L d P R r s c l m d t p l r d l c l e d g p y l p d i c u i j f y r p p la“]
+[DELETED:  d c p p d G d P R p l f l r e y o d t p a l c i y o r c a c t o e p y d]
+[DELETED:  f d e L l s t t e s q ao- d t t m o m d a t o u d a t c d p i t o I d c e c d e c s c o y m r p s e a v d t p i c t p d c i e d a y e I e r c c d e]
+[DELETED:  O e t e p c p mr. P p t i d a l d d y 4 C d P d M E e e T e g c e m e f P t c p p d c p y]
+[DELETED:  R i l e p d f l i d A s l e r d l a g d c i a p p l y o m i r t p c o m y o e n e o y d i p l f c p e u d i s f]
+[DELETED:  c p d c p c o t a e l p d s d f e f A e c c e D y e c c l g c p y a u P M dg  P M d p d d u t n m d u d d r t p e m y d]
+[DELETED:  c o c q l A e n p u]
+[DELETED:  d d i d c e t p c d c c a p d r d c o o d r o f c e p m s l]
+[DELETED:  A p d a c a o f l s o r s c a e t n o a f d r t e y o l A p p l i d i e a g v l u o u e e s]
+[DELETED:  p p d c c p d d e d d d r y m d d d A e D y c o e p c t c d p p t d c e o b l n c c s s d p o r c l o d t p c p c c d e o i d a p l c c l f d e L s q e s l d l d e e A s i c u p]
+[DELETED:  i s e o n o d a d d f y c a r l A i d e L e s a l d d f f e c d e o]
+[DELETED:  d f p d p o f a a t a e y o i c c e t c p d c d a c o t m s p a y d h v a l o y m d f e e]
+[DELETED:  e p i a s o s p r a i m e d A e c c e D y e c c l]
+[DELETED:  c o d n p l a e d d d e L s i d f l a f d l p o c d s a a t p o a l]
+[DELETED:  d i n o i p u t c j]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1152
+23 de marzo de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para crear la “Ley para la Transición Gradual hacia la Movilidad Eléctrica en el
+Transporte Público de Puerto Rico”; establecer como política pública del Gobierno de
+Puerto Rico la electrificación progresiva, escalonada y técnicamente viable de
+determinadas flotas y facilidades de transporte público colectivo; crear el Programa de
+Movilidad Eléctrica en el Transporte Público adscrito a la Autoridad de Transporte
+Integrado de Puerto Rico, en coordinación con el Departamento de Transportación y
+Obras Públicas; ordenar la preparación y adopción de un Plan Maestro de Transición e
+Infraestructura de Carga; autorizar proyectos piloto, mecanismos de financiamiento e
+incentivos para operadores elegibles, sujeto a disponibilidad de fondos; disponer criterios
+de implantación, reglamentación, fiscalización e informes; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico enfrenta el reto continuo de modernizar su sistema de transporte
+público colectivo dentro de un contexto de alta dependencia de combustibles fósiles,
+volatilidad en los costos energéticos, fragilidad de infraestructura crítica y necesidad de
+fortalecer la resiliencia de los servicios esenciales. Esta realidad impacta directamente la
+continuidad, el costo, la eficiencia y la confiabilidad de los sistemas de transportación
+colectiva que sirven diariamente a miles de ciudadanos en rutas urbanas, regionales,
+rurales e intermunicipales.
+
+2
+La transportación pública constituye un componente indispensable de la
+movilidad, del acceso al empleo, a la educación, a los servicios de salud y a la integración
+social y económica de las comunidades. No obstante, una parte significativa de la flota
+utilizada en distintos componentes del transporte colectivo continúa dependiendo de
+combustibles tradicionales, lo que expone al sistema a mayores costos operacionales,
+fluctuaciones externas de precios, gastos recurrentes de mantenimiento y mayores
+niveles de emisiones contaminantes.
+La transición gradual hacia modelos de movilidad eléctrica representa una
+oportunidad real para encaminar una política pública más eficiente, moderna y resiliente.
+La electrificación de determinadas flotas y facilidades del transporte público puede
+contribuir a reducir costos operacionales a mediano y largo plazo, disminuir emisiones
+contaminantes, mejorar la confiabilidad del servicio, promover una infraestructura de
+transporte más eficiente y fortalecer la capacidad institucional del Gobierno de Puerto
+Rico para planificar sistemas de movilidad más sostenibles.
+La política pública vigente de Puerto Rico en materia de transportación colectiva
+y energía ofrece una base institucional adecuada para encaminar una transición ordenada
+y fiscalmente responsable. En particular, la Ley 123-2014, según enmendada, conocida
+como la “Ley de la Autoridad de Transporte Integrado de Puerto Rico”, provee el
+andamiaje operacional para la coordinación de facilidades y actividades de
+transportación colectiva, mientras que la Ley 17-2019, según enmendada, conocida como
+la “Ley de Política Pública Energética de Puerto Rico”, reconoce la necesidad de
+modernizar la infraestructura energética, promover mayor eficiencia y fortalecer la
+resiliencia del sistema energético de Puerto Rico.
+No obstante, esa transformación no debe imponerse de manera automática ni
+uniforme, sin atender las diferencias reales entre rutas, tipos de vehículos, condiciones
+topográficas, necesidades de carga, capacidad de la red eléctrica, disponibilidad de
+facilidades, estructura contractual de los operadores y acceso a fondos. Una transición
+responsable requiere planificación rigurosa, implantación escalonada, análisis de
+
+3
+viabilidad técnica y financiera, priorización de rutas y terminales, y coordinación efectiva
+entre las entidades gubernamentales concernidas.
+Por ello, esta Asamblea Legislativa entiende necesario establecer un marco legal
+específico que permita encaminar la electrificación progresiva del transporte público de
+Puerto Rico de forma ordenada, medible y fiscalmente responsable. Esta Ley crea una
+política pública y un programa de implantación gradual que deberá desarrollarse
+mediante un Plan Maestro de Transición e Infraestructura de Carga, sujeto a evaluación
+técnica, priorización operacional y disponibilidad de fondos. Asimismo, habilita el uso
+de proyectos piloto, compras escalonadas, mecanismos de financiamiento e incentivos
+para operadores elegibles, conforme a la realidad fiscal, energética y operacional de
+Puerto Rico.
+Esta Ley no persigue sustituir de forma inmediata e indiscriminada toda la flota
+existente ni prohibir automáticamente todas las tecnologías convencionales en ausencia
+de infraestructura suficiente. Su propósito es encaminar un proceso estructurado
+mediante el cual la Autoridad de Transporte Integrado de Puerto Rico, el Departamento
+de Transportación y Obras Públicas y las demás entidades concernidas puedan
+identificar, priorizar e implantar aquellas medidas de electrificación que resulten más
+costo-efectivas, operacionalmente viables y beneficiosas para la ciudadanía.
+Mediante esta Ley, la Asamblea Legislativa de Puerto Rico reafirma su
+compromiso con la modernización del transporte público, la resiliencia de la
+infraestructura crítica, la eficiencia del gasto público y la protección del interés
+ciudadano, creando un instrumento jurídico flexible y responsable para promover la
+transición gradual hacia la movilidad eléctrica en el transporte público de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley para la Transición Gradual hacia
+3 la Movilidad Eléctrica en el Transporte Público de Puerto Rico”.
+
+4
+1 Artículo 2.- Declaración de Política Pública.
+2 Se declara como política pública del Gobierno de Puerto Rico promover la
+3 transición gradual, escalonada, fiscalmente responsable y técnicamente viable hacia la
+4 electrificación de determinadas flotas, facilidades e infraestructura del transporte público
+5 colectivo, con el propósito de:
+6 (a) fortalecer la confiabilidad, continuidad y eficiencia del servicio de transporte
+7 público;
+8 (b) reducir, en la medida posible, la dependencia de combustibles fósiles en la
+9 operación del transporte colectivo;
+10 (c) disminuir costos operacionales a mediano y largo plazo, sujeto a evaluación
+11 objetiva de costo total de propiedad;
+12 (d) reducir emisiones contaminantes asociadas al transporte colectivo;
+13 (e) fomentar la resiliencia energética y operacional de terminales, patios,
+14 estaciones y demás facilidades esenciales;
+15 (f) promover la modernización tecnológica del sistema de transporte público;
+16 (g) ampliar las capacidades institucionales y ocupacionales relacionadas con
+17 mantenimiento, operación y administración de flotas eléctricas; y
+18 (h) priorizar, dentro de la disponibilidad de recursos, soluciones de movilidad más
+19 eficientes para las comunidades con mayor dependencia del transporte colectivo.
+20 La implantación de esta política pública se llevará a cabo de manera progresiva y
+21 conforme a criterios técnicos, operacionales, energéticos, presupuestarios y de
+22 disponibilidad de fondos.
+
+5
+1 Artículo 3.- Definiciones.
+2 Para fines de esta Ley, los siguientes términos tendrán el significado que a
+3 continuación se expresa:
+4 (a) Autoridad o ATI.- la Autoridad de Transporte Integrado de Puerto Rico.
+5 (b) Departamento o DTOP.- el Departamento de Transportación y Obras Públicas
+6 del Gobierno de Puerto Rico.
+7 (c) Transporte público colectivo.- todo sistema, servicio, ruta, vehículo, facilidad o
+8 mecanismo de transportación terrestre, marítima o multimodal destinado al traslado
+9 colectivo de pasajeros bajo operación pública o bajo autorización, concesión, contrato o
+10 acuerdo con una instrumentalidad pública competente, según sea aplicable.
+11 (d) Vehículo eléctrico de transporte público.- autobús, guagua, van, lancha u otro
+12 vehículo o unidad destinada al transporte colectivo de pasajeros, impulsado total o
+13 predominantemente por energía eléctrica almacenada en baterías u otra tecnología de
+14 cero emisiones al tubo de escape o equivalente funcional, conforme a las especificaciones
+15 técnicas que se adopten por reglamento o determinación administrativa aplicable.
+16 (e) Infraestructura de carga.- el conjunto de equipos, componentes, sistemas,
+17 facilidades, conexiones, obras y mejoras requeridas para suplir energía a vehículos
+18 eléctricos de transporte público, incluyendo cargadores, transformadores, paneles,
+19 sistemas de control, interconexiones, equipos de almacenamiento y estructuras
+20 auxiliares.
+21 (f) Infraestructura energética resiliente.- cualquier combinación de equipos,
+22 sistemas o facilidades energéticas destinadas a mejorar la continuidad operacional de la
+
+6
+1 infraestructura de carga o de las facilidades del transporte público, incluyendo sistemas
+2 fotovoltaicos, almacenamiento en baterías, microrredes u otras soluciones técnicamente
+3 viables.
+4 (g) Operador elegible.- toda entidad pública, corporación pública, municipio,
+5 concesionario, contratista, operador autorizado o entidad privada que preste o participe
+6 en la prestación de servicios de transporte público colectivo bajo autorización, contrato o
+7 marco regulatorio aplicable, y que cumpla con los criterios establecidos por esta Ley y
+8 por la reglamentación que se adopte al amparo de la misma.
+9 (h) Plan Maestro.- el Plan Maestro de Transición e Infraestructura de Carga para
+10 la Movilidad Eléctrica en el Transporte Público creado por esta Ley.
+11 (i) Proyecto piloto.- toda iniciativa de alcance limitado, duración definida y
+12 evaluación estructurada, dirigida a probar la viabilidad técnica, económica, operacional,
+13 energética o administrativa de la electrificación de vehículos, rutas, terminales, patios o
+14 facilidades relacionadas con el transporte público.
+15 Artículo 4.- Creación del Programa de Movilidad Eléctrica en el Transporte
+16 Público.
+17 Se crea el adscrito a la Autoridad de Transporte Integrado de Puerto Rico, en
+18 coordinación con el Departamento de Transportación y Obras Públicas y en consulta con
+19 las entidades gubernamentales concernidas en materias energéticas, fiscales,
+20 contractuales, ambientales, de compras, infraestructura y administración pública.
+21 El Programa tendrá como propósito principal dirigir, coordinar, planificar y
+22 promover la transición gradual hacia la movilidad eléctrica en el transporte público de
+
+7
+1 Puerto Rico, incluyendo la electrificación progresiva de flotas, la instalación de
+2 infraestructura de carga, el desarrollo de proyectos piloto, la formulación de guías de
+3 contratación y la identificación de mecanismos de financiamiento e incentivos.
+4 La Autoridad será la entidad responsable de la administración general del
+5 Programa y podrá establecer acuerdos de colaboración, comités técnicos, instrumentos
+6 de coordinación interagencial, alianzas permitidas por ley y otros mecanismos
+7 administrativos necesarios para la consecución de los fines de esta Ley.
+8 Artículo 5.- Funciones del Programa.
+9 El Programa tendrá, entre otras, las siguientes funciones:
+10 (a) levantar y mantener un inventario actualizado de la flota de transporte público
+11 bajo la jurisdicción o coordinación aplicable de la Autoridad y de los operadores elegibles
+12 participantes;
+13 (b) identificar rutas, terminales, patios, centros operacionales, muelles y otras
+14 facilidades susceptibles de electrificación progresiva;
+15 (c) evaluar necesidades energéticas, operacionales y de infraestructura para la
+16 implantación de proyectos de movilidad eléctrica;
+17 (d) recomendar prioridades de implantación conforme a criterios de demanda,
+18 costo, viabilidad técnica, resiliencia, impacto social y disponibilidad de recursos;
+19 (e) diseñar e implantar proyectos piloto;
+20 (f) formular criterios para el uso de incentivos, subsidios, financiamiento,
+21 preferencias contractuales o mecanismos similares autorizados por ley;
+
+8
+1 (g) coordinar procesos de capacitación para choferes, operadores, técnicos,
+2 mecánicos, supervisores y personal administrativo;
+3 (h) desarrollar métricas para evaluar desempeño, ahorro, reducción de emisiones,
+4 confiabilidad del servicio y costo total de propiedad;
+5 (i) promover la integración razonable de infraestructura energética resiliente en
+6 aquellas facilidades donde ello resulte técnica y económicamente viable;
+7 (j) asistir en la preparación de solicitudes de fondos estatales, federales,
+8 competitivos, especiales o de otra naturaleza; y
+9 (k) rendir los informes requeridos por esta Ley.
+10 Artículo 6.- Plan Maestro de Transición e Infraestructura de Carga.
+11 La Autoridad, en coordinación con el Departamento y en consulta con las
+12 entidades gubernamentales concernidas, preparará y adoptará un Plan Maestro de
+13 Transición e Infraestructura de Carga para la implantación de esta Ley.
+14 Dicho Plan Maestro deberá presentarse dentro de un término no mayor de
+15 doscientos cuarenta (240) días contados a partir de la vigencia de esta Ley y deberá ser
+16 revisado y actualizado, al menos, cada dos (2) años.
+17 El Plan Maestro deberá incluir, como mínimo:
+18 (a) un inventario inicial de la flota existente y su condición operacional;
+19 (b) un diagnóstico de rutas, terminales, patios, estaciones, muelles y demás
+20 facilidades susceptibles de electrificación;
+21 (c) un análisis de viabilidad técnica, energética y económica para la electrificación
+22 de segmentos del sistema de transporte público;
+
+9
+1 (d) una propuesta de fases de implantación;
+2 (e) criterios de priorización de rutas, regiones, facilidades y proyectos;
+3 (f) evaluación de necesidades de infraestructura de carga y, cuando sea viable, de
+4 infraestructura energética resiliente;
+5 (g) proyecciones de costos de adquisición, instalación, operación, mantenimiento
+6 y reemplazo;
+7 (h) identificación de fuentes de financiamiento disponibles o potenciales;
+8 (i) recomendaciones sobre contratación, compras, concesiones y participación de
+9 operadores elegibles;
+10 (j) propuestas de capacitación y readiestramiento del recurso humano;
+11 (k) indicadores de desempeño y mecanismos de medición;
+12 (l) recomendaciones sobre reglamentación, normas técnicas y guías operacionales;
+13 y
+14 (m) cualquier otro componente que la Autoridad estime necesario para una
+15 implantación ordenada y efectiva.
+16 Artículo 7.- Fases de Implementación.
+17 La implementación de esta Ley se realizará por fases y conforme al Plan Maestro.
+18 Ninguna meta de electrificación o sustitución de flota se interpretará como automática,
+19 uniforme o de cumplimiento inmediato para todas las rutas, operadores o regiones.
+20 Las fases de implantación podrán incluir, entre otras:
+21 (a) proyectos piloto en rutas, corredores, regiones o servicios específicos;
+
+10
+1 (b) electrificación progresiva de parte de la flota pública operada o coordinada por
+2 la Autoridad;
+3 (c) desarrollo de infraestructura de carga en terminales, patios, centros de
+4 transferencia, muelles y otras facilidades estratégicas;
+5 (d) incorporación gradual de criterios de movilidad eléctrica en nuevos procesos
+6 de compra, contratación o renovación de acuerdos;
+7 (e) ampliación progresiva de incentivos a operadores elegibles; y
+8 (f) medidas especiales para municipios, zonas rurales o islas municipio donde la
+9 movilidad eléctrica resulte particularmente conveniente o necesaria.
+10 Artículo 8.- Criterios de Prioridad.
+11 Al diseñar e implantar las fases y proyectos autorizados por esta Ley, la Autoridad
+12 dará consideración prioritaria, según corresponda, a:
+13 (a) rutas de alta demanda o alta frecuencia;
+14 (b) terminales, patios, estaciones o muelles con mayor viabilidad técnica para la
+15 instalación de infraestructura de carga;
+16 (c) corredores con alto potencial de reducción de costos operacionales o de
+17 emisiones;
+18 (d) comunidades con alta dependencia del transporte público;
+19 (e) municipios o regiones con limitadas alternativas de movilidad;
+20 (f) rutas o facilidades cuya electrificación pueda mejorar significativamente la
+21 resiliencia del sistema;
+
+11
+1 (g) islas municipio y zonas geográficas con necesidades particulares de acceso y
+2 continuidad del servicio; y
+3 (h) escenarios en que la electrificación parcial o total de la operación resulte costo-
+4 efectiva y operacionalmente razonable.
+5 Artículo 9.- Infraestructura de Carga e Infraestructura Energética Resiliente.
+6 La Autoridad podrá desarrollar, adquirir, coordinar, autorizar o facilitar la
+7 instalación de infraestructura de carga en terminales, patios, estaciones, muelles, centros
+8 operacionales, corredores o facilidades estratégicas del transporte público, conforme a la
+9 disponibilidad de fondos y a los criterios establecidos en el Plan Maestro.
+10 La infraestructura de carga no tendrá que instalarse de manera uniforme por cada
+11 ruta, servicio o región, sino conforme a evaluación técnica, necesidad operacional,
+12 capacidad energética, costo, localización, uso previsto y conveniencia administrativa.
+13 En aquellas facilidades donde resulte técnica, económica y operacionalmente
+14 viable, la Autoridad podrá promover la integración de infraestructura energética
+15 resiliente, incluyendo sistemas fotovoltaicos, almacenamiento en baterías, microrredes u
+16 otras soluciones análogas, con el fin de fortalecer la continuidad del servicio y reducir
+17 vulnerabilidades del sistema.
+18 Artículo 10.- Proyectos Piloto.
+19 La Autoridad podrá establecer proyectos piloto para probar la viabilidad de:
+20 (a) autobuses, guaguas, vans, lanchas u otras unidades eléctricas en servicios
+21 determinados;
+22 (b) estaciones, centros o sistemas de carga;
+
+12
+1 (c) soluciones de carga rápida, carga en patio o carga de oportunidad;
+2 (d) modelos de operación conjunta con operadores elegibles;
+3 (e) infraestructura energética resiliente asociada al transporte público; y
+4 (f) esquemas de financiamiento o contratación innovadores permitidos por ley.
+5 Todo proyecto piloto deberá contar con parámetros definidos de evaluación,
+6 métricas de desempeño, duración razonable y mecanismo de documentación de
+7 resultados.
+8 Artículo 11.- Compras, Contratación y Renovación de Acuerdos.
+9 La Autoridad, el Departamento y cualquier otra entidad pública concernida
+10 procurarán incorporar, de forma gradual y conforme a la disponibilidad de fondos y a la
+11 viabilidad técnica, criterios de preferencia por tecnologías de cero emisiones o bajas
+12 emisiones en los procesos de adquisición de vehículos, equipo o servicios vinculados al
+13 transporte público.
+14 En los nuevos contratos, concesiones, subastas, solicitudes de propuestas o
+15 renovaciones relacionadas con la operación del transporte público colectivo, podrán
+16 incluirse cláusulas, criterios de evaluación o incentivos dirigidos a promover la
+17 incorporación gradual de vehículos eléctricos, infraestructura de carga o prácticas de
+18 operación compatibles con los fines de esta Ley, siempre que ello sea legalmente
+19 procedente, fiscalmente razonable y operacionalmente viable.
+20 Nada de lo dispuesto en este Artículo se interpretará como una prohibición
+21 absoluta e inmediata de toda adquisición de vehículos con tecnologías convencionales
+22 cuando, por razones de disponibilidad, costo total de propiedad, condiciones de ruta,
+
+13
+1 infraestructura insuficiente, servicio esencial o necesidad operacional debidamente
+2 justificada, resulte necesario utilizar otra tecnología.
+3 Artículo 12.- Incentivos para Operadores Elegibles.
+4 Sujeto a disponibilidad de fondos y conforme a reglamentación, la Autoridad
+5 podrá establecer mecanismos de apoyo para operadores elegibles que participen en la
+6 transición hacia la movilidad eléctrica en el transporte público, incluyendo, sin limitarse
+7 a:
+8 (a) subsidios parciales o aportaciones para adquisición de vehículos eléctricos o
+9 infraestructura de carga;
+10 (b) asistencia técnica para evaluación de viabilidad e implantación;
+11 (c) preferencias o puntuación adicional en procesos competitivos, cuando ello sea
+12 legalmente permitido;
+13 (d) programas de readiestramiento y capacitación;
+14 (e) apoyo para desarrollar proyectos piloto; y
+15 (f) cualquier otro mecanismo de incentivo compatible con la ley y con los fondos
+16 disponibles.
+17 La concesión de tales incentivos deberá obedecer a criterios uniformes, objetivos y
+18 fiscalizables, establecidos mediante reglamento o guía administrativa.
+19 Artículo 13.- Financiamiento.
+20 La implementación de esta Ley estará sujeta a la disponibilidad de fondos
+21 estatales, federales, especiales, competitivos, donativos, economías operacionales,
+
+14
+1 alianzas autorizadas por ley y cualquier otro mecanismo de financiamiento legalmente
+2 disponible.
+3 La Autoridad y el Departamento podrán identificar, gestionar y utilizar, conforme
+4 a derecho, fondos provenientes de programas o fuentes aplicables a transportación,
+5 movilidad, infraestructura, energía, resiliencia, mitigación, calidad de aire, innovación
+6 tecnológica y adquisición de flota, así como fondos estatales o especiales que puedan
+7 asignarse en el futuro para estos fines.
+8 Asimismo, podrán evaluarse mecanismos de alianzas autorizadas por la Ley 29-
+9 2009, según enmendada, conocida como la “Ley de Alianzas Público Privadas”, así como
+10 acuerdos de colaboración, financiamiento por fases, esquemas de ahorro operacional,
+11 arrendamientos, adquisiciones escalonadas y otros instrumentos compatibles con el
+12 ordenamiento jurídico vigente.
+13 Nada de lo dispuesto en esta Ley se interpretará como una asignación automática
+14 de fondos ni como una autorización para comprometer recursos públicos sin cumplir con
+15 los requisitos presupuestarios, contractuales y fiscales aplicables.
+16 Artículo 14.- Capacitación y Desarrollo Ocupacional.
+17 La Autoridad promoverá, en coordinación con las entidades públicas, educativas
+18 o técnicas concernidas, programas de capacitación dirigidos a choferes, operadores,
+19 despachadores, técnicos, mecánicos, supervisores, personal administrativo y demás
+20 recurso humano vinculado a la operación y mantenimiento de flotas eléctricas e
+21 infraestructura relacionada.
+
+15
+1 Estos esfuerzos podrán incluir adiestramientos sobre operación segura,
+2 mantenimiento preventivo, respuesta a incidentes, manejo energético, diagnóstico
+3 técnico, procedimientos de carga, continuidad operacional y otros aspectos necesarios
+4 para una implantación adecuada de esta Ley.
+5 Artículo 15.- Informes.
+6 La Autoridad rendirá a la Asamblea Legislativa de Puerto Rico y a la persona
+7 titular del Poder Ejecutivo un informe anual sobre la implantación de esta Ley.
+8 Dicho informe incluirá, como mínimo:
+9 (a) el estado de adopción e implantación del Plan Maestro;
+10 (b) los proyectos piloto iniciados, en curso o culminados;
+11 (c) la cantidad y tipo de vehículos eléctricos incorporados al sistema;
+12 (d) la infraestructura de carga instalada o proyectada;
+13 (e) las fuentes de fondos identificadas o utilizadas;
+14 (f) los ahorros operacionales estimados o documentados, si alguno;
+15 (g) las reducciones de emisiones estimadas o documentadas, si alguna;
+16 (h) las dificultades de implantación identificadas;
+17 (i) las recomendaciones administrativas o legislativas pertinentes; y
+18 (j) cualquier otro dato relevante para evaluar el cumplimiento de la política pública
+19 establecida en esta Ley.
+20 Artículo 16.- Reglamentación.
+21 La Autoridad, en coordinación con el Departamento y en consulta con las
+22 entidades gubernamentales concernidas, adoptará la reglamentación necesaria para la
+
+16
+1 implantación de esta Ley dentro de un término no mayor de ciento ochenta (180) días
+2 contados a partir de su vigencia.
+3 Dicha reglamentación podrá incluir, sin limitarse a:
+4 (a) criterios de elegibilidad para operadores participantes;
+5 (b) parámetros para proyectos piloto;
+6 (c) normas para la evaluación de viabilidad técnica y operacional;
+7 (d) criterios para el otorgamiento de incentivos;
+8 (e) guías para adquisición e instalación de infraestructura de carga;
+9 (f) métricas de evaluación y desempeño;
+10 (g) criterios de priorización territorial, operacional y programática; y
+11 (h) cualquier otra disposición necesaria para la administración efectiva del
+12 Programa.
+13 Artículo 17.- Interpretación.
+14 Las disposiciones de esta Ley se interpretarán de forma liberal a favor de la
+15 consecución de su política pública, pero siempre en armonía con las limitaciones fiscales,
+16 energéticas, técnicas, operacionales y contractuales aplicables.
+17 Nada de lo dispuesto en esta Ley se interpretará como autorización para incumplir
+18 con legislación, reglamentación, normas técnicas, procesos presupuestarios, requisitos de
+19 contratación pública o criterios de seguridad aplicables al transporte público o a la
+20 infraestructura energética.
+
+17
+1 Artículo 18.- Cláusula de Separabilidad.
+2 Si cualquier cláusula, párrafo, subinciso, artículo, disposición, sección o parte de esta Ley
+3 fuere declarada inconstitucional, nula o inválida por un tribunal con jurisdicción
+4 competente, la sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las
+5 demás disposiciones de esta Ley, las cuales permanecerán en pleno vigor y efecto.
+6 Artículo 19.- Vigencia.
+7 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3  .r L r c l “ p l T G h l M E e e R l e p e y t v d E e e T P a a l A d T i r f e i y p o f R e e r c d m s s d t]
+[DELETED:  t p c u c i d l e d p g r d m y m t g h m d m e r u e d d f y f d t p p l “ d l A d T I d P R p e o p l c d f y a d “ d P P E d P R r l n d l i e p m e y f l o e t n d i d m a n n d c c d l r e d d r p r i e a d]
+[DELETED:  p y u p d i g q d d o e c a l r f e y o d i s S p e e u p e T y O P y l d e c p e L l A L d P R r s c l m d t p l r d l c l e d g p y l p d i c u i j f y r p p la“]
+[DELETED:  d c p p d G d P R p l f l r e y o d t p a l c i y o r c a c t o e p y d]
+[DELETED:  f d e L l s t t e s q ao- d t t m o m d a t o u d a t c d p i t o I d c e c d e c s c o y m r p s e a v d t p i c t p d c i e d a y e I e r c c d e]
+[DELETED:  O e t e p c p mr. P p t i d a l d d y 4 C d P d M E e e T e g c e m e f P t c p p d c p y]
+[DELETED:  R i l e p d f l i d A s l e r d l a g d c i a p p l y o m i r t p c o m y o e n e o y d i p l f c p e u d i s f]
+[DELETED:  c p d c p c o t a e l p d s d f e f A e c c e D y e c c l g c p y a u P M dg  P M d p d d u t n m d u d d r t p e m y d]
+[DELETED:  c o c q l A e n p u]
+[DELETED:  d d i d c e t p c d c c a p d r d c o o d r o f c e p m s l]
+[DELETED:  A p d a c a o f l s o r s c a e t n o a f d r t e y o l A p p l i d i e a g v l u o u e e s]
+[DELETED:  p p d c c p d d e d d d r y m d d d A e D y c o e p c t c d p p t d c e o b l n c c s s d p o r c l o d t p c p c c d e o i d a p l c c l f d e L s q e s l d l d e e A s i c u p]
+[DELETED:  i s e o n o d a d d f y c a r l A i d e L e s a l d d f f e c d e o]
+[DELETED:  d f p d p o f a a t a e y o i c c e t c p d c d a c o t m s p a y d h v a l o y m d f e e]
+[DELETED:  e p i a s o s p r a i m e d A e c c e D y e c c l]
+[DELETED:  c o d n p l a e d d d e L s i d f l a f d l p o c d s a a t p o a l]
+[DELETED:  d i n o i p u t c j]
