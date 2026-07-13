@@ -1,0 +1,167 @@
+Title: Para crear la Licencia de Armas Digital en Puerto Rico; autorizar que la información de
+Official Title: Para crear la Licencia de Armas Digital en Puerto Rico; autorizar que la información de
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1148
+19 de marzo de 2026
+Presentado por el señor Colon La Santa
+Referido a:
+LEY
+la licencia de armas valida y vigente pueda visualizarse y verificarse de forma
+electrónica, de manera similar a la licencia de conducir en CESCO Digital: establecer
+su validez legal como medio oficial de identificación ante las autoridades del orden
+público; disponer sobre la confidencialidad y seguridad de la información; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La seguridad publica y el cumplimiento de la ley requieren que las personas que
+poseen y portan armas de fuego en Puerto Rico cuenten con una licencia valida y
+vigente. Sin embargo, este asunto no solo impacta la seguridad, sino también el ámbito
+laboral y de las relaciones de trabajo, particularmente para empleados que, por razón de
+su empleo, se ven obligados a portar armas de fuego como parte de sus funciones o
+durante sus desplazamientos al trabajo.
+En Puerto Rico, miles de trabajadores, entre ellos guardias de seguridad, empleados
+de empresas de transporte de valores, comerciantes, profesionales que laboran en
+horarios nocturnos y personas que se desplazan largas distancias por razones de
+2
+empleo; poseen licencias de armas de forma legal para proteger su integridad física
+mientras cumplen con sus responsabilidades laborales.
+La realidad social demuestra que muchas personas cambian con frecuencia de
+cartera, bolso o equipo de trabajo, lo que puede ocasionar que olviden o extravíen
+documentos físicos importantes, incluyendo la licencia de armas. Esta situación expone
+a trabajadores cumplidores de la ley a sanciones severas, tales como multas y penas de
+cárcel, aun cuando cuenten con una licencia validad y el arma este debidamente
+registrada.
+Estas consecuencias no solo afectan al individuo, sino que pueden repercutir
+directamente en su estabilidad laboral, su capacidad de generar ingresos y la
+continuidad de su empleo, creando un impacto desproporcionado en la relación obrero-
+patronal y en la seguridad económica de las familias puertorriqueñas.
+Actualmente, el Gobierno de Puerto Rico cuenta con herramientas tecnológicas
+como CESCO Digital, mediante las cuales los ciudadanos pueden acceder de forma
+electrónica a su licencia de conducir con plena validez oficial. Este adelanto ha
+demostrado ser eficiente y seguro; y ha facilitado tanto la movilidad laboral como la
+interacción entre ciudadanos y autoridades.
+Esta Asamblea Legislativa, reconociendo la jurisdicción de la Comisión de Trabajo y
+Relaciones Laborales, el impacto directo que esta problemática tiene sobre la clase
+trabajadora, entiende necesario atemperar la Ley de Armas de Puerto Rico a los avances
+tecnológicos, permitiendo que la licencia de armas pueda visualizarse y verificarse de
+manera digital, sin menoscabar la seguridad pública ni la confidencialidad de la
+información.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Articulo 1.- Título
+2 Esta Ley se conocerá como la “Ley de Licencia de Armas Digital de Puerto
+3 Rico”.
+3
+1 Artículo 2.- Definiciones
+2 Licencia de Armas Digital: Representación electrónica oficial de una licencia
+3 de armas valida y vigente.
+4 Plataforma Digital Autorizada: Sistema electrónico autorizado por el
+5 Gobierno de Puerto Rico.
+6 Autoridades de Orden Público: La Policía de Puerto Rico y otros agentes
+7 autorizados.
+8 Artículo 3.- Autorización
+9 Se autoriza al Departamento de Seguridad Pública a desarrollar la Licencia de
+10 Armas Digital.
+11 Artículo 4.- Validez Legal
+12 La licencia de Armas Digital tendrá la misma validez legal que la licencia
+13 física.
+14 Artículo 5.- Reglamentación
+15 El Departamento de Seguridad Pública adoptará la reglamentación necesaria
+16 dentro de 180 días.
+17 Artículo 6.- Vigencia
+18 Esta ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A   3 ar L r l d a v y v p v y v d f y p a d f e P R c c u l v y e d t d v c p q l e n y p q s d l d p r d]
+[DELETED:  p l d a d f l p p s i f r s d q m p c c f d b o e d t l q p o q o o e a c c c u l v y e a e d c n s a a i s q p r e s e l s c d g i y l e G d P R c c h t C D m l c l c p a d f a s l d c c p v o  E a h L e i d q e p t s l c d s m l s p n l c d l]
+[DELETED:  D A S e a p e d O P L P d P R y o a l d A D t l m v l q l l]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1148
+19 de marzo de 2026
+Presentado por el señor Colon La Santa
+Referido a:
+LEY
+Para crear la Licencia de Armas Digital en Puerto Rico; autorizar que la información de
+la licencia de armas valida y vigente pueda visualizarse y verificarse de forma
+electrónica, de manera similar a la licencia de conducir en CESCO Digital: establecer
+su validez legal como medio oficial de identificación ante las autoridades del orden
+público; disponer sobre la confidencialidad y seguridad de la información; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La seguridad publica y el cumplimiento de la ley requieren que las personas que
+poseen y portan armas de fuego en Puerto Rico cuenten con una licencia valida y
+vigente. Sin embargo, este asunto no solo impacta la seguridad, sino también el ámbito
+laboral y de las relaciones de trabajo, particularmente para empleados que, por razón de
+su empleo, se ven obligados a portar armas de fuego como parte de sus funciones o
+durante sus desplazamientos al trabajo.
+En Puerto Rico, miles de trabajadores, entre ellos guardias de seguridad, empleados
+de empresas de transporte de valores, comerciantes, profesionales que laboran en
+horarios nocturnos y personas que se desplazan largas distancias por razones de
+
+2
+empleo; poseen licencias de armas de forma legal para proteger su integridad física
+mientras cumplen con sus responsabilidades laborales.
+La realidad social demuestra que muchas personas cambian con frecuencia de
+cartera, bolso o equipo de trabajo, lo que puede ocasionar que olviden o extravíen
+documentos físicos importantes, incluyendo la licencia de armas. Esta situación expone
+a trabajadores cumplidores de la ley a sanciones severas, tales como multas y penas de
+cárcel, aun cuando cuenten con una licencia validad y el arma este debidamente
+registrada.
+Estas consecuencias no solo afectan al individuo, sino que pueden repercutir
+directamente en su estabilidad laboral, su capacidad de generar ingresos y la
+continuidad de su empleo, creando un impacto desproporcionado en la relación obrero-
+patronal y en la seguridad económica de las familias puertorriqueñas.
+Actualmente, el Gobierno de Puerto Rico cuenta con herramientas tecnológicas
+como CESCO Digital, mediante las cuales los ciudadanos pueden acceder de forma
+electrónica a su licencia de conducir con plena validez oficial. Este adelanto ha
+demostrado ser eficiente y seguro; y ha facilitado tanto la movilidad laboral como la
+interacción entre ciudadanos y autoridades.
+Esta Asamblea Legislativa, reconociendo la jurisdicción de la Comisión de Trabajo y
+Relaciones Laborales, el impacto directo que esta problemática tiene sobre la clase
+trabajadora, entiende necesario atemperar la Ley de Armas de Puerto Rico a los avances
+tecnológicos, permitiendo que la licencia de armas pueda visualizarse y verificarse de
+manera digital, sin menoscabar la seguridad pública ni la confidencialidad de la
+información.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Articulo 1.- Título
+2 Esta Ley se conocerá como la “Ley de Licencia de Armas Digital de Puerto
+3 Rico”.
+
+3
+1 Artículo 2.- Definiciones
+2 Licencia de Armas Digital: Representación electrónica oficial de una licencia
+3 de armas valida y vigente.
+4 Plataforma Digital Autorizada: Sistema electrónico autorizado por el
+5 Gobierno de Puerto Rico.
+6 Autoridades de Orden Público: La Policía de Puerto Rico y otros agentes
+7 autorizados.
+8 Artículo 3.- Autorización
+9 Se autoriza al Departamento de Seguridad Pública a desarrollar la Licencia de
+10 Armas Digital.
+11 Artículo 4.- Validez Legal
+12 La licencia de Armas Digital tendrá la misma validez legal que la licencia
+13 física.
+14 Artículo 5.- Reglamentación
+15 El Departamento de Seguridad Pública adoptará la reglamentación necesaria
+16 dentro de 180 días.
+17 Artículo 6.- Vigencia
+18 Esta ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 ar L r l d a v y v p v y v d f y p a d f e P R c c u l v y e d t d v c p q l e n y p q s d l d p r d]
+[DELETED:  p l d a d f l p p s i f r s d q m p c c f d b o e d t l q p o q o o e a c c c u l v y e a e d c n s a a i s q p r e s e l s c d g i y l e G d P R c c h t C D m l c l c p a d f a s l d c c p v o  E a h L e i d q e p t s l c d s m l s p n l c d l]
+[DELETED:  D A S e a p e d O P L P d P R y o a l d A D t l m v l q l l]

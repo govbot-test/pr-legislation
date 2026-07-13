@@ -1,0 +1,152 @@
+Title: La Asamblea Legislativa de Puerto Rico aprob6 recientemente el Proyecto de la Camara 593 ( en
+Official Title: La Asamblea Legislativa de Puerto Rico aprob6 recientemente el Proyecto de la Camara 593 ( en
+Number of Sections: 1
+Source: versions - Veto Expreso
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+JENNIFFER A. GONZALEZ COLON
+GOBERNADORA DE PUERTO RICO
+18 de mayo de 2026
+Hon. Carlos "Johnny" Mendez Nufiez
+Presidente
+Camara de Representantes
+El Capitolio
+San Juan, Puerto Rico
+VETO EXPRESO I P. de la C. 593
+Estimado sefior Presidente Mendez Nufiez:
+adelante P. del C. 593), cuyo titulo dispone:
+"Para establecer la 'Ley de Transparencia en las Compras Gubemamentales de
+Puerto Rico'; ordenar a todas las entidades exentas del Gobiemo de Puerto Rico a
+publicar en sus respectivos portales cibemeticos las compras realizadas con fondos
+del erario; establecer la politica publica; establecer definiciones, asi como
+para.metros de publicaciones y excepciones; y otros fines relacionados."
+Reconozco el valor de promover un mayor acceso ciudadano a la informaci6n relacionada con el
+uso de fondos publicos y comparto plenamente el interes de continuar fortaleciendo la confianza
+de nuestra gente en las instituciones gubemamentales. No obstante, la medida, segun aprobada,
+presenta serias limitaciones tecnicas, operacionales y fiscales que no pueden ser ignoradas.
+El analisis realizado por Puerto Rico Innovation & Technology Services (PRITS) durante el
+proceso legislativo refleja que la medida impone obligaciones tecnol6gicas complejas sin
+establecer un mecanismo claro de implementaci6n, interoperabilidad o integraci6n entre los
+distintos sistemas financieros y plataformas de compras actualmente utilizados por las entidades
+exentas impactadas. Aunque el proyecto requiere la publicaci6n uniforme de informaci6n
+relacionada con compras gubemamentales, no define para.metros tecnicos especificos relacionados
+con formatos de publicaci6n, validaci6n de datos, infraestructura tecnol6gica o mecanismos de
+sincronizaci6n entre sistemas distintos.
+Asimismo, PRITS advirti6 que la implementaci6n de una soluci6n tecnol6gica centralizada para
+integrar las plataformas de al menos veinticuatro (24) entidades exentas podria representar un costo
+1
+LA FORTALEZA, SAN JUAN, PUERTO RICO
+P.O. BOX 9020082, SAN JUAN, PR 00902-0082 / (787) 72 I -7000 / GOVERNOR@FORTALEZA.PR.GOV
+Asimismo, PRITS advirti6 que la implementaci6n de una soluci6n tecnol6gica centralizada para
+integrar las plataformas de al menos veinticuatro (24) entidades exentas podria representar un costo
+inicial aproximado de $300,000 (micamente en desarrollo tecnol6gico base, sin incluir gastos
+adicionales relacionados con interoperabilidad, integraci6n de APis, infraestructura tecnol6gica,
+ciberseguridad, almacenamiento de informaci6n, mantenimiento, soporte tecnico y futuras mejoras
+operacionales. Del mismo modo, si la implementaci6n recayera individualmente sobre cada
+entidad exenta, ello podria generar mayores costos operacionales y una falta de uniformidad en los
+estandares tecnol6gicos yen la informaci6n divulgada.
+De igual forma, la medida no toma en consideraci6n que el Gobiemo de Puerto Rico se encuentra
+actualmente en proceso de implementaci6n e integraci6n del sistema Enterprise Resource Planning
+(ERP), iniciativa dirigida precisamente a centralizar los sistemas fiscales, financieros y de compras
+del Gobiemo. Conforme sefial6 PRITS, invertir recursos publicos en soluciones tecnol6gicas
+independientes previo a culminar dicho proceso podria resultar prematuro y potencialmente
+incompatible con futuras iniciativas de interoperabilidad y centralizaci6n tecnol6gica
+gubemamental.
+Asimismo, aunque la medida establece una vigencia de noventa (90) dias, no surge del expediente
+legislativo un analisis tecnico o econ6mico detallado sobre el tiempo necesario para desarrollo,
+integraci6n, validaci6n, pruebas e implementaci6n operacional de las plataformas requeridas.
+Particularmente en entidades que operan sistemas financieros independientes o plataformas
+heredadas, dicho termino podria resultar insuficiente para lograr una implementaci6n uniforme y
+funcional.
+Es politica publica de esta Administraci6n continuar promoviendo la transparencia gubemamental
+y el acceso ciudadano a la informaci6n publica. Sin embargo, dichas iniciativas deben implantarse
+de forma estructurada, coordinada y fiscalmente responsable, tomando en consideraci6n los
+esfuerzos de modemizaci6n tecnol6gica actualmente en curso y los recursos necesarios para
+garantizar una implementaci6n efectiva y uniforme. La aprobaci6n de esta medida, sin atender
+adecuadamente dichas consideraciones tecnicas y presupuestarias, podria resultar en una politica
+publica de dificil ejecuci6n y con impactos fiscales no contemplados.
+Por todo lo anterior, y reconociendo la importancia de atender este asunto de forma responsable y
+viable, procedo a vetar el Proyecto de la Camara 593.
+Cordialmente,
+2
+[DELETED:  G C P l ' d T l C G d e e l p p e d a c l a r p P R I & T S ( d e l r q l m i o t c s m c d i i o i e l i A p r l p u d i d p d S P B S P ( - G]
+[DELETED:  a d $ ( e d t b s i g D m m l i r i s c G C s P i r p e s t p a c d p p r p y p c f i d i y c t s v p e i o l p r e e q o s f i o p f e c y f r t e c l d m t a e c y l r n p L e]
+
+
+================================================================================
+
+Raw Text:
+JENNIFFER A. GONZALEZ COLON
+GOBERNADORA DE PUERTO RICO
+18 de mayo de 2026
+Hon. Carlos "Johnny" Mendez Nufiez
+Presidente
+Camara de Representantes
+El Capitolio
+San Juan, Puerto Rico
+VETO EXPRESO I P. de la C. 593
+Estimado sefior Presidente Mendez Nufiez:
+La Asamblea Legislativa de Puerto Rico aprob6 recientemente el Proyecto de la Camara 593 ( en
+adelante P. del C. 593), cuyo titulo dispone:
+"Para establecer la 'Ley de Transparencia en las Compras Gubemamentales de
+Puerto Rico'; ordenar a todas las entidades exentas del Gobiemo de Puerto Rico a
+publicar en sus respectivos portales cibemeticos las compras realizadas con fondos
+del erario; establecer la politica publica; establecer definiciones, asi como
+para.metros de publicaciones y excepciones; y otros fines relacionados."
+Reconozco el valor de promover un mayor acceso ciudadano a la informaci6n relacionada con el
+uso de fondos publicos y comparto plenamente el interes de continuar fortaleciendo la confianza
+de nuestra gente en las instituciones gubemamentales. No obstante, la medida, segun aprobada,
+presenta serias limitaciones tecnicas, operacionales y fiscales que no pueden ser ignoradas.
+El analisis realizado por Puerto Rico Innovation & Technology Services (PRITS) durante el
+proceso legislativo refleja que la medida impone obligaciones tecnol6gicas complejas sin
+establecer un mecanismo claro de implementaci6n, interoperabilidad o integraci6n entre los
+distintos sistemas financieros y plataformas de compras actualmente utilizados por las entidades
+exentas impactadas. Aunque el proyecto requiere la publicaci6n uniforme de informaci6n
+relacionada con compras gubemamentales, no define para.metros tecnicos especificos relacionados
+con formatos de publicaci6n, validaci6n de datos, infraestructura tecnol6gica o mecanismos de
+sincronizaci6n entre sistemas distintos.
+Asimismo, PRITS advirti6 que la implementaci6n de una soluci6n tecnol6gica centralizada para
+integrar las plataformas de al menos veinticuatro (24) entidades exentas podria representar un costo
+1
+LA FORTALEZA, SAN JUAN, PUERTO RICO
+P.O. BOX 9020082, SAN JUAN, PR 00902-0082 / (787) 72 I -7000 / GOVERNOR@FORTALEZA.PR.GOV
+
+Asimismo, PRITS advirti6 que la implementaci6n de una soluci6n tecnol6gica centralizada para
+integrar las plataformas de al menos veinticuatro (24) entidades exentas podria representar un costo
+inicial aproximado de $300,000 (micamente en desarrollo tecnol6gico base, sin incluir gastos
+adicionales relacionados con interoperabilidad, integraci6n de APis, infraestructura tecnol6gica,
+ciberseguridad, almacenamiento de informaci6n, mantenimiento, soporte tecnico y futuras mejoras
+operacionales. Del mismo modo, si la implementaci6n recayera individualmente sobre cada
+entidad exenta, ello podria generar mayores costos operacionales y una falta de uniformidad en los
+estandares tecnol6gicos yen la informaci6n divulgada.
+De igual forma, la medida no toma en consideraci6n que el Gobiemo de Puerto Rico se encuentra
+actualmente en proceso de implementaci6n e integraci6n del sistema Enterprise Resource Planning
+(ERP), iniciativa dirigida precisamente a centralizar los sistemas fiscales, financieros y de compras
+del Gobiemo. Conforme sefial6 PRITS, invertir recursos publicos en soluciones tecnol6gicas
+independientes previo a culminar dicho proceso podria resultar prematuro y potencialmente
+incompatible con futuras iniciativas de interoperabilidad y centralizaci6n tecnol6gica
+gubemamental.
+Asimismo, aunque la medida establece una vigencia de noventa (90) dias, no surge del expediente
+legislativo un analisis tecnico o econ6mico detallado sobre el tiempo necesario para desarrollo,
+integraci6n, validaci6n, pruebas e implementaci6n operacional de las plataformas requeridas.
+Particularmente en entidades que operan sistemas financieros independientes o plataformas
+heredadas, dicho termino podria resultar insuficiente para lograr una implementaci6n uniforme y
+funcional.
+Es politica publica de esta Administraci6n continuar promoviendo la transparencia gubemamental
+y el acceso ciudadano a la informaci6n publica. Sin embargo, dichas iniciativas deben implantarse
+de forma estructurada, coordinada y fiscalmente responsable, tomando en consideraci6n los
+esfuerzos de modemizaci6n tecnol6gica actualmente en curso y los recursos necesarios para
+garantizar una implementaci6n efectiva y uniforme. La aprobaci6n de esta medida, sin atender
+adecuadamente dichas consideraciones tecnicas y presupuestarias, podria resultar en una politica
+publica de dificil ejecuci6n y con impactos fiscales no contemplados.
+Por todo lo anterior, y reconociendo la importancia de atender este asunto de forma responsable y
+viable, procedo a vetar el Proyecto de la Camara 593.
+Cordialmente,
+2
+
+[DELETED:  G C P l ' d T l C G d e e l p p e d a c l a r p P R I & T S ( d e l r q l m i o t c s m c d i i o i e l i A p r l p u d i d p d S P B S P ( - G]
+[DELETED:  a d $ ( e d t b s i g D m m l i r i s c G C s P i r p e s t p a c d p p r p y p c f i d i y c t s v p e i o l p r e e q o s f i o p f e c y f r t e c l d m t a e c y l r n p L e]

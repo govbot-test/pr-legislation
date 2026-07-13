@@ -1,0 +1,210 @@
+Title: Para enmendar el inciso (f)del Artículo 6 de la Ley 75-2019, según enmendada, conocida
+Official Title: Para enmendar el inciso (f)del Artículo 6 de la Ley 75-2019, según enmendada, conocida
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1210
+23 de abril de 2026
+Presentada por el señor Reyes Berríos
+Referido a
+LEY
+como “Ley de la Puerto Rico Innovation and Technology Services”, a los fines de
+incorporar el desarrollo y la implementación de una aplicación tecnológica basada
+en inteligencia artificial (IA), para el monitoreo eficiente, transparente y
+automatizado de los procesos de subasta pública en el Gobierno de Puerto Rico; y
+para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 75-2019, según enmendada, creó la Puerto Rico Innovation and Technology
+Service (en adelante “PRITS”) con la encomienda de desarrollar, coordinar y promover
+la innovación tecnológica y la transformación digital en la administración pública. Esta
+función es de vital importancia para modernizar la gestión gubernamental y promover
+una administración más eficiente, transparente y accesible para la ciudadanía.
+Ante la revolución tecnológica mundial y el auge de la inteligencia artificial (IA),
+se impone la adopción de herramientas tecnológicas que permitan el monitoreo
+automatizado, en tiempo real, y con capacidad analítica avanzada de los procesos
+públicos. Como es sabido, la IA entre otras cosas, puede detectar patrones atípicos,
+validar documentos y garantizar la correcta ejecución de las etapas de las subastas
+1
+públicas. Esto se alinea con las políticas públicas del Gobierno de Puerto Rico, que buscan
+promover la modernización tecnológica para mejorar la gestión y la rendición de cuentas.
+La actual Administración tiene como prioridad incluir elementos de IA a los fines
+de alcanzar una integración digital de los servicios ofrecidos por diferentes agencias para
+poder ofrecer una experiencia más fluida para los ciudadanos. Es por ello que la
+aplicación de IA para las subastas públicas se debe fundamentar en principios ya
+establecidos en la Ley 75-2019, y debe reconocer la innovación tecnológica, la integración
+de sistemas, y la transformación digital como ejes estratégicos para el desarrollo
+económico y la gobernanza efectiva en Puerto Rico.
+Además, esta herramienta contribuirá a consolidar la unificación digital del
+Gobierno, facilitando la interoperabilidad entre agencias y mejorando el acceso
+ciudadano a información veraz y oportuna, en apego a la Ley de Transparencia y Acceso
+a la Información Pública. Así mismo, la coordinación interagencial con la Administración
+de Servicios Generales asegurará la interoperabilidad administrativa y técnica necesaria
+para la exitosa implementación del sistema.
+El propósito de esta enmienda es incorporar el desarrollo y la implementación de
+una aplicación tecnológica basada en inteligencia artificial (IA), para el monitoreo
+eficiente, transparente y automatizado de los procesos de subasta pública en Puerto Rico,
+promoviendo así la integridad, la eficiencia y la fiscalización en dichos procesos conforme
+a las políticas públicas tecnológicas ya establecidas en la Ley 75-2019.
+Por todo lo anterior, esta Asamblea Legislativa entiende indispensable desarrollar
+y operar un sistema innovador basado en inteligencia artificial para el monitoreo de
+procesos de subasta pública, que fortifique la transparencia, la eficiencia y la confianza
+en la administración pública en Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+2
+1 Sección 1. - Se enmienda el Artículo 6 de la Ley 75-2019, según enmendada,
+2 conocida como “Ley de la Puerto Rico Innovation and Technology Service” para que se
+3 lea como sigue:
+4 “Artículo 6. — Funciones, facultades y deberes de la Puerto Rico Innovation and
+5 Technology Service y del Principal Ejecutivo de Innovación e Información del Gobierno
+6 (PEII).
+7 a) Ser la Oficina de la Rama Ejecutiva encargada de implantar, desarrollar y
+8 coordinar la política pública del Gobierno sobre la innovación, información y
+9 tecnología;
+10 …
+11 …
+12 …
+13 …
+14 (f) Implementar sistemas de rendición de cuentas que propicien el mejoramiento
+15 continuo y la innovación mediante la alineación de la organización a las
+16 expectativas y metas. Estos sistemas, a su vez, deben contribuir a la utilización
+17 más eficiente de los recursos gubernamentales y a la transparencia en la gestión
+18 gubernamental. Además, será responsable de desarrollar, implementar y supervisar
+19 una plataforma digital avanzada basada en inteligencia artificial para el monitoreo
+20 transparente y en tiempo real de todos los procesos de subasta pública bajo la jurisdicción
+21 del Gobierno de Puerto Rico, garantizando la detección de irregularidades, la
+22 optimización administrativa y el acceso público a información. Es condición
+1 indispensable que la aplicación cumpla con los más altos estándares de seguridad
+2 informática y protección de datos personales, para garantizar la integridad y
+3 confidencialidad de la información gestionada. Para el ejercicio de estas facultades, las
+4 siguientes agencias vendrán obligadas a trabajar en coordinación con PRITS: Oficina del
+5 Inspector General; la Administración de Servicios Generales; la Oficina de Ética
+6 Gubernamental, y cualquier otra agencia pertinente para garantizar que la aplicación
+7 cumpla con los requisitos legales y de transparencia necesarios;
+8 …
+9 …
+10 Sección 2.— Informe Anual.
+11 La Puerto Rico Innovation and Technology Service incluirá en su informe
+12 anual a la Asamblea Legislativa, un resumen detallado sobre el funcionamiento,
+13 resultados, obstáculos y recomendaciones relacionados con la aplicación y uso de
+14 inteligencia artificial en el monitoreo de procesos de subasta pública. Este informe
+15 se presentará anualmente, no más tarde del 30 de junio de todo año.
+16 Sección 3.—Vigencia.
+17 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED:   A 3  arL   i a ( p e m e t y i l a d h t q p e m e t r y c c a a d l p C e s l I e o c p d p a d y g l c e d l e d l s]
+[DELETED:  o u e m f p l c.E p e q l d I p l s p s d f e p y s y l t d c e e p e d e h c a c l u d d f l i e a y m e a a t b e i a ( p e m i p]
+[DELETED:   1 - S e e A 6 d l L 7 s e S l O d l R E e d i d y l p p d G s l i i y y l i m l a d l o a l . u p d a b e i a p e m t d G d P R g l d d i l o a y e a p a i E c]
+[DELETED:   i q l a c c l m a e d s i y p d d p p g l i y c s I G l A d S G l O d É G csE]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 3 ra Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1210
+23 de abril de 2026
+Presentada por el señor Reyes Berríos
+Referido a
+LEY
+Para enmendar el inciso (f)del Artículo 6 de la Ley 75-2019, según enmendada, conocida
+como “Ley de la Puerto Rico Innovation and Technology Services”, a los fines de
+incorporar el desarrollo y la implementación de una aplicación tecnológica basada
+en inteligencia artificial (IA), para el monitoreo eficiente, transparente y
+automatizado de los procesos de subasta pública en el Gobierno de Puerto Rico; y
+para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 75-2019, según enmendada, creó la Puerto Rico Innovation and Technology
+Service (en adelante “PRITS”) con la encomienda de desarrollar, coordinar y promover
+la innovación tecnológica y la transformación digital en la administración pública. Esta
+función es de vital importancia para modernizar la gestión gubernamental y promover
+una administración más eficiente, transparente y accesible para la ciudadanía.
+Ante la revolución tecnológica mundial y el auge de la inteligencia artificial (IA),
+se impone la adopción de herramientas tecnológicas que permitan el monitoreo
+automatizado, en tiempo real, y con capacidad analítica avanzada de los procesos
+públicos. Como es sabido, la IA entre otras cosas, puede detectar patrones atípicos,
+validar documentos y garantizar la correcta ejecución de las etapas de las subastas
+1
+
+públicas. Esto se alinea con las políticas públicas del Gobierno de Puerto Rico, que buscan
+promover la modernización tecnológica para mejorar la gestión y la rendición de cuentas.
+La actual Administración tiene como prioridad incluir elementos de IA a los fines
+de alcanzar una integración digital de los servicios ofrecidos por diferentes agencias para
+poder ofrecer una experiencia más fluida para los ciudadanos. Es por ello que la
+aplicación de IA para las subastas públicas se debe fundamentar en principios ya
+establecidos en la Ley 75-2019, y debe reconocer la innovación tecnológica, la integración
+de sistemas, y la transformación digital como ejes estratégicos para el desarrollo
+económico y la gobernanza efectiva en Puerto Rico.
+Además, esta herramienta contribuirá a consolidar la unificación digital del
+Gobierno, facilitando la interoperabilidad entre agencias y mejorando el acceso
+ciudadano a información veraz y oportuna, en apego a la Ley de Transparencia y Acceso
+a la Información Pública. Así mismo, la coordinación interagencial con la Administración
+de Servicios Generales asegurará la interoperabilidad administrativa y técnica necesaria
+para la exitosa implementación del sistema.
+El propósito de esta enmienda es incorporar el desarrollo y la implementación de
+una aplicación tecnológica basada en inteligencia artificial (IA), para el monitoreo
+eficiente, transparente y automatizado de los procesos de subasta pública en Puerto Rico,
+promoviendo así la integridad, la eficiencia y la fiscalización en dichos procesos conforme
+a las políticas públicas tecnológicas ya establecidas en la Ley 75-2019.
+Por todo lo anterior, esta Asamblea Legislativa entiende indispensable desarrollar
+y operar un sistema innovador basado en inteligencia artificial para el monitoreo de
+procesos de subasta pública, que fortifique la transparencia, la eficiencia y la confianza
+en la administración pública en Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+2
+
+1 Sección 1. - Se enmienda el Artículo 6 de la Ley 75-2019, según enmendada,
+2 conocida como “Ley de la Puerto Rico Innovation and Technology Service” para que se
+3 lea como sigue:
+4 “Artículo 6. — Funciones, facultades y deberes de la Puerto Rico Innovation and
+5 Technology Service y del Principal Ejecutivo de Innovación e Información del Gobierno
+6 (PEII).
+7 a) Ser la Oficina de la Rama Ejecutiva encargada de implantar, desarrollar y
+8 coordinar la política pública del Gobierno sobre la innovación, información y
+9 tecnología;
+10 …
+11 …
+12 …
+13 …
+14 (f) Implementar sistemas de rendición de cuentas que propicien el mejoramiento
+15 continuo y la innovación mediante la alineación de la organización a las
+16 expectativas y metas. Estos sistemas, a su vez, deben contribuir a la utilización
+17 más eficiente de los recursos gubernamentales y a la transparencia en la gestión
+18 gubernamental. Además, será responsable de desarrollar, implementar y supervisar
+19 una plataforma digital avanzada basada en inteligencia artificial para el monitoreo
+20 transparente y en tiempo real de todos los procesos de subasta pública bajo la jurisdicción
+21 del Gobierno de Puerto Rico, garantizando la detección de irregularidades, la
+22 optimización administrativa y el acceso público a información. Es condición
+
+1 indispensable que la aplicación cumpla con los más altos estándares de seguridad
+2 informática y protección de datos personales, para garantizar la integridad y
+3 confidencialidad de la información gestionada. Para el ejercicio de estas facultades, las
+4 siguientes agencias vendrán obligadas a trabajar en coordinación con PRITS: Oficina del
+5 Inspector General; la Administración de Servicios Generales; la Oficina de Ética
+6 Gubernamental, y cualquier otra agencia pertinente para garantizar que la aplicación
+7 cumpla con los requisitos legales y de transparencia necesarios;
+8 …
+9 …
+10 Sección 2.— Informe Anual.
+11 La Puerto Rico Innovation and Technology Service incluirá en su informe
+12 anual a la Asamblea Legislativa, un resumen detallado sobre el funcionamiento,
+13 resultados, obstáculos y recomendaciones relacionados con la aplicación y uso de
+14 inteligencia artificial en el monitoreo de procesos de subasta pública. Este informe
+15 se presentará anualmente, no más tarde del 30 de junio de todo año.
+16 Sección 3.—Vigencia.
+17 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED:   A 3  arL   i a ( p e m e t y i l a d h t q p e m e t r y c c a a d l p C e s l I e o c p d p a d y g l c e d l e d l s]
+[DELETED:  o u e m f p l c.E p e q l d I p l s p s d f e p y s y l t d c e e p e d e h c a c l u d d f l i e a y m e a a t b e i a ( p e m i p]
+[DELETED:   1 - S e e A 6 d l L 7 s e S l O d l R E e d i d y l p p d G s l i i y y l i m l a d l o a l . u p d a b e i a p e m t d G d P R g l d d i l o a y e a p a i E c]
+[DELETED:   i q l a c c l m a e d s i y p d d p p g l i y c s I G l A d S G l O d É G csE]

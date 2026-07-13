@@ -1,0 +1,603 @@
+Title: Para enmendar los Artículos 567, 570, 573 y 578, y añadir nuevos Artículos 579-A,
+Official Title: Para enmendar los Artículos 567, 570, 573 y 578, y añadir nuevos Artículos 579-A,
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1267
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+579-B, 579-C, 579-D, 579-E y 579-F a la Ley Núm. 55-2020, según enmendada, conocida
+como “Código Civil de Puerto Rico”, a los fines de reconocer expresamente la filiación
+por voluntad procreativa en casos de reproducción humana asistida; regular los efectos
+filiatorios del consentimiento previo, libre, informado y por escrito; disponer que la
+donación de gametos o embriones no genera filiación por sí sola; armonizar las normas
+de impugnación de maternidad y paternidad con los acuerdos de gestación por
+subrogación; regular la corrección del certificado de nacimiento; proteger la
+confidencialidad de la información médica, genética, judicial y registral; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El derecho de filiación constituye una de las instituciones más sensibles y
+trascendentales del ordenamiento civil, pues define el vínculo jurídico entre una persona
+menor de edad y quienes asumen, frente al Estado y frente a la sociedad, los derechos,
+deberes y responsabilidades inherentes a la maternidad, paternidad o progenitura. La
+filiación no solo determina aspectos de identidad personal, nombre, patria potestad,
+custodia, alimentos y derechos sucesorios, sino que también provee estabilidad
+emocional, familiar, patrimonial y jurídica desde el nacimiento.
+2
+Históricamente, el derecho de filiación descansó principalmente sobre
+presupuestos biológicos, gestacionales o presuntivos. La maternidad se vinculaba al
+parto; la paternidad se presumía dentro de determinados contextos familiares; y la
+filiación podía establecerse mediante reconocimiento voluntario, presunciones legales,
+impugnación o determinación judicial. Sin embargo, los avances de la ciencia médica,
+particularmente las técnicas de reproducción humana asistida, han transformado
+profundamente las formas en que puede concebirse y gestarse una persona.
+Hoy pueden intervenir en un mismo proceso reproductivo la persona que aporta
+material genético, la persona que gesta, la persona que consiente asumir la filiación
+jurídica, una persona donante de gametos o embriones, y profesionales médicos que
+viabilizan el procedimiento. Esa realidad exige que el Código Civil reconozca, de manera
+expresa y sistemática, que en los casos de reproducción humana asistida la filiación no
+siempre puede determinarse exclusivamente por el parto, por el vínculo genético o por
+las presunciones tradicionales de maternidad y paternidad.
+En estos escenarios, el elemento jurídico decisivo debe ser la voluntad procreativa,
+entendida como el consentimiento previo, libre, informado, expreso y por escrito de la
+persona o personas que deciden iniciar un proyecto parental y asumir, desde antes del
+procedimiento reproductivo, todos los derechos y obligaciones filiatorias respecto al
+menor que nazca. La voluntad procreativa no es una ficción jurídica ni una renuncia al
+principio de verdad filiatoria. Es el reconocimiento de que, en la reproducción humana
+asistida, la intención parental previa y válidamente consentida es el elemento que permite
+identificar a quienes decidieron traer al menor al mundo y asumir su crianza, cuidado,
+protección, manutención, representación y estabilidad familiar.
+Por ello, cuando existe consentimiento procreativo válido, la filiación debe quedar
+determinada por dicha voluntad, sin que la ausencia de vínculo genético, la utilización
+de gametos o embriones donados, o la intervención de una persona gestante sin vínculo
+genético puedan utilizarse posteriormente para desestabilizar la filiación del menor. El
+Código Civil de Puerto Rico de 2020 dio un paso importante al reconocer la maternidad
+subrogada como excepción a la regla general de que el parto determina la maternidad.
+3
+También incorporó referencias a la madre intencional subrogada y al padre intencional o
+comitente en disposiciones relativas a la impugnación de maternidad y paternidad.
+No obstante, esas referencias son parciales y no constituyen un régimen completo
+de filiación por reproducción humana asistida. El Código no define la voluntad
+procreativa como fuente filiatoria, no regula los efectos jurídicos del consentimiento, no
+establece con claridad la ausencia de vínculo filiatorio de los donantes de gametos o
+embriones, no limita adecuadamente las impugnaciones incompatibles con un
+consentimiento válido, y no provee reglas suficientes para armonizar la filiación civil con
+la inscripción registral de nacimientos derivados de estas técnicas.
+La falta de claridad legislativa puede generar consecuencias graves. Un menor
+nacido mediante reproducción humana asistida puede enfrentar incertidumbre sobre
+quiénes son sus progenitores legales. Las personas que consintieron el procedimiento
+pueden verse expuestas a litigios posteriores por impugnación, retractación o
+controversias sobre vínculo genético. La persona donante de gametos o embriones puede
+quedar indebidamente expuesta a reclamaciones filiatorias o, por el contrario, intentar
+reclamar derechos que nunca formaron parte del acuerdo reproductivo. La persona
+gestante que no aportó material genético puede quedar vinculada registral o
+jurídicamente a un menor cuya filiación debía corresponder a quienes prestaron voluntad
+procreativa.
+El Registro Demográfico puede enfrentar solicitudes inconsistentes, y los
+tribunales pueden verse obligados a resolver caso a caso controversias que el legislador
+puede atender mediante normas claras. En materia de filiación, la incertidumbre no es un
+problema menor. La ausencia de reglas claras afecta directamente el mejor bienestar del
+menor, pues puede retrasar la inscripción de nacimiento, dificultar el acceso a servicios
+médicos, beneficios, seguros, alimentos, custodia, autoridad decisional, patria potestad y
+derechos sucesorios. También puede provocar que la identidad jurídica del menor
+dependa de procedimientos judiciales prolongados, cuando el ordenamiento debe
+procurar estabilidad desde el nacimiento.
+4
+Por ello, esta Asamblea Legislativa entiende necesario incorporar al Código Civil
+una normativa expresa sobre filiación por reproducción humana asistida, centrada en la
+voluntad procreativa y en el consentimiento informado. Esta medida reconoce que la
+filiación derivada de técnicas de reproducción humana asistida debe producir los mismos
+efectos jurídicos que cualquier otra filiación reconocida por el ordenamiento, incluyendo
+patria potestad, custodia, alimentos, derechos sucesorios, deberes de crianza,
+representación legal y todos los derechos y responsabilidades inherentes al vínculo
+filiatorio.
+La medida también dispone que la donación de gametos o embriones no genera,
+por sí sola, vínculo filiatorio entre la persona donante y el menor nacido mediante
+técnicas de reproducción humana asistida. Esta regla es indispensable para proteger la
+seguridad jurídica del menor, de las personas progenitoras intencionales y de los
+donantes. Quien dona material genético sin voluntad procreativa no asume derechos ni
+deberes de maternidad, paternidad, progenitura, patria potestad, alimentos, custodia o
+sucesión respecto al menor. A su vez, quien presta voluntad procreativa válida no puede
+eludir posteriormente sus responsabilidades filiatorias alegando ausencia de vínculo
+genético.
+Asimismo, esta Ley armoniza las reglas de impugnación de maternidad y
+paternidad con la reproducción humana asistida. Las acciones de impugnación cumplen
+una función importante en el derecho civil, pero no pueden utilizarse para deshacer una
+filiación fundada en consentimiento procreacional válido, salvo en circunstancias
+excepcionales como fraude, coacción, incapacidad, falsificación, ausencia de
+consentimiento o incumplimiento de formalidades esenciales. Permitir impugnaciones
+amplias por falta de vínculo genético, luego de un consentimiento válido, colocaría al
+menor en una situación de vulnerabilidad jurídica incompatible con su mejor bienestar.
+La Ley también atiende la gestación por subrogación gestacional desde la perspectiva del
+Código Civil.
+En estos casos, cuando la persona gestante no aporta material genético y existe un
+acuerdo válido conforme a ley especial, la filiación jurídica debe corresponder desde el
+5
+nacimiento a la persona o personas progenitoras intencionales. La persona gestante no
+debe ser considerada madre jurídica por el solo hecho del parto cuando, desde antes del
+procedimiento, no existió intención de asumir filiación y el acuerdo cumplió con las
+salvaguardas legales correspondientes.
+Esta legislación no pretende deshumanizar la gestación ni reducir la filiación a un
+acto contractual. Por el contrario, reconoce que los acuerdos reproductivos requieren
+consentimiento informado, garantías legales, protección médica, confidencialidad y
+supervisión conforme al mejor bienestar del menor. La voluntad procreacional solo
+tendrá efectos filiatorios cuando sea previa, libre, informada, expresa y por escrito, y
+cuando cumpla con los requisitos del Código Civil y las leyes especiales aplicables.
+De igual forma, esta Ley protege la confidencialidad de la información médica,
+genética, judicial, contractual y registral relacionada con la reproducción humana asistida
+y la gestación por subrogación. La forma en que una persona fue concebida o gestada no
+debe constar en el certificado público de nacimiento ni exponerse innecesariamente a
+terceros. La protección de dicha información responde a principios de intimidad,
+dignidad, identidad personal y mejor bienestar del menor, sin perjuicio de que un
+tribunal pueda autorizar acceso cuando exista justa causa y ello sea compatible con los
+derechos de la persona nacida.
+Al adoptar estas enmiendas, Puerto Rico fortalece su derecho de familia, reduce
+lagunas interpretativas, promueve uniformidad judicial, protege la estabilidad filiatoria
+y reconoce las realidades contemporáneas de la reproducción humana asistida. Esta Ley
+no altera las normas generales de filiación cuando se trate de concepción natural,
+adopción o reconocimiento voluntario ordinario. Su propósito es complementar el
+Código Civil para atender aquellos supuestos en los cuales la filiación surge de un
+proyecto parental asistido por la ciencia médica y fundado en consentimiento procreativo
+válido.
+En consecuencia, esta Asamblea Legislativa declara que el mejor bienestar del
+menor, la seguridad jurídica, la estabilidad familiar, la dignidad humana, la autonomía
+reproductiva, la confidencialidad y la responsabilidad parental exigen que el Código
+6
+Civil reconozca expresamente la filiación por voluntad procreativa en los casos de
+reproducción humana asistida y gestación por subrogación gestacional. Con esta medida,
+se provee un marco civil claro, moderno y coherente para que la filiación de estos
+menores no dependa de vacíos normativos, sino de reglas legislativas precisas orientadas
+a proteger su identidad, sus derechos y su estabilidad desde el nacimiento.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 567 de la Ley Núm. 55-2020, según
+2 enmendada, para que lea como sigue:
+3 Artículo 567. — Presunción de maternidad.
+4 El parto determina la maternidad, excepto en casos de maternidad subrogada o
+5 gestación por subrogación gestacional válidamente acordada conforme a ley, en los cuales la
+6 mujer gestante o persona gestante no tiene vínculo genético alguno con el hijo que se
+7 desprende de su vientre y desde un principio su intención original fue llevar el embarazo
+8 a término para otra persona.
+9 En los casos de reproducción humana asistida o gestación por subrogación gestacional, la
+10 filiación se determinará conforme a la voluntad procreativa previa, libre, informada, expresa y por
+11 escrito, siempre que dicha voluntad cumpla con los requisitos establecidos en este Código y en las
+12 leyes especiales aplicables.
+13 Sección 2. Se enmienda el Artículo 570 de la Ley Núm. 55-2020, según enmendada,
+14 para que lea como sigue:
+15 Artículo 570. — Impugnación de la maternidad.
+7
+1 La maternidad de un hijo puede impugnarse únicamente si se prueba que hubo
+2 simulación del parto, sustitución del hijo durante el alumbramiento o después de él, o
+3 por acuerdo de maternidad subrogada o gestación por subrogación gestacional válidamente
+4 otorgado conforme a ley.
+5 Solo tienen acción legitimada para impugnarla:
+6 (a) la presunta progenitora;
+7 (b) la madre biológica;
+8 (c) el hijo, por sí mismo, si es mayor de edad, o por su representante legal o
+9 defensor judicial, si no ha alcanzado su mayoría de edad o si es incapaz;
+10 (d) la madre intencional subrogada o la persona progenitora intencional; y
+11 (e) el presunto padre.
+12 Si la mujer a quien se imputa el hijo inicia la acción de impugnación, debe
+13 nombrarse un defensor judicial al hijo para que lo represente en el proceso.
+14 Cuando exista consentimiento procreativo válido, previo, libre, informado y por escrito, no
+15 procederá la impugnación de la filiación por la sola ausencia de vínculo genético, por el uso de
+16 gametos o embriones donados, o por la participación de una persona gestante que no aportó
+17 material genético, salvo que se alegue y pruebe fraude, coacción, incapacidad, falsificación,
+18 ausencia de consentimiento o incumplimiento de formalidades esenciales.
+19 Sección 3. — Se enmienda el Artículo 573 de la Ley Núm. 55-2020, según
+20 enmendada, para que lea como sigue:
+21 Artículo 573. — Legitimados para impugnar la paternidad presunta.
+8
+1 La paternidad presunta puede ser impugnada en una acción principal o en una
+2 acción subsidiaria de la acción filiatoria por:
+3 (a) el presunto padre;
+4 (b) la madre;
+5 (c) el hijo, por sí, si es mayor de edad, o por su representante legal o defensor
+6 judicial, si no ha alcanzado su mayoridad o si es incapaz;
+7 (d) el padre por vínculo genético; y
+8 (e) el padre intencional o comitente o cualquier persona progenitora intencional que
+9 haya prestado consentimiento procreativo válido conforme a este Código o a una ley especial.
+10 Si el hijo es menor de edad a la fecha en que se incoa la acción, debe nombrársele
+11 un defensor judicial para que lo represente en el proceso.
+12 La existencia de consentimiento procreativo válido limitará la impugnación de la filiación
+13 a los casos de fraude, coacción, incapacidad, falsificación, falta de consentimiento, incumplimiento
+14 de formalidades esenciales o nulidad declarada por tribunal competente.
+15 Sección 4. Se enmienda el Artículo 578 de la Ley Núm. 55-2020, según enmendada,
+16 para que lea como sigue:
+17 Artículo 578. — Corrección del certificado de nacimiento.
+18 El tribunal ordenará la corrección de los datos inscritos en el certificado de
+19 nacimiento del hijo luego de rebatida la presunción de paternidad o de maternidad o
+20 luego de anulado el reconocimiento voluntario.
+21 En los casos de reproducción humana asistida o gestación por subrogación gestacional, el
+22 tribunal podrá ordenar la inscripción o corrección del certificado de nacimiento conforme a la
+9
+1 voluntad procreativa válida, al acuerdo aprobado conforme a ley, a la orden judicial prenatal o a la
+2 determinación judicial de filiación que corresponda. El certificado de nacimiento público no hará
+3 constar las circunstancias de la reproducción asistida, la donación de gametos o embriones, ni la
+4 gestación por subrogación, salvo disposición expresa de ley u orden judicial fundada en el mejor
+5 bienestar del menor.
+6 Sección 5. Se añade un nuevo Artículo 579-A a la Ley Núm. 55-2020, según
+7 enmendada, para que lea como sigue:
+8 Artículo 579-A. — Filiación por reproducción humana asistida.
+9 La filiación de una persona nacida mediante técnicas de reproducción humana asistida se
+10 determinará por la voluntad procreativa previa, libre, informada, expresa y por escrito de la
+11 persona o personas que consintieron asumir la maternidad, paternidad o filiación jurídica del
+12 menor.
+13 La voluntad procreativa válidamente otorgada producirá los mismos efectos jurídicos que
+14 la filiación por naturaleza, incluyendo patria potestad, custodia, alimentos, derechos sucesorios,
+15 deberes de crianza y todos los derechos y obligaciones inherentes a la relación filiatoria.
+16 Sección 6. Se añade un nuevo Artículo 579-B a la Ley Núm. 55-2020, según
+17 enmendada, para que lea como sigue:
+18 Artículo 579-B. — Consentimiento procreativo.
+19 El consentimiento procreativo deberá ser previo a la transferencia embrionaria,
+20 inseminación o procedimiento reproductivo correspondiente; constar por escrito; ser libre,
+21 informado, expreso e inequívoco; e identificar a la persona o personas que asumirán la filiación
+22 jurídica del menor.
+10
+1 Una vez iniciado el procedimiento reproductivo mediante la transferencia embrionaria,
+2 inseminación o acto médico equivalente, el consentimiento procreativo solo podrá ser impugnado
+3 por fraude, coacción, incapacidad, falsificación, ausencia de consentimiento o incumplimiento de
+4 formalidades esenciales.
+5 Sección 7. Se añade un nuevo Artículo 579-C a la Ley Núm. 55-2020, según
+6 enmendada, para que lea como sigue:
+7 Artículo 579-C. — Donación de gametos o embriones.
+8 La donación de gametos o embriones no genera vínculo filiatorio entre la persona donante
+9 y el menor nacido mediante técnicas de reproducción humana asistida, salvo que medie voluntad
+10 procreativa expresa y válida conforme a este Código.
+11 La persona donante no tendrá derechos ni obligaciones de patria potestad, custodia,
+12 alimentos, sucesión o relación filiatoria respecto al menor por el solo hecho de la donación.
+13 Sección 8. Se añade un nuevo Artículo 579-D a la Ley Núm. 55-2020, según
+14 enmendada, para que lea como sigue:
+15 Artículo 579-D. — Gestación por subrogación gestacional.
+16 En los casos de gestación por subrogación gestacional válidamente acordada conforme a ley
+17 especial, la filiación jurídica corresponderá a la persona o personas progenitoras intencionales
+18 desde el nacimiento del menor. La persona gestante que no aportó material genético no será
+19 considerada madre jurídica del menor, salvo que un tribunal declare la nulidad del acuerdo y
+20 determine otra cosa conforme al mejor bienestar del menor.
+21 Sección 9. Se añade un nuevo Artículo 579-E a la Ley Núm. 55-2020, según
+22 enmendada, para que lea como sigue:
+11
+1 Artículo 579-E. — Mejor bienestar del menor.
+2 Toda controversia relacionada con filiación por reproducción humana asistida o gestación
+3 por subrogación se resolverá conforme al mejor bienestar del menor, la dignidad de las personas
+4 involucradas, la estabilidad filiatoria, la seguridad jurídica y la protección de la identidad personal.
+5 Sección 10. Se añade un nuevo Artículo 579-F a la Ley Núm. 55-2020, según
+6 enmendada, para que lea como sigue:
+7 Artículo 579-F. — Confidencialidad.
+8 Los expedientes médicos, judiciales, contractuales y registrales relacionados con técnicas
+9 de reproducción humana asistida o gestación por subrogación serán confidenciales, salvo
+10 autorización expresa de ley, consentimiento escrito de las partes con derecho a ello u orden judicial
+11 fundada en justa causa y en el mejor bienestar del menor.
+12 Sección 11. — Cláusula de separabilidad.
+13 Si cualquier cláusula, párrafo, subpárrafo, inciso, artículo o parte de esta Ley fuere
+14 declarada nula, inconstitucional o inválida por un tribunal con jurisdicción competente,
+15 la sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las demás
+16 disposiciones de esta Ley, las cuales permanecerán en pleno vigor y efecto.
+17 Sección 12. — Vigencia.
+18 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A   3 .r L r d c p l i y p e d q l i d m y p c l a d g p r l c d c d n p l d d f c u d l i m s y n s d a d i p n p p a y d s s q t p e]
+[DELETED:  e d d f d p s b g o p L m s v a l p s p d d d c f y l l t d r h a h t g l p q g l p q c a l f d r t l d y o f r a]
+[DELETED:  f p r h a E C n d l v n l a l i i c u m r h a p e i s v e a l p p i r o d q n f p d a r L p q n a m g p q v r o R D p e s i y l s T p p q l i j d m d p j p c e o d]
+[DELETED:  p c a d s d d c l y t l d y r i a v s s v f e l p d y e m n m j d m d l p p i y d l p s r f a a d v e L a l r d i d m y f e c p v s e c c f c i f a d]
+[DELETED:  n e i d a f y e a c c l i g l p m c y c a m b d m L v p s L p d d i r a p d i i p y m b d m s p d q u a l n g d f c s t d c n o r v o S p e c e C p a a s e l c l f s d u c e A L d q e m b d p]
+[DELETED:  r e l f p v p e l c d p u m c c m y c p q l f d e 1 — S e e A 5 d l L N 5 s o g E f e l]
+[DELETED:  o o e h p s m s e m d e o p s r l l o l m a q s i e h i l a d i d C p g o e d o p l p d u p g q n a m g s q s a y p f c i f a 3 — S e e A 5 d l L N 5 s]
+[DELETED:  o h L a d t o l c d l d i e e c d E t]
+[DELETED:  v d c g b 5 S a u n A 5 a l L N 5 s A L d p l v p p l i e y p e d l p m L l d 6 S a u n A 5 a l L N 5 s A E c p d s p a l t e i o p r c c p e s l i j]
+[DELETED:  U i p f 7 S a u n A 5 a l L N 5 s A L y p L p d n t d n o d p p c a 8 S a u n A 5 a l L N 5 s A E e d e n d m L p g q n a m g n s c d 9 S a u n A 5 a l L N 5 s]
+[DELETED:  A T p i 1 S a u n A 5 a l L N 5 s A L d r h a o g p s s c s a f s d a t e n a p n i l d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1267
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 567, 570, 573 y 578, y añadir nuevos Artículos 579-A,
+579-B, 579-C, 579-D, 579-E y 579-F a la Ley Núm. 55-2020, según enmendada, conocida
+como “Código Civil de Puerto Rico”, a los fines de reconocer expresamente la filiación
+por voluntad procreativa en casos de reproducción humana asistida; regular los efectos
+filiatorios del consentimiento previo, libre, informado y por escrito; disponer que la
+donación de gametos o embriones no genera filiación por sí sola; armonizar las normas
+de impugnación de maternidad y paternidad con los acuerdos de gestación por
+subrogación; regular la corrección del certificado de nacimiento; proteger la
+confidencialidad de la información médica, genética, judicial y registral; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El derecho de filiación constituye una de las instituciones más sensibles y
+trascendentales del ordenamiento civil, pues define el vínculo jurídico entre una persona
+menor de edad y quienes asumen, frente al Estado y frente a la sociedad, los derechos,
+deberes y responsabilidades inherentes a la maternidad, paternidad o progenitura. La
+filiación no solo determina aspectos de identidad personal, nombre, patria potestad,
+custodia, alimentos y derechos sucesorios, sino que también provee estabilidad
+emocional, familiar, patrimonial y jurídica desde el nacimiento.
+
+2
+Históricamente, el derecho de filiación descansó principalmente sobre
+presupuestos biológicos, gestacionales o presuntivos. La maternidad se vinculaba al
+parto; la paternidad se presumía dentro de determinados contextos familiares; y la
+filiación podía establecerse mediante reconocimiento voluntario, presunciones legales,
+impugnación o determinación judicial. Sin embargo, los avances de la ciencia médica,
+particularmente las técnicas de reproducción humana asistida, han transformado
+profundamente las formas en que puede concebirse y gestarse una persona.
+Hoy pueden intervenir en un mismo proceso reproductivo la persona que aporta
+material genético, la persona que gesta, la persona que consiente asumir la filiación
+jurídica, una persona donante de gametos o embriones, y profesionales médicos que
+viabilizan el procedimiento. Esa realidad exige que el Código Civil reconozca, de manera
+expresa y sistemática, que en los casos de reproducción humana asistida la filiación no
+siempre puede determinarse exclusivamente por el parto, por el vínculo genético o por
+las presunciones tradicionales de maternidad y paternidad.
+En estos escenarios, el elemento jurídico decisivo debe ser la voluntad procreativa,
+entendida como el consentimiento previo, libre, informado, expreso y por escrito de la
+persona o personas que deciden iniciar un proyecto parental y asumir, desde antes del
+procedimiento reproductivo, todos los derechos y obligaciones filiatorias respecto al
+menor que nazca. La voluntad procreativa no es una ficción jurídica ni una renuncia al
+principio de verdad filiatoria. Es el reconocimiento de que, en la reproducción humana
+asistida, la intención parental previa y válidamente consentida es el elemento que permite
+identificar a quienes decidieron traer al menor al mundo y asumir su crianza, cuidado,
+protección, manutención, representación y estabilidad familiar.
+Por ello, cuando existe consentimiento procreativo válido, la filiación debe quedar
+determinada por dicha voluntad, sin que la ausencia de vínculo genético, la utilización
+de gametos o embriones donados, o la intervención de una persona gestante sin vínculo
+genético puedan utilizarse posteriormente para desestabilizar la filiación del menor. El
+Código Civil de Puerto Rico de 2020 dio un paso importante al reconocer la maternidad
+subrogada como excepción a la regla general de que el parto determina la maternidad.
+
+3
+También incorporó referencias a la madre intencional subrogada y al padre intencional o
+comitente en disposiciones relativas a la impugnación de maternidad y paternidad.
+No obstante, esas referencias son parciales y no constituyen un régimen completo
+de filiación por reproducción humana asistida. El Código no define la voluntad
+procreativa como fuente filiatoria, no regula los efectos jurídicos del consentimiento, no
+establece con claridad la ausencia de vínculo filiatorio de los donantes de gametos o
+embriones, no limita adecuadamente las impugnaciones incompatibles con un
+consentimiento válido, y no provee reglas suficientes para armonizar la filiación civil con
+la inscripción registral de nacimientos derivados de estas técnicas.
+La falta de claridad legislativa puede generar consecuencias graves. Un menor
+nacido mediante reproducción humana asistida puede enfrentar incertidumbre sobre
+quiénes son sus progenitores legales. Las personas que consintieron el procedimiento
+pueden verse expuestas a litigios posteriores por impugnación, retractación o
+controversias sobre vínculo genético. La persona donante de gametos o embriones puede
+quedar indebidamente expuesta a reclamaciones filiatorias o, por el contrario, intentar
+reclamar derechos que nunca formaron parte del acuerdo reproductivo. La persona
+gestante que no aportó material genético puede quedar vinculada registral o
+jurídicamente a un menor cuya filiación debía corresponder a quienes prestaron voluntad
+procreativa.
+El Registro Demográfico puede enfrentar solicitudes inconsistentes, y los
+tribunales pueden verse obligados a resolver caso a caso controversias que el legislador
+puede atender mediante normas claras. En materia de filiación, la incertidumbre no es un
+problema menor. La ausencia de reglas claras afecta directamente el mejor bienestar del
+menor, pues puede retrasar la inscripción de nacimiento, dificultar el acceso a servicios
+médicos, beneficios, seguros, alimentos, custodia, autoridad decisional, patria potestad y
+derechos sucesorios. También puede provocar que la identidad jurídica del menor
+dependa de procedimientos judiciales prolongados, cuando el ordenamiento debe
+procurar estabilidad desde el nacimiento.
+
+4
+Por ello, esta Asamblea Legislativa entiende necesario incorporar al Código Civil
+una normativa expresa sobre filiación por reproducción humana asistida, centrada en la
+voluntad procreativa y en el consentimiento informado. Esta medida reconoce que la
+filiación derivada de técnicas de reproducción humana asistida debe producir los mismos
+efectos jurídicos que cualquier otra filiación reconocida por el ordenamiento, incluyendo
+patria potestad, custodia, alimentos, derechos sucesorios, deberes de crianza,
+representación legal y todos los derechos y responsabilidades inherentes al vínculo
+filiatorio.
+La medida también dispone que la donación de gametos o embriones no genera,
+por sí sola, vínculo filiatorio entre la persona donante y el menor nacido mediante
+técnicas de reproducción humana asistida. Esta regla es indispensable para proteger la
+seguridad jurídica del menor, de las personas progenitoras intencionales y de los
+donantes. Quien dona material genético sin voluntad procreativa no asume derechos ni
+deberes de maternidad, paternidad, progenitura, patria potestad, alimentos, custodia o
+sucesión respecto al menor. A su vez, quien presta voluntad procreativa válida no puede
+eludir posteriormente sus responsabilidades filiatorias alegando ausencia de vínculo
+genético.
+Asimismo, esta Ley armoniza las reglas de impugnación de maternidad y
+paternidad con la reproducción humana asistida. Las acciones de impugnación cumplen
+una función importante en el derecho civil, pero no pueden utilizarse para deshacer una
+filiación fundada en consentimiento procreacional válido, salvo en circunstancias
+excepcionales como fraude, coacción, incapacidad, falsificación, ausencia de
+consentimiento o incumplimiento de formalidades esenciales. Permitir impugnaciones
+amplias por falta de vínculo genético, luego de un consentimiento válido, colocaría al
+menor en una situación de vulnerabilidad jurídica incompatible con su mejor bienestar.
+La Ley también atiende la gestación por subrogación gestacional desde la perspectiva del
+Código Civil.
+En estos casos, cuando la persona gestante no aporta material genético y existe un
+acuerdo válido conforme a ley especial, la filiación jurídica debe corresponder desde el
+
+5
+nacimiento a la persona o personas progenitoras intencionales. La persona gestante no
+debe ser considerada madre jurídica por el solo hecho del parto cuando, desde antes del
+procedimiento, no existió intención de asumir filiación y el acuerdo cumplió con las
+salvaguardas legales correspondientes.
+Esta legislación no pretende deshumanizar la gestación ni reducir la filiación a un
+acto contractual. Por el contrario, reconoce que los acuerdos reproductivos requieren
+consentimiento informado, garantías legales, protección médica, confidencialidad y
+supervisión conforme al mejor bienestar del menor. La voluntad procreacional solo
+tendrá efectos filiatorios cuando sea previa, libre, informada, expresa y por escrito, y
+cuando cumpla con los requisitos del Código Civil y las leyes especiales aplicables.
+De igual forma, esta Ley protege la confidencialidad de la información médica,
+genética, judicial, contractual y registral relacionada con la reproducción humana asistida
+y la gestación por subrogación. La forma en que una persona fue concebida o gestada no
+debe constar en el certificado público de nacimiento ni exponerse innecesariamente a
+terceros. La protección de dicha información responde a principios de intimidad,
+dignidad, identidad personal y mejor bienestar del menor, sin perjuicio de que un
+tribunal pueda autorizar acceso cuando exista justa causa y ello sea compatible con los
+derechos de la persona nacida.
+Al adoptar estas enmiendas, Puerto Rico fortalece su derecho de familia, reduce
+lagunas interpretativas, promueve uniformidad judicial, protege la estabilidad filiatoria
+y reconoce las realidades contemporáneas de la reproducción humana asistida. Esta Ley
+no altera las normas generales de filiación cuando se trate de concepción natural,
+adopción o reconocimiento voluntario ordinario. Su propósito es complementar el
+Código Civil para atender aquellos supuestos en los cuales la filiación surge de un
+proyecto parental asistido por la ciencia médica y fundado en consentimiento procreativo
+válido.
+En consecuencia, esta Asamblea Legislativa declara que el mejor bienestar del
+menor, la seguridad jurídica, la estabilidad familiar, la dignidad humana, la autonomía
+reproductiva, la confidencialidad y la responsabilidad parental exigen que el Código
+
+6
+Civil reconozca expresamente la filiación por voluntad procreativa en los casos de
+reproducción humana asistida y gestación por subrogación gestacional. Con esta medida,
+se provee un marco civil claro, moderno y coherente para que la filiación de estos
+menores no dependa de vacíos normativos, sino de reglas legislativas precisas orientadas
+a proteger su identidad, sus derechos y su estabilidad desde el nacimiento.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda el Artículo 567 de la Ley Núm. 55-2020, según
+2 enmendada, para que lea como sigue:
+3 Artículo 567. — Presunción de maternidad.
+4 El parto determina la maternidad, excepto en casos de maternidad subrogada o
+5 gestación por subrogación gestacional válidamente acordada conforme a ley, en los cuales la
+6 mujer gestante o persona gestante no tiene vínculo genético alguno con el hijo que se
+7 desprende de su vientre y desde un principio su intención original fue llevar el embarazo
+8 a término para otra persona.
+9 En los casos de reproducción humana asistida o gestación por subrogación gestacional, la
+10 filiación se determinará conforme a la voluntad procreativa previa, libre, informada, expresa y por
+11 escrito, siempre que dicha voluntad cumpla con los requisitos establecidos en este Código y en las
+12 leyes especiales aplicables.
+13 Sección 2. Se enmienda el Artículo 570 de la Ley Núm. 55-2020, según enmendada,
+14 para que lea como sigue:
+15 Artículo 570. — Impugnación de la maternidad.
+
+7
+1 La maternidad de un hijo puede impugnarse únicamente si se prueba que hubo
+2 simulación del parto, sustitución del hijo durante el alumbramiento o después de él, o
+3 por acuerdo de maternidad subrogada o gestación por subrogación gestacional válidamente
+4 otorgado conforme a ley.
+5 Solo tienen acción legitimada para impugnarla:
+6 (a) la presunta progenitora;
+7 (b) la madre biológica;
+8 (c) el hijo, por sí mismo, si es mayor de edad, o por su representante legal o
+9 defensor judicial, si no ha alcanzado su mayoría de edad o si es incapaz;
+10 (d) la madre intencional subrogada o la persona progenitora intencional; y
+11 (e) el presunto padre.
+12 Si la mujer a quien se imputa el hijo inicia la acción de impugnación, debe
+13 nombrarse un defensor judicial al hijo para que lo represente en el proceso.
+14 Cuando exista consentimiento procreativo válido, previo, libre, informado y por escrito, no
+15 procederá la impugnación de la filiación por la sola ausencia de vínculo genético, por el uso de
+16 gametos o embriones donados, o por la participación de una persona gestante que no aportó
+17 material genético, salvo que se alegue y pruebe fraude, coacción, incapacidad, falsificación,
+18 ausencia de consentimiento o incumplimiento de formalidades esenciales.
+19 Sección 3. — Se enmienda el Artículo 573 de la Ley Núm. 55-2020, según
+20 enmendada, para que lea como sigue:
+21 Artículo 573. — Legitimados para impugnar la paternidad presunta.
+
+8
+1 La paternidad presunta puede ser impugnada en una acción principal o en una
+2 acción subsidiaria de la acción filiatoria por:
+3 (a) el presunto padre;
+4 (b) la madre;
+5 (c) el hijo, por sí, si es mayor de edad, o por su representante legal o defensor
+6 judicial, si no ha alcanzado su mayoridad o si es incapaz;
+7 (d) el padre por vínculo genético; y
+8 (e) el padre intencional o comitente o cualquier persona progenitora intencional que
+9 haya prestado consentimiento procreativo válido conforme a este Código o a una ley especial.
+10 Si el hijo es menor de edad a la fecha en que se incoa la acción, debe nombrársele
+11 un defensor judicial para que lo represente en el proceso.
+12 La existencia de consentimiento procreativo válido limitará la impugnación de la filiación
+13 a los casos de fraude, coacción, incapacidad, falsificación, falta de consentimiento, incumplimiento
+14 de formalidades esenciales o nulidad declarada por tribunal competente.
+15 Sección 4. Se enmienda el Artículo 578 de la Ley Núm. 55-2020, según enmendada,
+16 para que lea como sigue:
+17 Artículo 578. — Corrección del certificado de nacimiento.
+18 El tribunal ordenará la corrección de los datos inscritos en el certificado de
+19 nacimiento del hijo luego de rebatida la presunción de paternidad o de maternidad o
+20 luego de anulado el reconocimiento voluntario.
+21 En los casos de reproducción humana asistida o gestación por subrogación gestacional, el
+22 tribunal podrá ordenar la inscripción o corrección del certificado de nacimiento conforme a la
+
+9
+1 voluntad procreativa válida, al acuerdo aprobado conforme a ley, a la orden judicial prenatal o a la
+2 determinación judicial de filiación que corresponda. El certificado de nacimiento público no hará
+3 constar las circunstancias de la reproducción asistida, la donación de gametos o embriones, ni la
+4 gestación por subrogación, salvo disposición expresa de ley u orden judicial fundada en el mejor
+5 bienestar del menor.
+6 Sección 5. Se añade un nuevo Artículo 579-A a la Ley Núm. 55-2020, según
+7 enmendada, para que lea como sigue:
+8 Artículo 579-A. — Filiación por reproducción humana asistida.
+9 La filiación de una persona nacida mediante técnicas de reproducción humana asistida se
+10 determinará por la voluntad procreativa previa, libre, informada, expresa y por escrito de la
+11 persona o personas que consintieron asumir la maternidad, paternidad o filiación jurídica del
+12 menor.
+13 La voluntad procreativa válidamente otorgada producirá los mismos efectos jurídicos que
+14 la filiación por naturaleza, incluyendo patria potestad, custodia, alimentos, derechos sucesorios,
+15 deberes de crianza y todos los derechos y obligaciones inherentes a la relación filiatoria.
+16 Sección 6. Se añade un nuevo Artículo 579-B a la Ley Núm. 55-2020, según
+17 enmendada, para que lea como sigue:
+18 Artículo 579-B. — Consentimiento procreativo.
+19 El consentimiento procreativo deberá ser previo a la transferencia embrionaria,
+20 inseminación o procedimiento reproductivo correspondiente; constar por escrito; ser libre,
+21 informado, expreso e inequívoco; e identificar a la persona o personas que asumirán la filiación
+22 jurídica del menor.
+
+10
+1 Una vez iniciado el procedimiento reproductivo mediante la transferencia embrionaria,
+2 inseminación o acto médico equivalente, el consentimiento procreativo solo podrá ser impugnado
+3 por fraude, coacción, incapacidad, falsificación, ausencia de consentimiento o incumplimiento de
+4 formalidades esenciales.
+5 Sección 7. Se añade un nuevo Artículo 579-C a la Ley Núm. 55-2020, según
+6 enmendada, para que lea como sigue:
+7 Artículo 579-C. — Donación de gametos o embriones.
+8 La donación de gametos o embriones no genera vínculo filiatorio entre la persona donante
+9 y el menor nacido mediante técnicas de reproducción humana asistida, salvo que medie voluntad
+10 procreativa expresa y válida conforme a este Código.
+11 La persona donante no tendrá derechos ni obligaciones de patria potestad, custodia,
+12 alimentos, sucesión o relación filiatoria respecto al menor por el solo hecho de la donación.
+13 Sección 8. Se añade un nuevo Artículo 579-D a la Ley Núm. 55-2020, según
+14 enmendada, para que lea como sigue:
+15 Artículo 579-D. — Gestación por subrogación gestacional.
+16 En los casos de gestación por subrogación gestacional válidamente acordada conforme a ley
+17 especial, la filiación jurídica corresponderá a la persona o personas progenitoras intencionales
+18 desde el nacimiento del menor. La persona gestante que no aportó material genético no será
+19 considerada madre jurídica del menor, salvo que un tribunal declare la nulidad del acuerdo y
+20 determine otra cosa conforme al mejor bienestar del menor.
+21 Sección 9. Se añade un nuevo Artículo 579-E a la Ley Núm. 55-2020, según
+22 enmendada, para que lea como sigue:
+
+11
+1 Artículo 579-E. — Mejor bienestar del menor.
+2 Toda controversia relacionada con filiación por reproducción humana asistida o gestación
+3 por subrogación se resolverá conforme al mejor bienestar del menor, la dignidad de las personas
+4 involucradas, la estabilidad filiatoria, la seguridad jurídica y la protección de la identidad personal.
+5 Sección 10. Se añade un nuevo Artículo 579-F a la Ley Núm. 55-2020, según
+6 enmendada, para que lea como sigue:
+7 Artículo 579-F. — Confidencialidad.
+8 Los expedientes médicos, judiciales, contractuales y registrales relacionados con técnicas
+9 de reproducción humana asistida o gestación por subrogación serán confidenciales, salvo
+10 autorización expresa de ley, consentimiento escrito de las partes con derecho a ello u orden judicial
+11 fundada en justa causa y en el mejor bienestar del menor.
+12 Sección 11. — Cláusula de separabilidad.
+13 Si cualquier cláusula, párrafo, subpárrafo, inciso, artículo o parte de esta Ley fuere
+14 declarada nula, inconstitucional o inválida por un tribunal con jurisdicción competente,
+15 la sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las demás
+16 disposiciones de esta Ley, las cuales permanecerán en pleno vigor y efecto.
+17 Sección 12. — Vigencia.
+18 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 .r L r d c p l i y p e d q l i d m y p c l a d g p r l c d c d n p l d d f c u d l i m s y n s d a d i p n p p a y d s s q t p e]
+[DELETED:  e d d f d p s b g o p L m s v a l p s p d d d c f y l l t d r h a h t g l p q g l p q c a l f d r t l d y o f r a]
+[DELETED:  f p r h a E C n d l v n l a l i i c u m r h a p e i s v e a l p p i r o d q n f p d a r L p q n a m g p q v r o R D p e s i y l s T p p q l i j d m d p j p c e o d]
+[DELETED:  p c a d s d d c l y t l d y r i a v s s v f e l p d y e m n m j d m d l p p i y d l p s r f a a d v e L a l r d i d m y f e c p v s e c c f c i f a d]
+[DELETED:  n e i d a f y e a c c l i g l p m c y c a m b d m L v p s L p d d i r a p d i i p y m b d m s p d q u a l n g d f c s t d c n o r v o S p e c e C p a a s e l c l f s d u c e A L d q e m b d p]
+[DELETED:  r e l f p v p e l c d p u m c c m y c p q l f d e 1 — S e e A 5 d l L N 5 s o g E f e l]
+[DELETED:  o o e h p s m s e m d e o p s r l l o l m a q s i e h i l a d i d C p g o e d o p l p d u p g q n a m g s q s a y p f c i f a 3 — S e e A 5 d l L N 5 s]
+[DELETED:  o h L a d t o l c d l d i e e c d E t]
+[DELETED:  v d c g b 5 S a u n A 5 a l L N 5 s A L d p l v p p l i e y p e d l p m L l d 6 S a u n A 5 a l L N 5 s A E c p d s p a l t e i o p r c c p e s l i j]
+[DELETED:  U i p f 7 S a u n A 5 a l L N 5 s A L y p L p d n t d n o d p p c a 8 S a u n A 5 a l L N 5 s A E e d e n d m L p g q n a m g n s c d 9 S a u n A 5 a l L N 5 s]
+[DELETED:  A T p i 1 S a u n A 5 a l L N 5 s A L d r h a o g p s s c s a f s d a t e n a p n i l d]

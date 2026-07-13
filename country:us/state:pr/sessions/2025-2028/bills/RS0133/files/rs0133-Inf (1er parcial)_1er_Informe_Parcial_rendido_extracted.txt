@@ -1,0 +1,703 @@
+Title: La comisi6n de Gencia, Tecnologla e Inteligmcia Artificial del senado de puerto
+Official Title: La comisi6n de Gencia, Tecnologla e Inteligmcia Artificial del senado de puerto
+Number of Sections: 1
+Source: versions - 1er Informe Parcial rendido
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+ORIGINAL
+GOBIERNO DE PUERTO RICO
+2@* Asamblea F
+Sesi6n
+Legislativa
+Ordinaria
+SENADO DE PUERTO RICO
+R. del S. L33
+PRIMER INFORME PARCIAL
+$a"iu*ode2o26
+II?I]HITE:.] Y EECOP..I)S SEHSDI] HI
+W
+i?i[I8IID
+AL SENADO DE PI,JERTO RICO: JLt,t2??E].H I r15
+Rico, previo estudio y consideraci6n de la Resoluci6n del senado 133, somete ante este
+Alto Cuerpo su Primer Informe Parcial.
+ALCANCE DE LA MEDIDA
+la
+/,/ Resoluci6n del Senado 133 ordena a la Comisi6n de Cienci4 Tecnologla e
+Inteligencia Artilicial realizar una investigaci6n exhaustiva sobre los avances
+tecnol6gicos implementados por la Comisi6n Estatal de Eleccioneg asl como su
+proyecci6n estrat6gica y tecnol6gica de cara a futuros eventos electorales.
+INTRODUCCI6N
+I-a integridad, transparencia, accesibilidad y confiabilidad de los procesos
+electorales constituyen pilares fundamentales de todo sistema democrdtico. En una
+sociedad cada vez m6s interconectada y dependiente de las tecnologlas de informaci6ry
+la administraci6n electoral enfrenta el reto continuo de incorporar herramientas
+tecnol6gicas que permitan fortalecer la participaci6n ciudadana, optimizar los procesos
+administrativos, garantizar la seguridad de los datos electorales y aumentar la confianza
+prlblica en las instituciones encargadas de salvagu.ardar el ejercicio del sufragio.
+Durante las tltimas d6cadas, los organismos electorales alrededor del mundo han
+adoptado diversos sistemas tecnol6gicos dirigidos a modemizar funciones esenciales
+relacionadas con el regisko de electores, la administraci6n de candidafuras, la validaci6n
+de mdosos, el manejo de modalidades especiales de votaci6n, el escrutinio de resultados
+2
+Corlrision fu Ciencia, Teoologia e lnteliencia Artifcial
+Pimcr lnforme Pmcial Renluciin de Senado 733
+y la divulgaci6n de informaci6n electoral. Puerto Rico no ha sido ajeno a esta
+transformaci6n. Como resultado de las disposiciones contenidas en la I€y 5&2020, segrln
+enmerrdada, conocida como el C6digo Electoral de Puerto Rico de 20N, la Comisi6n
+Estatal de Elecciones ha desarrollado e implementado mfltiples plataformas tecnol6gicas
+destinadas a modemizar la administraci6n electoral y atender las necesidades
+operacionales de los eventos electorales celebrados durante el pasado ciclo electoral.
+Ante la creciente dependencia de sistemas tecnol6gicos para la administraci6n de
+procesos democrdticos, resulta indispensable que la Asamblea Legislativa ejerza su
+funci6n constitucional de fiscalizaci6n y evaluaci6n continua sobre la planificaci6ry
+implantaci6n, seguridad, eficiencia y efectividad de dichas herramientas. l-a utilizaci6n
+de tecnologla en procesos electorales no puede analizarse (nicamente desde una
+perspectiva operacional o administrativa. su implantaci6n debe examinarse igualmente
+a la luz de consideraciones relacionadas con la transparencia gubemamental, la
+protecci6n de datos, la ciberseguridad, la accesibilidad para poblaciones vulnerables, la
+continuidad operacional y la preservaci6n de la confianza ciudadana en los resultados
+electorales.
+Consciente de esta realidad, el Senado de Puerto Rico aprob6 la Resoluci6n del
+//r Senado 133 con el prop6sito de ordenar a la Comisi6n de Ciencia, Tecnolo$a e
+Inteligencia Artificial realizar una investigaci6n exhaustiva sobre los avances
+tecnol6gicos implementados por la Comisi6n Estatal de Elecciones, asl como sobre su
+planificaci6n estrat6gica y tecnol6gica de cara a futuros eventos electorales. [a
+investigaci6n procura evaluar el estado actual de los sistemas tecnol6gicos electorales,
+identificar fortalezas y 6reas susceptibles de mejora, examfurar proyectos en desarrollo y
+analizar aquellas tecnologlas emergentes que podrian tener aplicaci6n futura en Puerto
+Rico.
+En cumplimiento con el mandato contenido m la Resoluci6n del Senado 133, esta
+Comisi6n celebr6 los procedimientos investigativos corespondienteg evalu6 la
+documentaci6n sometida por la Comisi6n Estatal de Elecciones y examin6 los
+memoriales explicativos presentados por distintos comparecientes. Como resultado de
+dichos trabajos, se presenta este Primer Informe parcial, el cual recoge los hallazgos
+preliminares de la investigaci6ry resume la informaci6n recibida hasta el pres€nte y
+establece las Sreas que requieren an6lisis adicional durante las pr6ximas etapas de esta
+investigaci6n legislativa.
+la
+Comisi6n reconoce la irnportancia de continuar promoviendo la innovaci6n
+tecnol6gica en la administraci6n electoral. sin embargo, igualmente reconoce que toda
+iniciativa de modemizaci6n debe implementarse bajo criterios rigurosos de seguridad,
+3
+Comisidt tb Cicnci$ Teotologia e Intelimcia Artifcial
+Pimcr Informc Pncial Resolucidln de *aado 133
+confiabilidad, auditabilidad, accesibilidad y protecci6n de derechos fundamentales. El
+o$etivo fltimo de cualquier transformaci6n tecnol6gica en el {mbito electoral debe ser
+fortalecer la democracia puertorriquefla y garanhzar que la voluntad del elector sea
+preservada, protegida y reflejada con absoluta fidelidad en cada proceso electoral.
+DOCUMENTOS EXAMINADOS
+Ia Comisi6n examin6 los siguientes documentos:
+e
+EI Memorial Explicativo sometido por la Comisi6n Estatal de Elecciones,
+surrito por el Hon. forge R. Rivera Rueda, Presidente de la CEE.
+o
+El Informe sobre Tecnologla Electoral Utilizada a Nivel Global y las lniciativas
+Tecnol6gicas que puedan ser Instrumentadas en Puerto Rico, aprobado por la
+Comisi6n Estatal de Elecciones en el afro 2025.
+e
+El Memorial Explicativo sometido por el kdo. Ernesto G. Gonz6lez Rodrlguez,
+Comisiorndo Electoral del Partido Popular Democr6tico.
+COMISION ESTATAL DE ELECCIONES
+/rf
+Ia
+Comisi6n Estatal de Elecciones compareci6 ante esta Comisi6n mediante
+memorial explicativo fechado 11 de junio de 2026. En dicho documento, Ia CEE reconoce
+que la tecnologla constituye un componente esencial para garantizar procesos electorales
+modemos, eficientes, seguros, accesibles y hansparentes.
+La CEE expone que, durante los pasados afros, ha desarrollado e implementado
+una transformaci6n tecnol6gica significativa como resultado de los mandatos
+*nm,
+establecidos en la Ley conocida como C6digo Electoral de Puerto Rico de 2020.
+Enhe los sistemas principales ident(icados se encuentran el Sistema de Registro
+Electr6nico de Electores, conocido como eRE; el Electronic Poll Book o EPB; el Sistema
+Integrado de Endosos, conocido como SIEN; el sistema efavaa para solicitudes de voto
+adelantado y voto ausente; el Sistema de Ayuda al Elector; y el Sistema de Escnrtinio
+Centralizado.
+Segtn la CEE, estos sistemas han permitido ampliar el acceso de los electores a
+servicios digitales, reducir procesos manuales, aumentar la trazabilidad de las
+transacciones electorales, fortalecer la capacidad de auditorla y mejorar la eficiencia
+administrativa de la instituci6n.
+4
+Comisi6n de Cicncia, Tecnologia c lntcliencb Artifcial
+Pimn lnfonc Pocial Resoluciin fu Senado 133
+I^a CEE tambi6n inform6 que, como resultado de la experiencia adquirida durante
+las Primarias de 2024 y las Elecciones Generales de 2024, identific6 oportunidades
+adicionales de modernizaci6n. Entre estas se enolenEan mejoras a la integraci6n entre
+sisternas, automatizaci6n de procesos de validaci6ry registro y seguimiento de solicitudes
+electorales, divulgaci6n de resultados duante los escrutinios generales, procesamiento
+de papeletas en escrutinios centralizados, maneio de exclusiones electorales,
+herramientas de accesibilidad piua personas con impedimentos y optimizaci6n de los
+procesos de control de actas y transmisi6n de resultados.
+Inicialmente, la CEE establece el prop6sito de su comparecencia y reconoce que la
+Resoluci6n del Senado 133 busca evaluar los avances tecnol6gicos implementados por la
+instituci6n y su planificaci6n esbatdgica para futuros procesos electorales.
+Asimismo, se resume que la CEE mantiene en operaci6n varios sistemas tecnol6gicos
+principales y desarrolla proyectos estrat6gkos adicionales dirigidos a modernizar la
+adminiskaci6n electoral.
+Posteriormente, se describe el Sistema de Registro Electr6nico de Electores como
+la principal plataforma digital de interacci6n enhe el elector y la CEE. Este sistema
+permite al elector realizar gestiones eleck6nicas vinculadas a su inscripci6n electoral,
+actualizaci6n de informaci6n y acceso a una identificaci6n digital para fines electorales.
+De igual forma, se explica el funcionamiento del Electronic Poll Book y del Sistema
+Integrado de Endosos. El EPB permite el registro elech6nico de electores en los centros
+'//k/ de votaci6n, mientras que el SIEN administra electr6nicamente los procesos de
+recopilaci6& presentaci6n y validaci6n de endosos.
+Adem6s, la CEE destaca los resultados institucionales alcanzados, incluyendo
+mayor accesibilidad, reducci6n de procesos presenciales y manuales, rnayor capacidad
+de rastreo, fiscalizaci6n y auditorla, asI como mejoras en la prestaci6n de servicios. En
+cuanto a la planificaci6n futura, la CEE identifica las mejoras planilicadas para el ciclo
+electoral 2025-2028, particularmente aiustes al eRE y al EPB, con 6nfasis en la experiencia
+del usuario, validaci6n de transacciones e investigaci6n de casos durante el escrutinio.
+Asimismq se discuten mejoras d SIEN y al sistema eJavaa, incluyendo nuevas
+funcionalidades de validaci6ru seguimiento de transacciones, clasificaciQn de solicitudes
+y manejo de expedientes mediante herramientas m6s eficientes. En materia de seguridad
+inform6tica y protecci6n de datot la CEE menciona controles de acceso, legistros de
+auditorfa, validaciones automatizadas de integridad de datos, respaldo de inlormaci6n
+crltica, cifrado de datos y conexiones seguras.
+Igualmente, se identifican proyectos tecnol6gicos en desarollo, incluyendo el
+Sistema de Ayuda al Elector y el Sistema para la Unidad de Exclusiones. la CEE reconoce
+5
+Comisi6i dr Ciencia, Teotologfu e Inkliencia Artifciat
+Pimer Inlorme Pncial Resoluciin de Senado 133
+que el maneio de exclusiones cobr6 relevancia priblica durante el ciclo electoral anterior,
+Particularmente Por asuntos relacionados con la transmisi6n de informaci6n proveniente
+del Registro Demogrdfico.
+Finalmente, la cEE amplla su hoja de ruta tecnol6gica y reitera que la
+modemizaci6n debe responder a necesidades operacionales, segu.ridad, eficiencia,
+accesibilidad y confianza prlblica.
+ANALISIS DEL INFORME TECNOLoGICO
+2025
+El Informe Tecnol6gico 2025 presenta una derripci6n de Ia infraestructura
+tecnol6gica utilizada por la Comisi6n Estatal de Elecciones y de los proyectos
+desarrollados e implementados durante el cuatrienio 2021.-2024 para apoyar la
+adminishaci6n de los procesos electorales en Puerto Rico.
+El documento destaca que la tecnologla constituye una herramienta esencial para
+fortalecer la transparencia, la integridad, la eficiencia y la confiabitidad de los procesos
+electorales. En ese contexto, se identilican diversos sistemas desarrollados o mejorados
+por la Comisi6rL entre ellos el sistema de Registro Electr6nico de Electores (eRE), el
+Elechonic Poll Book (ffB), el Sistema Integrado de Endosos (SIEN), el Sistema de Ayuda
+al Elector (SAE), el sistema eJavaa, el sistema Voter Vu, el Sistema de Inventario de
+ltu
+Material Controlado y las mejoras realizadas al Sistema de Escrutinio Electr6nico.
+Asimismo, el informe describe Ia estrucfura tecnol6gica general de la Comisi6n
+Estatal de Elecciones, compuesta por los sistemas relacionados con el Regisho Electoral,
+la Administraci6n de Elecciones y el Sistema de Votaci6n. De igual forma, explica la
+integraci6n del sistema Advanced.civil.Id con distintas fueas operacionales de la
+Comisi6n, incluyendo las Juntas de Inscripci6n Permanente, la Unidad de Exclusiones, la
+Oficina de Sistemas de Informaci6n y Procesamiento Electoral, los procesos de voto
+adelantado y ausente, y otras dependencias administrativas y operacionales.
+EI documento tambi€n examina el funcionamiento del sistema de votaci6n
+electr6nica utilizado durante el ciclo electoral de 2024, incluyendo la utilizaci6n de
+tecnologia de lectura 6ptica de papeletas, el Election Management System (EMS), el
+Sistema de Escrutinio Elech6nico y las herramientas utilizadas para el procesamiento,
+consolidaci6n y divulgaci6n de resultados electorales.
+Ademds, se describen los principales sistemas de interacci6n con los electores,
+incluyendo el eRE, el SIEN y el EPB, asl como el sistema eJavaa para la administsaci6n de
+solicifudes de voto adelantado y voto ausente. Igualmente, se diruten las mejoras
+implementadas al Sistema de Escrutinio Centralizado y otros componentes tecnol6gicos
+utilizados durante las Primarias y Elecciones Generales de 2024.
+6
+Combiin fu Ciencia, Tecnologfu e Inteliencia Attifcul
+Pimer lnforme Pncial Resolucion de Seaado 7J3
+En cuanto a la planificaci6n futura, el informe identifica varios proyectos
+tecnol6gicos programados para el cuatrieni o 202s-2028, entre los que figuran mejoras al
+sistema de Registro Electr6nico de Electores, el desarrollo del M6dulo de la Unidad de
+Exclusiones (uDEx), la adquisici6n de un nuevo sistema de Escrutinio y votaci6n
+Electr6nica y el desarrollo de un sistema de votaci6n para personas con Impedimentos.
+Finalmente, el inlorme evahla diversas tecnologlas electorales utilizadas en otras
+jurisdicciones y analiza su posible aplicaci6n en puerto Rico. l,a comisi6n sefiala que
+cualquier fufura implantaci6n tecnol6gica deber6 considerar factores relacionados con la
+seguridad, confiabilidad, accesibilidad, integraci6n con los sistemas existentes, viabilidad
+econ6mica y aceptaci6n prlblica.
+COMISIONADO ELECTORAL DEL PARTIDO POPULAR DEMOCRATICO
+El comisionado Electoral del partido popular Democr6tico compareci6 mediante
+memorial explicativo fechado 11 de junio de 2026. En su escrito, reconoce la importancia
+de la tecnologla para mejorar la eficiencia, transparencia y seguridad del sistema
+electoral, pero advierte que la inserci6n de nuevas tecnolodas no debe ser automdtica.
+El memorial plantea que puerto Rico debe priorizar mejoras en acceso digital,
+registro electoral, escrutinio electr6nico y hansmisi6n de resultados. No obstante,
+lltu sostiene que ciertas tecnologias podrlan representar riesgos de seguridad, requerir
+recursos que el pals no pos€e o encontrarse en declive, como determinados mecanismos
+de votaci6n elech6nica directa.
+El Comisionado Electoral del ppD enlatiza que la modernizaci6n tecnol6gica debe
+tener como objetivo principal devolver la confianza ciudadana en el sistema electoral,
+atender la brecha digital y evitar que ciertos grupos de la poblaci6n queden excluidos del
+proceso electoral.
+HALLAZGOS PRELIMINARES
+Del analisis de los memoriales, informes y documentaci6n sometida ante la
+consideraci6n de esta Comisi6n, surge que la comisi6n Estatal de Elecciones ha
+implementado una cantidad sustancial de sistemas te<nol6gicos durante el periodo
+reciente, particularmente en dreas de registro electoral, endosos, voto adelantado,
+regisko electr6nico en centros de votaci6n, atenci6n aI elector y escrutinio cenkalizado.
+Asimismo, se desprende que el sistema electoral de puerto Rico depende de
+mrlltiples plataformas tecnol6gicas interconectadas, lo que requiere una estrategia clara
+7
+Comision de Cictciq, Tecnologia e Inteliencia Amfcial
+Pim*
+Inlorme Parcial Resolucion dc Senado 733
+de interoperabilidad, mantenimiento, seguridad, redundancia operacional y auditorla
+continua.
+De igual forma, la evidencia recibida demuestra que la cEE reconoce la necesidad
+de continuar modemizando sus sistemas para el ciclo electoral
+2o2s-zo2g,
+particularmente ante el venciniento del contrato del sistema de escrutinio eleck6nico
+utilizado desde el afio 2015.
+La documentaci6n evaluada tambi6n refleja un consenso general sobre la
+importancia de modernizar los procesos electorales, acompa-frado de reservas legitimas
+respecto a aquellas tecnologlas que puedan comprometer la seguridad, la confianza
+ciudadana, la accesibilidad o la hansparencia.
+Por otro lado, la inlormaci6n examinada confirma que la protecci6n de datos
+electorales debe ser tratada como un asunto critico de ciberseguridad prlblica, toda vez
+que los sistemas electorales contienen informaci6n sensible de los electores y sostienen
+funciones esenciales del proceso democrAtico.
+Igualmente, surge de los documentos analizados que las tecnologlas de apoyo a
+personas con impedimentos requieren atenci6n prioritaria, tanto por razones de equidad
+como por cumplimiento con legislaci6n federal aplicable.
+Del mismo modo, se evidencia la necesidad de fortalecer las herramientas
+tecnol6gicas utilizadas para el manejo de exclusiones electorales, particularmente
+aquellas relacionadas con defunciones, duplicidad jurisdicci6n, edad, incapacidad
+a4
+mental y ohos criterios administrativos, de forma que los procesos sean mds robustos,
+auditables y confiables.
+Finalmente, la Comisi6n concluye que toda adquisici6n o implantaci6n
+tecnol6gica electoral debe estar acompafiada de m6tricas claras de desempeflo, pruebas
+piloto, auditorlas independientes, protocolos de contingencia y mecanismos de rendici6n
+de cuentas.
+ANALISIS DE LA COMISION
+l,a modernizaci6n electoral no debe evaluarse fnicamente desde la perspectiva de
+rapidez o conveniencia administrativa. su criterio rector debe ser la confianza p(blica.
+un sistema electoral moderno debe ser r6pido, pero tambiEn verificable; debe ser digital,
+pero tambiEn accesible; debe incorporar nuevas herramientas, pero sin poner en riesgo la
+pureza del voto ni la participaci6n de electores que enfrentan barreras tecnol6gicas.
+La comisi6n reconoce que la CEE ha avanzado en la digitarizaci6n de
+componentes esenciales del proceso electoral. sin embargo, la complejidad de estos
+sistemas exige mayor supervisi6n legislativ4 particularmente en fueas de
+8
+Comici6n b Ciencia, Tecnologia e Inteliencia Anifcid
+Pimer lnlorme Pmcial Resoluci6n de Senailo 13i
+ciberseguridad, continuidad operacional, contrataci6n tecnol6gica, interoperabilidad,
+manejo de datos, accesibilidad y transparencia.
+El anelisis preliminar tambi6n revela que Puerto Rico debe evitar adoptar
+tecnologtas electorales rlnicamerte porque est€n disponibles en el mercado global. La
+experiencia intemacional demuesha que la tecnologla electoral debe evaluarse segtn el
+contexto jurldico, social, econ6rnico y operacional de cada jurisdicci6n. En el caso de
+Puerto Rico, cualquier transici6n tecnol6gica debe preservar mecanismos verificables,
+auditables y comprensibles para la ciudadanla.
+CONCLUSIoN PARCIAL
+ta Comisi6n concluye preliminarmente que la Resoluci6n del Senado 133 ha
+permitido iniciar una evaluaci6n necesaria y oportuna sobre la capacidad tecnol6gica de
+la Comisi6n Estatal de Elecciones y sobre los retos de modemizaci6n electoral de cara aI
+ciclo 2025-20211.
+La evidencia recibida demuestra que la CEE ha adelantado proyectos relevantes,
+pero tambi6n confirma que persisten dreas que requieren supervisi6ry planificaci6ry
+recursos, auditoria y evaluaci6n legislativa continua.
+Por tanto, este Primq Informe Parcial no agota la investigaci6n ordenada por la
+Resoluci6n del Senado 133. Por el contrario, establece una base inicial para continu.r
+examinando la preparaci6n tecnol6gica de la CEE, los riesgos asociados a la implantaci6n
+de nuevas herramientas, Ia seguridad de los datos electorales, la conliabilidad del
+lfl
+escrutinio electr6nico, la accesibilidad del voto y la capacidad institucional de responder
+a incidentes tecnol6gicos durante eventos electorales.
+RECOMENDACIONES PRELIMINARES
+A la luz de la informaci6n recibida y del an6lisis realizado, esta Comisi6n estima
+pertinente formular las siguientes recomendaciones:
+.
+Continuar la investigaci6n legislativa sobre la tecnolog{a electoral de la
+Comisi6n Estatal de Elecciones.
+e
+Requerir a la CEE un plan actualizado de implantaci6n tecnol6gica para el ciclo
+20'25-2028, incluyendo calendario, plesupuesto, m6tricas de cumplimiento,
+riesgos identificados y medidas de mitigaci6n.
+.
+Requerir inlormaci6n espec{fica sobre el proceso de adquisici6n del nuevo
+sistema de escrutinio electr6nico, incluyendo requisitos tdcnicos, criterios de
+seguridad, mecanismos de auditorla y giuanffas de continuidad operacional.
+9
+Comisiin de Ciencia, Tecdologia e Inhlietcia Artifcial
+Primer lnforme Pncial Resoluci6n de Senado 733
+Evaluar la necesidad de auditorias independientes de ciberseguridad sobre los
+sistemas electorales crfticos.
+a Requerir un fuforme separado sobre accesibilidad tecnol6gica para electores
+con impedimentos.
+a Continuar evaluando el impacto de la brecha digital sobre el acceso efectivo de
+los electores a los servicios digitales de la CEE.
+a Procurar que cualquier fufura implantaci6n de tecnolog{as biom6tricas,
+votaci6n electr6nica directa, hansmisi6n remota o inteligencia artificial en
+procesos electoral$ sea objeto de anAlisis legislativo particular, con la
+participaci6n de expertos t6cnicot partidos polfticos, organizaciones de
+derechos civiles y representantes de electores con impedimentos.
+POR TODO LO ANTES EXPLJESTO, la Comisi6n de Ciencia, Tecnologia e
+Inteligencia Artificial del Senado de Puerto Rico somete este Primer Informe Parcial sobre
+la Resoluci6n del Senado 133, recomendando la continuaci6n de los trabaios
+investigativos conJorme al mandato conferido por este Alto Cuerpo.
+Respetuosamente sometido,
+Wilmer E. Reyes Berrios
+Presidente
+Comisi6n de Ciencia, Tecnolog{a e Inteligencia Artilicial
+Senado de Puerto Rico
+[DELETED:  p f u i d t d d o c l s a d l c i e e e d m c l m d e d e r]
+[DELETED:  d 5 P E i l p l l r a p]
+[DELETED:  d t T E p D E 2 e u d l p i c c d E S c B e e S c e p c s d y E e d S a h d s e a a t e m l i]
+[DELETED:  T q d c l 2 o E v d d y d l q a t p a l l s i i e f f d p e p C m d E p l l p c E e i v h E d v d r p i a y C]
+[DELETED:  c o f ( e E e a e E c v E d y G d]
+[DELETED:  e]
+[DELETED:  I e 1 c p s l l l d r C s u p p p e r d m c P e e]
+[DELETED:  T d l c T R r c m]
+
+
+================================================================================
+
+Raw Text:
+ORIGINAL
+GOBIERNO DE PUERTO RICO
+2@* Asamblea F
+Sesi6n
+Legislativa
+Ordinaria
+SENADO DE PUERTO RICO
+R. del S. L33
+PRIMER INFORME PARCIAL
+$a"iu*ode2o26
+II?I]HITE:.] Y EECOP..I)S SEHSDI] HI
+W
+i?i[I8IID
+AL SENADO DE PI,JERTO RICO: JLt,t2??E].H I r15
+La comisi6n de Gencia, Tecnologla e Inteligmcia Artificial del senado de puerto
+Rico, previo estudio y consideraci6n de la Resoluci6n del senado 133, somete ante este
+Alto Cuerpo su Primer Informe Parcial.
+ALCANCE DE LA MEDIDA
+la
+/,/ Resoluci6n del Senado 133 ordena a la Comisi6n de Cienci4 Tecnologla e
+Inteligencia Artilicial realizar una investigaci6n exhaustiva sobre los avances
+tecnol6gicos implementados por la Comisi6n Estatal de Eleccioneg asl como su
+proyecci6n estrat6gica y tecnol6gica de cara a futuros eventos electorales.
+INTRODUCCI6N
+I-a integridad, transparencia, accesibilidad y confiabilidad de los procesos
+electorales constituyen pilares fundamentales de todo sistema democrdtico. En una
+sociedad cada vez m6s interconectada y dependiente de las tecnologlas de informaci6ry
+la administraci6n electoral enfrenta el reto continuo de incorporar herramientas
+tecnol6gicas que permitan fortalecer la participaci6n ciudadana, optimizar los procesos
+administrativos, garantizar la seguridad de los datos electorales y aumentar la confianza
+prlblica en las instituciones encargadas de salvagu.ardar el ejercicio del sufragio.
+Durante las tltimas d6cadas, los organismos electorales alrededor del mundo han
+adoptado diversos sistemas tecnol6gicos dirigidos a modemizar funciones esenciales
+relacionadas con el regisko de electores, la administraci6n de candidafuras, la validaci6n
+de mdosos, el manejo de modalidades especiales de votaci6n, el escrutinio de resultados
+
+2
+Corlrision fu Ciencia, Teoologia e lnteliencia Artifcial
+Pimcr lnforme Pmcial Renluciin de Senado 733
+y la divulgaci6n de informaci6n electoral. Puerto Rico no ha sido ajeno a esta
+transformaci6n. Como resultado de las disposiciones contenidas en la I€y 5&2020, segrln
+enmerrdada, conocida como el C6digo Electoral de Puerto Rico de 20N, la Comisi6n
+Estatal de Elecciones ha desarrollado e implementado mfltiples plataformas tecnol6gicas
+destinadas a modemizar la administraci6n electoral y atender las necesidades
+operacionales de los eventos electorales celebrados durante el pasado ciclo electoral.
+Ante la creciente dependencia de sistemas tecnol6gicos para la administraci6n de
+procesos democrdticos, resulta indispensable que la Asamblea Legislativa ejerza su
+funci6n constitucional de fiscalizaci6n y evaluaci6n continua sobre la planificaci6ry
+implantaci6n, seguridad, eficiencia y efectividad de dichas herramientas. l-a utilizaci6n
+de tecnologla en procesos electorales no puede analizarse (nicamente desde una
+perspectiva operacional o administrativa. su implantaci6n debe examinarse igualmente
+a la luz de consideraciones relacionadas con la transparencia gubemamental, la
+protecci6n de datos, la ciberseguridad, la accesibilidad para poblaciones vulnerables, la
+continuidad operacional y la preservaci6n de la confianza ciudadana en los resultados
+electorales.
+Consciente de esta realidad, el Senado de Puerto Rico aprob6 la Resoluci6n del
+//r Senado 133 con el prop6sito de ordenar a la Comisi6n de Ciencia, Tecnolo$a e
+Inteligencia Artificial realizar una investigaci6n exhaustiva sobre los avances
+tecnol6gicos implementados por la Comisi6n Estatal de Elecciones, asl como sobre su
+planificaci6n estrat6gica y tecnol6gica de cara a futuros eventos electorales. [a
+investigaci6n procura evaluar el estado actual de los sistemas tecnol6gicos electorales,
+identificar fortalezas y 6reas susceptibles de mejora, examfurar proyectos en desarrollo y
+analizar aquellas tecnologlas emergentes que podrian tener aplicaci6n futura en Puerto
+Rico.
+En cumplimiento con el mandato contenido m la Resoluci6n del Senado 133, esta
+Comisi6n celebr6 los procedimientos investigativos corespondienteg evalu6 la
+documentaci6n sometida por la Comisi6n Estatal de Elecciones y examin6 los
+memoriales explicativos presentados por distintos comparecientes. Como resultado de
+dichos trabajos, se presenta este Primer Informe parcial, el cual recoge los hallazgos
+preliminares de la investigaci6ry resume la informaci6n recibida hasta el pres€nte y
+establece las Sreas que requieren an6lisis adicional durante las pr6ximas etapas de esta
+investigaci6n legislativa.
+la
+Comisi6n reconoce la irnportancia de continuar promoviendo la innovaci6n
+tecnol6gica en la administraci6n electoral. sin embargo, igualmente reconoce que toda
+iniciativa de modemizaci6n debe implementarse bajo criterios rigurosos de seguridad,
+
+3
+Comisidt tb Cicnci$ Teotologia e Intelimcia Artifcial
+Pimcr Informc Pncial Resolucidln de *aado 133
+confiabilidad, auditabilidad, accesibilidad y protecci6n de derechos fundamentales. El
+o$etivo fltimo de cualquier transformaci6n tecnol6gica en el {mbito electoral debe ser
+fortalecer la democracia puertorriquefla y garanhzar que la voluntad del elector sea
+preservada, protegida y reflejada con absoluta fidelidad en cada proceso electoral.
+DOCUMENTOS EXAMINADOS
+Ia Comisi6n examin6 los siguientes documentos:
+e
+EI Memorial Explicativo sometido por la Comisi6n Estatal de Elecciones,
+surrito por el Hon. forge R. Rivera Rueda, Presidente de la CEE.
+o
+El Informe sobre Tecnologla Electoral Utilizada a Nivel Global y las lniciativas
+Tecnol6gicas que puedan ser Instrumentadas en Puerto Rico, aprobado por la
+Comisi6n Estatal de Elecciones en el afro 2025.
+e
+El Memorial Explicativo sometido por el kdo. Ernesto G. Gonz6lez Rodrlguez,
+Comisiorndo Electoral del Partido Popular Democr6tico.
+COMISION ESTATAL DE ELECCIONES
+/rf
+Ia
+Comisi6n Estatal de Elecciones compareci6 ante esta Comisi6n mediante
+memorial explicativo fechado 11 de junio de 2026. En dicho documento, Ia CEE reconoce
+que la tecnologla constituye un componente esencial para garantizar procesos electorales
+modemos, eficientes, seguros, accesibles y hansparentes.
+La CEE expone que, durante los pasados afros, ha desarrollado e implementado
+una transformaci6n tecnol6gica significativa como resultado de los mandatos
+*nm,
+establecidos en la Ley conocida como C6digo Electoral de Puerto Rico de 2020.
+Enhe los sistemas principales ident(icados se encuentran el Sistema de Registro
+Electr6nico de Electores, conocido como eRE; el Electronic Poll Book o EPB; el Sistema
+Integrado de Endosos, conocido como SIEN; el sistema efavaa para solicitudes de voto
+adelantado y voto ausente; el Sistema de Ayuda al Elector; y el Sistema de Escnrtinio
+Centralizado.
+Segtn la CEE, estos sistemas han permitido ampliar el acceso de los electores a
+servicios digitales, reducir procesos manuales, aumentar la trazabilidad de las
+transacciones electorales, fortalecer la capacidad de auditorla y mejorar la eficiencia
+administrativa de la instituci6n.
+
+4
+Comisi6n de Cicncia, Tecnologia c lntcliencb Artifcial
+Pimn lnfonc Pocial Resoluciin fu Senado 133
+I^a CEE tambi6n inform6 que, como resultado de la experiencia adquirida durante
+las Primarias de 2024 y las Elecciones Generales de 2024, identific6 oportunidades
+adicionales de modernizaci6n. Entre estas se enolenEan mejoras a la integraci6n entre
+sisternas, automatizaci6n de procesos de validaci6ry registro y seguimiento de solicitudes
+electorales, divulgaci6n de resultados duante los escrutinios generales, procesamiento
+de papeletas en escrutinios centralizados, maneio de exclusiones electorales,
+herramientas de accesibilidad piua personas con impedimentos y optimizaci6n de los
+procesos de control de actas y transmisi6n de resultados.
+Inicialmente, la CEE establece el prop6sito de su comparecencia y reconoce que la
+Resoluci6n del Senado 133 busca evaluar los avances tecnol6gicos implementados por la
+instituci6n y su planificaci6n esbatdgica para futuros procesos electorales.
+Asimismo, se resume que la CEE mantiene en operaci6n varios sistemas tecnol6gicos
+principales y desarrolla proyectos estrat6gkos adicionales dirigidos a modernizar la
+adminiskaci6n electoral.
+Posteriormente, se describe el Sistema de Registro Electr6nico de Electores como
+la principal plataforma digital de interacci6n enhe el elector y la CEE. Este sistema
+permite al elector realizar gestiones eleck6nicas vinculadas a su inscripci6n electoral,
+actualizaci6n de informaci6n y acceso a una identificaci6n digital para fines electorales.
+De igual forma, se explica el funcionamiento del Electronic Poll Book y del Sistema
+Integrado de Endosos. El EPB permite el registro elech6nico de electores en los centros
+'//k/ de votaci6n, mientras que el SIEN administra electr6nicamente los procesos de
+recopilaci6& presentaci6n y validaci6n de endosos.
+Adem6s, la CEE destaca los resultados institucionales alcanzados, incluyendo
+mayor accesibilidad, reducci6n de procesos presenciales y manuales, rnayor capacidad
+de rastreo, fiscalizaci6n y auditorla, asI como mejoras en la prestaci6n de servicios. En
+cuanto a la planificaci6n futura, la CEE identifica las mejoras planilicadas para el ciclo
+electoral 2025-2028, particularmente aiustes al eRE y al EPB, con 6nfasis en la experiencia
+del usuario, validaci6n de transacciones e investigaci6n de casos durante el escrutinio.
+Asimismq se discuten mejoras d SIEN y al sistema eJavaa, incluyendo nuevas
+funcionalidades de validaci6ru seguimiento de transacciones, clasificaciQn de solicitudes
+y manejo de expedientes mediante herramientas m6s eficientes. En materia de seguridad
+inform6tica y protecci6n de datot la CEE menciona controles de acceso, legistros de
+auditorfa, validaciones automatizadas de integridad de datos, respaldo de inlormaci6n
+crltica, cifrado de datos y conexiones seguras.
+Igualmente, se identifican proyectos tecnol6gicos en desarollo, incluyendo el
+Sistema de Ayuda al Elector y el Sistema para la Unidad de Exclusiones. la CEE reconoce
+
+5
+Comisi6i dr Ciencia, Teotologfu e Inkliencia Artifciat
+Pimer Inlorme Pncial Resoluciin de Senado 133
+que el maneio de exclusiones cobr6 relevancia priblica durante el ciclo electoral anterior,
+Particularmente Por asuntos relacionados con la transmisi6n de informaci6n proveniente
+del Registro Demogrdfico.
+Finalmente, la cEE amplla su hoja de ruta tecnol6gica y reitera que la
+modemizaci6n debe responder a necesidades operacionales, segu.ridad, eficiencia,
+accesibilidad y confianza prlblica.
+ANALISIS DEL INFORME TECNOLoGICO
+2025
+El Informe Tecnol6gico 2025 presenta una derripci6n de Ia infraestructura
+tecnol6gica utilizada por la Comisi6n Estatal de Elecciones y de los proyectos
+desarrollados e implementados durante el cuatrienio 2021.-2024 para apoyar la
+adminishaci6n de los procesos electorales en Puerto Rico.
+El documento destaca que la tecnologla constituye una herramienta esencial para
+fortalecer la transparencia, la integridad, la eficiencia y la confiabitidad de los procesos
+electorales. En ese contexto, se identilican diversos sistemas desarrollados o mejorados
+por la Comisi6rL entre ellos el sistema de Registro Electr6nico de Electores (eRE), el
+Elechonic Poll Book (ffB), el Sistema Integrado de Endosos (SIEN), el Sistema de Ayuda
+al Elector (SAE), el sistema eJavaa, el sistema Voter Vu, el Sistema de Inventario de
+ltu
+Material Controlado y las mejoras realizadas al Sistema de Escrutinio Electr6nico.
+Asimismo, el informe describe Ia estrucfura tecnol6gica general de la Comisi6n
+Estatal de Elecciones, compuesta por los sistemas relacionados con el Regisho Electoral,
+la Administraci6n de Elecciones y el Sistema de Votaci6n. De igual forma, explica la
+integraci6n del sistema Advanced.civil.Id con distintas fueas operacionales de la
+Comisi6n, incluyendo las Juntas de Inscripci6n Permanente, la Unidad de Exclusiones, la
+Oficina de Sistemas de Informaci6n y Procesamiento Electoral, los procesos de voto
+adelantado y ausente, y otras dependencias administrativas y operacionales.
+EI documento tambi€n examina el funcionamiento del sistema de votaci6n
+electr6nica utilizado durante el ciclo electoral de 2024, incluyendo la utilizaci6n de
+tecnologia de lectura 6ptica de papeletas, el Election Management System (EMS), el
+Sistema de Escrutinio Elech6nico y las herramientas utilizadas para el procesamiento,
+consolidaci6n y divulgaci6n de resultados electorales.
+Ademds, se describen los principales sistemas de interacci6n con los electores,
+incluyendo el eRE, el SIEN y el EPB, asl como el sistema eJavaa para la administsaci6n de
+solicifudes de voto adelantado y voto ausente. Igualmente, se diruten las mejoras
+implementadas al Sistema de Escrutinio Centralizado y otros componentes tecnol6gicos
+utilizados durante las Primarias y Elecciones Generales de 2024.
+
+6
+Combiin fu Ciencia, Tecnologfu e Inteliencia Attifcul
+Pimer lnforme Pncial Resolucion de Seaado 7J3
+En cuanto a la planificaci6n futura, el informe identifica varios proyectos
+tecnol6gicos programados para el cuatrieni o 202s-2028, entre los que figuran mejoras al
+sistema de Registro Electr6nico de Electores, el desarrollo del M6dulo de la Unidad de
+Exclusiones (uDEx), la adquisici6n de un nuevo sistema de Escrutinio y votaci6n
+Electr6nica y el desarrollo de un sistema de votaci6n para personas con Impedimentos.
+Finalmente, el inlorme evahla diversas tecnologlas electorales utilizadas en otras
+jurisdicciones y analiza su posible aplicaci6n en puerto Rico. l,a comisi6n sefiala que
+cualquier fufura implantaci6n tecnol6gica deber6 considerar factores relacionados con la
+seguridad, confiabilidad, accesibilidad, integraci6n con los sistemas existentes, viabilidad
+econ6mica y aceptaci6n prlblica.
+COMISIONADO ELECTORAL DEL PARTIDO POPULAR DEMOCRATICO
+El comisionado Electoral del partido popular Democr6tico compareci6 mediante
+memorial explicativo fechado 11 de junio de 2026. En su escrito, reconoce la importancia
+de la tecnologla para mejorar la eficiencia, transparencia y seguridad del sistema
+electoral, pero advierte que la inserci6n de nuevas tecnolodas no debe ser automdtica.
+El memorial plantea que puerto Rico debe priorizar mejoras en acceso digital,
+registro electoral, escrutinio electr6nico y hansmisi6n de resultados. No obstante,
+lltu sostiene que ciertas tecnologias podrlan representar riesgos de seguridad, requerir
+recursos que el pals no pos€e o encontrarse en declive, como determinados mecanismos
+de votaci6n elech6nica directa.
+El Comisionado Electoral del ppD enlatiza que la modernizaci6n tecnol6gica debe
+tener como objetivo principal devolver la confianza ciudadana en el sistema electoral,
+atender la brecha digital y evitar que ciertos grupos de la poblaci6n queden excluidos del
+proceso electoral.
+HALLAZGOS PRELIMINARES
+Del analisis de los memoriales, informes y documentaci6n sometida ante la
+consideraci6n de esta Comisi6n, surge que la comisi6n Estatal de Elecciones ha
+implementado una cantidad sustancial de sistemas te<nol6gicos durante el periodo
+reciente, particularmente en dreas de registro electoral, endosos, voto adelantado,
+regisko electr6nico en centros de votaci6n, atenci6n aI elector y escrutinio cenkalizado.
+Asimismo, se desprende que el sistema electoral de puerto Rico depende de
+mrlltiples plataformas tecnol6gicas interconectadas, lo que requiere una estrategia clara
+
+7
+Comision de Cictciq, Tecnologia e Inteliencia Amfcial
+Pim*
+Inlorme Parcial Resolucion dc Senado 733
+de interoperabilidad, mantenimiento, seguridad, redundancia operacional y auditorla
+continua.
+De igual forma, la evidencia recibida demuestra que la cEE reconoce la necesidad
+de continuar modemizando sus sistemas para el ciclo electoral
+2o2s-zo2g,
+particularmente ante el venciniento del contrato del sistema de escrutinio eleck6nico
+utilizado desde el afio 2015.
+La documentaci6n evaluada tambi6n refleja un consenso general sobre la
+importancia de modernizar los procesos electorales, acompa-frado de reservas legitimas
+respecto a aquellas tecnologlas que puedan comprometer la seguridad, la confianza
+ciudadana, la accesibilidad o la hansparencia.
+Por otro lado, la inlormaci6n examinada confirma que la protecci6n de datos
+electorales debe ser tratada como un asunto critico de ciberseguridad prlblica, toda vez
+que los sistemas electorales contienen informaci6n sensible de los electores y sostienen
+funciones esenciales del proceso democrAtico.
+Igualmente, surge de los documentos analizados que las tecnologlas de apoyo a
+personas con impedimentos requieren atenci6n prioritaria, tanto por razones de equidad
+como por cumplimiento con legislaci6n federal aplicable.
+Del mismo modo, se evidencia la necesidad de fortalecer las herramientas
+tecnol6gicas utilizadas para el manejo de exclusiones electorales, particularmente
+aquellas relacionadas con defunciones, duplicidad jurisdicci6n, edad, incapacidad
+a4
+mental y ohos criterios administrativos, de forma que los procesos sean mds robustos,
+auditables y confiables.
+Finalmente, la Comisi6n concluye que toda adquisici6n o implantaci6n
+tecnol6gica electoral debe estar acompafiada de m6tricas claras de desempeflo, pruebas
+piloto, auditorlas independientes, protocolos de contingencia y mecanismos de rendici6n
+de cuentas.
+ANALISIS DE LA COMISION
+l,a modernizaci6n electoral no debe evaluarse fnicamente desde la perspectiva de
+rapidez o conveniencia administrativa. su criterio rector debe ser la confianza p(blica.
+un sistema electoral moderno debe ser r6pido, pero tambiEn verificable; debe ser digital,
+pero tambiEn accesible; debe incorporar nuevas herramientas, pero sin poner en riesgo la
+pureza del voto ni la participaci6n de electores que enfrentan barreras tecnol6gicas.
+La comisi6n reconoce que la CEE ha avanzado en la digitarizaci6n de
+componentes esenciales del proceso electoral. sin embargo, la complejidad de estos
+sistemas exige mayor supervisi6n legislativ4 particularmente en fueas de
+
+8
+Comici6n b Ciencia, Tecnologia e Inteliencia Anifcid
+Pimer lnlorme Pmcial Resoluci6n de Senailo 13i
+ciberseguridad, continuidad operacional, contrataci6n tecnol6gica, interoperabilidad,
+manejo de datos, accesibilidad y transparencia.
+El anelisis preliminar tambi6n revela que Puerto Rico debe evitar adoptar
+tecnologtas electorales rlnicamerte porque est€n disponibles en el mercado global. La
+experiencia intemacional demuesha que la tecnologla electoral debe evaluarse segtn el
+contexto jurldico, social, econ6rnico y operacional de cada jurisdicci6n. En el caso de
+Puerto Rico, cualquier transici6n tecnol6gica debe preservar mecanismos verificables,
+auditables y comprensibles para la ciudadanla.
+CONCLUSIoN PARCIAL
+ta Comisi6n concluye preliminarmente que la Resoluci6n del Senado 133 ha
+permitido iniciar una evaluaci6n necesaria y oportuna sobre la capacidad tecnol6gica de
+la Comisi6n Estatal de Elecciones y sobre los retos de modemizaci6n electoral de cara aI
+ciclo 2025-20211.
+La evidencia recibida demuestra que la CEE ha adelantado proyectos relevantes,
+pero tambi6n confirma que persisten dreas que requieren supervisi6ry planificaci6ry
+recursos, auditoria y evaluaci6n legislativa continua.
+Por tanto, este Primq Informe Parcial no agota la investigaci6n ordenada por la
+Resoluci6n del Senado 133. Por el contrario, establece una base inicial para continu.r
+examinando la preparaci6n tecnol6gica de la CEE, los riesgos asociados a la implantaci6n
+de nuevas herramientas, Ia seguridad de los datos electorales, la conliabilidad del
+lfl
+escrutinio electr6nico, la accesibilidad del voto y la capacidad institucional de responder
+a incidentes tecnol6gicos durante eventos electorales.
+RECOMENDACIONES PRELIMINARES
+A la luz de la informaci6n recibida y del an6lisis realizado, esta Comisi6n estima
+pertinente formular las siguientes recomendaciones:
+.
+Continuar la investigaci6n legislativa sobre la tecnolog{a electoral de la
+Comisi6n Estatal de Elecciones.
+e
+Requerir a la CEE un plan actualizado de implantaci6n tecnol6gica para el ciclo
+20'25-2028, incluyendo calendario, plesupuesto, m6tricas de cumplimiento,
+riesgos identificados y medidas de mitigaci6n.
+.
+Requerir inlormaci6n espec{fica sobre el proceso de adquisici6n del nuevo
+sistema de escrutinio electr6nico, incluyendo requisitos tdcnicos, criterios de
+seguridad, mecanismos de auditorla y giuanffas de continuidad operacional.
+
+9
+Comisiin de Ciencia, Tecdologia e Inhlietcia Artifcial
+Primer lnforme Pncial Resoluci6n de Senado 733
+Evaluar la necesidad de auditorias independientes de ciberseguridad sobre los
+sistemas electorales crfticos.
+a Requerir un fuforme separado sobre accesibilidad tecnol6gica para electores
+con impedimentos.
+a Continuar evaluando el impacto de la brecha digital sobre el acceso efectivo de
+los electores a los servicios digitales de la CEE.
+a Procurar que cualquier fufura implantaci6n de tecnolog{as biom6tricas,
+votaci6n electr6nica directa, hansmisi6n remota o inteligencia artificial en
+procesos electoral$ sea objeto de anAlisis legislativo particular, con la
+participaci6n de expertos t6cnicot partidos polfticos, organizaciones de
+derechos civiles y representantes de electores con impedimentos.
+POR TODO LO ANTES EXPLJESTO, la Comisi6n de Ciencia, Tecnologia e
+Inteligencia Artificial del Senado de Puerto Rico somete este Primer Informe Parcial sobre
+la Resoluci6n del Senado 133, recomendando la continuaci6n de los trabaios
+investigativos conJorme al mandato conferido por este Alto Cuerpo.
+Respetuosamente sometido,
+Wilmer E. Reyes Berrios
+Presidente
+Comisi6n de Ciencia, Tecnolog{a e Inteligencia Artilicial
+Senado de Puerto Rico
+
+[DELETED:  p f u i d t d d o c l s a d l c i e e e d m c l m d e d e r]
+[DELETED:  d 5 P E i l p l l r a p]
+[DELETED:  d t T E p D E 2 e u d l p i c c d E S c B e e S c e p c s d y E e d S a h d s e a a t e m l i]
+[DELETED:  T q d c l 2 o E v d d y d l q a t p a l l s i i e f f d p e p C m d E p l l p c E e i v h E d v d r p i a y C]
+[DELETED:  c o f ( e E e a e E c v E d y G d]
+[DELETED:  e]
+[DELETED:  I e 1 c p s l l l d r C s u p p p e r d m c P e e]
+[DELETED:  T d l c T R r c m]
