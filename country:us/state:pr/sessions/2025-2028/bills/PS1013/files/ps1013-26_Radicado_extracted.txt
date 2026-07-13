@@ -1,0 +1,737 @@
+Title: Para enmendar los incisos A, B, C, D, E, F y G del Artículos 6; añadir un nuevo inciso E
+Official Title: Para enmendar los incisos A, B, C, D, E, F y G del Artículos 6; añadir un nuevo inciso E
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1013
+29 de enero de 2026
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+al Artículo 7; y enmendar los incisos A, B y C del Artículo 9 de la Ley 278-1998,
+según enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, a los fines
+de simplificar y hacer menos burocrático el proceso de otorgamiento, renovación y
+validación de licencias de pesca en sus distintas categorías comerciales y
+recreativas; disponer la digitalización integral de trámites; consolidar permisos
+asociados en un comprobante único verificable; optimizar la rendición de
+estadísticas por medios electrónicos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La pesca constituye una de las actividades económicas más antiguas y
+socialmente arraigadas en Puerto Rico. Desde el punto de vista cultural, representa una
+manifestación de identidad y herencia colectiva de las comunidades costeras; desde el
+punto de vista económico, sostiene cientos de familias, pequeñas cooperativas y
+empresas locales que dependen directamente de la captura, procesamiento y
+distribución de productos del mar. En su dimensión ambiental, la pesca bien regulada
+es también un mecanismo de ordenación y monitoreo del estado de los ecosistemas
+marinos y costeros de la Isla.
+La Ley 278-1998, según enmendada, conocida como “Ley de Pesquerías de
+Puerto Rico” (en adelante, Ley 278), fue aprobada en un contexto en que el Gobierno
+2
+reconoció la necesidad de sustituir el marco legal de 1936, obsoleto e insuficiente para
+atender los retos modernos del manejo pesquero, por un régimen integral de manejo
+sustentable. Dicha Ley incorporó conceptos científicos y administrativos adelantados
+para su época, incluyendo la diferenciación de licencias de pescadores comerciales a
+tiempo completo, a tiempo parcial y principiantes, así como categorías para pescadores
+recreativos y de alquiler. Esta estructura fue visionaria y sentó las bases para el control
+y manejo racional de los recursos marinos.
+No obstante, a más de veinticinco (25) años de su aprobación, la Ley 278 requiere
+ser atemperada a las realidades contemporáneas del sector pesquero y de la gestión
+pública. En la práctica, los procedimientos de solicitud y renovación de licencias se han
+tornado excesivamente burocráticos, fragmentados y dependientes de trámites
+presenciales, que resultan onerosos tanto para los pescadores como para la propia
+administración pública. Los pescadores deben someter repetidamente documentos que
+el Estado ya posee, como certificaciones de residencia, licencias de embarcación o
+comprobantes contributivos, lo que genera demoras, pérdidas de ingresos y una carga
+administrativa innecesaria. Además, la falta de interoperabilidad entre agencias impide
+validar datos de forma ágil y segura.
+En una época en que el Gobierno de Puerto Rico ha impulsado la transformación
+digital mediante la Ley 75-2019, conocida como “Ley de la Puerto Rico Innovation and
+Technology Service”, que crea el Sistema IDEAL y la Ley 38-2017, conocida como “Ley
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico,” que rige los
+procesos administrativos uniformes, resulta contradictorio que una actividad tan
+regulada como la pesca continúe gestionándose bajo un modelo predominantemente
+analógico. La ausencia de mecanismos digitales limita la transparencia, dificulta la
+fiscalización eficiente y reduce la capacidad del Estado para recopilar estadísticas
+pesqueras precisas, fundamentales para la conservación del recurso.
+Asimismo, la pandemia de COVID-19 y los eventos de emergencia climatológica
+de los últimos años han evidenciado la necesidad de dotar a los pescadores de
+instrumentos de gestión más flexibles y resilientes, que les permitan renovar licencias,
+3
+rendir estadísticas y mantener su cumplimiento regulatorio sin depender
+exclusivamente de trámites presenciales. La transición hacia un sistema digital de
+licencias y permisos constituye, por tanto, una política pública alineada con la eficiencia,
+la equidad y la modernización gubernamental.
+Esta Asamblea Legislativa, consciente del valor económico, cultural y ambiental
+de la pesca puertorriqueña, reconoce que la sostenibilidad de los recursos marinos no se
+logra a través de la burocracia, sino mediante la participación informada, la
+formalización responsable y la colaboración efectiva entre el Estado y los pescadores.
+Facilitar los trámites no significa relajar la protección ambiental; significa fortalecer la
+legitimidad del sistema, fomentar el cumplimiento voluntario y permitir que las
+agencias concentren sus esfuerzos en la supervisión y la investigación científica, en
+lugar de realizar tareas meramente repetitivas o administrativas.
+Por tal razón, mediante esta Ley, se dispone la creación de un sistema digital
+unificado de licencias y permisos de pesca que abarque tanto las categorías comerciales
+como recreativas. Este sistema permitirá la radicación y renovación electrónica, el pago
+de derechos en línea, la validación automática de datos interagenciales, la emisión
+inmediata de comprobantes digitales, la consolidación de permisos asociados en un
+único documento verificable, y la validación provisional automática cuando el retraso
+sea atribuible a la administración. A su vez, se fortalece la obligación de rendición de
+estadísticas mediante medios electrónicos, con respeto a la confidencialidad de la
+información comercial.
+Esta ley no sustituye los criterios de conservación ni las facultades del Secretario
+del Departamento de Recursos Naturales y Ambientales, sino que optimiza su
+aplicación. Se preservan íntegros los regímenes de vedas, cuotas, penalidades y
+fiscalización, al tiempo que se facilita la experiencia ciudadana y se promueve la
+integración de tecnología en los procesos gubernamentales.
+En fin, esta Asamblea Legislativa reafirma su compromiso con el manejo
+sustentable de los recursos pesqueros, la eficiencia administrativa, la equidad digital y
+el fortalecimiento del sector pesquero como pilar económico y cultural de Puerto Rico.
+4
+La modernización de la Ley 278-1998, según enmendada, representa un paso firme
+hacia un modelo de gobernanza ambiental participativo, transparente y adaptado a los
+tiempos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se enmiendan los incisos A, B, C, D, E, F y G del Artículo 6 de la Ley
+2 278-1998, según enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, para
+3 que lea como sigue:
+4 “Artículo 6. — Licencias de Pesca.
+5 El Departamento de Recursos Naturales y Ambientales implantará un sistema digital
+6 unificado para la radicación, expedición, renovación y verificación de licencias de pesca en todas
+7 sus categorías, comerciales y recreativas. Dicho sistema permitirá la solicitud electrónica con
+8 firma digital válida, el pago de derechos, la emisión inmediata de un comprobante electrónico con
+9 igual validez que el documento físico y el acceso a credenciales digitales verificables por agentes
+10 autorizados.
+11 El Secretario establecerá mecanismos de interoperabilidad con agencias tales como el
+12 Departamento de Transportación y Obras Públicas, el Registro Demográfico y cualesquiera
+13 otras, a fin de verificar electrónicamente la identidad, residencia, registros de embarcaciones y
+14 demás datos necesarios, sin exigir al solicitante documentos que ya obren en los archivos
+15 gubernamentales.
+16 La renovación se realizará, como norma general, mediante declaración jurada de
+17 cumplimiento y confirmación de que no median sanciones firmes que lo inhabiliten, evitando
+18 resometer los documentos previamente validados, salvo justa causa.
+5
+1 Cuando, por causas no imputables al solicitante, el Departamento no emita la resolución final
+2 dentro de los treinta (30) días siguientes a la presentación completa de la solicitud de renovación,
+3 la licencia vigente quedará vigente provisionalmente hasta la notificación de la determinación
+4 final. Esta validación no exime el cumplimiento de vedas, tallas mínimas, artes autorizadas ni
+5 demás condiciones legales o reglamentarias.
+6 El Secretario garantizará módulos de servicio regionales y asistencia presencial para
+7 solicitantes sin acceso a medios electrónicos.
+8 Toda persona que pesque en aguas jurisdiccionales de Puerto Rico, tendrá que
+9 poseer las licencias y permisos necesarios debidamente expedidos por el Secretario,
+10 salvo las excepciones dispuestas por el reglamento. Los mismos deberán estar
+11 disponibles para inspección en todo momento que el pescador esté ejerciendo su oficio
+12 o practicando esta actividad o deporte, y no serán transferibles. Además, la obtención
+13 de las licencias y permisos de pesca no eximirá al solicitante de obtener otros permisos
+14 requeridos por agencias del gobierno de Puerto Rico y de los Estados Unidos.
+15 Los solicitantes tendrán que demostrar conocimiento de la Ley de Pesquerías y sus
+16 reglamentos y cumplir con los requisitos que a continuación se expresan y cualquier
+17 otro establecido por reglamento antes de otorgársele la licencia. Los pescadores deberán
+18 presentar documentos fidedignos que demuestren el cumplimiento de los requisitos de
+19 la otorgación de las licencias y el ingreso que devenga de la pesca comercial. Los
+20 solicitantes de licencias para pescar comercialmente en aguas jurisdiccionales de Puerto
+21 Rico deberán ser mayores de edad, o podrán ser menores de 18 años que sometan la
+6
+1 autorización que emite el Departamento del Trabajo y Recursos Humanos a menores de
+2 edad para poder trabajar.
+3 Será responsabilidad del Departamento publicar, suministrar y mantener disponible
+4 copia de las leyes y reglamentos aplicables.
+5 A. Licencia de Pescador Comercial a Tiempo Completo
+6 El solicitante de esta licencia tendrá que cumplir con los siguientes requisitos:
+7 1. Completar el formulario de solicitud de licencia de pescador comercial a tiempo
+8 completo.
+9 2. Ser residente legal en Puerto Rico durante un año previo a la solicitud.
+10 3. Haber rendido o acordar rendir estadísticas de su actividad de pesca.
+11 4. Pagar la cantidad que se determine por reglamento.
+12 5. Cualquier otro requisito establecido por reglamento.
+13 Esta licencia tendrá una duración de cuatro (4) años, excepto para aquellos
+14 pescadores que tengan sesenta (60) años o más, y/o personas pensionadas por
+15 incapacidad los cuales tendrán el beneficio de poseer dicha licencia por término
+16 vitalicio. Todos los demás requisitos y condiciones que se exigen en esta Ley se
+17 mantienen en vigor. La posesión por término vitalicio aquí establecida sólo se otorgará
+18 ante la solicitud para la renovación de la licencia de pescador comercial a tiempo
+19 completo.
+20 La solicitud y renovación de esta licencia, así como los reportes estadísticos, podrán efectuarse
+21 por medios electrónicos conforme a las disposiciones de esta Ley y al reglamento que adopte el
+22 Departamento.
+7
+1 B. Licencia de Pescador Comercial a Tiempo Parcial
+2 El solicitante de esta licencia tendrá que cumplir con los siguientes requisitos:
+3 1. Completar el formulario de solicitud de Licencia de Pescador Comercial a
+4 Tiempo Parcial.
+5 2. Ser residente legal en Puerto Rico durante un año previo a la solicitud.
+6 3. Haber rendido o acordar rendir estadísticas de su actividad de pesca.
+7 4. Pagar la cantidad que se determine por reglamento.
+8 5. Cualquier otro requisito establecido por reglamento. Esta licencia tendrá una
+9 duración de cuatro (4) años.
+10 La licencia podrá solicitarse y renovarse electrónicamente. Los reportes estadísticos y el pago
+11 de derechos podrán realizarse a través del sistema digital unificado del Departamento.
+12 C. Pescador Comercial Principiante
+13 El solicitante de esta licencia tendrá que cumplir con los siguientes requisitos:
+14 1. Completar el formulario de solicitud de licencia de pescador comercial
+15 principiante.
+16 2. Ser residente legal en Puerto Rico durante un año previo a la solicitud.
+17 3. Acordar rendir estadísticas de su actividad de pesca.
+18 4. Pagar la cantidad que se determine por reglamento.
+19 5. Cualquier otro requisito establecido por reglamento.
+20 Esta licencia tendrá una duración máxima de un (1) año. Si el pescador muestra
+21 evidencia de que durante el año de vigencia no ha podido cumplir con los requisitos
+8
+1 necesarios para obtener una licencia en cualquier otra categoría, se le podrá renovar la
+2 licencia de Pescador Comercial Principiante por un (1) año, una sola vez.
+3 El endoso o certificación requerida podrá presentarse en formato físico o digital conforme al
+4 sistema electrónico de licencias. El solicitante podrá realizar a través del sistema digital unificado
+5 del Departamento el reporte mensual de estadísticas y demás obligaciones aplicables a su
+6 categoría.
+7 D. Licencia de Pescador Comercial No-Residente
+8 La obtención de esta licencia precisará de los siguientes requisitos:
+9 1. Completar el formulario de solicitud de Licencia de Pescador Comercial No-
+10 Residente.
+11 2. Ser ciudadano de los Estados Unidos.
+12 3. Acordar rendir estadísticas de su actividad de pesca.
+13 4. Pagar la suma que se determine por reglamento.
+14 5. Cualquier otro requisito establecido por reglamento. Esta licencia tendrá una
+15 duración de seis (6) meses.
+16 El trámite de esta licencia se realizará preferiblemente por medios electrónicos, sin
+17 menoscabar los requisitos de pago y las verificaciones de seguridad y conservación.
+18 E. Licencia de Pescador Recreativo
+19 La obtención de esta licencia precisará de los siguientes requisitos:
+20 1. Completar el formulario de solicitud de Licencia de Pescador Recreativo que
+21 deberá incluir una obligación de no vender o traficar con el producto de la pesca.
+9
+1 2. Pagar la suma que se determine por reglamento. Se harán excepciones por
+2 reglamento por el pago de esta licencia.
+3 3. Ser residente legal de Puerto Rico durante un año previo a la solicitud.
+4 4. Acordar rendir estadística de su actividad de pesca.
+5 5. Cualquier otro requisito establecido por reglamento. Esta licencia tendrá una
+6 duración de un (1) año.
+7 El proceso de solicitud, renovación y pago de esta licencia podrá realizarse electrónicamente
+8 mediante el sistema digital unificado del Departamento. En caso de que el Departamento no
+9 emita la renovación dentro de los quince (15) días siguientes a la presentación completa de la
+10 solicitud, la licencia quedará provisionalmente validada por un término de treinta (30) días
+11 adicionales o hasta que se emita la renovación definitiva, lo que ocurra primero. El Secretario
+12 garantizará acceso a módulos de asistencia presencial para solicitantes sin conectividad.
+13 F. Licencia Provisional de Pescador Recreativo
+14 La otorgación de esta licencia precisará de los siguientes requisitos:
+15 1. Completar el formulario de solicitud de Licencia Provisional de Pescador
+16 Recreativo.
+17 2. Pagar la cantidad que se determine por reglamento.
+18 3. Cualquier otro requisito establecido por reglamento.
+19 La duración de esta licencia podrá ser variable hasta un máximo de seis (6) meses.
+20 El Departamento podrá expedir y validar electrónicamente esta licencia, permitiendo al
+21 solicitante realizar el trámite y el pago de derechos por medios digitales. En caso de demora
+10
+1 administrativa, el comprobante digital emitido al momento de la solicitud tendrá validez legal
+2 equivalente a la licencia física hasta tanto se emita la versión definitiva.
+3 G. Licencia de Pesca Recreativa para Dueños de Botes de Alquiler La otorgación de
+4 esta licencia precisará los siguientes requisitos:
+5 1. Completar el formulario de solicitud de Licencia de Pesca Recreativa para
+6 Dueños de Botes de Alquiler.
+7 2. Pagar la cantidad que se determine por reglamento.
+8 3. Ser ciudadano de los Estados Unidos de Norte América o residente legal en
+9 Puerto Rico durante un año previo a la solicitud.
+10 4. Acordar rendir estadísticas de su actividad de pesca.
+11 5. Cualquier otro requisito establecido por reglamento.
+12 La licencia tendrá una duración establecida por reglamento.
+13 Los dueños de botes de alquiler podrán tramitar la obtención y renovación de esta licencia por
+14 medios electrónicos, conforme al sistema digital unificado del Departamento. La licencia se
+15 considerará provisionalmente válida mientras el Departamento complete la evaluación, sin
+16 perjuicio del cumplimiento con las disposiciones de seguridad, seguro y registro aplicables a las
+17 embarcaciones.”
+18 Sección 2.- Se añade un nuevo inciso E al Artículo 7 de la Ley 278-1998, según
+19 enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, para que lea como
+20 sigue:
+21 “Artículo 7. — Permisos Especiales de Pesca.
+22 A. …
+11
+1 …
+2 E. El Departamento integrará, en un comprobante único digital verificable, la licencia
+3 principal y los permisos especiales que correspondan a la categoría del titular, incluidos, según
+4 corresponda, los permisos para pesca de langosta común, carrucho, peces de pico y pez espada, a
+5 fin de evitar trámites y comprobantes separados. El Secretario establecerá, por reglamento, los
+6 mecanismos de emisión, verificación en campo por agentes autorizados y la actualización
+7 dinámica de permisos vinculados a la licencia.
+8 El Secretario podrá, mediante orden administrativa, disponer la integración de permisos
+9 adicionales que surjan de leyes o reglamentos complementarios, siempre que no contravenga las
+10 disposiciones de conservación y manejo de especies protegidas.
+11 El Departamento asegurará que todo permiso integrado en la licencia digital pueda ser
+12 verificado por medios electrónicos por los agentes de vigilancia adscritos al Cuerpo de Vigilantes
+13 del Departamento de Recursos Naturales y Ambientales.”
+14 Sección 3.- Se enmiendan los incisos A, B y C del Artículo 9 de la Ley 278-1998,
+15 según enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, para que lea
+16 como sigue:
+17 “Artículo 9. — Requisitos de Información.
+18 A. Todo poseedor de licencia de pescador vendrá obligado a suministrar
+19 información estadística sobre la totalidad de su pesca, captura o compra, según se lo
+20 requiera el Departamento mediante reglamento.
+21 La información requerida podrá suministrarse por medios electrónicos a través del sistema
+22 digital unificado de licencias y permisos del Departamento de Recursos Naturales y Ambientales.
+12
+1 Dicha rendición electrónica podrá efectuarse mediante formularios oficiales provistos en línea por
+2 el Departamento, debidamente autenticados por el solicitante.
+3 El Secretario establecerá por reglamento los plazos, mecanismos de autenticación y requisitos
+4 de integridad de datos aplicables a las estadísticas electrónicas, garantizando que los pescadores y
+5 entidades puedan cumplir de forma segura y verificable.
+6 B. Todas las entidades comerciales o personas que trafiquen con recursos pesqueros
+7 vivos en Puerto Rico vendrán obligadas a mantener un registro oficial de la
+8 procedencia, cantidad y especies objeto de su tráfico, mediante el registro oficial
+9 suministrado por el Departamento. Este registro estará accesible al personal del
+10 Departamento, conforme al reglamento.
+11 El registro podrá mantenerse en formato físico o digital, conforme a las especificaciones
+12 establecidas por el Departamento. En los casos en que se utilicen medios electrónicos, la
+13 información será transmitida y almacenada de forma segura dentro del sistema digital unificado,
+14 sujeto a auditoría y validación por los funcionarios autorizados.
+15 C. [La información contenida en los registros será confidencial y los registros no
+16 se considerarán públicos. La información contenida en los mismos será recopilada o
+17 publicada en tal forma que no revele información de negocio.] La información contenida
+18 en los registros será confidencial, independientemente del medio de recopilación o
+19 almacenamiento, y no se considerará documento público. La información estadística podrá ser
+20 publicada o divulgada únicamente en forma agregada o anonimizada, de manera que no revele
+21 secretos de negocio o detalles que permitan identificar operaciones particulares.
+13
+1 El Secretario adoptará medidas tecnológicas y administrativas adecuadas para garantizar la
+2 protección de los datos, conforme a las disposiciones aplicables de la Ley 75-2019, según
+3 enmendada, conocida como la “Ley de Gobierno Digital”, y a las políticas de ciberseguridad del
+4 Gobierno de Puerto Rico.”
+5 Sección 4.- Reglamentación.
+6 El Departamento de Recursos Naturales y Ambientales deberá adoptar, enmendar o
+7 derogar los reglamentos necesarios para la efectiva implantación de las disposiciones
+8 contenidas en esta Ley, dentro de un término no mayor de ciento ochenta (180) días
+9 contados a partir de su aprobación.
+10 Dichos reglamentos deberán atemperarse a lo dispuesto en la Ley 38-2017, según
+11 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+12 Gobierno de Puerto Rico”, y deberán establecer los parámetros técnicos, administrativos
+13 y operacionales necesarios para:
+14 1. Implementar el sistema digital unificado de licencias, permisos y registros
+15 pesqueros, garantizando la interoperabilidad con otras agencias y entidades
+16 gubernamentales.
+17 2. Regular los procesos de solicitud, renovación, validación y verificación
+18 electrónica de licencias, así como los mecanismos de autenticación y firma
+19 digital aplicables.
+20 3. Disponer los requisitos técnicos de seguridad, respaldo de información y
+21 confidencialidad de datos, conforme a la Ley 75-2019, conocida como “Ley de
+14
+1 Gobierno Digital”, y a las políticas de ciberseguridad adoptadas por el
+2 Gobierno de Puerto Rico.
+3 4. Establecer los formatos oficiales, formularios electrónicos y procesos de
+4 auditoría interna necesarios para la rendición y almacenamiento de
+5 estadísticas pesqueras.
+6 5. Definir las condiciones bajo las cuales se permitirá la validación provisional
+7 de licencias cuando medie demora administrativa no imputable al solicitante.
+8 6. Determinar los procedimientos de fiscalización electrónica y los mecanismos
+9 de verificación de licencias y permisos por parte del Cuerpo de Vigilantes del
+10 Departamento.
+11 7. Establecer las sanciones administrativas aplicables en caso de incumplimiento
+12 con los deberes de rendición de estadísticas, conservación de registros o uso
+13 indebido de las credenciales digitales.
+14 El Secretario podrá emitir órdenes administrativas o circulares complementarias
+15 para la implantación ágil de las disposiciones de esta Ley, siempre que no contravengan
+16 su texto ni los reglamentos adoptados al amparo de esta.
+17 Toda reglamentación, manual o norma adoptada al amparo de esta disposición
+18 deberá publicarse en el portal oficial del Departamento y en el Registro Electrónico de
+19 Reglamentos Gubernamentales, y notificarse a las cooperativas, asociaciones y
+20 organizaciones de pescadores debidamente registradas.
+21 Sección 5.- Separabilidad.
+15
+1 Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+2 un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+3 restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+4 Sección 6. – Vigencia.
+5 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0  3 .r  ae d l d p e s d c c y d l d i d t c p e u c ú v o l r d p c u d l a e m a y d v e s c d f p c y l q d d d l c p y t u m d o y m d e d l e L 2 s e c c “ d P d]
+[DELETED:  D L i c c y a a s é i l d d l d p c a a a l r c d s p y d l g e b f y d d t q r o t p l p c p l p E y p c c d r l d e o a u r c q u a t c l p c g b u m p L a d m d l l t d l e y r l c d E p r e l ú a h e l n d d a l p d]
+[DELETED:  e y m s c r s d d t p L t h u s d d a t d l b s m l p i l d s f e c v y p q l c s e e l s y l i c e t m e L s d l c d u s d d e l l v a d d i l e d c d l c d p a e u m m e c r a l c d l D d R N y A s q o s S p í l r d v c p y a t q s f l e c y s p l f e A L r s c c e m]
+[DELETED:  m d l L 2 s e r u p fee  E D d R N y A i u s d u s c c y r D s p l s e c f i a E S e m d i c a t c e D d T y O P e R D y c o d d n s e a s d q y o e l a g L r s r c n g m d j d c r]
+[DELETED:  C d l f d E S g m d s r y a p p s p q p e a j d P R t q l l y p n d e p e S l e d p e r L m d e o d l l y e i q d d l p c L]
+[DELETED:  L C S H P C l t u d d c ( a e p a q t s ( a o m y p p p l c t e b d p d l p t T l d r y c q s e e e L s l s p l r d l l d p c a t L p D]
+[DELETED:  L C e f d s d L d P C a S H P C o r e p r E l t u L d P C e f d s d l d p c S A P C l t u d m d u ( a S e p m]
+[DELETED:  E s d D e r m d e y d o a a s c L C e f d s d L d P C N S A P C o r e p r E l t u E t d e l s r p p m e s m L C e f d s d L d P R q]
+[DELETED:  P l s q s d p r S h e p S A C o r e p r E l t u E m e s d u d D E c d q e D n e s l l q p v p u t d t ( d a g L C e f d s d L P d P P C E D p e y v e e l p a s r e t y e p d d p m d E c d d]
+[DELETED:  a e L C e f d s d L d P R p P S c d l E U d N A o r l e A C L m e c a s d u d D L l s c p v m e D c l e s p e 2-S a u n i E a A 7 d l L 2 s  c c “ d P d P R p q l c …]
+[DELETED: … E E D i e u c ú d v l l p c f m d e v e c p a a y l a d E S p m o a d l i d p a d E D a q t p i e l l d p s v d 3 S e l i A B y C d A 9 d l L 2 T p d l d p v o a s L d]
+[DELETED:  D e E d e T e P R v o a m u r o d l c y e o d s t m e r o p e D E r e a a p d E r p m e f f o d c a l e e p e D E l c e q s u m e l i s L e l r s c i d m d r o a p s]
+[DELETED:  E p d l d c a l d a d l L 7 s e G l c c “ d P A U d.I e s d u d l p y r.R l p d s r v y v d l a c l m d a y f.D l r t d s r d i y]
+[DELETED:  D y a l p d c a p e.E l f o f e y p d i n p l r y a d.D.D.E S p e ó a o c c r m o n a a a d e d G y n a l c a y]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1013
+29 de enero de 2026
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+Para enmendar los incisos A, B, C, D, E, F y G del Artículos 6; añadir un nuevo inciso E
+al Artículo 7; y enmendar los incisos A, B y C del Artículo 9 de la Ley 278-1998,
+según enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, a los fines
+de simplificar y hacer menos burocrático el proceso de otorgamiento, renovación y
+validación de licencias de pesca en sus distintas categorías comerciales y
+recreativas; disponer la digitalización integral de trámites; consolidar permisos
+asociados en un comprobante único verificable; optimizar la rendición de
+estadísticas por medios electrónicos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La pesca constituye una de las actividades económicas más antiguas y
+socialmente arraigadas en Puerto Rico. Desde el punto de vista cultural, representa una
+manifestación de identidad y herencia colectiva de las comunidades costeras; desde el
+punto de vista económico, sostiene cientos de familias, pequeñas cooperativas y
+empresas locales que dependen directamente de la captura, procesamiento y
+distribución de productos del mar. En su dimensión ambiental, la pesca bien regulada
+es también un mecanismo de ordenación y monitoreo del estado de los ecosistemas
+marinos y costeros de la Isla.
+La Ley 278-1998, según enmendada, conocida como “Ley de Pesquerías de
+Puerto Rico” (en adelante, Ley 278), fue aprobada en un contexto en que el Gobierno
+
+2
+reconoció la necesidad de sustituir el marco legal de 1936, obsoleto e insuficiente para
+atender los retos modernos del manejo pesquero, por un régimen integral de manejo
+sustentable. Dicha Ley incorporó conceptos científicos y administrativos adelantados
+para su época, incluyendo la diferenciación de licencias de pescadores comerciales a
+tiempo completo, a tiempo parcial y principiantes, así como categorías para pescadores
+recreativos y de alquiler. Esta estructura fue visionaria y sentó las bases para el control
+y manejo racional de los recursos marinos.
+No obstante, a más de veinticinco (25) años de su aprobación, la Ley 278 requiere
+ser atemperada a las realidades contemporáneas del sector pesquero y de la gestión
+pública. En la práctica, los procedimientos de solicitud y renovación de licencias se han
+tornado excesivamente burocráticos, fragmentados y dependientes de trámites
+presenciales, que resultan onerosos tanto para los pescadores como para la propia
+administración pública. Los pescadores deben someter repetidamente documentos que
+el Estado ya posee, como certificaciones de residencia, licencias de embarcación o
+comprobantes contributivos, lo que genera demoras, pérdidas de ingresos y una carga
+administrativa innecesaria. Además, la falta de interoperabilidad entre agencias impide
+validar datos de forma ágil y segura.
+En una época en que el Gobierno de Puerto Rico ha impulsado la transformación
+digital mediante la Ley 75-2019, conocida como “Ley de la Puerto Rico Innovation and
+Technology Service”, que crea el Sistema IDEAL y la Ley 38-2017, conocida como “Ley
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico,” que rige los
+procesos administrativos uniformes, resulta contradictorio que una actividad tan
+regulada como la pesca continúe gestionándose bajo un modelo predominantemente
+analógico. La ausencia de mecanismos digitales limita la transparencia, dificulta la
+fiscalización eficiente y reduce la capacidad del Estado para recopilar estadísticas
+pesqueras precisas, fundamentales para la conservación del recurso.
+Asimismo, la pandemia de COVID-19 y los eventos de emergencia climatológica
+de los últimos años han evidenciado la necesidad de dotar a los pescadores de
+instrumentos de gestión más flexibles y resilientes, que les permitan renovar licencias,
+
+3
+rendir estadísticas y mantener su cumplimiento regulatorio sin depender
+exclusivamente de trámites presenciales. La transición hacia un sistema digital de
+licencias y permisos constituye, por tanto, una política pública alineada con la eficiencia,
+la equidad y la modernización gubernamental.
+Esta Asamblea Legislativa, consciente del valor económico, cultural y ambiental
+de la pesca puertorriqueña, reconoce que la sostenibilidad de los recursos marinos no se
+logra a través de la burocracia, sino mediante la participación informada, la
+formalización responsable y la colaboración efectiva entre el Estado y los pescadores.
+Facilitar los trámites no significa relajar la protección ambiental; significa fortalecer la
+legitimidad del sistema, fomentar el cumplimiento voluntario y permitir que las
+agencias concentren sus esfuerzos en la supervisión y la investigación científica, en
+lugar de realizar tareas meramente repetitivas o administrativas.
+Por tal razón, mediante esta Ley, se dispone la creación de un sistema digital
+unificado de licencias y permisos de pesca que abarque tanto las categorías comerciales
+como recreativas. Este sistema permitirá la radicación y renovación electrónica, el pago
+de derechos en línea, la validación automática de datos interagenciales, la emisión
+inmediata de comprobantes digitales, la consolidación de permisos asociados en un
+único documento verificable, y la validación provisional automática cuando el retraso
+sea atribuible a la administración. A su vez, se fortalece la obligación de rendición de
+estadísticas mediante medios electrónicos, con respeto a la confidencialidad de la
+información comercial.
+Esta ley no sustituye los criterios de conservación ni las facultades del Secretario
+del Departamento de Recursos Naturales y Ambientales, sino que optimiza su
+aplicación. Se preservan íntegros los regímenes de vedas, cuotas, penalidades y
+fiscalización, al tiempo que se facilita la experiencia ciudadana y se promueve la
+integración de tecnología en los procesos gubernamentales.
+En fin, esta Asamblea Legislativa reafirma su compromiso con el manejo
+sustentable de los recursos pesqueros, la eficiencia administrativa, la equidad digital y
+el fortalecimiento del sector pesquero como pilar económico y cultural de Puerto Rico.
+
+4
+La modernización de la Ley 278-1998, según enmendada, representa un paso firme
+hacia un modelo de gobernanza ambiental participativo, transparente y adaptado a los
+tiempos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. – Se enmiendan los incisos A, B, C, D, E, F y G del Artículo 6 de la Ley
+2 278-1998, según enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, para
+3 que lea como sigue:
+4 “Artículo 6. — Licencias de Pesca.
+5 El Departamento de Recursos Naturales y Ambientales implantará un sistema digital
+6 unificado para la radicación, expedición, renovación y verificación de licencias de pesca en todas
+7 sus categorías, comerciales y recreativas. Dicho sistema permitirá la solicitud electrónica con
+8 firma digital válida, el pago de derechos, la emisión inmediata de un comprobante electrónico con
+9 igual validez que el documento físico y el acceso a credenciales digitales verificables por agentes
+10 autorizados.
+11 El Secretario establecerá mecanismos de interoperabilidad con agencias tales como el
+12 Departamento de Transportación y Obras Públicas, el Registro Demográfico y cualesquiera
+13 otras, a fin de verificar electrónicamente la identidad, residencia, registros de embarcaciones y
+14 demás datos necesarios, sin exigir al solicitante documentos que ya obren en los archivos
+15 gubernamentales.
+16 La renovación se realizará, como norma general, mediante declaración jurada de
+17 cumplimiento y confirmación de que no median sanciones firmes que lo inhabiliten, evitando
+18 resometer los documentos previamente validados, salvo justa causa.
+
+5
+1 Cuando, por causas no imputables al solicitante, el Departamento no emita la resolución final
+2 dentro de los treinta (30) días siguientes a la presentación completa de la solicitud de renovación,
+3 la licencia vigente quedará vigente provisionalmente hasta la notificación de la determinación
+4 final. Esta validación no exime el cumplimiento de vedas, tallas mínimas, artes autorizadas ni
+5 demás condiciones legales o reglamentarias.
+6 El Secretario garantizará módulos de servicio regionales y asistencia presencial para
+7 solicitantes sin acceso a medios electrónicos.
+8 Toda persona que pesque en aguas jurisdiccionales de Puerto Rico, tendrá que
+9 poseer las licencias y permisos necesarios debidamente expedidos por el Secretario,
+10 salvo las excepciones dispuestas por el reglamento. Los mismos deberán estar
+11 disponibles para inspección en todo momento que el pescador esté ejerciendo su oficio
+12 o practicando esta actividad o deporte, y no serán transferibles. Además, la obtención
+13 de las licencias y permisos de pesca no eximirá al solicitante de obtener otros permisos
+14 requeridos por agencias del gobierno de Puerto Rico y de los Estados Unidos.
+15 Los solicitantes tendrán que demostrar conocimiento de la Ley de Pesquerías y sus
+16 reglamentos y cumplir con los requisitos que a continuación se expresan y cualquier
+17 otro establecido por reglamento antes de otorgársele la licencia. Los pescadores deberán
+18 presentar documentos fidedignos que demuestren el cumplimiento de los requisitos de
+19 la otorgación de las licencias y el ingreso que devenga de la pesca comercial. Los
+20 solicitantes de licencias para pescar comercialmente en aguas jurisdiccionales de Puerto
+21 Rico deberán ser mayores de edad, o podrán ser menores de 18 años que sometan la
+
+6
+1 autorización que emite el Departamento del Trabajo y Recursos Humanos a menores de
+2 edad para poder trabajar.
+3 Será responsabilidad del Departamento publicar, suministrar y mantener disponible
+4 copia de las leyes y reglamentos aplicables.
+5 A. Licencia de Pescador Comercial a Tiempo Completo
+6 El solicitante de esta licencia tendrá que cumplir con los siguientes requisitos:
+7 1. Completar el formulario de solicitud de licencia de pescador comercial a tiempo
+8 completo.
+9 2. Ser residente legal en Puerto Rico durante un año previo a la solicitud.
+10 3. Haber rendido o acordar rendir estadísticas de su actividad de pesca.
+11 4. Pagar la cantidad que se determine por reglamento.
+12 5. Cualquier otro requisito establecido por reglamento.
+13 Esta licencia tendrá una duración de cuatro (4) años, excepto para aquellos
+14 pescadores que tengan sesenta (60) años o más, y/o personas pensionadas por
+15 incapacidad los cuales tendrán el beneficio de poseer dicha licencia por término
+16 vitalicio. Todos los demás requisitos y condiciones que se exigen en esta Ley se
+17 mantienen en vigor. La posesión por término vitalicio aquí establecida sólo se otorgará
+18 ante la solicitud para la renovación de la licencia de pescador comercial a tiempo
+19 completo.
+20 La solicitud y renovación de esta licencia, así como los reportes estadísticos, podrán efectuarse
+21 por medios electrónicos conforme a las disposiciones de esta Ley y al reglamento que adopte el
+22 Departamento.
+
+7
+1 B. Licencia de Pescador Comercial a Tiempo Parcial
+2 El solicitante de esta licencia tendrá que cumplir con los siguientes requisitos:
+3 1. Completar el formulario de solicitud de Licencia de Pescador Comercial a
+4 Tiempo Parcial.
+5 2. Ser residente legal en Puerto Rico durante un año previo a la solicitud.
+6 3. Haber rendido o acordar rendir estadísticas de su actividad de pesca.
+7 4. Pagar la cantidad que se determine por reglamento.
+8 5. Cualquier otro requisito establecido por reglamento. Esta licencia tendrá una
+9 duración de cuatro (4) años.
+10 La licencia podrá solicitarse y renovarse electrónicamente. Los reportes estadísticos y el pago
+11 de derechos podrán realizarse a través del sistema digital unificado del Departamento.
+12 C. Pescador Comercial Principiante
+13 El solicitante de esta licencia tendrá que cumplir con los siguientes requisitos:
+14 1. Completar el formulario de solicitud de licencia de pescador comercial
+15 principiante.
+16 2. Ser residente legal en Puerto Rico durante un año previo a la solicitud.
+17 3. Acordar rendir estadísticas de su actividad de pesca.
+18 4. Pagar la cantidad que se determine por reglamento.
+19 5. Cualquier otro requisito establecido por reglamento.
+20 Esta licencia tendrá una duración máxima de un (1) año. Si el pescador muestra
+21 evidencia de que durante el año de vigencia no ha podido cumplir con los requisitos
+
+8
+1 necesarios para obtener una licencia en cualquier otra categoría, se le podrá renovar la
+2 licencia de Pescador Comercial Principiante por un (1) año, una sola vez.
+3 El endoso o certificación requerida podrá presentarse en formato físico o digital conforme al
+4 sistema electrónico de licencias. El solicitante podrá realizar a través del sistema digital unificado
+5 del Departamento el reporte mensual de estadísticas y demás obligaciones aplicables a su
+6 categoría.
+7 D. Licencia de Pescador Comercial No-Residente
+8 La obtención de esta licencia precisará de los siguientes requisitos:
+9 1. Completar el formulario de solicitud de Licencia de Pescador Comercial No-
+10 Residente.
+11 2. Ser ciudadano de los Estados Unidos.
+12 3. Acordar rendir estadísticas de su actividad de pesca.
+13 4. Pagar la suma que se determine por reglamento.
+14 5. Cualquier otro requisito establecido por reglamento. Esta licencia tendrá una
+15 duración de seis (6) meses.
+16 El trámite de esta licencia se realizará preferiblemente por medios electrónicos, sin
+17 menoscabar los requisitos de pago y las verificaciones de seguridad y conservación.
+18 E. Licencia de Pescador Recreativo
+19 La obtención de esta licencia precisará de los siguientes requisitos:
+20 1. Completar el formulario de solicitud de Licencia de Pescador Recreativo que
+21 deberá incluir una obligación de no vender o traficar con el producto de la pesca.
+
+9
+1 2. Pagar la suma que se determine por reglamento. Se harán excepciones por
+2 reglamento por el pago de esta licencia.
+3 3. Ser residente legal de Puerto Rico durante un año previo a la solicitud.
+4 4. Acordar rendir estadística de su actividad de pesca.
+5 5. Cualquier otro requisito establecido por reglamento. Esta licencia tendrá una
+6 duración de un (1) año.
+7 El proceso de solicitud, renovación y pago de esta licencia podrá realizarse electrónicamente
+8 mediante el sistema digital unificado del Departamento. En caso de que el Departamento no
+9 emita la renovación dentro de los quince (15) días siguientes a la presentación completa de la
+10 solicitud, la licencia quedará provisionalmente validada por un término de treinta (30) días
+11 adicionales o hasta que se emita la renovación definitiva, lo que ocurra primero. El Secretario
+12 garantizará acceso a módulos de asistencia presencial para solicitantes sin conectividad.
+13 F. Licencia Provisional de Pescador Recreativo
+14 La otorgación de esta licencia precisará de los siguientes requisitos:
+15 1. Completar el formulario de solicitud de Licencia Provisional de Pescador
+16 Recreativo.
+17 2. Pagar la cantidad que se determine por reglamento.
+18 3. Cualquier otro requisito establecido por reglamento.
+19 La duración de esta licencia podrá ser variable hasta un máximo de seis (6) meses.
+20 El Departamento podrá expedir y validar electrónicamente esta licencia, permitiendo al
+21 solicitante realizar el trámite y el pago de derechos por medios digitales. En caso de demora
+
+10
+1 administrativa, el comprobante digital emitido al momento de la solicitud tendrá validez legal
+2 equivalente a la licencia física hasta tanto se emita la versión definitiva.
+3 G. Licencia de Pesca Recreativa para Dueños de Botes de Alquiler La otorgación de
+4 esta licencia precisará los siguientes requisitos:
+5 1. Completar el formulario de solicitud de Licencia de Pesca Recreativa para
+6 Dueños de Botes de Alquiler.
+7 2. Pagar la cantidad que se determine por reglamento.
+8 3. Ser ciudadano de los Estados Unidos de Norte América o residente legal en
+9 Puerto Rico durante un año previo a la solicitud.
+10 4. Acordar rendir estadísticas de su actividad de pesca.
+11 5. Cualquier otro requisito establecido por reglamento.
+12 La licencia tendrá una duración establecida por reglamento.
+13 Los dueños de botes de alquiler podrán tramitar la obtención y renovación de esta licencia por
+14 medios electrónicos, conforme al sistema digital unificado del Departamento. La licencia se
+15 considerará provisionalmente válida mientras el Departamento complete la evaluación, sin
+16 perjuicio del cumplimiento con las disposiciones de seguridad, seguro y registro aplicables a las
+17 embarcaciones.”
+18 Sección 2.- Se añade un nuevo inciso E al Artículo 7 de la Ley 278-1998, según
+19 enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, para que lea como
+20 sigue:
+21 “Artículo 7. — Permisos Especiales de Pesca.
+22 A. …
+
+11
+1 …
+2 E. El Departamento integrará, en un comprobante único digital verificable, la licencia
+3 principal y los permisos especiales que correspondan a la categoría del titular, incluidos, según
+4 corresponda, los permisos para pesca de langosta común, carrucho, peces de pico y pez espada, a
+5 fin de evitar trámites y comprobantes separados. El Secretario establecerá, por reglamento, los
+6 mecanismos de emisión, verificación en campo por agentes autorizados y la actualización
+7 dinámica de permisos vinculados a la licencia.
+8 El Secretario podrá, mediante orden administrativa, disponer la integración de permisos
+9 adicionales que surjan de leyes o reglamentos complementarios, siempre que no contravenga las
+10 disposiciones de conservación y manejo de especies protegidas.
+11 El Departamento asegurará que todo permiso integrado en la licencia digital pueda ser
+12 verificado por medios electrónicos por los agentes de vigilancia adscritos al Cuerpo de Vigilantes
+13 del Departamento de Recursos Naturales y Ambientales.”
+14 Sección 3.- Se enmiendan los incisos A, B y C del Artículo 9 de la Ley 278-1998,
+15 según enmendada, conocida como “Ley de Pesquerías de Puerto Rico”, para que lea
+16 como sigue:
+17 “Artículo 9. — Requisitos de Información.
+18 A. Todo poseedor de licencia de pescador vendrá obligado a suministrar
+19 información estadística sobre la totalidad de su pesca, captura o compra, según se lo
+20 requiera el Departamento mediante reglamento.
+21 La información requerida podrá suministrarse por medios electrónicos a través del sistema
+22 digital unificado de licencias y permisos del Departamento de Recursos Naturales y Ambientales.
+
+12
+1 Dicha rendición electrónica podrá efectuarse mediante formularios oficiales provistos en línea por
+2 el Departamento, debidamente autenticados por el solicitante.
+3 El Secretario establecerá por reglamento los plazos, mecanismos de autenticación y requisitos
+4 de integridad de datos aplicables a las estadísticas electrónicas, garantizando que los pescadores y
+5 entidades puedan cumplir de forma segura y verificable.
+6 B. Todas las entidades comerciales o personas que trafiquen con recursos pesqueros
+7 vivos en Puerto Rico vendrán obligadas a mantener un registro oficial de la
+8 procedencia, cantidad y especies objeto de su tráfico, mediante el registro oficial
+9 suministrado por el Departamento. Este registro estará accesible al personal del
+10 Departamento, conforme al reglamento.
+11 El registro podrá mantenerse en formato físico o digital, conforme a las especificaciones
+12 establecidas por el Departamento. En los casos en que se utilicen medios electrónicos, la
+13 información será transmitida y almacenada de forma segura dentro del sistema digital unificado,
+14 sujeto a auditoría y validación por los funcionarios autorizados.
+15 C. [La información contenida en los registros será confidencial y los registros no
+16 se considerarán públicos. La información contenida en los mismos será recopilada o
+17 publicada en tal forma que no revele información de negocio.] La información contenida
+18 en los registros será confidencial, independientemente del medio de recopilación o
+19 almacenamiento, y no se considerará documento público. La información estadística podrá ser
+20 publicada o divulgada únicamente en forma agregada o anonimizada, de manera que no revele
+21 secretos de negocio o detalles que permitan identificar operaciones particulares.
+
+13
+1 El Secretario adoptará medidas tecnológicas y administrativas adecuadas para garantizar la
+2 protección de los datos, conforme a las disposiciones aplicables de la Ley 75-2019, según
+3 enmendada, conocida como la “Ley de Gobierno Digital”, y a las políticas de ciberseguridad del
+4 Gobierno de Puerto Rico.”
+5 Sección 4.- Reglamentación.
+6 El Departamento de Recursos Naturales y Ambientales deberá adoptar, enmendar o
+7 derogar los reglamentos necesarios para la efectiva implantación de las disposiciones
+8 contenidas en esta Ley, dentro de un término no mayor de ciento ochenta (180) días
+9 contados a partir de su aprobación.
+10 Dichos reglamentos deberán atemperarse a lo dispuesto en la Ley 38-2017, según
+11 enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+12 Gobierno de Puerto Rico”, y deberán establecer los parámetros técnicos, administrativos
+13 y operacionales necesarios para:
+14 1. Implementar el sistema digital unificado de licencias, permisos y registros
+15 pesqueros, garantizando la interoperabilidad con otras agencias y entidades
+16 gubernamentales.
+17 2. Regular los procesos de solicitud, renovación, validación y verificación
+18 electrónica de licencias, así como los mecanismos de autenticación y firma
+19 digital aplicables.
+20 3. Disponer los requisitos técnicos de seguridad, respaldo de información y
+21 confidencialidad de datos, conforme a la Ley 75-2019, conocida como “Ley de
+
+14
+1 Gobierno Digital”, y a las políticas de ciberseguridad adoptadas por el
+2 Gobierno de Puerto Rico.
+3 4. Establecer los formatos oficiales, formularios electrónicos y procesos de
+4 auditoría interna necesarios para la rendición y almacenamiento de
+5 estadísticas pesqueras.
+6 5. Definir las condiciones bajo las cuales se permitirá la validación provisional
+7 de licencias cuando medie demora administrativa no imputable al solicitante.
+8 6. Determinar los procedimientos de fiscalización electrónica y los mecanismos
+9 de verificación de licencias y permisos por parte del Cuerpo de Vigilantes del
+10 Departamento.
+11 7. Establecer las sanciones administrativas aplicables en caso de incumplimiento
+12 con los deberes de rendición de estadísticas, conservación de registros o uso
+13 indebido de las credenciales digitales.
+14 El Secretario podrá emitir órdenes administrativas o circulares complementarias
+15 para la implantación ágil de las disposiciones de esta Ley, siempre que no contravengan
+16 su texto ni los reglamentos adoptados al amparo de esta.
+17 Toda reglamentación, manual o norma adoptada al amparo de esta disposición
+18 deberá publicarse en el portal oficial del Departamento y en el Registro Electrónico de
+19 Reglamentos Gubernamentales, y notificarse a las cooperativas, asociaciones y
+20 organizaciones de pescadores debidamente registradas.
+21 Sección 5.- Separabilidad.
+
+15
+1 Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+2 un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+3 restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+4 Sección 6. – Vigencia.
+5 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0  3 .r  ae d l d p e s d c c y d l d i d t c p e u c ú v o l r d p c u d l a e m a y d v e s c d f p c y l q d d d l c p y t u m d o y m d e d l e L 2 s e c c “ d P d]
+[DELETED:  D L i c c y a a s é i l d d l d p c a a a l r c d s p y d l g e b f y d d t q r o t p l p c p l p E y p c c d r l d e o a u r c q u a t c l p c g b u m p L a d m d l l t d l e y r l c d E p r e l ú a h e l n d d a l p d]
+[DELETED:  e y m s c r s d d t p L t h u s d d a t d l b s m l p i l d s f e c v y p q l c s e e l s y l i c e t m e L s d l c d u s d d e l l v a d d i l e d c d l c d p a e u m m e c r a l c d l D d R N y A s q o s S p í l r d v c p y a t q s f l e c y s p l f e A L r s c c e m]
+[DELETED:  m d l L 2 s e r u p fee  E D d R N y A i u s d u s c c y r D s p l s e c f i a E S e m d i c a t c e D d T y O P e R D y c o d d n s e a s d q y o e l a g L r s r c n g m d j d c r]
+[DELETED:  C d l f d E S g m d s r y a p p s p q p e a j d P R t q l l y p n d e p e S l e d p e r L m d e o d l l y e i q d d l p c L]
+[DELETED:  L C S H P C l t u d d c ( a e p a q t s ( a o m y p p p l c t e b d p d l p t T l d r y c q s e e e L s l s p l r d l l d p c a t L p D]
+[DELETED:  L C e f d s d L d P C a S H P C o r e p r E l t u L d P C e f d s d l d p c S A P C l t u d m d u ( a S e p m]
+[DELETED:  E s d D e r m d e y d o a a s c L C e f d s d L d P C N S A P C o r e p r E l t u E t d e l s r p p m e s m L C e f d s d L d P R q]
+[DELETED:  P l s q s d p r S h e p S A C o r e p r E l t u E m e s d u d D E c d q e D n e s l l q p v p u t d t ( d a g L C e f d s d L P d P P C E D p e y v e e l p a s r e t y e p d d p m d E c d d]
+[DELETED:  a e L C e f d s d L d P R p P S c d l E U d N A o r l e A C L m e c a s d u d D L l s c p v m e D c l e s p e 2-S a u n i E a A 7 d l L 2 s  c c “ d P d P R p q l c …]
+[DELETED: … E E D i e u c ú d v l l p c f m d e v e c p a a y l a d E S p m o a d l i d p a d E D a q t p i e l l d p s v d 3 S e l i A B y C d A 9 d l L 2 T p d l d p v o a s L d]
+[DELETED:  D e E d e T e P R v o a m u r o d l c y e o d s t m e r o p e D E r e a a p d E r p m e f f o d c a l e e p e D E l c e q s u m e l i s L e l r s c i d m d r o a p s]
+[DELETED:  E p d l d c a l d a d l L 7 s e G l c c “ d P A U d.I e s d u d l p y r.R l p d s r v y v d l a c l m d a y f.D l r t d s r d i y]
+[DELETED:  D y a l p d c a p e.E l f o f e y p d i n p l r y a d.D.D.E S p e ó a o c c r m o n a a a d e d G y n a l c a y]

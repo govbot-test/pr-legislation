@@ -1,0 +1,235 @@
+Title: Para enmendar el sub-inciso 1 del inciso (c) de la Regla 23.1 de las Reglas de
+Official Title: Para enmendar el sub-inciso 1 del inciso (c) de la Regla 23.1 de las Reglas de
+Number of Sections: 2
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 51)
+LEY
+Procedimiento Civil de 2009, según enmendadas, a los fines de establecer que los
+borradores de los informes preparados por las personas peritas, así como las
+comunicaciones entre el abogado y la persona perita estén protegidos por la
+doctrina del producto del trabajo (work product) del abogado.
+EXPOSICIÓN DE MOTIVOS
+En nuestro ordenamiento jurídico, la Regla 23.1 de Procedimiento Civil establece
+el alcance del descubrimiento de prueba. Esta Regla dispone, entre otras cosas, que las
+partes podrán hacer descubrimiento sobre cualquier materia no privilegiada que sea
+pertinente al asunto en controversia en el pleito pendiente. No obstante, el inciso (c) de
+la referida Regla 23 de Procedimiento Civil delimita el descubrimiento de prueba
+pericial.
+Al interpretar el inciso (c) de la Regla 23, nuestro Tribunal Supremo resolvió que
+los borradores del informe pericial de un perito testigo, así como las comunicaciones
+entre este y el abogado de la parte que lo contrata, con relación a tales informes, no
+están protegidos por la doctrina del work product. McNeil Healthcare, LLC v. Municipio
+de Las Piedras et al. (II), 206 DPR 659 (2021). El Tribunal Supremo dictaminó que estos
+documentos y comunicaciones están sujetos al descubrimiento de prueba amplio y
+liberal que rige en nuestro ordenamiento jurídico. De esta manera, rechazó adoptar en
+nuestra jurisdicción las disposiciones de la Regla 26(b)(4)(B) y 26(b)(4)(C) de
+Procedimiento Civil Federal, que establecen una protección más estricta para las
+comunicaciones entre abogados y peritos.
+Sin embargo, tras evaluar las expresiones del Tribunal en el referido caso y las
+disposiciones de la Regla 26 de Procedimiento Civil Federal, esta Asamblea Legislativa
+considera que las comunicaciones entre el abogado y perito, incluidos los borradores de
+los informes periciales, constituyen parte esencial de la estrategia legal en un litigio. En
+primer lugar, las comunicaciones entre abogado y perito suelen incluir evaluaciones
+estratégicas sobre cómo presentar los hechos del caso, lo que hace crucial proteger estas
+conversaciones. Permitir que tales comunicaciones sean accesibles para la parte
+contraria podría darle cierta ventaja, toda vez que revela tácticas y enfoques legales
+antes de tiempo. La confidencialidad de estos documentos asegura que las partes
+puedan prepararse sin temor a que su estrategia sea descubierta, lo que es vital para
+mantener el equilibrio y la equidad en el proceso judicial. Otra razón para proteger
+estas comunicaciones es la importancia de fomentar una cooperación abierta y sincera
+entre el abogado y el perito. De igual forma, la protección de estas comunicaciones
+también está alineada con otros privilegios procesales establecidos en nuestra
+2
+legislación, como el privilegio abogado-cliente. Al igual que el abogado debe tener la
+libertad para comunicarse de manera confidencial con su cliente, las comunicaciones
+entre abogado y perito deben gozar de la misma protección.
+Es importante destacar que el derecho a una defensa efectiva es un derecho
+constitucional que debe ser respetado en todo proceso judicial. La protección de las
+comunicaciones entre abogado y perito es un componente esencial de este derecho. Sin
+esta protección, los abogados podrían verse obligados a restringir las conversaciones
+con sus peritos, lo que afectaría la calidad de la defensa. Las partes no podrían
+prepararse adecuadamente para un juicio sin que sus estrategias se vean
+comprometidas por el descubrimiento de comunicaciones confidenciales.
+De otra parte, el tribunal, a manera de excepción, podrá ordenar el
+descubrimiento de prueba sobre tales borradores o comunicaciones en la medida en
+que: (a) se refieran a la compensación por el estudio o testimonio del perito; (b)
+identifiquen hechos o datos proporcionados por el abogado de la parte y que el perito
+haya considerado al formar sus opiniones; o (c) identifiquen suposiciones
+proporcionadas por el abogado de la parte y en las que el perito haya basado sus
+opiniones. De esta forma, se incorporan en nuestro cuerpo de reglas las enmiendas a la
+Regla 26 de Procedimiento Civil Federal, que entraron en vigor el 1 de diciembre de
+
+Section 2:
+2010. Estas enmiendas establecen un marco específico que permitirá al tribunal ordenar
+el descubrimiento de prueba, balanceando la protección de la confidencialidad con la
+necesidad de acceso a información relevante y esencial para el caso.
+En conformidad con lo antes expuesto, esta Asamblea Legislativa extiende la
+protección de la doctrina del producto del trabajo (work product) del abogado a los
+borradores de los informes de los peritos retenidos para testificar y a las
+comunicaciones de los abogados con los expertos o peritos contratados.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.– Se enmienda la Regla 23.1 de las Reglas de Procedimiento Civil de 2009,
+según enmendadas, para que lea como sigue:
+“Regla 23.1.- Alcance del descubrimiento.
+El alcance del descubrimiento de prueba, a menos que sea limitado de algún
+modo por el tribunal, en conformidad con las disposiciones de estas Reglas, será como
+sigue:
+(a)…
+(b)…
+(c) Persona perita. — El descubrimiento de prueba pericial podrá llevarse a cabo como
+sigue:
+3
+(1) Una parte podrá, a través de interrogatorios, requerir a cualquier otra parte que
+suministre el nombre y la dirección de las personas peritas que haya consultado y
+de las que intente presentar en el juicio. Respecto a estos últimos, podrá requerirse
+a la parte que exprese la materia sobre la cual la persona perita se propone
+declarar, así como un resumen de sus opiniones y una breve expresión de las
+teorías, los hechos o los argumentos que sostienen las opiniones. Los borradores de
+los informes preparados por las personas peritas, así como las comunicaciones
+entre el abogado y la persona perita están protegidas por la doctrina del producto
+del trabajo (work product) del abogado. Por ende, quedan fuera del alcance del
+descubrimiento de prueba, independientemente de la forma y medio en el que se
+redacte y se conserve el borrador o las comunicaciones. A manera de excepción, el
+tribunal podrá ordenar el descubrimiento de prueba sobre tales borradores o
+comunicaciones en la medida en que: (a) se refieran a la compensación por el
+estudio o testimonio del perito; (b) identifiquen hechos o datos proporcionados
+por el abogado de la parte y que el perito haya considerado al formar sus
+opiniones; o (c) identifiquen suposiciones proporcionadas por el abogado de la
+parte y en las que el perito haya basado sus opiniones. A solicitud de parte, el
+tribunal podrá ordenar el descubrimiento de prueba pericial por cualquier otro
+medio, sujeto a aquellas condiciones o limitaciones que estime razonables.
+(2) …
+(3) …
+(4) …
+(d) …
+(e) …
+(1) …
+(2) …
+…”
+Sección 2.- Vigencia.
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:  e e s 1 d i ( d l R 2 d l R d d l i p p l p p a c l e e a y l p p e p p l() p h d s c m n p q s r R 2 d P C d e d d p .9( y c e s a d d p a y j l d d l R 2 y 2 d C F q e u p m e p l S l l c e a y p s i e P q t c s a p l p p d c v t v q r t y e l d t L c d e d a q l p e e y l e e e p j O r p p e a y e p D i f l p d e c e a c o p p e e n]
+[DELETED:  c c i d q e d a u d e e u d q d s r e t p j L p d l c s p l q a l c d l d L p n p a p u j s q s e s v o p e t a m d e p o e d p s t b o c e l m e ( s r a l c p e e o t d p ( c a f s o o ( i s p e a d l p y e l q e p h b sne c c l a e e A L e l d l d d p d tod a a l( p d l i d l p r p t y a l a d d d p a m q s l d a]
+[DELETED:  l p q e l m s l c l p p s p a c u r d s o y u b e d l i p p l p p a c l c t () d a P e q f d a d p p o e d d p s t b o e l m e q ( s r a l c p e o t d p ( i h o d p e a d l p y q e p h c a f s o ( i s p p e a d l e l q e h b s o A s d p e p o e d d p p p c o(((((]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 51)
+LEY
+Para enmendar el sub-inciso 1 del inciso (c) de la Regla 23.1 de las Reglas de
+Procedimiento Civil de 2009, según enmendadas, a los fines de establecer que los
+borradores de los informes preparados por las personas peritas, así como las
+comunicaciones entre el abogado y la persona perita estén protegidos por la
+doctrina del producto del trabajo (work product) del abogado.
+EXPOSICIÓN DE MOTIVOS
+En nuestro ordenamiento jurídico, la Regla 23.1 de Procedimiento Civil establece
+el alcance del descubrimiento de prueba. Esta Regla dispone, entre otras cosas, que las
+partes podrán hacer descubrimiento sobre cualquier materia no privilegiada que sea
+pertinente al asunto en controversia en el pleito pendiente. No obstante, el inciso (c) de
+la referida Regla 23 de Procedimiento Civil delimita el descubrimiento de prueba
+pericial.
+Al interpretar el inciso (c) de la Regla 23, nuestro Tribunal Supremo resolvió que
+los borradores del informe pericial de un perito testigo, así como las comunicaciones
+entre este y el abogado de la parte que lo contrata, con relación a tales informes, no
+están protegidos por la doctrina del work product. McNeil Healthcare, LLC v. Municipio
+de Las Piedras et al. (II), 206 DPR 659 (2021). El Tribunal Supremo dictaminó que estos
+documentos y comunicaciones están sujetos al descubrimiento de prueba amplio y
+liberal que rige en nuestro ordenamiento jurídico. De esta manera, rechazó adoptar en
+nuestra jurisdicción las disposiciones de la Regla 26(b)(4)(B) y 26(b)(4)(C) de
+Procedimiento Civil Federal, que establecen una protección más estricta para las
+comunicaciones entre abogados y peritos.
+Sin embargo, tras evaluar las expresiones del Tribunal en el referido caso y las
+disposiciones de la Regla 26 de Procedimiento Civil Federal, esta Asamblea Legislativa
+considera que las comunicaciones entre el abogado y perito, incluidos los borradores de
+los informes periciales, constituyen parte esencial de la estrategia legal en un litigio. En
+primer lugar, las comunicaciones entre abogado y perito suelen incluir evaluaciones
+estratégicas sobre cómo presentar los hechos del caso, lo que hace crucial proteger estas
+conversaciones. Permitir que tales comunicaciones sean accesibles para la parte
+contraria podría darle cierta ventaja, toda vez que revela tácticas y enfoques legales
+antes de tiempo. La confidencialidad de estos documentos asegura que las partes
+puedan prepararse sin temor a que su estrategia sea descubierta, lo que es vital para
+mantener el equilibrio y la equidad en el proceso judicial. Otra razón para proteger
+estas comunicaciones es la importancia de fomentar una cooperación abierta y sincera
+entre el abogado y el perito. De igual forma, la protección de estas comunicaciones
+también está alineada con otros privilegios procesales establecidos en nuestra
+
+2
+legislación, como el privilegio abogado-cliente. Al igual que el abogado debe tener la
+libertad para comunicarse de manera confidencial con su cliente, las comunicaciones
+entre abogado y perito deben gozar de la misma protección.
+Es importante destacar que el derecho a una defensa efectiva es un derecho
+constitucional que debe ser respetado en todo proceso judicial. La protección de las
+comunicaciones entre abogado y perito es un componente esencial de este derecho. Sin
+esta protección, los abogados podrían verse obligados a restringir las conversaciones
+con sus peritos, lo que afectaría la calidad de la defensa. Las partes no podrían
+prepararse adecuadamente para un juicio sin que sus estrategias se vean
+comprometidas por el descubrimiento de comunicaciones confidenciales.
+De otra parte, el tribunal, a manera de excepción, podrá ordenar el
+descubrimiento de prueba sobre tales borradores o comunicaciones en la medida en
+que: (a) se refieran a la compensación por el estudio o testimonio del perito; (b)
+identifiquen hechos o datos proporcionados por el abogado de la parte y que el perito
+haya considerado al formar sus opiniones; o (c) identifiquen suposiciones
+proporcionadas por el abogado de la parte y en las que el perito haya basado sus
+opiniones. De esta forma, se incorporan en nuestro cuerpo de reglas las enmiendas a la
+Regla 26 de Procedimiento Civil Federal, que entraron en vigor el 1 de diciembre de
+2010. Estas enmiendas establecen un marco específico que permitirá al tribunal ordenar
+el descubrimiento de prueba, balanceando la protección de la confidencialidad con la
+necesidad de acceso a información relevante y esencial para el caso.
+En conformidad con lo antes expuesto, esta Asamblea Legislativa extiende la
+protección de la doctrina del producto del trabajo (work product) del abogado a los
+borradores de los informes de los peritos retenidos para testificar y a las
+comunicaciones de los abogados con los expertos o peritos contratados.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.– Se enmienda la Regla 23.1 de las Reglas de Procedimiento Civil de 2009,
+según enmendadas, para que lea como sigue:
+“Regla 23.1.- Alcance del descubrimiento.
+El alcance del descubrimiento de prueba, a menos que sea limitado de algún
+modo por el tribunal, en conformidad con las disposiciones de estas Reglas, será como
+sigue:
+(a)…
+(b)…
+(c) Persona perita. — El descubrimiento de prueba pericial podrá llevarse a cabo como
+sigue:
+
+3
+(1) Una parte podrá, a través de interrogatorios, requerir a cualquier otra parte que
+suministre el nombre y la dirección de las personas peritas que haya consultado y
+de las que intente presentar en el juicio. Respecto a estos últimos, podrá requerirse
+a la parte que exprese la materia sobre la cual la persona perita se propone
+declarar, así como un resumen de sus opiniones y una breve expresión de las
+teorías, los hechos o los argumentos que sostienen las opiniones. Los borradores de
+los informes preparados por las personas peritas, así como las comunicaciones
+entre el abogado y la persona perita están protegidas por la doctrina del producto
+del trabajo (work product) del abogado. Por ende, quedan fuera del alcance del
+descubrimiento de prueba, independientemente de la forma y medio en el que se
+redacte y se conserve el borrador o las comunicaciones. A manera de excepción, el
+tribunal podrá ordenar el descubrimiento de prueba sobre tales borradores o
+comunicaciones en la medida en que: (a) se refieran a la compensación por el
+estudio o testimonio del perito; (b) identifiquen hechos o datos proporcionados
+por el abogado de la parte y que el perito haya considerado al formar sus
+opiniones; o (c) identifiquen suposiciones proporcionadas por el abogado de la
+parte y en las que el perito haya basado sus opiniones. A solicitud de parte, el
+tribunal podrá ordenar el descubrimiento de prueba pericial por cualquier otro
+medio, sujeto a aquellas condiciones o limitaciones que estime razonables.
+(2) …
+(3) …
+(4) …
+(d) …
+(e) …
+(1) …
+(2) …
+…”
+Sección 2.- Vigencia.
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:  e e s 1 d i ( d l R 2 d l R d d l i p p l p p a c l e e a y l p p e p p l() p h d s c m n p q s r R 2 d P C d e d d p .9( y c e s a d d p a y j l d d l R 2 y 2 d C F q e u p m e p l S l l c e a y p s i e P q t c s a p l p p d c v t v q r t y e l d t L c d e d a q l p e e y l e e e p j O r p p e a y e p D i f l p d e c e a c o p p e e n]
+[DELETED:  c c i d q e d a u d e e u d q d s r e t p j L p d l c s p l q a l c d l d L p n p a p u j s q s e s v o p e t a m d e p o e d p s t b o c e l m e ( s r a l c p e e o t d p ( c a f s o o ( i s p e a d l p y e l q e p h b sne c c l a e e A L e l d l d d p d tod a a l( p d l i d l p r p t y a l a d d d p a m q s l d a]
+[DELETED:  l p q e l m s l c l p p s p a c u r d s o y u b e d l i p p l p p a c l c t () d a P e q f d a d p p o e d d p s t b o e l m e q ( s r a l c p e o t d p ( i h o d p e a d l p y q e p h c a f s o ( i s p p e a d l e l q e h b s o A s d p e p o e d d p p p c o(((((]

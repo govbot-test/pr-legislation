@@ -1,0 +1,1272 @@
+Title: Para crear la “Ley para Regular los Chatbots de Salud Mental e Inteligencia Artificial
+Official Title: Para crear la “Ley para Regular los Chatbots de Salud Mental e Inteligencia Artificial
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1297
+27 de mayo de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Terapéutica en Puerto Rico”, a los fines de establecer normas sobre divulgación, uso,
+supervisión, manejo de crisis, protección de datos y prohibiciones aplicables a
+sistemas automatizados relacionados con servicios de salud mental; disponer
+fiscalización, sanciones administrativas, reglamentación; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La inteligencia artificial se ha integrado aceleradamente a múltiples aspectos de la
+vida cotidiana. Hoy, una persona puede interactuar con asistentes virtuales, sistemas
+automatizados, plataformas digitales y chatbots para obtener información, coordinar
+servicios, solicitar ayuda, acceder a beneficios o recibir orientación inmediata. Esta
+realidad también ha llegado al campo de la salud mental, donde comienzan a proliferar
+herramientas digitales que prometen acompañamiento emocional, bienestar, orientación
+psicológica, asistencia terapéutica o apoyo en momentos de angustia.
+La innovación tecnológica puede ser útil cuando se utiliza de manera responsable. Si
+entramos de lleno en temas de salud mental, una herramienta automatizada puede
+facilitar la coordinación de citas, orientar sobre beneficios, dirigir a recursos
+comunitarios, proveer información general, mejorar accesibilidad, asistir con
+recordatorios o ayudar a los profesionales licenciados en tareas administrativas. Sin
+2
+embargo, el uso de inteligencia artificial en este campo plantea riesgos particulares
+cuando la herramienta se presenta, se anuncia o funciona como si fuera un terapeuta,
+psicólogo, psiquiatra, consejero profesional, trabajador social clínico o profesional
+humano capacitado para intervenir clínicamente.
+Sin duda el hablar de este segmento dentro del sector de salud, resulta ser un área
+especialmente delicada porque la persona que busca ayuda puede encontrarse en un
+momento de vulnerabilidad, angustia, confusión, aislamiento o crisis. Una conversación
+digital que aparenta ser empática, clínica o terapéutica puede generar en el usuario la
+impresión de que está recibiendo atención profesional, aun cuando en realidad interactúa
+con un sistema automatizado. Esa confusión puede retrasar la búsqueda de ayuda
+adecuada, inducir a error sobre el alcance del servicio recibido, comprometer información
+altamente sensible o crear una falsa sensación de acompañamiento en situaciones que
+requieren intervención humana.
+Puerto Rico cuenta con un marco jurídico que reconoce la importancia de la salud
+mental, los derechos de las personas que reciben servicios, la práctica profesional
+licenciada, la telemedicina, la telesalud, la protección al consumidor, la regulación de
+aseguradoras y la confidencialidad de información relacionada con la salud. No obstante,
+los chatbots y sistemas de inteligencia artificial aplicados a salud mental presentan un
+reto emergente: pueden ser ofrecidos por aseguradoras, planes médicos, proveedores,
+plataformas de telemedicina, aplicaciones móviles, compañías tecnológicas o sistemas
+online ubicados fuera de Puerto Rico, pero accesibles o dirigidos a usuarios en la isla.
+Esta medida no pretende regular toda inteligencia artificial, ni impedir la utilización
+de herramientas tecnológicas legítimas. Su alcance se limita a aquellos sistemas
+automatizados que se ofrecen, promueven, contratan, integran o utilizan en relación con
+salud mental. La finalidad es establecer reglas mínimas de transparencia, seguridad y
+responsabilidad cuando dichas herramientas interactúan con usuarios sobre asuntos
+emocionales, psicológicos, psiquiátricos, terapéuticos, de crisis, tratamiento, diagnóstico,
+beneficios de salud mental o navegación de servicios relacionados.
+3
+El eje central de esta legislación es sencillo: la inteligencia artificial puede apoyar, pero
+no puede hacerse pasar por terapeuta. Ninguna persona debe creer que recibe terapia,
+consejería profesional, diagnóstico o intervención de crisis de parte de un profesional
+humano cuando en realidad está interactuando con un sistema automatizado. Del mismo
+modo, ninguna herramienta digital debe sustituir el juicio clínico de un profesional
+licenciado, tomar decisiones terapéuticas autónomas, ocultar su naturaleza automatizada
+o utilizar información sensible de salud mental para fines comerciales incompatibles con
+la confianza que debe regir toda interacción relacionada con la salud.
+La medida reconoce, además, que muchas aseguradoras, organizaciones de servicios
+de salud, planes médicos y proveedores utilizan sistemas digitales para orientar a sus
+asegurados, beneficiarios o pacientes. Esos usos pueden ser legítimos cuando se limitan
+a información administrativa, navegación de beneficios, coordinación de citas o acceso a
+recursos. No obstante, cuando la herramienta se adentra en el campo de la salud mental,
+debe quedar claro que no realiza diagnóstico, no determina tratamiento, no decide
+necesidad médica por sí sola, no sustituye procesos de apelación y no reemplaza la
+intervención profesional que corresponda.
+Asimismo, resulta indispensable exigir protocolos de crisis. Un sistema que interactúa
+con personas sobre salud mental debe contar con mecanismos mínimos para responder
+ante expresiones de suicidio, autolesión, daño a terceros, violencia, abuso, desorientación
+severa, intoxicación o emergencia médica. El objetivo no es convertir a cada chatbot en
+una sala de emergencia, sino impedir que un sistema automatizado continúe una
+conversación de alto riesgo sin redirigir al usuario hacia recursos humanos, servicios de
+emergencia, líneas de crisis o ayuda profesional.
+La regulación propuesta adopta un balance prudente. Permite usos administrativos,
+educativos, de accesibilidad, orientación general, apoyo documental y asistencia bajo
+supervisión profesional; pero prohíbe la suplantación profesional, la publicidad
+engañosa, la sustitución clínica, las determinaciones automatizadas finales en asuntos
+sensibles y el uso indebido de datos de salud mental. De igual forma, asigna la
+fiscalización a las entidades que ya tienen jurisdicción sobre los regulados, tales como
+4
+ASSMCA, el Departamento de Salud, la Oficina del Comisionado de Seguros, DACO, las
+Juntas Examinadoras y el Departamento de Justicia, evitando crear una nueva estructura
+burocrática.
+En un tema tan sensible como el que nos ocupa aquí, la transparencia no puede ser
+opcional. La persona usuaria tiene derecho a saber si interactúa con un ser humano o con
+un sistema automatizado; tiene derecho a recibir advertencias claras sobre los límites de
+la herramienta; tiene derecho a que sus datos sean protegidos; y tiene derecho a que una
+crisis no sea tratada como una simple conversación digital. Esta legislación procura
+anticiparse a los riesgos de una tecnología en expansión, sin cerrar la puerta a sus
+beneficios cuando se utiliza con responsabilidad, supervisión y respeto a la dignidad
+humana.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley para Regular los Chatbots de
+3 Salud Mental e Inteligencia Artificial Terapéutica en Puerto Rico”.
+4 Artículo 2.- Definiciones.
+5 Para fines de esta Ley, los siguientes términos tendrán el significado que se
+6 dispone a continuación:
+7 (a) Aseguradora u organización de servicios de salud — Toda entidad autorizada,
+8 regulada o sujeta a la jurisdicción de la Oficina del Comisionado de Seguros de Puerto
+9 Rico que ofrezca, administre, cubra, coordine, financie o gestione beneficios, servicios o
+10 productos de salud, incluyendo aseguradoras, planes médicos, organizaciones de
+11 servicios de salud, administradores de beneficios, entidades de cuidado coordinado,
+12 contratistas o entidades que operen en representación de dichas entidades.
+5
+1 (b) Chatbot de salud mental — Todo sistema de inteligencia artificial, asistente
+2 virtual, agente conversacional, aplicación, interfaz automatizada, herramienta digital o
+3 sistema de interacción por texto, voz, audio, imagen, video u otro medio que esté
+4 diseñado, anunciado, configurado, contratado, integrado o utilizado para interactuar con
+5 una persona sobre salud mental, bienestar emocional, crisis emocional, síntomas,
+6 diagnóstico, tratamiento, terapia, psicoterapia, consejería, referido, navegación de
+7 servicios o apoyo relacionado con salud mental.
+8 (c) Divulgación clara y conspicua — Se refiere al aviso escrito, verbal, audiovisual,
+9 visual o interactivo, presentado de manera prominente, comprensible, previo a la
+10 interacción y en momentos razonables durante la misma, que informe al usuario que
+11 interactúa con un sistema automatizado, los límites de dicho sistema y las acciones que
+12 debe tomar en caso de emergencia.
+13 (d) Herramienta digital automatizada — Cualquier programa, aplicación,
+14 plataforma, modelo, algoritmo, asistente virtual, sistema experto, interfaz conversacional
+15 o tecnología que genere, seleccione, recomiende, clasifique, responda, dirija o procese
+16 información de manera automatizada o semiautomatizada.
+17 (e) Información sensible de salud mental — Toda información, entrada, respuesta,
+18 inferencia, dato, conversación, historial, audio, texto, imagen, patrón de conducta,
+19 puntuación, clasificación o perfil que identifique, describa, sugiera o permita inferir la
+20 condición emocional, psicológica, psiquiátrica, conductual, riesgo de suicidio, autolesión,
+21 trauma, tratamiento, diagnóstico, medicamentos, síntomas, uso de sustancias, crisis o
+6
+1 necesidad de servicios de salud mental de una persona identificada o razonablemente
+2 identificable.
+3 (f) Inteligencia artificial terapéutica — Sistema de inteligencia artificial o
+4 herramienta digital automatizada diseñada, anunciada, configurada, contratada,
+5 integrada o utilizada para simular, asistir, recomendar, dirigir o sustituir interacciones
+6 propias de terapia, psicoterapia, consejería profesional, intervención clínica, evaluación
+7 psicológica o psiquiátrica, apoyo emocional personalizado, manejo de crisis, tratamiento
+8 o toma de decisiones terapéuticas.
+9 (g) Operador — Toda persona natural o jurídica que administre, controle,
+10 configure, provea, distribuya, licencie, contrate, integre, promocione, haga disponible u
+11 opere un chatbot de salud mental, sistema de inteligencia artificial terapéutica o
+12 herramienta digital automatizada sujeta a esta Ley.
+13 (h) Profesional licenciado de salud mental — Toda persona autorizada por las
+14 leyes y reglamentos de Puerto Rico a prestar servicios profesionales relacionados con
+15 salud mental dentro del alcance de su licencia, certificación o autorización, incluyendo,
+16 según aplique, psiquiatras, psicólogos, consejeros profesionales, trabajadores sociales
+17 clínicos, consejeros en rehabilitación, terapeutas de familia y pareja, médicos u otros
+18 profesionales autorizados por ley.
+19 (i) Proveedor — Toda persona natural o jurídica, institución, facilidad, profesional,
+20 grupo profesional, hospital, clínica, centro, plataforma de telemedicina o telesalud,
+21 organización, contratista o entidad que preste, facilite, coordine o intermedie servicios
+22 relacionados con salud mental.
+7
+1 (j) Protocolo de crisis — El conjunto de instrucciones, alertas, respuestas,
+2 redirecciones, escalamiento, advertencias, enlaces, teléfonos, recursos y procedimientos
+3 diseñados para responder cuando un usuario exprese, sugiera o manifieste riesgo de
+4 suicidio, autolesión, daño a terceros, violencia, abuso, negligencia, psicosis,
+5 desorientación severa, intoxicación, emergencia médica o crisis aguda de salud mental.
+6 (k) Sistema de inteligencia artificial — Sistema automatizado o semiautomatizado
+7 que, mediante algoritmos, aprendizaje automático, modelos generativos, procesamiento
+8 de lenguaje natural, reconocimiento de patrones u otras técnicas, genera contenido,
+9 respuestas, recomendaciones, clasificaciones, predicciones, inferencias, decisiones o
+10 asistencia para una persona usuaria, proveedor, aseguradora, profesional o entidad.
+11 (l) Usuario — Toda persona que acceda, reciba, utilice o interactúe con un chatbot
+12 de salud mental, sistema de inteligencia artificial terapéutica o herramienta digital
+13 automatizada mientras se encuentre físicamente en Puerto Rico, o que reciba dicha
+14 herramienta como paciente, asegurado, beneficiario, participante, cliente o usuario de
+15 una entidad que opere, preste servicios, contrate o haga negocios en Puerto Rico.
+16 Artículo 3.- Política pública.
+17 Será política pública del Gobierno de Puerto Rico promover el uso responsable,
+18 transparente, seguro y ético de sistemas de inteligencia artificial, chatbots, asistentes
+19 virtuales y herramientas digitales automatizadas cuando estos se utilicen en contextos
+20 relacionados con salud mental.
+21 Se permitirá la utilización de dichas herramientas para fines administrativos,
+22 educativos, de accesibilidad, orientación general, navegación de servicios, coordinación
+8
+1 de citas, apoyo documental y asistencia a profesionales licenciados, siempre que no
+2 sustituyan el juicio clínico, la evaluación, el diagnóstico, el tratamiento, la psicoterapia, la
+3 consejería profesional ni la intervención de crisis que corresponde a profesionales
+4 humanos debidamente licenciados o autorizados por ley.
+5 Será, además, política pública garantizar que toda persona ubicada en Puerto Rico
+6 que interactúe con un sistema automatizado relacionado con salud mental sea informada
+7 de manera clara y oportuna sobre la naturaleza no humana del sistema, sus límites, el uso
+8 de sus datos, los recursos disponibles en situaciones de crisis y la disponibilidad de
+9 servicios profesionales cuando corresponda.
+10 Artículo 4.- Aplicabilidad.
+11 Esta Ley aplicará a toda persona natural o jurídica, pública o privada, que ofrezca,
+12 promueva, contrate, integre, administre, opere, distribuya, licencie, recomiende, financie
+13 o ponga a disposición de usuarios ubicados en Puerto Rico un chatbot de salud mental,
+14 sistema de inteligencia artificial terapéutica, asistente virtual o herramienta digital
+15 automatizada relacionada con salud mental.
+16 Sin limitar la generalidad de lo anterior, esta Ley aplicará a:
+17 (a) aseguradoras, organizaciones de servicios de salud, planes médicos,
+18 administradores de beneficios, entidades de cuidado coordinado, contratistas,
+19 subcontratistas o suplidores que ofrezcan o integren dichas herramientas para
+20 asegurados, beneficiarios, pacientes, participantes o usuarios en Puerto Rico;
+21 (b) hospitales, clínicas, centros de salud mental, instituciones proveedoras,
+22 profesionales licenciados, grupos médicos, oficinas profesionales, plataformas de
+9
+1 telemedicina, plataformas de telesalud o entidades que presten servicios relacionados con
+2 salud mental;
+3 (c) desarrolladores, operadores, suplidores, vendedores, distribuidores,
+4 licenciantes o administradores de sistemas digitales dirigidos, contratados o puestos a
+5 disposición de usuarios ubicados en Puerto Rico;
+6 (d) aplicaciones móviles, portales web, sistemas de mensajería, plataformas de
+7 bienestar emocional, asistentes virtuales, herramientas de navegación de servicios o
+8 programas online que interactúen con usuarios sobre temas relacionados con salud
+9 mental;
+10 (e) agencias, instrumentalidades, corporaciones públicas, municipios o entidades
+11 gubernamentales que utilicen dichas herramientas para orientación, referido, asistencia,
+12 navegación, apoyo o comunicación relacionada con salud mental.
+13 La mera accesibilidad pasiva de una página, aplicación o plataforma desde Puerto
+14 Rico no constituirá, por sí sola, ofrecimiento sujeto a esta Ley, salvo que la herramienta
+15 sea promovida, contratada, integrada, dirigida, utilizada o puesta a disposición de
+16 usuarios ubicados en Puerto Rico por una entidad que opere, preste servicios, haga
+17 negocios o tenga usuarios, asegurados, pacientes o beneficiarios en Puerto Rico.
+18 Artículo 5.- Exclusiones.
+19 Esta Ley no aplicará a:
+20 (a) herramientas administrativas internas que no interactúen directamente con
+21 pacientes, asegurados, beneficiarios, participantes o usuarios sobre asuntos de salud
+22 mental;
+10
+1 (b) sistemas de facturación, codificación, elegibilidad, autorización, reclamaciones,
+2 auditoría o manejo interno de expedientes, siempre que no ofrezcan orientación clínica,
+3 terapéutica, diagnóstica o de salud mental al usuario;
+4 (c) herramientas utilizadas por profesionales licenciados para transcripción,
+5 resumen, organización de notas, apoyo documental o manejo administrativo, siempre
+6 que el profesional revise, valide y mantenga responsabilidad sobre cualquier contenido
+7 clínico incorporado al expediente o utilizado en la atención de la persona;
+8 (d) materiales educativos generales, bibliotecas digitales, motores de búsqueda o
+9 páginas informativas que no simulen conversación personalizada ni se presenten como
+10 herramienta de apoyo, terapia, consejería, diagnóstico o intervención de salud mental;
+11 (e) líneas de emergencia, líneas de crisis, servicios de orientación o programas de
+12 apoyo atendidos por personal humano, aunque utilicen herramientas tecnológicas
+13 auxiliares para documentación, traducción, accesibilidad, enrutamiento o apoyo
+14 administrativo;
+15 (f) herramientas de bienestar general, productividad, meditación, relajación,
+16 ejercicio, sueño o manejo de estrés que no se anuncien, representen, configuren o utilicen
+17 como terapia, consejería, intervención clínica, tratamiento de salud mental, diagnóstico o
+18 sustituto de un profesional licenciado.
+19 Nada de lo dispuesto en esta Sección impedirá la aplicación de esta Ley cuando
+20 una herramienta excluida por su diseño inicial sea utilizada, modificada, comercializada
+21 o presentada como apoyo clínico, terapia, consejería, diagnóstico, intervención de crisis
+22 o sustituto de un profesional licenciado.
+11
+1 Artículo 6.- Usos permitidos.
+2 Nada de lo dispuesto en esta Ley impedirá el uso de sistemas de inteligencia
+3 artificial, chatbots, asistentes virtuales o herramientas digitales automatizadas para:
+4 (a) coordinar, confirmar, cancelar o recordar citas;
+5 (b) proveer información administrativa sobre horarios, localización,
+6 disponibilidad general de servicios, procesos de admisión, requisitos de documentos o
+7 canales de contacto;
+8 (c) orientar sobre beneficios de salud mental, cubierta, copagos, redes de
+9 proveedores, directorios, procedimientos administrativos, referidos o servicios
+10 disponibles, sujeto a las limitaciones aplicables a aseguradoras y planes médicos;
+11 (d) facilitar navegación de servicios, siempre que no se represente como
+12 evaluación clínica o determinación terapéutica;
+13 (e) proveer educación general sobre salud mental, bienestar emocional,
+14 autocuidado o recursos comunitarios, siempre que no se presente como diagnóstico,
+15 tratamiento, terapia o consejería personalizada;
+16 (f) apoyar accesibilidad, traducción, lectura, comunicación asistida o adaptación
+17 de información;
+18 (g) asistir a profesionales licenciados en documentación, resumen, organización,
+19 transcripción o preparación de borradores, siempre que el profesional revise, valide y
+20 mantenga responsabilidad profesional sobre cualquier uso clínico;
+21 (h) detectar preliminarmente lenguaje o patrones de crisis con el único propósito
+22 de activar advertencias, redirecciones, escalamiento humano o recursos de emergencia;
+12
+1 (i) recopilar información administrativa inicial para facilitar coordinación de
+2 servicios, sin que ello constituya diagnóstico, evaluación clínica o determinación final de
+3 tratamiento.
+4 Sección 7.- Prohibiciones generales.
+5 Ninguna persona natural o jurídica sujeta a esta Ley podrá:
+6 (a) anunciar, promover, identificar, configurar, diseñar o presentar un chatbot de
+7 salud mental, sistema de inteligencia artificial terapéutica o herramienta digital
+8 automatizada como terapeuta, psicólogo, psiquiatra, consejero profesional, trabajador
+9 social clínico, médico, profesional de salud mental, proveedor licenciado o equivalente;
+10 (b) utilizar títulos, descripciones, credenciales, insignias, avatares, nombres,
+11 certificados, interfaces, expresiones comerciales o cualquier otro elemento que induzca
+12 razonablemente al usuario a creer que interactúa con un profesional humano licenciado
+13 cuando en realidad interactúa con un sistema automatizado;
+14 (c) representar, expresa o implícitamente, que un chatbot o sistema de inteligencia
+15 artificial puede sustituir evaluación, diagnóstico, tratamiento, terapia, psicoterapia,
+16 consejería profesional, intervención de crisis, manejo de riesgo suicida, prescripción, plan
+17 terapéutico o juicio clínico de un profesional licenciado;
+18 (d) utilizar un sistema automatizado para emitir, modificar o sustituir diagnósticos
+19 de salud mental, planes de tratamiento, recomendaciones terapéuticas personalizadas,
+20 determinaciones de necesidad clínica, hospitalización, alta, intensidad de cuidado,
+21 medicación, intervención de crisis o manejo de riesgo sin revisión y aprobación de un
+22 profesional licenciado cuando se trate de un servicio clínico;
+13
+1 (e) utilizar un chatbot de salud mental como único mecanismo de respuesta ante
+2 expresiones de suicidio, autolesión, amenaza de daño a terceros, violencia, abuso,
+3 psicosis, intoxicación, desorientación severa o emergencia médica;
+4 (f) ocultar, minimizar o dificultar que el usuario conozca que interactúa con un
+5 sistema de inteligencia artificial o herramienta automatizada;
+6 (g) condicionar el acceso a servicios esenciales de salud mental a que el usuario
+7 consienta usos comerciales, publicitarios o de entrenamiento de modelos con su
+8 información sensible de salud mental;
+9 (h) vender, licenciar, transferir o utilizar información sensible de salud mental para
+10 publicidad dirigida, perfilamiento comercial, manipulación conductual, segmentación de
+11 vulnerabilidades emocionales o fines incompatibles con la prestación, coordinación o
+12 navegación de servicios de salud, salvo autorización expresa permitida por ley y
+13 separada de consentimientos generales de uso;
+14 (i) operar, contratar o hacer disponible un chatbot de salud mental sin
+15 divulgaciones claras y conspicuas conforme a esta Ley;
+16 (j) operar, contratar o hacer disponible un chatbot de salud mental sin un protocolo
+17 de crisis conforme a esta Ley.
+18 Artículo 8.- Divulgaciones obligatorias.
+19 Todo chatbot de salud mental, sistema de inteligencia artificial terapéutica o
+20 herramienta digital automatizada sujeta a esta Ley deberá presentar, antes de iniciar la
+21 interacción con el usuario, una divulgación clara y conspicua que indique, como mínimo:
+14
+1 (a) que el usuario está interactuando con un sistema automatizado o de
+2 inteligencia artificial;
+3 (b) que el sistema no es un profesional humano;
+4 (c) que el sistema no sustituye evaluación, diagnóstico, tratamiento, psicoterapia,
+5 consejería profesional, intervención de crisis ni servicios de emergencia por un
+6 profesional licenciado;
+7 (d) que, en caso de peligro inmediato, emergencia médica, intención de hacerse
+8 daño, intención de hacer daño a otra persona o crisis aguda, el usuario debe llamar al 911,
+9 comunicarse con la línea 988 o acudir a la sala de emergencia más cercana;
+10 (e) cómo se utilizará, almacenará, compartirá o protegerá la información sensible
+11 de salud mental que el usuario provea, conforme a las leyes aplicables.
+12 La divulgación deberá repetirse de manera razonable cuando la interacción aborde
+13 temas de crisis, ideación suicida, autolesión, violencia, abuso, síntomas severos,
+14 diagnóstico, tratamiento, medicamentos o necesidad de servicios profesionales.
+15 Toda divulgación deberá estar disponible en español e inglés, redactada en
+16 lenguaje claro y accesible, y diseñada de forma que no pueda ser omitida mediante
+17 patrones oscuros, interfaces confusas o mecanismos que induzcan al usuario a ignorarla.
+18 Artículo 9.- Reglas especiales para aseguradoras, organizaciones de servicios de
+19 salud y planes médicos.
+20 Toda aseguradora, organización de servicios de salud, plan médico, administrador
+21 de beneficios, entidad de cuidado coordinado, contratista o suplidor que utilice o haga
+15
+1 disponible un chatbot de salud mental o sistema de inteligencia artificial relacionado con
+2 beneficios, servicios, proveedores o cubierta de salud mental deberá:
+3 (a) asegurar que la herramienta no se presente como profesional licenciado ni
+4 como sustituto de servicios clínicos;
+5 (b) identificar de forma clara si la herramienta es administrada por la entidad, por
+6 un contratista o por un tercero;
+7 (c) incluir una divulgación que indique que la herramienta puede asistir con
+8 orientación general, navegación de beneficios, directorio de proveedores, coordinación
+9 de servicios o información administrativa, pero no determina por sí sola diagnóstico,
+10 tratamiento, emergencia psiquiátrica, necesidad médica, cubierta final, autorización final,
+11 denegación de servicios ni derechos de apelación;
+12 (d) mantener mecanismos razonables para que el usuario pueda solicitar asistencia
+13 humana en asuntos de beneficios, autorizaciones, quejas, apelaciones, reclamaciones o
+14 acceso a servicios;
+15 (e) impedir que la herramienta emita determinaciones finales adversas de cubierta,
+16 autorización, necesidad médica, elegibilidad clínica, denegación, reducción o
+17 terminación de servicios de salud mental sin los procesos humanos, contractuales,
+18 regulatorios y de apelación aplicables;
+19 (f) establecer controles contractuales con suplidores tecnológicos para cumplir con
+20 esta Ley, incluyendo divulgaciones, protección de datos, protocolos de crisis, auditoría,
+21 confidencialidad y cooperación con autoridades regulatorias;
+16
+1 (g) mantener evidencia documental de cumplimiento disponible para
+2 requerimientos de la Oficina del Comisionado de Seguros, ASSMCA, Departamento de
+3 Salud, DACO o cualquier otra autoridad competente.
+4 Artículo 10.- Protocolos de crisis.
+5 Todo operador, proveedor, aseguradora, entidad pública o privada, contratista o
+6 suplidor que haga disponible un chatbot de salud mental o sistema de inteligencia
+7 artificial terapéutica a usuarios ubicados en Puerto Rico deberá mantener un protocolo
+8 de crisis escrito, operacional y razonablemente proporcional a la naturaleza del servicio
+9 ofrecido.
+10 El protocolo deberá incluir, como mínimo:
+11 (a) mecanismos para identificar expresiones directas o razonablemente aparentes
+12 de suicidio, autolesión, intención de daño a terceros, violencia doméstica, agresión
+13 sexual, abuso o negligencia de menores, abuso o negligencia de adultos mayores, crisis
+14 psicótica, desorientación severa, intoxicación, emergencia médica o riesgo grave e
+15 inminente;
+16 (b) advertencia inmediata al usuario de que el sistema no puede atender
+17 emergencias ni sustituir servicios profesionales de crisis;
+18 (c) instrucciones claras para llamar al 911, comunicarse con la línea 988, acudir a
+19 una sala de emergencia o contactar recursos de crisis disponibles;
+20 (d) enlaces o información de contacto a recursos de emergencia y líneas de ayuda
+21 aplicables en Puerto Rico;
+17
+1 (e) medidas para evitar que el sistema genere respuestas que promuevan, faciliten,
+2 instruyan, normalicen o refuercen autolesión, suicidio, violencia, abuso, negligencia,
+3 evasión de ayuda o conducta peligrosa;
+4 (f) mecanismos de escalamiento humano cuando el sistema sea parte de un
+5 servicio clínico, asegurador, institucional o gubernamental que cuente con personal o
+6 canales de respuesta disponibles;
+7 (g) documentación interna de eventos de crisis para fines de auditoría,
+8 cumplimiento y mejoramiento del protocolo, salvaguardando la confidencialidad y
+9 privacidad del usuario.
+10 Nada de lo dispuesto en esta Sección se interpretará como una obligación de que
+11 toda herramienta digital cuente con personal humano disponible veinticuatro (24) horas
+12 al día, los siete (7) días de la semana, salvo que otra ley, reglamento, contrato, licencia,
+13 cubierta, protocolo clínico o representación comercial así lo requiera.
+14 No obstante, ninguna entidad podrá anunciar o representar que ofrece
+15 intervención de crisis humana inmediata si no cuenta con la capacidad real para
+16 proveerla.
+17 Artículo 11.- Privacidad, datos sensibles y publicidad.
+18 Toda persona natural o jurídica sujeta a esta Ley deberá recopilar, procesar,
+19 almacenar, retener, compartir y eliminar información sensible de salud mental conforme
+20 a los principios de necesidad, minimización, seguridad, confidencialidad, transparencia
+21 y cumplimiento con las leyes estatales y federales aplicables, incluyendo aquellas
+22 relacionadas con información de salud protegida cuando correspondan.
+18
+1 Se prohíbe:
+2 (a) vender información sensible de salud mental obtenida mediante un chatbot de
+3 salud mental o sistema de inteligencia artificial terapéutica;
+4 (b) utilizar información sensible de salud mental para publicidad dirigida,
+5 segmentación comercial, perfilamiento de vulnerabilidades emocionales o mercadeo
+6 conductual;
+7 (c) transferir información sensible de salud mental a terceros para fines no
+8 relacionados con la prestación, coordinación, navegación, facturación, cumplimiento
+9 legal, seguridad o mejoramiento legítimo del servicio, sin consentimiento expreso,
+10 específico, informado y separado;
+11 (d) utilizar conversaciones identificables o razonablemente identificables para
+12 entrenar, ajustar o mejorar modelos de inteligencia artificial con fines comerciales no
+13 relacionados con el servicio provisto al usuario, salvo que medie consentimiento expreso,
+14 específico, informado y separado, y se cumpla con toda ley aplicable;
+15 (e) utilizar patrones oscuros o diseños manipulativos para obtener consentimiento
+16 sobre datos sensibles de salud mental;
+17 (f) condicionar servicios esenciales de salud mental a la autorización de usos
+18 comerciales secundarios de datos.
+19 Cuando la herramienta sea operada por una entidad cubierta, socio de negocio,
+20 aseguradora, proveedor, contratista o entidad sujeta a normas de privacidad de salud, el
+21 cumplimiento con esta Ley no sustituirá el cumplimiento con las leyes y reglamentos
+19
+1 federales y estatales aplicables sobre información de salud protegida, confidencialidad,
+2 expedientes médicos, seguros, telemedicina o práctica profesional.
+3 Artículo 12.- Supervisión profesional.
+4 Cuando un chatbot de salud mental, sistema de inteligencia artificial terapéutica o
+5 herramienta digital automatizada sea integrado a un servicio clínico, práctica profesional,
+6 plataforma de telemedicina, programa de telesalud, institución proveedora o relación
+7 terapéutica, el profesional licenciado correspondiente mantendrá responsabilidad sobre
+8 el juicio clínico, la evaluación, el diagnóstico, el tratamiento, la recomendación
+9 profesional y la comunicación clínica que adopte o utilice.
+10 Ningún profesional, proveedor o entidad podrá delegar en un sistema
+11 automatizado decisiones que, por ley, reglamento, estándar profesional o naturaleza
+12 clínica, requieran juicio profesional licenciado.
+13 El uso de inteligencia artificial como herramienta auxiliar no eximirá al
+14 profesional, proveedor, institución o entidad de cumplir con las leyes y reglamentos
+15 aplicables a licenciamiento, ética profesional, consentimiento informado,
+16 confidencialidad, expediente clínico, telemedicina, telesalud, ciberterapia y derechos de
+17 pacientes.
+18 Artículo 13.- Publicidad y representaciones al consumidor.
+19 Toda publicidad, promoción, empaque digital, interfaz, página web, aplicación,
+20 descripción comercial, material de mercadeo, contrato o representación pública de un
+21 chatbot de salud mental o sistema de inteligencia artificial terapéutica deberá ser veraz,
+22 clara y no engañosa.
+20
+1 Se considerará práctica prohibida representar, directa o indirectamente, que una
+2 herramienta automatizada:
+3 (a) provee terapia, psicoterapia, consejería profesional, diagnóstico o tratamiento
+4 de salud mental cuando no medie intervención de un profesional licenciado;
+5 (b) reemplaza o equivale a un psicólogo, psiquiatra, terapeuta, consejero
+6 profesional, trabajador social clínico, médico o profesional de salud mental;
+7 (c) atiende emergencias, crisis suicidas o situaciones de peligro inmediato si no
+8 cuenta con capacidad real, humana y operacional para ello;
+9 (d) garantiza resultados clínicos, recuperación, mejoría, remisión de síntomas o
+10 manejo seguro de crisis;
+11 (e) cuenta con licencia profesional, certificación clínica o aprobación
+12 gubernamental que no posea.
+13 Artículo 14.- Autoridad fiscalizadora y procedimiento administrativo.
+14 La Administración de Servicios de Salud Mental y Contra la Adicción será la
+15 entidad líder para la coordinación de política pública, guías mínimas, criterios de
+16 orientación y protocolos de crisis relacionados con la aplicación de esta Ley a chatbots de
+17 salud mental, sistemas de inteligencia artificial terapéutica y herramientas digitales
+18 automatizadas relacionadas con salud mental.
+19 La imposición de sanciones administrativas y órdenes correctivas corresponderá
+20 a la entidad reguladora con jurisdicción sobre la persona natural o jurídica regulada,
+21 según se dispone a continuación:
+21
+1 (a) La Administración de Servicios de Salud Mental y Contra la Adicción podrá
+2 imponer sanciones administrativas a entidades, programas, proveedores, plataformas,
+3 contratistas o suplidores que ofrezcan, promuevan, integren u operen chatbots de salud
+4 mental o sistemas de inteligencia artificial terapéutica dentro del ámbito de servicios de
+5 salud mental, cuando no estén sujetos de forma primaria a la jurisdicción de otra agencia
+6 reguladora especializada.
+7 (b) La Oficina del Comisionado de Seguros podrá imponer sanciones
+8 administrativas a aseguradoras, organizaciones de servicios de salud, planes médicos,
+9 administradores de beneficios, contratistas, subcontratistas o suplidores que ofrezcan,
+10 contraten, integren u operen dichas herramientas para asegurados, beneficiarios,
+11 participantes o usuarios en Puerto Rico.
+12 (c) El Departamento de Salud podrá imponer sanciones administrativas a
+13 facilidades de salud, instituciones proveedoras, plataformas de telemedicina o telesalud,
+14 y entidades sujetas a su licenciamiento o jurisdicción sanitaria.
+15 (d) El Departamento de Asuntos del Consumidor podrá imponer sanciones
+16 administrativas por anuncios, representaciones, interfaces comerciales, divulgaciones,
+17 prácticas de mercadeo o comunicaciones que constituyan o tiendan a constituir engaño,
+18 falsa representación o práctica comercial prohibida.
+19 (e) Las Juntas Examinadoras u organismos reguladores profesionales podrán
+20 tomar acción disciplinaria o administrativa cuando exista uso indebido de títulos
+21 profesionales, simulación de credenciales, práctica no autorizada o violación a normas
+22 éticas o de licenciamiento profesional.
+22
+1 (f) Puerto Rico Innovation and Technology Service podrá emitir guías técnicas
+2 para sistemas utilizados por agencias, instrumentalidades, corporaciones públicas o
+3 entidades gubernamentales, en coordinación con ASSMCA y las entidades reguladoras
+4 correspondientes.
+5 (g) El Departamento de Justicia podrá intervenir o recibir referidos cuando existan
+6 alegaciones de fraude, daño sustancial, incumplimiento deliberado, explotación indebida
+7 de información sensible de salud mental, práctica profesional no autorizada o cualquier
+8 conducta que requiera acción civil o penal conforme a las leyes aplicables.
+9 Toda sanción administrativa impuesta al amparo de esta Ley deberá tramitarse
+10 conforme a la Ley Núm. 38-2017, según enmendada, conocida como “Ley de
+11 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, y cualquier ley
+12 orgánica, reglamento o procedimiento aplicable a la entidad reguladora con jurisdicción.
+13 Cuando más de una entidad tenga jurisdicción sobre una misma conducta, dichas
+14 entidades podrán coordinar investigaciones, referidos, órdenes correctivas y sanciones,
+15 evitando duplicidad irrazonable y garantizando el debido proceso de ley.
+16 Artículo 15.- Sanciones administrativas.
+17 La entidad reguladora con jurisdicción, conforme a la Sección 14 de esta Ley, podrá
+18 imponer, previa notificación y oportunidad de ser oído, una o más de las siguientes
+19 sanciones o medidas correctivas:
+20 (a) advertencia escrita;
+21 (b) orden de corrección;
+22 (c) orden de cese y desista;
+23
+1 (d) requerimiento de modificar divulgaciones, interfaces, publicidad, protocolos,
+2 contratos, prácticas de datos o funcionalidades;
+3 (e) suspensión temporera del ofrecimiento, promoción, integración o uso del
+4 sistema en Puerto Rico hasta que se corrija la infracción;
+5 (f) multa administrativa no menor de mil dólares ($1,000) ni mayor de diez mil
+6 dólares ($10,000) por infracción;
+7 (g) multa administrativa no menor de diez mil dólares ($10,000) ni mayor de
+8 veinticinco mil dólares ($25,000) por infracción cuando medie reincidencia, ocultación
+9 deliberada, afectación a menores, uso indebido de información sensible de salud mental,
+10 publicidad engañosa sustancial, manejo inadecuado de una crisis, riesgo de daño grave
+11 o representación falsa de servicios profesionales;
+12 (h) referido a otra agencia, junta examinadora, entidad reguladora o al
+13 Departamento de Justicia, cuando la naturaleza de la infracción así lo requiera.
+14 Cada interacción, campaña, sistema, contrato, divulgación omitida, práctica de datos,
+15 determinación automatizada o representación prohibida podrá considerarse infracción
+16 separada cuando así lo determine la autoridad competente conforme a la prueba, la
+17 gravedad de la conducta y el debido proceso de ley.
+18 Las sanciones dispuestas en esta Ley no limitarán remedios, multas, acciones
+19 disciplinarias, acciones civiles, referidos penales, remedios contractuales o acciones
+20 regulatorias disponibles bajo otras leyes aplicables.
+21 Artículo 16.- Reglamentación y guías de implementación.
+24
+1 ASSMCA, el Departamento de Salud, la Oficina del Comisionado de Seguros,
+2 DACO, las Juntas Examinadoras concernidas y PRITS, dentro del ámbito de sus
+3 respectivas competencias, podrán adoptar reglamentos, órdenes administrativas, cartas
+4 normativas, guías, formularios, circulares o protocolos para implementar esta Ley.
+5 Dentro de ciento ochenta (180) días contados a partir de la aprobación de esta Ley,
+6 dichas entidades deberán coordinar la emisión de guías mínimas de implementación que
+7 incluyan, al menos:
+8 (a) divulgaciones modelo;
+9 (b) criterios mínimos para protocolos de crisis;
+10 (c) parámetros para aseguradoras, proveedores y plataformas digitales;
+11 (d) criterios para identificar publicidad engañosa o suplantación profesional;
+12 (e) requisitos mínimos de documentación de cumplimiento;
+13 (f) coordinación de querellas, referidos y fiscalización concurrente;
+14 (g) prácticas recomendadas para protección de información sensible de salud
+15 mental.
+16 La ausencia de reglamentación final no impedirá la aplicabilidad de las
+17 prohibiciones, divulgaciones y deberes expresamente dispuestos en esta Ley.
+18 Las entidades reguladoras concernidas podrán emitir guías provisionales antes de
+19 la fecha de vigencia para orientar a las personas naturales o jurídicas sujetas a esta Ley
+20 sobre el cumplimiento inicial de sus disposiciones.
+21 Artículo 17.- Relación con otras leyes.
+25
+1 Las disposiciones de esta Ley se interpretarán de forma armoniosa con la Ley
+2 Núm. 408-2000, según enmendada, conocida como “Ley de Salud Mental de Puerto
+3 Rico”; la Ley Núm. 168-2018, según enmendada, conocida como “Ley para el Uso de la
+4 Telemedicina y la Telesalud en Puerto Rico”; las leyes y reglamentos aplicables a la
+5 ciberterapia, práctica profesional, seguros, protección al consumidor, confidencialidad,
+6 privacidad, expedientes médicos, derechos de pacientes y cualquier otra norma estatal o
+7 federal aplicable.
+8 En caso de conflicto entre esta Ley y una disposición más protectora de la
+9 privacidad, seguridad, derechos del paciente, práctica profesional o protección del
+10 consumidor, prevalecerá la disposición que provea mayor protección a la persona
+11 usuaria, paciente, asegurado, beneficiario o consumidor.
+12 Artículo 18.- Cláusula de no autorización presupuestaria automática.
+13 La implementación de esta Ley se realizará utilizando los recursos existentes de
+14 las agencias, instrumentalidades y entidades concernidas. Nada de lo dispuesto en esta
+15 Ley se interpretará como autorización automática para la creación de nuevas plazas,
+16 oficinas, programas permanentes, unidades administrativas o asignaciones
+17 presupuestarias adicionales, salvo que la Asamblea Legislativa así lo disponga mediante
+18 legislación o asignación específica.
+19 Artículo 19.- Separabilidad.
+20 Si cualquier palabra, frase, oración, párrafo, sección o parte de esta Ley fuere
+21 declarada inconstitucional o nula por un tribunal competente, la sentencia dictada a tal
+22 efecto no afectará, perjudicará ni invalidará las restantes disposiciones de esta Ley. El
+26
+1 efecto de dicha sentencia quedará limitado a la palabra, frase, oración, párrafo, sección o
+2 parte que haya sido declarada inconstitucional o nula.
+3 Artículo 20.- Vigencia.
+4 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+[DELETED: 0 A 3 .rL    m d c p d d y p a a a r c s d s m d s a r y p o f p d y c p o i c s a a a b o r o i E d l e t d s m u h a p l c d c o s b d a r p i g m a a c o a a l p l e t a S]
+[DELETED:  e u d i a e e c p r p p c p t s c o p u s a E c p r l b d a l d d l p q r s l p p h t l S a s l a a s c d h i c u s a]
+[DELETED:  n h d d s e j c d u p q c q n r d n d t n d m p s s n s p d a y n r l s d e s i q u s a c u b p p p l s p l p y e u i d d d s m D i f a l]
+[DELETED:  n s t c u s c d E l p a l r d u t e e s c l p a s f d e L l s t t e s q s d s i a p m o d d s a d b e d c c]
+[DELETED:  d i p t v a i v u o m q e p s s m b e c e s t t p c r n d o i p d m p c p a l H d a — C p a d c h a t i p d c]
+[DELETED:  I a t — S d i a o d a d a c c O — T p n o j q a c u c d s m s d i a t o a p p c p t s c e r t d f y p m u o p h c c p d t o t]
+[DELETED:  P d c — E c d i a r a d a t v a n p l n r d p u o t g c r c p i d o s m s d i a t o h d m s e f e P R o q r d s y é d s d i a c a p l u d d h p f a]
+[DELETED:  c a d y a a p l s q n p n l i d c q c a p s d l r d e s d c y l d d d i a t a v o h d a o d s d s p m d b e d c c c o s q o o i d h p h c c d s m i p l g m o p p d]
+[DELETED:  d o s v d e a v h d n d s o o q i c u s t r c s p c i d u o p a d d u e P R p u e q o p s h h a i q n i d c a b p o u s a d s]
+[DELETED:  h u p p l p t a p p h a u h t p d t a e o a h d b g p m r]
+[DELETED:  d l d e e L i e u d s d i p i a s h l o s b d s m c c r d d p a r o s f n d s s q n s r c p e g s s m b e o r c s q n s p c d]
+[DELETED:  r i a i p f c d m s d i a t o h d u t d c i a n p s e d t t p d n c h a i d c]
+[DELETED:  d s a a d d a t v a u c p o d e d m c s d s d s s a e p p l y o c o h d u c d s m s c d s m s d i a t o]
+[DELETED:  q e u e i c u s a o d p i d c n s d e p u d c i s a v a s s d d e d e e e i r e c y a y d d f q n p s o m]
+[DELETED:  a q l h n s p c p n i u d q i q l h p a c n m e c d r o d s d s m s l p h c]
+[DELETED:  m e d d c d p q h d u c d s m o s d i s a i d d a t v d a d s i e m o r g e a i a u d q e s n p a]
+[DELETED:  n o r a s v a n m d e h c e s s p d u d i d e d c p f d a y m d p s l c y o n e p a o r q o d c h i s n c c l c r p p n o j s a e L d r p c c l l e y f a i a]
+[DELETED:  u i s d s m p p d c p d v e o m t i s d s m a t p f n c l p c n f c s o m l d s s c e u c i o r i p c s e d s m a l a d u]
+[DELETED:  j c l e e d e t l r p p o e p d e u s d q p l r e p o n u d i a c h a n e a p i o e d c c l l y r a l é p c i]
+[DELETED:  r o e a u p p t c c c l p c c o a A d S d S M y C l A s l l p l c d p p g m c d m s d i a t y h d]
+[DELETED:  L O d C d S p i s i u o d h p a b E D d S p i s a a E D d A d C p i s p a r i c d L J E u o r p p a d o a c e u i d t]
+[DELETED:  s u p a i c p o a l L N 3 s e c c “ d d]
+[DELETED:  s t d o p i o u d m a n m d d m d ( n m d r a o a j e e r o a c a l d l a c c a l p l s d e e L n l r m a a c r p r c o a]
+[DELETED:  e D d S l O d C d S l J E c y P d d á d s p r p p d i s d s a d r f n i l a d l]
+[DELETED:  e 4 s e c c “ d S M d P y l T e P R l l y r a a l c d c e e L y u d m p d l s d d p p p o p d p l d q p m p a l p p p p u a o a c p f o p s o p d e L f]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1297
+27 de mayo de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para crear la “Ley para Regular los Chatbots de Salud Mental e Inteligencia Artificial
+Terapéutica en Puerto Rico”, a los fines de establecer normas sobre divulgación, uso,
+supervisión, manejo de crisis, protección de datos y prohibiciones aplicables a
+sistemas automatizados relacionados con servicios de salud mental; disponer
+fiscalización, sanciones administrativas, reglamentación; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La inteligencia artificial se ha integrado aceleradamente a múltiples aspectos de la
+vida cotidiana. Hoy, una persona puede interactuar con asistentes virtuales, sistemas
+automatizados, plataformas digitales y chatbots para obtener información, coordinar
+servicios, solicitar ayuda, acceder a beneficios o recibir orientación inmediata. Esta
+realidad también ha llegado al campo de la salud mental, donde comienzan a proliferar
+herramientas digitales que prometen acompañamiento emocional, bienestar, orientación
+psicológica, asistencia terapéutica o apoyo en momentos de angustia.
+La innovación tecnológica puede ser útil cuando se utiliza de manera responsable. Si
+entramos de lleno en temas de salud mental, una herramienta automatizada puede
+facilitar la coordinación de citas, orientar sobre beneficios, dirigir a recursos
+comunitarios, proveer información general, mejorar accesibilidad, asistir con
+recordatorios o ayudar a los profesionales licenciados en tareas administrativas. Sin
+
+2
+embargo, el uso de inteligencia artificial en este campo plantea riesgos particulares
+cuando la herramienta se presenta, se anuncia o funciona como si fuera un terapeuta,
+psicólogo, psiquiatra, consejero profesional, trabajador social clínico o profesional
+humano capacitado para intervenir clínicamente.
+Sin duda el hablar de este segmento dentro del sector de salud, resulta ser un área
+especialmente delicada porque la persona que busca ayuda puede encontrarse en un
+momento de vulnerabilidad, angustia, confusión, aislamiento o crisis. Una conversación
+digital que aparenta ser empática, clínica o terapéutica puede generar en el usuario la
+impresión de que está recibiendo atención profesional, aun cuando en realidad interactúa
+con un sistema automatizado. Esa confusión puede retrasar la búsqueda de ayuda
+adecuada, inducir a error sobre el alcance del servicio recibido, comprometer información
+altamente sensible o crear una falsa sensación de acompañamiento en situaciones que
+requieren intervención humana.
+Puerto Rico cuenta con un marco jurídico que reconoce la importancia de la salud
+mental, los derechos de las personas que reciben servicios, la práctica profesional
+licenciada, la telemedicina, la telesalud, la protección al consumidor, la regulación de
+aseguradoras y la confidencialidad de información relacionada con la salud. No obstante,
+los chatbots y sistemas de inteligencia artificial aplicados a salud mental presentan un
+reto emergente: pueden ser ofrecidos por aseguradoras, planes médicos, proveedores,
+plataformas de telemedicina, aplicaciones móviles, compañías tecnológicas o sistemas
+online ubicados fuera de Puerto Rico, pero accesibles o dirigidos a usuarios en la isla.
+Esta medida no pretende regular toda inteligencia artificial, ni impedir la utilización
+de herramientas tecnológicas legítimas. Su alcance se limita a aquellos sistemas
+automatizados que se ofrecen, promueven, contratan, integran o utilizan en relación con
+salud mental. La finalidad es establecer reglas mínimas de transparencia, seguridad y
+responsabilidad cuando dichas herramientas interactúan con usuarios sobre asuntos
+emocionales, psicológicos, psiquiátricos, terapéuticos, de crisis, tratamiento, diagnóstico,
+beneficios de salud mental o navegación de servicios relacionados.
+
+3
+El eje central de esta legislación es sencillo: la inteligencia artificial puede apoyar, pero
+no puede hacerse pasar por terapeuta. Ninguna persona debe creer que recibe terapia,
+consejería profesional, diagnóstico o intervención de crisis de parte de un profesional
+humano cuando en realidad está interactuando con un sistema automatizado. Del mismo
+modo, ninguna herramienta digital debe sustituir el juicio clínico de un profesional
+licenciado, tomar decisiones terapéuticas autónomas, ocultar su naturaleza automatizada
+o utilizar información sensible de salud mental para fines comerciales incompatibles con
+la confianza que debe regir toda interacción relacionada con la salud.
+La medida reconoce, además, que muchas aseguradoras, organizaciones de servicios
+de salud, planes médicos y proveedores utilizan sistemas digitales para orientar a sus
+asegurados, beneficiarios o pacientes. Esos usos pueden ser legítimos cuando se limitan
+a información administrativa, navegación de beneficios, coordinación de citas o acceso a
+recursos. No obstante, cuando la herramienta se adentra en el campo de la salud mental,
+debe quedar claro que no realiza diagnóstico, no determina tratamiento, no decide
+necesidad médica por sí sola, no sustituye procesos de apelación y no reemplaza la
+intervención profesional que corresponda.
+Asimismo, resulta indispensable exigir protocolos de crisis. Un sistema que interactúa
+con personas sobre salud mental debe contar con mecanismos mínimos para responder
+ante expresiones de suicidio, autolesión, daño a terceros, violencia, abuso, desorientación
+severa, intoxicación o emergencia médica. El objetivo no es convertir a cada chatbot en
+una sala de emergencia, sino impedir que un sistema automatizado continúe una
+conversación de alto riesgo sin redirigir al usuario hacia recursos humanos, servicios de
+emergencia, líneas de crisis o ayuda profesional.
+La regulación propuesta adopta un balance prudente. Permite usos administrativos,
+educativos, de accesibilidad, orientación general, apoyo documental y asistencia bajo
+supervisión profesional; pero prohíbe la suplantación profesional, la publicidad
+engañosa, la sustitución clínica, las determinaciones automatizadas finales en asuntos
+sensibles y el uso indebido de datos de salud mental. De igual forma, asigna la
+fiscalización a las entidades que ya tienen jurisdicción sobre los regulados, tales como
+
+4
+ASSMCA, el Departamento de Salud, la Oficina del Comisionado de Seguros, DACO, las
+Juntas Examinadoras y el Departamento de Justicia, evitando crear una nueva estructura
+burocrática.
+En un tema tan sensible como el que nos ocupa aquí, la transparencia no puede ser
+opcional. La persona usuaria tiene derecho a saber si interactúa con un ser humano o con
+un sistema automatizado; tiene derecho a recibir advertencias claras sobre los límites de
+la herramienta; tiene derecho a que sus datos sean protegidos; y tiene derecho a que una
+crisis no sea tratada como una simple conversación digital. Esta legislación procura
+anticiparse a los riesgos de una tecnología en expansión, sin cerrar la puerta a sus
+beneficios cuando se utiliza con responsabilidad, supervisión y respeto a la dignidad
+humana.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley para Regular los Chatbots de
+3 Salud Mental e Inteligencia Artificial Terapéutica en Puerto Rico”.
+4 Artículo 2.- Definiciones.
+5 Para fines de esta Ley, los siguientes términos tendrán el significado que se
+6 dispone a continuación:
+7 (a) Aseguradora u organización de servicios de salud — Toda entidad autorizada,
+8 regulada o sujeta a la jurisdicción de la Oficina del Comisionado de Seguros de Puerto
+9 Rico que ofrezca, administre, cubra, coordine, financie o gestione beneficios, servicios o
+10 productos de salud, incluyendo aseguradoras, planes médicos, organizaciones de
+11 servicios de salud, administradores de beneficios, entidades de cuidado coordinado,
+12 contratistas o entidades que operen en representación de dichas entidades.
+
+5
+1 (b) Chatbot de salud mental — Todo sistema de inteligencia artificial, asistente
+2 virtual, agente conversacional, aplicación, interfaz automatizada, herramienta digital o
+3 sistema de interacción por texto, voz, audio, imagen, video u otro medio que esté
+4 diseñado, anunciado, configurado, contratado, integrado o utilizado para interactuar con
+5 una persona sobre salud mental, bienestar emocional, crisis emocional, síntomas,
+6 diagnóstico, tratamiento, terapia, psicoterapia, consejería, referido, navegación de
+7 servicios o apoyo relacionado con salud mental.
+8 (c) Divulgación clara y conspicua — Se refiere al aviso escrito, verbal, audiovisual,
+9 visual o interactivo, presentado de manera prominente, comprensible, previo a la
+10 interacción y en momentos razonables durante la misma, que informe al usuario que
+11 interactúa con un sistema automatizado, los límites de dicho sistema y las acciones que
+12 debe tomar en caso de emergencia.
+13 (d) Herramienta digital automatizada — Cualquier programa, aplicación,
+14 plataforma, modelo, algoritmo, asistente virtual, sistema experto, interfaz conversacional
+15 o tecnología que genere, seleccione, recomiende, clasifique, responda, dirija o procese
+16 información de manera automatizada o semiautomatizada.
+17 (e) Información sensible de salud mental — Toda información, entrada, respuesta,
+18 inferencia, dato, conversación, historial, audio, texto, imagen, patrón de conducta,
+19 puntuación, clasificación o perfil que identifique, describa, sugiera o permita inferir la
+20 condición emocional, psicológica, psiquiátrica, conductual, riesgo de suicidio, autolesión,
+21 trauma, tratamiento, diagnóstico, medicamentos, síntomas, uso de sustancias, crisis o
+
+6
+1 necesidad de servicios de salud mental de una persona identificada o razonablemente
+2 identificable.
+3 (f) Inteligencia artificial terapéutica — Sistema de inteligencia artificial o
+4 herramienta digital automatizada diseñada, anunciada, configurada, contratada,
+5 integrada o utilizada para simular, asistir, recomendar, dirigir o sustituir interacciones
+6 propias de terapia, psicoterapia, consejería profesional, intervención clínica, evaluación
+7 psicológica o psiquiátrica, apoyo emocional personalizado, manejo de crisis, tratamiento
+8 o toma de decisiones terapéuticas.
+9 (g) Operador — Toda persona natural o jurídica que administre, controle,
+10 configure, provea, distribuya, licencie, contrate, integre, promocione, haga disponible u
+11 opere un chatbot de salud mental, sistema de inteligencia artificial terapéutica o
+12 herramienta digital automatizada sujeta a esta Ley.
+13 (h) Profesional licenciado de salud mental — Toda persona autorizada por las
+14 leyes y reglamentos de Puerto Rico a prestar servicios profesionales relacionados con
+15 salud mental dentro del alcance de su licencia, certificación o autorización, incluyendo,
+16 según aplique, psiquiatras, psicólogos, consejeros profesionales, trabajadores sociales
+17 clínicos, consejeros en rehabilitación, terapeutas de familia y pareja, médicos u otros
+18 profesionales autorizados por ley.
+19 (i) Proveedor — Toda persona natural o jurídica, institución, facilidad, profesional,
+20 grupo profesional, hospital, clínica, centro, plataforma de telemedicina o telesalud,
+21 organización, contratista o entidad que preste, facilite, coordine o intermedie servicios
+22 relacionados con salud mental.
+
+7
+1 (j) Protocolo de crisis — El conjunto de instrucciones, alertas, respuestas,
+2 redirecciones, escalamiento, advertencias, enlaces, teléfonos, recursos y procedimientos
+3 diseñados para responder cuando un usuario exprese, sugiera o manifieste riesgo de
+4 suicidio, autolesión, daño a terceros, violencia, abuso, negligencia, psicosis,
+5 desorientación severa, intoxicación, emergencia médica o crisis aguda de salud mental.
+6 (k) Sistema de inteligencia artificial — Sistema automatizado o semiautomatizado
+7 que, mediante algoritmos, aprendizaje automático, modelos generativos, procesamiento
+8 de lenguaje natural, reconocimiento de patrones u otras técnicas, genera contenido,
+9 respuestas, recomendaciones, clasificaciones, predicciones, inferencias, decisiones o
+10 asistencia para una persona usuaria, proveedor, aseguradora, profesional o entidad.
+11 (l) Usuario — Toda persona que acceda, reciba, utilice o interactúe con un chatbot
+12 de salud mental, sistema de inteligencia artificial terapéutica o herramienta digital
+13 automatizada mientras se encuentre físicamente en Puerto Rico, o que reciba dicha
+14 herramienta como paciente, asegurado, beneficiario, participante, cliente o usuario de
+15 una entidad que opere, preste servicios, contrate o haga negocios en Puerto Rico.
+16 Artículo 3.- Política pública.
+17 Será política pública del Gobierno de Puerto Rico promover el uso responsable,
+18 transparente, seguro y ético de sistemas de inteligencia artificial, chatbots, asistentes
+19 virtuales y herramientas digitales automatizadas cuando estos se utilicen en contextos
+20 relacionados con salud mental.
+21 Se permitirá la utilización de dichas herramientas para fines administrativos,
+22 educativos, de accesibilidad, orientación general, navegación de servicios, coordinación
+
+8
+1 de citas, apoyo documental y asistencia a profesionales licenciados, siempre que no
+2 sustituyan el juicio clínico, la evaluación, el diagnóstico, el tratamiento, la psicoterapia, la
+3 consejería profesional ni la intervención de crisis que corresponde a profesionales
+4 humanos debidamente licenciados o autorizados por ley.
+5 Será, además, política pública garantizar que toda persona ubicada en Puerto Rico
+6 que interactúe con un sistema automatizado relacionado con salud mental sea informada
+7 de manera clara y oportuna sobre la naturaleza no humana del sistema, sus límites, el uso
+8 de sus datos, los recursos disponibles en situaciones de crisis y la disponibilidad de
+9 servicios profesionales cuando corresponda.
+10 Artículo 4.- Aplicabilidad.
+11 Esta Ley aplicará a toda persona natural o jurídica, pública o privada, que ofrezca,
+12 promueva, contrate, integre, administre, opere, distribuya, licencie, recomiende, financie
+13 o ponga a disposición de usuarios ubicados en Puerto Rico un chatbot de salud mental,
+14 sistema de inteligencia artificial terapéutica, asistente virtual o herramienta digital
+15 automatizada relacionada con salud mental.
+16 Sin limitar la generalidad de lo anterior, esta Ley aplicará a:
+17 (a) aseguradoras, organizaciones de servicios de salud, planes médicos,
+18 administradores de beneficios, entidades de cuidado coordinado, contratistas,
+19 subcontratistas o suplidores que ofrezcan o integren dichas herramientas para
+20 asegurados, beneficiarios, pacientes, participantes o usuarios en Puerto Rico;
+21 (b) hospitales, clínicas, centros de salud mental, instituciones proveedoras,
+22 profesionales licenciados, grupos médicos, oficinas profesionales, plataformas de
+
+9
+1 telemedicina, plataformas de telesalud o entidades que presten servicios relacionados con
+2 salud mental;
+3 (c) desarrolladores, operadores, suplidores, vendedores, distribuidores,
+4 licenciantes o administradores de sistemas digitales dirigidos, contratados o puestos a
+5 disposición de usuarios ubicados en Puerto Rico;
+6 (d) aplicaciones móviles, portales web, sistemas de mensajería, plataformas de
+7 bienestar emocional, asistentes virtuales, herramientas de navegación de servicios o
+8 programas online que interactúen con usuarios sobre temas relacionados con salud
+9 mental;
+10 (e) agencias, instrumentalidades, corporaciones públicas, municipios o entidades
+11 gubernamentales que utilicen dichas herramientas para orientación, referido, asistencia,
+12 navegación, apoyo o comunicación relacionada con salud mental.
+13 La mera accesibilidad pasiva de una página, aplicación o plataforma desde Puerto
+14 Rico no constituirá, por sí sola, ofrecimiento sujeto a esta Ley, salvo que la herramienta
+15 sea promovida, contratada, integrada, dirigida, utilizada o puesta a disposición de
+16 usuarios ubicados en Puerto Rico por una entidad que opere, preste servicios, haga
+17 negocios o tenga usuarios, asegurados, pacientes o beneficiarios en Puerto Rico.
+18 Artículo 5.- Exclusiones.
+19 Esta Ley no aplicará a:
+20 (a) herramientas administrativas internas que no interactúen directamente con
+21 pacientes, asegurados, beneficiarios, participantes o usuarios sobre asuntos de salud
+22 mental;
+
+10
+1 (b) sistemas de facturación, codificación, elegibilidad, autorización, reclamaciones,
+2 auditoría o manejo interno de expedientes, siempre que no ofrezcan orientación clínica,
+3 terapéutica, diagnóstica o de salud mental al usuario;
+4 (c) herramientas utilizadas por profesionales licenciados para transcripción,
+5 resumen, organización de notas, apoyo documental o manejo administrativo, siempre
+6 que el profesional revise, valide y mantenga responsabilidad sobre cualquier contenido
+7 clínico incorporado al expediente o utilizado en la atención de la persona;
+8 (d) materiales educativos generales, bibliotecas digitales, motores de búsqueda o
+9 páginas informativas que no simulen conversación personalizada ni se presenten como
+10 herramienta de apoyo, terapia, consejería, diagnóstico o intervención de salud mental;
+11 (e) líneas de emergencia, líneas de crisis, servicios de orientación o programas de
+12 apoyo atendidos por personal humano, aunque utilicen herramientas tecnológicas
+13 auxiliares para documentación, traducción, accesibilidad, enrutamiento o apoyo
+14 administrativo;
+15 (f) herramientas de bienestar general, productividad, meditación, relajación,
+16 ejercicio, sueño o manejo de estrés que no se anuncien, representen, configuren o utilicen
+17 como terapia, consejería, intervención clínica, tratamiento de salud mental, diagnóstico o
+18 sustituto de un profesional licenciado.
+19 Nada de lo dispuesto en esta Sección impedirá la aplicación de esta Ley cuando
+20 una herramienta excluida por su diseño inicial sea utilizada, modificada, comercializada
+21 o presentada como apoyo clínico, terapia, consejería, diagnóstico, intervención de crisis
+22 o sustituto de un profesional licenciado.
+
+11
+1 Artículo 6.- Usos permitidos.
+2 Nada de lo dispuesto en esta Ley impedirá el uso de sistemas de inteligencia
+3 artificial, chatbots, asistentes virtuales o herramientas digitales automatizadas para:
+4 (a) coordinar, confirmar, cancelar o recordar citas;
+5 (b) proveer información administrativa sobre horarios, localización,
+6 disponibilidad general de servicios, procesos de admisión, requisitos de documentos o
+7 canales de contacto;
+8 (c) orientar sobre beneficios de salud mental, cubierta, copagos, redes de
+9 proveedores, directorios, procedimientos administrativos, referidos o servicios
+10 disponibles, sujeto a las limitaciones aplicables a aseguradoras y planes médicos;
+11 (d) facilitar navegación de servicios, siempre que no se represente como
+12 evaluación clínica o determinación terapéutica;
+13 (e) proveer educación general sobre salud mental, bienestar emocional,
+14 autocuidado o recursos comunitarios, siempre que no se presente como diagnóstico,
+15 tratamiento, terapia o consejería personalizada;
+16 (f) apoyar accesibilidad, traducción, lectura, comunicación asistida o adaptación
+17 de información;
+18 (g) asistir a profesionales licenciados en documentación, resumen, organización,
+19 transcripción o preparación de borradores, siempre que el profesional revise, valide y
+20 mantenga responsabilidad profesional sobre cualquier uso clínico;
+21 (h) detectar preliminarmente lenguaje o patrones de crisis con el único propósito
+22 de activar advertencias, redirecciones, escalamiento humano o recursos de emergencia;
+
+12
+1 (i) recopilar información administrativa inicial para facilitar coordinación de
+2 servicios, sin que ello constituya diagnóstico, evaluación clínica o determinación final de
+3 tratamiento.
+4 Sección 7.- Prohibiciones generales.
+5 Ninguna persona natural o jurídica sujeta a esta Ley podrá:
+6 (a) anunciar, promover, identificar, configurar, diseñar o presentar un chatbot de
+7 salud mental, sistema de inteligencia artificial terapéutica o herramienta digital
+8 automatizada como terapeuta, psicólogo, psiquiatra, consejero profesional, trabajador
+9 social clínico, médico, profesional de salud mental, proveedor licenciado o equivalente;
+10 (b) utilizar títulos, descripciones, credenciales, insignias, avatares, nombres,
+11 certificados, interfaces, expresiones comerciales o cualquier otro elemento que induzca
+12 razonablemente al usuario a creer que interactúa con un profesional humano licenciado
+13 cuando en realidad interactúa con un sistema automatizado;
+14 (c) representar, expresa o implícitamente, que un chatbot o sistema de inteligencia
+15 artificial puede sustituir evaluación, diagnóstico, tratamiento, terapia, psicoterapia,
+16 consejería profesional, intervención de crisis, manejo de riesgo suicida, prescripción, plan
+17 terapéutico o juicio clínico de un profesional licenciado;
+18 (d) utilizar un sistema automatizado para emitir, modificar o sustituir diagnósticos
+19 de salud mental, planes de tratamiento, recomendaciones terapéuticas personalizadas,
+20 determinaciones de necesidad clínica, hospitalización, alta, intensidad de cuidado,
+21 medicación, intervención de crisis o manejo de riesgo sin revisión y aprobación de un
+22 profesional licenciado cuando se trate de un servicio clínico;
+
+13
+1 (e) utilizar un chatbot de salud mental como único mecanismo de respuesta ante
+2 expresiones de suicidio, autolesión, amenaza de daño a terceros, violencia, abuso,
+3 psicosis, intoxicación, desorientación severa o emergencia médica;
+4 (f) ocultar, minimizar o dificultar que el usuario conozca que interactúa con un
+5 sistema de inteligencia artificial o herramienta automatizada;
+6 (g) condicionar el acceso a servicios esenciales de salud mental a que el usuario
+7 consienta usos comerciales, publicitarios o de entrenamiento de modelos con su
+8 información sensible de salud mental;
+9 (h) vender, licenciar, transferir o utilizar información sensible de salud mental para
+10 publicidad dirigida, perfilamiento comercial, manipulación conductual, segmentación de
+11 vulnerabilidades emocionales o fines incompatibles con la prestación, coordinación o
+12 navegación de servicios de salud, salvo autorización expresa permitida por ley y
+13 separada de consentimientos generales de uso;
+14 (i) operar, contratar o hacer disponible un chatbot de salud mental sin
+15 divulgaciones claras y conspicuas conforme a esta Ley;
+16 (j) operar, contratar o hacer disponible un chatbot de salud mental sin un protocolo
+17 de crisis conforme a esta Ley.
+18 Artículo 8.- Divulgaciones obligatorias.
+19 Todo chatbot de salud mental, sistema de inteligencia artificial terapéutica o
+20 herramienta digital automatizada sujeta a esta Ley deberá presentar, antes de iniciar la
+21 interacción con el usuario, una divulgación clara y conspicua que indique, como mínimo:
+
+14
+1 (a) que el usuario está interactuando con un sistema automatizado o de
+2 inteligencia artificial;
+3 (b) que el sistema no es un profesional humano;
+4 (c) que el sistema no sustituye evaluación, diagnóstico, tratamiento, psicoterapia,
+5 consejería profesional, intervención de crisis ni servicios de emergencia por un
+6 profesional licenciado;
+7 (d) que, en caso de peligro inmediato, emergencia médica, intención de hacerse
+8 daño, intención de hacer daño a otra persona o crisis aguda, el usuario debe llamar al 911,
+9 comunicarse con la línea 988 o acudir a la sala de emergencia más cercana;
+10 (e) cómo se utilizará, almacenará, compartirá o protegerá la información sensible
+11 de salud mental que el usuario provea, conforme a las leyes aplicables.
+12 La divulgación deberá repetirse de manera razonable cuando la interacción aborde
+13 temas de crisis, ideación suicida, autolesión, violencia, abuso, síntomas severos,
+14 diagnóstico, tratamiento, medicamentos o necesidad de servicios profesionales.
+15 Toda divulgación deberá estar disponible en español e inglés, redactada en
+16 lenguaje claro y accesible, y diseñada de forma que no pueda ser omitida mediante
+17 patrones oscuros, interfaces confusas o mecanismos que induzcan al usuario a ignorarla.
+18 Artículo 9.- Reglas especiales para aseguradoras, organizaciones de servicios de
+19 salud y planes médicos.
+20 Toda aseguradora, organización de servicios de salud, plan médico, administrador
+21 de beneficios, entidad de cuidado coordinado, contratista o suplidor que utilice o haga
+
+15
+1 disponible un chatbot de salud mental o sistema de inteligencia artificial relacionado con
+2 beneficios, servicios, proveedores o cubierta de salud mental deberá:
+3 (a) asegurar que la herramienta no se presente como profesional licenciado ni
+4 como sustituto de servicios clínicos;
+5 (b) identificar de forma clara si la herramienta es administrada por la entidad, por
+6 un contratista o por un tercero;
+7 (c) incluir una divulgación que indique que la herramienta puede asistir con
+8 orientación general, navegación de beneficios, directorio de proveedores, coordinación
+9 de servicios o información administrativa, pero no determina por sí sola diagnóstico,
+10 tratamiento, emergencia psiquiátrica, necesidad médica, cubierta final, autorización final,
+11 denegación de servicios ni derechos de apelación;
+12 (d) mantener mecanismos razonables para que el usuario pueda solicitar asistencia
+13 humana en asuntos de beneficios, autorizaciones, quejas, apelaciones, reclamaciones o
+14 acceso a servicios;
+15 (e) impedir que la herramienta emita determinaciones finales adversas de cubierta,
+16 autorización, necesidad médica, elegibilidad clínica, denegación, reducción o
+17 terminación de servicios de salud mental sin los procesos humanos, contractuales,
+18 regulatorios y de apelación aplicables;
+19 (f) establecer controles contractuales con suplidores tecnológicos para cumplir con
+20 esta Ley, incluyendo divulgaciones, protección de datos, protocolos de crisis, auditoría,
+21 confidencialidad y cooperación con autoridades regulatorias;
+
+16
+1 (g) mantener evidencia documental de cumplimiento disponible para
+2 requerimientos de la Oficina del Comisionado de Seguros, ASSMCA, Departamento de
+3 Salud, DACO o cualquier otra autoridad competente.
+4 Artículo 10.- Protocolos de crisis.
+5 Todo operador, proveedor, aseguradora, entidad pública o privada, contratista o
+6 suplidor que haga disponible un chatbot de salud mental o sistema de inteligencia
+7 artificial terapéutica a usuarios ubicados en Puerto Rico deberá mantener un protocolo
+8 de crisis escrito, operacional y razonablemente proporcional a la naturaleza del servicio
+9 ofrecido.
+10 El protocolo deberá incluir, como mínimo:
+11 (a) mecanismos para identificar expresiones directas o razonablemente aparentes
+12 de suicidio, autolesión, intención de daño a terceros, violencia doméstica, agresión
+13 sexual, abuso o negligencia de menores, abuso o negligencia de adultos mayores, crisis
+14 psicótica, desorientación severa, intoxicación, emergencia médica o riesgo grave e
+15 inminente;
+16 (b) advertencia inmediata al usuario de que el sistema no puede atender
+17 emergencias ni sustituir servicios profesionales de crisis;
+18 (c) instrucciones claras para llamar al 911, comunicarse con la línea 988, acudir a
+19 una sala de emergencia o contactar recursos de crisis disponibles;
+20 (d) enlaces o información de contacto a recursos de emergencia y líneas de ayuda
+21 aplicables en Puerto Rico;
+
+17
+1 (e) medidas para evitar que el sistema genere respuestas que promuevan, faciliten,
+2 instruyan, normalicen o refuercen autolesión, suicidio, violencia, abuso, negligencia,
+3 evasión de ayuda o conducta peligrosa;
+4 (f) mecanismos de escalamiento humano cuando el sistema sea parte de un
+5 servicio clínico, asegurador, institucional o gubernamental que cuente con personal o
+6 canales de respuesta disponibles;
+7 (g) documentación interna de eventos de crisis para fines de auditoría,
+8 cumplimiento y mejoramiento del protocolo, salvaguardando la confidencialidad y
+9 privacidad del usuario.
+10 Nada de lo dispuesto en esta Sección se interpretará como una obligación de que
+11 toda herramienta digital cuente con personal humano disponible veinticuatro (24) horas
+12 al día, los siete (7) días de la semana, salvo que otra ley, reglamento, contrato, licencia,
+13 cubierta, protocolo clínico o representación comercial así lo requiera.
+14 No obstante, ninguna entidad podrá anunciar o representar que ofrece
+15 intervención de crisis humana inmediata si no cuenta con la capacidad real para
+16 proveerla.
+17 Artículo 11.- Privacidad, datos sensibles y publicidad.
+18 Toda persona natural o jurídica sujeta a esta Ley deberá recopilar, procesar,
+19 almacenar, retener, compartir y eliminar información sensible de salud mental conforme
+20 a los principios de necesidad, minimización, seguridad, confidencialidad, transparencia
+21 y cumplimiento con las leyes estatales y federales aplicables, incluyendo aquellas
+22 relacionadas con información de salud protegida cuando correspondan.
+
+18
+1 Se prohíbe:
+2 (a) vender información sensible de salud mental obtenida mediante un chatbot de
+3 salud mental o sistema de inteligencia artificial terapéutica;
+4 (b) utilizar información sensible de salud mental para publicidad dirigida,
+5 segmentación comercial, perfilamiento de vulnerabilidades emocionales o mercadeo
+6 conductual;
+7 (c) transferir información sensible de salud mental a terceros para fines no
+8 relacionados con la prestación, coordinación, navegación, facturación, cumplimiento
+9 legal, seguridad o mejoramiento legítimo del servicio, sin consentimiento expreso,
+10 específico, informado y separado;
+11 (d) utilizar conversaciones identificables o razonablemente identificables para
+12 entrenar, ajustar o mejorar modelos de inteligencia artificial con fines comerciales no
+13 relacionados con el servicio provisto al usuario, salvo que medie consentimiento expreso,
+14 específico, informado y separado, y se cumpla con toda ley aplicable;
+15 (e) utilizar patrones oscuros o diseños manipulativos para obtener consentimiento
+16 sobre datos sensibles de salud mental;
+17 (f) condicionar servicios esenciales de salud mental a la autorización de usos
+18 comerciales secundarios de datos.
+19 Cuando la herramienta sea operada por una entidad cubierta, socio de negocio,
+20 aseguradora, proveedor, contratista o entidad sujeta a normas de privacidad de salud, el
+21 cumplimiento con esta Ley no sustituirá el cumplimiento con las leyes y reglamentos
+
+19
+1 federales y estatales aplicables sobre información de salud protegida, confidencialidad,
+2 expedientes médicos, seguros, telemedicina o práctica profesional.
+3 Artículo 12.- Supervisión profesional.
+4 Cuando un chatbot de salud mental, sistema de inteligencia artificial terapéutica o
+5 herramienta digital automatizada sea integrado a un servicio clínico, práctica profesional,
+6 plataforma de telemedicina, programa de telesalud, institución proveedora o relación
+7 terapéutica, el profesional licenciado correspondiente mantendrá responsabilidad sobre
+8 el juicio clínico, la evaluación, el diagnóstico, el tratamiento, la recomendación
+9 profesional y la comunicación clínica que adopte o utilice.
+10 Ningún profesional, proveedor o entidad podrá delegar en un sistema
+11 automatizado decisiones que, por ley, reglamento, estándar profesional o naturaleza
+12 clínica, requieran juicio profesional licenciado.
+13 El uso de inteligencia artificial como herramienta auxiliar no eximirá al
+14 profesional, proveedor, institución o entidad de cumplir con las leyes y reglamentos
+15 aplicables a licenciamiento, ética profesional, consentimiento informado,
+16 confidencialidad, expediente clínico, telemedicina, telesalud, ciberterapia y derechos de
+17 pacientes.
+18 Artículo 13.- Publicidad y representaciones al consumidor.
+19 Toda publicidad, promoción, empaque digital, interfaz, página web, aplicación,
+20 descripción comercial, material de mercadeo, contrato o representación pública de un
+21 chatbot de salud mental o sistema de inteligencia artificial terapéutica deberá ser veraz,
+22 clara y no engañosa.
+
+20
+1 Se considerará práctica prohibida representar, directa o indirectamente, que una
+2 herramienta automatizada:
+3 (a) provee terapia, psicoterapia, consejería profesional, diagnóstico o tratamiento
+4 de salud mental cuando no medie intervención de un profesional licenciado;
+5 (b) reemplaza o equivale a un psicólogo, psiquiatra, terapeuta, consejero
+6 profesional, trabajador social clínico, médico o profesional de salud mental;
+7 (c) atiende emergencias, crisis suicidas o situaciones de peligro inmediato si no
+8 cuenta con capacidad real, humana y operacional para ello;
+9 (d) garantiza resultados clínicos, recuperación, mejoría, remisión de síntomas o
+10 manejo seguro de crisis;
+11 (e) cuenta con licencia profesional, certificación clínica o aprobación
+12 gubernamental que no posea.
+13 Artículo 14.- Autoridad fiscalizadora y procedimiento administrativo.
+14 La Administración de Servicios de Salud Mental y Contra la Adicción será la
+15 entidad líder para la coordinación de política pública, guías mínimas, criterios de
+16 orientación y protocolos de crisis relacionados con la aplicación de esta Ley a chatbots de
+17 salud mental, sistemas de inteligencia artificial terapéutica y herramientas digitales
+18 automatizadas relacionadas con salud mental.
+19 La imposición de sanciones administrativas y órdenes correctivas corresponderá
+20 a la entidad reguladora con jurisdicción sobre la persona natural o jurídica regulada,
+21 según se dispone a continuación:
+
+21
+1 (a) La Administración de Servicios de Salud Mental y Contra la Adicción podrá
+2 imponer sanciones administrativas a entidades, programas, proveedores, plataformas,
+3 contratistas o suplidores que ofrezcan, promuevan, integren u operen chatbots de salud
+4 mental o sistemas de inteligencia artificial terapéutica dentro del ámbito de servicios de
+5 salud mental, cuando no estén sujetos de forma primaria a la jurisdicción de otra agencia
+6 reguladora especializada.
+7 (b) La Oficina del Comisionado de Seguros podrá imponer sanciones
+8 administrativas a aseguradoras, organizaciones de servicios de salud, planes médicos,
+9 administradores de beneficios, contratistas, subcontratistas o suplidores que ofrezcan,
+10 contraten, integren u operen dichas herramientas para asegurados, beneficiarios,
+11 participantes o usuarios en Puerto Rico.
+12 (c) El Departamento de Salud podrá imponer sanciones administrativas a
+13 facilidades de salud, instituciones proveedoras, plataformas de telemedicina o telesalud,
+14 y entidades sujetas a su licenciamiento o jurisdicción sanitaria.
+15 (d) El Departamento de Asuntos del Consumidor podrá imponer sanciones
+16 administrativas por anuncios, representaciones, interfaces comerciales, divulgaciones,
+17 prácticas de mercadeo o comunicaciones que constituyan o tiendan a constituir engaño,
+18 falsa representación o práctica comercial prohibida.
+19 (e) Las Juntas Examinadoras u organismos reguladores profesionales podrán
+20 tomar acción disciplinaria o administrativa cuando exista uso indebido de títulos
+21 profesionales, simulación de credenciales, práctica no autorizada o violación a normas
+22 éticas o de licenciamiento profesional.
+
+22
+1 (f) Puerto Rico Innovation and Technology Service podrá emitir guías técnicas
+2 para sistemas utilizados por agencias, instrumentalidades, corporaciones públicas o
+3 entidades gubernamentales, en coordinación con ASSMCA y las entidades reguladoras
+4 correspondientes.
+5 (g) El Departamento de Justicia podrá intervenir o recibir referidos cuando existan
+6 alegaciones de fraude, daño sustancial, incumplimiento deliberado, explotación indebida
+7 de información sensible de salud mental, práctica profesional no autorizada o cualquier
+8 conducta que requiera acción civil o penal conforme a las leyes aplicables.
+9 Toda sanción administrativa impuesta al amparo de esta Ley deberá tramitarse
+10 conforme a la Ley Núm. 38-2017, según enmendada, conocida como “Ley de
+11 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, y cualquier ley
+12 orgánica, reglamento o procedimiento aplicable a la entidad reguladora con jurisdicción.
+13 Cuando más de una entidad tenga jurisdicción sobre una misma conducta, dichas
+14 entidades podrán coordinar investigaciones, referidos, órdenes correctivas y sanciones,
+15 evitando duplicidad irrazonable y garantizando el debido proceso de ley.
+16 Artículo 15.- Sanciones administrativas.
+17 La entidad reguladora con jurisdicción, conforme a la Sección 14 de esta Ley, podrá
+18 imponer, previa notificación y oportunidad de ser oído, una o más de las siguientes
+19 sanciones o medidas correctivas:
+20 (a) advertencia escrita;
+21 (b) orden de corrección;
+22 (c) orden de cese y desista;
+
+23
+1 (d) requerimiento de modificar divulgaciones, interfaces, publicidad, protocolos,
+2 contratos, prácticas de datos o funcionalidades;
+3 (e) suspensión temporera del ofrecimiento, promoción, integración o uso del
+4 sistema en Puerto Rico hasta que se corrija la infracción;
+5 (f) multa administrativa no menor de mil dólares ($1,000) ni mayor de diez mil
+6 dólares ($10,000) por infracción;
+7 (g) multa administrativa no menor de diez mil dólares ($10,000) ni mayor de
+8 veinticinco mil dólares ($25,000) por infracción cuando medie reincidencia, ocultación
+9 deliberada, afectación a menores, uso indebido de información sensible de salud mental,
+10 publicidad engañosa sustancial, manejo inadecuado de una crisis, riesgo de daño grave
+11 o representación falsa de servicios profesionales;
+12 (h) referido a otra agencia, junta examinadora, entidad reguladora o al
+13 Departamento de Justicia, cuando la naturaleza de la infracción así lo requiera.
+14 Cada interacción, campaña, sistema, contrato, divulgación omitida, práctica de datos,
+15 determinación automatizada o representación prohibida podrá considerarse infracción
+16 separada cuando así lo determine la autoridad competente conforme a la prueba, la
+17 gravedad de la conducta y el debido proceso de ley.
+18 Las sanciones dispuestas en esta Ley no limitarán remedios, multas, acciones
+19 disciplinarias, acciones civiles, referidos penales, remedios contractuales o acciones
+20 regulatorias disponibles bajo otras leyes aplicables.
+21 Artículo 16.- Reglamentación y guías de implementación.
+
+24
+1 ASSMCA, el Departamento de Salud, la Oficina del Comisionado de Seguros,
+2 DACO, las Juntas Examinadoras concernidas y PRITS, dentro del ámbito de sus
+3 respectivas competencias, podrán adoptar reglamentos, órdenes administrativas, cartas
+4 normativas, guías, formularios, circulares o protocolos para implementar esta Ley.
+5 Dentro de ciento ochenta (180) días contados a partir de la aprobación de esta Ley,
+6 dichas entidades deberán coordinar la emisión de guías mínimas de implementación que
+7 incluyan, al menos:
+8 (a) divulgaciones modelo;
+9 (b) criterios mínimos para protocolos de crisis;
+10 (c) parámetros para aseguradoras, proveedores y plataformas digitales;
+11 (d) criterios para identificar publicidad engañosa o suplantación profesional;
+12 (e) requisitos mínimos de documentación de cumplimiento;
+13 (f) coordinación de querellas, referidos y fiscalización concurrente;
+14 (g) prácticas recomendadas para protección de información sensible de salud
+15 mental.
+16 La ausencia de reglamentación final no impedirá la aplicabilidad de las
+17 prohibiciones, divulgaciones y deberes expresamente dispuestos en esta Ley.
+18 Las entidades reguladoras concernidas podrán emitir guías provisionales antes de
+19 la fecha de vigencia para orientar a las personas naturales o jurídicas sujetas a esta Ley
+20 sobre el cumplimiento inicial de sus disposiciones.
+21 Artículo 17.- Relación con otras leyes.
+
+25
+1 Las disposiciones de esta Ley se interpretarán de forma armoniosa con la Ley
+2 Núm. 408-2000, según enmendada, conocida como “Ley de Salud Mental de Puerto
+3 Rico”; la Ley Núm. 168-2018, según enmendada, conocida como “Ley para el Uso de la
+4 Telemedicina y la Telesalud en Puerto Rico”; las leyes y reglamentos aplicables a la
+5 ciberterapia, práctica profesional, seguros, protección al consumidor, confidencialidad,
+6 privacidad, expedientes médicos, derechos de pacientes y cualquier otra norma estatal o
+7 federal aplicable.
+8 En caso de conflicto entre esta Ley y una disposición más protectora de la
+9 privacidad, seguridad, derechos del paciente, práctica profesional o protección del
+10 consumidor, prevalecerá la disposición que provea mayor protección a la persona
+11 usuaria, paciente, asegurado, beneficiario o consumidor.
+12 Artículo 18.- Cláusula de no autorización presupuestaria automática.
+13 La implementación de esta Ley se realizará utilizando los recursos existentes de
+14 las agencias, instrumentalidades y entidades concernidas. Nada de lo dispuesto en esta
+15 Ley se interpretará como autorización automática para la creación de nuevas plazas,
+16 oficinas, programas permanentes, unidades administrativas o asignaciones
+17 presupuestarias adicionales, salvo que la Asamblea Legislativa así lo disponga mediante
+18 legislación o asignación específica.
+19 Artículo 19.- Separabilidad.
+20 Si cualquier palabra, frase, oración, párrafo, sección o parte de esta Ley fuere
+21 declarada inconstitucional o nula por un tribunal competente, la sentencia dictada a tal
+22 efecto no afectará, perjudicará ni invalidará las restantes disposiciones de esta Ley. El
+
+26
+1 efecto de dicha sentencia quedará limitado a la palabra, frase, oración, párrafo, sección o
+2 parte que haya sido declarada inconstitucional o nula.
+3 Artículo 20.- Vigencia.
+4 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+
+[DELETED: 0 A 3 .rL    m d c p d d y p a a a r c s d s m d s a r y p o f p d y c p o i c s a a a b o r o i E d l e t d s m u h a p l c d c o s b d a r p i g m a a c o a a l p l e t a S]
+[DELETED:  e u d i a e e c p r p p c p t s c o p u s a E c p r l b d a l d d l p q r s l p p h t l S a s l a a s c d h i c u s a]
+[DELETED:  n h d d s e j c d u p q c q n r d n d t n d m p s s n s p d a y n r l s d e s i q u s a c u b p p p l s p l p y e u i d d d s m D i f a l]
+[DELETED:  n s t c u s c d E l p a l r d u t e e s c l p a s f d e L l s t t e s q s d s i a p m o d d s a d b e d c c]
+[DELETED:  d i p t v a i v u o m q e p s s m b e c e s t t p c r n d o i p d m p c p a l H d a — C p a d c h a t i p d c]
+[DELETED:  I a t — S d i a o d a d a c c O — T p n o j q a c u c d s m s d i a t o a p p c p t s c e r t d f y p m u o p h c c p d t o t]
+[DELETED:  P d c — E c d i a r a d a t v a n p l n r d p u o t g c r c p i d o s m s d i a t o h d m s e f e P R o q r d s y é d s d i a c a p l u d d h p f a]
+[DELETED:  c a d y a a p l s q n p n l i d c q c a p s d l r d e s d c y l d d d i a t a v o h d a o d s d s p m d b e d c c c o s q o o i d h p h c c d s m i p l g m o p p d]
+[DELETED:  d o s v d e a v h d n d s o o q i c u s t r c s p c i d u o p a d d u e P R p u e q o p s h h a i q n i d c a b p o u s a d s]
+[DELETED:  h u p p l p t a p p h a u h t p d t a e o a h d b g p m r]
+[DELETED:  d l d e e L i e u d s d i p i a s h l o s b d s m c c r d d p a r o s f n d s s q n s r c p e g s s m b e o r c s q n s p c d]
+[DELETED:  r i a i p f c d m s d i a t o h d u t d c i a n p s e d t t p d n c h a i d c]
+[DELETED:  d s a a d d a t v a u c p o d e d m c s d s d s s a e p p l y o c o h d u c d s m s c d s m s d i a t o]
+[DELETED:  q e u e i c u s a o d p i d c n s d e p u d c i s a v a s s d d e d e e e i r e c y a y d d f q n p s o m]
+[DELETED:  a q l h n s p c p n i u d q i q l h p a c n m e c d r o d s d s m s l p h c]
+[DELETED:  m e d d c d p q h d u c d s m o s d i s a i d d a t v d a d s i e m o r g e a i a u d q e s n p a]
+[DELETED:  n o r a s v a n m d e h c e s s p d u d i d e d c p f d a y m d p s l c y o n e p a o r q o d c h i s n c c l c r p p n o j s a e L d r p c c l l e y f a i a]
+[DELETED:  u i s d s m p p d c p d v e o m t i s d s m a t p f n c l p c n f c s o m l d s s c e u c i o r i p c s e d s m a l a d u]
+[DELETED:  j c l e e d e t l r p p o e p d e u s d q p l r e p o n u d i a c h a n e a p i o e d c c l l y r a l é p c i]
+[DELETED:  r o e a u p p t c c c l p c c o a A d S d S M y C l A s l l p l c d p p g m c d m s d i a t y h d]
+[DELETED:  L O d C d S p i s i u o d h p a b E D d S p i s a a E D d A d C p i s p a r i c d L J E u o r p p a d o a c e u i d t]
+[DELETED:  s u p a i c p o a l L N 3 s e c c “ d d]
+[DELETED:  s t d o p i o u d m a n m d d m d ( n m d r a o a j e e r o a c a l d l a c c a l p l s d e e L n l r m a a c r p r c o a]
+[DELETED:  e D d S l O d C d S l J E c y P d d á d s p r p p d i s d s a d r f n i l a d l]
+[DELETED:  e 4 s e c c “ d S M d P y l T e P R l l y r a a l c d c e e L y u d m p d l s d d p p p o p d p l d q p m p a l p p p p u a o a c p f o p s o p d e L f]

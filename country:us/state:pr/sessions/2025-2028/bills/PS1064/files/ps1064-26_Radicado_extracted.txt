@@ -1,0 +1,257 @@
+Title: Para establecer guías voluntarias para la oferta de préstamos basados en datos
+Official Title: Para establecer guías voluntarias para la oferta de préstamos basados en datos
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1064
+6 de febrero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+alternativos en instituciones financieras y fintech; promover el uso de historiales de pagos
+móviles, datos de redes sociales, consumo de servicios públicos y otros indicadores no
+tradicionales para evaluar capacidad crediticia; fomentar la inclusión financiera sin
+imponer costos adicionales al erario ni obligaciones mandatorias a las entidades o
+consumidores; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico enfrenta desafíos significativos en materia de inclusión financiera, donde
+un porcentaje considerable de la población carece de acceso a crédito tradicional debido
+a la ausencia de historiales crediticios formales o puntuaciones bajas en burós
+convencionales. Según datos del Banco de Desarrollo Económico y el Censo de 2020,
+aproximadamente el 40% de los hogares puertorriqueños viven bajo el nivel de pobreza
+federal, y muchos residentes, incluyendo personas mayores (que representan el 23% de
+la población) y comunidades rurales, dependen de economías informales o transacciones
+digitales como pagos móviles, sin que estos se reflejen en evaluaciones crediticias
+estándar.
+Esto limita oportunidades para emprendedores, pequeños negocios y familias,
+exacerbando desigualdades en una Isla con una economía en recuperación post-desastres
+2
+y pandemia. Los préstamos basados en datos alternativos representan una innovación
+en el sector financiero, permitiendo a instituciones bancarias y fintech evaluar la
+capacidad crediticia mediante indicadores no tradicionales, como historiales de pagos
+móviles (ej. a través de apps como ATH Móvil o PayPal), patrones de consumo en
+servicios públicos (electricidad, agua), datos de redes sociales verificables (actividad
+económica o referencias), historiales de compras en línea o incluso datos de
+geolocalización para validar estabilidad residencial.
+Los datos procesados con algoritmos éticos y protegiendo la privacidad, pueden
+generar puntuaciones crediticias más inclusivas, reduciendo riesgos para prestamistas al
+tiempo que amplían el acceso al crédito para sub-bancarizados. En Puerto Rico, donde el
+uso de pagos digitales ha crecido un 30% anual según informes del Banco de la Reserva
+Federal de Nueva York en 2024, integrar estos datos podría impulsar el emprendimiento
+y la movilidad económica sin requerir garantías colaterales tradicionales.
+Esta medida propone guías voluntarias para que instituciones financieras y fintech
+adopten estos modelos, sin imponer obligaciones mandatorias ni costos al erario. Las
+guías enfatizarían estándares éticos, como el consentimiento explícito del consumidor
+para el uso de datos, transparencia en algoritmos y protección contra discriminación,
+alineándose con leyes existentes como la Ley de Protección de Datos Personales (Ley
+Núm. 111-2005) y el Código de Bancos (Ley Núm. 55 de 1933, según enmendada). Esto
+fomentaría un ecosistema fintech más inclusivo, beneficiando a poblaciones vulnerables
+al ofrecer préstamos a tasas razonables basados en comportamientos reales, como pagos
+puntuales de facturas móviles, en lugar de historiales crediticios limitados.
+En términos de derecho comparado, Nigeria ha implementado guías voluntarias
+exitosas para préstamos basados en datos alternativos. Bajo las directrices del Banco
+Central de Nigeria (CBN) de 2023 para el Marco de Crédito Abierto (Open Banking
+Framework), las fintech pueden utilizar datos alternativos como historiales de pagos
+móviles y transacciones de billeteras electrónicas para evaluar crédito, promoviendo la
+3
+inclusión financiera en un contexto similar de sub-bancarización. Estas guías voluntarias
+han aumentado el acceso al crédito en un 25% para poblaciones no tradicionales sin costos
+fiscales adicionales, con énfasis en privacidad y equidad algorítmica, adaptándose
+perfectamente al escenario puertorriqueño donde el sector fintech crece rápidamente.
+Esta ley complementa marcos regulatorios existentes sin solapamientos,
+promoviendo innovación mediante campañas educativas y reconocimientos a entidades
+participantes. El objetivo es empoderar a los puertorriqueños para acceder a
+financiamiento responsable, impulsar el crecimiento económico y reducir desigualdades,
+contribuyendo a una Isla más resiliente y equitativa.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. - Título.
+2 Esta Ley se conocerá como la "Ley de Guías Voluntarias para Préstamos Basados
+3 en Datos Alternativos en Puerto Rico".
+4 Artículo 2. - Ámbito de Aplicación.
+5 Estas guías aplicarán voluntariamente a instituciones financieras, bancos y fintech
+6 autorizadas en Puerto Rico que ofrezcan préstamos. No impondrán obligaciones
+7 mandatorias ni modificará leyes existentes, salvo para incentivar adopción.
+8 Artículo 3. - Guías Voluntarias para Préstamos Basados en Datos Alternativos.
+9 La Oficina del Comisionado de Instituciones Financieras (OCIF) elaborará y
+10 distribuirá guías que recomienden:
+4
+1 a) Uso de datos alternativos como historiales de pagos móviles, consumo de
+2 servicios públicos, datos de redes sociales verificables y patrones de compras en línea
+3 para evaluar capacidad crediticia.
+4 b) Algoritmos transparentes y éticos, con auditorías periódicas para evitar sesgos
+5 discriminatorios.
+6 c) Consentimiento explícito del consumidor para recopilación y uso de datos, con
+7 opciones de revocación.
+8 d) Integración con burós de crédito tradicionales para puntuaciones híbridas más
+9 inclusivas.
+10 e) Límites en tasas de interés y protecciones contra sobreendeudamiento para
+11 prestatarios vulnerables.
+12 Estas guías fomentarán inclusión financiera sin costos adicionales al erario.
+13 Artículo 4. - Incentivos para Entidades Participantes.
+14 a) Reconocimientos públicos de la OCIF, como sellos de "Entidad Inclusiva
+15 Financiera", utilizables en mercadeo.
+16 b) Asesoría gratuita de la OCIF para implementación de modelos, utilizando
+17 recursos existentes.
+18 c) Prioridad en programas de capacitación fintech gubernamentales para
+19 entidades adoptantes.
+20 Artículo 5. - Protección al Consumidor.
+21 Las guías enfatizarán:
+22 a) Transparencia total en el uso de datos alternativos y criterios de evaluación.
+5
+1 b) Prohibición de discriminación basada en datos no relevantes o protegidos (ej.
+2 género, origen étnico).
+3 c) Mecanismos de reclamo expedito ante la OCIF para violaciones de privacidad o
+4 denegaciones injustas.
+5 Artículo 6. - Implementación y Campañas Educativas.
+6 La OCIF adoptará las guías dentro de 120 días de la aprobación de esta Ley y
+7 lanzará campañas educativas digitales y en medios para promover adopción, financiadas
+8 con fondos existentes. Se creará un portal en línea para recursos, ejemplos de modelos y
+9 guías para consumidores.
+10 Articulo 7.- Cláusula de Separabilidad.
+11 Si cualquier disposición, palabra, oración o inciso de esta Ley fuera impugnado
+12 por cualquier razón ante un tribunal y declarado inconstitucional o nulo, tal sentencia no
+13 afectará, menoscabará o invalidará las restantes disposiciones de esta Ley.
+14 Articulo 8.- Vigencia.
+15 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL    e g v p l o d p b e d p e c c f l i f s c a a e n o m a l e o l a d h c f o p b e b c p m s q e s r e e c l o p e p n y f]
+[DELETED:  e s f p a i b y f e l ( a t d a c A M o P p d c e p ( a d d r s v ( o r h d c e l o i d d d p c a é y p l p p t d d c N h i g v p p b e d a B l d d B d N ( d 2 p e M d C A ( B l f p u d a c d p]
+[DELETED:  a c é e p y e a a l c m r e s s E o e e a l p p a a e P R q o p N i o. O d C d I F ( e y]
+[DELETED:  U d d a c h d p m c d L e t d i y p c s p R p d l O c s d " I A g d l O p i d m u P e p d c f g p]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1064
+6 de febrero de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para establecer guías voluntarias para la oferta de préstamos basados en datos
+alternativos en instituciones financieras y fintech; promover el uso de historiales de pagos
+móviles, datos de redes sociales, consumo de servicios públicos y otros indicadores no
+tradicionales para evaluar capacidad crediticia; fomentar la inclusión financiera sin
+imponer costos adicionales al erario ni obligaciones mandatorias a las entidades o
+consumidores; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico enfrenta desafíos significativos en materia de inclusión financiera, donde
+un porcentaje considerable de la población carece de acceso a crédito tradicional debido
+a la ausencia de historiales crediticios formales o puntuaciones bajas en burós
+convencionales. Según datos del Banco de Desarrollo Económico y el Censo de 2020,
+aproximadamente el 40% de los hogares puertorriqueños viven bajo el nivel de pobreza
+federal, y muchos residentes, incluyendo personas mayores (que representan el 23% de
+la población) y comunidades rurales, dependen de economías informales o transacciones
+digitales como pagos móviles, sin que estos se reflejen en evaluaciones crediticias
+estándar.
+Esto limita oportunidades para emprendedores, pequeños negocios y familias,
+exacerbando desigualdades en una Isla con una economía en recuperación post-desastres
+
+2
+y pandemia. Los préstamos basados en datos alternativos representan una innovación
+en el sector financiero, permitiendo a instituciones bancarias y fintech evaluar la
+capacidad crediticia mediante indicadores no tradicionales, como historiales de pagos
+móviles (ej. a través de apps como ATH Móvil o PayPal), patrones de consumo en
+servicios públicos (electricidad, agua), datos de redes sociales verificables (actividad
+económica o referencias), historiales de compras en línea o incluso datos de
+geolocalización para validar estabilidad residencial.
+Los datos procesados con algoritmos éticos y protegiendo la privacidad, pueden
+generar puntuaciones crediticias más inclusivas, reduciendo riesgos para prestamistas al
+tiempo que amplían el acceso al crédito para sub-bancarizados. En Puerto Rico, donde el
+uso de pagos digitales ha crecido un 30% anual según informes del Banco de la Reserva
+Federal de Nueva York en 2024, integrar estos datos podría impulsar el emprendimiento
+y la movilidad económica sin requerir garantías colaterales tradicionales.
+Esta medida propone guías voluntarias para que instituciones financieras y fintech
+adopten estos modelos, sin imponer obligaciones mandatorias ni costos al erario. Las
+guías enfatizarían estándares éticos, como el consentimiento explícito del consumidor
+para el uso de datos, transparencia en algoritmos y protección contra discriminación,
+alineándose con leyes existentes como la Ley de Protección de Datos Personales (Ley
+Núm. 111-2005) y el Código de Bancos (Ley Núm. 55 de 1933, según enmendada). Esto
+fomentaría un ecosistema fintech más inclusivo, beneficiando a poblaciones vulnerables
+al ofrecer préstamos a tasas razonables basados en comportamientos reales, como pagos
+puntuales de facturas móviles, en lugar de historiales crediticios limitados.
+En términos de derecho comparado, Nigeria ha implementado guías voluntarias
+exitosas para préstamos basados en datos alternativos. Bajo las directrices del Banco
+Central de Nigeria (CBN) de 2023 para el Marco de Crédito Abierto (Open Banking
+Framework), las fintech pueden utilizar datos alternativos como historiales de pagos
+móviles y transacciones de billeteras electrónicas para evaluar crédito, promoviendo la
+
+3
+inclusión financiera en un contexto similar de sub-bancarización. Estas guías voluntarias
+han aumentado el acceso al crédito en un 25% para poblaciones no tradicionales sin costos
+fiscales adicionales, con énfasis en privacidad y equidad algorítmica, adaptándose
+perfectamente al escenario puertorriqueño donde el sector fintech crece rápidamente.
+Esta ley complementa marcos regulatorios existentes sin solapamientos,
+promoviendo innovación mediante campañas educativas y reconocimientos a entidades
+participantes. El objetivo es empoderar a los puertorriqueños para acceder a
+financiamiento responsable, impulsar el crecimiento económico y reducir desigualdades,
+contribuyendo a una Isla más resiliente y equitativa.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. - Título.
+2 Esta Ley se conocerá como la "Ley de Guías Voluntarias para Préstamos Basados
+3 en Datos Alternativos en Puerto Rico".
+4 Artículo 2. - Ámbito de Aplicación.
+5 Estas guías aplicarán voluntariamente a instituciones financieras, bancos y fintech
+6 autorizadas en Puerto Rico que ofrezcan préstamos. No impondrán obligaciones
+7 mandatorias ni modificará leyes existentes, salvo para incentivar adopción.
+8 Artículo 3. - Guías Voluntarias para Préstamos Basados en Datos Alternativos.
+9 La Oficina del Comisionado de Instituciones Financieras (OCIF) elaborará y
+10 distribuirá guías que recomienden:
+
+4
+1 a) Uso de datos alternativos como historiales de pagos móviles, consumo de
+2 servicios públicos, datos de redes sociales verificables y patrones de compras en línea
+3 para evaluar capacidad crediticia.
+4 b) Algoritmos transparentes y éticos, con auditorías periódicas para evitar sesgos
+5 discriminatorios.
+6 c) Consentimiento explícito del consumidor para recopilación y uso de datos, con
+7 opciones de revocación.
+8 d) Integración con burós de crédito tradicionales para puntuaciones híbridas más
+9 inclusivas.
+10 e) Límites en tasas de interés y protecciones contra sobreendeudamiento para
+11 prestatarios vulnerables.
+12 Estas guías fomentarán inclusión financiera sin costos adicionales al erario.
+13 Artículo 4. - Incentivos para Entidades Participantes.
+14 a) Reconocimientos públicos de la OCIF, como sellos de "Entidad Inclusiva
+15 Financiera", utilizables en mercadeo.
+16 b) Asesoría gratuita de la OCIF para implementación de modelos, utilizando
+17 recursos existentes.
+18 c) Prioridad en programas de capacitación fintech gubernamentales para
+19 entidades adoptantes.
+20 Artículo 5. - Protección al Consumidor.
+21 Las guías enfatizarán:
+22 a) Transparencia total en el uso de datos alternativos y criterios de evaluación.
+
+5
+1 b) Prohibición de discriminación basada en datos no relevantes o protegidos (ej.
+2 género, origen étnico).
+3 c) Mecanismos de reclamo expedito ante la OCIF para violaciones de privacidad o
+4 denegaciones injustas.
+5 Artículo 6. - Implementación y Campañas Educativas.
+6 La OCIF adoptará las guías dentro de 120 días de la aprobación de esta Ley y
+7 lanzará campañas educativas digitales y en medios para promover adopción, financiadas
+8 con fondos existentes. Se creará un portal en línea para recursos, ejemplos de modelos y
+9 guías para consumidores.
+10 Articulo 7.- Cláusula de Separabilidad.
+11 Si cualquier disposición, palabra, oración o inciso de esta Ley fuera impugnado
+12 por cualquier razón ante un tribunal y declarado inconstitucional o nulo, tal sentencia no
+13 afectará, menoscabará o invalidará las restantes disposiciones de esta Ley.
+14 Articulo 8.- Vigencia.
+15 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL    e g v p l o d p b e d p e c c f l i f s c a a e n o m a l e o l a d h c f o p b e b c p m s q e s r e e c l o p e p n y f]
+[DELETED:  e s f p a i b y f e l ( a t d a c A M o P p d c e p ( a d d r s v ( o r h d c e l o i d d d p c a é y p l p p t d d c N h i g v p p b e d a B l d d B d N ( d 2 p e M d C A ( B l f p u d a c d p]
+[DELETED:  a c é e p y e a a l c m r e s s E o e e a l p p a a e P R q o p N i o. O d C d I F ( e y]
+[DELETED:  U d d a c h d p m c d L e t d i y p c s p R p d l O c s d " I A g d l O p i d m u P e p d c f g p]

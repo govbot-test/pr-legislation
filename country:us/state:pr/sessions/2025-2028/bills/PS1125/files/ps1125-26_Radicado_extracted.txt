@@ -1,0 +1,1209 @@
+Title: Para establecer el Programa de Cuentas de Ahorro Individual de Puerto Rico: Puerto Rico
+Official Title: Para establecer el Programa de Cuentas de Ahorro Individual de Puerto Rico: Puerto Rico
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1125
+9 de marzo del 2026
+Presentado por el señor Rivera Schatz
+Referido a la Comisión de _______________
+LEY
+Ahorra, adscrito al Departamento de Hacienda; crear el Fondo Administrativo del
+Programa de Cuentas de Ahorro Individuales de Retiro; crear la Junta del Programa;
+establecer los requisitos del Programa; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La seguridad económica durante la etapa de retiro de nuestros ciudadanos
+constituye uno de los principales desafíos sociales y fiscales de Puerto Rico. Una porción
+significativa de la fuerza laboral carece de acceso a planes de retiro patrocinados por sus
+patronos, particularmente en el caso de pequeñas y medianas empresas, autoempleados
+y otros, en modalidades laborales no tradicionales.
+En Puerto Rico, como en otras jurisdicciones, el sistema federal de seguridad social
+no es suficiente para garantizar un retiro adecuado, por lo que el propio sistema federal
+recomienda su suplementación. Sin embargo, muchos trabajadores y trabajadoras,
+particularmente los autoempleados, los contratistas de empresas no tradicionales y los
+empleados de pequeñas empresas, carecen de la posibilidad real de hacer las inversiones
+2
+necesarias para complementar las pensiones que recibirán del sistema federal de seguro
+social. Ello, sumado a retos particulares que enfrenta la Isla, como lo son el envejecimiento
+poblacional, la migración laboral y la sostenibilidad de los sistemas tradicionales de
+pensiones.
+Esta ley tiene como propósito atender dicha problemática, ofreciendo un
+mecanismo voluntario de suplementación de pensiones, dirigido específicamente a los
+autoempleados y a los empleados de empresas pequeñas y empresas no tradicionales.
+Con este, buscamos fomentar la participación y permanencia de los trabajadores en la
+fuerza laboral, promovemos el crecimiento económico y facilitamos herramientas
+dirigidas a que nuestra fuerza laboral tenga la oportunidad de un retiro digno.1
+Mediante esta legislación se crea el Programa de Cuentas de Ahorro Individual de
+Puerto Rico: Puerto Rico Ahorra como un mecanismo voluntario de ahorro para el retiro,
+estructurado bajo el modelo de auto-inscripción, dirigido a trabajadores que no cuentan
+con un plan de retiro patrocinado por su patrono, incluyendo empleados, contratistas
+independientes y trabajadores por cuenta propia. El Programa se regirá por una
+gobernanza público-privada con estricta separación entre el Estado y los fondos
+aportados, los cuales serán custodiados e invertidos por entidades financieras privadas
+bajo supervisión fiduciaria independiente. De esta manera, se amplía el acceso a
+instrumentos de ahorro portables y de bajo costo, sin crear obligaciones fiscales ni pasivos
+actuariales para el Gobierno de Puerto Rico. Además, se garantiza la seguridad de las
+aportaciones de los trabajadores, pues los fondos no están en manos del Estado, sino en
+cuentas individuales a nombre de cada trabajador, invertidos en fondos regulados y
+custodiados por instituciones financieras privadas reguladas. De modo que las cuentas
+siguen teniendo vida, independientemente de la existencia del Programa.
+Además, la Ley crea una Junta con deber fiduciario expreso, encargada de
+establecer la política de inversión, supervisar a los proveedores privados y garantizar la
+transparencia, la rendición de cuentas y la protección de los participantes. Se establece un
+1 Véase, Houghton, Angela. La necesidad de seguridad financiera en el retiro para una economía saludable en Puerto
+Rico. Washington, DC: AARP Research, Julio 2017. https://doi.org/10.26419/res.00162.003.
+3
+Fondo Administrativo separado, con límites claros a los gastos y un plan de
+autosuficiencia financiera, así como requisitos de auditoría externa y gestión formal de
+riesgos. Igualmente, se dispone un esquema de cumplimiento para los patronos,
+preservando el carácter voluntario para los trabajadores y asegurando que el Programa
+opere conforme al marco legal estatal y federal aplicable.
+El modelo que establecemos ha sido implementado en unas 17 jurisdicciones de
+Estados Unidos continentales, el cual, sin imponer obligaciones o cargas económicas
+directas a los patronos, ha demostrado ser una herramienta eficaz para fomentar el ahorro
+a largo plazo y reducir la dependencia futura en programas de asistencia pública. En el
+resto de la nación, la implementación de este programa, denominado “Auto-IRA”, ha
+tenido un importante impacto en la incorporación de jóvenes y adultos mayores a la
+fuerza laboral formal. El Georgetown Center for Retirement Initiatives ha estudiado
+precisamente el impacto de los Auto-IRA’s en la retención de empleo,2 y han evidenciado
+que el empleo en el sector privado aumentó significativamente tras la implementación de
+los programas estatales de auto-IRA en 0.83 puntos porcentuales (1.46%) en general, con
+los mayores incrementos entre jóvenes de entre 18 y 25 años (5.75%) y trabajadores
+mayores de entre 55 y 65 años (3.84%).
+Manteniendo nuestro compromiso con los trabajadores, resulta necesario y
+responsable implementar y promover políticas que faciliten el ahorro, promuevan la
+estabilidad económica y la retención laboral, por lo que esta Asamblea Legislativa, al
+establecer un mecanismo accesible para el retiro vinculado al empleo, directamente
+adelanta dichos objetivos. Este Programa complementará el sistema de seguridad social
+existente y proveerá una alternativa adicional voluntaria de ahorro para el retiro
+especialmente para aquellos trabajadores que actualmente no tienen acceso a planes de
+retiro a través de sus empleadores.
+2 Bloomberg, Adam, Ngoc Dao & Manita Rao, How Do State Retirement Savings Policies Affect Labor Supply?
+(Ctr. for Ret. Initiatives, McCourt Sch of Pub. Pol’y, Georgetown Univ., Working Paper No. CRI WP 2024-
+01, rev. Mar.2025) (orig. May 2024).
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se conocerá como "Ley del Programa de Cuentas de Ahorro Individual
+3 de Puerto Rico: Puerto Rico Ahorra.”
+4 Artículo 2.- Política pública
+5 Es política pública del Gobierno de Puerto Rico fomentar la autosuficiencia
+6 económica, promover el ahorro a largo plazo y facilitar el acceso a mecanismos de retiro
+7 para los trabajadores que actualmente carecen de ellos, mediante instrumentos simples,
+8 portables y administrados privadamente, sin imponer cargas fiscales ni crear
+9 obligaciones actuariales al Gobierno.
+10 Artículo 3.- Programa de ahorro individual para el retiro
+11 Se crea el Programa de Cuentas de Ahorro Individual de Puerto Rico (Programa),
+12 adscrito al Departamento de Hacienda, como un programa independiente y separado de
+13 los activos generales y cuentas del Gobierno, bajo la supervisión y administración de la
+14 Junta del Programa de Ahorro Individual para el Retiro, en adelante “la Junta”. El
+15 Programa tendrá el propósito exclusivo de facilitar el ahorro voluntario para el retiro para
+16 aquellos trabajadores que actualmente no tienen acceso a Programas de retiro a través de
+17 sus empleadores.
+18 El Programa está diseñado para promover la auto-inscripción de los trabajadores
+19 y cuentapropista, en la gobernanza público-privada, pero con una separación estricta del
+20 Estado y los fondos aportados, mediante una supervisión fiduciaria independiente.
+5
+1 Las aportaciones serán remitidas directamente al custodio o administrador
+2 fiduciario designado mediante proceso competitivo. La Junta no recibirá, custodiará ni
+3 administrará directamente fondos de los participantes.
+4 Como parte de la implementación del Programa, la Junta deberá desarrollar un
+5 Programa de retiro de contribución definida para las personas empleadas en la empresa
+6 privada en Puerto Rico, para lo cual, llevará a cabo un análisis legal y de mercado para el
+7 desarrollo del Programa, según dispuesto en el Artículo 16 de esta Ley. La Junta tendrá
+8 un función exclusivamente fiduciaria y normativa, mas no así operativa, por lo que no
+9 tendrá el poder de custodiar, ni administrar fondos de los participantes, como tampoco
+10 ejecutar directamente inversiones, ni garantizar rendimientos.
+11 Artículo 4.- Naturaleza jurídica del programa
+12 El Programa de Ahorro Individual para el Retiro de Puerto Rico creado en esta Ley
+13 no constituirá:
+14 1. un plan de pensiones del Gobierno de Puerto Rico;
+15 2. un plan de retiro patrocinado por patronos; ni
+16 3. un plan de beneficios sujeto a la Ley de seguridad de los ingresos de jubilación
+17 de los empleados de 1974 (Employee Retirement Income Security Act or 1974,
+18 ERISA).
+19 Las cuentas creadas bajo el Programa serán propiedad exclusiva del trabajador
+20 participante y serán plenamente portables.
+21 El Gobierno de Puerto Rico no garantizará a los participantes del Programa
+22 rendimientos, tasas de retorno, ni beneficios específicos.
+6
+1 Artículo 5.- Creación de la Junta del Programa de Ahorro Individual para el Retiro
+2 de Puerto Rico
+3 (a) Se crea la Junta del Programa de Ahorro Individual para el Retiro de Puerto
+4 Rico, que será el organismo rector del Programa y que estará adscrito al
+5 Departamento de Hacienda.
+6 (b) La Junta estará compuesta por los siguientes nueve (9) miembros, los cuales
+7 serán designados dentro de un término de sesenta (60) días contados a partir
+8 de la aprobación de esta Ley:
+9 1. El Secretario del Departamento de Hacienda, quien será su
+10 Presidente;
+11 2. El Secretario del Departamento del Trabajo y Recursos Humanos, o
+12 su representante designado por este;
+13 3. Cinco (5) miembros, los cuales podrán ser escogidos de los miembros
+14 de la Junta de Reserva de Pensiones del Fideicomiso de Reserva de
+15 Pensiones (Pension Reserve Trust), creado en virtud de Public Law
+16 114-187, on 6/30/2016, 130 Stat 549 (Puerto Rico Oversight,
+17 Management, and Economic Stability Act or PROMESA), conocida
+18 como “PROMESA”. Título I, Art. 101 (b) (2). Estos miembros serán
+19 seleccionados por el Gobernador (a) y ocuparán sus cargos por el
+20 término de siete (7) años y ejercerán sus funciones hasta que se
+21 nombre un sucesor y éste tome posesión del cargo. En caso de que
+22 los miembros del Fideicomiso no estén disponibles para ocupar el
+7
+1 cargo, corresponderá al Gobernador (a) nombrar los cinco (5)
+2 miembros descritos en este inciso, con el consejo y consentimiento
+3 del Senado. En tal caso, estos miembros fungirán como tales durante
+4 un término de siete (7) años y ejercerán sus funciones hasta que se
+5 nombre un sucesor y éste tome posesión del cargo. Las personas
+6 nombradas del sector privado deberán contar con al menos quince
+7 (15) años de experiencia profesional en el manejo de inversiones,
+8 finanzas y administración de fondos;
+9 4. El Gobernador (a) nombrará, además, con el consejo y
+10 consentimiento del Senado, un (1) representante de una
+11 organización que represente el sector patronal privado; y un (1)
+12 representante de los participantes del sector privado. Los
+13 representantes del sector patronal privado y de los participantes
+14 ocuparán los cargos por un término de cinco (5) años.
+15 (c) Las personas seleccionadas para ocupar las posiciones designadas por el
+16 Gobernador deberán contar con vasto conocimiento y experiencia en la
+17 administración y funcionamiento de sistemas financieros o en la
+18 administración de recursos humanos y deberán gozar de buena reputación
+19 moral.
+20 (d) Cinco (5) miembros de la Junta constituirán quórum para resolver cualquier
+21 asunto ante su consideración y toda resolución adoptada por el mismo
+22 deberá ser aprobada por mayoría de los presentes. Los miembros podrán
+8
+1 asistir a dichas reuniones mediante mecanismos de videoconferencias,
+2 llamadas telefónicas o métodos similares.
+3 (e) La Junta establecerá por reglamento aquellas disposiciones necesarias para
+4 su funcionamiento y cumplimiento con esta Ley, incluyendo las funciones y
+5 deberes de sus integrantes y las normas éticas necesarias para prohibir
+6 conflictos de intereses.
+7 (f) Los miembros de la Junta deberán ejercer un deber fiduciario de prudencia,
+8 lealtad y diligencia respecto a la administración del Programa y a sus
+9 participantes.
+10 (g) Ningún miembro podrá mantener relación contractual, interés financiero
+11 directo o indirecto, ni vínculo profesional con entidades que presten servicios
+12 al Programa durante su incumbencia ni durante los dos (2) años siguientes.
+13 (h) La Junta creará un comité de auditoría independiente y establecerá las reglas
+14 necesarias para la intervención indebida del Estado, funcionarios o partidos
+15 políticos con el funcionamiento de la Junta y del Programa.
+16 (i) La Junta podrá incoar cualquier acción legal para la administración de esta
+17 Ley, incluyendo la capacidad de demandar y ser demandada en su capacidad
+18 oficial. Los miembros de la Junta disfrutarán de inmunidad en lo que a
+19 responsabilidad civil se refiere, cuando actúen en el desempeño de las
+20 facultades y obligaciones que le son concedidas por esta Ley.
+21 (j) Los miembros de la Junta servirán ad honorem.
+22 Artículo 6.- Deberes, poderes y facultades de la Junta
+9
+1 A los fines de llevar a cabo los deberes que dispone esta Ley, la Junta tendrá los
+2 siguientes deberes, poderes y facultades:
+3 (a) Establecer, implementar y mantener el Programa a ser desarrollado
+4 conforme a esta Ley;
+5 (b) adoptar reglamentos para la administración general del Programa, a tenor
+6 con lo dispuesto en el Artículo 8 de esta Ley;
+7 (c) actuar con diligencia, discreción, prudencia y con criterio razonable en la
+8 administración y supervisión del Programa, evaluando el balance entre el
+9 rendimiento esperado y el grado de riesgo asociado a las distintas
+10 modalidades de inversión de fondos, de acuerdo con las políticas
+11 establecidas y adoptadas por la propia Junta;
+12 (d) definir la política de inversión conforme a la cual el administrador
+13 fiduciario invertirá los fondos aportados a las cuentas del Programa
+14 conforme a las restricciones de inversión establecidas por la propia Junta,
+15 las cuales serán consistentes con los objetivos del Programa y conforme a
+16 los criterios establecidos en esta Ley;
+17 (e) revisión periódica de opciones de inversión, con posibilidad de reemplazo;
+18 (f) supervisar el desempeño, costos y el cumplimiento del Programa;
+19 (g) cobrar tarifas para sufragar los costos de administración del Programa,
+20 calculadas como un porcentaje de las aportaciones al mismo, procurando
+21 que dichas tarifas se mantengan -en todo momento- lo más bajas posible;
+10
+1 (h) celebrar, suscribir y formalizar contratos a los fines de emplear y
+2 subcontratar servicios que se consideren necesarios o deseables para
+3 cumplir los propósitos establecidos en esta Ley, incluyendo, pero sin
+4 limitarse a:
+5 1. servicios de instituciones financieras privadas y públicas, depositarios,
+6 consultores, custodios, asesores y gestores de inversión y legales,
+7 administradores de inversiones y administradores externos del
+8 Programa;
+9 2. servicios de investigación, técnicos y otros; y
+10 3. servicios de agencias del Gobierno de Puerto Rico para asistir a la Junta
+11 en el cumplimiento de sus funciones;
+12 (i) evaluar la necesidad de, y contratar según sea necesario, un seguro privado
+13 colectivo para el Programa;
+14 (j) desarrollar e implementar un programa de divulgación para obtener
+15 aportaciones y difundir información sobre el Programa y sobre el ahorro
+16 para el retiro en general;
+17 (k) promover políticas y campañas educativas que eviten el retiro temprano de
+18 los fondos o que las cuentas sean utilizadas como una cuenta de
+19 emergencia, en lugar de una de inversión para la jubilación;
+20 (l) auditar y supervisar a los proveedores de servicio del Programa;
+21 (m) solicitar al Secretario del Trabajo que investigue a cualquier patrono
+22 conforme se autoriza en el Artículo 13 de esta Ley, para determinar si
+11
+1 cumple con los requisitos del Programa. La Junta tendrá fundamento
+2 razonable para referir al Secretario del Trabajo el posible incumplimiento
+3 por parte de un patrono con el Programa establecido mediante esta Ley,
+4 luego de haber realizado tres (3) intentos de comunicación con dicho
+5 patrono sin que este haya respondido o atendido lo solicitado por la Junta;
+6 (n) coordinar con otras jurisdicciones que hayan establecido programas
+7 similares, a fin de compartir mejores prácticas y facilitar la portabilidad de
+8 cuentas;
+9 (o) invertir y utilizar los fondos del Fondo Administrativo aportados por el
+10 Gobierno de Puerto Rico al Programa, a los fines de cumplir con las
+11 facultades y responsabilidades conferidas, cónsono con lo dispuesto en el
+12 Artículo 9 de esta Ley;
+13 (p) determinar la asignación de los fondos del Programa entre las distintas
+14 clases de inversiones, conforme a los distintos perfiles de riesgo que se
+15 establezcan por reglamento;
+16 (q) establecer los distintos niveles de riesgo disponibles para los participantes
+17 al elegir una cuenta de ahorro y definir los parámetros aplicables a cada
+18 uno de dichos niveles, incluyendo, entre otros, opciones de inversión de
+19 mayor crecimiento o de perfil conservador;
+20 (r) llevar a cabo procesos competitivos para la contratación de entidades
+21 privadas que estarán a cargo de la administración de las cuentas, custodia
+12
+1 de activos, manejo de inversiones y servicios a los participantes del
+2 Programa;
+3 (s) garantizar la separación funcional entre el administrador del programa, el
+4 custodio de fondos y gestor de inversiones;
+5 (t) seleccionar y supervisar a los administradores que manejarán las
+6 inversiones;
+7 (u) adoptar un Plan de Autosuficiencia Financiera del Fondo dentro del
+8 periodo de cinco (5) años;
+9 (v) ordenar al menos la celebración de una auditoría anual de manera externa
+10 e independiente y realizar todas aquellas auditorías que estimen necesarias;
+11 (w) informar periódicamente sobre sus actividades e inversiones tanto a los
+12 participantes del Programa, como al Gobierno de Puerto Rico y al público
+13 en general;
+14 (x) aprobar reglamentación sobre aspectos éticos de la Junta y el Programa,
+15 establecer políticas para evitar los conflictos de intereses y garantizar la
+16 transparencia;
+17 (y) garantizar la celebración de reuniones públicas en aquellos casos que sea
+18 posible;
+19 (z) asegurar que el custodio mantenga cuentas separadas de las cuentas del
+20 Gobierno de Puerto Rico las aportaciones recibidas, las cuales se
+21 considerarán como aportaciones privadas que nunca se juntarán,
+22 fusionarán o confundirán con los fondos del Gobierno de Puerto Rico;
+13
+1 (aa) obtener asesoramiento legal respecto a la aplicabilidad al Programa de la
+2 Ley de seguridad de ingreso de jubilación para empleados de
+3 1974 (Employee Retirement Income Security Act of 1974, 29 U.S.C. 1001 y ss.) y
+4 del Código de Rentas Internas federal y estatal;
+5 (bb) evaluar si los patronos que no están obligados a participar en el Programa
+6 pueden hacerlo voluntariamente para beneficio de sus empleados, y de así
+7 serlo, autorizarlo mediante reglamentación a esos fines;
+8 (cc) permitir que personas que no son inscritas automáticamente en el
+9 Programa participen en el mismo y hagan aportaciones a una cuenta, ya sea
+10 mediante deducciones de nómina u otro método de contribución, y de así
+11 entenderlo, autorizarlo mediante reglamentación a esos fines;
+12 (dd) referir al Secretario del Trabajo para que investigue aquellos patronos, que,
+13 a juicio de la Junta, se encuentren en posible incumplimiento con las
+14 disposiciones de esta Ley;
+15 (ee) adoptar una Política Formal de Gestión de Riesgos, incluyendo controles
+16 internos, estándares de ciberseguridad, continuidad operacional y
+17 auditorías de cumplimiento; y
+18 (ff) realizar todas aquellas acciones necesarias para el debido cumplimiento con
+19 las disposiciones de esta Ley.
+20 Artículo 7.- Requisitos del Programa
+21 a. El Programa que desarrolle la Junta deberá:
+14
+1 1. permitir que individuos elegibles, incluyendo empleados, trabajadores o
+2 contratistas independientes, así como cuentapropistas en Puerto Rico
+3 contribuyan voluntariamente a una cuenta de ahorro establecida bajo el
+4 Programa mediante deducciones de nómina;
+5 2. requerir que los patronos inscriban en el Programa, mediante deducciones
+6 de nómina, a todos sus empleados elegibles que no participen en un
+7 Programa de retiro cualificado ofrecido por el patrono conforme a las
+8 Secciones 401(a), 401(k), 403(a), 403(b), 408(k), 408(p) o 457(b) del Código de
+9 Rentas Internas Federal, y en aquellos casos donde el patrono no ofrezca
+10 ningún plan de retiro cualificado a sus empleados;
+11 3. establecer que los patronos no vendrán obligados a realizar aportaciones,
+12 no seleccionarán mecanismos de inversión, ni asumirán responsabilidad
+13 fiduciaria alguna en cuanto al Programa;
+14 4. permitir que los empleados inscritos opten por no participar en el
+15 Programa, conforme al Reglamento establecido por la Junta, según lo
+16 dispuesto en el Artículo 8(d) de esta Ley;
+17 5. garantizar que para fines de la participación en esta legislación se permita
+18 y fomente, no tan sólo la participación de empleados o trabajadores
+19 asalariados, sino de la participación de contratistas independientes y
+20 trabajadores por cuenta propia que cualifiquen como participantes,
+21 conforme a la reglamentación que se adopte;
+15
+1 6. ofrecer opciones de incremento automático progresivo de aportaciones o de
+2 niveles de contribución;
+3 7. disponer que las contribuciones al Programa sean depositadas
+4 directamente para beneficio del empleado aportante con el administrador
+5 de las inversiones del Programa;
+6 8. utilizar, cuando sea posible, la infraestructura existente del gobierno y
+7 patronos para facilitar contribuciones, mantenimiento de registros y
+8 alcance comunitario;
+9 9. garantizar que en ningún caso se requerirán, ni permitirán contribuciones
+10 patronales a las cuentas de los empleados participantes;
+11 10. requerir el mantenimiento de registros y contabilidad separados para cada
+12 cuenta;
+13 11. proveer informes sobre el estado de las cuentas a los participantes al menos
+14 semestralmente;
+15 12. permitir que los dueños de cuentas las mantengan independientemente de
+16 que cambien su lugar de empleo y que puedan transferir fondos (“roll-
+17 overs”) a otras cuentas de retiro;
+18 13. agrupar las cuentas establecidas bajo el Programa para propósitos de
+19 inversión, pero siempre asegurando que la inversión del dueño de cada
+20 cuenta esté protegida y que las cuentas sean invertidas profesionalmente;
+16
+1 14. disponer que el Gobierno de Puerto Rico y los patronos participantes no
+2 tengan interés propietario en las contribuciones o ganancias de las cuentas
+3 establecidas;
+4 15. disponer que el administrador de inversiones del Programa sea el fiduciario
+5 de todas las contribuciones y ganancias;
+6 16. no imponer a los patronos deberes bajo la Ley de seguridad de los ingresos
+7 de jubilación de los empleados de 1974 (Employee Retirement Income
+8 Security Act or 1974, ERISA);
+9 17. mantener tan bajos como sea posible los costos administrativos;
+10 18. permitir el uso de alianzas con el sector privado para administrar e invertir
+11 las contribuciones bajo la supervisión de la Junta;
+12 19. permitir que los patronos establezcan Programas de retiro alternativos para
+13 algunos o todos sus empleados;
+14 20. evaluar la posibilidad de que individuos no empleados puedan optar por
+15 participar y hacer contribuciones; y
+16 21. permitir que los participantes del Programa elijan el tipo de cuenta de
+17 ahorro a la cual aportarán, ya sea cuenta ROTH-IRA o una IRA Tradicional,
+18 así como los niveles de aportación y el perfil de inversión al cual se deseen
+19 exponer, como, por ejemplo, alto crecimiento o rendimiento fijo.
+20 b. El Programa se estructurará conforme al ‘safe harbor’ aplicable a programas
+21 estatales de auto-IRA conforme a las interpretaciones federales vigentes,
+17
+1 asegurando que los patronos no ejerzan discreción ni control fiduciario sobre
+2 inversiones o administración.
+3 c. El Programa, la Junta, sus miembros ni el Gobierno de Puerto Rico,
+4 garantizarán ninguna tasa de rendimiento o interés sobre las contribuciones.
+5 d. El Programa, la Junta, sus miembros y el Gobierno de Puerto Rico no serán
+6 responsables por pérdidas incurridas por cualquier persona como resultado de
+7 participar en el Programa.
+8 Artículo 8.- Reglamentación
+9 La Junta adoptará la reglamentación necesaria para:
+10 a. establecer el proceso para inscripción voluntaria en el Programa, incluyendo
+11 procedimientos para inscripción automática y para que los empleados
+12 elegibles opten por no participar;
+13 b. establecer el proceso para que los participantes:
+14 1. puedan hacer contribuciones predeterminadas;
+15 2. puedan ajustar los niveles de contribuciones;
+16 3. puedan seleccionar el tipo de cuenta de ahorro al cual quisieran aportar
+17 (IRA ROTH vs. tradicional); y
+18 4. puedan elegir el perfil de riesgo al cual se deseen exponer en su cuenta
+19 de ahorro (por ejemplo, alto crecimiento o rendimiento fijo);
+20 c. establecer el proceso para que los patronos deduzcan contribuciones de los
+21 salarios y las remitan al administrador de inversiones. Los sistemas del
+18
+1 Departamento de Hacienda ya implantados podrán ser utilizados para este
+2 proceso de deducción y envío;
+3 d. garantizar el carácter voluntario del Programa, permitiendo que el empleado
+4 pueda optar por no inscribirse o una vez inscrito, dar por terminado su
+5 participación y recibir de vuelta sus aportaciones, conforme a las disposiciones
+6 del Código de Rentas Internas federal y la legislación estatal aplicable a cuentas
+7 IRA.;
+8 e. establecer el proceso para que participantes hagan contribuciones fuera de
+9 nómina;
+10 f. establecer el proceso de retiros de las cuentas del Programa;
+11 g. determinar las tarifas a ser cobradas para financiar la administración del
+12 Programa, según el Artículo 6(g) de esta Ley;
+13 h. establecer el proceso y requisitos para obtener la certificación de exclusión
+14 aplicable a aquellos patronos que ofrecen a sus empleados un Programa de
+15 retiro cualificado, disponiéndose, que un patrono que ofrece un Programa de
+16 retiro cualificado únicamente a ciertos empleados, estará obligado a inscribir
+17 en este Programa a aquellos otros empleados no participantes a quienes no les
+18 ofrece ninguna opción de contribución a un plan de retiro;
+19 i. asegurar que la información de cada participante del Programa, incluyendo,
+20 pero no limitado a nombres, direcciones, números de teléfono, información de
+21 identificación personal, cantidades contribuidas y ganancias sobre las
+22 cantidades contribuidas, sea confidencial y se mantenga como tal, excepto en
+19
+1 la medida que sea necesario para administrar el Programa o a menos que la
+2 persona que provea la información expresamente acuerde y autorice por
+3 escrito que la información puede ser divulgada; y
+4 j. establecer los requisitos para que una persona sea considerada empleado y/o
+5 autoempleado elegible para ser inscrito en el Programa; y
+6 k. todo aquello dispuesto en esta ley que exija reglamentación para su
+7 cumplimiento y adelantar los propósitos de esta legislación.
+8 Artículo 9.- Creación del Fondo Administrativo del Programa de Cuentas de
+9 Ahorro Individuales de Retiro
+10 Se crea el Fondo Administrativo del Programa de Cuentas de Ahorro
+11 Individuales de Retiro (Fondo), al cual se le asigna la cantidad, inicial y no
+12 recurrente, de diez millones de dólares ($10,000,000.00) provenientes del Fondo
+13 General de Puerto Rico, sujeto a los criterios que se establecen a continuación:
+14 a. El Fondo será uno separado y distinto del Fondo General del Gobierno de
+15 Puerto Rico.
+16 b. Los intereses generados por el Fondo se abonarán exclusivamente al propio
+17 Fondo.
+18 c. El Fondo se compondrá de:
+19 1. cualquier cantidad asignada al Fondo por la Asamblea Legislativa;
+20 2. cualquier fondo transferido al Fondo por el gobierno federal, otras
+21 agencias estatales o por gobiernos municipales;
+20
+1 3. fondos provenientes del pago de tarifas y de otros pagos adeudados a
+2 Programa;
+3 4. donaciones o regalos hechos al Gobierno de Puerto Rico para ser
+4 depositados en el Fondo;
+5 5. rendimientos generados por los fondos del propio Fondo;
+6 6. fondos provenientes de multas administrativas conforme al Artículo 16
+7 de esta Ley; y
+8 7. cualquier aportación inicial, que según sea necesario, determine efectuar
+9 el Gobierno de Puerto Rico al Programa para su establecimiento y
+10 mientras el mismo comienza a ser autosuficiente, como ha sido la
+11 experiencia en otras jurisdicciones de Estados Unidos de América.
+12 d. La Junta podrá utilizar los dineros del Fondo para cubrir los costos y gastos
+13 administrativos del Programa, así como para cualquier otro propósito
+14 permitido según dispuesto en esta Ley y en los reglamentos adoptados a tenor
+15 con la misma. Los fondos del programa no podrán ser utilizados para fines
+16 ajenos a esta legislación, ni transferidos a ninguna entidad gubernamental o
+17 fondo no relacionado.
+18 e. Los gastos administrativos no podrán exceder el 1% de los activos
+19 administrados.
+20 Artículo 10.- Administración e inversión de fondos
+21
+1 El administrador fiduciario invertirá los fondos conforme a la política de inversión
+2 aprobada por la Junta, siguiendo las políticas y procedimientos profesionales,
+3 manteniendo cuentas y registros separados para este Programa.
+4 La Junta reportará trimestralmente al Gobernador, a la Asamblea Legislativa y al
+5 público el estado de las inversiones del Programa y su administración y anualmente
+6 someterá un informe detallado de su gestión. Tales publicaciones estarán disponibles en
+7 la página web y en cualquier otro medio electrónico o redes sociales de la Junta.
+8 Artículo 11.- Informes y supervisión
+9 La Junta presentará anualmente un informe dirigido a los participantes del
+10 Programa, Gobernador, Junta de Supervisión Fiscal y a la Asamblea Legislativa,
+11 detallando sus actividades relacionadas al Programa, incluyendo, entre otros, el
+12 desempeño financiero, ingresos y gastos, estructura de fondos, rendimiento comparado,
+13 investigaciones referidas, manejo de riesgos, cumplimiento fiduciario, contratos
+14 otorgados y los aspectos administrativos relevantes. Este Informe se publicará en la
+15 página web de la Junta y en cualquier otro medio electrónico o redes sociales de la Junta.
+16 Artículo 12.- Autoridad sobre programas locales
+17 Los municipios no podrán establecer programas que contravengan la política
+18 pública establecida en esta Ley.
+19 Artículo 13.- Cumplimiento y fiscalización; asistencia de agencias
+20 gubernamentales
+21 El Departamento del Trabajo y Recursos Humanos, el Departamento de Desarrollo
+22 Económico y Comercio y la Autoridad de Asesoría Financiera y Agencia Fiscal de Puerto
+22
+1 Rico, creada en la Ley 2-2017, según enmendada, colaborarán con el Departamento de
+2 Hacienda y la Junta establecida en esta Ley para la implementación, fiscalización y
+3 cumplimiento de los deberes y responsabilidades del Programa.
+4 Artículo 14.- Cumplimiento con el Programa
+5 a. Constituirá una práctica ilícita bajo las leyes laborales de Puerto Rico que un
+6 patrono incumpla con los requisitos del Programa autorizado y desarrollado
+7 bajo esta Ley.
+8 b. Cualquier empleado podrá presentar una querella alegando una práctica ilícita
+9 bajo este Artículo, ante el Secretario del Trabajo y Recursos Humanos. Sin
+10 embargo, no podrá presentar la referida querella antes de transcurridos dos (2)
+11 años de la fecha en que el Patrono esté obligado a registrarse con el Programa,
+12 según establecido por la Junta mediante reglamento.
+13 Al recibir una querella de un empleado o a solicitud de la Junta, el
+14 Secretario del Departamento del Trabajo y Recursos Humanos podrá realizar
+15 investigaciones conforme a sus facultades bajo la ley. Si este emite una orden
+16 final determinando que un Patrono incurrió en una práctica ilícita, podrá
+17 imponer las multas administrativas que correspondan según dispuesto en esta
+18 Ley y los reglamentos que para dichos fines promulgue el Secretario del
+19 Departamento del Trabajo y Recursos Humanos.
+20 El Secretario del Departamento del Trabajo y Recursos Humanos
+21 informará a la Junta sobre cualquier orden final emitida bajo este Artículo. La
+22 Junta, por su parte, incluirá las determinaciones de órdenes finales
+23
+1 relacionadas al cumplimiento de patronos en los informes anuales requeridos
+2 bajo el Artículo 11 de esta Ley.
+3 Artículo 15.- Multas administrativas
+4 Además de cualquier otra multa o sanción provista por la ley o reglamentación
+5 aplicable, el Secretario del Trabajo podrá imponer al Patrono que haya incurrido en una
+6 práctica ilícita bajo el Artículo 14 de esta Ley, una multa administrativa de hasta $500 por
+7 cada empleado que sea elegible para participar en el Programa, hasta un máximo
+8 de $10,000 anuales.
+9 Los fondos recibidos por concepto del pago de las multas administrativas
+10 impuestas conforme a lo establecido en esta Ley, serán distribuidos en un cincuenta por
+11 ciento (50%) al Departamento del Trabajo y Recursos Humanos y el otro cincuenta por
+12 ciento (50%) al Programa para cubrir los costos y gastos administrativos.
+13 Artículo 16.- Estudio de viabilidad y análisis de mercado
+14 Previo a la implementación operacional del Programa creado en esta Ley, la Junta
+15 deberá realizará un estudio que incluirá los siguientes renglones:
+16 a. un análisis de viabilidad actuarial, financiera y administrativa; un análisis de
+17 mercado del sector de ahorro para el retiro en Puerto Rico; y, análisis del
+18 impacto fiscal y económico;
+19 b. el número estimado de trabajadores elegibles y patronos cubiertos;
+20 c. demanda potencial de participación por parte de los trabajadores;
+21 d. la capacidad del mercado financiero local para proveer servicios de
+22 administración, custodia e inversión a costos razonables;
+24
+1 e. los costos de implementación y operación del Programa, incluyendo riesgos,
+2 costos proyectados y alternativas de financiamiento;
+3 f. análisis de la legislación estatal y federal aplicable;
+4 g. evaluación de modelos comparables en otras jurisdicciones;
+5 h. diseño preliminar del programa, incluyendo mecanismos de inscripción,
+6 aportaciones, inversión y retiro;
+7 i. requisitos operacionales, tecnológicos y administrativos; y
+8 j. recomendaciones legislativas y reglamentarias.
+9 El Informe requerido conforme a lo establecido en este Artículo deberá será
+10 realizado en coordinación con la Oficina de Presupuesto de la Asamblea Legislativa
+11 (OPAL).
+12 El Informe deberá ser presentado a la Gobernadora y a la Asamblea Legislativa en
+13 un término de ciento ochenta (180) días de la aprobación de esta Ley. La Junta no
+14 podrá ordenar la inscripción de patronos ni trabajadores ni comenzar la recaudación
+15 de aportaciones, hasta tanto el estudio de viabilidad y análisis de mercado hayan sido
+16 completados y publicados.
+17 Artículo 17.- Separabilidad
+18 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+19 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+20 fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal efecto
+21 dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley.
+22 Artículo 18.- Vigencia
+25
+1 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+2 Disponiéndose, que una vez rendido el Informe requerido en el Artículo 16 de esta Ley,
+3 la Junta deberá establecer el Programa para que los individuos puedan comenzar a
+4 efectuar aportaciones no más tarde de doce (12) meses a partir de la presentación del
+5 Informe.
+[DELETED:  A    S r    s e d l e d r d n c s s  S e m t y t]
+[DELETED:  l m l y l s d l s t d l t c p a d p o u l p e c e y f h. y t p c p E P s r p u p c e s e e E y l f s f i D e m s a e a a i a n d c t i e f r y l L c u J c d f e e dL]
+[DELETED:  A s c l c a l g y u p d I s d u e d c p l p U c e c s i o o c e l f  E  h e C f RtI,  m i e j d e 1 y 2 a ( y t n c c l t r n y i y p p q f e a p l u m a p e r v a e d y p u a a v d a p e r ]
+[DELETED:  A E d A E p p d G d P R f l a e p p y a p s i c f n c o A S a l J d P d A I p e R e a “ J  E P a s E y E]
+[DELETED:  L a s r d a c o a f a C P p d u t e  A E n 1.u 2.u 3.u d(, E L c c b e P s p e d t p E G d P R n g a l p d P r]
+[DELETED:  A d ()S R q s e o r d P y q e a a D ()L s d 1.E S d D d H q s s P 2.E s 3.C d P o 6 1 S 5 ( R O . s t d s ( a y e s f h q s n l]
+[DELETED:  c c a G ( n l c ( m d u n n ( m i f 4.E G ( n a c e c y c d S u ( r d u o q r e s p p y u ( r d l p d s p L r d s p p y d l p o ()L p s p o l p d p e G d c c v c y e e l a y f d s f o e l a m ()C a a s c y t r a p e m d]
+[DELETED:  a a d r m m d v l ()L s d d s i y l n é n p p c ()L l y d r a l a d P y a s p ()N m p m r c i f d a ()L n p ()L L o L m d l J d d i e l q a r c s r c a e e d d l f ()L A]
+[DELETED:  A s ()E i y m e P a s d c ()a c ()a a r e y e g d r a a l d m d i d f d a c l p e ()d l p d i c a l c e a f i l f a a l c d P c l l ()r ()s ()c t p s l c d a d P c q]
+[DELETED:  ()c s y f c a l f d e y s s q s c n o d p c l p e e e L i p s l 1.s c c a y g d i y l a d i y a e d P 2.s 3.s e ()e c ()d e i u p d d p o a p ()p l f o q l c s u c u c d e ()a ()s a S d T q i a c p c s a e e A 1 d e L p d s]
+[DELETED:  c c l r d P  L J t f r p l d h r t ( i d c c d p ()c c o j q h e p s c ()i G d P R a P a l f d c c l f A ()d f P c d i c a l d p d r q s e ()e a u m ()l a c p c p l c d e p]
+[DELETED:  d a m d i y s a l p d P ()g c ()s y s a l a q m l i ()a u P d A F d F d d p ()o e ()i t p e ()a e t ()g p ()a G d P R l a r l c s c c a p q n s j f]
+[DELETED:  ()o L d s d i d j p e d 1(, d ()e p s ()p q p q n s i a e e P m e ()r a j d l J s e e p i c l d ()a i e d c c o y a ()r l A a.E]
+[DELETED:  1.p c i a c c e P R c P 2.r d n a t s e e q n p e u P d r c o p e p c a l S R n 3.e n f 4.p q l e i o p n p e e P c a R e p l J s l d 5.g y f n t s l p d e o t a s d l p d c i y t p c p q c c p c]
+[DELETED:  6.o n 7.d q l c a P s d d d 8.u c s p l i e d g y p p f c m d r y a 9.g p 1.r c 1.p s 1.p q q o 1.a l c e b e P p p d i c]
+[DELETED:  1.d t e 1.d d 1.n d j d l e d 1 ( R I S 1.m 1.p l 1.p a 2.e p 2.p q l p d P e e t d c d a a e b.E e d a c a l i f v]
+[DELETED:  a i c.E P l J s m n e G d P R g d.E r p A L a.e p p i a y p q l e e b.e 1.p 2.p 3.p ( 4.p d c.e s y l r a a d i  L s d]
+[DELETED:  D p d.g p o p n i o u v i d p t s p d I e.e e p p q p h c f d n f.e g.d l t a s c p f l a d P h.e e p y r p o l c d e a r r e o i.a p i p c c y g s l c]
+[DELETED:  l p q p l i e a y a p e j.e a k.t a d e e l q e r p s c A 9 C d F A d P d C d A S c e F A d P d C d A I d R ( a c s l a l c i y n r G a.E P b.L F c.E 1.c 2.c f t a F p e g f o a]
+[DELETED:  3.f P 4.d o r h a G d P R p s d 5.r 6.f d 7.c e G d P R a P p s e y m e m c a s a c h s l e d.L a P a c p c o p p c a f e.L g a n p e e 1 d l a a A]
+[DELETED:  E a p l J s l p y p p m L p P s l A L J p a u i d a l p d P G J d S F y a l A L d s a r a P i e o e d i r m d r c f c o y l a a r E I s p e l p A L m n p e p q c l p p A 1 C y f a d a g E E]
+[DELETED:  R H y l J e e e L p l i f y c A a.C p b b.C b e a s A r u q d u e o a s d l J e S i f d q u P i e u p i p i L y l r q p d f p e S d D E S d D d T y R H i J p s p i l d d ó f]
+[DELETED:  r b A A a p c e s e p p e e P h u m d L f r p c d p d l m a i c c A  P d a.u m d s d a p e r e P R y a d i b.e c.d d.l c d m f l p p s d a]
+[DELETED:  e.l c f.a g.e h.d p d p i m d i a i.r j.r E I r c a l e e e A d s r ( E u p d c A S c c p s o p l a d f d A]
+[DELETED:  E L c a r i d d s a D l J d e e P p q l i p c a e I]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1125
+9 de marzo del 2026
+Presentado por el señor Rivera Schatz
+Referido a la Comisión de _______________
+LEY
+Para establecer el Programa de Cuentas de Ahorro Individual de Puerto Rico: Puerto Rico
+Ahorra, adscrito al Departamento de Hacienda; crear el Fondo Administrativo del
+Programa de Cuentas de Ahorro Individuales de Retiro; crear la Junta del Programa;
+establecer los requisitos del Programa; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La seguridad económica durante la etapa de retiro de nuestros ciudadanos
+constituye uno de los principales desafíos sociales y fiscales de Puerto Rico. Una porción
+significativa de la fuerza laboral carece de acceso a planes de retiro patrocinados por sus
+patronos, particularmente en el caso de pequeñas y medianas empresas, autoempleados
+y otros, en modalidades laborales no tradicionales.
+En Puerto Rico, como en otras jurisdicciones, el sistema federal de seguridad social
+no es suficiente para garantizar un retiro adecuado, por lo que el propio sistema federal
+recomienda su suplementación. Sin embargo, muchos trabajadores y trabajadoras,
+particularmente los autoempleados, los contratistas de empresas no tradicionales y los
+empleados de pequeñas empresas, carecen de la posibilidad real de hacer las inversiones
+
+2
+necesarias para complementar las pensiones que recibirán del sistema federal de seguro
+social. Ello, sumado a retos particulares que enfrenta la Isla, como lo son el envejecimiento
+poblacional, la migración laboral y la sostenibilidad de los sistemas tradicionales de
+pensiones.
+Esta ley tiene como propósito atender dicha problemática, ofreciendo un
+mecanismo voluntario de suplementación de pensiones, dirigido específicamente a los
+autoempleados y a los empleados de empresas pequeñas y empresas no tradicionales.
+Con este, buscamos fomentar la participación y permanencia de los trabajadores en la
+fuerza laboral, promovemos el crecimiento económico y facilitamos herramientas
+dirigidas a que nuestra fuerza laboral tenga la oportunidad de un retiro digno.1
+Mediante esta legislación se crea el Programa de Cuentas de Ahorro Individual de
+Puerto Rico: Puerto Rico Ahorra como un mecanismo voluntario de ahorro para el retiro,
+estructurado bajo el modelo de auto-inscripción, dirigido a trabajadores que no cuentan
+con un plan de retiro patrocinado por su patrono, incluyendo empleados, contratistas
+independientes y trabajadores por cuenta propia. El Programa se regirá por una
+gobernanza público-privada con estricta separación entre el Estado y los fondos
+aportados, los cuales serán custodiados e invertidos por entidades financieras privadas
+bajo supervisión fiduciaria independiente. De esta manera, se amplía el acceso a
+instrumentos de ahorro portables y de bajo costo, sin crear obligaciones fiscales ni pasivos
+actuariales para el Gobierno de Puerto Rico. Además, se garantiza la seguridad de las
+aportaciones de los trabajadores, pues los fondos no están en manos del Estado, sino en
+cuentas individuales a nombre de cada trabajador, invertidos en fondos regulados y
+custodiados por instituciones financieras privadas reguladas. De modo que las cuentas
+siguen teniendo vida, independientemente de la existencia del Programa.
+Además, la Ley crea una Junta con deber fiduciario expreso, encargada de
+establecer la política de inversión, supervisar a los proveedores privados y garantizar la
+transparencia, la rendición de cuentas y la protección de los participantes. Se establece un
+1 Véase, Houghton, Angela. La necesidad de seguridad financiera en el retiro para una economía saludable en Puerto
+Rico. Washington, DC: AARP Research, Julio 2017. https://doi.org/10.26419/res.00162.003.
+
+3
+Fondo Administrativo separado, con límites claros a los gastos y un plan de
+autosuficiencia financiera, así como requisitos de auditoría externa y gestión formal de
+riesgos. Igualmente, se dispone un esquema de cumplimiento para los patronos,
+preservando el carácter voluntario para los trabajadores y asegurando que el Programa
+opere conforme al marco legal estatal y federal aplicable.
+El modelo que establecemos ha sido implementado en unas 17 jurisdicciones de
+Estados Unidos continentales, el cual, sin imponer obligaciones o cargas económicas
+directas a los patronos, ha demostrado ser una herramienta eficaz para fomentar el ahorro
+a largo plazo y reducir la dependencia futura en programas de asistencia pública. En el
+resto de la nación, la implementación de este programa, denominado “Auto-IRA”, ha
+tenido un importante impacto en la incorporación de jóvenes y adultos mayores a la
+fuerza laboral formal. El Georgetown Center for Retirement Initiatives ha estudiado
+precisamente el impacto de los Auto-IRA’s en la retención de empleo,2 y han evidenciado
+que el empleo en el sector privado aumentó significativamente tras la implementación de
+los programas estatales de auto-IRA en 0.83 puntos porcentuales (1.46%) en general, con
+los mayores incrementos entre jóvenes de entre 18 y 25 años (5.75%) y trabajadores
+mayores de entre 55 y 65 años (3.84%).
+Manteniendo nuestro compromiso con los trabajadores, resulta necesario y
+responsable implementar y promover políticas que faciliten el ahorro, promuevan la
+estabilidad económica y la retención laboral, por lo que esta Asamblea Legislativa, al
+establecer un mecanismo accesible para el retiro vinculado al empleo, directamente
+adelanta dichos objetivos. Este Programa complementará el sistema de seguridad social
+existente y proveerá una alternativa adicional voluntaria de ahorro para el retiro
+especialmente para aquellos trabajadores que actualmente no tienen acceso a planes de
+retiro a través de sus empleadores.
+2 Bloomberg, Adam, Ngoc Dao & Manita Rao, How Do State Retirement Savings Policies Affect Labor Supply?
+(Ctr. for Ret. Initiatives, McCourt Sch of Pub. Pol’y, Georgetown Univ., Working Paper No. CRI WP 2024-
+01, rev. Mar.2025) (orig. May 2024).
+
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se conocerá como "Ley del Programa de Cuentas de Ahorro Individual
+3 de Puerto Rico: Puerto Rico Ahorra.”
+4 Artículo 2.- Política pública
+5 Es política pública del Gobierno de Puerto Rico fomentar la autosuficiencia
+6 económica, promover el ahorro a largo plazo y facilitar el acceso a mecanismos de retiro
+7 para los trabajadores que actualmente carecen de ellos, mediante instrumentos simples,
+8 portables y administrados privadamente, sin imponer cargas fiscales ni crear
+9 obligaciones actuariales al Gobierno.
+10 Artículo 3.- Programa de ahorro individual para el retiro
+11 Se crea el Programa de Cuentas de Ahorro Individual de Puerto Rico (Programa),
+12 adscrito al Departamento de Hacienda, como un programa independiente y separado de
+13 los activos generales y cuentas del Gobierno, bajo la supervisión y administración de la
+14 Junta del Programa de Ahorro Individual para el Retiro, en adelante “la Junta”. El
+15 Programa tendrá el propósito exclusivo de facilitar el ahorro voluntario para el retiro para
+16 aquellos trabajadores que actualmente no tienen acceso a Programas de retiro a través de
+17 sus empleadores.
+18 El Programa está diseñado para promover la auto-inscripción de los trabajadores
+19 y cuentapropista, en la gobernanza público-privada, pero con una separación estricta del
+20 Estado y los fondos aportados, mediante una supervisión fiduciaria independiente.
+
+5
+1 Las aportaciones serán remitidas directamente al custodio o administrador
+2 fiduciario designado mediante proceso competitivo. La Junta no recibirá, custodiará ni
+3 administrará directamente fondos de los participantes.
+4 Como parte de la implementación del Programa, la Junta deberá desarrollar un
+5 Programa de retiro de contribución definida para las personas empleadas en la empresa
+6 privada en Puerto Rico, para lo cual, llevará a cabo un análisis legal y de mercado para el
+7 desarrollo del Programa, según dispuesto en el Artículo 16 de esta Ley. La Junta tendrá
+8 un función exclusivamente fiduciaria y normativa, mas no así operativa, por lo que no
+9 tendrá el poder de custodiar, ni administrar fondos de los participantes, como tampoco
+10 ejecutar directamente inversiones, ni garantizar rendimientos.
+11 Artículo 4.- Naturaleza jurídica del programa
+12 El Programa de Ahorro Individual para el Retiro de Puerto Rico creado en esta Ley
+13 no constituirá:
+14 1. un plan de pensiones del Gobierno de Puerto Rico;
+15 2. un plan de retiro patrocinado por patronos; ni
+16 3. un plan de beneficios sujeto a la Ley de seguridad de los ingresos de jubilación
+17 de los empleados de 1974 (Employee Retirement Income Security Act or 1974,
+18 ERISA).
+19 Las cuentas creadas bajo el Programa serán propiedad exclusiva del trabajador
+20 participante y serán plenamente portables.
+21 El Gobierno de Puerto Rico no garantizará a los participantes del Programa
+22 rendimientos, tasas de retorno, ni beneficios específicos.
+
+6
+1 Artículo 5.- Creación de la Junta del Programa de Ahorro Individual para el Retiro
+2 de Puerto Rico
+3 (a) Se crea la Junta del Programa de Ahorro Individual para el Retiro de Puerto
+4 Rico, que será el organismo rector del Programa y que estará adscrito al
+5 Departamento de Hacienda.
+6 (b) La Junta estará compuesta por los siguientes nueve (9) miembros, los cuales
+7 serán designados dentro de un término de sesenta (60) días contados a partir
+8 de la aprobación de esta Ley:
+9 1. El Secretario del Departamento de Hacienda, quien será su
+10 Presidente;
+11 2. El Secretario del Departamento del Trabajo y Recursos Humanos, o
+12 su representante designado por este;
+13 3. Cinco (5) miembros, los cuales podrán ser escogidos de los miembros
+14 de la Junta de Reserva de Pensiones del Fideicomiso de Reserva de
+15 Pensiones (Pension Reserve Trust), creado en virtud de Public Law
+16 114-187, on 6/30/2016, 130 Stat 549 (Puerto Rico Oversight,
+17 Management, and Economic Stability Act or PROMESA), conocida
+18 como “PROMESA”. Título I, Art. 101 (b) (2). Estos miembros serán
+19 seleccionados por el Gobernador (a) y ocuparán sus cargos por el
+20 término de siete (7) años y ejercerán sus funciones hasta que se
+21 nombre un sucesor y éste tome posesión del cargo. En caso de que
+22 los miembros del Fideicomiso no estén disponibles para ocupar el
+
+7
+1 cargo, corresponderá al Gobernador (a) nombrar los cinco (5)
+2 miembros descritos en este inciso, con el consejo y consentimiento
+3 del Senado. En tal caso, estos miembros fungirán como tales durante
+4 un término de siete (7) años y ejercerán sus funciones hasta que se
+5 nombre un sucesor y éste tome posesión del cargo. Las personas
+6 nombradas del sector privado deberán contar con al menos quince
+7 (15) años de experiencia profesional en el manejo de inversiones,
+8 finanzas y administración de fondos;
+9 4. El Gobernador (a) nombrará, además, con el consejo y
+10 consentimiento del Senado, un (1) representante de una
+11 organización que represente el sector patronal privado; y un (1)
+12 representante de los participantes del sector privado. Los
+13 representantes del sector patronal privado y de los participantes
+14 ocuparán los cargos por un término de cinco (5) años.
+15 (c) Las personas seleccionadas para ocupar las posiciones designadas por el
+16 Gobernador deberán contar con vasto conocimiento y experiencia en la
+17 administración y funcionamiento de sistemas financieros o en la
+18 administración de recursos humanos y deberán gozar de buena reputación
+19 moral.
+20 (d) Cinco (5) miembros de la Junta constituirán quórum para resolver cualquier
+21 asunto ante su consideración y toda resolución adoptada por el mismo
+22 deberá ser aprobada por mayoría de los presentes. Los miembros podrán
+
+8
+1 asistir a dichas reuniones mediante mecanismos de videoconferencias,
+2 llamadas telefónicas o métodos similares.
+3 (e) La Junta establecerá por reglamento aquellas disposiciones necesarias para
+4 su funcionamiento y cumplimiento con esta Ley, incluyendo las funciones y
+5 deberes de sus integrantes y las normas éticas necesarias para prohibir
+6 conflictos de intereses.
+7 (f) Los miembros de la Junta deberán ejercer un deber fiduciario de prudencia,
+8 lealtad y diligencia respecto a la administración del Programa y a sus
+9 participantes.
+10 (g) Ningún miembro podrá mantener relación contractual, interés financiero
+11 directo o indirecto, ni vínculo profesional con entidades que presten servicios
+12 al Programa durante su incumbencia ni durante los dos (2) años siguientes.
+13 (h) La Junta creará un comité de auditoría independiente y establecerá las reglas
+14 necesarias para la intervención indebida del Estado, funcionarios o partidos
+15 políticos con el funcionamiento de la Junta y del Programa.
+16 (i) La Junta podrá incoar cualquier acción legal para la administración de esta
+17 Ley, incluyendo la capacidad de demandar y ser demandada en su capacidad
+18 oficial. Los miembros de la Junta disfrutarán de inmunidad en lo que a
+19 responsabilidad civil se refiere, cuando actúen en el desempeño de las
+20 facultades y obligaciones que le son concedidas por esta Ley.
+21 (j) Los miembros de la Junta servirán ad honorem.
+22 Artículo 6.- Deberes, poderes y facultades de la Junta
+
+9
+1 A los fines de llevar a cabo los deberes que dispone esta Ley, la Junta tendrá los
+2 siguientes deberes, poderes y facultades:
+3 (a) Establecer, implementar y mantener el Programa a ser desarrollado
+4 conforme a esta Ley;
+5 (b) adoptar reglamentos para la administración general del Programa, a tenor
+6 con lo dispuesto en el Artículo 8 de esta Ley;
+7 (c) actuar con diligencia, discreción, prudencia y con criterio razonable en la
+8 administración y supervisión del Programa, evaluando el balance entre el
+9 rendimiento esperado y el grado de riesgo asociado a las distintas
+10 modalidades de inversión de fondos, de acuerdo con las políticas
+11 establecidas y adoptadas por la propia Junta;
+12 (d) definir la política de inversión conforme a la cual el administrador
+13 fiduciario invertirá los fondos aportados a las cuentas del Programa
+14 conforme a las restricciones de inversión establecidas por la propia Junta,
+15 las cuales serán consistentes con los objetivos del Programa y conforme a
+16 los criterios establecidos en esta Ley;
+17 (e) revisión periódica de opciones de inversión, con posibilidad de reemplazo;
+18 (f) supervisar el desempeño, costos y el cumplimiento del Programa;
+19 (g) cobrar tarifas para sufragar los costos de administración del Programa,
+20 calculadas como un porcentaje de las aportaciones al mismo, procurando
+21 que dichas tarifas se mantengan -en todo momento- lo más bajas posible;
+
+10
+1 (h) celebrar, suscribir y formalizar contratos a los fines de emplear y
+2 subcontratar servicios que se consideren necesarios o deseables para
+3 cumplir los propósitos establecidos en esta Ley, incluyendo, pero sin
+4 limitarse a:
+5 1. servicios de instituciones financieras privadas y públicas, depositarios,
+6 consultores, custodios, asesores y gestores de inversión y legales,
+7 administradores de inversiones y administradores externos del
+8 Programa;
+9 2. servicios de investigación, técnicos y otros; y
+10 3. servicios de agencias del Gobierno de Puerto Rico para asistir a la Junta
+11 en el cumplimiento de sus funciones;
+12 (i) evaluar la necesidad de, y contratar según sea necesario, un seguro privado
+13 colectivo para el Programa;
+14 (j) desarrollar e implementar un programa de divulgación para obtener
+15 aportaciones y difundir información sobre el Programa y sobre el ahorro
+16 para el retiro en general;
+17 (k) promover políticas y campañas educativas que eviten el retiro temprano de
+18 los fondos o que las cuentas sean utilizadas como una cuenta de
+19 emergencia, en lugar de una de inversión para la jubilación;
+20 (l) auditar y supervisar a los proveedores de servicio del Programa;
+21 (m) solicitar al Secretario del Trabajo que investigue a cualquier patrono
+22 conforme se autoriza en el Artículo 13 de esta Ley, para determinar si
+
+11
+1 cumple con los requisitos del Programa. La Junta tendrá fundamento
+2 razonable para referir al Secretario del Trabajo el posible incumplimiento
+3 por parte de un patrono con el Programa establecido mediante esta Ley,
+4 luego de haber realizado tres (3) intentos de comunicación con dicho
+5 patrono sin que este haya respondido o atendido lo solicitado por la Junta;
+6 (n) coordinar con otras jurisdicciones que hayan establecido programas
+7 similares, a fin de compartir mejores prácticas y facilitar la portabilidad de
+8 cuentas;
+9 (o) invertir y utilizar los fondos del Fondo Administrativo aportados por el
+10 Gobierno de Puerto Rico al Programa, a los fines de cumplir con las
+11 facultades y responsabilidades conferidas, cónsono con lo dispuesto en el
+12 Artículo 9 de esta Ley;
+13 (p) determinar la asignación de los fondos del Programa entre las distintas
+14 clases de inversiones, conforme a los distintos perfiles de riesgo que se
+15 establezcan por reglamento;
+16 (q) establecer los distintos niveles de riesgo disponibles para los participantes
+17 al elegir una cuenta de ahorro y definir los parámetros aplicables a cada
+18 uno de dichos niveles, incluyendo, entre otros, opciones de inversión de
+19 mayor crecimiento o de perfil conservador;
+20 (r) llevar a cabo procesos competitivos para la contratación de entidades
+21 privadas que estarán a cargo de la administración de las cuentas, custodia
+
+12
+1 de activos, manejo de inversiones y servicios a los participantes del
+2 Programa;
+3 (s) garantizar la separación funcional entre el administrador del programa, el
+4 custodio de fondos y gestor de inversiones;
+5 (t) seleccionar y supervisar a los administradores que manejarán las
+6 inversiones;
+7 (u) adoptar un Plan de Autosuficiencia Financiera del Fondo dentro del
+8 periodo de cinco (5) años;
+9 (v) ordenar al menos la celebración de una auditoría anual de manera externa
+10 e independiente y realizar todas aquellas auditorías que estimen necesarias;
+11 (w) informar periódicamente sobre sus actividades e inversiones tanto a los
+12 participantes del Programa, como al Gobierno de Puerto Rico y al público
+13 en general;
+14 (x) aprobar reglamentación sobre aspectos éticos de la Junta y el Programa,
+15 establecer políticas para evitar los conflictos de intereses y garantizar la
+16 transparencia;
+17 (y) garantizar la celebración de reuniones públicas en aquellos casos que sea
+18 posible;
+19 (z) asegurar que el custodio mantenga cuentas separadas de las cuentas del
+20 Gobierno de Puerto Rico las aportaciones recibidas, las cuales se
+21 considerarán como aportaciones privadas que nunca se juntarán,
+22 fusionarán o confundirán con los fondos del Gobierno de Puerto Rico;
+
+13
+1 (aa) obtener asesoramiento legal respecto a la aplicabilidad al Programa de la
+2 Ley de seguridad de ingreso de jubilación para empleados de
+3 1974 (Employee Retirement Income Security Act of 1974, 29 U.S.C. 1001 y ss.) y
+4 del Código de Rentas Internas federal y estatal;
+5 (bb) evaluar si los patronos que no están obligados a participar en el Programa
+6 pueden hacerlo voluntariamente para beneficio de sus empleados, y de así
+7 serlo, autorizarlo mediante reglamentación a esos fines;
+8 (cc) permitir que personas que no son inscritas automáticamente en el
+9 Programa participen en el mismo y hagan aportaciones a una cuenta, ya sea
+10 mediante deducciones de nómina u otro método de contribución, y de así
+11 entenderlo, autorizarlo mediante reglamentación a esos fines;
+12 (dd) referir al Secretario del Trabajo para que investigue aquellos patronos, que,
+13 a juicio de la Junta, se encuentren en posible incumplimiento con las
+14 disposiciones de esta Ley;
+15 (ee) adoptar una Política Formal de Gestión de Riesgos, incluyendo controles
+16 internos, estándares de ciberseguridad, continuidad operacional y
+17 auditorías de cumplimiento; y
+18 (ff) realizar todas aquellas acciones necesarias para el debido cumplimiento con
+19 las disposiciones de esta Ley.
+20 Artículo 7.- Requisitos del Programa
+21 a. El Programa que desarrolle la Junta deberá:
+
+14
+1 1. permitir que individuos elegibles, incluyendo empleados, trabajadores o
+2 contratistas independientes, así como cuentapropistas en Puerto Rico
+3 contribuyan voluntariamente a una cuenta de ahorro establecida bajo el
+4 Programa mediante deducciones de nómina;
+5 2. requerir que los patronos inscriban en el Programa, mediante deducciones
+6 de nómina, a todos sus empleados elegibles que no participen en un
+7 Programa de retiro cualificado ofrecido por el patrono conforme a las
+8 Secciones 401(a), 401(k), 403(a), 403(b), 408(k), 408(p) o 457(b) del Código de
+9 Rentas Internas Federal, y en aquellos casos donde el patrono no ofrezca
+10 ningún plan de retiro cualificado a sus empleados;
+11 3. establecer que los patronos no vendrán obligados a realizar aportaciones,
+12 no seleccionarán mecanismos de inversión, ni asumirán responsabilidad
+13 fiduciaria alguna en cuanto al Programa;
+14 4. permitir que los empleados inscritos opten por no participar en el
+15 Programa, conforme al Reglamento establecido por la Junta, según lo
+16 dispuesto en el Artículo 8(d) de esta Ley;
+17 5. garantizar que para fines de la participación en esta legislación se permita
+18 y fomente, no tan sólo la participación de empleados o trabajadores
+19 asalariados, sino de la participación de contratistas independientes y
+20 trabajadores por cuenta propia que cualifiquen como participantes,
+21 conforme a la reglamentación que se adopte;
+
+15
+1 6. ofrecer opciones de incremento automático progresivo de aportaciones o de
+2 niveles de contribución;
+3 7. disponer que las contribuciones al Programa sean depositadas
+4 directamente para beneficio del empleado aportante con el administrador
+5 de las inversiones del Programa;
+6 8. utilizar, cuando sea posible, la infraestructura existente del gobierno y
+7 patronos para facilitar contribuciones, mantenimiento de registros y
+8 alcance comunitario;
+9 9. garantizar que en ningún caso se requerirán, ni permitirán contribuciones
+10 patronales a las cuentas de los empleados participantes;
+11 10. requerir el mantenimiento de registros y contabilidad separados para cada
+12 cuenta;
+13 11. proveer informes sobre el estado de las cuentas a los participantes al menos
+14 semestralmente;
+15 12. permitir que los dueños de cuentas las mantengan independientemente de
+16 que cambien su lugar de empleo y que puedan transferir fondos (“roll-
+17 overs”) a otras cuentas de retiro;
+18 13. agrupar las cuentas establecidas bajo el Programa para propósitos de
+19 inversión, pero siempre asegurando que la inversión del dueño de cada
+20 cuenta esté protegida y que las cuentas sean invertidas profesionalmente;
+
+16
+1 14. disponer que el Gobierno de Puerto Rico y los patronos participantes no
+2 tengan interés propietario en las contribuciones o ganancias de las cuentas
+3 establecidas;
+4 15. disponer que el administrador de inversiones del Programa sea el fiduciario
+5 de todas las contribuciones y ganancias;
+6 16. no imponer a los patronos deberes bajo la Ley de seguridad de los ingresos
+7 de jubilación de los empleados de 1974 (Employee Retirement Income
+8 Security Act or 1974, ERISA);
+9 17. mantener tan bajos como sea posible los costos administrativos;
+10 18. permitir el uso de alianzas con el sector privado para administrar e invertir
+11 las contribuciones bajo la supervisión de la Junta;
+12 19. permitir que los patronos establezcan Programas de retiro alternativos para
+13 algunos o todos sus empleados;
+14 20. evaluar la posibilidad de que individuos no empleados puedan optar por
+15 participar y hacer contribuciones; y
+16 21. permitir que los participantes del Programa elijan el tipo de cuenta de
+17 ahorro a la cual aportarán, ya sea cuenta ROTH-IRA o una IRA Tradicional,
+18 así como los niveles de aportación y el perfil de inversión al cual se deseen
+19 exponer, como, por ejemplo, alto crecimiento o rendimiento fijo.
+20 b. El Programa se estructurará conforme al ‘safe harbor’ aplicable a programas
+21 estatales de auto-IRA conforme a las interpretaciones federales vigentes,
+
+17
+1 asegurando que los patronos no ejerzan discreción ni control fiduciario sobre
+2 inversiones o administración.
+3 c. El Programa, la Junta, sus miembros ni el Gobierno de Puerto Rico,
+4 garantizarán ninguna tasa de rendimiento o interés sobre las contribuciones.
+5 d. El Programa, la Junta, sus miembros y el Gobierno de Puerto Rico no serán
+6 responsables por pérdidas incurridas por cualquier persona como resultado de
+7 participar en el Programa.
+8 Artículo 8.- Reglamentación
+9 La Junta adoptará la reglamentación necesaria para:
+10 a. establecer el proceso para inscripción voluntaria en el Programa, incluyendo
+11 procedimientos para inscripción automática y para que los empleados
+12 elegibles opten por no participar;
+13 b. establecer el proceso para que los participantes:
+14 1. puedan hacer contribuciones predeterminadas;
+15 2. puedan ajustar los niveles de contribuciones;
+16 3. puedan seleccionar el tipo de cuenta de ahorro al cual quisieran aportar
+17 (IRA ROTH vs. tradicional); y
+18 4. puedan elegir el perfil de riesgo al cual se deseen exponer en su cuenta
+19 de ahorro (por ejemplo, alto crecimiento o rendimiento fijo);
+20 c. establecer el proceso para que los patronos deduzcan contribuciones de los
+21 salarios y las remitan al administrador de inversiones. Los sistemas del
+
+18
+1 Departamento de Hacienda ya implantados podrán ser utilizados para este
+2 proceso de deducción y envío;
+3 d. garantizar el carácter voluntario del Programa, permitiendo que el empleado
+4 pueda optar por no inscribirse o una vez inscrito, dar por terminado su
+5 participación y recibir de vuelta sus aportaciones, conforme a las disposiciones
+6 del Código de Rentas Internas federal y la legislación estatal aplicable a cuentas
+7 IRA.;
+8 e. establecer el proceso para que participantes hagan contribuciones fuera de
+9 nómina;
+10 f. establecer el proceso de retiros de las cuentas del Programa;
+11 g. determinar las tarifas a ser cobradas para financiar la administración del
+12 Programa, según el Artículo 6(g) de esta Ley;
+13 h. establecer el proceso y requisitos para obtener la certificación de exclusión
+14 aplicable a aquellos patronos que ofrecen a sus empleados un Programa de
+15 retiro cualificado, disponiéndose, que un patrono que ofrece un Programa de
+16 retiro cualificado únicamente a ciertos empleados, estará obligado a inscribir
+17 en este Programa a aquellos otros empleados no participantes a quienes no les
+18 ofrece ninguna opción de contribución a un plan de retiro;
+19 i. asegurar que la información de cada participante del Programa, incluyendo,
+20 pero no limitado a nombres, direcciones, números de teléfono, información de
+21 identificación personal, cantidades contribuidas y ganancias sobre las
+22 cantidades contribuidas, sea confidencial y se mantenga como tal, excepto en
+
+19
+1 la medida que sea necesario para administrar el Programa o a menos que la
+2 persona que provea la información expresamente acuerde y autorice por
+3 escrito que la información puede ser divulgada; y
+4 j. establecer los requisitos para que una persona sea considerada empleado y/o
+5 autoempleado elegible para ser inscrito en el Programa; y
+6 k. todo aquello dispuesto en esta ley que exija reglamentación para su
+7 cumplimiento y adelantar los propósitos de esta legislación.
+8 Artículo 9.- Creación del Fondo Administrativo del Programa de Cuentas de
+9 Ahorro Individuales de Retiro
+10 Se crea el Fondo Administrativo del Programa de Cuentas de Ahorro
+11 Individuales de Retiro (Fondo), al cual se le asigna la cantidad, inicial y no
+12 recurrente, de diez millones de dólares ($10,000,000.00) provenientes del Fondo
+13 General de Puerto Rico, sujeto a los criterios que se establecen a continuación:
+14 a. El Fondo será uno separado y distinto del Fondo General del Gobierno de
+15 Puerto Rico.
+16 b. Los intereses generados por el Fondo se abonarán exclusivamente al propio
+17 Fondo.
+18 c. El Fondo se compondrá de:
+19 1. cualquier cantidad asignada al Fondo por la Asamblea Legislativa;
+20 2. cualquier fondo transferido al Fondo por el gobierno federal, otras
+21 agencias estatales o por gobiernos municipales;
+
+20
+1 3. fondos provenientes del pago de tarifas y de otros pagos adeudados a
+2 Programa;
+3 4. donaciones o regalos hechos al Gobierno de Puerto Rico para ser
+4 depositados en el Fondo;
+5 5. rendimientos generados por los fondos del propio Fondo;
+6 6. fondos provenientes de multas administrativas conforme al Artículo 16
+7 de esta Ley; y
+8 7. cualquier aportación inicial, que según sea necesario, determine efectuar
+9 el Gobierno de Puerto Rico al Programa para su establecimiento y
+10 mientras el mismo comienza a ser autosuficiente, como ha sido la
+11 experiencia en otras jurisdicciones de Estados Unidos de América.
+12 d. La Junta podrá utilizar los dineros del Fondo para cubrir los costos y gastos
+13 administrativos del Programa, así como para cualquier otro propósito
+14 permitido según dispuesto en esta Ley y en los reglamentos adoptados a tenor
+15 con la misma. Los fondos del programa no podrán ser utilizados para fines
+16 ajenos a esta legislación, ni transferidos a ninguna entidad gubernamental o
+17 fondo no relacionado.
+18 e. Los gastos administrativos no podrán exceder el 1% de los activos
+19 administrados.
+20 Artículo 10.- Administración e inversión de fondos
+
+21
+1 El administrador fiduciario invertirá los fondos conforme a la política de inversión
+2 aprobada por la Junta, siguiendo las políticas y procedimientos profesionales,
+3 manteniendo cuentas y registros separados para este Programa.
+4 La Junta reportará trimestralmente al Gobernador, a la Asamblea Legislativa y al
+5 público el estado de las inversiones del Programa y su administración y anualmente
+6 someterá un informe detallado de su gestión. Tales publicaciones estarán disponibles en
+7 la página web y en cualquier otro medio electrónico o redes sociales de la Junta.
+8 Artículo 11.- Informes y supervisión
+9 La Junta presentará anualmente un informe dirigido a los participantes del
+10 Programa, Gobernador, Junta de Supervisión Fiscal y a la Asamblea Legislativa,
+11 detallando sus actividades relacionadas al Programa, incluyendo, entre otros, el
+12 desempeño financiero, ingresos y gastos, estructura de fondos, rendimiento comparado,
+13 investigaciones referidas, manejo de riesgos, cumplimiento fiduciario, contratos
+14 otorgados y los aspectos administrativos relevantes. Este Informe se publicará en la
+15 página web de la Junta y en cualquier otro medio electrónico o redes sociales de la Junta.
+16 Artículo 12.- Autoridad sobre programas locales
+17 Los municipios no podrán establecer programas que contravengan la política
+18 pública establecida en esta Ley.
+19 Artículo 13.- Cumplimiento y fiscalización; asistencia de agencias
+20 gubernamentales
+21 El Departamento del Trabajo y Recursos Humanos, el Departamento de Desarrollo
+22 Económico y Comercio y la Autoridad de Asesoría Financiera y Agencia Fiscal de Puerto
+
+22
+1 Rico, creada en la Ley 2-2017, según enmendada, colaborarán con el Departamento de
+2 Hacienda y la Junta establecida en esta Ley para la implementación, fiscalización y
+3 cumplimiento de los deberes y responsabilidades del Programa.
+4 Artículo 14.- Cumplimiento con el Programa
+5 a. Constituirá una práctica ilícita bajo las leyes laborales de Puerto Rico que un
+6 patrono incumpla con los requisitos del Programa autorizado y desarrollado
+7 bajo esta Ley.
+8 b. Cualquier empleado podrá presentar una querella alegando una práctica ilícita
+9 bajo este Artículo, ante el Secretario del Trabajo y Recursos Humanos. Sin
+10 embargo, no podrá presentar la referida querella antes de transcurridos dos (2)
+11 años de la fecha en que el Patrono esté obligado a registrarse con el Programa,
+12 según establecido por la Junta mediante reglamento.
+13 Al recibir una querella de un empleado o a solicitud de la Junta, el
+14 Secretario del Departamento del Trabajo y Recursos Humanos podrá realizar
+15 investigaciones conforme a sus facultades bajo la ley. Si este emite una orden
+16 final determinando que un Patrono incurrió en una práctica ilícita, podrá
+17 imponer las multas administrativas que correspondan según dispuesto en esta
+18 Ley y los reglamentos que para dichos fines promulgue el Secretario del
+19 Departamento del Trabajo y Recursos Humanos.
+20 El Secretario del Departamento del Trabajo y Recursos Humanos
+21 informará a la Junta sobre cualquier orden final emitida bajo este Artículo. La
+22 Junta, por su parte, incluirá las determinaciones de órdenes finales
+
+23
+1 relacionadas al cumplimiento de patronos en los informes anuales requeridos
+2 bajo el Artículo 11 de esta Ley.
+3 Artículo 15.- Multas administrativas
+4 Además de cualquier otra multa o sanción provista por la ley o reglamentación
+5 aplicable, el Secretario del Trabajo podrá imponer al Patrono que haya incurrido en una
+6 práctica ilícita bajo el Artículo 14 de esta Ley, una multa administrativa de hasta $500 por
+7 cada empleado que sea elegible para participar en el Programa, hasta un máximo
+8 de $10,000 anuales.
+9 Los fondos recibidos por concepto del pago de las multas administrativas
+10 impuestas conforme a lo establecido en esta Ley, serán distribuidos en un cincuenta por
+11 ciento (50%) al Departamento del Trabajo y Recursos Humanos y el otro cincuenta por
+12 ciento (50%) al Programa para cubrir los costos y gastos administrativos.
+13 Artículo 16.- Estudio de viabilidad y análisis de mercado
+14 Previo a la implementación operacional del Programa creado en esta Ley, la Junta
+15 deberá realizará un estudio que incluirá los siguientes renglones:
+16 a. un análisis de viabilidad actuarial, financiera y administrativa; un análisis de
+17 mercado del sector de ahorro para el retiro en Puerto Rico; y, análisis del
+18 impacto fiscal y económico;
+19 b. el número estimado de trabajadores elegibles y patronos cubiertos;
+20 c. demanda potencial de participación por parte de los trabajadores;
+21 d. la capacidad del mercado financiero local para proveer servicios de
+22 administración, custodia e inversión a costos razonables;
+
+24
+1 e. los costos de implementación y operación del Programa, incluyendo riesgos,
+2 costos proyectados y alternativas de financiamiento;
+3 f. análisis de la legislación estatal y federal aplicable;
+4 g. evaluación de modelos comparables en otras jurisdicciones;
+5 h. diseño preliminar del programa, incluyendo mecanismos de inscripción,
+6 aportaciones, inversión y retiro;
+7 i. requisitos operacionales, tecnológicos y administrativos; y
+8 j. recomendaciones legislativas y reglamentarias.
+9 El Informe requerido conforme a lo establecido en este Artículo deberá será
+10 realizado en coordinación con la Oficina de Presupuesto de la Asamblea Legislativa
+11 (OPAL).
+12 El Informe deberá ser presentado a la Gobernadora y a la Asamblea Legislativa en
+13 un término de ciento ochenta (180) días de la aprobación de esta Ley. La Junta no
+14 podrá ordenar la inscripción de patronos ni trabajadores ni comenzar la recaudación
+15 de aportaciones, hasta tanto el estudio de viabilidad y análisis de mercado hayan sido
+16 completados y publicados.
+17 Artículo 17.- Separabilidad
+18 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+19 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+20 fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal efecto
+21 dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley.
+22 Artículo 18.- Vigencia
+
+25
+1 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+2 Disponiéndose, que una vez rendido el Informe requerido en el Artículo 16 de esta Ley,
+3 la Junta deberá establecer el Programa para que los individuos puedan comenzar a
+4 efectuar aportaciones no más tarde de doce (12) meses a partir de la presentación del
+5 Informe.
+
+[DELETED:  A    S r    s e d l e d r d n c s s  S e m t y t]
+[DELETED:  l m l y l s d l s t d l t c p a d p o u l p e c e y f h. y t p c p E P s r p u p c e s e e E y l f s f i D e m s a e a a i a n d c t i e f r y l L c u J c d f e e dL]
+[DELETED:  A s c l c a l g y u p d I s d u e d c p l p U c e c s i o o c e l f  E  h e C f RtI,  m i e j d e 1 y 2 a ( y t n c c l t r n y i y p p q f e a p l u m a p e r v a e d y p u a a v d a p e r ]
+[DELETED:  A E d A E p p d G d P R f l a e p p y a p s i c f n c o A S a l J d P d A I p e R e a “ J  E P a s E y E]
+[DELETED:  L a s r d a c o a f a C P p d u t e  A E n 1.u 2.u 3.u d(, E L c c b e P s p e d t p E G d P R n g a l p d P r]
+[DELETED:  A d ()S R q s e o r d P y q e a a D ()L s d 1.E S d D d H q s s P 2.E s 3.C d P o 6 1 S 5 ( R O . s t d s ( a y e s f h q s n l]
+[DELETED:  c c a G ( n l c ( m d u n n ( m i f 4.E G ( n a c e c y c d S u ( r d u o q r e s p p y u ( r d l p d s p L r d s p p y d l p o ()L p s p o l p d p e G d c c v c y e e l a y f d s f o e l a m ()C a a s c y t r a p e m d]
+[DELETED:  a a d r m m d v l ()L s d d s i y l n é n p p c ()L l y d r a l a d P y a s p ()N m p m r c i f d a ()L n p ()L L o L m d l J d d i e l q a r c s r c a e e d d l f ()L A]
+[DELETED:  A s ()E i y m e P a s d c ()a c ()a a r e y e g d r a a l d m d i d f d a c l p e ()d l p d i c a l c e a f i l f a a l c d P c l l ()r ()s ()c t p s l c d a d P c q]
+[DELETED:  ()c s y f c a l f d e y s s q s c n o d p c l p e e e L i p s l 1.s c c a y g d i y l a d i y a e d P 2.s 3.s e ()e c ()d e i u p d d p o a p ()p l f o q l c s u c u c d e ()a ()s a S d T q i a c p c s a e e A 1 d e L p d s]
+[DELETED:  c c l r d P  L J t f r p l d h r t ( i d c c d p ()c c o j q h e p s c ()i G d P R a P a l f d c c l f A ()d f P c d i c a l d p d r q s e ()e a u m ()l a c p c p l c d e p]
+[DELETED:  d a m d i y s a l p d P ()g c ()s y s a l a q m l i ()a u P d A F d F d d p ()o e ()i t p e ()a e t ()g p ()a G d P R l a r l c s c c a p q n s j f]
+[DELETED:  ()o L d s d i d j p e d 1(, d ()e p s ()p q p q n s i a e e P m e ()r a j d l J s e e p i c l d ()a i e d c c o y a ()r l A a.E]
+[DELETED:  1.p c i a c c e P R c P 2.r d n a t s e e q n p e u P d r c o p e p c a l S R n 3.e n f 4.p q l e i o p n p e e P c a R e p l J s l d 5.g y f n t s l p d e o t a s d l p d c i y t p c p q c c p c]
+[DELETED:  6.o n 7.d q l c a P s d d d 8.u c s p l i e d g y p p f c m d r y a 9.g p 1.r c 1.p s 1.p q q o 1.a l c e b e P p p d i c]
+[DELETED:  1.d t e 1.d d 1.n d j d l e d 1 ( R I S 1.m 1.p l 1.p a 2.e p 2.p q l p d P e e t d c d a a e b.E e d a c a l i f v]
+[DELETED:  a i c.E P l J s m n e G d P R g d.E r p A L a.e p p i a y p q l e e b.e 1.p 2.p 3.p ( 4.p d c.e s y l r a a d i  L s d]
+[DELETED:  D p d.g p o p n i o u v i d p t s p d I e.e e p p q p h c f d n f.e g.d l t a s c p f l a d P h.e e p y r p o l c d e a r r e o i.a p i p c c y g s l c]
+[DELETED:  l p q p l i e a y a p e j.e a k.t a d e e l q e r p s c A 9 C d F A d P d C d A S c e F A d P d C d A I d R ( a c s l a l c i y n r G a.E P b.L F c.E 1.c 2.c f t a F p e g f o a]
+[DELETED:  3.f P 4.d o r h a G d P R p s d 5.r 6.f d 7.c e G d P R a P p s e y m e m c a s a c h s l e d.L a P a c p c o p p c a f e.L g a n p e e 1 d l a a A]
+[DELETED:  E a p l J s l p y p p m L p P s l A L J p a u i d a l p d P G J d S F y a l A L d s a r a P i e o e d i r m d r c f c o y l a a r E I s p e l p A L m n p e p q c l p p A 1 C y f a d a g E E]
+[DELETED:  R H y l J e e e L p l i f y c A a.C p b b.C b e a s A r u q d u e o a s d l J e S i f d q u P i e u p i p i L y l r q p d f p e S d D E S d D d T y R H i J p s p i l d d ó f]
+[DELETED:  r b A A a p c e s e p p e e P h u m d L f r p c d p d l m a i c c A  P d a.u m d s d a p e r e P R y a d i b.e c.d d.l c d m f l p p s d a]
+[DELETED:  e.l c f.a g.e h.d p d p i m d i a i.r j.r E I r c a l e e e A d s r ( E u p d c A S c c p s o p l a d f d A]
+[DELETED:  E L c a r i d d s a D l J d e e P p q l i p c a e I]

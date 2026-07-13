@@ -1,0 +1,333 @@
+Title: Para enmendar los Artículos 185 y 188 de la Ley 210-2015, según enmendada, conocida
+Official Title: Para enmendar los Artículos 185 y 188 de la Ley 210-2015, según enmendada, conocida
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1364
+29 de junio de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+como “Ley del Registro de la Propiedad Inmobiliaria del Estado Libre Asociado de Puerto
+Rico”, a los fines de aclarar el requisito de aprobación de segregación en expedientes de
+dominio; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El expediente de dominio es una herramienta importante para dar acceso al
+Registro de la Propiedad a quienes poseen una finca, pero no cuentan con un título
+inscribible. En Puerto Rico, este procedimiento tiene especial relevancia en propiedades
+antiguas, predios familiares, terrenos rurales y fincas que por décadas han sido poseídas,
+conservadas y reconocidas por sus colindantes, aunque nunca hayan ingresado
+formalmente al Registro.
+En la práctica, muchas de estas propiedades provienen de divisiones antiguas,
+compraventas privadas, acuerdos familiares, mensuras históricas o actos de posesión
+realizados en épocas en las que no existían los mismos requisitos de planificación,
+permisos y segregación que rigen actualmente. Esa realidad ha creado controversias
+2
+sobre cuándo debe exigirse prueba de aprobación gubernamental de segregación como
+condición para continuar un expediente de dominio.
+En Ex parte Torres Pérez, 2025 TSPR 5, el Tribunal Supremo de Puerto Rico aclaró
+que el permiso de segregación no siempre es requisito en un expediente de dominio.
+Cuando el predio proviene de una finca de mayor cabida que no consta inscrita en el
+Registro de la Propiedad, no procede exigir aprobación gubernamental de segregación.
+En ese escenario, el predio debe evaluarse como una finca independiente para fines del
+expediente de dominio.
+El Tribunal también resolvió que, cuando la finca de mayor cabida sí consta
+inscrita, corresponde al Tribunal de Primera Instancia evaluar la prueba y determinar si
+la segregación ocurrió antes del 4 de septiembre de 1944. De ser así, tampoco procede
+exigir aprobación gubernamental de segregación, porque para esa fecha no existía el
+requisito legal que hoy regula ese tipo de autorización.
+La aclaración es necesaria para evitar que el expediente de dominio se convierta
+en un trámite imposible para personas que han poseído una propiedad por décadas, pero
+cuya realidad registral responde a prácticas antiguas o a la ausencia de inscripción de la
+finca matriz. Exigir una aprobación moderna de segregación en esos casos puede
+producir un resultado injusto: impedir la inmatriculación de una finca por un requisito
+que nunca fue exigible o que no corresponde aplicar.
+A la misma vez, el balance es indispensable. Reconocer que no procede exigir
+aprobación de segregación en ciertos expedientes de dominio no significa autorizar
+segregaciones nuevas, lotificaciones, desarrollos u obras sin los permisos
+correspondientes. Tampoco sustituye las facultades de la Oficina de Gerencia de
+Permisos, la Junta de Planificación, los municipios autónomos o cualquier otra entidad
+con jurisdicción sobre planificación y permisos.
+Por eso, esta pieza legislativa incorpora al texto registral la norma aclarada por el
+Tribunal Supremo, pero mantiene el rol del tribunal como evaluador de la prueba. La
+parte promovente deberá alegar y sostener la no inscripción de la finca matriz o la
+antigüedad de la segregación, según corresponda. El tribunal, por su parte, podrá
+3
+considerar la prueba admisible y hacer constar expresamente su determinación en la
+resolución final.
+Así se atiende una controversia puntual del derecho registral inmobiliario, se
+protege la seguridad del Registro de la Propiedad y se evita que requisitos modernos de
+segregación se apliquen indebidamente a situaciones históricas que deben resolverse
+dentro del propio expediente de dominio.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el inciso (1)(i) del Artículo 185 de la Ley 210-2015, según
+2 enmendada, conocida como “Ley del Registro de la Propiedad Inmobiliaria del Estado
+3 Libre Asociado de Puerto Rico”, para que lea como sigue:
+4 Artículo 185. — Dominio sin título inscribible; expediente de dominio;
+5 formalidades para justificar el dominio; requisitos.
+6 Todo propietario que carezca de título inscribible de dominio, podrá inscribirlo si
+7 cumple con los siguientes requisitos:
+8 1. Presentará un escrito jurado en la sala del Tribunal de Primera Instancia
+9 correspondiente al lugar en que radiquen los bienes, o en la de aquél en que radique la
+10 porción de mayor cabida cuando se trate de una finca que radique en varias
+11 demarcaciones territoriales. Si se presenta el escrito ante una sala sin competencia, el
+12 tribunal de oficio, lo trasladará a la sala correspondiente. El escrito contendrá las
+13 siguientes alegaciones:
+14 …
+15 i. El hecho de que la finca, o en caso de agrupación, las que la componen,
+16 mantuvieron la misma cabida y configuración durante los términos que disponen los
+4
+1 Artículos 1857 y 1859 del Código Civil de Puerto Rico para que operen los efectos de la
+2 prescripción adquisitiva. Si la finca resulta ser una segregación de una finca de mayor
+3 cabida que consta inscrita, la segregación [tiene que haber sido aprobada por la agencia
+4 gubernamental correspondiente mediante plano de inscripción.] deberá acreditarse
+5 mediante aprobación de la agencia gubernamental correspondiente mediante plano de inscripción,
+6 salvo que el tribunal determine, a base de prueba suficiente, que la segregación ocurrió antes del 4
+7 de septiembre de 1944. En tal caso, no será requisito presentar aprobación gubernamental de
+8 segregación.
+9 Cuando la finca de mayor cabida de la cual proviene el predio no conste inscrita en el
+10 Registro de la Propiedad, no será requisito presentar aprobación gubernamental de segregación.
+11 En ese caso, el promovente deberá alegar dicha circunstancia en el escrito jurado y presentar prueba
+12 suficiente sobre la no inscripción de la finca matriz, así como sobre la descripción, cabida,
+13 colindancias, configuración y procedencia del predio, sin perjuicio de los demás requisitos de este
+14 Artículo.
+15 El tribunal podrá considerar prueba documental, registral, catastral, pericial, testifical o
+16 cualquier otra prueba admisible para determinar si procede exigir aprobación gubernamental de
+17 segregación. También podrá solicitar información a la Oficina de Gerencia de Permisos, la Junta
+18 de Planificación, el municipio autónomo correspondiente o cualquier otra entidad gubernamental
+19 concernida, cuando lo estime necesario.
+20 La determinación judicial de que no procede exigir aprobación gubernamental de
+21 segregación se limitará a los fines del expediente de dominio y la inmatriculación de la finca. Dicha
+22 determinación no constituirá autorización para realizar nuevas segregaciones, lotificaciones,
+5
+1 urbanizaciones, desarrollos, obras o actos posteriores que requieran permisos, endosos o
+2 autorizaciones de la agencia gubernamental o municipal competente.
+3 No constituirá justo título a los efectos de este Artículo, un título de dominio sobre
+4 una porción pro indivisa en una finca no segregada, ni el título que recae sobre una finca
+5 segregada de una finca inscrita en el registro.
+6 …
+7 Sección 2.- Se enmienda el Artículo 188 de la Ley 210-2015, según enmendada, para
+8 que lea como sigue:
+9 Artículo 188. — Recurso por partes afectadas; inscripción del dominio.
+10 El promovente, el Fiscal, el Alcalde, el Secretario de Transportación y Obras
+11 Públicas o cualquiera otro organismo público afectado, y los demás interesados, podrán
+12 recurrir contra la resolución que dicte el tribunal según dispuesto en la Reglas de
+13 Procedimiento Civil de Puerto Rico.
+14 Será título suficiente para la inscripción a favor del promovente, la presentación
+15 en el Registro de copia certificada de la resolución final y firme dictada por el tribunal en
+16 la que se declara justificado el dominio. En su Resolución, el tribunal consignará que los
+17 hechos alegados fueron probados y hará relación del cumplimiento con los trámites
+18 legales impuestos por el Artículo 185 de esta Ley, sin lo cual no podrá practicarse la
+19 inscripción.
+20 Cuando la resolución incluya una determinación de que no procede exigir aprobación
+21 gubernamental de segregación conforme al Artículo 185 de esta Ley, el tribunal deberá consignarlo
+22 expresamente. Esta determinación se limitará a los fines del expediente de dominio y de la
+6
+1 inmatriculación de la finca, sin constituir autorización para realizar actos posteriores que
+2 requieran permisos, endosos o autorizaciones de la agencia gubernamental o municipal
+3 competente.
+4 Cuando de la Resolución surja que existen derechos o gravámenes sobre la finca a
+5 inmatricularse, deberán describirse las circunstancias requeridas para su inscripción
+6 conjuntamente con la inmatriculación de la finca.
+7 Sección 3.- Aplicabilidad.
+8 Esta Ley aplicará a los expedientes de dominio presentados a partir de su vigencia.
+9 También aplicará a los expedientes de dominio pendientes en los que, a la fecha de
+10 vigencia de esta Ley, no se haya emitido una resolución final y firme.
+11 Nada de lo dispuesto en esta Ley afectará resoluciones finales y firmes, asientos
+12 registrales ya practicados, procedimientos de permisos, procedimientos de planificación,
+13 autorizaciones de segregación, lotificaciones, urbanizaciones, desarrollos, obras o
+14 determinaciones administrativas emitidas antes de su vigencia.
+15 Sección 4.- Separabilidad.
+16 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+17 disposición, sección o parte de esta Ley fuere anulada o declarada inconstitucional por
+18 un tribunal competente, la resolución, dictamen o sentencia a tal efecto no afectará,
+19 perjudicará ni invalidará el remanente de esta Ley.
+20 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo,
+21 oración, palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada
+22 o declarada inconstitucional.
+7
+1 Sección 5.- Vigencia.
+2 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3 .r L r e d d e u h i p d a a d l P a q p u f p n c c u t y r p s c a n h i o e é e l q n e l m r d p y s q r a E r h c c]
+[DELETED:  T t r q c l f d m c s c m E u a m d s e e c p d s e c e d d n s a n l d u o s l p T s l f d l O d G d p d a y s l n i d l f m o l d l s s c E t p s p p]
+[DELETED:  s a u c p d d r i s s a i a s h q d r 1 — D s t i e d d P u e j e l s d T d P I d m c c s t d u f q r e v d o l t a l s c E e c l E h d q l f o e c d a l q l c]
+[DELETED:  c m p d i d a m s d s C R E s s l n i d l f m a c s l d c c A E c s d c L d j d q n p e a g d s d n c a p r n s l]
+[DELETED:  u d o o a p q r p e o a p e F e A e S d T y O c l r q d e t s d e l R d a f p y h r d c c l t C l r i u d d q n p e a g e E d s l a l f d e d d y d l]
+[DELETED:  i d l f s c a p r a p q r p e o a d l a g o m c d d l c r p s i a a l e d d p e l q a l f d d s l u d o o c c p s o p l a t c l r d o s a t e n a]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1364
+29 de junio de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 185 y 188 de la Ley 210-2015, según enmendada, conocida
+como “Ley del Registro de la Propiedad Inmobiliaria del Estado Libre Asociado de Puerto
+Rico”, a los fines de aclarar el requisito de aprobación de segregación en expedientes de
+dominio; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El expediente de dominio es una herramienta importante para dar acceso al
+Registro de la Propiedad a quienes poseen una finca, pero no cuentan con un título
+inscribible. En Puerto Rico, este procedimiento tiene especial relevancia en propiedades
+antiguas, predios familiares, terrenos rurales y fincas que por décadas han sido poseídas,
+conservadas y reconocidas por sus colindantes, aunque nunca hayan ingresado
+formalmente al Registro.
+En la práctica, muchas de estas propiedades provienen de divisiones antiguas,
+compraventas privadas, acuerdos familiares, mensuras históricas o actos de posesión
+realizados en épocas en las que no existían los mismos requisitos de planificación,
+permisos y segregación que rigen actualmente. Esa realidad ha creado controversias
+
+2
+sobre cuándo debe exigirse prueba de aprobación gubernamental de segregación como
+condición para continuar un expediente de dominio.
+En Ex parte Torres Pérez, 2025 TSPR 5, el Tribunal Supremo de Puerto Rico aclaró
+que el permiso de segregación no siempre es requisito en un expediente de dominio.
+Cuando el predio proviene de una finca de mayor cabida que no consta inscrita en el
+Registro de la Propiedad, no procede exigir aprobación gubernamental de segregación.
+En ese escenario, el predio debe evaluarse como una finca independiente para fines del
+expediente de dominio.
+El Tribunal también resolvió que, cuando la finca de mayor cabida sí consta
+inscrita, corresponde al Tribunal de Primera Instancia evaluar la prueba y determinar si
+la segregación ocurrió antes del 4 de septiembre de 1944. De ser así, tampoco procede
+exigir aprobación gubernamental de segregación, porque para esa fecha no existía el
+requisito legal que hoy regula ese tipo de autorización.
+La aclaración es necesaria para evitar que el expediente de dominio se convierta
+en un trámite imposible para personas que han poseído una propiedad por décadas, pero
+cuya realidad registral responde a prácticas antiguas o a la ausencia de inscripción de la
+finca matriz. Exigir una aprobación moderna de segregación en esos casos puede
+producir un resultado injusto: impedir la inmatriculación de una finca por un requisito
+que nunca fue exigible o que no corresponde aplicar.
+A la misma vez, el balance es indispensable. Reconocer que no procede exigir
+aprobación de segregación en ciertos expedientes de dominio no significa autorizar
+segregaciones nuevas, lotificaciones, desarrollos u obras sin los permisos
+correspondientes. Tampoco sustituye las facultades de la Oficina de Gerencia de
+Permisos, la Junta de Planificación, los municipios autónomos o cualquier otra entidad
+con jurisdicción sobre planificación y permisos.
+Por eso, esta pieza legislativa incorpora al texto registral la norma aclarada por el
+Tribunal Supremo, pero mantiene el rol del tribunal como evaluador de la prueba. La
+parte promovente deberá alegar y sostener la no inscripción de la finca matriz o la
+antigüedad de la segregación, según corresponda. El tribunal, por su parte, podrá
+
+3
+considerar la prueba admisible y hacer constar expresamente su determinación en la
+resolución final.
+Así se atiende una controversia puntual del derecho registral inmobiliario, se
+protege la seguridad del Registro de la Propiedad y se evita que requisitos modernos de
+segregación se apliquen indebidamente a situaciones históricas que deben resolverse
+dentro del propio expediente de dominio.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el inciso (1)(i) del Artículo 185 de la Ley 210-2015, según
+2 enmendada, conocida como “Ley del Registro de la Propiedad Inmobiliaria del Estado
+3 Libre Asociado de Puerto Rico”, para que lea como sigue:
+4 Artículo 185. — Dominio sin título inscribible; expediente de dominio;
+5 formalidades para justificar el dominio; requisitos.
+6 Todo propietario que carezca de título inscribible de dominio, podrá inscribirlo si
+7 cumple con los siguientes requisitos:
+8 1. Presentará un escrito jurado en la sala del Tribunal de Primera Instancia
+9 correspondiente al lugar en que radiquen los bienes, o en la de aquél en que radique la
+10 porción de mayor cabida cuando se trate de una finca que radique en varias
+11 demarcaciones territoriales. Si se presenta el escrito ante una sala sin competencia, el
+12 tribunal de oficio, lo trasladará a la sala correspondiente. El escrito contendrá las
+13 siguientes alegaciones:
+14 …
+15 i. El hecho de que la finca, o en caso de agrupación, las que la componen,
+16 mantuvieron la misma cabida y configuración durante los términos que disponen los
+
+4
+1 Artículos 1857 y 1859 del Código Civil de Puerto Rico para que operen los efectos de la
+2 prescripción adquisitiva. Si la finca resulta ser una segregación de una finca de mayor
+3 cabida que consta inscrita, la segregación [tiene que haber sido aprobada por la agencia
+4 gubernamental correspondiente mediante plano de inscripción.] deberá acreditarse
+5 mediante aprobación de la agencia gubernamental correspondiente mediante plano de inscripción,
+6 salvo que el tribunal determine, a base de prueba suficiente, que la segregación ocurrió antes del 4
+7 de septiembre de 1944. En tal caso, no será requisito presentar aprobación gubernamental de
+8 segregación.
+9 Cuando la finca de mayor cabida de la cual proviene el predio no conste inscrita en el
+10 Registro de la Propiedad, no será requisito presentar aprobación gubernamental de segregación.
+11 En ese caso, el promovente deberá alegar dicha circunstancia en el escrito jurado y presentar prueba
+12 suficiente sobre la no inscripción de la finca matriz, así como sobre la descripción, cabida,
+13 colindancias, configuración y procedencia del predio, sin perjuicio de los demás requisitos de este
+14 Artículo.
+15 El tribunal podrá considerar prueba documental, registral, catastral, pericial, testifical o
+16 cualquier otra prueba admisible para determinar si procede exigir aprobación gubernamental de
+17 segregación. También podrá solicitar información a la Oficina de Gerencia de Permisos, la Junta
+18 de Planificación, el municipio autónomo correspondiente o cualquier otra entidad gubernamental
+19 concernida, cuando lo estime necesario.
+20 La determinación judicial de que no procede exigir aprobación gubernamental de
+21 segregación se limitará a los fines del expediente de dominio y la inmatriculación de la finca. Dicha
+22 determinación no constituirá autorización para realizar nuevas segregaciones, lotificaciones,
+
+5
+1 urbanizaciones, desarrollos, obras o actos posteriores que requieran permisos, endosos o
+2 autorizaciones de la agencia gubernamental o municipal competente.
+3 No constituirá justo título a los efectos de este Artículo, un título de dominio sobre
+4 una porción pro indivisa en una finca no segregada, ni el título que recae sobre una finca
+5 segregada de una finca inscrita en el registro.
+6 …
+7 Sección 2.- Se enmienda el Artículo 188 de la Ley 210-2015, según enmendada, para
+8 que lea como sigue:
+9 Artículo 188. — Recurso por partes afectadas; inscripción del dominio.
+10 El promovente, el Fiscal, el Alcalde, el Secretario de Transportación y Obras
+11 Públicas o cualquiera otro organismo público afectado, y los demás interesados, podrán
+12 recurrir contra la resolución que dicte el tribunal según dispuesto en la Reglas de
+13 Procedimiento Civil de Puerto Rico.
+14 Será título suficiente para la inscripción a favor del promovente, la presentación
+15 en el Registro de copia certificada de la resolución final y firme dictada por el tribunal en
+16 la que se declara justificado el dominio. En su Resolución, el tribunal consignará que los
+17 hechos alegados fueron probados y hará relación del cumplimiento con los trámites
+18 legales impuestos por el Artículo 185 de esta Ley, sin lo cual no podrá practicarse la
+19 inscripción.
+20 Cuando la resolución incluya una determinación de que no procede exigir aprobación
+21 gubernamental de segregación conforme al Artículo 185 de esta Ley, el tribunal deberá consignarlo
+22 expresamente. Esta determinación se limitará a los fines del expediente de dominio y de la
+
+6
+1 inmatriculación de la finca, sin constituir autorización para realizar actos posteriores que
+2 requieran permisos, endosos o autorizaciones de la agencia gubernamental o municipal
+3 competente.
+4 Cuando de la Resolución surja que existen derechos o gravámenes sobre la finca a
+5 inmatricularse, deberán describirse las circunstancias requeridas para su inscripción
+6 conjuntamente con la inmatriculación de la finca.
+7 Sección 3.- Aplicabilidad.
+8 Esta Ley aplicará a los expedientes de dominio presentados a partir de su vigencia.
+9 También aplicará a los expedientes de dominio pendientes en los que, a la fecha de
+10 vigencia de esta Ley, no se haya emitido una resolución final y firme.
+11 Nada de lo dispuesto en esta Ley afectará resoluciones finales y firmes, asientos
+12 registrales ya practicados, procedimientos de permisos, procedimientos de planificación,
+13 autorizaciones de segregación, lotificaciones, urbanizaciones, desarrollos, obras o
+14 determinaciones administrativas emitidas antes de su vigencia.
+15 Sección 4.- Separabilidad.
+16 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+17 disposición, sección o parte de esta Ley fuere anulada o declarada inconstitucional por
+18 un tribunal competente, la resolución, dictamen o sentencia a tal efecto no afectará,
+19 perjudicará ni invalidará el remanente de esta Ley.
+20 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo,
+21 oración, palabra, letra, artículo, disposición, sección o parte que así hubiere sido anulada
+22 o declarada inconstitucional.
+
+7
+1 Sección 5.- Vigencia.
+2 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 .r L r e d d e u h i p d a a d l P a q p u f p n c c u t y r p s c a n h i o e é e l q n e l m r d p y s q r a E r h c c]
+[DELETED:  T t r q c l f d m c s c m E u a m d s e e c p d s e c e d d n s a n l d u o s l p T s l f d l O d G d p d a y s l n i d l f m o l d l s s c E t p s p p]
+[DELETED:  s a u c p d d r i s s a i a s h q d r 1 — D s t i e d d P u e j e l s d T d P I d m c c s t d u f q r e v d o l t a l s c E e c l E h d q l f o e c d a l q l c]
+[DELETED:  c m p d i d a m s d s C R E s s l n i d l f m a c s l d c c A E c s d c L d j d q n p e a g d s d n c a p r n s l]
+[DELETED:  u d o o a p q r p e o a p e F e A e S d T y O c l r q d e t s d e l R d a f p y h r d c c l t C l r i u d d q n p e a g e E d s l a l f d e d d y d l]
+[DELETED:  i d l f s c a p r a p q r p e o a d l a g o m c d d l c r p s i a a l e d d p e l q a l f d d s l u d o o c c p s o p l a t c l r d o s a t e n a]

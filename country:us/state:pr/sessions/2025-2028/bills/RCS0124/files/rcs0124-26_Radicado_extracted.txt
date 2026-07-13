@@ -1,0 +1,269 @@
+Title: Presentada por la señora Santiago Negrón y el señor González Costa
+Official Title: Presentada por la señora Santiago Negrón y el señor González Costa
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. C. del S. 124
+26 de enero de 2026
+Referida a la Comisión de
+RESOLUCIÓN CONJUNTA
+Para ordenar al Departamento de Recursos Naturales y Ambientales diseñar,
+desarrollar, implantar y mantener en su portal digital un Sistema de Consulta
+Pública de Casos Administrativos para modernizar la divulgación de la gestión
+administrativa, garantizar la transparencia y fortalecer el derecho de acceso a la
+información pública.
+EXPOSICIÓN DE MOTIVOS
+El acceso a la información pública constituye un pilar esencial de toda
+democracia participativa y un componente indispensable para garantizar la
+transparencia, la rendición de cuentas y la confianza ciudadana en las instituciones del
+Estado. En Puerto Rico, este principio ha sido reconocido tanto por la jurisprudencia
+como por diversas leyes que afirman el derecho del pueblo a conocer cómo se toman las
+decisiones gubernamentales y cómo se administran las áreas naturales que pertenecen a
+toda la ciudadanía.
+El Departamento de Recursos Naturales y Ambientales (DRNA) ejerce una
+función de alto interés público al ser la agencia encargada de la protección,
+conservación y manejo de las áreas naturales y ambientales del país. Sus decisiones
+administrativas —incluyendo permisos, órdenes, resoluciones y determinaciones
+finales— tienen un impacto directo y significativo sobre la salud, el ambiente, el
+2
+desarrollo económico, el uso de terrenos y la calidad de vida de las comunidades. No
+obstante, el acceso a la información relacionada con los casos administrativos que se
+tramitan ante el DRNA continúa siendo, en muchos casos, limitado, fragmentado y
+dependiente de gestiones presenciales o solicitudes formales que resultan onerosas y
+poco eficientes para la ciudadanía.
+Actualmente, las personas interesadas en conocer el estado, el historial, el tracto
+o el resultado de un caso administrativo dirimido ante el DRNA enfrentan múltiples
+obstáculos, tales como la falta de un sistema digital centralizado, la ausencia de
+información actualizada en tiempo real y la dificultad para obtener copias de
+documentos oficiales como resoluciones, determinaciones u órdenes administrativas.
+Esta situación no solo retrasa el ejercicio del derecho al acceso a la información, sino que
+también debilita la fiscalización ciudadana y la participación informada en los procesos
+administrativos.
+La viabilidad y efectividad de los sistemas de consulta pública de casos ya ha
+sido demostrada en otras ramas del Gobierno de Puerto Rico. Un ejemplo claro es el
+Sistema Unificado de Manejo y Administración de Casos (SUMAC), una herramienta
+tecnológica utilizada por los Tribunales de Puerto Rico a través del portal del Poder
+Judicial. Mediante este sistema, las partes involucradas y la ciudadanía pueden
+consultar electrónicamente el estado y el tracto procesal de los casos judiciales, así como
+acceder a documentos presentados y órdenes emitidas por los tribunales, lo que ha
+fortalecido significativamente la transparencia y la eficiencia del sistema judicial.
+De igual forma, la Asamblea Legislativa cuenta con el Sistema Único de Trámite
+Legislativo (SUTRA), una plataforma digital que permite a la ciudadanía dar
+seguimiento al trámite de las medidas legislativas, acceder al texto completo de
+proyectos, resoluciones y leyes aprobadas, así como consultar información histórica
+sobre la labor legislativa. Este sistema ha contribuido a democratizar el acceso a la
+información legislativa y a fomentar una participación ciudadana más informada y
+activa en los procesos democráticos.
+3
+Estos precedentes evidencian que la creación de un Sistema de Consulta de
+Casos en el DRNA no solo es viable, sino necesaria y consistente con las mejores
+prácticas de transparencia ya adoptadas por otras instituciones públicas en Puerto Rico.
+Dicho sistema permitiría a cualquier persona conocer de manera clara, sencilla y
+accesible el tracto procesal de los casos administrativos ante el DRNA, incluyendo el
+acceso electrónico a documentos relevantes como querellas, mociones, resoluciones,
+órdenes administrativas y determinaciones finales.
+La implantación de este mecanismo tecnológico representa un paso fundamental
+hacia la modernización de la gestión pública, el fortalecimiento de la rendición de
+cuentas y la garantía efectiva del derecho al acceso a la información. Asimismo,
+promueve la eficiencia administrativa, reduce costos operacionales, minimiza la
+discreción indebida en el manejo de información pública y facilita la participación de
+comunidades, organizaciones ambientales, profesionales y ciudadanos en general en la
+defensa y protección del ambiente.
+En un contexto en el que los asuntos ambientales requieren cada vez mayor
+escrutinio público y en el que la tecnología ofrece herramientas accesibles para
+democratizar la información, resulta impostergable que el Gobierno adopte mecanismos
+que acerquen la gestión gubernamental al pueblo. Esta Asamblea Legislativa entiende
+la necesidad apremiante de reafirmar el compromiso con la transparencia, la justicia
+administrativa y el derecho del pueblo a estar debidamente informado sobre los
+procesos en el Departamento de Recursos Naturales y Ambientales, y considera
+meritorio la aprobación de esta medida.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se ordena al Departamento de Recursos Naturales y Ambientales
+2 diseñar, desarrollar, implantar y mantener en su portal digital un Sistema de
+3 Consulta Pública de Casos Administrativos que permita a cualquier persona
+4
+1 consultar electrónicamente el tracto procesal de los casos administrativos que se
+2 tramitan o se hayan tramitado ante dicha agencia.
+3 Sección 2.- El Sistema de Consulta Pública de Casos deberá incluir, como
+4 mínimo, la siguiente información y funcionalidades:
+5 (a) Un identificador único del caso administrativo;
+6 (b) La naturaleza del caso y la oficina o dependencia del DRNA responsable de
+7 su trámite;
+8 (c) El estado procesal del caso y su historial cronológico de actuaciones;
+9 (d) Las fechas relevantes del proceso administrativo;
+10 (e) Acceso electrónico a documentos públicos relacionados con el caso,
+11 incluyendo, pero sin limitarse a, querellas, mociones, informes, órdenes
+12 administrativas, resoluciones, determinaciones finales y cualquier otro
+13 documento que sea público conforme a ley;
+14 (f) Un mecanismo de búsqueda que permita localizar casos por número, asunto,
+15 ubicación, tipo de recurso natural involucrado u otros criterios razonables.
+16 Sección 3.– El Sistema de Consulta Pública de Casos deberá operar conforme a
+17 los principios de transparencia, acceso a la información pública y rendición de
+18 cuentas, garantizando a su vez la protección de información confidencial,
+19 privilegiada o protegida por ley, reglamento u orden judicial, según corresponda.
+20 Sección 4.- Se autoriza al Departamento de Recursos Naturales y Ambientales a
+21 adoptar o enmendar los reglamentos, normas administrativas y protocolos internos
+5
+1 que sean necesarios para la implantación y funcionamiento efectivo del Sistema de
+2 Consulta Pública de Casos.
+3 Sección 5-. El Departamento de Recursos Naturales y Ambientales tendrá un
+4 término de ciento ochenta (180) días contados a partir de la aprobación de esta
+5 Resolución Conjunta, para tener en funcionamiento en su portal digital, de acceso
+6 libre y gratuito, el Sistema de Consulta Pública de Casos Administrativos ordenado
+7 en esta Resolución Conjunta.
+8 Además, rendirá a la Asamblea Legislativa un informe escrito sobre el
+9 cumplimiento de esta Resolución Conjunta dentro de un término no mayor de
+10 noventa (90) días contados a partir de su aprobación. Dicho informe deberá detallar
+11 el estado de desarrollo e implantación del Sistema de Consulta Pública de Casos, así
+12 como cualquier recomendación adicional para fortalecer el acceso a la información.
+13 Sección 6.- Esta Resolución Conjunta entrará en vigor inmediatamente después
+14 de su aprobación.
+[DELETED: 0 A 3 .rL  rla  n  o a D d R N y A d i y m e s p d u S d C d C A p m l d d l g g l t y f e d d a a l a a l i p c u p e d t p y u c i p g l D d R N y A ( e u d a i p a s l a e d l p y m d l á n y a d p S d — p ó r y d t u i d y s s l s e a e]
+[DELETED:  a e D c s e m c l f y t c l f d u s d c l a d a e t r y l d p o c d o c r d u ó a M e s l p i y l c p a d p y ó e p l t l q h ( u p d q p a l c d a t d l m l a a t c d r y l a a c c i h l l l E s h c a d e a a l l y a f u p c m i y]
+[DELETED:  p e q l c d u S d C d e e D n s e v s n y c c l m s p a c p c d m c s y e a d r c q m r l m d l g p e f d l r d y l g e d d a a a l i A l e a r c o m l u c e e q l a a r c v m p y e e q l t o h a p n a d r e c c l t l j y e d d p a e d i s l e e D d R N y A y c 1 S o a D d R N y A d i y m e s p d u S d P d C A q p a c p]
+[DELETED:  e e t p d l c a q s 2 E S d C P d C d i c)U)L)E)L)A e a d p r c e c p s l a q m i ó r d f y c o)U p d t a a l i p y r d g a s v l p d i c]
+[DELETED:  5 E D d R N y A t u d c o ( d c a p d l a d e r a l A L u i e s e d e R C d d u t n m d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. C. del S. 124
+26 de enero de 2026
+Presentada por la señora Santiago Negrón y el señor González Costa
+Referida a la Comisión de
+RESOLUCIÓN CONJUNTA
+Para ordenar al Departamento de Recursos Naturales y Ambientales diseñar,
+desarrollar, implantar y mantener en su portal digital un Sistema de Consulta
+Pública de Casos Administrativos para modernizar la divulgación de la gestión
+administrativa, garantizar la transparencia y fortalecer el derecho de acceso a la
+información pública.
+EXPOSICIÓN DE MOTIVOS
+El acceso a la información pública constituye un pilar esencial de toda
+democracia participativa y un componente indispensable para garantizar la
+transparencia, la rendición de cuentas y la confianza ciudadana en las instituciones del
+Estado. En Puerto Rico, este principio ha sido reconocido tanto por la jurisprudencia
+como por diversas leyes que afirman el derecho del pueblo a conocer cómo se toman las
+decisiones gubernamentales y cómo se administran las áreas naturales que pertenecen a
+toda la ciudadanía.
+El Departamento de Recursos Naturales y Ambientales (DRNA) ejerce una
+función de alto interés público al ser la agencia encargada de la protección,
+conservación y manejo de las áreas naturales y ambientales del país. Sus decisiones
+administrativas —incluyendo permisos, órdenes, resoluciones y determinaciones
+finales— tienen un impacto directo y significativo sobre la salud, el ambiente, el
+
+2
+desarrollo económico, el uso de terrenos y la calidad de vida de las comunidades. No
+obstante, el acceso a la información relacionada con los casos administrativos que se
+tramitan ante el DRNA continúa siendo, en muchos casos, limitado, fragmentado y
+dependiente de gestiones presenciales o solicitudes formales que resultan onerosas y
+poco eficientes para la ciudadanía.
+Actualmente, las personas interesadas en conocer el estado, el historial, el tracto
+o el resultado de un caso administrativo dirimido ante el DRNA enfrentan múltiples
+obstáculos, tales como la falta de un sistema digital centralizado, la ausencia de
+información actualizada en tiempo real y la dificultad para obtener copias de
+documentos oficiales como resoluciones, determinaciones u órdenes administrativas.
+Esta situación no solo retrasa el ejercicio del derecho al acceso a la información, sino que
+también debilita la fiscalización ciudadana y la participación informada en los procesos
+administrativos.
+La viabilidad y efectividad de los sistemas de consulta pública de casos ya ha
+sido demostrada en otras ramas del Gobierno de Puerto Rico. Un ejemplo claro es el
+Sistema Unificado de Manejo y Administración de Casos (SUMAC), una herramienta
+tecnológica utilizada por los Tribunales de Puerto Rico a través del portal del Poder
+Judicial. Mediante este sistema, las partes involucradas y la ciudadanía pueden
+consultar electrónicamente el estado y el tracto procesal de los casos judiciales, así como
+acceder a documentos presentados y órdenes emitidas por los tribunales, lo que ha
+fortalecido significativamente la transparencia y la eficiencia del sistema judicial.
+De igual forma, la Asamblea Legislativa cuenta con el Sistema Único de Trámite
+Legislativo (SUTRA), una plataforma digital que permite a la ciudadanía dar
+seguimiento al trámite de las medidas legislativas, acceder al texto completo de
+proyectos, resoluciones y leyes aprobadas, así como consultar información histórica
+sobre la labor legislativa. Este sistema ha contribuido a democratizar el acceso a la
+información legislativa y a fomentar una participación ciudadana más informada y
+activa en los procesos democráticos.
+
+3
+Estos precedentes evidencian que la creación de un Sistema de Consulta de
+Casos en el DRNA no solo es viable, sino necesaria y consistente con las mejores
+prácticas de transparencia ya adoptadas por otras instituciones públicas en Puerto Rico.
+Dicho sistema permitiría a cualquier persona conocer de manera clara, sencilla y
+accesible el tracto procesal de los casos administrativos ante el DRNA, incluyendo el
+acceso electrónico a documentos relevantes como querellas, mociones, resoluciones,
+órdenes administrativas y determinaciones finales.
+La implantación de este mecanismo tecnológico representa un paso fundamental
+hacia la modernización de la gestión pública, el fortalecimiento de la rendición de
+cuentas y la garantía efectiva del derecho al acceso a la información. Asimismo,
+promueve la eficiencia administrativa, reduce costos operacionales, minimiza la
+discreción indebida en el manejo de información pública y facilita la participación de
+comunidades, organizaciones ambientales, profesionales y ciudadanos en general en la
+defensa y protección del ambiente.
+En un contexto en el que los asuntos ambientales requieren cada vez mayor
+escrutinio público y en el que la tecnología ofrece herramientas accesibles para
+democratizar la información, resulta impostergable que el Gobierno adopte mecanismos
+que acerquen la gestión gubernamental al pueblo. Esta Asamblea Legislativa entiende
+la necesidad apremiante de reafirmar el compromiso con la transparencia, la justicia
+administrativa y el derecho del pueblo a estar debidamente informado sobre los
+procesos en el Departamento de Recursos Naturales y Ambientales, y considera
+meritorio la aprobación de esta medida.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se ordena al Departamento de Recursos Naturales y Ambientales
+2 diseñar, desarrollar, implantar y mantener en su portal digital un Sistema de
+3 Consulta Pública de Casos Administrativos que permita a cualquier persona
+
+4
+1 consultar electrónicamente el tracto procesal de los casos administrativos que se
+2 tramitan o se hayan tramitado ante dicha agencia.
+3 Sección 2.- El Sistema de Consulta Pública de Casos deberá incluir, como
+4 mínimo, la siguiente información y funcionalidades:
+5 (a) Un identificador único del caso administrativo;
+6 (b) La naturaleza del caso y la oficina o dependencia del DRNA responsable de
+7 su trámite;
+8 (c) El estado procesal del caso y su historial cronológico de actuaciones;
+9 (d) Las fechas relevantes del proceso administrativo;
+10 (e) Acceso electrónico a documentos públicos relacionados con el caso,
+11 incluyendo, pero sin limitarse a, querellas, mociones, informes, órdenes
+12 administrativas, resoluciones, determinaciones finales y cualquier otro
+13 documento que sea público conforme a ley;
+14 (f) Un mecanismo de búsqueda que permita localizar casos por número, asunto,
+15 ubicación, tipo de recurso natural involucrado u otros criterios razonables.
+16 Sección 3.– El Sistema de Consulta Pública de Casos deberá operar conforme a
+17 los principios de transparencia, acceso a la información pública y rendición de
+18 cuentas, garantizando a su vez la protección de información confidencial,
+19 privilegiada o protegida por ley, reglamento u orden judicial, según corresponda.
+20 Sección 4.- Se autoriza al Departamento de Recursos Naturales y Ambientales a
+21 adoptar o enmendar los reglamentos, normas administrativas y protocolos internos
+
+5
+1 que sean necesarios para la implantación y funcionamiento efectivo del Sistema de
+2 Consulta Pública de Casos.
+3 Sección 5-. El Departamento de Recursos Naturales y Ambientales tendrá un
+4 término de ciento ochenta (180) días contados a partir de la aprobación de esta
+5 Resolución Conjunta, para tener en funcionamiento en su portal digital, de acceso
+6 libre y gratuito, el Sistema de Consulta Pública de Casos Administrativos ordenado
+7 en esta Resolución Conjunta.
+8 Además, rendirá a la Asamblea Legislativa un informe escrito sobre el
+9 cumplimiento de esta Resolución Conjunta dentro de un término no mayor de
+10 noventa (90) días contados a partir de su aprobación. Dicho informe deberá detallar
+11 el estado de desarrollo e implantación del Sistema de Consulta Pública de Casos, así
+12 como cualquier recomendación adicional para fortalecer el acceso a la información.
+13 Sección 6.- Esta Resolución Conjunta entrará en vigor inmediatamente después
+14 de su aprobación.
+
+[DELETED: 0 A 3 .rL  rla  n  o a D d R N y A d i y m e s p d u S d C d C A p m l d d l g g l t y f e d d a a l a a l i p c u p e d t p y u c i p g l D d R N y A ( e u d a i p a s l a e d l p y m d l á n y a d p S d — p ó r y d t u i d y s s l s e a e]
+[DELETED:  a e D c s e m c l f y t c l f d u s d c l a d a e t r y l d p o c d o c r d u ó a M e s l p i y l c p a d p y ó e p l t l q h ( u p d q p a l c d a t d l m l a a t c d r y l a a c c i h l l l E s h c a d e a a l l y a f u p c m i y]
+[DELETED:  p e q l c d u S d C d e e D n s e v s n y c c l m s p a c p c d m c s y e a d r c q m r l m d l g p e f d l r d y l g e d d a a a l i A l e a r c o m l u c e e q l a a r c v m p y e e q l t o h a p n a d r e c c l t l j y e d d p a e d i s l e e D d R N y A y c 1 S o a D d R N y A d i y m e s p d u S d P d C A q p a c p]
+[DELETED:  e e t p d l c a q s 2 E S d C P d C d i c)U)L)E)L)A e a d p r c e c p s l a q m i ó r d f y c o)U p d t a a l i p y r d g a s v l p d i c]
+[DELETED:  5 E D d R N y A t u d c o ( d c a p d l a d e r a l A L u i e s e d e R C d d u t n m d]

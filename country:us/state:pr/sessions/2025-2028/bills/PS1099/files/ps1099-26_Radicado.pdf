@@ -1,0 +1,283 @@
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1099
+19 de febrero de 2026
+Presentado por el señor Ríos Santiago
+Referido a
+LEY
+Para establecer la “Ley para la Conservación, Preservación y Manejo de Evidencia Digital
+en Investigaciones Criminales en Puerto Rico”; establecer obligaciones a proveedores
+de servicios de comunicaciones electrónicas y servicios remotos; disponer sobre la
+retención de datos, órdenes de preservación de evidencia digital, cadena de custodia
+digital y salvaguardas de confidencialidad, particularmente en casos que involucren
+menores de edad; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La evolución tecnológica y la creciente digitalización de las comunicaciones
+han transformado de manera sustancial la dinámica social, económica y gubernamental
+en la era contemporánea. En este nuevo entorno, la evidencia de naturaleza digital se ha
+convertido en un componente esencial para la investigación, procesamiento y
+adjudicación de delitos. Sin embargo, la facilidad con que los datos electrónicos pueden
+ser alterados o eliminados, junto con la ausencia de un marco legal local uniforme,
+representa un desafío significativo para las autoridades encargadas de hacer cumplir la
+ley.
+En Puerto Rico no existe, al presente, un estatuto integral que regule de forma
+coherente la conservación, preservación y manejo de evidencia digital en el contexto de
+investigaciones criminales. Esta laguna normativa genera incertidumbre jurídica,
+
+2
+dificulta la obtención y preservación adecuada de la prueba tecnológica y puede
+conllevar la pérdida irremediable de información esencial para el esclarecimiento de
+delitos. En particular, la falta de parámetros claros impacta adversamente aquellas
+investigaciones en las que se ven involucrados menores de edad, quienes constituyen una
+población especialmente vulnerable en el ámbito cibernético.
+A nivel federal, el Stored Communications Act (18 U.S.C. §§ 2701-2713) establece un
+marco regulatorio sobre el acceso, divulgación y preservación de comunicaciones
+electrónicas y datos almacenados por proveedores de servicios. No obstante, la aplicación
+efectiva de dicho marco requiere legislación estatal complementaria que defina
+mecanismos procesales ágiles y establezca obligaciones razonables de cooperación para
+los proveedores de servicios de comunicaciones electrónicas y remotas, conforme a las
+particularidades jurídicas y operacionales de cada jurisdicción.
+En el caso de Puerto Rico, resulta imperativo adoptar una política pública clara en
+relación con la conservación y manejo de evidencia digital. La ausencia de normas
+específicas sobre cadena de custodia digital, retención de datos, órdenes de preservación
+y confidencialidad en el manejo de información tecnológica compromete tanto la
+efectividad de las investigaciones como la protección de los derechos fundamentales de
+las personas involucradas. Un marco normativo debidamente estructurado permitirá
+equilibrar el interés del Estado en la persecución efectiva del delito con las garantías
+constitucionales contra registros, allanamientos y confiscaciones irrazonables.
+Esta medida tiene como propósito establecer las bases jurídicas para la solicitud,
+conservación y manejo seguro de datos digitales vinculados a la comisión de delitos. A
+tales fines, se definen los deberes y responsabilidades de los proveedores de servicios de
+comunicaciones electrónicas y servicios remotos, se crean mecanismos uniformes de
+preservación y cadena de custodia digital, y se incorporan salvaguardas de
+confidencialidad orientadas a proteger especialmente la información relativa a menores
+de edad.
+Las disposiciones aquí propuestas se desarrollan en armonía con el ordenamiento
+jurídico federal, incluyendo las normas interpretadas por el Tribunal Supremo de los
+
+3
+Estados Unidos en Carpenter v. United States, 138 S. Ct. 2206 (2018), y con los estándares
+de debido proceso reconocidos en el derecho comparado. De esta manera, se dota al
+Gobierno de Puerto Rico de un instrumento legislativo moderno, coherente y compatible
+con las exigencias tecnológicas contemporáneas, que fortalece las capacidades
+investigativas del Estado y salvaguarda los valores fundamentales de la justicia y la
+protección de la dignidad humana.
+Por tanto, esta Asamblea Legislativa considera necesario establecer como política pública
+del Gobierno de Puerto Rico el fortalecimiento de un sistema de investigación criminal que
+incorpore de manera eficaz la evidencia digital, asegurando su integridad, autenticidad y
+admisibilidad, sin menoscabo de los derechos constitucionales de las partes, a fin de garantizar
+la corrección de los procesos penales y mantener la confianza de la ciudadanía en la
+administración de justicia en el entorno digital.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá como la “Ley para la Conservación, Preservación y Manejo
+3 de Evidencia Digital en Investigaciones Criminales en Puerto Rico”.
+4 Artículo 2.- Política Pública.
+5 Será política pública del Gobierno de Puerto Rico establecer un marco normativo
+6 claro, uniforme y efectivo para la conservación, preservación, manejo y utilización de
+7 evidencia digital en investigaciones criminales, particularmente aquellas que involucren
+8 menores de edad, garantizando la integridad de la evidencia, la efectividad investigativa
+9 del Estado y la protección de los derechos fundamentales.
+10 Esta política pública se implementará en armonía con el derecho federal aplicable,
+11 incluyendo el Stored Communications Act (18 U.S.C §§ 2701-2713), y con las Reglas de
+12 Evidencia y de Procedimiento Criminal en Puerto Rico. Asimismo, será política pública
+
+4
+1 del Gobierno de Puerto Rico garantizar que toda medida de conservación y preservación
+2 de datos digitales se realice de manera razonable, proporcional y vinculada a fines
+3 legítimos de investigación criminal, evitando cargas indebidas a los proveedores de
+4 servicio y protegiendo los derechos constitucionales a la intimidad y a la protección
+5 contra registros y allanamientos irrazonables.
+6 Nada de lo dispuesto en esta Ley se interpretará como una autorización para
+7 requerir la divulgación de contenido de comunicaciones electrónicas sin el cumplimiento
+8 de los requisitos establecidos en derecho federal aplicable, incluyendo el Stored
+9 Communications Act (18 U.S.C §§ 2701-2713).
+10 Artículo 3.- Definiciones.
+11 Para propósitos de esta ley, los siguientes términos o frases tendrán los
+12 significados que a continuación se expresan:
+13 (a) “Proveedor de Servicio” significa toda persona natural o jurídica que, de
+14 manera intencional u organizada, ofrezca servicios de transmisión de comunicaciones
+15 electrónicas o acceso a internet a usuarios asentados en Puerto Rico,
+16 independientemente de su ubicación física o del lugar donde se encuentren sus
+17 servidores.
+18 (b) “Proveedor de Hospedaje o Servicio Remoto” significa toda entidad que
+19 provea almacenamiento, procesamiento o manejo de datos digitales en nombre de
+20 usuarios.
+
+5
+1 (c) “Datos de Tráfico o Metadatos” significa información generada por sistemas
+2 electrónicos asociada a una comunicación que describe su origen, destino, ruta, fecha,
+3 hora, duración o tipo de servicio, sin incluir el contenido de la comunicación.
+4 (d) “Evidencia Digital” significa cualquier información almacenada o transmitida
+5 en formato electrónico que pueda ser utilizada como prueba en un procedimiento
+6 judicial.
+7 (e) “Preservación de Datos” significa la acción de mantener y proteger datos
+8 existentes contra su modificación o eliminación por un término determinado.
+9 (f) “Orden de Preservación” significa mandato emitido por autoridad competente
+10 requiriendo la conservación de datos específicos.
+11 (g) “Cadena de Custodia Digital” significa conjunto de procedimientos que
+12 garantizan la integridad, autenticidad y trazabilidad de la evidencia digital.
+13 Artículo 4.- Obligación de Preservar Datos.
+14 Todo proveedor de servicio o proveedor de hospedaje que opere o preste servicios
+15 en Puerto Rico vendrá obligado a conservar los datos de tráfico y registros de
+16 comunicaciones electrónicas por un período mínimo de doce (12) meses y no mayor de
+17 veinticuatro (24) meses, conforme se disponga mediante reglamentación.
+18 Dicha obligación se limitará a los datos de tráfico o metadatos y no incluirá el
+19 contenido de las comunicaciones, salvo disposición expresa de ley o mandato judicial
+20 conforme a derecho.
+21 Las disposiciones de este Artículo se interpretarán en armonía con el Stored
+22 Communications Act (18 U.S.C §§ 2701-2713). La obligación aquí dispuesta se limitará a
+
+6
+1 datos razonables necesarios para fines de investigación criminal y no podrá interpretarse
+2 como una autorización para la recopilación masiva o indiscriminada de información. Su
+3 implementación deberá cumplir con los principios de razonabilidad y proporcionalidad
+4 conforme a la Constitución de Puerto Rico y la Constitución de los Estados Unidos.
+5 Nada de lo aquí dispuesto se interpretará como una obligación incompatible con
+6 las limitaciones establecidas en el Stored Communications Act (18 U.S.C §§ 2701-2713) ni
+7 como autorización para la retención o divulgación de contenido de comunicaciones
+8 electrónicas sin orden judicial válida conforme a derecho.
+9 La conservación de datos conforme a este Artículo no constituirá por sí sola base
+10 para la admisibilidad de evidencia, la cual estará sujeta a los procedimientos de
+11 impugnación, incluyendo mociones de supresión de evidencia, conforme a las Reglas de
+12 Procedimiento Criminal.
+13 Artículo 5.– Órdenes de Preservación de Evidencia Digital.
+14 El Tribunal de Primera Instancia podrá emitir órdenes de preservación de evidencia
+15 digital a solicitud del Ministerio Público o de un agente del orden público autorizado,
+16 previa determinación de causa probable o, en los casos previstos por ley, de motivo
+17 fundado conforme a derecho.
+18 Asimismo, el Ministerio Público podrá emitir solicitudes de preservación de carácter
+19 expedito cuando existan circunstancias urgentes que justifiquen la conservación
+20 inmediata de datos, basadas en motivo fundado. Dichas solicitudes no constituirán en sí
+21 mismas autorización para acceder o divulgar información y tendrán una vigencia inicial
+22 de noventa (90) días, debiendo ser presentadas ante el Tribunal para su validación dentro
+
+7
+1 de un término de setenta y dos (72) horas. La falta de validación judicial dentro de dicho
+2 término conllevará la nulidad de la solicitud.
+3 Las órdenes o solicitudes deberán especificar:
+4 (a) Identificación del proveedor;
+5 (b) Tipo de datos a preservarse;
+6 (c) Periodo de tiempo aplicable;
+7 (d) Fundamento de la solicitud;
+8 (e) Base fáctica que sustente la pertinencia de los datos solicitados.
+9 Lo anterior se entenderá sin perjuicio de los requisitos de orden judicial, citación o
+10 autorización previa exigidos por el derecho federal aplicable para el acceso o divulgación
+11 de datos.
+12 Nada de lo dispuesto en este Artículo se interpretará como un sustituto de los
+13 requisitos para la expedición de órdenes de allanamiento o registro conforme a las Reglas
+14 de Procedimiento Criminal de Puerto Rico.
+15 Artículo 6.– Salvaguardas de Confidencialidad.
+16 En toda investigación que involucre menores de edad:
+17 (a) Se garantizará la confidencialidad de la información recopilada;
+18 (b) Se limitará el acceso a la evidencia digital a personal autorizado, sin menoscabar
+19 el derecho del acusado a obtener y examinar la evidencia conforme a las Reglas de
+20 Procedimiento Criminal;
+21 (c) Se prohibirá la divulgación innecesaria de información identificable;
+
+8
+1 (d) Se adoptarán medidas para proteger la dignidad y privacidad de las víctimas,
+2 incluyendo las disposiciones aplicables sobre privilegios y protección de víctimas
+3 conforme a las Reglas de Evidencia de Puerto Rico.
+4 Artículo 7.- Cadena de Custodia Digital.
+5 La evidencia digital deberá ser recolectada, preservada, analizada y presentada
+6 mediante procedimientos que garanticen su integridad, autenticidad y trazabilidad.
+7 A tales efectos, deberán adoptarse, como mínimo, los siguientes mecanismos:
+8 (a) La creación de copias forenses de los dispositivos o datos originales;
+9 (b) La utilización de funciones de verificación digital, incluyendo algoritmos de hash,
+10 para validar la integridad de la evidencia;
+11 (c) El mantenimiento de registros detallados de acceso, transferencia, análisis y
+12 almacenamiento de la evidencia digital;
+13 (d) La identificación de toda persona que haya tenido acceso a la evidencia;
+14 (e) La documentación continua de la cadena de custodia desde su obtención hasta su
+15 presentación en el Tribunal.
+16 El incumplimiento sustancial de estos procedimientos podrá afectar el peso o la
+17 admisibilidad de la evidencia conforme a las Reglas de Evidencia de Puerto Rico,
+18 incluyendo las disposiciones sobre autenticación e identificación de evidencia.
+19 La admisibilidad de la evidencia digital se regirá además por disposiciones aplicables
+20 sobre prueba de referencia, autenticación, duplicados y evidencia electrónica contenidas
+21 en las Reglas de Evidencia.
+
+9
+1 Los procedimientos aquí establecidos estarán sujetos a los mecanismos de
+2 descubrimiento de prueba y a la impugnación por las partes conforme a las Reglas de
+3 Procedimiento Criminal de Puerto Rico.
+4 Artículo 8.- Protección de la Identidad y Privacidad de Menores de Edad.
+5 El Gobierno de Puerto Rico garantizará la protección de la identidad y privacidad de
+6 los menores de edad en todas las etapas del proceso investigativo y judicial, adoptando
+7 medidas razonables para evitar la divulgación innecesaria de información que permita
+8 su identificación, en armonía con las Reglas de Evidencia de Puerto Rico y demás
+9 legislación aplicable.
+10 Artículo 9.- Inmunidad.
+11 Ningún proveedor de servicios de comunicaciones electrónicas o servicios remotos
+12 incurrirá en responsabilidad civil o penal por cumplir de buena fe con una orden judicial
+13 o solicitud de preservación emitida conforme a esta Ley.
+14 Esta disposición no aplicará en caso de negligencia crasa o conducta intencional
+15 indebida.
+16 Para efectos de este Artículo, se entenderá que existe buena fe cuando el proveedor
+17 actúa en cumplimiento razonable de una orden judicial o solicitud válida conforme a esta
+18 Ley. Esta inmunidad no limitará la facultad del Tribunal para evaluar la legalidad de la
+19 obtención de la evidencia ni su admisibilidad conforme a las Reglas de Procedimiento
+20 Criminal.
+
+10
+1 Artículo 10.- Reglamentación.
+2 El Departamento de Justicia, en coordinación con el Negociado de la Policía de
+3 Puerto Rico y otras agencias pertinentes, adoptará la reglamentación necesaria para la
+4 implementación de esta Ley dentro de un término de ciento ochenta (180) días.
+5 Dicha reglamentación incluirá, entre otros aspectos, la adopción de protocolos
+6 técnicos para la recolección, preservación, análisis y manejo de evidencia digital, en
+7 coordinación con el Puerto Rico Innovation and Technology Service (PRITS) y las agencias
+8 de orden público competentes, incluyendo estándares sobre formatos de hash, copias
+9 forenses, registros de auditoría y medidas de seguridad informática, consistentes con
+10 las mejores prácticas forenses aceptadas y con el ordenamiento jurídico aplicable.
+11 Asimismo, la reglamentación dispondrá los mecanismos de coordinación operativa
+12 con las autoridades federales, incluyendo el Buró Federal de Investigaciones (FBI, por
+13 sus siglas en inglés), Homeland Security Investigations (HSI) y otras entidades
+14 competentes, de forma tal que la ejecución de esta Ley se lleve a cabo en armonía con la
+15 legislación federal vigente, incluyendo el Stored Communications Act (18 U.S.C. §§ 2701–
+16 2713), y demás normas aplicables, sin que ello implique limitación alguna a las
+17 facultades de dichas autoridades federales ni al uso de órdenes, citaciones u otros
+18 mecanismos procesales emitidos al amparo del derecho federal.
+19 Artículo 11.- Limitación de Alcance.
+20 Nada de lo dispuesto en esta Ley se interpretará como autorización para la
+21 recopilación masiva o indiscriminada de datos, debiendo toda actuación limitarse a lo
+22 estrictamente necesario para fines legítimos de investigación criminal, conforme a los
+
+11
+1 principios de razonabilidad y proporcionalidad. Asimismo, nada de lo anterior se
+2 interpretará como una limitación a los derechos del acusado reconocidos en las Reglas de
+3 Procedimiento Criminal de Puerto Rico.
+4 Artículo 12.- Armonización con otras Leyes Aplicables.
+5 Nada de lo dispuesto en esta Ley se interpretará en menoscabo de las obligaciones
+6 y protecciones establecidas en la Ley 111-2005, según enmendada, conocida como “Ley
+7 de Información al Ciudadano sobre la Seguridad de Bancos de Información”, relativas
+8 a la protección de datos personales y la notificación de brechas de seguridad de
+9 información. De igual modo, las disposiciones de esta Ley se aplicarán en armonía con
+10 la Ley 148-2006, según enmendada, conocida como “Ley de Transacciones
+11 Electrónicas”, en lo concerniente a la conservación, validez y eficacia probatoria de
+12 documentos y registros electrónicos.
+13 Artículo 13.- Separabilidad.
+14 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+15 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta ley
+16 fuera anulada o declara inconstitucional, la resolución, el dictamen o la sentencia dictada
+17 a tal efecto no afectará, perjudicará, ni invalidará el remanente de esta ley. El efecto de tal
+18 sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra, letra,
+19 artículo, disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de
+20 ésta que así hubiera sido anulada o declarada inconstitucional.
+21 Artículo 14.- Vigencia.
+22 Esta ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED:      3  .rL   L e u c e p l i p y a o e j c l a d u m l l u c E l n g i j]
+[DELETED:  l o y p a d l p t y p l p i d i e p e e d E p l f d p c i a a   r s e a d y p d c d d m r l e c q d cl c y m d e d L a d n c e e m d i t c t l p i U m n d e p e y s r s c m u d y c d c d y s i s d]
+[DELETED:  , l e t c q f l c d E y s l v f d l j y l G d R e d u s d c d m e l e d a s i a y c d l p p y m l c d l c e lAE (]
+[DELETED:  d d s r d m r p y v a f d i c e c i a l p d y p l d c a l i y a l p d l d e e L s i c u a p l r e e d f a i eAP p d e l l s t o f t l( “ d S s t p n o j q d o a a i a u a e P R d s u f o d l d s e s “ d H o S R s t e q a p o m d d d e n d]
+[DELETED:  f e q p s u c p e u p “ d D s l a d m y p d “ d C D s c d p q P R v o a c l d d t y r d d d e A s i e a c e]
+[DELETED:    a p l r o d d c d c l a d e l c e s a l p d c e c u q j l c]
+[DELETED: )I)T)P)F)B d l d e e A s i c u s d l d d a a o y e l e c a l R d]
+[DELETED:  l d a s p y p d v e d d s r p a y p)L)L)E m d r d d a t a y)L)L i s d e p p a e p o l d l e c a l R d E d P R]
+[DELETED:  p a e e s a l m d i e a c l R d E d P R y d d n a e c d n c o c i]
+[DELETED:  D d J e c c e N d l P d r i e o a l a d p   s e i  ( y o e S I   y d n a s q e i l a a l d d a f n a u d ó c u o d l d e e L s i c a p l]
+[DELETED:  d r y p A n d l a s l p d d p y l n d b d s d L 1 s e c c “ d T e l c a c y p d c c p s o p l a q l a l c p s o p l]

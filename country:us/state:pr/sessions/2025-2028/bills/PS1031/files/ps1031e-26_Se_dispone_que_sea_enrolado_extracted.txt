@@ -1,0 +1,185 @@
+Title: Para enmendar el Artículo 16 de la Ley 75-2019, según enmendada, conocida como “Ley
+Official Title: Para enmendar el Artículo 16 de la Ley 75-2019, según enmendada, conocida como “Ley
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 1031)
+LEY
+de la Puerto Rico Innovation and Technology Service” con el fin de establecer la
+publicación de proyectos tecnológicos activos bajo la jurisdicción del Puerto Rico
+Innovation and Technology Service (PRITS); y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La adopción de tecnologías innovadoras en el ámbito gubernamental representa
+un componente esencial para impulsar el desarrollo socioeconómico de Puerto Rico,
+promoviendo la modernización de los servicios públicos, la optimización de procesos
+administrativos y el fortalecimiento de la confianza ciudadana mediante la
+transparencia en la gestión de recursos. El Puerto Rico Innovation and Technology
+Service (PRITS), creado mediante la Ley 75-2019, según enmendada, tiene la misión de
+liderar la política pública en materia de innovación, información y tecnología en la
+Rama Ejecutiva. Entre sus funciones clave se encuentra la coordinación y supervisión de
+proyectos tecnológicos de alto impacto, como sistemas de permisos digitales,
+plataformas de datos abiertos y soluciones de ciberseguridad, que son vitales para
+mejorar la calidad de los servicios públicos y fomentar la competitividad económica.
+A medida que los cambios tecnológicos avanzan, se ha levantado la necesidad de
+implementar mecanismos más robustos para garantizar el acceso público a información
+detallada sobre el progreso de los proyectos tecnológicos gestionados por PRITS. Estas
+demandas han surgido en un contexto de creciente interés por la rendición de cuentas
+en iniciativas que impactan directamente a la ciudadanía, como las plataformas
+digitales que facilitan trámites gubernamentales. La falta de información oportuna y
+accesible sobre el estado de estos proyectos ha limitado la capacidad de los ciudadanos
+para evaluar su impacto y contribuir a su mejora, lo que subraya la necesidad de un
+marco normativo que priorice la divulgación proactiva.
+La legislación vigente en Puerto Rico, como la Ley 141-2019, según enmendada,
+conocida como “Ley de Transparencia y Procedimiento Expedito para el Acceso a la
+Información Pública”, y la Ley 122-2019, conocida como “Ley de Datos Abiertos del
+Gobierno de Puerto Rico”, establecen principios generales para la divulgación de
+información y la publicación de datos en formatos abiertos. Sin embargo, estas leyes no
+incluyen disposiciones específicas que exijan la publicación de proyectos tecnológicos
+activos bajo la jurisdicción de PRITS.
+Por lo que la presente Ley busca establecer que PRITS publique los proyectos
+tecnológicos activos, utilizando la infraestructura digital existente sin incurrir en costos
+al erario. Esta Ley no solo alineará a Puerto Rico con estándares internacionales de
+2
+transparencia tecnológica, sino que también promoverá la transparencia, la rendición de
+cuentas y la eficiencia administrativa en PRITS, sin comprometer recursos fiscales
+adicionales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se enmienda el Artículo 16 de la Ley 75-2019, según enmendada, para
+que lea como sigue:
+“Artículo 16.- Proyectos de bases de datos, innovación, información y tecnología
+de las agencias.
+PRITS tendrá la facultad de revisar, evaluar y aprobar cualquier proyecto de
+creación, implantación, modificación, migración y actualización de las bases de datos,
+innovación, información y tecnología a ser adoptadas por las agencias. PRITS emitirá
+por escrito las recomendaciones y los estándares que correspondan, según sea el caso,
+para que los proyectos de bases de datos, innovación, información y tecnología de las
+agencias cumplan con los propósitos de esta Ley y remitirá dicha comunicación al jefe
+de agencia y al Oficial Principal de Informática de ésta. Las agencias tendrán que
+diseñar, desarrollar, adoptar e implantar sus proyectos de base de datos, innovación,
+información y tecnología a tenor con los parámetros y las especificaciones que
+establezca PRITS. Todo proyecto o contratación sujeta a la jurisdicción de PRITS que no
+haya sido previamente sometido al proceso de revisión y aprobación dispuesto en este
+Artículo podrá ser declarado nulo o cancelado por incumplimiento, previa notificación
+y oportunidad razonable de corrección conforme al procedimiento administrativo que
+establezca PRITS. Asimismo, dicha Oficina deberá evaluar y aprobar cualquier
+contratación de servicios o compra de equipo por parte de las agencias a ser utilizado o
+destinado para un proyecto de base de datos, innovación, información y tecnología.
+PRITS deberá publicar en su portal digital todos los proyectos tecnológicos activos bajo
+su jurisdicción. En casos excepcionales, como proyectos clasificados por razones de
+seguridad nacional o confidencialidad legal, podrá publicar versiones redactadas con
+información sensible omitida, justificando tal omisión. La PRITS y el Instituto de
+Cultura Puertorriqueña trabajarán en conjunto, mediante acuerdo interagencial, para
+disponer el protocolo del proceso de digitalización en todo lo concerniente a la
+obligación del Instituto de Cultura Puertorriqueña conforme a las disposiciones de la
+Ley 107-2025, conocida como “Ley de Administración y Conservación de Documentos
+Públicos para el Siglo XXI”.”
+Sección 2.- Reglamentación.
+El Director Ejecutivo de PRITS adoptará, dentro de los noventa (90) días siguientes
+a la vigencia de esta Ley, la reglamentación necesaria para su implementación.
+Sección 3.- Cláusula de Separabilidad.
+3
+Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+Sección 4.- Vigencia.
+Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED:  ae c e p i e d s d P R y e f d l c c m l e l g d r E P R I a T l p p e m d i i y t e l t d a i c s d p d d d a y s d c q s v p i q i d a l c c l p q f t g L f d i o y P y l L 1 c c “ d D A d d P R e p g p l d d e E L n s a a P R c e i d]
+[DELETED:   y l e a e P s c r f t l f d r e y a c p d a y a O P d I d é L a t q y t a t c l p y l e q P A d O d e y a c p u p d b d d i i y t j  E c e c p c p r d s o j t o L P y e I d P t e c m a i p e p d p d d e t l c a l]
+[DELETED:  ]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 1031)
+LEY
+Para enmendar el Artículo 16 de la Ley 75-2019, según enmendada, conocida como “Ley
+de la Puerto Rico Innovation and Technology Service” con el fin de establecer la
+publicación de proyectos tecnológicos activos bajo la jurisdicción del Puerto Rico
+Innovation and Technology Service (PRITS); y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La adopción de tecnologías innovadoras en el ámbito gubernamental representa
+un componente esencial para impulsar el desarrollo socioeconómico de Puerto Rico,
+promoviendo la modernización de los servicios públicos, la optimización de procesos
+administrativos y el fortalecimiento de la confianza ciudadana mediante la
+transparencia en la gestión de recursos. El Puerto Rico Innovation and Technology
+Service (PRITS), creado mediante la Ley 75-2019, según enmendada, tiene la misión de
+liderar la política pública en materia de innovación, información y tecnología en la
+Rama Ejecutiva. Entre sus funciones clave se encuentra la coordinación y supervisión de
+proyectos tecnológicos de alto impacto, como sistemas de permisos digitales,
+plataformas de datos abiertos y soluciones de ciberseguridad, que son vitales para
+mejorar la calidad de los servicios públicos y fomentar la competitividad económica.
+A medida que los cambios tecnológicos avanzan, se ha levantado la necesidad de
+implementar mecanismos más robustos para garantizar el acceso público a información
+detallada sobre el progreso de los proyectos tecnológicos gestionados por PRITS. Estas
+demandas han surgido en un contexto de creciente interés por la rendición de cuentas
+en iniciativas que impactan directamente a la ciudadanía, como las plataformas
+digitales que facilitan trámites gubernamentales. La falta de información oportuna y
+accesible sobre el estado de estos proyectos ha limitado la capacidad de los ciudadanos
+para evaluar su impacto y contribuir a su mejora, lo que subraya la necesidad de un
+marco normativo que priorice la divulgación proactiva.
+La legislación vigente en Puerto Rico, como la Ley 141-2019, según enmendada,
+conocida como “Ley de Transparencia y Procedimiento Expedito para el Acceso a la
+Información Pública”, y la Ley 122-2019, conocida como “Ley de Datos Abiertos del
+Gobierno de Puerto Rico”, establecen principios generales para la divulgación de
+información y la publicación de datos en formatos abiertos. Sin embargo, estas leyes no
+incluyen disposiciones específicas que exijan la publicación de proyectos tecnológicos
+activos bajo la jurisdicción de PRITS.
+Por lo que la presente Ley busca establecer que PRITS publique los proyectos
+tecnológicos activos, utilizando la infraestructura digital existente sin incurrir en costos
+al erario. Esta Ley no solo alineará a Puerto Rico con estándares internacionales de
+
+2
+transparencia tecnológica, sino que también promoverá la transparencia, la rendición de
+cuentas y la eficiencia administrativa en PRITS, sin comprometer recursos fiscales
+adicionales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se enmienda el Artículo 16 de la Ley 75-2019, según enmendada, para
+que lea como sigue:
+“Artículo 16.- Proyectos de bases de datos, innovación, información y tecnología
+de las agencias.
+PRITS tendrá la facultad de revisar, evaluar y aprobar cualquier proyecto de
+creación, implantación, modificación, migración y actualización de las bases de datos,
+innovación, información y tecnología a ser adoptadas por las agencias. PRITS emitirá
+por escrito las recomendaciones y los estándares que correspondan, según sea el caso,
+para que los proyectos de bases de datos, innovación, información y tecnología de las
+agencias cumplan con los propósitos de esta Ley y remitirá dicha comunicación al jefe
+de agencia y al Oficial Principal de Informática de ésta. Las agencias tendrán que
+diseñar, desarrollar, adoptar e implantar sus proyectos de base de datos, innovación,
+información y tecnología a tenor con los parámetros y las especificaciones que
+establezca PRITS. Todo proyecto o contratación sujeta a la jurisdicción de PRITS que no
+haya sido previamente sometido al proceso de revisión y aprobación dispuesto en este
+Artículo podrá ser declarado nulo o cancelado por incumplimiento, previa notificación
+y oportunidad razonable de corrección conforme al procedimiento administrativo que
+establezca PRITS. Asimismo, dicha Oficina deberá evaluar y aprobar cualquier
+contratación de servicios o compra de equipo por parte de las agencias a ser utilizado o
+destinado para un proyecto de base de datos, innovación, información y tecnología.
+PRITS deberá publicar en su portal digital todos los proyectos tecnológicos activos bajo
+su jurisdicción. En casos excepcionales, como proyectos clasificados por razones de
+seguridad nacional o confidencialidad legal, podrá publicar versiones redactadas con
+información sensible omitida, justificando tal omisión. La PRITS y el Instituto de
+Cultura Puertorriqueña trabajarán en conjunto, mediante acuerdo interagencial, para
+disponer el protocolo del proceso de digitalización en todo lo concerniente a la
+obligación del Instituto de Cultura Puertorriqueña conforme a las disposiciones de la
+Ley 107-2025, conocida como “Ley de Administración y Conservación de Documentos
+Públicos para el Siglo XXI”.”
+Sección 2.- Reglamentación.
+El Director Ejecutivo de PRITS adoptará, dentro de los noventa (90) días siguientes
+a la vigencia de esta Ley, la reglamentación necesaria para su implementación.
+Sección 3.- Cláusula de Separabilidad.
+
+3
+Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+Sección 4.- Vigencia.
+Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED:  ae c e p i e d s d P R y e f d l c c m l e l g d r E P R I a T l p p e m d i i y t e l t d a i c s d p d d d a y s d c q s v p i q i d a l c c l p q f t g L f d i o y P y l L 1 c c “ d D A d d P R e p g p l d d e E L n s a a P R c e i d]
+[DELETED:   y l e a e P s c r f t l f d r e y a c p d a y a O P d I d é L a t q y t a t c l p y l e q P A d O d e y a c p u p d b d d i i y t j  E c e c p c p r d s o j t o L P y e I d P t e c m a i p e p d p d d e t l c a l]
+[DELETED:  ]

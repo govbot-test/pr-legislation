@@ -1,0 +1,1288 @@
+Title: Para crear la “Ley de Vehículos Oficiales del Gobierno de Puerto Rico”, la cual incorpora
+Official Title: Para crear la “Ley de Vehículos Oficiales del Gobierno de Puerto Rico”, la cual incorpora
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1247
+11 de mayo de 2026
+Presentado por el señor Toledo López
+Referido a
+LEY
+mecanismos modernos de supervisión telemétrica mediante el Sistema de Rastreo
+y Monitoreo administrado por la Administración de Servicios Generales y
+corporaciones públicas; establecer disposiciones actualizadas sobre el uso de
+vehículos oficiales por funcionarios públicos; definir nuevas excepciones que
+reflejan la realidad operacional de las agencias de seguridad pública y manejo de
+emergencias; derogar la Ley 60-2014, según enmendada, conocida como la “Ley
+Uniforme de Vehículos Oficiales del Gobierno de Puerto Rico”; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 60-2014, conocida como la “Ley Uniforme de Vehículos Oficiales del
+Gobierno de Puerto Rico”, fue aprobada en un contexto de estrechez fiscal y con un
+propósito legítimo de promover la prudencia gubernamental, limitar el uso de vehículos
+oficiales a fines públicos y evitar que la propiedad del Estado se convirtiera en un
+beneficio personal para determinados funcionarios. Esa política pública debe conservar
+plena vigencia. El uso de vehículos oficiales debe responder siempre a una necesidad
+2
+pública real, debe estar sujeto a controles efectivos y debe poder ser fiscalizado con rigor
+por las entidades competentes.
+No obstante, más de una década después de su aprobación, la experiencia
+administrativa, los adelantos tecnológicos y la jurisprudencia reciente del Tribunal
+Supremo de Puerto Rico han demostrado que el marco vigente requiere una revisión
+integral. La Ley 60-2014 fue concebida sobre un modelo de control predominantemente
+formal, centrado en la jornada laboral, la entrega física del vehículo y la documentación
+manual mediante bitácora. Ese esquema, aunque comprensible en su momento, no
+atiende adecuadamente las realidades operacionales contemporáneas del Gobierno de
+Puerto Rico, particularmente en agencias que prestan servicios esenciales, responden a
+emergencias o requieren disponibilidad continua de funcionarios y personal
+especializado.
+La administración moderna de la flota vehicular gubernamental no puede
+depender exclusivamente de presunciones rígidas asociadas a la hora o lugar de entrega
+del vehículo. La Administración de Servicios Generales ha incorporado herramientas
+tecnológicas de rastreo y monitoreo que permiten fiscalizar, con mayor precisión y
+transparencia, la ubicación, velocidad, recorrido, tiempo de uso y patrones operacionales
+de los vehículos oficiales. Esta capacidad tecnológica transforma el análisis. Hoy es
+posible distinguir con mayor objetividad entre el uso oficial, el uso operacionalmente
+justificado y el uso indebido para fines personales. Por ello, el marco jurídico debe
+desplazarse de una lógica meramente formalista hacia un sistema de fiscalización
+sustantiva, basado en trazabilidad, evidencia verificable, controles tecnológicos, bitácoras
+confiables, responsabilidad individual y auditoría administrativa.
+La revisión legislativa también se justifica por las consecuencias jurídicas
+producidas por la interacción entre la Ley 60-2014, la Ley 1-2012, conocida como la Ley
+Orgánica de la Oficina de Ética Gubernamental y las órdenes administrativas internas de
+las agencias. En Oficina de Ética Gubernamental v. Elí Díaz Atienza, 2025 TSPR 128, el
+Tribunal Supremo de Puerto Rico examinó una controversia relacionada con la
+autorización concedida por el entonces Presidente Ejecutivo de la Autoridad de
+3
+Acueductos y Alcantarillados para que el Vicepresidente Ejecutivo de dicha corporación
+pública entregara un vehículo oficial en una instalación de la propia agencia distinta a la
+sede central. El Tribunal Supremo resolvió que la Oficina de Ética Gubernamental no
+cumplió con su obligación de probar, mediante prueba clara, robusta y convincente,
+todos los elementos de la infracción imputada bajo el Artículo 4.2(b) de la Ley 1-2012.
+En particular, el Tribunal Supremo determinó que el Vicepresidente Ejecutivo de
+la Autoridad de Acueductos y Alcantarillados no podía ser catalogado como una
+“persona privada” para efectos de la Ley de Ética Gubernamental, toda vez que se trataba
+de un servidor público de alta jerarquía que intervenía en la formulación e implantación
+de política pública. Asimismo, reconoció que la naturaleza del cargo exigía
+disponibilidad fuera del horario regular, atención de emergencias y participación en
+funciones operacionales críticas. Bajo ese marco, el Alto Foro concluyó que la autorización
+de un punto alterno de entrega del vehículo, dentro de instalaciones de la propia
+corporación pública, no constituía automáticamente un beneficio personal indebido ni
+una infracción ética.
+Dicha decisión no debilita la política pública contra el uso indebido de vehículos
+oficiales. Por el contrario, exige que esa política pública sea formulada con mayor
+precisión. El ordenamiento debe prohibir y sancionar el uso personal, arbitrario o
+injustificado de vehículos oficiales, pero no debe confundir ese uso indebido con
+decisiones administrativas razonables dirigidas a garantizar continuidad operacional,
+respuesta inmediata, eficiencia institucional o cumplimiento de funciones públicas. Una
+ley moderna debe establecer criterios claros para esa distinción, de manera que las
+agencias puedan operar con flexibilidad cuando el interés público lo requiera, sin crear
+espacios de impunidad ni beneficios personales disfrazados de necesidad oficial.
+La necesidad de claridad legislativa se acentúa ante el impacto institucional que
+ha tenido la referida jurisprudencia. Según ha trascendido públicamente, luego de la
+decisión del Tribunal Supremo en OEG v. Díaz Atienza, supra, la Oficina de Ética
+Gubernamental cerró múltiples casos en los que se imputaban beneficios indebidos a
+“personas privadas”. Ese resultado evidencia una tensión normativa más amplia entre la
+4
+legislación sobre vehículos oficiales, la legislación ética y la administración cotidiana de
+recursos públicos. Cuando un estatuto genera interpretaciones incompatibles, litigios
+prolongados, incertidumbre sobre su alcance y consecuencias no previstas sobre la
+capacidad fiscalizadora del Estado, corresponde a la Asamblea Legislativa intervenir
+para precisar la norma.
+Asimismo, la experiencia práctica ha demostrado que la Ley 60-2014 no contempla
+adecuadamente las necesidades de las agencias que prestan servicios críticos a la
+ciudadanía. El Departamento de Seguridad Pública, sus negociados, el Negociado para
+el Manejo de Emergencias y Administración de Desastres, los organismos de respuesta,
+coordinación, seguridad, salud, infraestructura crítica y continuidad gubernamental
+requieren un régimen que reconozca la realidad operacional de funcionarios y empleados
+que pueden ser activados en cualquier momento. En tales escenarios, la disponibilidad
+inmediata de un vehículo oficial no constituye un privilegio personal, sino una
+herramienta indispensable para ejecutar una función pública urgente.
+Particular atención merecen los funcionarios y empleados que, por la naturaleza
+de sus responsabilidades, deben responder a emergencias, coordinar recursos
+interagenciales, movilizarse a zonas afectadas, atender situaciones que amenazan la vida
+o seguridad de la ciudadanía, o mantener la continuidad de servicios esenciales.
+Directores de zona, coordinadores de búsqueda y rescate, personal de manejo de
+emergencias, funcionarios de respuesta operacional y otros servidores públicos con
+deberes análogos no pueden quedar sujetos a un esquema legal que trate toda
+disponibilidad vehicular fuera de horario regular como si fuera presumiblemente
+irregular. La ley debe permitir excepciones controladas, documentadas y fiscalizables,
+sujetas a criterios objetivos y a la supervisión de la autoridad competente.
+Del mismo modo, la activación del Centro de Operaciones de Emergencia, la
+emisión de una declaración de emergencia por parte del Gobernador mediante orden
+ejecutiva, o cualquier activación oficial de respuesta interagencial, crea circunstancias
+extraordinarias que justifican ampliar temporalmente el acceso y uso de vehículos
+oficiales para las agencias concernidas. En esos contextos, la rigidez normativa puede
+5
+convertirse en un obstáculo para la respuesta gubernamental. La ley debe proveer un
+mecanismo claro para activar excepciones temporales, definir su alcance, documentar su
+necesidad, limitar su duración y garantizar que todo uso permanezca vinculado a la
+emergencia o función pública que lo justifica.
+Por tanto, esta Asamblea Legislativa entiende necesario derogar y sustituir la Ley
+60-2014 por un nuevo marco legal que mantenga intactos los principios de austeridad,
+transparencia, responsabilidad fiscal y uso exclusivo de la propiedad pública para fines
+públicos, pero que a la vez incorpore herramientas modernas de monitoreo, reconozca la
+diversidad operacional de las agencias, clarifique las excepciones aplicables, armonice la
+normativa con la Ley de Ética Gubernamental y evite interpretaciones que penalicen
+decisiones administrativas razonables adoptadas en beneficio del servicio público.
+Esta Ley no autoriza el uso personal de vehículos oficiales ni reduce la
+responsabilidad de los servidores públicos sobre la propiedad del Estado. Al contrario,
+fortalece la fiscalización al exigir controles tecnológicos, documentación verificable,
+criterios uniformes, autorización expresa, supervisión administrativa y consecuencias
+claras por incumplimiento. Su propósito es reemplazar un modelo rígido e insuficiente
+por un régimen moderno, transparente y operacionalmente funcional, capaz de proteger
+los recursos públicos sin obstaculizar la prestación eficiente, continua y urgente de los
+servicios gubernamentales.
+1 DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+2 Artículo 1.- Título.
+3 Esta Ley se conocerá como la “Ley de Vehículos Oficiales del Gobierno de Puerto
+4 Rico”.
+5 Artículo 2.- Definiciones.
+6 Para los propósitos de esta Ley, los siguientes términos tendrán el significado que
+7 a continuación se indica:
+6
+1 (a) Bitácora. — Registro oficial, en formato físico o electrónico, utilizado para documentar
+2 y controlar el uso, recorrido, millaje, conductor y propósito oficial de los vehículos del
+3 Gobierno de Puerto Rico. La bitácora deberá incluir, como mínimo, la fecha, hora de
+4 salida y llegada, punto de origen y destino, millaje inicial y final, nombre del
+5 conductor, propósito oficial del viaje, agencia o unidad responsable, y cualquier
+6 incidencia relevante.
+7 (b) COE. — Significa el Centro de Operaciones de Emergencia del Negociado para el
+8 Manejo de Emergencias y Administración de Desastres (NMEAD), incluyendo sus
+9 activaciones parciales, regionales, interagenciales o generales, según sean ordenadas
+10 por la autoridad competente.
+11 (c) Declaración de Emergencia. — Significa la orden ejecutiva emitida por el Gobernador
+12 o la Gobernadora de Puerto Rico que declare una situación de emergencia o desastre
+13 en todo o parte del territorio de Puerto Rico.
+14 (d) Funcionario Público. — Significa aquellas personas que ocupan cargos o empleos en
+15 el Gobierno de Puerto Rico que intervienen en la formulación e implantación de la
+16 política pública. También incluirá, para fines de esta Ley, a todo servidor público que,
+17 por razón de su cargo, funciones, disponibilidad operacional o deberes oficiales, esté
+18 autorizado a utilizar, custodiar, supervisar, asignar o administrar vehículos oficiales.
+19 (e) Jefe de Agencia. — Significa la persona que ejerce la máxima autoridad administrativa
+20 de un departamento, dependencia, instrumentalidad o corporación pública del Poder
+21 Ejecutivo del Gobierno de Puerto Rico.
+7
+1 (f) Jornada Laboral. — Significa el periodo destinado a rendir labores en una agencia,
+2 que puede extenderse a más de ocho (8) horas diarias, incluyendo los fines de semana,
+3 días feriados, turnos extendidos, periodos de disponibilidad operacional, activaciones
+4 de emergencia, labores fuera del lugar regular de trabajo y cualquier otro periodo
+5 durante el cual el funcionario público, servidor público o persona autorizada esté
+6 realizando funciones oficiales o se encuentre sujeto a activación inmediata por razón
+7 de su cargo.
+8 (g) Sistema de Rastreo y Monitoreo. — Significa el sistema de Localización Automática
+9 de Vehículos (Automatic Vehicle Location) administrado por la Administración de
+10 Servicios Generales, por las corporaciones públicas o por cualquier agencia
+11 autorizada mediante sus propios sistemas o proveedores y las corporaciones públicas
+12 con sus propios proveedores, mediante el cual se monitorea en tiempo real la
+13 ubicación, recorridos, velocidad y uso de la flota vehicular del Gobierno de Puerto
+14 Rico.
+15 (h) Vehículo Oficial. — Significa el vehículo de motor asignado a los jefes de agencia o
+16 funcionarios públicos, ya sea aquellos bajo la jurisdicción de la Administración de
+17 Servicios Generales, como aquellos adquiridos por otro departamento, dependencia,
+18 instrumentalidad o corporación pública, mediante compraventa, arrendamiento,
+19 arrendamiento financiero (leasing), o cualquier otro negocio jurídicocon fondos
+20 públicos, incluyendo vehículos asignados, cedidos, transferidos, arrendados,
+21 custodiados u operados por una agencia para el cumplimiento de funciones oficiales.
+22 Artículo 3.- Prohibición General.
+8
+1 Ningún Jefe de Agencia o Funcionario Público podrá utilizar, custodiar, retener,
+2 operar o disponer de un vehículo oficial para fines personales, privados, familiares,
+3 recreativos, comerciales, partidistas, electorales o para cualquier otro propósito ajeno al
+4 servicio público, independientemente de que el vehículo se haya adquirido mediante
+5 compraventa, arrendamiento, arrendamiento financiero, donación, transferencia, cesión,
+6 asignación interagencial o cualquier otro negocio jurídico realizado total o parcialmente
+7 con fondos públicos por cualquier departamento, dependencia, instrumentalidad, o
+8 corporación pública, de la Rama Ejecutiva de Gobierno de Puerto Rico, incluyendo
+9 aquellas que se encuentran en Estados Unidos.
+10 Todo vehículo oficial deberá utilizarse exclusivamente para fines oficiales,
+11 conforme a la naturaleza del cargo, las funciones asignadas, la necesidad operacional de
+12 la agencia, las autorizaciones aplicables, la reglamentación vigente y las disposiciones de
+13 esta Ley. La utilización de un vehículo oficial fuera del horario regular de trabajo, durante
+14 fines de semana, días feriados, fuera de la sede principal de la agencia o en una instalación
+15 distinta al lugar regular de trabajo no constituirá, por sí sola, una infracción a esta Ley
+16 cuando responda a una función oficial, disponibilidad operacional, activación de
+17 emergencia, continuidad de servicios, autorización expresa de la agencia o custodia en
+18 una instalación designada conforme a esta Ley.
+19 Salvo que medie autorización legal, reglamentaria, administrativa u operacional
+20 conforme a esta Ley, todo vehículo oficial deberá ser devuelto, al concluir su uso oficial
+21 o jornada laboral aplicable, a la agencia, instalación designada, centro operacional, sede
+22 regional, cuartel, estación, almacén, base o lugar autorizado para su custodia. La
+9
+1 autorización para conservar, trasladar o custodiar un vehículo oficial fuera del lugar
+2 regular de trabajo deberá estar fundamentada en criterios de necesidad pública, costo-
+3 eficiencia, seguridad, continuidad operacional, disponibilidad inmediata o prestación de
+4 servicios esenciales y deberá documentarse mediante la bitácora correspondiente o el
+5 Sistema de Rastreo y Monitoreo.
+6 El uso de todo vehículo oficial estará sujeto al monitoreo del Sistema de Rastreo y
+7 Monitoreo de la Administración de Servicios Generales y de las corporaciones públicas
+8 o agencias que cuenten con sistemas propios o proveedores autorizados, el cual
+9 constituirá una herramienta de supervisión, auditoría, fiscalización e investigación que
+10 podrá ser utilizada como evidencia en procedimientos administrativos y judiciales sobre
+11 el uso de vehículos oficiales luego de una certificación oficial de Administración de
+12 Servicios Generales o el proveedor autorizado en caso de las corporaciones públicas o
+13 agencias concernidas.
+14 Para tales fines, la Administración de Servicios Generales, la corporación pública
+15 concernida, la agencia correspondiente o el proveedor autorizado podrá emitir
+16 certificaciones oficiales sobre la unidad vehicular, tablilla, fecha, hora, ubicación,
+17 recorrido, velocidad, millaje, usuario asignado, integridad del registro y demás
+18 información pertinente. Nada de lo dispuesto en este Artículo limitará la facultad del foro
+19 administrativo o judicial para determinar la admisibilidad, peso probatorio o suficiencia
+20 de dicha evidencia conforme al derecho aplicable.
+21 Para efectos de esta Ley, no se presumirá uso indebido únicamente por razón de
+22 que un vehículo oficial se encuentre fuera de la sede principal de la agencia, fuera del
+10
+1 horario regular de trabajo o en una instalación distinta al lugar ordinario de empleo,
+2 siempre que exista una justificación oficial documentada, autorización válida,
+3 disponibilidad operacional, activación de emergencia o relación razonable con el
+4 cumplimiento de funciones públicas. No obstante, el uso personal, no autorizado, falso,
+5 simulado o injustificado de un vehículo oficial constituirá una infracción independiente
+6 por cada día, evento o recorrido en que subsista la violación.
+7 Artículo 4.- Sistema de Monitoreo y Bitácora Vehicular.
+8 La Administración de Servicios Generales será la entidad responsable de
+9 administrar y mantener el Sistema de Rastreo y Monitoreo para la flota vehicular del
+10 Gobierno de Puerto Rico. También las corporaciones públicas con sus proveedores. Todo
+11 vehículo oficial deberá contar con un dispositivo de Rastreo y Monitoreo operacional,
+12 excepto los descritos en el Artículo 6. Dicho dispositivo deberá permanecer activo,
+13 funcional y debidamente asociado a la unidad vehicular correspondiente durante todo
+14 periodo de uso, custodia, desplazamiento, asignación o disponibilidad operacional del
+15 vehículo oficial. Ningún funcionario público, jefe de agencia, servidor público, empleado,
+16 contratista, conductor designado o persona autorizada podrá remover, apagar, alterar,
+17 manipular, bloquear, desconectar, inutilizar o interferir con el funcionamiento del
+18 dispositivo de rastreo y monitoreo, salvo por razón técnica, mantenimiento autorizado,
+19 sustitución del equipo, orden de autoridad o excepción expresamente reconocida por esta
+20 Ley o su reglamentación.
+21 Asimismo, todo Funcionario Público o Jefe de Agencia que tenga asignado un
+22 vehículo oficial deberá mantener una bitácora vehicular en la que consigne: (1) la hora de
+11
+1 salida y llegada; (2) el millaje del vehículo oficial al momento de la salida y al momento
+2 de su llegada; (3) un resumen de los viajes realizados en el día; y (4) cualquier otra
+3 incidencia pertinente sobre el recogido, uso y entrega del vehículo. La obligación de
+4 mantener bitácora aplicará igualmente a toda persona autorizada que conduzca,
+5 custodie, utilice o tenga bajo su control un vehículo oficial, independientemente de que
+6 el vehículo esté asignado permanentemente, temporalmente, por turno, por misión, por
+7 emergencia o por necesidad operacional.
+8 La bitácora podrá mantenerse en formato físico, electrónico o mediante cualquier
+9 plataforma digital aprobada por la Administración de Servicios Generales, la agencia
+10 concernida o la corporación pública correspondiente.
+11 Cuando el vehículo oficial esté integrado al Sistema de Rastreo y Monitoreo, la
+12 información generada por dicho sistema podrá complementar, validar o sustituir
+13 parcialmente la bitácora vehicular, conforme disponga la reglamentación aplicable. No
+14 obstante, la existencia del Sistema de Rastreo y Monitoreo no eximirá automáticamente a
+15 la persona autorizada de documentar el propósito oficial del uso, la autorización
+16 correspondiente, las incidencias relevantes o cualquier información que el sistema
+17 tecnológico no capture adecuadamente.
+18 Los registros del Sistema de Rastreo y Monitoreo serán conservados por la
+19 Administración de Servicios Generales, de igual manera las corporaciones públicas y
+20 estarán disponibles para la inspección de la Oficina de Ética Gubernamental, el Contralor
+21 de Puerto Rico, o cualquier autoridad que los requiera en el ejercicio de sus funciones
+22 fiscalizadoras. Dichos registros deberán conservarse por un término no menor de cinco
+12
+1 (5) años, salvo que exista una investigación, auditoría, procedimiento administrativo,
+2 procedimiento judicial, reclamación, querella, referido o controversia pendiente
+3 relacionada con el uso del vehículo oficial, en cuyo caso deberán conservarse hasta que
+4 el asunto advenga final y firme.
+5 La Administración de Servicios Generales adoptará, mediante reglamento, carta
+6 circular, orden administrativa o guía uniforme, los parámetros mínimos de operación,
+7 mantenimiento, integración, retención, acceso, certificación, auditoría y seguridad del
+8 Sistema de Rastreo y Monitoreo.
+9 La información generada por el Sistema de Rastreo y Monitoreo y por la bitácora
+10 vehicular será utilizada exclusivamente para fines oficiales de administración,
+11 supervisión, mantenimiento, seguridad, auditoría, fiscalización, investigación,
+12 cumplimiento legal y protección de la propiedad pública. El acceso a dicha información
+13 deberá limitarse al personal autorizado y a las autoridades competentes, sin perjuicio de
+14 las normas aplicables sobre confidencialidad, seguridad pública, investigaciones en
+15 curso, datos sensibles, infraestructura crítica y documentos públicos.
+16 El incumplimiento con la obligación de mantener el dispositivo de rastreo
+17 operacional, completar la bitácora, conservar los registros, producir la información
+18 requerida o permitir la fiscalización correspondiente constituirá una infracción a esta Ley,
+19 sin perjuicio de cualquier otra responsabilidad administrativa, ética, civil o penal que
+20 proceda conforme al ordenamiento jurídico aplicable.
+21 Artículo 5.- Normas de Uso de Vehículos Oficiales.
+13
+1 (a) Al concluir la jornada laboral, todo funcionario o empleado público entregará el
+2 vehículo oficial a la agencia correspondiente, salvo que exista autorización
+3 institucional escrita que disponga lo contrario. Dicha entrega podrá realizarse en la
+4 sede principal, instalación designada, centro operacional, sede regional, cuartel,
+5 estación, almacén, base o cualquier otro lugar autorizado por la agencia para la
+6 custodia del vehículo oficial.
+7 (b) La autorización institucional escrita deberá identificar, como mínimo, el vehículo
+8 oficial, la persona autorizada, el fundamento operacional de la autorización, el lugar
+9 autorizado para la entrega o custodia, la duración de la autorización y la unidad
+10 administrativa responsable de supervisar su cumplimiento. En casos de emergencia,
+11 activación operacional, respuesta inmediata o circunstancias extraordinarias que
+12 impidan obtener autorización previa por escrito, la autorización podrá documentarse
+13 posteriormente dentro de un término razonable, que no excederá de cuarenta y ocho
+14 (48) horas, salvo justa causa debidamente documentada.
+15 (c) Se prohíbe el uso de vehículos oficiales para asuntos personales, dentro o fuera de la
+16 jornada regular de trabajo.
+17 (d) Para efectos de esta Ley, no constituirá uso personal:
+18 1. El traslado entre instalaciones oficiales de la misma agencia o corporación
+19 pública o entre instalaciones de distintas agencias, cuando el traslado esté
+20 relacionado con funciones oficiales, coordinación interagencial, reuniones,
+21 inspecciones, supervisión, respuesta operacional o continuidad de servicios.
+14
+1 2. El transporte requerido por la naturaleza del puesto cuando el funcionario
+2 tenga disponibilidad permanente o funciones ejecutivas continuas,
+3 disponibilidad operacional, deberes de respuesta inmediata, responsabilidades
+4 de supervisión regional, atención de emergencias, manejo de infraestructura
+5 crítica o funciones que razonablemente requieran movilidad fuera del horario
+6 regular de trabajo.
+7 3. El uso autorizado por el jefe de agencia mediante determinación escrita
+8 fundamentada o por el funcionario delegado conforme a reglamento, orden
+9 administrativa, carta circular o norma interna aplicable, siempre que la
+10 autorización responda a una necesidad pública, operacional, fiscalizable y
+11 documentada.
+12 4. El traslado relacionado a inspecciones, supervisión operacional, coordinación
+13 interagencial o gestión administrativa oficial, incluyendo visitas de campo,
+14 reuniones oficiales, actividades de respuesta, manejo de incidentes,
+15 continuidad de operaciones, auditorías, entrega de documentos o equipo,
+16 apoyo logístico, protección de instalaciones públicas o cualquier gestión
+17 directamente vinculada al servicio público.
+18 5. El traslado hacia o desde una instalación designada, sede regional, centro
+19 operacional, cuartel, estación, almacén, base o lugar autorizado para la entrega,
+20 custodia, despacho o disponibilidad del vehículo oficial.
+21 6. La custodia temporal de un vehículo oficial fuera de la sede principal cuando
+22 esté autorizada por razón de disponibilidad operacional, emergencia,
+15
+1 seguridad del vehículo, costo-eficiencia, continuidad de servicios, distancia
+2 razonable al área de operación o necesidad de respuesta inmediata.
+3 7. El desplazamiento incidental razonablemente necesario para alimentos,
+4 descanso, relevo, abastecimiento de combustible, mantenimiento, reparación,
+5 lavado, inspección mecánica, estacionamiento seguro o cualquier gestión
+6 accesoria indispensable para completar una misión oficial o preservar el
+7 vehículo oficial.
+8 (e) Se considerará uso personal únicamente cuando:
+9 1. El vehículo se utilice para actividades privadas ajenas a funciones oficiales;
+10 2. No exista relación razonable con funciones institucionales;
+11 3. No exista autorización válida, necesidad operacional, activación de
+12 emergencia, disponibilidad funcional o justificación oficial documentada;
+13 4. El vehículo se utilice para beneficiar directa o indirectamente a una persona,
+14 negocio, entidad privada, actividad partidista, campaña política, evento social
+15 o gestión particular ajena al servicio público;
+16 5. El funcionario, empleado o persona autorizada falsee, omita, altere o simule
+17 información en la bitácora, en el Sistema de Rastreo y Monitoreo o en cualquier
+18 certificación, informe, autorización o documento relacionado con el uso del
+19 vehículo oficial;
+20 6. El recorrido, destino, horario, pasajero, parada o patrón de uso no guarde
+21 relación razonable con el propósito oficial invocado y no exista explicación
+22 documentada que lo justifique; o
+16
+1 7. La persona autorizada utilice el vehículo oficial en exceso del alcance,
+2 duración, ruta, propósito o condiciones establecidas en la autorización
+3 correspondiente.
+4 (f) La mera apariencia, inferencia o presunción no será suficiente para establecer una
+5 violación a esta Ley en ausencia de prueba concreta. La determinación de uso personal
+6 o indebido deberá estar sustentada en evidencia, incluyendo, según aplique,
+7 bitácoras, registros del Sistema de Rastreo y Monitoreo, certificaciones oficiales,
+8 testimonios, documentos, autorizaciones, informes de auditoría, patrones de uso o
+9 cualquier otra prueba admisible conforme al derecho aplicable. Nada de lo dispuesto
+10 en este inciso impedirá que una autoridad competente investigue posibles
+11 irregularidades cuando existan indicios razonables de uso indebido. Sin embargo,
+12 ninguna sanción podrá basarse exclusivamente en apariencia de impropiedad o en el
+13 mero hecho de que el vehículo oficial se encuentre fuera de la sede principal, fuera
+14 del horario regular de trabajo o en una instalación distinta al lugar ordinario de
+15 empleo.
+16 (g) Toda agencia deberá mantener bitácoras de uso que incluyan:
+17 1. Hora de salida y llegada;
+18 2. Millaje inicial y final;
+19 3. Resumen del propósito oficial del viaje;
+20 4. Firma del funcionario responsable.
+21 Artículo 6.- Excepciones.
+22 Los siguientes funcionarios públicos estarán excluidos de la aplicación de esta Ley:
+17
+1 a. Gobernador (a) de Puerto Rico.
+2 b. Secretario (a) de Estado.
+3 c. Secretario (a) de Justicia.
+4 d. Secretario (a) del Departamento de Corrección y Rehabilitación.
+5 e. Secretario (a) del Departamento de Seguridad Pública.
+6 f. Comisionado (a) del Negociado de Bomberos de Puerto Rico.
+7 g. Comisionados auxiliares, comandantes de zona, jefes de distrito y el director de
+8 transportación del Negociado del Cuerpo de Bomberos de Puerto Rico.
+9 h. Comisionado (a) del Negociado del Cuerpo de Emergencias Médicas.
+10 i. Director de Operaciones, Director de Administración (en funciones de Sub-
+11 Comisionado), supervisores de zona, supervisores de apoyo operacional,
+12 unidades de respuesta rápida (asignadas por el Comisionado), y Director (a) de
+13 Transportación del Negociado del Cuerpo de Emergencias Médicas de Puerto
+14 Rico.
+15 j. Comisionado(a) del Negociado de Manejo de Emergencias y Administración de
+16 Desastres.
+17 k. Los directores de zona y los coordinadores de búsqueda y rescate del Negociado
+18 para el Manejo de Emergencias y Administración de Desastres.
+19 l. Comisionado (a) del Negociado del Sistema de Emergencia 9-1-1.
+20 m. Comisionado (a) del Negociado de Investigaciones Especiales.
+21 n. Agentes encubiertos del Negociado de Investigaciones Especiales.
+22 o. Superintendente de la Policía de Puerto Rico.
+18
+1 p. Agentes encubiertos, comandantes de zona, de área y comandantes auxiliares,
+2 directores de las divisiones de homicidios, inteligencia criminal y de drogas,
+3 directores de los cuerpos de investigaciones criminales, comandantes de distrito,
+4 superintendente auxiliar de operaciones de campo y su auxiliar y los directores de
+5 las divisiones de violencia doméstica de la Policía de Puerto Rico.
+6 q. Comisionado (a) del Cuerpo de Vigilantes del Departamento de Recursos
+7 Naturales y Ambientales, comandantes regionales, supervisores operacionales,
+8 oficiales de respuesta e investigación ambiental.
+9 r. Jefe (a) de Fiscales y aquellos fiscales o funcionarios del Departamento de Justicia
+10 que, por razón de investigaciones criminales, comparecencias judiciales urgentes,
+11 coordinación interagencial, seguridad personal o disponibilidad operacional, sean
+12 designados mediante certificación escrita fundamentada por el Secretario de
+13 Justicia.
+14 s. Ayudante General de la Guardia Nacional de los Estados Unidos.
+15 t. Cualquier otro funcionario, empleado o personal especializado que sea designado
+16 mediante reglamento, orden administrativa, carta circular o certificación escrita
+17 fundamentada de la agencia concernida, previa autorización de la Administración
+18 de Servicios Generales, cuando la naturaleza del cargo requiera disponibilidad
+19 operacional continua, respuesta inmediata, protección de vida o propiedad,
+20 seguridad pública, manejo de infraestructura crítica, continuidad gubernamental
+21 o prestación de servicios esenciales. Dicha designación deberá identificar el cargo,
+19
+1 la unidad administrativa, la justificación operacional, el alcance de la autorización,
+2 la duración de la excepción y los controles de monitoreo y fiscalización aplicables.
+3 Artículo 7.- Excepción por Activación del Centro de Operaciones de Emergencia o
+4 Declaración de Emergencia.
+5 Cuando el Gobernador (a) emita una Declaración de Emergencia mediante orden
+6 ejecutiva, o cuando el Director (a) del Negociado de Manejo de Emergencias y
+7 Administración de Desastres active formalmente el COE, los Secretarios y Jefes de
+8 Agencia podrán, mediante reglamento o autorización escrita, permitir el uso de vehículos
+9 oficiales fuera de la jornada regular de trabajo al personal de sus respectivas agencias que
+10 tenga la responsabilidad de responder operacionalmente bajo dicha activación del COE.
+11 La autorización dispuesta en este Artículo deberá responder a una necesidad
+12 pública concreta relacionada con la protección de la vida, la salud, la seguridad, la
+13 propiedad, la infraestructura crítica, la continuidad gubernamental, la prestación de
+14 servicios esenciales, la coordinación interagencial o la respuesta operacional ante la
+15 emergencia.
+16 Dicha autorización:
+17 1) Será de carácter temporal y durará únicamente durante el período de activación
+18 del COE o la vigencia de la Declaración de Emergencia, según corresponda, salvo
+19 que la autoridad competente determine por escrito que subsiste una necesidad
+20 operacional relacionada con la fase de respuesta, recuperación, estabilización,
+21 continuidad de servicios o cierre operacional de la emergencia.
+20
+1 2) Deberá especificar los funcionarios o empleados autorizados, el vehículo o
+2 vehículos asignados, y las funciones que justifican la excepción, incluyendo, como
+3 mínimo, la agencia o unidad responsable, el fundamento operacional, el área
+4 geográfica o funcional de respuesta, la duración estimada de la autorización, el
+5 supervisor responsable y las condiciones de uso, custodia y entrega del vehículo
+6 oficial.
+7 3) Se notificará a la Administración de Servicios Generales dentro de cinco (5) días
+8 laborables de emitida o, cuando la urgencia de la emergencia no lo permita, dentro
+9 de cinco (5) días laborables posteriores a que las condiciones operacionales
+10 permitan razonablemente dicha notificación. En el caso de corporaciones públicas
+11 o agencias con flotas administradas mediante sistemas o proveedores propios, la
+12 notificación se realizará también a la unidad interna responsable de la flota
+13 vehicular.
+14 4) El uso de los vehículos autorizados bajo esta excepción seguirá siendo
+15 monitoreado por el Sistema de Rastreo y Monitoreo y quedará sujeto a las
+16 disposiciones de bitácora de esta Ley, salvo aquellas limitaciones estrictamente
+17 necesarias por razones de seguridad pública, investigaciones confidenciales,
+18 operaciones encubiertas, protección de infraestructura crítica, fallas tecnológicas,
+19 interrupción de comunicaciones o circunstancias extraordinarias propias de la
+20 emergencia, las cuales deberán documentarse tan pronto sea razonablemente
+21 posible.
+21
+1 5) En ningún caso la excepción autorizará el uso del vehículo oficial para asuntos
+2 personales ajenos a la emergencia declarada, a la activación del COE, a la misión
+3 asignada o a la necesidad operacional que justificó la autorización.
+4 6) Toda autorización emitida bajo este Artículo deberá ser revisada periódicamente
+5 por la agencia concernida mientras subsista la emergencia o activación, a los fines
+6 de confirmar que la necesidad operacional continúa vigente y que el uso del
+7 vehículo oficial permanece relacionado con funciones públicas.
+8 7) Una vez cese la activación del COE, expire la Declaración de Emergencia o
+9 concluya la necesidad operacional que justificó la excepción, la agencia deberá
+10 cancelar la autorización, requerir la devolución del vehículo oficial a la instalación
+11 correspondiente y conservar la documentación justificativa, incluyendo bitácoras,
+12 registros del Sistema de Rastreo y Monitoreo, certificaciones, memorandos,
+13 autorizaciones y cualquier otro documento pertinente.
+14 Artículo 8.- Sanciones
+15 Cualquier Jefe de Agencia o Funcionario Público que incumpla con las disposiciones
+16 de esta Ley estará sujeto a sanciones según los reglamentos institucionales de las
+17 agencias, corporaciones públicas y Administración de Servicios Generales. Nada de lo
+18 dispuesto en este artículo limitará las facultades de la Oficina de Ética Gubernamental, el
+19 Contralor de Puerto Rico u otras entidades fiscalizadoras de investigar, sancionar o
+20 señalar las conductas que constituyan violaciones a sus respectivas leyes habilitadoras.
+21 Constituirán infracciones a esta Ley, entre otras, las siguientes conductas:
+22
+1 (a) Utilizar un vehículo oficial para fines personales, privados, familiares,
+2 recreativos, comerciales, partidistas, electorales o ajenos al servicio público;
+3 (b) Retener, custodiar, trasladar o utilizar un vehículo oficial fuera de los términos
+4 autorizados por esta Ley, su reglamentación, la agencia concernida o la autorización
+5 aplicable;
+6 (c) Falsear, omitir, alterar o simular información en la bitácora vehicular,
+7 autorización, informe, certificación, registro electrónico o cualquier otro documento
+8 relacionado con el uso del vehículo oficial;
+9 (d) Remover, apagar, alterar, manipular, bloquear, desconectar, inutilizar o
+10 interferir con el Sistema de Rastreo y Monitoreo, salvo por razón técnica, mantenimiento
+11 autorizado, sustitución del equipo, orden de autoridad competente o excepción
+12 expresamente reconocida por esta Ley o su reglamentación;
+13 (e) Negarse injustificadamente a producir bitácoras, registros, certificaciones,
+14 informes o datos del Sistema de Rastreo y Monitoreo requeridos por una autoridad
+15 competente;
+16 (f) Autorizar el uso, custodia, retención o asignación de un vehículo oficial sin
+17 fundamento oficial, necesidad operacional, autorización válida o documentación
+18 suficiente;
+19 (g) Permitir, tolerar o encubrir el uso personal o indebido de un vehículo oficial
+20 por parte de otra persona; y
+21 (h) Incumplir con la devolución, custodia, documentación, conservación de
+22 récords, notificación, monitoreo o fiscalización requerida por esta Ley.
+23
+1 La multa administrativa por violación a esta Ley no será menor de mil dólares
+2 ($1,000) ni mayor de cinco mil dólares ($5,000) por cada infracción, y será satisfecha por
+3 la persona infractora de su propio peculio cuando se determine que incurrió en uso
+4 personal, falso, simulado, no autorizado o injustificado de un vehículo oficial. Para
+5 efectos de este Artículo, cada día, evento, autorización irregular, recorrido indebido,
+6 falsificación, omisión material o acto de interferencia con el Sistema de Rastreo y
+7 Monitoreo podrá constituir una infracción independiente.
+8 La imposición de sanciones bajo este Artículo deberá considerar la naturaleza de
+9 la infracción, la intencionalidad de la conducta, la existencia de autorización o
+10 justificación oficial, el monto de fondos públicos involucrado, la frecuencia o patrón de
+11 uso indebido, la cooperación de la persona investigada, el daño ocasionado a la
+12 propiedad pública, la interferencia con los mecanismos de fiscalización y cualquier
+13 circunstancia agravante o atenuante pertinente.
+14 Artículo 9.- Reglamentación.
+15 Se conceden sesenta (60) días naturales al Administrador de Servicios Generales
+16 para atemperar o promulgar la reglamentación, orden administrativa, carta circular o
+17 boletín informativo que estime pertinente, a fin de asegurar el fiel cumplimiento de las
+18 disposiciones de esta Ley, incluyendo las normas para el funcionamiento e integración
+19 del Sistema de Rastreo y Monitoreo en todas las agencias del Poder Ejecutivo, una vez
+20 entre en vigor.
+21 Dentro de dicho término, la Administración de Servicios Generales deberá
+22 establecer, como mínimo, normas uniformes sobre:
+24
+1 (a) La instalación, operación, mantenimiento, sustitución y certificación de los
+2 dispositivos del Sistema de Rastreo y Monitoreo;
+3 (b) La integración de datos entre la Administración de Servicios Generales, las
+4 agencias y las corporaciones públicas que administren flotas vehiculares mediante
+5 sistemas o proveedores propios;
+6 (c) El contenido mínimo, formato, conservación y uso de las bitácoras vehiculares
+7 físicas o electrónicas;
+8 (d) Los términos de conservación de registros, informes, certificaciones, bitácoras
+9 y datos generados por el Sistema de Rastreo y Monitoreo;
+10 (e) Los criterios para autorizar el uso, custodia, retención o entrega de vehículos
+11 oficiales fuera de la sede principal, fuera del horario regular de trabajo o en instalaciones
+12 designadas;
+13 (f) Los procedimientos de auditoría, inspección, certificación, acceso y producción
+14 de información a las autoridades fiscalizadoras competentes;
+15 (g) Las medidas de seguridad, confidencialidad, integridad, trazabilidad y control
+16 de acceso a la información generada por el Sistema de Rastreo y Monitoreo;
+17 (h) Las excepciones operacionales necesarias por razón de seguridad pública,
+18 investigaciones encubiertas, protección de infraestructura crítica, emergencias, fallas
+19 tecnológicas o continuidad de servicios esenciales; y
+20 (i) El procedimiento administrativo aplicable para atender incumplimientos,
+21 imponer medidas correctivas y referir posibles violaciones a las autoridades competentes.
+25
+1 Las corporaciones públicas y agencias que administren flotas vehiculares
+2 mediante sistemas, reglamentos, órdenes administrativas o proveedores propios deberán
+3 atemperar sus normas internas a las disposiciones de esta Ley y a los parámetros mínimos
+4 establecidos por la Administración de Servicios Generales, salvo que una ley especial, la
+5 naturaleza de sus funciones, la seguridad pública, la protección de infraestructura crítica,
+6 las investigaciones confidenciales o la continuidad operacional requieran normas más
+7 específicas o controles adicionales.
+8 Hasta tanto se apruebe o atempere la reglamentación correspondiente,
+9 continuarán vigentes las normas, órdenes administrativas, cartas circulares, reglamentos
+10 internos y procedimientos existentes sobre vehículos oficiales, en todo aquello que no sea
+11 incompatible con esta Ley.
+12 Artículo 10.- Cláusula de Supremacía.
+13 Las disposiciones de esta Ley prevalecerán sobre cualquier otra disposición de ley
+14 que no esté en armonía con lo aquí establecido.
+15 Artículo 11.- Separabilidad.
+16 Si cualquier palabra, frase, oración, párrafo, artículo o parte de esta Ley fuere
+17 declarado inconstitucional por un tribunal competente, la sentencia a tal efecto dictada
+18 no afectará, perjudicará ni invalidará el resto de esta Ley. El efecto de dicha sentencia
+19 quedará limitado a la palabra, frase, oración, párrafo, artículo o parte que así hubiere sido
+20 declarado inconstitucional.
+21 Artículo 12.- Derogación.
+26
+1 Se deroga la Ley 60-2014, según enmendada, conocida como la “Ley Uniforme de
+2 Vehículos Oficiales del Gobierno de Puerto Rico”.
+3 Artículo 13.- Vigencia.
+4 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+5
+[DELETED:                     M a p l A d S G y p e d a s e u d o p f p d n e q L 6 c c l “ U d V O d a f p y e q l p d E s c e u]
+[DELETED:  o m d u d d d s a l e l a t y l j r d T m b E e a c e s m n o r d c d f y p a m d l f v g n p d r y m q p f c m p y l v o E c t t e a H e y e u i p f p P e e m j d d u l m f h u s d f r l t s j p l c j a E , 2 T 1 e d É G v E D A S d P R e u c r c l c p e e P E d l A d]
+[DELETED:  c s o d p m p c r y c A d A y A n p s c c u p p A r q l n d c e f d h r a d e y p e u p a d e d v d d i d l p P e c e q e p p s f c m E o d p y s e u p a o d v o p n d c e u i c a r d a g c o m d e c c p e d d m q l d T S e , s l O d É v D A]
+[DELETED:  p C u e g i i l i s s a y c n p s l f d E c a l A L i l n d l a q p s c a l s s i c y c g d u v o n c u p p s u s r d r a e c r s d l c o m l c d s e d z c d b y r p d m d f d r o y o s p c a n p q s a u e l q t t v f d h r c s f p m m l a d C d O d E l q j a t e a y u d v]
+[DELETED:  d L n a e u p d v o n r l l f a e c t d v u a e s a y c]
+[DELETED: )B y l p d o y d m i y f n d p o d v a o u r y c)C)D)F)J]
+[DELETED: )J)S V () a p l A d A V L G p l c p o p c a s p p m e c s m e t r l)V o c p m c a f ( o c o n j f i v a c t a]
+[DELETED:  o d d u v o p f p p f f p  p c d d i o p d l R E d G d P R i v o d u e p f o r a u f o d o a d c e a b o l a p s c L]
+[DELETED:  a q c c s p o p a e c u d v o l d u c o d A d l a c o e p a p e o s l u v t f h u v m u a i d r y d]
+[DELETED:  q e u j o d a v o a d e o r r c e A d S G s l e r d l d e e A 6 D d d p a  b d i o i c e f d]
+[DELETED:  s l ( u r d l v r e e d ( c o p e u y e d L d b a i a t p a q c g p d s p c v o s p a d d e p o d u l a l i r o c i q e s r d S d R y M s c p l]
+[DELETED:  j r q r o c p s u e p f o d a m s a f i n a s c s p i e i c l o d m e d d r c l b c l r p l i]
+[DELETED: )A c l j l t f o e p e e o a l a c s q e a p i d c o s r c a b o c o l a p l a p l)L a i e d i c m e v o r i o c e q)S)P.E t e i o d l m a o c o e i d d a c e t e c f o c i r]
+[DELETED: .E d p o f e c.E u a p e j d a m d e c c o n i a s q l r a u n p o f y.E o g a o i v d c o a d r m d i d o a e d d o e l p d i p o c g.E t h o d u i d s r c.L a p r d d o e]
+[DELETED:  d v c c d s d.E d i r n p a i m e s o c g i p c u m o o p e)S.E.N.N e a v n o a d.E.E.E r d h p p o p d u n g]
+[DELETED: .L p a u e v o e e d a r p o c e e l a)L i d e s e e i s a r d S d R y M c o e i i q u a c i p h r d t o e u i d a l o d)T.H.M.R.F]
+[DELETED: .G.S.S.S.S.C.C.C.D d O D d A ( f d S s d z s d a o d N d C d E M d P.C.L.C.C.A.S]
+[DELETED: .A d l d d h i c y d d.C ( d C d V d D d R y A c r s o.J m c e f p e S d.A t c r i p d v o p]
+[DELETED:   o c e D ( d N d M d E y d D a f e C l S y J d a d e e A d r a u n c r c l p d l v l s l s l l i c l c g l p d e l c i o l r o a l)S r c l f d r r e]
+[DELETED: )D e l f o e a e v o l a o u r e f o e á)S c ( d l p a q l c o s r t a l u i r d l f)E u d l v a b e e s s p e S d R y M y q s a l p r d s p i c d c o c e p d l l c d d t p s r]
+[DELETED: )E)T c q l n o c v y q e u d)U v c l a d C e l D d E o d S d R y M c m e L e s a s s l r i d l d P R u o e f d i s o]
+[DELETED:  U u v o p f p p f p e s r l a c o l a F o a o s i e l b v i c r e o c o d R a a m b d i o s d e o d a c o e N i a p b r c o d d S d R y M r p u a o n o a v o d I c l d c d c d]
+[DELETED:  p i d s p p c s d q i e u f s n a o i d u v o P d e A c d e a i r i o m o a d i c e S d R y i l i d l c l e d a o i l c d l p i e d o a l p l i c l m d f y c d d t l A d S G d]
+[DELETED:  L i o m s y c d l y l c p q a f v m L e o n p r d s p e p d i c e f E p a a p a i]
+[DELETED:  c p y a q a f v t s a o a l r c c p f o p a o p d e L f-D]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1247
+11 de mayo de 2026
+Presentado por el señor Toledo López
+Referido a
+LEY
+Para crear la “Ley de Vehículos Oficiales del Gobierno de Puerto Rico”, la cual incorpora
+mecanismos modernos de supervisión telemétrica mediante el Sistema de Rastreo
+y Monitoreo administrado por la Administración de Servicios Generales y
+corporaciones públicas; establecer disposiciones actualizadas sobre el uso de
+vehículos oficiales por funcionarios públicos; definir nuevas excepciones que
+reflejan la realidad operacional de las agencias de seguridad pública y manejo de
+emergencias; derogar la Ley 60-2014, según enmendada, conocida como la “Ley
+Uniforme de Vehículos Oficiales del Gobierno de Puerto Rico”; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 60-2014, conocida como la “Ley Uniforme de Vehículos Oficiales del
+Gobierno de Puerto Rico”, fue aprobada en un contexto de estrechez fiscal y con un
+propósito legítimo de promover la prudencia gubernamental, limitar el uso de vehículos
+oficiales a fines públicos y evitar que la propiedad del Estado se convirtiera en un
+beneficio personal para determinados funcionarios. Esa política pública debe conservar
+plena vigencia. El uso de vehículos oficiales debe responder siempre a una necesidad
+
+2
+pública real, debe estar sujeto a controles efectivos y debe poder ser fiscalizado con rigor
+por las entidades competentes.
+No obstante, más de una década después de su aprobación, la experiencia
+administrativa, los adelantos tecnológicos y la jurisprudencia reciente del Tribunal
+Supremo de Puerto Rico han demostrado que el marco vigente requiere una revisión
+integral. La Ley 60-2014 fue concebida sobre un modelo de control predominantemente
+formal, centrado en la jornada laboral, la entrega física del vehículo y la documentación
+manual mediante bitácora. Ese esquema, aunque comprensible en su momento, no
+atiende adecuadamente las realidades operacionales contemporáneas del Gobierno de
+Puerto Rico, particularmente en agencias que prestan servicios esenciales, responden a
+emergencias o requieren disponibilidad continua de funcionarios y personal
+especializado.
+La administración moderna de la flota vehicular gubernamental no puede
+depender exclusivamente de presunciones rígidas asociadas a la hora o lugar de entrega
+del vehículo. La Administración de Servicios Generales ha incorporado herramientas
+tecnológicas de rastreo y monitoreo que permiten fiscalizar, con mayor precisión y
+transparencia, la ubicación, velocidad, recorrido, tiempo de uso y patrones operacionales
+de los vehículos oficiales. Esta capacidad tecnológica transforma el análisis. Hoy es
+posible distinguir con mayor objetividad entre el uso oficial, el uso operacionalmente
+justificado y el uso indebido para fines personales. Por ello, el marco jurídico debe
+desplazarse de una lógica meramente formalista hacia un sistema de fiscalización
+sustantiva, basado en trazabilidad, evidencia verificable, controles tecnológicos, bitácoras
+confiables, responsabilidad individual y auditoría administrativa.
+La revisión legislativa también se justifica por las consecuencias jurídicas
+producidas por la interacción entre la Ley 60-2014, la Ley 1-2012, conocida como la Ley
+Orgánica de la Oficina de Ética Gubernamental y las órdenes administrativas internas de
+las agencias. En Oficina de Ética Gubernamental v. Elí Díaz Atienza, 2025 TSPR 128, el
+Tribunal Supremo de Puerto Rico examinó una controversia relacionada con la
+autorización concedida por el entonces Presidente Ejecutivo de la Autoridad de
+
+3
+Acueductos y Alcantarillados para que el Vicepresidente Ejecutivo de dicha corporación
+pública entregara un vehículo oficial en una instalación de la propia agencia distinta a la
+sede central. El Tribunal Supremo resolvió que la Oficina de Ética Gubernamental no
+cumplió con su obligación de probar, mediante prueba clara, robusta y convincente,
+todos los elementos de la infracción imputada bajo el Artículo 4.2(b) de la Ley 1-2012.
+En particular, el Tribunal Supremo determinó que el Vicepresidente Ejecutivo de
+la Autoridad de Acueductos y Alcantarillados no podía ser catalogado como una
+“persona privada” para efectos de la Ley de Ética Gubernamental, toda vez que se trataba
+de un servidor público de alta jerarquía que intervenía en la formulación e implantación
+de política pública. Asimismo, reconoció que la naturaleza del cargo exigía
+disponibilidad fuera del horario regular, atención de emergencias y participación en
+funciones operacionales críticas. Bajo ese marco, el Alto Foro concluyó que la autorización
+de un punto alterno de entrega del vehículo, dentro de instalaciones de la propia
+corporación pública, no constituía automáticamente un beneficio personal indebido ni
+una infracción ética.
+Dicha decisión no debilita la política pública contra el uso indebido de vehículos
+oficiales. Por el contrario, exige que esa política pública sea formulada con mayor
+precisión. El ordenamiento debe prohibir y sancionar el uso personal, arbitrario o
+injustificado de vehículos oficiales, pero no debe confundir ese uso indebido con
+decisiones administrativas razonables dirigidas a garantizar continuidad operacional,
+respuesta inmediata, eficiencia institucional o cumplimiento de funciones públicas. Una
+ley moderna debe establecer criterios claros para esa distinción, de manera que las
+agencias puedan operar con flexibilidad cuando el interés público lo requiera, sin crear
+espacios de impunidad ni beneficios personales disfrazados de necesidad oficial.
+La necesidad de claridad legislativa se acentúa ante el impacto institucional que
+ha tenido la referida jurisprudencia. Según ha trascendido públicamente, luego de la
+decisión del Tribunal Supremo en OEG v. Díaz Atienza, supra, la Oficina de Ética
+Gubernamental cerró múltiples casos en los que se imputaban beneficios indebidos a
+“personas privadas”. Ese resultado evidencia una tensión normativa más amplia entre la
+
+4
+legislación sobre vehículos oficiales, la legislación ética y la administración cotidiana de
+recursos públicos. Cuando un estatuto genera interpretaciones incompatibles, litigios
+prolongados, incertidumbre sobre su alcance y consecuencias no previstas sobre la
+capacidad fiscalizadora del Estado, corresponde a la Asamblea Legislativa intervenir
+para precisar la norma.
+Asimismo, la experiencia práctica ha demostrado que la Ley 60-2014 no contempla
+adecuadamente las necesidades de las agencias que prestan servicios críticos a la
+ciudadanía. El Departamento de Seguridad Pública, sus negociados, el Negociado para
+el Manejo de Emergencias y Administración de Desastres, los organismos de respuesta,
+coordinación, seguridad, salud, infraestructura crítica y continuidad gubernamental
+requieren un régimen que reconozca la realidad operacional de funcionarios y empleados
+que pueden ser activados en cualquier momento. En tales escenarios, la disponibilidad
+inmediata de un vehículo oficial no constituye un privilegio personal, sino una
+herramienta indispensable para ejecutar una función pública urgente.
+Particular atención merecen los funcionarios y empleados que, por la naturaleza
+de sus responsabilidades, deben responder a emergencias, coordinar recursos
+interagenciales, movilizarse a zonas afectadas, atender situaciones que amenazan la vida
+o seguridad de la ciudadanía, o mantener la continuidad de servicios esenciales.
+Directores de zona, coordinadores de búsqueda y rescate, personal de manejo de
+emergencias, funcionarios de respuesta operacional y otros servidores públicos con
+deberes análogos no pueden quedar sujetos a un esquema legal que trate toda
+disponibilidad vehicular fuera de horario regular como si fuera presumiblemente
+irregular. La ley debe permitir excepciones controladas, documentadas y fiscalizables,
+sujetas a criterios objetivos y a la supervisión de la autoridad competente.
+Del mismo modo, la activación del Centro de Operaciones de Emergencia, la
+emisión de una declaración de emergencia por parte del Gobernador mediante orden
+ejecutiva, o cualquier activación oficial de respuesta interagencial, crea circunstancias
+extraordinarias que justifican ampliar temporalmente el acceso y uso de vehículos
+oficiales para las agencias concernidas. En esos contextos, la rigidez normativa puede
+
+5
+convertirse en un obstáculo para la respuesta gubernamental. La ley debe proveer un
+mecanismo claro para activar excepciones temporales, definir su alcance, documentar su
+necesidad, limitar su duración y garantizar que todo uso permanezca vinculado a la
+emergencia o función pública que lo justifica.
+Por tanto, esta Asamblea Legislativa entiende necesario derogar y sustituir la Ley
+60-2014 por un nuevo marco legal que mantenga intactos los principios de austeridad,
+transparencia, responsabilidad fiscal y uso exclusivo de la propiedad pública para fines
+públicos, pero que a la vez incorpore herramientas modernas de monitoreo, reconozca la
+diversidad operacional de las agencias, clarifique las excepciones aplicables, armonice la
+normativa con la Ley de Ética Gubernamental y evite interpretaciones que penalicen
+decisiones administrativas razonables adoptadas en beneficio del servicio público.
+Esta Ley no autoriza el uso personal de vehículos oficiales ni reduce la
+responsabilidad de los servidores públicos sobre la propiedad del Estado. Al contrario,
+fortalece la fiscalización al exigir controles tecnológicos, documentación verificable,
+criterios uniformes, autorización expresa, supervisión administrativa y consecuencias
+claras por incumplimiento. Su propósito es reemplazar un modelo rígido e insuficiente
+por un régimen moderno, transparente y operacionalmente funcional, capaz de proteger
+los recursos públicos sin obstaculizar la prestación eficiente, continua y urgente de los
+servicios gubernamentales.
+1 DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+2 Artículo 1.- Título.
+3 Esta Ley se conocerá como la “Ley de Vehículos Oficiales del Gobierno de Puerto
+4 Rico”.
+5 Artículo 2.- Definiciones.
+6 Para los propósitos de esta Ley, los siguientes términos tendrán el significado que
+7 a continuación se indica:
+
+6
+1 (a) Bitácora. — Registro oficial, en formato físico o electrónico, utilizado para documentar
+2 y controlar el uso, recorrido, millaje, conductor y propósito oficial de los vehículos del
+3 Gobierno de Puerto Rico. La bitácora deberá incluir, como mínimo, la fecha, hora de
+4 salida y llegada, punto de origen y destino, millaje inicial y final, nombre del
+5 conductor, propósito oficial del viaje, agencia o unidad responsable, y cualquier
+6 incidencia relevante.
+7 (b) COE. — Significa el Centro de Operaciones de Emergencia del Negociado para el
+8 Manejo de Emergencias y Administración de Desastres (NMEAD), incluyendo sus
+9 activaciones parciales, regionales, interagenciales o generales, según sean ordenadas
+10 por la autoridad competente.
+11 (c) Declaración de Emergencia. — Significa la orden ejecutiva emitida por el Gobernador
+12 o la Gobernadora de Puerto Rico que declare una situación de emergencia o desastre
+13 en todo o parte del territorio de Puerto Rico.
+14 (d) Funcionario Público. — Significa aquellas personas que ocupan cargos o empleos en
+15 el Gobierno de Puerto Rico que intervienen en la formulación e implantación de la
+16 política pública. También incluirá, para fines de esta Ley, a todo servidor público que,
+17 por razón de su cargo, funciones, disponibilidad operacional o deberes oficiales, esté
+18 autorizado a utilizar, custodiar, supervisar, asignar o administrar vehículos oficiales.
+19 (e) Jefe de Agencia. — Significa la persona que ejerce la máxima autoridad administrativa
+20 de un departamento, dependencia, instrumentalidad o corporación pública del Poder
+21 Ejecutivo del Gobierno de Puerto Rico.
+
+7
+1 (f) Jornada Laboral. — Significa el periodo destinado a rendir labores en una agencia,
+2 que puede extenderse a más de ocho (8) horas diarias, incluyendo los fines de semana,
+3 días feriados, turnos extendidos, periodos de disponibilidad operacional, activaciones
+4 de emergencia, labores fuera del lugar regular de trabajo y cualquier otro periodo
+5 durante el cual el funcionario público, servidor público o persona autorizada esté
+6 realizando funciones oficiales o se encuentre sujeto a activación inmediata por razón
+7 de su cargo.
+8 (g) Sistema de Rastreo y Monitoreo. — Significa el sistema de Localización Automática
+9 de Vehículos (Automatic Vehicle Location) administrado por la Administración de
+10 Servicios Generales, por las corporaciones públicas o por cualquier agencia
+11 autorizada mediante sus propios sistemas o proveedores y las corporaciones públicas
+12 con sus propios proveedores, mediante el cual se monitorea en tiempo real la
+13 ubicación, recorridos, velocidad y uso de la flota vehicular del Gobierno de Puerto
+14 Rico.
+15 (h) Vehículo Oficial. — Significa el vehículo de motor asignado a los jefes de agencia o
+16 funcionarios públicos, ya sea aquellos bajo la jurisdicción de la Administración de
+17 Servicios Generales, como aquellos adquiridos por otro departamento, dependencia,
+18 instrumentalidad o corporación pública, mediante compraventa, arrendamiento,
+19 arrendamiento financiero (leasing), o cualquier otro negocio jurídicocon fondos
+20 públicos, incluyendo vehículos asignados, cedidos, transferidos, arrendados,
+21 custodiados u operados por una agencia para el cumplimiento de funciones oficiales.
+22 Artículo 3.- Prohibición General.
+
+8
+1 Ningún Jefe de Agencia o Funcionario Público podrá utilizar, custodiar, retener,
+2 operar o disponer de un vehículo oficial para fines personales, privados, familiares,
+3 recreativos, comerciales, partidistas, electorales o para cualquier otro propósito ajeno al
+4 servicio público, independientemente de que el vehículo se haya adquirido mediante
+5 compraventa, arrendamiento, arrendamiento financiero, donación, transferencia, cesión,
+6 asignación interagencial o cualquier otro negocio jurídico realizado total o parcialmente
+7 con fondos públicos por cualquier departamento, dependencia, instrumentalidad, o
+8 corporación pública, de la Rama Ejecutiva de Gobierno de Puerto Rico, incluyendo
+9 aquellas que se encuentran en Estados Unidos.
+10 Todo vehículo oficial deberá utilizarse exclusivamente para fines oficiales,
+11 conforme a la naturaleza del cargo, las funciones asignadas, la necesidad operacional de
+12 la agencia, las autorizaciones aplicables, la reglamentación vigente y las disposiciones de
+13 esta Ley. La utilización de un vehículo oficial fuera del horario regular de trabajo, durante
+14 fines de semana, días feriados, fuera de la sede principal de la agencia o en una instalación
+15 distinta al lugar regular de trabajo no constituirá, por sí sola, una infracción a esta Ley
+16 cuando responda a una función oficial, disponibilidad operacional, activación de
+17 emergencia, continuidad de servicios, autorización expresa de la agencia o custodia en
+18 una instalación designada conforme a esta Ley.
+19 Salvo que medie autorización legal, reglamentaria, administrativa u operacional
+20 conforme a esta Ley, todo vehículo oficial deberá ser devuelto, al concluir su uso oficial
+21 o jornada laboral aplicable, a la agencia, instalación designada, centro operacional, sede
+22 regional, cuartel, estación, almacén, base o lugar autorizado para su custodia. La
+
+9
+1 autorización para conservar, trasladar o custodiar un vehículo oficial fuera del lugar
+2 regular de trabajo deberá estar fundamentada en criterios de necesidad pública, costo-
+3 eficiencia, seguridad, continuidad operacional, disponibilidad inmediata o prestación de
+4 servicios esenciales y deberá documentarse mediante la bitácora correspondiente o el
+5 Sistema de Rastreo y Monitoreo.
+6 El uso de todo vehículo oficial estará sujeto al monitoreo del Sistema de Rastreo y
+7 Monitoreo de la Administración de Servicios Generales y de las corporaciones públicas
+8 o agencias que cuenten con sistemas propios o proveedores autorizados, el cual
+9 constituirá una herramienta de supervisión, auditoría, fiscalización e investigación que
+10 podrá ser utilizada como evidencia en procedimientos administrativos y judiciales sobre
+11 el uso de vehículos oficiales luego de una certificación oficial de Administración de
+12 Servicios Generales o el proveedor autorizado en caso de las corporaciones públicas o
+13 agencias concernidas.
+14 Para tales fines, la Administración de Servicios Generales, la corporación pública
+15 concernida, la agencia correspondiente o el proveedor autorizado podrá emitir
+16 certificaciones oficiales sobre la unidad vehicular, tablilla, fecha, hora, ubicación,
+17 recorrido, velocidad, millaje, usuario asignado, integridad del registro y demás
+18 información pertinente. Nada de lo dispuesto en este Artículo limitará la facultad del foro
+19 administrativo o judicial para determinar la admisibilidad, peso probatorio o suficiencia
+20 de dicha evidencia conforme al derecho aplicable.
+21 Para efectos de esta Ley, no se presumirá uso indebido únicamente por razón de
+22 que un vehículo oficial se encuentre fuera de la sede principal de la agencia, fuera del
+
+10
+1 horario regular de trabajo o en una instalación distinta al lugar ordinario de empleo,
+2 siempre que exista una justificación oficial documentada, autorización válida,
+3 disponibilidad operacional, activación de emergencia o relación razonable con el
+4 cumplimiento de funciones públicas. No obstante, el uso personal, no autorizado, falso,
+5 simulado o injustificado de un vehículo oficial constituirá una infracción independiente
+6 por cada día, evento o recorrido en que subsista la violación.
+7 Artículo 4.- Sistema de Monitoreo y Bitácora Vehicular.
+8 La Administración de Servicios Generales será la entidad responsable de
+9 administrar y mantener el Sistema de Rastreo y Monitoreo para la flota vehicular del
+10 Gobierno de Puerto Rico. También las corporaciones públicas con sus proveedores. Todo
+11 vehículo oficial deberá contar con un dispositivo de Rastreo y Monitoreo operacional,
+12 excepto los descritos en el Artículo 6. Dicho dispositivo deberá permanecer activo,
+13 funcional y debidamente asociado a la unidad vehicular correspondiente durante todo
+14 periodo de uso, custodia, desplazamiento, asignación o disponibilidad operacional del
+15 vehículo oficial. Ningún funcionario público, jefe de agencia, servidor público, empleado,
+16 contratista, conductor designado o persona autorizada podrá remover, apagar, alterar,
+17 manipular, bloquear, desconectar, inutilizar o interferir con el funcionamiento del
+18 dispositivo de rastreo y monitoreo, salvo por razón técnica, mantenimiento autorizado,
+19 sustitución del equipo, orden de autoridad o excepción expresamente reconocida por esta
+20 Ley o su reglamentación.
+21 Asimismo, todo Funcionario Público o Jefe de Agencia que tenga asignado un
+22 vehículo oficial deberá mantener una bitácora vehicular en la que consigne: (1) la hora de
+
+11
+1 salida y llegada; (2) el millaje del vehículo oficial al momento de la salida y al momento
+2 de su llegada; (3) un resumen de los viajes realizados en el día; y (4) cualquier otra
+3 incidencia pertinente sobre el recogido, uso y entrega del vehículo. La obligación de
+4 mantener bitácora aplicará igualmente a toda persona autorizada que conduzca,
+5 custodie, utilice o tenga bajo su control un vehículo oficial, independientemente de que
+6 el vehículo esté asignado permanentemente, temporalmente, por turno, por misión, por
+7 emergencia o por necesidad operacional.
+8 La bitácora podrá mantenerse en formato físico, electrónico o mediante cualquier
+9 plataforma digital aprobada por la Administración de Servicios Generales, la agencia
+10 concernida o la corporación pública correspondiente.
+11 Cuando el vehículo oficial esté integrado al Sistema de Rastreo y Monitoreo, la
+12 información generada por dicho sistema podrá complementar, validar o sustituir
+13 parcialmente la bitácora vehicular, conforme disponga la reglamentación aplicable. No
+14 obstante, la existencia del Sistema de Rastreo y Monitoreo no eximirá automáticamente a
+15 la persona autorizada de documentar el propósito oficial del uso, la autorización
+16 correspondiente, las incidencias relevantes o cualquier información que el sistema
+17 tecnológico no capture adecuadamente.
+18 Los registros del Sistema de Rastreo y Monitoreo serán conservados por la
+19 Administración de Servicios Generales, de igual manera las corporaciones públicas y
+20 estarán disponibles para la inspección de la Oficina de Ética Gubernamental, el Contralor
+21 de Puerto Rico, o cualquier autoridad que los requiera en el ejercicio de sus funciones
+22 fiscalizadoras. Dichos registros deberán conservarse por un término no menor de cinco
+
+12
+1 (5) años, salvo que exista una investigación, auditoría, procedimiento administrativo,
+2 procedimiento judicial, reclamación, querella, referido o controversia pendiente
+3 relacionada con el uso del vehículo oficial, en cuyo caso deberán conservarse hasta que
+4 el asunto advenga final y firme.
+5 La Administración de Servicios Generales adoptará, mediante reglamento, carta
+6 circular, orden administrativa o guía uniforme, los parámetros mínimos de operación,
+7 mantenimiento, integración, retención, acceso, certificación, auditoría y seguridad del
+8 Sistema de Rastreo y Monitoreo.
+9 La información generada por el Sistema de Rastreo y Monitoreo y por la bitácora
+10 vehicular será utilizada exclusivamente para fines oficiales de administración,
+11 supervisión, mantenimiento, seguridad, auditoría, fiscalización, investigación,
+12 cumplimiento legal y protección de la propiedad pública. El acceso a dicha información
+13 deberá limitarse al personal autorizado y a las autoridades competentes, sin perjuicio de
+14 las normas aplicables sobre confidencialidad, seguridad pública, investigaciones en
+15 curso, datos sensibles, infraestructura crítica y documentos públicos.
+16 El incumplimiento con la obligación de mantener el dispositivo de rastreo
+17 operacional, completar la bitácora, conservar los registros, producir la información
+18 requerida o permitir la fiscalización correspondiente constituirá una infracción a esta Ley,
+19 sin perjuicio de cualquier otra responsabilidad administrativa, ética, civil o penal que
+20 proceda conforme al ordenamiento jurídico aplicable.
+21 Artículo 5.- Normas de Uso de Vehículos Oficiales.
+
+13
+1 (a) Al concluir la jornada laboral, todo funcionario o empleado público entregará el
+2 vehículo oficial a la agencia correspondiente, salvo que exista autorización
+3 institucional escrita que disponga lo contrario. Dicha entrega podrá realizarse en la
+4 sede principal, instalación designada, centro operacional, sede regional, cuartel,
+5 estación, almacén, base o cualquier otro lugar autorizado por la agencia para la
+6 custodia del vehículo oficial.
+7 (b) La autorización institucional escrita deberá identificar, como mínimo, el vehículo
+8 oficial, la persona autorizada, el fundamento operacional de la autorización, el lugar
+9 autorizado para la entrega o custodia, la duración de la autorización y la unidad
+10 administrativa responsable de supervisar su cumplimiento. En casos de emergencia,
+11 activación operacional, respuesta inmediata o circunstancias extraordinarias que
+12 impidan obtener autorización previa por escrito, la autorización podrá documentarse
+13 posteriormente dentro de un término razonable, que no excederá de cuarenta y ocho
+14 (48) horas, salvo justa causa debidamente documentada.
+15 (c) Se prohíbe el uso de vehículos oficiales para asuntos personales, dentro o fuera de la
+16 jornada regular de trabajo.
+17 (d) Para efectos de esta Ley, no constituirá uso personal:
+18 1. El traslado entre instalaciones oficiales de la misma agencia o corporación
+19 pública o entre instalaciones de distintas agencias, cuando el traslado esté
+20 relacionado con funciones oficiales, coordinación interagencial, reuniones,
+21 inspecciones, supervisión, respuesta operacional o continuidad de servicios.
+
+14
+1 2. El transporte requerido por la naturaleza del puesto cuando el funcionario
+2 tenga disponibilidad permanente o funciones ejecutivas continuas,
+3 disponibilidad operacional, deberes de respuesta inmediata, responsabilidades
+4 de supervisión regional, atención de emergencias, manejo de infraestructura
+5 crítica o funciones que razonablemente requieran movilidad fuera del horario
+6 regular de trabajo.
+7 3. El uso autorizado por el jefe de agencia mediante determinación escrita
+8 fundamentada o por el funcionario delegado conforme a reglamento, orden
+9 administrativa, carta circular o norma interna aplicable, siempre que la
+10 autorización responda a una necesidad pública, operacional, fiscalizable y
+11 documentada.
+12 4. El traslado relacionado a inspecciones, supervisión operacional, coordinación
+13 interagencial o gestión administrativa oficial, incluyendo visitas de campo,
+14 reuniones oficiales, actividades de respuesta, manejo de incidentes,
+15 continuidad de operaciones, auditorías, entrega de documentos o equipo,
+16 apoyo logístico, protección de instalaciones públicas o cualquier gestión
+17 directamente vinculada al servicio público.
+18 5. El traslado hacia o desde una instalación designada, sede regional, centro
+19 operacional, cuartel, estación, almacén, base o lugar autorizado para la entrega,
+20 custodia, despacho o disponibilidad del vehículo oficial.
+21 6. La custodia temporal de un vehículo oficial fuera de la sede principal cuando
+22 esté autorizada por razón de disponibilidad operacional, emergencia,
+
+15
+1 seguridad del vehículo, costo-eficiencia, continuidad de servicios, distancia
+2 razonable al área de operación o necesidad de respuesta inmediata.
+3 7. El desplazamiento incidental razonablemente necesario para alimentos,
+4 descanso, relevo, abastecimiento de combustible, mantenimiento, reparación,
+5 lavado, inspección mecánica, estacionamiento seguro o cualquier gestión
+6 accesoria indispensable para completar una misión oficial o preservar el
+7 vehículo oficial.
+8 (e) Se considerará uso personal únicamente cuando:
+9 1. El vehículo se utilice para actividades privadas ajenas a funciones oficiales;
+10 2. No exista relación razonable con funciones institucionales;
+11 3. No exista autorización válida, necesidad operacional, activación de
+12 emergencia, disponibilidad funcional o justificación oficial documentada;
+13 4. El vehículo se utilice para beneficiar directa o indirectamente a una persona,
+14 negocio, entidad privada, actividad partidista, campaña política, evento social
+15 o gestión particular ajena al servicio público;
+16 5. El funcionario, empleado o persona autorizada falsee, omita, altere o simule
+17 información en la bitácora, en el Sistema de Rastreo y Monitoreo o en cualquier
+18 certificación, informe, autorización o documento relacionado con el uso del
+19 vehículo oficial;
+20 6. El recorrido, destino, horario, pasajero, parada o patrón de uso no guarde
+21 relación razonable con el propósito oficial invocado y no exista explicación
+22 documentada que lo justifique; o
+
+16
+1 7. La persona autorizada utilice el vehículo oficial en exceso del alcance,
+2 duración, ruta, propósito o condiciones establecidas en la autorización
+3 correspondiente.
+4 (f) La mera apariencia, inferencia o presunción no será suficiente para establecer una
+5 violación a esta Ley en ausencia de prueba concreta. La determinación de uso personal
+6 o indebido deberá estar sustentada en evidencia, incluyendo, según aplique,
+7 bitácoras, registros del Sistema de Rastreo y Monitoreo, certificaciones oficiales,
+8 testimonios, documentos, autorizaciones, informes de auditoría, patrones de uso o
+9 cualquier otra prueba admisible conforme al derecho aplicable. Nada de lo dispuesto
+10 en este inciso impedirá que una autoridad competente investigue posibles
+11 irregularidades cuando existan indicios razonables de uso indebido. Sin embargo,
+12 ninguna sanción podrá basarse exclusivamente en apariencia de impropiedad o en el
+13 mero hecho de que el vehículo oficial se encuentre fuera de la sede principal, fuera
+14 del horario regular de trabajo o en una instalación distinta al lugar ordinario de
+15 empleo.
+16 (g) Toda agencia deberá mantener bitácoras de uso que incluyan:
+17 1. Hora de salida y llegada;
+18 2. Millaje inicial y final;
+19 3. Resumen del propósito oficial del viaje;
+20 4. Firma del funcionario responsable.
+21 Artículo 6.- Excepciones.
+22 Los siguientes funcionarios públicos estarán excluidos de la aplicación de esta Ley:
+
+17
+1 a. Gobernador (a) de Puerto Rico.
+2 b. Secretario (a) de Estado.
+3 c. Secretario (a) de Justicia.
+4 d. Secretario (a) del Departamento de Corrección y Rehabilitación.
+5 e. Secretario (a) del Departamento de Seguridad Pública.
+6 f. Comisionado (a) del Negociado de Bomberos de Puerto Rico.
+7 g. Comisionados auxiliares, comandantes de zona, jefes de distrito y el director de
+8 transportación del Negociado del Cuerpo de Bomberos de Puerto Rico.
+9 h. Comisionado (a) del Negociado del Cuerpo de Emergencias Médicas.
+10 i. Director de Operaciones, Director de Administración (en funciones de Sub-
+11 Comisionado), supervisores de zona, supervisores de apoyo operacional,
+12 unidades de respuesta rápida (asignadas por el Comisionado), y Director (a) de
+13 Transportación del Negociado del Cuerpo de Emergencias Médicas de Puerto
+14 Rico.
+15 j. Comisionado(a) del Negociado de Manejo de Emergencias y Administración de
+16 Desastres.
+17 k. Los directores de zona y los coordinadores de búsqueda y rescate del Negociado
+18 para el Manejo de Emergencias y Administración de Desastres.
+19 l. Comisionado (a) del Negociado del Sistema de Emergencia 9-1-1.
+20 m. Comisionado (a) del Negociado de Investigaciones Especiales.
+21 n. Agentes encubiertos del Negociado de Investigaciones Especiales.
+22 o. Superintendente de la Policía de Puerto Rico.
+
+18
+1 p. Agentes encubiertos, comandantes de zona, de área y comandantes auxiliares,
+2 directores de las divisiones de homicidios, inteligencia criminal y de drogas,
+3 directores de los cuerpos de investigaciones criminales, comandantes de distrito,
+4 superintendente auxiliar de operaciones de campo y su auxiliar y los directores de
+5 las divisiones de violencia doméstica de la Policía de Puerto Rico.
+6 q. Comisionado (a) del Cuerpo de Vigilantes del Departamento de Recursos
+7 Naturales y Ambientales, comandantes regionales, supervisores operacionales,
+8 oficiales de respuesta e investigación ambiental.
+9 r. Jefe (a) de Fiscales y aquellos fiscales o funcionarios del Departamento de Justicia
+10 que, por razón de investigaciones criminales, comparecencias judiciales urgentes,
+11 coordinación interagencial, seguridad personal o disponibilidad operacional, sean
+12 designados mediante certificación escrita fundamentada por el Secretario de
+13 Justicia.
+14 s. Ayudante General de la Guardia Nacional de los Estados Unidos.
+15 t. Cualquier otro funcionario, empleado o personal especializado que sea designado
+16 mediante reglamento, orden administrativa, carta circular o certificación escrita
+17 fundamentada de la agencia concernida, previa autorización de la Administración
+18 de Servicios Generales, cuando la naturaleza del cargo requiera disponibilidad
+19 operacional continua, respuesta inmediata, protección de vida o propiedad,
+20 seguridad pública, manejo de infraestructura crítica, continuidad gubernamental
+21 o prestación de servicios esenciales. Dicha designación deberá identificar el cargo,
+
+19
+1 la unidad administrativa, la justificación operacional, el alcance de la autorización,
+2 la duración de la excepción y los controles de monitoreo y fiscalización aplicables.
+3 Artículo 7.- Excepción por Activación del Centro de Operaciones de Emergencia o
+4 Declaración de Emergencia.
+5 Cuando el Gobernador (a) emita una Declaración de Emergencia mediante orden
+6 ejecutiva, o cuando el Director (a) del Negociado de Manejo de Emergencias y
+7 Administración de Desastres active formalmente el COE, los Secretarios y Jefes de
+8 Agencia podrán, mediante reglamento o autorización escrita, permitir el uso de vehículos
+9 oficiales fuera de la jornada regular de trabajo al personal de sus respectivas agencias que
+10 tenga la responsabilidad de responder operacionalmente bajo dicha activación del COE.
+11 La autorización dispuesta en este Artículo deberá responder a una necesidad
+12 pública concreta relacionada con la protección de la vida, la salud, la seguridad, la
+13 propiedad, la infraestructura crítica, la continuidad gubernamental, la prestación de
+14 servicios esenciales, la coordinación interagencial o la respuesta operacional ante la
+15 emergencia.
+16 Dicha autorización:
+17 1) Será de carácter temporal y durará únicamente durante el período de activación
+18 del COE o la vigencia de la Declaración de Emergencia, según corresponda, salvo
+19 que la autoridad competente determine por escrito que subsiste una necesidad
+20 operacional relacionada con la fase de respuesta, recuperación, estabilización,
+21 continuidad de servicios o cierre operacional de la emergencia.
+
+20
+1 2) Deberá especificar los funcionarios o empleados autorizados, el vehículo o
+2 vehículos asignados, y las funciones que justifican la excepción, incluyendo, como
+3 mínimo, la agencia o unidad responsable, el fundamento operacional, el área
+4 geográfica o funcional de respuesta, la duración estimada de la autorización, el
+5 supervisor responsable y las condiciones de uso, custodia y entrega del vehículo
+6 oficial.
+7 3) Se notificará a la Administración de Servicios Generales dentro de cinco (5) días
+8 laborables de emitida o, cuando la urgencia de la emergencia no lo permita, dentro
+9 de cinco (5) días laborables posteriores a que las condiciones operacionales
+10 permitan razonablemente dicha notificación. En el caso de corporaciones públicas
+11 o agencias con flotas administradas mediante sistemas o proveedores propios, la
+12 notificación se realizará también a la unidad interna responsable de la flota
+13 vehicular.
+14 4) El uso de los vehículos autorizados bajo esta excepción seguirá siendo
+15 monitoreado por el Sistema de Rastreo y Monitoreo y quedará sujeto a las
+16 disposiciones de bitácora de esta Ley, salvo aquellas limitaciones estrictamente
+17 necesarias por razones de seguridad pública, investigaciones confidenciales,
+18 operaciones encubiertas, protección de infraestructura crítica, fallas tecnológicas,
+19 interrupción de comunicaciones o circunstancias extraordinarias propias de la
+20 emergencia, las cuales deberán documentarse tan pronto sea razonablemente
+21 posible.
+
+21
+1 5) En ningún caso la excepción autorizará el uso del vehículo oficial para asuntos
+2 personales ajenos a la emergencia declarada, a la activación del COE, a la misión
+3 asignada o a la necesidad operacional que justificó la autorización.
+4 6) Toda autorización emitida bajo este Artículo deberá ser revisada periódicamente
+5 por la agencia concernida mientras subsista la emergencia o activación, a los fines
+6 de confirmar que la necesidad operacional continúa vigente y que el uso del
+7 vehículo oficial permanece relacionado con funciones públicas.
+8 7) Una vez cese la activación del COE, expire la Declaración de Emergencia o
+9 concluya la necesidad operacional que justificó la excepción, la agencia deberá
+10 cancelar la autorización, requerir la devolución del vehículo oficial a la instalación
+11 correspondiente y conservar la documentación justificativa, incluyendo bitácoras,
+12 registros del Sistema de Rastreo y Monitoreo, certificaciones, memorandos,
+13 autorizaciones y cualquier otro documento pertinente.
+14 Artículo 8.- Sanciones
+15 Cualquier Jefe de Agencia o Funcionario Público que incumpla con las disposiciones
+16 de esta Ley estará sujeto a sanciones según los reglamentos institucionales de las
+17 agencias, corporaciones públicas y Administración de Servicios Generales. Nada de lo
+18 dispuesto en este artículo limitará las facultades de la Oficina de Ética Gubernamental, el
+19 Contralor de Puerto Rico u otras entidades fiscalizadoras de investigar, sancionar o
+20 señalar las conductas que constituyan violaciones a sus respectivas leyes habilitadoras.
+21 Constituirán infracciones a esta Ley, entre otras, las siguientes conductas:
+
+22
+1 (a) Utilizar un vehículo oficial para fines personales, privados, familiares,
+2 recreativos, comerciales, partidistas, electorales o ajenos al servicio público;
+3 (b) Retener, custodiar, trasladar o utilizar un vehículo oficial fuera de los términos
+4 autorizados por esta Ley, su reglamentación, la agencia concernida o la autorización
+5 aplicable;
+6 (c) Falsear, omitir, alterar o simular información en la bitácora vehicular,
+7 autorización, informe, certificación, registro electrónico o cualquier otro documento
+8 relacionado con el uso del vehículo oficial;
+9 (d) Remover, apagar, alterar, manipular, bloquear, desconectar, inutilizar o
+10 interferir con el Sistema de Rastreo y Monitoreo, salvo por razón técnica, mantenimiento
+11 autorizado, sustitución del equipo, orden de autoridad competente o excepción
+12 expresamente reconocida por esta Ley o su reglamentación;
+13 (e) Negarse injustificadamente a producir bitácoras, registros, certificaciones,
+14 informes o datos del Sistema de Rastreo y Monitoreo requeridos por una autoridad
+15 competente;
+16 (f) Autorizar el uso, custodia, retención o asignación de un vehículo oficial sin
+17 fundamento oficial, necesidad operacional, autorización válida o documentación
+18 suficiente;
+19 (g) Permitir, tolerar o encubrir el uso personal o indebido de un vehículo oficial
+20 por parte de otra persona; y
+21 (h) Incumplir con la devolución, custodia, documentación, conservación de
+22 récords, notificación, monitoreo o fiscalización requerida por esta Ley.
+
+23
+1 La multa administrativa por violación a esta Ley no será menor de mil dólares
+2 ($1,000) ni mayor de cinco mil dólares ($5,000) por cada infracción, y será satisfecha por
+3 la persona infractora de su propio peculio cuando se determine que incurrió en uso
+4 personal, falso, simulado, no autorizado o injustificado de un vehículo oficial. Para
+5 efectos de este Artículo, cada día, evento, autorización irregular, recorrido indebido,
+6 falsificación, omisión material o acto de interferencia con el Sistema de Rastreo y
+7 Monitoreo podrá constituir una infracción independiente.
+8 La imposición de sanciones bajo este Artículo deberá considerar la naturaleza de
+9 la infracción, la intencionalidad de la conducta, la existencia de autorización o
+10 justificación oficial, el monto de fondos públicos involucrado, la frecuencia o patrón de
+11 uso indebido, la cooperación de la persona investigada, el daño ocasionado a la
+12 propiedad pública, la interferencia con los mecanismos de fiscalización y cualquier
+13 circunstancia agravante o atenuante pertinente.
+14 Artículo 9.- Reglamentación.
+15 Se conceden sesenta (60) días naturales al Administrador de Servicios Generales
+16 para atemperar o promulgar la reglamentación, orden administrativa, carta circular o
+17 boletín informativo que estime pertinente, a fin de asegurar el fiel cumplimiento de las
+18 disposiciones de esta Ley, incluyendo las normas para el funcionamiento e integración
+19 del Sistema de Rastreo y Monitoreo en todas las agencias del Poder Ejecutivo, una vez
+20 entre en vigor.
+21 Dentro de dicho término, la Administración de Servicios Generales deberá
+22 establecer, como mínimo, normas uniformes sobre:
+
+24
+1 (a) La instalación, operación, mantenimiento, sustitución y certificación de los
+2 dispositivos del Sistema de Rastreo y Monitoreo;
+3 (b) La integración de datos entre la Administración de Servicios Generales, las
+4 agencias y las corporaciones públicas que administren flotas vehiculares mediante
+5 sistemas o proveedores propios;
+6 (c) El contenido mínimo, formato, conservación y uso de las bitácoras vehiculares
+7 físicas o electrónicas;
+8 (d) Los términos de conservación de registros, informes, certificaciones, bitácoras
+9 y datos generados por el Sistema de Rastreo y Monitoreo;
+10 (e) Los criterios para autorizar el uso, custodia, retención o entrega de vehículos
+11 oficiales fuera de la sede principal, fuera del horario regular de trabajo o en instalaciones
+12 designadas;
+13 (f) Los procedimientos de auditoría, inspección, certificación, acceso y producción
+14 de información a las autoridades fiscalizadoras competentes;
+15 (g) Las medidas de seguridad, confidencialidad, integridad, trazabilidad y control
+16 de acceso a la información generada por el Sistema de Rastreo y Monitoreo;
+17 (h) Las excepciones operacionales necesarias por razón de seguridad pública,
+18 investigaciones encubiertas, protección de infraestructura crítica, emergencias, fallas
+19 tecnológicas o continuidad de servicios esenciales; y
+20 (i) El procedimiento administrativo aplicable para atender incumplimientos,
+21 imponer medidas correctivas y referir posibles violaciones a las autoridades competentes.
+
+25
+1 Las corporaciones públicas y agencias que administren flotas vehiculares
+2 mediante sistemas, reglamentos, órdenes administrativas o proveedores propios deberán
+3 atemperar sus normas internas a las disposiciones de esta Ley y a los parámetros mínimos
+4 establecidos por la Administración de Servicios Generales, salvo que una ley especial, la
+5 naturaleza de sus funciones, la seguridad pública, la protección de infraestructura crítica,
+6 las investigaciones confidenciales o la continuidad operacional requieran normas más
+7 específicas o controles adicionales.
+8 Hasta tanto se apruebe o atempere la reglamentación correspondiente,
+9 continuarán vigentes las normas, órdenes administrativas, cartas circulares, reglamentos
+10 internos y procedimientos existentes sobre vehículos oficiales, en todo aquello que no sea
+11 incompatible con esta Ley.
+12 Artículo 10.- Cláusula de Supremacía.
+13 Las disposiciones de esta Ley prevalecerán sobre cualquier otra disposición de ley
+14 que no esté en armonía con lo aquí establecido.
+15 Artículo 11.- Separabilidad.
+16 Si cualquier palabra, frase, oración, párrafo, artículo o parte de esta Ley fuere
+17 declarado inconstitucional por un tribunal competente, la sentencia a tal efecto dictada
+18 no afectará, perjudicará ni invalidará el resto de esta Ley. El efecto de dicha sentencia
+19 quedará limitado a la palabra, frase, oración, párrafo, artículo o parte que así hubiere sido
+20 declarado inconstitucional.
+21 Artículo 12.- Derogación.
+
+26
+1 Se deroga la Ley 60-2014, según enmendada, conocida como la “Ley Uniforme de
+2 Vehículos Oficiales del Gobierno de Puerto Rico”.
+3 Artículo 13.- Vigencia.
+4 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+5
+
+[DELETED:                     M a p l A d S G y p e d a s e u d o p f p d n e q L 6 c c l “ U d V O d a f p y e q l p d E s c e u]
+[DELETED:  o m d u d d d s a l e l a t y l j r d T m b E e a c e s m n o r d c d f y p a m d l f v g n p d r y m q p f c m p y l v o E c t t e a H e y e u i p f p P e e m j d d u l m f h u s d f r l t s j p l c j a E , 2 T 1 e d É G v E D A S d P R e u c r c l c p e e P E d l A d]
+[DELETED:  c s o d p m p c r y c A d A y A n p s c c u p p A r q l n d c e f d h r a d e y p e u p a d e d v d d i d l p P e c e q e p p s f c m E o d p y s e u p a o d v o p n d c e u i c a r d a g c o m d e c c p e d d m q l d T S e , s l O d É v D A]
+[DELETED:  p C u e g i i l i s s a y c n p s l f d E c a l A L i l n d l a q p s c a l s s i c y c g d u v o n c u p p s u s r d r a e c r s d l c o m l c d s e d z c d b y r p d m d f d r o y o s p c a n p q s a u e l q t t v f d h r c s f p m m l a d C d O d E l q j a t e a y u d v]
+[DELETED:  d L n a e u p d v o n r l l f a e c t d v u a e s a y c]
+[DELETED: )B y l p d o y d m i y f n d p o d v a o u r y c)C)D)F)J]
+[DELETED: )J)S V () a p l A d A V L G p l c p o p c a s p p m e c s m e t r l)V o c p m c a f ( o c o n j f i v a c t a]
+[DELETED:  o d d u v o p f p p f f p  p c d d i o p d l R E d G d P R i v o d u e p f o r a u f o d o a d c e a b o l a p s c L]
+[DELETED:  a q c c s p o p a e c u d v o l d u c o d A d l a c o e p a p e o s l u v t f h u v m u a i d r y d]
+[DELETED:  q e u j o d a v o a d e o r r c e A d S G s l e r d l d e e A 6 D d d p a  b d i o i c e f d]
+[DELETED:  s l ( u r d l v r e e d ( c o p e u y e d L d b a i a t p a q c g p d s p c v o s p a d d e p o d u l a l i r o c i q e s r d S d R y M s c p l]
+[DELETED:  j r q r o c p s u e p f o d a m s a f i n a s c s p i e i c l o d m e d d r c l b c l r p l i]
+[DELETED: )A c l j l t f o e p e e o a l a c s q e a p i d c o s r c a b o c o l a p l a p l)L a i e d i c m e v o r i o c e q)S)P.E t e i o d l m a o c o e i d d a c e t e c f o c i r]
+[DELETED: .E d p o f e c.E u a p e j d a m d e c c o n i a s q l r a u n p o f y.E o g a o i v d c o a d r m d i d o a e d d o e l p d i p o c g.E t h o d u i d s r c.L a p r d d o e]
+[DELETED:  d v c c d s d.E d i r n p a i m e s o c g i p c u m o o p e)S.E.N.N e a v n o a d.E.E.E r d h p p o p d u n g]
+[DELETED: .L p a u e v o e e d a r p o c e e l a)L i d e s e e i s a r d S d R y M c o e i i q u a c i p h r d t o e u i d a l o d)T.H.M.R.F]
+[DELETED: .G.S.S.S.S.C.C.C.D d O D d A ( f d S s d z s d a o d N d C d E M d P.C.L.C.C.A.S]
+[DELETED: .A d l d d h i c y d d.C ( d C d V d D d R y A c r s o.J m c e f p e S d.A t c r i p d v o p]
+[DELETED:   o c e D ( d N d M d E y d D a f e C l S y J d a d e e A d r a u n c r c l p d l v l s l s l l i c l c g l p d e l c i o l r o a l)S r c l f d r r e]
+[DELETED: )D e l f o e a e v o l a o u r e f o e á)S c ( d l p a q l c o s r t a l u i r d l f)E u d l v a b e e s s p e S d R y M y q s a l p r d s p i c d c o c e p d l l c d d t p s r]
+[DELETED: )E)T c q l n o c v y q e u d)U v c l a d C e l D d E o d S d R y M c m e L e s a s s l r i d l d P R u o e f d i s o]
+[DELETED:  U u v o p f p p f p e s r l a c o l a F o a o s i e l b v i c r e o c o d R a a m b d i o s d e o d a c o e N i a p b r c o d d S d R y M r p u a o n o a v o d I c l d c d c d]
+[DELETED:  p i d s p p c s d q i e u f s n a o i d u v o P d e A c d e a i r i o m o a d i c e S d R y i l i d l c l e d a o i l c d l p i e d o a l p l i c l m d f y c d d t l A d S G d]
+[DELETED:  L i o m s y c d l y l c p q a f v m L e o n p r d s p e p d i c e f E p a a p a i]
+[DELETED:  c p y a q a f v t s a o a l r c c p f o p a o p d e L f-D]
