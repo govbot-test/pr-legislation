@@ -1,0 +1,122 @@
+Title: La Comisión de Asuntos Internos del Senado de Puerto Rico, previo análisis y
+Official Title: La Comisión de Asuntos Internos del Senado de Puerto Rico, previo análisis y
+Number of Sections: 1
+Source: versions - 1er Informe Comisión rendido con enmiendas
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 230
+INFORME POSITIVO
+21 de abril de 2026
+AL SENADO DE PUERTO RICO:
+consideración, recomienda la aprobación de la Resolución del Senado 230, con las
+enmiendas contenidas en el entirillado electrónico que se acompaña.
+La Resolución del Senado 230, según referida, propone ordenar a la Comisión de
+Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del Consumidor del
+Senado de Puerto Rico, realizar una investigación para evaluar la viabilidad de
+implantar los sistemas automatizados de inspección vehicular para las inspecciones
+periódicas de las flotas del Gobierno de Puerto Rico y los municipios.
+En diversas jurisdicciones de los Estados Unidos y de otros países, se ha iniciado
+la implementación de estaciones automatizadas de inspección de emisiones, conocidas
+como “Self-Service Vehicle Emissions Inspection Kiosks”. Esto es una alternativa
+tecnológica que permite a entidades gubernamentales, flotas privadas y ciudadanos
+realizar inspecciones de forma rápida, confiable y a menor costo, sin la intervención
+directa de personal. Estos sistemas emplean sensores calibrados, inteligencia artificial y
+conexiones con redes regulatorias para emitir resultados certificados en cuestión de
+minutos.
+Informe sobre la R. del S. 230
+Página 2
+La adopción de este tipo de estaciones automatizadas podría representar para el
+Gobierno de Puerto Rico y para los municipios una oportunidad para avanzar en la
+modernización, la eficiencia y la reducción de costos operacionales. Entre los beneficios
+que ofrece este modelo, se encuentran la disminución de la dependencia de contratistas
+externos para llevar a cabo inspecciones, la agilización del cumplimiento de la
+reglamentación ambiental vigente y la reducción del tiempo en que los vehículos
+oficiales permanecen fuera de servicio. Asimismo, se promueve la reducción del gasto
+público asociado a los procesos de inspección y certificación, así como el fortalecimiento
+de los mecanismos de recopilación de datos para la planificación y la fiscalización de
+flotas. De igual forma, estas tecnologías podrían integrarse a plataformas
+interagenciales, promoviendo una política pública más coherente en materia de
+movilidad sostenible, cumplimiento ambiental y digitalización de los servicios
+gubernamentales.
+No obstante, antes de considerar su implantación en Puerto Rico, es necesario
+evaluar su viabilidad técnica, legal, presupuestaria y operacional. Además, es meritorio
+identificar los ajustes que podrían requerir los reglamentos del Departamento de
+Transportación y Obras Públicas (DTOP), de la Junta de Calidad Ambiental, adscrita al
+Departamento de Recursos Naturales y Ambientales, y de otras agencias con injerencia
+en el manejo de flotas oficiales y la política ambiental.
+Por todo lo cual, la Comisión de Asuntos Internos del Senado de Puerto Rico
+recomienda la aprobación de la Resolución del Senado 230, con las enmiendas
+contenidas en el entirillado electrónico que se acompaña.
+Respetuosamente sometido,
+Thomas Rivera Schatz
+Presidente
+[DELETED: 0 A 3 .rL   r l a d l R d S 2 c l L d P R r u i p e l v d l s a d i v p l i E “ V E I K  E e u a q p a e g f p y c d c y s c r r p e r c e c d]
+[DELETED:  y l u o p l p l a c i l a d c d l a v y l r d t e q l v D i f e t p i a p p u p p m c e m d s c a y d d l s         N l a q p r l r d D d    P t l d A S l a d l R d S 2 c l e]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 230
+INFORME POSITIVO
+21 de abril de 2026
+AL SENADO DE PUERTO RICO:
+La Comisión de Asuntos Internos del Senado de Puerto Rico, previo análisis y
+consideración, recomienda la aprobación de la Resolución del Senado 230, con las
+enmiendas contenidas en el entirillado electrónico que se acompaña.
+La Resolución del Senado 230, según referida, propone ordenar a la Comisión de
+Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del Consumidor del
+Senado de Puerto Rico, realizar una investigación para evaluar la viabilidad de
+implantar los sistemas automatizados de inspección vehicular para las inspecciones
+periódicas de las flotas del Gobierno de Puerto Rico y los municipios.
+En diversas jurisdicciones de los Estados Unidos y de otros países, se ha iniciado
+la implementación de estaciones automatizadas de inspección de emisiones, conocidas
+como “Self-Service Vehicle Emissions Inspection Kiosks”. Esto es una alternativa
+tecnológica que permite a entidades gubernamentales, flotas privadas y ciudadanos
+realizar inspecciones de forma rápida, confiable y a menor costo, sin la intervención
+directa de personal. Estos sistemas emplean sensores calibrados, inteligencia artificial y
+conexiones con redes regulatorias para emitir resultados certificados en cuestión de
+minutos.
+
+Informe sobre la R. del S. 230
+Página 2
+La adopción de este tipo de estaciones automatizadas podría representar para el
+Gobierno de Puerto Rico y para los municipios una oportunidad para avanzar en la
+modernización, la eficiencia y la reducción de costos operacionales. Entre los beneficios
+que ofrece este modelo, se encuentran la disminución de la dependencia de contratistas
+externos para llevar a cabo inspecciones, la agilización del cumplimiento de la
+reglamentación ambiental vigente y la reducción del tiempo en que los vehículos
+oficiales permanecen fuera de servicio. Asimismo, se promueve la reducción del gasto
+público asociado a los procesos de inspección y certificación, así como el fortalecimiento
+de los mecanismos de recopilación de datos para la planificación y la fiscalización de
+flotas. De igual forma, estas tecnologías podrían integrarse a plataformas
+interagenciales, promoviendo una política pública más coherente en materia de
+movilidad sostenible, cumplimiento ambiental y digitalización de los servicios
+gubernamentales.
+No obstante, antes de considerar su implantación en Puerto Rico, es necesario
+evaluar su viabilidad técnica, legal, presupuestaria y operacional. Además, es meritorio
+identificar los ajustes que podrían requerir los reglamentos del Departamento de
+Transportación y Obras Públicas (DTOP), de la Junta de Calidad Ambiental, adscrita al
+Departamento de Recursos Naturales y Ambientales, y de otras agencias con injerencia
+en el manejo de flotas oficiales y la política ambiental.
+Por todo lo cual, la Comisión de Asuntos Internos del Senado de Puerto Rico
+recomienda la aprobación de la Resolución del Senado 230, con las enmiendas
+contenidas en el entirillado electrónico que se acompaña.
+Respetuosamente sometido,
+Thomas Rivera Schatz
+Presidente
+
+[DELETED: 0 A 3 .rL   r l a d l R d S 2 c l L d P R r u i p e l v d l s a d i v p l i E “ V E I K  E e u a q p a e g f p y c d c y s c r r p e r c e c d]
+[DELETED:  y l u o p l p l a c i l a d c d l a v y l r d t e q l v D i f e t p i a p p u p p m c e m d s c a y d d l s         N l a q p r l r d D d    P t l d A S l a d l R d S 2 c l e]

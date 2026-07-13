@@ -1,0 +1,547 @@
+Title: Para enmendar el Artículo 8.4A y añadir, inmediatamente después del mismo, los nuevos
+Official Title: Para enmendar el Artículo 8.4A y añadir, inmediatamente después del mismo, los nuevos
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1156
+23 de marzo de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Artículos 8.4A-1, 8.4A-2, 8.4A-3 y 8.4A-4 a la Ley 161-2009, según enmendada, conocida
+como la “Ley para la Reforma del Proceso de Permisos de Puerto Rico”, a los fines de
+optimizar el Permiso Único Incidental Operacional como un trámite accesorio
+verdaderamente expedito; establecer su naturaleza accesoria y limitada respecto al
+permiso o autorización matriz; disponer listas taxativas o delimitadas de supuestos
+elegibles; prohibir la reapertura o reexamen de asuntos ya adjudicados o satisfechos
+mediante el permiso principal, salvo circunstancias excepcionales; autorizar, como regla
+general, su evaluación y expedición por Profesionales Autorizados en los casos que
+cumplan con los criterios establecidos por ley y reglamento; disponer para términos
+abreviados, documentación estandarizada e integración obligatoria al Sistema Unificado
+de Información o Single Business Portal; permitir que la Autorización para Corte, Poda o
+Trasplante de Árboles pueda solicitarse junto al permiso de construcción cuando
+proceda; establecer mecanismos de cierre formal simplificado; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+En múltiples proyectos de construcción, mejoras, actividades operacionales o
+gestiones complementarias previamente autorizadas, la obra o actividad principal puede
+verse detenida por trámites incidentales que, aunque se suponen accesorios al permiso
+matriz, terminan funcionando como una segunda capa de evaluación administrativa. Esa
+realidad provoca dilaciones innecesarias, aumenta costos, genera incertidumbre y
+2
+desnaturaliza el propósito de simplificación que debe regir el sistema de permisos en
+Puerto Rico.
+Cuando una obra principal ya fue evaluada y autorizada, no resulta razonable que
+toda gestión accesoria vinculada a esa autorización vuelva a someter al solicitante a
+requerimientos repetitivos, revisiones sobre asuntos previamente adjudicados o demoras
+desproporcionadas que no guardan relación con el verdadero alcance del trámite
+incidental. Esa situación afecta proyectos de diversa escala, dificulta el inicio oportuno de
+obras ya aprobadas y crea un entorno regulatorio menos predecible para ciudadanos,
+profesionales y sectores productivos.
+El Informe Final del Task Force para la Simplificación del Sistema de Permisos de
+Puerto Rico, revisado al 31 de octubre de 2025, identificó expresamente la optimización
+del Permiso Único Incidental como un área de reforma necesaria. Según dicho informe,
+el Permiso Único Incidental es una autorización utilizada para atender actividades
+menores o complementarias relacionadas con una obra previamente aprobada, tales
+como corte y poda de árboles, movimiento de terreno e instalaciones temporeras, entre
+otras, y recomendó su agilización para evitar que proyectos ya aprobados permanezcan
+paralizados en espera de gestiones incidentales.
+Ese mismo informe recomendó que se realicen cambios legales o reglamentarios
+para delegar la evaluación y expedición del Permiso Único Incidental al Profesional
+Autorizado, establecer mecanismos de cierre formal una vez conste el cumplimiento con
+las inspecciones requeridas y permitir que la Autorización para Corte, Poda o Trasplante
+de Árboles pueda solicitarse junto al permiso de construcción.
+La presente medida responde a esa necesidad. Su propósito no es eliminar
+controles legítimos ni permitir que, al amparo de un trámite incidental, se introduzcan
+cambios materiales que alteren la esencia del proyecto autorizado. Tampoco pretende
+relevar del cumplimiento con requisitos sustantivos aplicables por ley. Lo que persigue
+es asegurar que el Permiso Único Incidental opere verdaderamente como un trámite
+accesorio, expedito y proporcional al riesgo de la actividad que regula.
+3
+A esos fines, esta Asamblea Legislativa establece por ley la naturaleza accesoria y
+limitada del Permiso Único Incidental Operacional; delimita los supuestos en que
+procede; prohíbe la reapertura de asuntos ya adjudicados en el permiso principal, salvo
+circunstancias excepcionales; promueve su evaluación expedita, preferentemente por el
+Profesional Autorizado cuando proceda; ordena su integración plena al Sistema
+Unificado de Información o Single Business Portal; y crea un carril cuasi automático para
+aquellos casos que cumplan con criterios objetivos, documentación estandarizada y
+certificación profesional suficiente.
+Con esta medida se procura evitar duplicidad de esfuerzos, reducir cargas
+innecesarias, dar mayor certeza al administrado y permitir que las actividades
+incidentales vinculadas a proyectos ya autorizados puedan tramitarse con mayor
+rapidez, sin menoscabar la seguridad, la salud, el ambiente ni el interés público.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 8.4A de la Ley 161-2009, según enmendada,
+2 para que lea como sigue:
+3 “Artículo 8.4A.- Permiso Único y Permiso Único Incidental Operacional.
+4 Todo edificio existente o nuevo, con usos no residenciales, así como todo negocio
+5 nuevo o existente, obtendrá el Permiso Único para iniciar o continuar sus operaciones, el
+6 cual incluirá los permisos, licencias, certificaciones y autorizaciones que correspondan
+7 conforme a esta Ley y al Reglamento Conjunto.
+8 Además, la Oficina de Gerencia de Permisos creará y mantendrá disponible el
+9 Permiso Único Incidental Operacional, como un trámite accesorio, complementario y
+10 subordinado a una autorización, permiso, consulta o determinación final matriz previamente
+11 emitida o reconocida conforme a esta Ley. El Permiso Único Incidental Operacional tendrá el
+4
+1 propósito de atender actividades incidentales, temporeras, auxiliares o complementarias que no
+2 alteren de forma material la esencia del proyecto o uso previamente autorizado, pero que requieran
+3 validación específica para asegurar el cumplimiento con los controles técnicos, ambientales,
+4 operacionales o de seguridad que resulten aplicables.
+5 El Permiso Único Incidental Operacional podrá comprender, entre otros, los
+6 siguientes supuestos:
+7 (a) Autorización para Corte, Poda o Trasplante;
+8 (b) Permiso General Consolidado;
+9 (c) Permiso General para otras Obras;
+10 (d) Permiso de Extracción Incidental a una obra autorizada por la Oficina de
+11 Gerencia de Permisos;
+12 (e) permisos simples de naturaleza accesoria; y
+13 (f) cualquier otra gestión incidental o complementaria que se establezca por
+14 reglamento, siempre que no constituya una modificación material del proyecto, uso o
+15 autorización matriz.
+16 La Oficina de Gerencia de Permisos podrá crear o consolidar, mediante
+17 reglamento, otros permisos incidentales que estime necesarios para simplificar y agilizar
+18 los trámites, siempre que se mantenga la naturaleza accesoria del Permiso Único Incidental
+19 Operacional y se cumpla con las limitaciones dispuestas en esta Ley.
+20 La tramitación del Permiso Único Incidental Operacional no podrá utilizarse para reabrir,
+21 reconsiderar o reevaluar asuntos ya adjudicados, aprobados o satisfechos mediante el permiso,
+22 autorización, consulta o determinación final matriz, salvo en caso de cambio material,
+5
+1 incumplimiento sobrevenido, error manifiesto sustancial, información falsa o exigencia legal
+2 expresa.”
+3 Sección 2.- Se añaden, inmediatamente después del Artículo 8.4A, los nuevos
+4 Artículos 8.4A-1, 8.4A-2, 8.4A-3 y 8.4A-4 a la Ley 161-2009, según enmendada, para que
+5 lean como sigue:
+6 “Artículo 8.4A-1.- Naturaleza accesoria, alcance limitado y supuestos elegibles.
+7 El Permiso Único Incidental Operacional será un trámite de alcance limitado y naturaleza
+8 estrictamente accesoria respecto a una obra, actividad, uso, consulta, determinación final o permiso
+9 matriz previamente autorizado o reconocido conforme a esta Ley.
+10 La evaluación del Permiso Único Incidental Operacional se circunscribirá a los aspectos
+11 específicos de la actividad incidental solicitada y a su compatibilidad con el permiso o autorización
+12 matriz. En consecuencia, no podrá requerirse al solicitante la radicación de documentación,
+13 estudios, certificaciones, recomendaciones o revisiones ya presentadas, evaluadas, emitidas o
+14 satisfechas en el trámite principal, salvo que:
+15 (a) la actividad incidental propuesta constituya una alteración material no contemplada
+16 en el permiso matriz;
+17 (b) haya ocurrido un cambio material en las condiciones del predio, de la obra o de la
+18 actividad autorizada;
+19 (c) exista incumplimiento sobrevenido con las condiciones impuestas;
+20 (d) medie una exigencia legal o reglamentaria expresa específicamente aplicable a la
+21 actividad incidental; o
+6
+1 (e) sea indispensable atender un riesgo real y documentado a la salud, a la seguridad o al
+2 ambiente que no haya sido evaluado previamente.
+3 La Oficina de Gerencia de Permisos, en coordinación con la Junta de Planificación,
+4 establecerá mediante reglamento listas taxativas o delimitadas de las actividades que podrán
+5 tramitarse mediante Permiso Único Incidental Operacional, así como los criterios objetivos para
+6 distinguir entre actividades meramente incidentales y modificaciones materiales que requieran un
+7 trámite distinto.”
+8 “Artículo 8.4A-2.- Evaluación expedita y carril cuasi automático por Profesional
+9 Autorizado.
+10 Como regla general, el Permiso Único Incidental Operacional será evaluado y expedido por
+11 un Profesional Autorizado cuando la actividad solicitada:
+12 (a) sea verdaderamente incidental y accesoria al permiso o autorización matriz;
+13 (b) no altere de forma material el uso autorizado, la volumetría principal, la localización
+14 sustancial del proyecto ni los parámetros esenciales previamente aprobados;
+15 (c) cumpla con las listas taxativas o delimitadas, criterios objetivos y documentos
+16 estandarizados establecidos por reglamento;
+17 (d) pueda documentarse y verificarse adecuadamente a través del Sistema Unificado de
+18 Información o Single Business Portal; y
+19 (e) no esté comprendida dentro de una categoría exceptuada expresamente por ley o
+20 reglamento por razón de complejidad extraordinaria, sensibilidad ambiental o patrimonial, riesgo
+21 a la seguridad pública o exigencia legal especial.
+7
+1 Cuando concurran los requisitos antes dispuestos y el Profesional Autorizado certifique,
+2 bajo su firma y responsabilidad profesional, que la actividad incidental cumple con los parámetros
+3 aplicables, el trámite se expedirá por el carril cuasi automático, sin revisión técnica sustantiva
+4 adicional por parte de la Oficina de Gerencia de Permisos, salvo que del expediente electrónico
+5 surja de forma clara:
+6 (1) una inconsistencia material entre la solicitud incidental y el permiso o autorización
+7 matriz;
+8 (2) un incumplimiento aparente con una condición expresa del permiso matriz;
+9 (3) la ausencia de un documento indispensable expresamente requerido por ley o
+10 reglamento;
+11 (4) información contradictoria, falsa o manifiestamente insuficiente; o
+12 (5) un impedimento legal expreso para la expedición.
+13 En los casos tramitados por el carril cuasi automático, la intervención de la Oficina de
+14 Gerencia de Permisos quedará limitada a verificar la integridad formal del expediente, la presencia
+15 de la certificación del Profesional Autorizado y la inexistencia de alguna de las circunstancias
+16 excepcionales antes enumeradas. La Oficina no podrá reabrir ni reevaluar asuntos ya adjudicados
+17 en el permiso o autorización matriz.
+18 La Oficina de Gerencia de Permisos deberá expedir, confirmar o dejar sin efecto, mediante
+19 determinación fundamentada, toda solicitud tramitada por el carril cuasi automático dentro de un
+20 término que no excederá de cinco (5) días laborables desde su radicación completa en el Sistema
+21 Unificado de Información o Single Business Portal. Transcurrido dicho término sin actuación de
+22 la Oficina y constando completo el expediente electrónico con la certificación del Profesional
+8
+1 Autorizado, el Permiso Único Incidental Operacional se entenderá expedido ministerialmente,
+2 sujeto a fiscalización posterior y a revocación en caso de fraude, falsedad, error manifiesto
+3 sustancial o incumplimiento material con la ley o el reglamento aplicable.
+4 La Oficina de Gerencia de Permisos retendrá la evaluación y expedición directa del Permiso
+5 Único Incidental Operacional únicamente en aquellos casos exceptuados expresamente por ley o
+6 reglamento conforme al inciso (e) de este Artículo, o cuando concurra alguna de las circunstancias
+7 extraordinarias antes descritas.
+8 La reglamentación que se adopte al amparo de esta Ley deberá identificar con claridad las
+9 categorías elegibles para el carril cuasi automático, los documentos mínimos requeridos, las
+10 causales taxativas para sacar un caso de dicho carril y los mecanismos de fiscalización posterior
+11 aplicables.”
+12 “Artículo 8.4A-3.- Prohibición de requerimientos duplicados y vinculación al permiso
+13 matriz.
+14 En la tramitación del Permiso Único Incidental Operacional no podrá requerirse la
+15 reevaluación de:
+16 (a) la compatibilidad del uso ya autorizado;
+17 (b) los parámetros de diseño o construcción ya aprobados, en la medida en que no se
+18 alteren materialmente;
+19 (c) las recomendaciones interagenciales previamente emitidas y satisfechas;
+20 (d) las determinaciones ya adjudicadas sobre clasificación, calificación o consulta
+21 aplicable; ni
+9
+1 (e) los documentos, planos, certificaciones o evidencias ya presentados en el expediente
+2 matriz y disponibles en el Sistema Unificado de Información o Single Business Portal.
+3 La autoridad evaluadora del Permiso Único Incidental Operacional deberá limitar su
+4 análisis a la actividad incidental objeto de la solicitud, a las condiciones del permiso matriz y al
+5 cumplimiento con los requisitos específicamente aplicables a dicha actividad.
+6 Ningún requerimiento incidental podrá utilizarse como mecanismo para imponer
+7 retroactivamente nuevas exigencias generales al proyecto principal, ni para condicionar el inicio o
+8 continuación de una obra previamente autorizada mediante evaluaciones ajenas al objeto limitado
+9 del trámite incidental.”
+10 “Artículo 8.4A-4.- Integración al Sistema Unificado de Información, autorización
+11 concurrente y cierre formal.
+12 Toda solicitud, certificación, requerimiento, determinación, inspección, informe de
+13 cumplimiento y cierre relacionado con el Permiso Único Incidental Operacional deberá tramitarse,
+14 documentarse y conservarse en el Sistema Unificado de Información o Single Business Portal.
+15 La Autorización para Corte, Poda o Trasplante de Árboles podrá solicitarse y evaluarse
+16 conjuntamente con el permiso de construcción, cuando la información necesaria para ambos
+17 trámites esté disponible y la actividad proyectada resulte accesoria a la obra principal, conforme a
+18 los criterios establecidos por reglamento.
+19 Cuando el Permiso Único Incidental Operacional requiera informes periódicos o mensuales
+20 de inspección, el sistema deberá permitir su radicación electrónica, validación y cierre formal. Una
+21 vez conste en el expediente electrónico el cumplimiento con los informes requeridos y no surjan
+10
+1 hallazgos materiales de incumplimiento, el cierre del trámite incidental se realizará de forma
+2 ministerial o automatizada, conforme a lo dispuesto por reglamento.
+3 La Oficina de Gerencia de Permisos y la Junta de Planificación adoptarán la
+4 reglamentación necesaria para implantar este Artículo, incluyendo listas taxativas o delimitadas
+5 de supuestos elegibles, criterios de evaluación expedita, formularios estandarizados, mecanismos
+6 de cierre formal, términos aplicables y aquellas excepciones que resulten indispensables para
+7 proteger el interés público.
+8 El Sistema Unificado de Información o Single Business Portal deberá incorporar un
+9 módulo específico para el carril cuasi automático del Permiso Único Incidental Operacional, que
+10 permita la radicación estandarizada, la certificación electrónica del Profesional Autorizado, la
+11 validación formal del expediente, el cómputo automático de términos y la emisión ministerial de la
+12 autorización cuando proceda conforme a esta Ley.”
+13 Sección 3.- Reglamentación.
+14 La Oficina de Gerencia de Permisos, en coordinación con la Junta de Planificación,
+15 adoptará o enmendará la reglamentación necesaria para implantar esta Ley, de
+16 conformidad con la Ley 161-2009, según enmendada, la Ley 38-2017, según enmendada,
+17 y el resto del ordenamiento aplicable.
+18 Dicha reglamentación deberá adoptarse dentro de un término que no excederá de
+19 ciento ochenta (180) días contados a partir de la vigencia de esta Ley.
+20 Sección 4.- Interpretación.
+21 Las disposiciones de esta Ley deberán interpretarse de forma tal que adelanten la
+22 naturaleza accesoria, expedita y proporcional al riesgo del Permiso Único Incidental
+11
+1 Operacional, sin menoscabar requisitos sustantivos expresamente impuestos por ley ni
+2 autorizar modificaciones materiales encubiertas al amparo de un trámite incidental.
+3 Sección 5.- Separabilidad.
+4 Si cualquier cláusula, párrafo, inciso, Artículo o parte de esta Ley fuere declarada
+5 nula o inconstitucional por un tribunal con jurisdicción competente, la sentencia dictada
+6 a tal efecto no afectará, perjudicará ni invalidará las demás disposiciones de esta Ley. Su
+7 efecto quedará limitado a la cláusula, párrafo, inciso, Artículo o parte así declarada.
+8 Sección 6.- Vigencia.
+9 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3  .r L r e P Ú I O c u t a e e s n a y l r a o a m d l t o d d s p l r o r d a y a o s s e y e p P A e l c q c l c e p l y r d p t ; d Á p s j a p d c c e m d c f s y p o f m p d c m a o o p d i a c g i y]
+[DELETED:  g a v a e a v a s a s a q n g r c e v a d t P Ú I e u a u p a a o c r c u o p a t d l e y e d P Ú I a P p m r a e n S p n e e]
+[DELETED:  d P Ú I O d l s e q A c p o s i p a S ; c q c c c o d e y e m s p e d d e r c d m c a a y p q l a v a p y a p t c m Ú I O c u t a c y s a u a p c o d f m p e]
+[DELETED:  p a v e p a e c c l c t a o P Ú I O p c e o l s a O d G d P p c o c m t s q s l n a d P Ú I O L t d P Ú I O n p u p r r a c o d f m s e c d c m]
+[DELETED:  i s e m s i f o e l e 2 S a i d d A 8 l n A E e m L e m E c n p r a s l r d d e c r o r y p e e o s ( e ( a ( ( a]
+[DELETED:  ( a L O d G d P e c c l J d P e m r l t o d d l a q p t d t “ 8 E e y c c a p P A C u ( ( s ( e ( I ; ( n e c d d u c e e p l o r a]
+[DELETED:  C b a a s ( m ( ( r ( ( E G d e e L d t U . l O y c c e e e c l c d P]
+[DELETED:  A s a f p y a r e c d f f e m s L Ú r e L c e p e c c a l d m r l c a “ 8 P d r d y v a p m E l t d P Ú I O n p r l r ( ( a ( ( a]
+[DELETED:  ( ml L a e d P Ú I O d l s a c N r i p u c m p i r c d “ 8 I a S U d I a c T s c r d i i d c doS. L c c e p d c c l i n p a t l C d v]
+[DELETED:  h m d i e c d t i s r d f m L O d G d P y l J d P a l r d d c f t a y a e q r i p p E S U d I o  d i u P m p v a o e l r n p i e L d a e y p a r d P Ú I]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1156
+23 de marzo de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar el Artículo 8.4A y añadir, inmediatamente después del mismo, los nuevos
+Artículos 8.4A-1, 8.4A-2, 8.4A-3 y 8.4A-4 a la Ley 161-2009, según enmendada, conocida
+como la “Ley para la Reforma del Proceso de Permisos de Puerto Rico”, a los fines de
+optimizar el Permiso Único Incidental Operacional como un trámite accesorio
+verdaderamente expedito; establecer su naturaleza accesoria y limitada respecto al
+permiso o autorización matriz; disponer listas taxativas o delimitadas de supuestos
+elegibles; prohibir la reapertura o reexamen de asuntos ya adjudicados o satisfechos
+mediante el permiso principal, salvo circunstancias excepcionales; autorizar, como regla
+general, su evaluación y expedición por Profesionales Autorizados en los casos que
+cumplan con los criterios establecidos por ley y reglamento; disponer para términos
+abreviados, documentación estandarizada e integración obligatoria al Sistema Unificado
+de Información o Single Business Portal; permitir que la Autorización para Corte, Poda o
+Trasplante de Árboles pueda solicitarse junto al permiso de construcción cuando
+proceda; establecer mecanismos de cierre formal simplificado; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+En múltiples proyectos de construcción, mejoras, actividades operacionales o
+gestiones complementarias previamente autorizadas, la obra o actividad principal puede
+verse detenida por trámites incidentales que, aunque se suponen accesorios al permiso
+matriz, terminan funcionando como una segunda capa de evaluación administrativa. Esa
+realidad provoca dilaciones innecesarias, aumenta costos, genera incertidumbre y
+
+2
+desnaturaliza el propósito de simplificación que debe regir el sistema de permisos en
+Puerto Rico.
+Cuando una obra principal ya fue evaluada y autorizada, no resulta razonable que
+toda gestión accesoria vinculada a esa autorización vuelva a someter al solicitante a
+requerimientos repetitivos, revisiones sobre asuntos previamente adjudicados o demoras
+desproporcionadas que no guardan relación con el verdadero alcance del trámite
+incidental. Esa situación afecta proyectos de diversa escala, dificulta el inicio oportuno de
+obras ya aprobadas y crea un entorno regulatorio menos predecible para ciudadanos,
+profesionales y sectores productivos.
+El Informe Final del Task Force para la Simplificación del Sistema de Permisos de
+Puerto Rico, revisado al 31 de octubre de 2025, identificó expresamente la optimización
+del Permiso Único Incidental como un área de reforma necesaria. Según dicho informe,
+el Permiso Único Incidental es una autorización utilizada para atender actividades
+menores o complementarias relacionadas con una obra previamente aprobada, tales
+como corte y poda de árboles, movimiento de terreno e instalaciones temporeras, entre
+otras, y recomendó su agilización para evitar que proyectos ya aprobados permanezcan
+paralizados en espera de gestiones incidentales.
+Ese mismo informe recomendó que se realicen cambios legales o reglamentarios
+para delegar la evaluación y expedición del Permiso Único Incidental al Profesional
+Autorizado, establecer mecanismos de cierre formal una vez conste el cumplimiento con
+las inspecciones requeridas y permitir que la Autorización para Corte, Poda o Trasplante
+de Árboles pueda solicitarse junto al permiso de construcción.
+La presente medida responde a esa necesidad. Su propósito no es eliminar
+controles legítimos ni permitir que, al amparo de un trámite incidental, se introduzcan
+cambios materiales que alteren la esencia del proyecto autorizado. Tampoco pretende
+relevar del cumplimiento con requisitos sustantivos aplicables por ley. Lo que persigue
+es asegurar que el Permiso Único Incidental opere verdaderamente como un trámite
+accesorio, expedito y proporcional al riesgo de la actividad que regula.
+
+3
+A esos fines, esta Asamblea Legislativa establece por ley la naturaleza accesoria y
+limitada del Permiso Único Incidental Operacional; delimita los supuestos en que
+procede; prohíbe la reapertura de asuntos ya adjudicados en el permiso principal, salvo
+circunstancias excepcionales; promueve su evaluación expedita, preferentemente por el
+Profesional Autorizado cuando proceda; ordena su integración plena al Sistema
+Unificado de Información o Single Business Portal; y crea un carril cuasi automático para
+aquellos casos que cumplan con criterios objetivos, documentación estandarizada y
+certificación profesional suficiente.
+Con esta medida se procura evitar duplicidad de esfuerzos, reducir cargas
+innecesarias, dar mayor certeza al administrado y permitir que las actividades
+incidentales vinculadas a proyectos ya autorizados puedan tramitarse con mayor
+rapidez, sin menoscabar la seguridad, la salud, el ambiente ni el interés público.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 8.4A de la Ley 161-2009, según enmendada,
+2 para que lea como sigue:
+3 “Artículo 8.4A.- Permiso Único y Permiso Único Incidental Operacional.
+4 Todo edificio existente o nuevo, con usos no residenciales, así como todo negocio
+5 nuevo o existente, obtendrá el Permiso Único para iniciar o continuar sus operaciones, el
+6 cual incluirá los permisos, licencias, certificaciones y autorizaciones que correspondan
+7 conforme a esta Ley y al Reglamento Conjunto.
+8 Además, la Oficina de Gerencia de Permisos creará y mantendrá disponible el
+9 Permiso Único Incidental Operacional, como un trámite accesorio, complementario y
+10 subordinado a una autorización, permiso, consulta o determinación final matriz previamente
+11 emitida o reconocida conforme a esta Ley. El Permiso Único Incidental Operacional tendrá el
+
+4
+1 propósito de atender actividades incidentales, temporeras, auxiliares o complementarias que no
+2 alteren de forma material la esencia del proyecto o uso previamente autorizado, pero que requieran
+3 validación específica para asegurar el cumplimiento con los controles técnicos, ambientales,
+4 operacionales o de seguridad que resulten aplicables.
+5 El Permiso Único Incidental Operacional podrá comprender, entre otros, los
+6 siguientes supuestos:
+7 (a) Autorización para Corte, Poda o Trasplante;
+8 (b) Permiso General Consolidado;
+9 (c) Permiso General para otras Obras;
+10 (d) Permiso de Extracción Incidental a una obra autorizada por la Oficina de
+11 Gerencia de Permisos;
+12 (e) permisos simples de naturaleza accesoria; y
+13 (f) cualquier otra gestión incidental o complementaria que se establezca por
+14 reglamento, siempre que no constituya una modificación material del proyecto, uso o
+15 autorización matriz.
+16 La Oficina de Gerencia de Permisos podrá crear o consolidar, mediante
+17 reglamento, otros permisos incidentales que estime necesarios para simplificar y agilizar
+18 los trámites, siempre que se mantenga la naturaleza accesoria del Permiso Único Incidental
+19 Operacional y se cumpla con las limitaciones dispuestas en esta Ley.
+20 La tramitación del Permiso Único Incidental Operacional no podrá utilizarse para reabrir,
+21 reconsiderar o reevaluar asuntos ya adjudicados, aprobados o satisfechos mediante el permiso,
+22 autorización, consulta o determinación final matriz, salvo en caso de cambio material,
+
+5
+1 incumplimiento sobrevenido, error manifiesto sustancial, información falsa o exigencia legal
+2 expresa.”
+3 Sección 2.- Se añaden, inmediatamente después del Artículo 8.4A, los nuevos
+4 Artículos 8.4A-1, 8.4A-2, 8.4A-3 y 8.4A-4 a la Ley 161-2009, según enmendada, para que
+5 lean como sigue:
+6 “Artículo 8.4A-1.- Naturaleza accesoria, alcance limitado y supuestos elegibles.
+7 El Permiso Único Incidental Operacional será un trámite de alcance limitado y naturaleza
+8 estrictamente accesoria respecto a una obra, actividad, uso, consulta, determinación final o permiso
+9 matriz previamente autorizado o reconocido conforme a esta Ley.
+10 La evaluación del Permiso Único Incidental Operacional se circunscribirá a los aspectos
+11 específicos de la actividad incidental solicitada y a su compatibilidad con el permiso o autorización
+12 matriz. En consecuencia, no podrá requerirse al solicitante la radicación de documentación,
+13 estudios, certificaciones, recomendaciones o revisiones ya presentadas, evaluadas, emitidas o
+14 satisfechas en el trámite principal, salvo que:
+15 (a) la actividad incidental propuesta constituya una alteración material no contemplada
+16 en el permiso matriz;
+17 (b) haya ocurrido un cambio material en las condiciones del predio, de la obra o de la
+18 actividad autorizada;
+19 (c) exista incumplimiento sobrevenido con las condiciones impuestas;
+20 (d) medie una exigencia legal o reglamentaria expresa específicamente aplicable a la
+21 actividad incidental; o
+
+6
+1 (e) sea indispensable atender un riesgo real y documentado a la salud, a la seguridad o al
+2 ambiente que no haya sido evaluado previamente.
+3 La Oficina de Gerencia de Permisos, en coordinación con la Junta de Planificación,
+4 establecerá mediante reglamento listas taxativas o delimitadas de las actividades que podrán
+5 tramitarse mediante Permiso Único Incidental Operacional, así como los criterios objetivos para
+6 distinguir entre actividades meramente incidentales y modificaciones materiales que requieran un
+7 trámite distinto.”
+8 “Artículo 8.4A-2.- Evaluación expedita y carril cuasi automático por Profesional
+9 Autorizado.
+10 Como regla general, el Permiso Único Incidental Operacional será evaluado y expedido por
+11 un Profesional Autorizado cuando la actividad solicitada:
+12 (a) sea verdaderamente incidental y accesoria al permiso o autorización matriz;
+13 (b) no altere de forma material el uso autorizado, la volumetría principal, la localización
+14 sustancial del proyecto ni los parámetros esenciales previamente aprobados;
+15 (c) cumpla con las listas taxativas o delimitadas, criterios objetivos y documentos
+16 estandarizados establecidos por reglamento;
+17 (d) pueda documentarse y verificarse adecuadamente a través del Sistema Unificado de
+18 Información o Single Business Portal; y
+19 (e) no esté comprendida dentro de una categoría exceptuada expresamente por ley o
+20 reglamento por razón de complejidad extraordinaria, sensibilidad ambiental o patrimonial, riesgo
+21 a la seguridad pública o exigencia legal especial.
+
+7
+1 Cuando concurran los requisitos antes dispuestos y el Profesional Autorizado certifique,
+2 bajo su firma y responsabilidad profesional, que la actividad incidental cumple con los parámetros
+3 aplicables, el trámite se expedirá por el carril cuasi automático, sin revisión técnica sustantiva
+4 adicional por parte de la Oficina de Gerencia de Permisos, salvo que del expediente electrónico
+5 surja de forma clara:
+6 (1) una inconsistencia material entre la solicitud incidental y el permiso o autorización
+7 matriz;
+8 (2) un incumplimiento aparente con una condición expresa del permiso matriz;
+9 (3) la ausencia de un documento indispensable expresamente requerido por ley o
+10 reglamento;
+11 (4) información contradictoria, falsa o manifiestamente insuficiente; o
+12 (5) un impedimento legal expreso para la expedición.
+13 En los casos tramitados por el carril cuasi automático, la intervención de la Oficina de
+14 Gerencia de Permisos quedará limitada a verificar la integridad formal del expediente, la presencia
+15 de la certificación del Profesional Autorizado y la inexistencia de alguna de las circunstancias
+16 excepcionales antes enumeradas. La Oficina no podrá reabrir ni reevaluar asuntos ya adjudicados
+17 en el permiso o autorización matriz.
+18 La Oficina de Gerencia de Permisos deberá expedir, confirmar o dejar sin efecto, mediante
+19 determinación fundamentada, toda solicitud tramitada por el carril cuasi automático dentro de un
+20 término que no excederá de cinco (5) días laborables desde su radicación completa en el Sistema
+21 Unificado de Información o Single Business Portal. Transcurrido dicho término sin actuación de
+22 la Oficina y constando completo el expediente electrónico con la certificación del Profesional
+
+8
+1 Autorizado, el Permiso Único Incidental Operacional se entenderá expedido ministerialmente,
+2 sujeto a fiscalización posterior y a revocación en caso de fraude, falsedad, error manifiesto
+3 sustancial o incumplimiento material con la ley o el reglamento aplicable.
+4 La Oficina de Gerencia de Permisos retendrá la evaluación y expedición directa del Permiso
+5 Único Incidental Operacional únicamente en aquellos casos exceptuados expresamente por ley o
+6 reglamento conforme al inciso (e) de este Artículo, o cuando concurra alguna de las circunstancias
+7 extraordinarias antes descritas.
+8 La reglamentación que se adopte al amparo de esta Ley deberá identificar con claridad las
+9 categorías elegibles para el carril cuasi automático, los documentos mínimos requeridos, las
+10 causales taxativas para sacar un caso de dicho carril y los mecanismos de fiscalización posterior
+11 aplicables.”
+12 “Artículo 8.4A-3.- Prohibición de requerimientos duplicados y vinculación al permiso
+13 matriz.
+14 En la tramitación del Permiso Único Incidental Operacional no podrá requerirse la
+15 reevaluación de:
+16 (a) la compatibilidad del uso ya autorizado;
+17 (b) los parámetros de diseño o construcción ya aprobados, en la medida en que no se
+18 alteren materialmente;
+19 (c) las recomendaciones interagenciales previamente emitidas y satisfechas;
+20 (d) las determinaciones ya adjudicadas sobre clasificación, calificación o consulta
+21 aplicable; ni
+
+9
+1 (e) los documentos, planos, certificaciones o evidencias ya presentados en el expediente
+2 matriz y disponibles en el Sistema Unificado de Información o Single Business Portal.
+3 La autoridad evaluadora del Permiso Único Incidental Operacional deberá limitar su
+4 análisis a la actividad incidental objeto de la solicitud, a las condiciones del permiso matriz y al
+5 cumplimiento con los requisitos específicamente aplicables a dicha actividad.
+6 Ningún requerimiento incidental podrá utilizarse como mecanismo para imponer
+7 retroactivamente nuevas exigencias generales al proyecto principal, ni para condicionar el inicio o
+8 continuación de una obra previamente autorizada mediante evaluaciones ajenas al objeto limitado
+9 del trámite incidental.”
+10 “Artículo 8.4A-4.- Integración al Sistema Unificado de Información, autorización
+11 concurrente y cierre formal.
+12 Toda solicitud, certificación, requerimiento, determinación, inspección, informe de
+13 cumplimiento y cierre relacionado con el Permiso Único Incidental Operacional deberá tramitarse,
+14 documentarse y conservarse en el Sistema Unificado de Información o Single Business Portal.
+15 La Autorización para Corte, Poda o Trasplante de Árboles podrá solicitarse y evaluarse
+16 conjuntamente con el permiso de construcción, cuando la información necesaria para ambos
+17 trámites esté disponible y la actividad proyectada resulte accesoria a la obra principal, conforme a
+18 los criterios establecidos por reglamento.
+19 Cuando el Permiso Único Incidental Operacional requiera informes periódicos o mensuales
+20 de inspección, el sistema deberá permitir su radicación electrónica, validación y cierre formal. Una
+21 vez conste en el expediente electrónico el cumplimiento con los informes requeridos y no surjan
+
+10
+1 hallazgos materiales de incumplimiento, el cierre del trámite incidental se realizará de forma
+2 ministerial o automatizada, conforme a lo dispuesto por reglamento.
+3 La Oficina de Gerencia de Permisos y la Junta de Planificación adoptarán la
+4 reglamentación necesaria para implantar este Artículo, incluyendo listas taxativas o delimitadas
+5 de supuestos elegibles, criterios de evaluación expedita, formularios estandarizados, mecanismos
+6 de cierre formal, términos aplicables y aquellas excepciones que resulten indispensables para
+7 proteger el interés público.
+8 El Sistema Unificado de Información o Single Business Portal deberá incorporar un
+9 módulo específico para el carril cuasi automático del Permiso Único Incidental Operacional, que
+10 permita la radicación estandarizada, la certificación electrónica del Profesional Autorizado, la
+11 validación formal del expediente, el cómputo automático de términos y la emisión ministerial de la
+12 autorización cuando proceda conforme a esta Ley.”
+13 Sección 3.- Reglamentación.
+14 La Oficina de Gerencia de Permisos, en coordinación con la Junta de Planificación,
+15 adoptará o enmendará la reglamentación necesaria para implantar esta Ley, de
+16 conformidad con la Ley 161-2009, según enmendada, la Ley 38-2017, según enmendada,
+17 y el resto del ordenamiento aplicable.
+18 Dicha reglamentación deberá adoptarse dentro de un término que no excederá de
+19 ciento ochenta (180) días contados a partir de la vigencia de esta Ley.
+20 Sección 4.- Interpretación.
+21 Las disposiciones de esta Ley deberán interpretarse de forma tal que adelanten la
+22 naturaleza accesoria, expedita y proporcional al riesgo del Permiso Único Incidental
+
+11
+1 Operacional, sin menoscabar requisitos sustantivos expresamente impuestos por ley ni
+2 autorizar modificaciones materiales encubiertas al amparo de un trámite incidental.
+3 Sección 5.- Separabilidad.
+4 Si cualquier cláusula, párrafo, inciso, Artículo o parte de esta Ley fuere declarada
+5 nula o inconstitucional por un tribunal con jurisdicción competente, la sentencia dictada
+6 a tal efecto no afectará, perjudicará ni invalidará las demás disposiciones de esta Ley. Su
+7 efecto quedará limitado a la cláusula, párrafo, inciso, Artículo o parte así declarada.
+8 Sección 6.- Vigencia.
+9 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3  .r L r e P Ú I O c u t a e e s n a y l r a o a m d l t o d d s p l r o r d a y a o s s e y e p P A e l c q c l c e p l y r d p t ; d Á p s j a p d c c e m d c f s y p o f m p d c m a o o p d i a c g i y]
+[DELETED:  g a v a e a v a s a s a q n g r c e v a d t P Ú I e u a u p a a o c r c u o p a t d l e y e d P Ú I a P p m r a e n S p n e e]
+[DELETED:  d P Ú I O d l s e q A c p o s i p a S ; c q c c c o d e y e m s p e d d e r c d m c a a y p q l a v a p y a p t c m Ú I O c u t a c y s a u a p c o d f m p e]
+[DELETED:  p a v e p a e c c l c t a o P Ú I O p c e o l s a O d G d P p c o c m t s q s l n a d P Ú I O L t d P Ú I O n p u p r r a c o d f m s e c d c m]
+[DELETED:  i s e m s i f o e l e 2 S a i d d A 8 l n A E e m L e m E c n p r a s l r d d e c r o r y p e e o s ( e ( a ( ( a]
+[DELETED:  ( a L O d G d P e c c l J d P e m r l t o d d l a q p t d t “ 8 E e y c c a p P A C u ( ( s ( e ( I ; ( n e c d d u c e e p l o r a]
+[DELETED:  C b a a s ( m ( ( r ( ( E G d e e L d t U . l O y c c e e e c l c d P]
+[DELETED:  A s a f p y a r e c d f f e m s L Ú r e L c e p e c c a l d m r l c a “ 8 P d r d y v a p m E l t d P Ú I O n p r l r ( ( a ( ( a]
+[DELETED:  ( ml L a e d P Ú I O d l s a c N r i p u c m p i r c d “ 8 I a S U d I a c T s c r d i i d c doS. L c c e p d c c l i n p a t l C d v]
+[DELETED:  h m d i e c d t i s r d f m L O d G d P y l J d P a l r d d c f t a y a e q r i p p E S U d I o  d i u P m p v a o e l r n p i e L d a e y p a r d P Ú I]

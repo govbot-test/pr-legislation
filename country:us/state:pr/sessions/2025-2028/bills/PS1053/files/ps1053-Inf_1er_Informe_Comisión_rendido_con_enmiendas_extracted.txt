@@ -1,0 +1,969 @@
+Title: Ias Comisi6n de Ciencia, Tecnologla e Inteligencia Artificial del Senado de puerto
+Official Title: Ias Comisi6n de Ciencia, Tecnologla e Inteligencia Artificial del Senado de puerto
+Number of Sections: 2
+Source: versions - 1er Informe Comisión rendido con enmiendas
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+ORIGINAL 19
+RECIEID0 JUI€4?6Pil 11
+,*n*y&iffi**
+GOBIERNO DEPUERTORICO
+20-".Asamblea
+
+Section 2:
+3."
+Sesi6n
+Legislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del S. L053
+INFORME POSITTVO
+P t a" pr,io a" ZOzr
+AL SENADO DE PUERTO RICO:
+,r Ricq previo estudio y consideraci6n au L noy"cJ ael Senado 1053, recomienda a este
+Alto Cuelpo su aprobaci6ry con las enmiendas contenidae en er entirillado ereck6nico
+que Be acompafra.
+ALCANCE DE LA MEDIDA
+mercad f e a o r ; a e x r. ig e i g r u l l a a r d i r v a u r p g u a b ci l 6 ic n i d c a la d r a m y e o d b ia ri n g t a e t o e ri r a u c s u o a n d d e o Int . e " li i g r" e r n , c ia ia . A p r r ti l f r ic i. ia iL l " e n , " e , l
+ffiTl1i:.r#lt;.proteaer a los consumidoi", a. ""t"nos " y r contusioni, y p"*-"o*
+INTRoDUccI6N
+La comisi6n de Ciencia, Tecnologra e Interigencia Artificial der senado de puerto
+Rico somete a Ia consideraci6n de este Alto cuerfo el presente Informe positivo
+sobre
+el P' del s. 1053, luego de haber realizado el correspondiente an,lisis de la medida y
+evaluado los memoriales expricativos presentados por las entidades consurtadas.
+La medida propone crear la "Lry para la Transparencia en la publicidad Generada
+por Inteligencia Artificial en pulto Rico", con el prop6sito de establecer requisitos de
+divulgaci6n aplicables a contenido publicitario gerrerado mediante inteligencia artificial.
+A tales fines, el proyecto dis,ole que toda empresa pubricitaria q,r" o,iii." ,r,*rrg;r"
+artificial para generiu contenido deber, divuliar dicho uso de manera clara y visible,
+Comisi6n de Ciencia, Tecnologla e Inteligencia Artificial
+Informe Pooitivo sobre el P. del S. 1(83 Ptgina 2
+incluyendo requisitos especlficos relacionados con ubicaci6& tamafio, formato y
+accesibilidad de las divulgaciones en rlistintos medios publicitarios.
+Ia Comisi6n reconoce que el uso de herramientas de inteligencia artificial en el
+mercadeo y la publicidad ha transformado significativamente la creaci6n y distribuci6n
+de contenido digital, permitiendo la producci6n de imAgenes, videos, audio y material
+promocional altamente realista y personalizado. No obstante, la proliferaci6n de
+tecnolo$as capaces de generar contenido sint6tico y simulaciones hiperrealistas tambi6n
+plantea retos importantes relacionados con la kansparencia, la protecci6n al consumidor
+y la posibilidad de prdcticas engarlosas en entornos comerciales y digitales.
+Asimismo, la medida atiende preocupaciones relacionadas con el impacto que este
+tipo de contenido puede tener sobre poblaciones vulnerables, particularmente personas
+nuyores y consumidores con menor familiaridad tecnol6gica. En ese contexto, el
+proyecto persigue fomentar mayor kansparmcia en el uso de inteligencia artificial en
+campafras publicitarias, promoviendo que los consumidores puedan disthguir entre
+contenido aut€ntico y contenido generado mediante herramientas automatizadas.
+Durante el proceso de evaluaci6n legislativa, la Comisi6n recibi6 memoriales
+explicativos por parte de TechNet y de la Puerto Rico Innovation and Technology Service
+(PRITS). Ambas entidades reconocieron la importancia de promover transparencia en el
+tl uso de inteligencia artilicial y proteger a los consumidores frente a posibles pr6cticas
+engafiosas. No obstante, tambi6n formularon observaciones relacionadas con el alcance
+de la medida, la amplitud de las definiciones propuestas, los mecanjsmos de
+cumplimiento y la necesidad de evitar cargas regulatorias excesivas o ambiguas que
+puedan afectar la innovaci6n tecnol6gica o generar dificultades pr6cticas en la
+implementaci6n de la ley.
+[a Comisi6n entiende que el Proyecto del Senado 1053 atiende un asunto de
+creciente relevancia dentro del contexto tecnol6gico actual y adelanta una discusi6n
+importante sobre hansparencia digital, protecci6n al consumidor y responsabilidad en el
+uso comercial de inteligencia artificial. De igual forma, reconoce que las observaciones
+tecnicas presentadas por las entidades consultadas contribuyen a fortalecer la medida y
+a procuftu una implementaci6n balanceada y consistente con los objetivos de polltica
+p0blica relacionados con innovaci6n tecnol6gica y protecci6n de los consumidores.
+ANALISIS DE LA MEDIDA
+Atendiendo su responsabilidad y deber ministerial en el estudio y evaluaci6n del
+presente Proyecto, la Comisi6n de Ciencia, Tecnologia e Inteligencia Artificial del Senado
+de Puerto Rico analiz6 los memoriales explicativos recibidos por parte de TechNet y
+Comisi6n de Ciencia, Tecnologla e Inteligencia Artificial
+Informe Positivo sobreel P. del S. 1(53
+Ptgina 3
+Puerto Rico Innovation and Technorogy sewice (pRITS), de donde se desprende la
+posici6n expuesta por las entidades consultadas:
+PUERTO RICO INNOVATION AND TECHNOLOGY SERVICE
+la
+Puerto Rico Innovation and rechnology service (pRITS) comp ece mediante
+memorial explicativo en torno ar p. der s. 1053 y expone que la medida persigue regular
+el uso de inteligencia artificial en la pubricidad y el m".cadeo mediante r{uisitos de
+divulgaci6n aplicables a contenido generado por IA. I-a agencia resume las disposiciones
+del proyecto relacionadas con divurgaciones obligatorias, remedios para consumidores,
+mecanismos de fiscalizaci6n y sanciones administrativas a cargo del Departamento de
+Asuntos del Consumidor (DACO).
+PRITS explica que, conforme a ra Ley N,,m. 7L20r9, su funci6n principal consiste
+en implantar y coordinar la politica priblica tecnol6gica del Gobiemo de puerto Rico
+dentro de la Rama Ejecutiva, incruyendo proyectos tecior6gicos, sistemas de informaci6n
+e iniciativas de irurovaci6n. No obstante, seflala que el contenido sustantivo del proyecto
+recae principalmente sobre materias relacionadas con regulaci6n ae p.acuca,
+//t publicitarias, protecci6n al consumidor y fiscalizaci6n de comunicaciones comerciales,
+asuntos que corresponden a la jurisdicci6n del DACO conforme a su ley orgdnica.
+,.a agencia indica que, aunque el proyecto incorpora conceptos tecnol6gicos como
+inteligencia artificiar, metadatos y detecci6n autom6tica en pratarormas ai6,a"",
+tu
+medida no asigru funciones de implantaci6n, regramentaci6n o fiscalizaci6n a pRITS. En
+consecuencia, entiende que el DACo es la entidad con mayor capacidad para evaluar la
+viabilidad operacional de la medida, ros mecanismos de fi""aliza"iorr, ro, iro""dimientos
+relacionados con querenas y los criterios para determinar pr,cticas engafiosas en materia
+publicitaria.
+Finalmente, pRITS recomienda que esta Honorable Comisi6n recabe er insumo del
+DACo respecto a ra conveniencia, reglamentaci6n, imprantaci6n y mecanismos de
+cumplimiento asociados al proyecto, por tratarse de una medida
+enlocada
+principalmente en protecci6n aI consumidoi y regulaci6n publicitaria.
+TECHNET
+TechNet comp:uece mediante memorial expricativo en tomo aI p. der s. 1053 y
+* ex : P t1 re s'r apoyo al objetivo general de promover transparencia en el uso de inteligencia
+en Ia publicidad y proteger a los consumidor",
+pr6cticas engafrosas. La
+entidad reconoce que requisitos craros de divurgaci6n pue " d o e r n r o f " o rtalecer ra confianza del
+Comigi6n de Ciencia, Tecnologla e Inteligencia Artificial
+Informe Positivo sobre el P. del S. 1053 ?i$na 4
+consumidor y facilitar decisiones informadas. No obstante, advierte que la legislaci6n
+debe diseflarse cuidadosamente para evitar consecuencias no intencionadas que pudan
+inhibir la innovaci6n o imponer obligaciones de cumplimiento impracticables.
+TechNet sostiene que el proyecto resulta excesivamente amplio en su alcance y
+podrla incluir usos rutinarios y de bajo riesgo de inteligencia artificial que no representan
+daffo para los consumidores. segrln expone,la medida no distingue adecuadamente enke
+usos de alto riesgo y aplicaciones comunes de herramientas automatizadas utilizadas
+acfualmente en procesos est6ndar de mercadeo, tales como edici6n de im6genes,
+tipograffas o formatos de contenido. En consecuencia, entiende que la divulgaci6n podrla
+terminar aplic6ndose a pr6cticamente toda publicidad moderna, reduciendo su
+efectividad como mecanismo significativo de transparencia.
+Asimismo, la entidad recomienda armonizar la definici6n de inteligencia artificial
+con el marco desarrollado por Ia organizaci6n para la Cooperaci6n y el Desarrollo
+Econ6mico (ocDE) en 2023, a fin de garantizar mayor claridad, consistencia e
+interoperabilidad con otras jurisdicciones. Tambi6n recomienda incluir exenciones
+expresas para proveedores de infraestrucfura y servicios intermediarios que no crean ni
+conbolan contenido publicitario, tales como proveedores de telecomunicaciones,
+tl servicios en la nube, banda ancha y ciberseguridad.
+Finalmente, TechNet expresa preocupaci6n sobre la posibilidad de que el proyecto
+pueda interpretarse como la creaci6n de un derecho de acci6n privado. por ello,
+recomienda aclarar que la autoridad de aplicaci6n recaiga exclusivamente sobre agencias
+gubernamentales, particularmente el Departamento de Asuntos del Consumjdor o el
+Departamento de Justici4 sefralando que ello promoverla uniformidad regulatoria,
+reduciria litigios excesivos y proveeria expectativas claras de cumplimiento para las
+emPresas.
+DEPARTAMENTO DE ASDI.JNTOS AL CONSI,JMIDOR
+El Departamento de Asuntos del Consumidor (DACO) compareci6 ante la
+Comisi6n para expresar sus comentarios sobre el Proyecto del Senado 1053, medida que
+propone crear la "l*y para la Transparencia m la Publicidad Generada por Inteligencia
+Artificial en Puerto Rico". Segrin explica el memorial, el prop6sito principal de la medida
+es regular la publicidad generada mediante inteligencia artificial, exigir divulgaciones
+claras cuando el contenido publicitario haya sido creado por IA y proteger a los
+consumidores de posibles engaflos o confusiones.
+DACO destaca que, conforme a su Ley Org6nic4 posee facultades amplias para
+proteger los derechos de los consumidores y fiscalizar prdcticas comerciales que puedan
+resultar engaflosas o perjudiciales. En ese contexto, reconoce que el desarrollo acelerado
+Comisi6n de Ciencia, Tecnologia e Inteligencia Artificial
+Informe Positivo sobre el p. del S. 1053
+na5
+de herramientas de inteligencia artificial generativa plantea nuevos retos regulatorios que
+requieren atenci6n gubemamental.
+El memorial enfatiza el crecimiento exponencial de tecnologlas de IA generativa
+como chatcpr, Googre Gemini y Microsoft Copilo! y advieie sobre ros riesgos
+asociados al uso indebido de estas herramientas para crear contenido falso o manipulado,
+particularmente mediante tEcnicas conocidas como ,,deepfake,,. DACO sefiala que estas
+tecnologlas permiten gener.* im6genes, videos y audios con niveles de rearismo que
+dificultan distinguir entre contenido autdntico y contenido fabricado digitalmente.
+Como parte de su argumentaci6n, la agencia cita estadisticas del Bur6 Federal de
+Investigaciones (FBI) relacionadas con el aumento de quereras asociadas a esquemas
+fraudulentos que utilizan inteligencia artificial. Asimismo, indica que los consumidores,
+especialmente los adultos mayores, se encuentran entre los sectores m6s vulnerables ante
+este tipo de fraude.
+DACo tambien informa que ha desarrollado iniciativas dirigidas a atender este
+fen6meno, incluyendo esfuerzos educativos en coordinaci6n con entidades federales y la
+creaci6n de una Unidad para ra Detecci6n de Esquemas Fraudulentos contra el
+Consumidor. seglrn el memorial, enke diciembre ae zoNy mayo de 2026dicha unidad
+identific6 aproximadamente treinta y ocho esquemas fraudulentos difundidos mediante
+11 271 medios elech6nicos, de los cuales heinta y dos involucraban algrin grado de utilizaci6n
+/Wn"
+de inteligencia artificial.
+la
+agencia concutre con parte de la Exposici6n de Motivos del
+proyecto,
+particularmente en cuanto al riesgo que representa ra confusi6n entre contenido real y
+contenido generado artificialmente. DACO destaca que imdgenes y rfresentaciones
+creadas mediante herramientas de IA pueden inducir a error a lis co.uumiio.es y afectar
+su capacidad para tomar decisiones informadas.
+EI memoriar describe adem6s los mecanismos de protecci6n aI consumidor
+contemprados en Ia medida, incluyendo la facurtad de presenL querelas ante DACo, la
+posibilidad de recibir compensaci6n por dafios ocasionados por publicidad engafrosa
+generada mediante IA y el desarrollo de campaffas educativas financiadas mediante las
+multas que imponga ra agencia. Tambi€n resefia las sanciones propr""* po. proyecto,
+que incluyen multas adminishativas, 6rdenes de cese y desista ,"rr.ion" "r , civiles y
+posibles referidos criminales en casos graves.
+No obstante, a,nque DACo reconoce Ia intenci6n positiva de ra medida y
+necesidad de atender los riesgos asociados al uso de inteligencia artificial en el mercado ra ,
+recomienda que la Asamblea kgislativa considere los estuiios y *ai"i, j.r" .uu1."., tu"
+entidades gubemammtares
+especializadas en innovaci6n y te.norogla, p;cularmente
+Comisi6n de Ciencia, Tecnologia e Inteligencia Artificial
+Informe Positivo sobre el P. del S. 1053 Pigina 6
+la oficina de Innovaci6n y servicios de Tecnologia del Gobiemo de puerto Rico (pRITS),
+antes de adoptar un rrtarco regulatorio definitivo.
+En tErminos generales, DACo favorece los objetivos del proyecto del senado 1053 y
+reconoce la necesidad de proteger a los consumidores frente a practicas engaffosas
+facilitadas por la inteligencia artificial. sin embargo, la agencia recomienda que cualquier
+regulaci6n en esta mateda se adopte tomando en coruideraci6n la evaluaci6n t6cnica y
+especializada de las entidades gubemamentales con competencia en tecnologla e
+innovaci6ry a fin de garantizar un rlarco regulatorio efectivo y adecuadamente
+fundamentado.
+CONCLUSI6N
+Luego de evaluar el Proyecto del Senado 1053 y considerar los memoriales
+explicativos presentados por la Puerto Rico Innovation and rechnology service (pRITS),
+TechNet y el Departamento de Asuntos del Consumidor (DACO), esta Comisi6n
+concluye que la medida atiende un asunto de creciente relevancia para la protecci6n de
+los corsumidores y la transparencia en los mercados digitales, particularmente ante la
+r6pida expansi6n de herramientas de inteligencia artificial capaces de generar contenido
+/,f
+publicitario altamente realista.
+La evidencia recibida demuestra que el uso de inteligencia artilicial generativa
+presenta oportunidades significativas para la innovaci6n y el desarrollo econ6mico, pero
+tambi€n plantea riesgos reales relacionados con la difusi6n de contenido engafioso, la
+manipulaci6n de imigenes, audio y video, y la posible confusi6n de los consumidores
+respecto a la autenticidad de la informaci6n que reciben. En ese sentido, la Comisi6n
+considera razonable que el ordenamiento jurldico provea mecanismos que promuevan la
+transparencia cuando se utilicen estas tecnolo$as con fines publicitarios.
+la
+Comisi6n reconoce las preocupaciones planteadas por TechNet respecto al
+alcance de la medid4 la necesidad de definiciones tEcnicamente precisas y Ia
+conveniencia de evitar cargas regulatorias excesivas que puedan afectar Ia innovaci6n,
+Del mismo modo, toma en consideraci6n la recomendaci6n de PRITS y DACO de
+procurar que cualquier marco regulatorio en esta materia incorpore el insumo t6cnico de
+las entidades gubernamentales con peritaie especializado en tecnolo$a e innovaci6n.
+Particularmente persuasivo resulta el insumo provisto por DACO, entidad con
+jurisdicci6n directa sobre la protecci6n de los consumidores en Puerto Rico, al
+documentar el aumento de esquemas fraudulentos facilitados por inteligencia artificial y
+los retos que estas tecnolog{as representm para la capacidad de los consumidores de
+distingrrir entre contenido aut€ntico y contenido generado artificialmente.
+Comisi6n de Cienci4 Tecrrologia e Inteligencia Artificial
+Informe Positivo sobre el P, del S. 1(83
+PAg;na 7
+A juicio de esta Comisi6ry el proyecto del senado 1053 constituye una respuesta
+Iegislativa razonable a una rearidad tecnor6gica emergente y adelanta objetivos le$timos
+de polltica priblica relacionados con la transparencia comerciar, la protecci,6n der
+consumidor y el uso responsabre de la interigencia artificiar. por consiguiente, esta
+Comisi6n recomienda la aprobaci6n de ra medida con las enmiendas contenidas en er
+entirillado electr6nico que se acompafla.
+POR TODO LO ANTES EEUESTO, Ia Comisi6n de Ciencia, Tecnologta
+e
+Inteligencia Artificial der senado de puerto Rico, previo estudio y consideraci6ry uener, a
+bien presentar ante este Alto Cuerpo el Informe positivo sobre el proyecto der senado
+1053, recomendando su aprobaci6n con las enmiendas contenidas en el entirinado
+eleck6nico que se acompafia.
+4RespLefuosamente
+lYilmer Reyes Berrios
+Presidente
+Comisi6n de Ciencia, Tecnologla
+e Inteligencia Artificial
+(Entirillado Electr6nico)
+GOBIERNO DE PUERTO RICO
+20tr. Asamblea
+3ra Sesi6n
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. L053
+3 de febrero de2026
+Presentado por la sefrora Soto Aguili
+Refendo a la Comisi6n de Ciencia, Tecnologia e lnteligmcia Artifcial
+LEY
+Para regular la publicidad mediante el uso de Inteligencia Artificial en el mercadeo; exigir
+Ia divulgaci6n clara y obligatoria cuando el contenido publicitario sea generado por
+IA; proteger a los consumidores de engaflos y confusiones; y pari otos fines
+relacionados.
+/,,,e
+HFOSICIoN DE MOTTVOS
+En la era digital actual, la Inteligencia Artificial (IA) ha revolucionado el campo del
+mercadeo y la publicidad, permitiendo la creaci6n de contenidos altamente
+personalizados, realistas y atractivos a un costo reducido. Herramientas tales, como
+generadores de imdgenes, videos, textos y audio sintdticos han facilitado la producci6n
+de campaffas publicitarias que simuran experiencias humanas autEnticas, lo que
+representa un avance tecnol6gico significativo. sin embargo, este progreso trae consigo
+desafios 6ticos y de transparencia que afectan directamente a los corsumidores en puerto
+Rico, una iurisdicci6n insular con una poblaci6n diversa que incluye un alto porcentaje
+de personas mayores y comunidades vulnerables.
+uno de Ios problemas principales que presente esta nueva vertiente, es la confusi6n
+entre lo real y lo generado por IA. por ejempro, las imdgenes hiperrealistas creadas por
+2
+algoritmos como DALL-E o Midjourney pueden representar escenarios, testimonios o
+representaciones que parecen capturados de la vida real, pero que en realidad son
+fabricados digitalmente. Esto puede llevar a que los consumidores tomen decisiones
+informadas basadas en percepciones err6neas, creyendo que est5n viendo evidencia
+aut6ntica de veracidad, efectividad o representaciones genuinas. En momentos
+especlficos, como durante campafras promocionales de alto volumen (pot ejemplo, en
+temporadas de compras como Navidad o Black Friday), las personas pueden confundir
+la realidad, asumiendo que un video de un usuario satisfecho es real cuando en verdad
+es un "deepfake" o una simulaci6n IA.
+Particularmente preocupante es el impacto en poblaciones vulnerables, como las
+persoruE rnayores. En Puerto Rico, donde el 23% de la poblaci6n tiene 65 afros o m6s
+segrln datos del Censo de los Estados Unidos de 202O los adultos mayores a menudo
+enfrentan barreras digitales y una menor familiaridad con la tecnologia. Estos individuos
+aft/ pueden ser engaffados ficilmente por imSgenes o videos generados por IA que simulan
+ofertas atractivas, endosos de celebridades falsas o representaciones idealizadas. Es
+decir, un anuncio de un servicio financiero con imdgenes IA de 'rantes y despu6s" podrla
+inducir a un anciano a creer en resultados imposibles, llevando a decisiones impulsivas
+que comprometen su bienestar econ6mico o fisico.
+Estudios intemacionales, como el informe de la Organizaci6n para la Cooperaci6n y
+el Desarrollo Econ6mico (OCDE) de 2023 sobre IA y consumidores, destacan que el45%
+de los encuestados mayores de 60 aflos no distinguen entre contenido real y sint6tico
+aumentando el riesgo de fraudes y desinformaci6n. Adem6s, la lalta de regulaci6n en
+este embito fomenta prActicas desleales en el mercado. Empresas sin escrrlpulos podrlan
+utilizar IA piua crear campafias que exageran beneficios sh evidencia real, violando
+ky
+principios de veracidad publicitaria establecidos en leyes existentes como la de
+Pr6cticas Monopolisticas y Competencia Desleal de Puerto Rico (t*y N.1^. 77 de ?5 de
+iunio de 1954).
+3
+Esto no solo erosiona la confianza en el mercado, sino que tambi6n perjudica a
+competidores 6ticos que invierten en contenido autentico. En contextos locales, como la
+publicidad turistica en ra Isla, donde se promueven playas o experiencias curfurales, el
+uso no divulgado de IA podria distorsionar ra percepci6n de visitantes y residentes,
+afectando la economla turrstica que representa er 7% der pIB de puerto Rico segrin el
+Banco de Desarrollo Econ6mico
+otro asunto relevante es, que ante ra falta de informaci6n veraz, sin divurgaci6n clar4
+los consumidores s€ ven expuestos a manipulaciones sutiles que explotan
+sesgos
+cognitivos, como el efecto de anclaje en decisiones. por ejemplo, un anuncio IA de un
+evento cultural con escenarios ideares podrla influir en audiencias de bajos ingresos,
+llev6ndolos a participar innecesariamente. Adicionarmente, en er 6mbito de ra salud y ra
+seguridad, campaflas reguladas como ras de medicamentos o servicios podrlan ser
+promocionadas con aregaciones falsas generadas por IA, poniendo en riesgo ra sarud
+prlblica.
+,/7
+Esta medida propone una regulaci6n innovadora y equilibrada, ya que no impone
+costos adicionales significativos a las empresas. ra exigencia de divulgaci6n se rimita a
+etiquetas claras y visibles, como "contenido Generado por IA,,, que pueden integrarse
+f6cilmente en platalormas digitales sin requerir inversiones masivas. Esto contrasta con
+regulaciones m6s onerosas en otras jurisdicciones, como la uni6n Europea bajo el ,,AI Act
+de 2024" , que incluye auditorlas complejas.
+En Puerto Rico, esta Iey serra pionera, ya que no existe legisraci6n especifica sobre IA
+en mercadeo, comprementando marcos existentes como la Ley de protecci6n
+al
+Consumidor (Ley Nrim. s de ?j de abril de 19731sin sorapamientos innecesarios.
+Er
+objetivo es fomentar la innovaci6n tecnor6gica mientras se protege a los consumidores,
+promoviendo un
+ecosistema publicitario 6tico que beneficie a todas las
+partes
+involucradas' Ar exigir Eansparencia, se empodera a ros puertorriquefros para tornar
+decisiones inrormadas, reduciendo litigios y quejas ante agencias como el Departamento
+de Asuntos del Consumidor (DACO). Esta iniciativa alinea con tendencias globales, como
+las recommdaciones de la comisi6n Federal de comercio (Frg de EE.uu. sobre
+divulgaci6n en IA, adaptadas al contexto insular de puerto Rico.
+DECRE'TASE FOR LI\ ASAMBLEA LEGISLATTVA DE PUERTO RICO:
+I
+ArUculo L. - Tltulo.
+2
+Esta l,ey se conocere como ta "rry para la Transparencia en la publicidad
+3
+Generada por Inteligencia Artilicial en puerto Rico,.
+4
+ArHculo 2. - Definiciones.
+5
+Para los fines de esta Ley, los siguientes t€rminos tendrdn los significados que a
+6
+continuaci6n se exptes.rn:
+7
+Inteligencia Artificial (IA):
+^)
+t/^ I
+v:d
+9 rm6genes, audie? ieo. Sistema basado en
+l0
+miauinas aue. oaruobietioos emlicitos o imolicitos, iafiere, a omtir de la informaci6n aue recibe,
+I
+I amo peturar resultados tabs como orediccioaes, anttnido, recomendaciones o decisiones sue
+12
+pueden influir en entornos frsicos o airtuales
+13
+b) Contenido Generado por IA: Cualquier material publicitario creado total o
+14
+parcialmente mediante IA, que no sea derivado exclusivamente de insumos humanos
+l5
+reales sin alteraci6n algorihnica.
+16
+c) Publicidad: Cualquier comunicaci6n comercial destinada a promover la vmta,
+17
+uso, adquisici6n o difusi6n de bienes, servicios, ideas, eventos o cualquier otro concePto,
+5
+dirigida al prlblico en generar a trav6s de medios digitates, impresos, audiovisuares o
+2 cualquier otro canal.
+3 d) Divulgaci6n clara: una notificaci6n visible, legible y audible (segrln el medio),
+4 colocada de manera prominente en el contenido publicitario, que indique exprrcitamente
+5 el uso de IA.
+6 e) Consumidor: Toda persona natural o jurldica que reciba, utilice o se exponga a
+7 publicidad como destinatario final.
+E f) Empresa publicitaria: Toda entidad, persona natural o jurfdic4 que cree,
+9 distribuya o publique publicidad en puerto Rico.
+l0 Ardculo 3. - Ambito de Aplicaci6n.
+ll
+Esta Ley aplicar6 a toda publicidad dirigida a consumidores en el territorio de
+/ftr
+2 Puerto Rico, independientemente del origen de Ia empresa pubricitaria. No aplicar6 a
+r3 contenidos no comerciales, como expresiones ar{sticas puras o
+comunicaciones
+t4 educativas sin fines de lucro. Esta reguraci6n es nueva y no modifica leyes existentes,
+l5 salvo en Io necesario para su implementaci6n.
+l6 ArHculo 4. - Exigencia de Divulgaci6n.
+l7
+Toda empresa publicitaria que utilice IA para generar contenido en la publicidad
+l8 deberd divulgar de manera clara y obligatoria dicho uso. ta divulgaci6n deber6:
+l9 a) Incluir frases como "contenido Generado por Inteligencia Artificial,, o ,,IA
+20 Generada,,, en espafrol e ingl6s si el anuncio es bilingie.
+2t b) ser colocada en una posici6n prominente: aI inicio de videos (durante aI menos
+22 10 segundos), en la parte superior de im,genes o textos, o como superposici6n en audio.
+6
+c) utilizar un tamafio de fuente no menor al 10% del tamafro principal del anuncio,
+1 en color contrastante para visibilidad.
+3 d) En plataformas digitales, incluir metadatos o etiquetas digitales que permitan
+4 la detecci6n automAtica por navegadores o apps.
+s e) No requerir acciones adicionales del consumidor, como clics o scrolls, para
+6 visualizarla.
+7
+8 Nsda en esta seccidn se intemretard cono la
+9 imwsici6n de responsabilidail a un *raicio interactiao linea. oroueedor dc telemmunicaciones
+l0
+m&iles. red de telecomunicaciones, oroaeedor de banda ancha. orooeeilor de xruicios en la nube,
+ll
+dl ndad de de comunicaciin como resultado de con ni
+4//n,2
+prooisto ltorotra persona,
+13 Artculo 5. - Prohibiciones.
+14 Se prohfbe:
+15 a) Omitir la divulgaci6n en cualquier contenido gmerado por IA.
+16 b) Utilizar IA para simular testimonios humanos reales sin evidencia aut€ntica,
+17 incluso con divulgaci6n.
+18 c) Dirigir publicidad IA engaflosa a poblaciones vulnerables, como menores de
+19 edad o personas mayores, con alegaciones o interpretaciones no verificables'
+20 d) Alterar o remover divulgaciones en redistribuciones de anuncios'
+21 Articulo 6. - Protecci6n al Consumidor.
+22 los consumidores tendr6n derecho a:
+7
+a) Denunciar violaciones ante el Departamento de Asuntos del consumidor
+2 (DACO), quien debe investigar dicha queja.
+3 b) Recibir reembolsos o compensaciones si una decisi6n fue inducida por
+4 publicidad IA no divulgada que resulte engafrosa.
+5 c) Acceder a campafias educativas del gobiemo sobre IA en mercadeo, financiadas
+6 por multas recaudadas.
+7 Ardculo 7. - Sanciones.
+8 l,as violaciones a esta Ley serdn sancionadas por el DACO con:
+9 a) Multas administrativas de $500 a $5,000 por la primera infracci6ry escalando a
+l0 $10,000 por reincidencias.
+ll
+b) Gdenes de cese y desista, incluyendo retiro inmediato de anuncios.
+W,,
+c) sanciones civiles por dafios a consumidores, hasta el triple del valor afectado.
+13 d) En casos graves, remisi6n a la Fiscalla para cargos criminales si involucran
+l4 fraude intencional.
+l5 ArHculo 8. - Implementaci6n y Reglamentaci6n.
+l6 El DACo adoptar, reglamentos denho de 1g0 dlas de Ia aprobaci6n de esta [ry,
+17 incluyendo gulas para divurgaciones en diferentes medios y mecanismos de monitoreo.
+l8 Se crear6 un registro p(rblico de violaciones para transparencia.
+t9 Articulo 9.- Cliusula de Separabilidad.
+20 si cualquier disposici6ry palabra, oraci6n o inciso de esta Ley fuera impugnado
+21 por cualquier raz6n ante un tribunal y decrarado inconstitucionar o nulo, tal sentencia no
+afechrd, menorabari
+o invalidar6 Ias restantes disposiciones de esta try.
+8
+I Articulo 10.- Vigencia.
+2 Esta Ley comerzarA a regir inmediatamente despu6s de su aprobaci6n
+[DELETED:  1 c i h R r i p l p l P a a p r e f q c l c t p y e d e e m e l T I  r d]
+[DELETED:  d ( P S l T G p e e m d a d c c p a h e c a s L p]
+[DELETED:  l]
+[DELETED:  R a m e p p d c q C p l a d l d p d c a q I t P D c m i i c p g]
+[DELETED:  l]
+[DELETED:  s d p m m i v q c f r f y c d d a a i r i d o f e O c l l s c q e 6 f d d]
+[DELETED:  p d d i d q e d C c d d d]
+[DELETED:  o]
+[DELETED:  urt oed e s h a]
+
+
+================================================================================
+
+Raw Text:
+ORIGINAL 19
+RECIEID0 JUI€4?6Pil 11
+,*n*y&iffi**
+GOBIERNO DEPUERTORICO
+20-".Asamblea
+3."
+Sesi6n
+Legislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del S. L053
+INFORME POSITTVO
+P t a" pr,io a" ZOzr
+AL SENADO DE PUERTO RICO:
+Ias Comisi6n de Ciencia, Tecnologla e Inteligencia Artificial del Senado de puerto
+,r Ricq previo estudio y consideraci6n au L noy"cJ ael Senado 1053, recomienda a este
+Alto Cuelpo su aprobaci6ry con las enmiendas contenidae en er entirillado ereck6nico
+que Be acompafra.
+ALCANCE DE LA MEDIDA
+mercad f e a o r ; a e x r. ig e i g r u l l a a r d i r v a u r p g u a b ci l 6 ic n i d c a la d r a m y e o d b ia ri n g t a e t o e ri r a u c s u o a n d d e o Int . e " li i g r" e r n , c ia ia . A p r r ti l f r ic i. ia iL l " e n , " e , l
+ffiTl1i:.r#lt;.proteaer a los consumidoi", a. ""t"nos " y r contusioni, y p"*-"o*
+INTRoDUccI6N
+La comisi6n de Ciencia, Tecnologra e Interigencia Artificial der senado de puerto
+Rico somete a Ia consideraci6n de este Alto cuerfo el presente Informe positivo
+sobre
+el P' del s. 1053, luego de haber realizado el correspondiente an,lisis de la medida y
+evaluado los memoriales expricativos presentados por las entidades consurtadas.
+La medida propone crear la "Lry para la Transparencia en la publicidad Generada
+por Inteligencia Artificial en pulto Rico", con el prop6sito de establecer requisitos de
+divulgaci6n aplicables a contenido publicitario gerrerado mediante inteligencia artificial.
+A tales fines, el proyecto dis,ole que toda empresa pubricitaria q,r" o,iii." ,r,*rrg;r"
+artificial para generiu contenido deber, divuliar dicho uso de manera clara y visible,
+
+Comisi6n de Ciencia, Tecnologla e Inteligencia Artificial
+Informe Pooitivo sobre el P. del S. 1(83 Ptgina 2
+incluyendo requisitos especlficos relacionados con ubicaci6& tamafio, formato y
+accesibilidad de las divulgaciones en rlistintos medios publicitarios.
+Ia Comisi6n reconoce que el uso de herramientas de inteligencia artificial en el
+mercadeo y la publicidad ha transformado significativamente la creaci6n y distribuci6n
+de contenido digital, permitiendo la producci6n de imAgenes, videos, audio y material
+promocional altamente realista y personalizado. No obstante, la proliferaci6n de
+tecnolo$as capaces de generar contenido sint6tico y simulaciones hiperrealistas tambi6n
+plantea retos importantes relacionados con la kansparencia, la protecci6n al consumidor
+y la posibilidad de prdcticas engarlosas en entornos comerciales y digitales.
+Asimismo, la medida atiende preocupaciones relacionadas con el impacto que este
+tipo de contenido puede tener sobre poblaciones vulnerables, particularmente personas
+nuyores y consumidores con menor familiaridad tecnol6gica. En ese contexto, el
+proyecto persigue fomentar mayor kansparmcia en el uso de inteligencia artificial en
+campafras publicitarias, promoviendo que los consumidores puedan disthguir entre
+contenido aut€ntico y contenido generado mediante herramientas automatizadas.
+Durante el proceso de evaluaci6n legislativa, la Comisi6n recibi6 memoriales
+explicativos por parte de TechNet y de la Puerto Rico Innovation and Technology Service
+(PRITS). Ambas entidades reconocieron la importancia de promover transparencia en el
+tl uso de inteligencia artilicial y proteger a los consumidores frente a posibles pr6cticas
+engafiosas. No obstante, tambi6n formularon observaciones relacionadas con el alcance
+de la medida, la amplitud de las definiciones propuestas, los mecanjsmos de
+cumplimiento y la necesidad de evitar cargas regulatorias excesivas o ambiguas que
+puedan afectar la innovaci6n tecnol6gica o generar dificultades pr6cticas en la
+implementaci6n de la ley.
+[a Comisi6n entiende que el Proyecto del Senado 1053 atiende un asunto de
+creciente relevancia dentro del contexto tecnol6gico actual y adelanta una discusi6n
+importante sobre hansparencia digital, protecci6n al consumidor y responsabilidad en el
+uso comercial de inteligencia artificial. De igual forma, reconoce que las observaciones
+tecnicas presentadas por las entidades consultadas contribuyen a fortalecer la medida y
+a procuftu una implementaci6n balanceada y consistente con los objetivos de polltica
+p0blica relacionados con innovaci6n tecnol6gica y protecci6n de los consumidores.
+ANALISIS DE LA MEDIDA
+Atendiendo su responsabilidad y deber ministerial en el estudio y evaluaci6n del
+presente Proyecto, la Comisi6n de Ciencia, Tecnologia e Inteligencia Artificial del Senado
+de Puerto Rico analiz6 los memoriales explicativos recibidos por parte de TechNet y
+
+Comisi6n de Ciencia, Tecnologla e Inteligencia Artificial
+Informe Positivo sobreel P. del S. 1(53
+Ptgina 3
+Puerto Rico Innovation and Technorogy sewice (pRITS), de donde se desprende la
+posici6n expuesta por las entidades consultadas:
+PUERTO RICO INNOVATION AND TECHNOLOGY SERVICE
+la
+Puerto Rico Innovation and rechnology service (pRITS) comp ece mediante
+memorial explicativo en torno ar p. der s. 1053 y expone que la medida persigue regular
+el uso de inteligencia artificial en la pubricidad y el m".cadeo mediante r{uisitos de
+divulgaci6n aplicables a contenido generado por IA. I-a agencia resume las disposiciones
+del proyecto relacionadas con divurgaciones obligatorias, remedios para consumidores,
+mecanismos de fiscalizaci6n y sanciones administrativas a cargo del Departamento de
+Asuntos del Consumidor (DACO).
+PRITS explica que, conforme a ra Ley N,,m. 7L20r9, su funci6n principal consiste
+en implantar y coordinar la politica priblica tecnol6gica del Gobiemo de puerto Rico
+dentro de la Rama Ejecutiva, incruyendo proyectos tecior6gicos, sistemas de informaci6n
+e iniciativas de irurovaci6n. No obstante, seflala que el contenido sustantivo del proyecto
+recae principalmente sobre materias relacionadas con regulaci6n ae p.acuca,
+//t publicitarias, protecci6n al consumidor y fiscalizaci6n de comunicaciones comerciales,
+asuntos que corresponden a la jurisdicci6n del DACO conforme a su ley orgdnica.
+,.a agencia indica que, aunque el proyecto incorpora conceptos tecnol6gicos como
+inteligencia artificiar, metadatos y detecci6n autom6tica en pratarormas ai6,a"",
+tu
+medida no asigru funciones de implantaci6n, regramentaci6n o fiscalizaci6n a pRITS. En
+consecuencia, entiende que el DACo es la entidad con mayor capacidad para evaluar la
+viabilidad operacional de la medida, ros mecanismos de fi""aliza"iorr, ro, iro""dimientos
+relacionados con querenas y los criterios para determinar pr,cticas engafiosas en materia
+publicitaria.
+Finalmente, pRITS recomienda que esta Honorable Comisi6n recabe er insumo del
+DACo respecto a ra conveniencia, reglamentaci6n, imprantaci6n y mecanismos de
+cumplimiento asociados al proyecto, por tratarse de una medida
+enlocada
+principalmente en protecci6n aI consumidoi y regulaci6n publicitaria.
+TECHNET
+TechNet comp:uece mediante memorial expricativo en tomo aI p. der s. 1053 y
+* ex : P t1 re s'r apoyo al objetivo general de promover transparencia en el uso de inteligencia
+en Ia publicidad y proteger a los consumidor",
+pr6cticas engafrosas. La
+entidad reconoce que requisitos craros de divurgaci6n pue " d o e r n r o f " o rtalecer ra confianza del
+
+Comigi6n de Ciencia, Tecnologla e Inteligencia Artificial
+Informe Positivo sobre el P. del S. 1053 ?i$na 4
+consumidor y facilitar decisiones informadas. No obstante, advierte que la legislaci6n
+debe diseflarse cuidadosamente para evitar consecuencias no intencionadas que pudan
+inhibir la innovaci6n o imponer obligaciones de cumplimiento impracticables.
+TechNet sostiene que el proyecto resulta excesivamente amplio en su alcance y
+podrla incluir usos rutinarios y de bajo riesgo de inteligencia artificial que no representan
+daffo para los consumidores. segrln expone,la medida no distingue adecuadamente enke
+usos de alto riesgo y aplicaciones comunes de herramientas automatizadas utilizadas
+acfualmente en procesos est6ndar de mercadeo, tales como edici6n de im6genes,
+tipograffas o formatos de contenido. En consecuencia, entiende que la divulgaci6n podrla
+terminar aplic6ndose a pr6cticamente toda publicidad moderna, reduciendo su
+efectividad como mecanismo significativo de transparencia.
+Asimismo, la entidad recomienda armonizar la definici6n de inteligencia artificial
+con el marco desarrollado por Ia organizaci6n para la Cooperaci6n y el Desarrollo
+Econ6mico (ocDE) en 2023, a fin de garantizar mayor claridad, consistencia e
+interoperabilidad con otras jurisdicciones. Tambi6n recomienda incluir exenciones
+expresas para proveedores de infraestrucfura y servicios intermediarios que no crean ni
+conbolan contenido publicitario, tales como proveedores de telecomunicaciones,
+tl servicios en la nube, banda ancha y ciberseguridad.
+Finalmente, TechNet expresa preocupaci6n sobre la posibilidad de que el proyecto
+pueda interpretarse como la creaci6n de un derecho de acci6n privado. por ello,
+recomienda aclarar que la autoridad de aplicaci6n recaiga exclusivamente sobre agencias
+gubernamentales, particularmente el Departamento de Asuntos del Consumjdor o el
+Departamento de Justici4 sefralando que ello promoverla uniformidad regulatoria,
+reduciria litigios excesivos y proveeria expectativas claras de cumplimiento para las
+emPresas.
+DEPARTAMENTO DE ASDI.JNTOS AL CONSI,JMIDOR
+El Departamento de Asuntos del Consumidor (DACO) compareci6 ante la
+Comisi6n para expresar sus comentarios sobre el Proyecto del Senado 1053, medida que
+propone crear la "l*y para la Transparencia m la Publicidad Generada por Inteligencia
+Artificial en Puerto Rico". Segrin explica el memorial, el prop6sito principal de la medida
+es regular la publicidad generada mediante inteligencia artificial, exigir divulgaciones
+claras cuando el contenido publicitario haya sido creado por IA y proteger a los
+consumidores de posibles engaflos o confusiones.
+DACO destaca que, conforme a su Ley Org6nic4 posee facultades amplias para
+proteger los derechos de los consumidores y fiscalizar prdcticas comerciales que puedan
+resultar engaflosas o perjudiciales. En ese contexto, reconoce que el desarrollo acelerado
+
+Comisi6n de Ciencia, Tecnologia e Inteligencia Artificial
+Informe Positivo sobre el p. del S. 1053
+na5
+de herramientas de inteligencia artificial generativa plantea nuevos retos regulatorios que
+requieren atenci6n gubemamental.
+El memorial enfatiza el crecimiento exponencial de tecnologlas de IA generativa
+como chatcpr, Googre Gemini y Microsoft Copilo! y advieie sobre ros riesgos
+asociados al uso indebido de estas herramientas para crear contenido falso o manipulado,
+particularmente mediante tEcnicas conocidas como ,,deepfake,,. DACO sefiala que estas
+tecnologlas permiten gener.* im6genes, videos y audios con niveles de rearismo que
+dificultan distinguir entre contenido autdntico y contenido fabricado digitalmente.
+Como parte de su argumentaci6n, la agencia cita estadisticas del Bur6 Federal de
+Investigaciones (FBI) relacionadas con el aumento de quereras asociadas a esquemas
+fraudulentos que utilizan inteligencia artificial. Asimismo, indica que los consumidores,
+especialmente los adultos mayores, se encuentran entre los sectores m6s vulnerables ante
+este tipo de fraude.
+DACo tambien informa que ha desarrollado iniciativas dirigidas a atender este
+fen6meno, incluyendo esfuerzos educativos en coordinaci6n con entidades federales y la
+creaci6n de una Unidad para ra Detecci6n de Esquemas Fraudulentos contra el
+Consumidor. seglrn el memorial, enke diciembre ae zoNy mayo de 2026dicha unidad
+identific6 aproximadamente treinta y ocho esquemas fraudulentos difundidos mediante
+11 271 medios elech6nicos, de los cuales heinta y dos involucraban algrin grado de utilizaci6n
+/Wn"
+de inteligencia artificial.
+la
+agencia concutre con parte de la Exposici6n de Motivos del
+proyecto,
+particularmente en cuanto al riesgo que representa ra confusi6n entre contenido real y
+contenido generado artificialmente. DACO destaca que imdgenes y rfresentaciones
+creadas mediante herramientas de IA pueden inducir a error a lis co.uumiio.es y afectar
+su capacidad para tomar decisiones informadas.
+EI memoriar describe adem6s los mecanismos de protecci6n aI consumidor
+contemprados en Ia medida, incluyendo la facurtad de presenL querelas ante DACo, la
+posibilidad de recibir compensaci6n por dafios ocasionados por publicidad engafrosa
+generada mediante IA y el desarrollo de campaffas educativas financiadas mediante las
+multas que imponga ra agencia. Tambi€n resefia las sanciones propr""* po. proyecto,
+que incluyen multas adminishativas, 6rdenes de cese y desista ,"rr.ion" "r , civiles y
+posibles referidos criminales en casos graves.
+No obstante, a,nque DACo reconoce Ia intenci6n positiva de ra medida y
+necesidad de atender los riesgos asociados al uso de inteligencia artificial en el mercado ra ,
+recomienda que la Asamblea kgislativa considere los estuiios y *ai"i, j.r" .uu1."., tu"
+entidades gubemammtares
+especializadas en innovaci6n y te.norogla, p;cularmente
+
+Comisi6n de Ciencia, Tecnologia e Inteligencia Artificial
+Informe Positivo sobre el P. del S. 1053 Pigina 6
+la oficina de Innovaci6n y servicios de Tecnologia del Gobiemo de puerto Rico (pRITS),
+antes de adoptar un rrtarco regulatorio definitivo.
+En tErminos generales, DACo favorece los objetivos del proyecto del senado 1053 y
+reconoce la necesidad de proteger a los consumidores frente a practicas engaffosas
+facilitadas por la inteligencia artificial. sin embargo, la agencia recomienda que cualquier
+regulaci6n en esta mateda se adopte tomando en coruideraci6n la evaluaci6n t6cnica y
+especializada de las entidades gubemamentales con competencia en tecnologla e
+innovaci6ry a fin de garantizar un rlarco regulatorio efectivo y adecuadamente
+fundamentado.
+CONCLUSI6N
+Luego de evaluar el Proyecto del Senado 1053 y considerar los memoriales
+explicativos presentados por la Puerto Rico Innovation and rechnology service (pRITS),
+TechNet y el Departamento de Asuntos del Consumidor (DACO), esta Comisi6n
+concluye que la medida atiende un asunto de creciente relevancia para la protecci6n de
+los corsumidores y la transparencia en los mercados digitales, particularmente ante la
+r6pida expansi6n de herramientas de inteligencia artificial capaces de generar contenido
+/,f
+publicitario altamente realista.
+La evidencia recibida demuestra que el uso de inteligencia artilicial generativa
+presenta oportunidades significativas para la innovaci6n y el desarrollo econ6mico, pero
+tambi€n plantea riesgos reales relacionados con la difusi6n de contenido engafioso, la
+manipulaci6n de imigenes, audio y video, y la posible confusi6n de los consumidores
+respecto a la autenticidad de la informaci6n que reciben. En ese sentido, la Comisi6n
+considera razonable que el ordenamiento jurldico provea mecanismos que promuevan la
+transparencia cuando se utilicen estas tecnolo$as con fines publicitarios.
+la
+Comisi6n reconoce las preocupaciones planteadas por TechNet respecto al
+alcance de la medid4 la necesidad de definiciones tEcnicamente precisas y Ia
+conveniencia de evitar cargas regulatorias excesivas que puedan afectar Ia innovaci6n,
+Del mismo modo, toma en consideraci6n la recomendaci6n de PRITS y DACO de
+procurar que cualquier marco regulatorio en esta materia incorpore el insumo t6cnico de
+las entidades gubernamentales con peritaie especializado en tecnolo$a e innovaci6n.
+Particularmente persuasivo resulta el insumo provisto por DACO, entidad con
+jurisdicci6n directa sobre la protecci6n de los consumidores en Puerto Rico, al
+documentar el aumento de esquemas fraudulentos facilitados por inteligencia artificial y
+los retos que estas tecnolog{as representm para la capacidad de los consumidores de
+distingrrir entre contenido aut€ntico y contenido generado artificialmente.
+
+Comisi6n de Cienci4 Tecrrologia e Inteligencia Artificial
+Informe Positivo sobre el P, del S. 1(83
+PAg;na 7
+A juicio de esta Comisi6ry el proyecto del senado 1053 constituye una respuesta
+Iegislativa razonable a una rearidad tecnor6gica emergente y adelanta objetivos le$timos
+de polltica priblica relacionados con la transparencia comerciar, la protecci,6n der
+consumidor y el uso responsabre de la interigencia artificiar. por consiguiente, esta
+Comisi6n recomienda la aprobaci6n de ra medida con las enmiendas contenidas en er
+entirillado electr6nico que se acompafla.
+POR TODO LO ANTES EEUESTO, Ia Comisi6n de Ciencia, Tecnologta
+e
+Inteligencia Artificial der senado de puerto Rico, previo estudio y consideraci6ry uener, a
+bien presentar ante este Alto Cuerpo el Informe positivo sobre el proyecto der senado
+1053, recomendando su aprobaci6n con las enmiendas contenidas en el entirinado
+eleck6nico que se acompafia.
+4RespLefuosamente
+lYilmer Reyes Berrios
+Presidente
+Comisi6n de Ciencia, Tecnologla
+e Inteligencia Artificial
+
+(Entirillado Electr6nico)
+GOBIERNO DE PUERTO RICO
+20tr. Asamblea
+3ra Sesi6n
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. L053
+3 de febrero de2026
+Presentado por la sefrora Soto Aguili
+Refendo a la Comisi6n de Ciencia, Tecnologia e lnteligmcia Artifcial
+LEY
+Para regular la publicidad mediante el uso de Inteligencia Artificial en el mercadeo; exigir
+Ia divulgaci6n clara y obligatoria cuando el contenido publicitario sea generado por
+IA; proteger a los consumidores de engaflos y confusiones; y pari otos fines
+relacionados.
+/,,,e
+HFOSICIoN DE MOTTVOS
+En la era digital actual, la Inteligencia Artificial (IA) ha revolucionado el campo del
+mercadeo y la publicidad, permitiendo la creaci6n de contenidos altamente
+personalizados, realistas y atractivos a un costo reducido. Herramientas tales, como
+generadores de imdgenes, videos, textos y audio sintdticos han facilitado la producci6n
+de campaffas publicitarias que simuran experiencias humanas autEnticas, lo que
+representa un avance tecnol6gico significativo. sin embargo, este progreso trae consigo
+desafios 6ticos y de transparencia que afectan directamente a los corsumidores en puerto
+Rico, una iurisdicci6n insular con una poblaci6n diversa que incluye un alto porcentaje
+de personas mayores y comunidades vulnerables.
+uno de Ios problemas principales que presente esta nueva vertiente, es la confusi6n
+entre lo real y lo generado por IA. por ejempro, las imdgenes hiperrealistas creadas por
+
+2
+algoritmos como DALL-E o Midjourney pueden representar escenarios, testimonios o
+representaciones que parecen capturados de la vida real, pero que en realidad son
+fabricados digitalmente. Esto puede llevar a que los consumidores tomen decisiones
+informadas basadas en percepciones err6neas, creyendo que est5n viendo evidencia
+aut6ntica de veracidad, efectividad o representaciones genuinas. En momentos
+especlficos, como durante campafras promocionales de alto volumen (pot ejemplo, en
+temporadas de compras como Navidad o Black Friday), las personas pueden confundir
+la realidad, asumiendo que un video de un usuario satisfecho es real cuando en verdad
+es un "deepfake" o una simulaci6n IA.
+Particularmente preocupante es el impacto en poblaciones vulnerables, como las
+persoruE rnayores. En Puerto Rico, donde el 23% de la poblaci6n tiene 65 afros o m6s
+segrln datos del Censo de los Estados Unidos de 202O los adultos mayores a menudo
+enfrentan barreras digitales y una menor familiaridad con la tecnologia. Estos individuos
+aft/ pueden ser engaffados ficilmente por imSgenes o videos generados por IA que simulan
+ofertas atractivas, endosos de celebridades falsas o representaciones idealizadas. Es
+decir, un anuncio de un servicio financiero con imdgenes IA de 'rantes y despu6s" podrla
+inducir a un anciano a creer en resultados imposibles, llevando a decisiones impulsivas
+que comprometen su bienestar econ6mico o fisico.
+Estudios intemacionales, como el informe de la Organizaci6n para la Cooperaci6n y
+el Desarrollo Econ6mico (OCDE) de 2023 sobre IA y consumidores, destacan que el45%
+de los encuestados mayores de 60 aflos no distinguen entre contenido real y sint6tico
+aumentando el riesgo de fraudes y desinformaci6n. Adem6s, la lalta de regulaci6n en
+este embito fomenta prActicas desleales en el mercado. Empresas sin escrrlpulos podrlan
+utilizar IA piua crear campafias que exageran beneficios sh evidencia real, violando
+ky
+principios de veracidad publicitaria establecidos en leyes existentes como la de
+Pr6cticas Monopolisticas y Competencia Desleal de Puerto Rico (t*y N.1^. 77 de ?5 de
+iunio de 1954).
+
+3
+Esto no solo erosiona la confianza en el mercado, sino que tambi6n perjudica a
+competidores 6ticos que invierten en contenido autentico. En contextos locales, como la
+publicidad turistica en ra Isla, donde se promueven playas o experiencias curfurales, el
+uso no divulgado de IA podria distorsionar ra percepci6n de visitantes y residentes,
+afectando la economla turrstica que representa er 7% der pIB de puerto Rico segrin el
+Banco de Desarrollo Econ6mico
+otro asunto relevante es, que ante ra falta de informaci6n veraz, sin divurgaci6n clar4
+los consumidores s€ ven expuestos a manipulaciones sutiles que explotan
+sesgos
+cognitivos, como el efecto de anclaje en decisiones. por ejemplo, un anuncio IA de un
+evento cultural con escenarios ideares podrla influir en audiencias de bajos ingresos,
+llev6ndolos a participar innecesariamente. Adicionarmente, en er 6mbito de ra salud y ra
+seguridad, campaflas reguladas como ras de medicamentos o servicios podrlan ser
+promocionadas con aregaciones falsas generadas por IA, poniendo en riesgo ra sarud
+prlblica.
+,/7
+Esta medida propone una regulaci6n innovadora y equilibrada, ya que no impone
+costos adicionales significativos a las empresas. ra exigencia de divulgaci6n se rimita a
+etiquetas claras y visibles, como "contenido Generado por IA,,, que pueden integrarse
+f6cilmente en platalormas digitales sin requerir inversiones masivas. Esto contrasta con
+regulaciones m6s onerosas en otras jurisdicciones, como la uni6n Europea bajo el ,,AI Act
+de 2024" , que incluye auditorlas complejas.
+En Puerto Rico, esta Iey serra pionera, ya que no existe legisraci6n especifica sobre IA
+en mercadeo, comprementando marcos existentes como la Ley de protecci6n
+al
+Consumidor (Ley Nrim. s de ?j de abril de 19731sin sorapamientos innecesarios.
+Er
+objetivo es fomentar la innovaci6n tecnor6gica mientras se protege a los consumidores,
+promoviendo un
+ecosistema publicitario 6tico que beneficie a todas las
+partes
+involucradas' Ar exigir Eansparencia, se empodera a ros puertorriquefros para tornar
+decisiones inrormadas, reduciendo litigios y quejas ante agencias como el Departamento
+
+de Asuntos del Consumidor (DACO). Esta iniciativa alinea con tendencias globales, como
+las recommdaciones de la comisi6n Federal de comercio (Frg de EE.uu. sobre
+divulgaci6n en IA, adaptadas al contexto insular de puerto Rico.
+DECRE'TASE FOR LI\ ASAMBLEA LEGISLATTVA DE PUERTO RICO:
+I
+ArUculo L. - Tltulo.
+2
+Esta l,ey se conocere como ta "rry para la Transparencia en la publicidad
+3
+Generada por Inteligencia Artilicial en puerto Rico,.
+4
+ArHculo 2. - Definiciones.
+5
+Para los fines de esta Ley, los siguientes t€rminos tendrdn los significados que a
+6
+continuaci6n se exptes.rn:
+7
+Inteligencia Artificial (IA):
+^)
+t/^ I
+v:d
+9 rm6genes, audie? ieo. Sistema basado en
+l0
+miauinas aue. oaruobietioos emlicitos o imolicitos, iafiere, a omtir de la informaci6n aue recibe,
+I
+I amo peturar resultados tabs como orediccioaes, anttnido, recomendaciones o decisiones sue
+12
+pueden influir en entornos frsicos o airtuales
+13
+b) Contenido Generado por IA: Cualquier material publicitario creado total o
+14
+parcialmente mediante IA, que no sea derivado exclusivamente de insumos humanos
+l5
+reales sin alteraci6n algorihnica.
+16
+c) Publicidad: Cualquier comunicaci6n comercial destinada a promover la vmta,
+17
+uso, adquisici6n o difusi6n de bienes, servicios, ideas, eventos o cualquier otro concePto,
+
+5
+dirigida al prlblico en generar a trav6s de medios digitates, impresos, audiovisuares o
+2 cualquier otro canal.
+3 d) Divulgaci6n clara: una notificaci6n visible, legible y audible (segrln el medio),
+4 colocada de manera prominente en el contenido publicitario, que indique exprrcitamente
+5 el uso de IA.
+6 e) Consumidor: Toda persona natural o jurldica que reciba, utilice o se exponga a
+7 publicidad como destinatario final.
+E f) Empresa publicitaria: Toda entidad, persona natural o jurfdic4 que cree,
+9 distribuya o publique publicidad en puerto Rico.
+l0 Ardculo 3. - Ambito de Aplicaci6n.
+ll
+Esta Ley aplicar6 a toda publicidad dirigida a consumidores en el territorio de
+/ftr
+2 Puerto Rico, independientemente del origen de Ia empresa pubricitaria. No aplicar6 a
+r3 contenidos no comerciales, como expresiones ar{sticas puras o
+comunicaciones
+t4 educativas sin fines de lucro. Esta reguraci6n es nueva y no modifica leyes existentes,
+l5 salvo en Io necesario para su implementaci6n.
+l6 ArHculo 4. - Exigencia de Divulgaci6n.
+l7
+Toda empresa publicitaria que utilice IA para generar contenido en la publicidad
+l8 deberd divulgar de manera clara y obligatoria dicho uso. ta divulgaci6n deber6:
+l9 a) Incluir frases como "contenido Generado por Inteligencia Artificial,, o ,,IA
+20 Generada,,, en espafrol e ingl6s si el anuncio es bilingie.
+2t b) ser colocada en una posici6n prominente: aI inicio de videos (durante aI menos
+22 10 segundos), en la parte superior de im,genes o textos, o como superposici6n en audio.
+
+6
+c) utilizar un tamafio de fuente no menor al 10% del tamafro principal del anuncio,
+1 en color contrastante para visibilidad.
+3 d) En plataformas digitales, incluir metadatos o etiquetas digitales que permitan
+4 la detecci6n automAtica por navegadores o apps.
+s e) No requerir acciones adicionales del consumidor, como clics o scrolls, para
+6 visualizarla.
+7
+8 Nsda en esta seccidn se intemretard cono la
+9 imwsici6n de responsabilidail a un *raicio interactiao linea. oroueedor dc telemmunicaciones
+l0
+m&iles. red de telecomunicaciones, oroaeedor de banda ancha. orooeeilor de xruicios en la nube,
+ll
+dl ndad de de comunicaciin como resultado de con ni
+4//n,2
+prooisto ltorotra persona,
+13 Artculo 5. - Prohibiciones.
+14 Se prohfbe:
+15 a) Omitir la divulgaci6n en cualquier contenido gmerado por IA.
+16 b) Utilizar IA para simular testimonios humanos reales sin evidencia aut€ntica,
+17 incluso con divulgaci6n.
+18 c) Dirigir publicidad IA engaflosa a poblaciones vulnerables, como menores de
+19 edad o personas mayores, con alegaciones o interpretaciones no verificables'
+20 d) Alterar o remover divulgaciones en redistribuciones de anuncios'
+21 Articulo 6. - Protecci6n al Consumidor.
+22 los consumidores tendr6n derecho a:
+
+7
+a) Denunciar violaciones ante el Departamento de Asuntos del consumidor
+2 (DACO), quien debe investigar dicha queja.
+3 b) Recibir reembolsos o compensaciones si una decisi6n fue inducida por
+4 publicidad IA no divulgada que resulte engafrosa.
+5 c) Acceder a campafias educativas del gobiemo sobre IA en mercadeo, financiadas
+6 por multas recaudadas.
+7 Ardculo 7. - Sanciones.
+8 l,as violaciones a esta Ley serdn sancionadas por el DACO con:
+9 a) Multas administrativas de $500 a $5,000 por la primera infracci6ry escalando a
+l0 $10,000 por reincidencias.
+ll
+b) Gdenes de cese y desista, incluyendo retiro inmediato de anuncios.
+W,,
+c) sanciones civiles por dafios a consumidores, hasta el triple del valor afectado.
+13 d) En casos graves, remisi6n a la Fiscalla para cargos criminales si involucran
+l4 fraude intencional.
+l5 ArHculo 8. - Implementaci6n y Reglamentaci6n.
+l6 El DACo adoptar, reglamentos denho de 1g0 dlas de Ia aprobaci6n de esta [ry,
+17 incluyendo gulas para divurgaciones en diferentes medios y mecanismos de monitoreo.
+l8 Se crear6 un registro p(rblico de violaciones para transparencia.
+t9 Articulo 9.- Cliusula de Separabilidad.
+20 si cualquier disposici6ry palabra, oraci6n o inciso de esta Ley fuera impugnado
+21 por cualquier raz6n ante un tribunal y decrarado inconstitucionar o nulo, tal sentencia no
+afechrd, menorabari
+o invalidar6 Ias restantes disposiciones de esta try.
+
+8
+I Articulo 10.- Vigencia.
+2 Esta Ley comerzarA a regir inmediatamente despu6s de su aprobaci6n
+
+[DELETED:  1 c i h R r i p l p l P a a p r e f q c l c t p y e d e e m e l T I  r d]
+[DELETED:  d ( P S l T G p e e m d a d c c p a h e c a s L p]
+[DELETED:  l]
+[DELETED:  R a m e p p d c q C p l a d l d p d c a q I t P D c m i i c p g]
+[DELETED:  l]
+[DELETED:  s d p m m i v q c f r f y c d d a a i r i d o f e O c l l s c q e 6 f d d]
+[DELETED:  p d d i d q e d C c d d d]
+[DELETED:  o]
+[DELETED:  urt oed e s h a]

@@ -1,0 +1,482 @@
+Title: Para enmendar el Articulo 3.13-A, los incisos (h), (s) y (t) del Articulo 23.05, y el Articulo
+Official Title: Para enmendar el Articulo 3.13-A, los incisos (h), (s) y (t) del Articulo 23.05, y el Articulo
+Number of Sections: 3
+Source: versions - Ley 29-2026
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Bn
+Cc
+(P. de la C. 473) o |
+LEY sprobada 6 alar vA)
+
+Section 2:
+25.01, derogar el Articulo 25.02 y sustituir por uno nuevo, y enmendar el Articulo
+
+Section 3:
+25.03 de la Ley 22-2000, según enmendada, conocida como la <Ley de Vehículos y
+Tránsito de Puerto Rico=, a los fines de establecer que las multas de tránsito
+deberán ser notificadas a través de la aplicación móvil (app) del Departamento de
+Transportación y Obras Públicas para las licencias virtuales, CESCO Digital, o
+cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana; disponer la información mínima que deberá contener
+dicha notificación; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La incorporación de sistemas tecnológicos a los procedimientos gubernamentales se ha
+convertido en una herramienta cada vez más frecuente y necesaria para facilitar el acceso
+a los servicios que se ofrecen al ciudadano.
+Mediante la Ley 151-2004, según enmendada, conocida como <Ley de Gobierno
+Electrónico=, se estableció que la <aplicación pore l gobierno de las tecnologías de la información
+le brinda la oportunidad de mejorar la prestación de servicios al ciudadano, el desempeño de las
+funciones gubernamentales y la divulgación de información gubernamental, contribuyendo así a
+facilitar la participación de los ciudadanos en el gobierno. La incorporación de la tecnología a los
+programas y servicios de gobierno es una valiosa herramienta para reducir tanto el tiempo de
+gestión como los costos de operación, y facilitar la supervisión e implantación de soluciones a las
+necesidades de los ciudadanos, permitiendo que el gobierno preste servicios de mejor calidad.=
+Dicha Ley reconoce, que el acceso a la información es un instrumento democrático de
+incalculable valor, que le brinda transparencia, agilidad y eficiencia, y facilita la
+atribución de responsabilidad en la gestión gubernamental.
+Así mismo, la Ley 75-2019, conocida como <Ley de la Puerto Rico Innovation and
+Technology Service=, decretó como política pública del Gobierno de Puerto Rico, <que las
+tecnologías de información y comunicación sean administradas de forma tal, que se alcance un
+nivel óptimo de eficiencia, se solucione el problema de integración entre las tecnologías de
+información y comunicación de las agencias gubernamentales, y se facilite así el intercambio de
+información, se fomente la transparencia en la información y la ejecución del Gobierno, se expanda
+la disponibilidad y el acceso a los servicios gubernamentales, se promueva la interacción de
+nuestros habitantes con las tecnologías de información y comunicación, y se fomenten las
+ON
+iniciativas públicas y privadas que propendan a eliminar la brecha digital en nuestra sociedad. La
+política pública que se adopta y promulga es cónsona con el objetivo de lograr que la tecnología y
+el uso de ésta se inserte más en la cotidianidad de la vida de nuestros ciudadanos. Además, es de
+vital importancia que se fomente el desenvolvimiento de la industria de las tecnologías de
+información como un ente de desarrollo y crecimiento económico en el Gobierno de Puerto Rico.
+De tal forma, esta Ley crea un nuevo andamiaje de gobierno innovador, atemperando las exigencias
+del siglo XXI y capaz de valerse de la tecnologia para cumplir con las expectativas de la ciudadanía
+y con los estándares modernos de gobernanza.=
+Como parte de esta transformación tecnológica, con la aprobación de la Ley 141-2020, se
+autorizó al Departamento de Transportación y Obras Públicas (DTOP) a <la expedición y
+el uso de las denominadas <licencias de conducir virtuales= (virtual driver licenses), mediante el
+diseño y acceso a una aplicación móvil (app) que contendrá la referida licencia=. Dicha Ley
+también dispuso que el Secretario del DTOP puede incluir en la licencia de conducir
+virtual aquella otra información que a su juicio estime pertinente.
+A esos efectos, se implementó el sistema de los Centros de Servicios al Conductor
+(CESCO). Esta plataforma, llamada CESCO Digital, ha logrado la digitalización,
+simplificación y agilización de los servicios que se ofrecen en el DTOP. Con este sistema,
+los ciudadanos pueden realizar diversas transacciones sin tener que visitar el CESCO de
+forma presencial, entre estas: pagar multas de tránsito, hacer traspaso de vehículos,
+cambios de direcciones, sacar citas, tomar el examen de la licencia de aprendizaje de
+forma virtual, renovar su licencia de conducir, entre otras gestiones disponibles. Además,
+mediante la aplicación, las personas pueden tener acceso a su licencia, registro de
+vehículos, las multas, así como recibir notificaciones y alertas, para saber cuándo deben
+renovar su licencia o el marbete, entre otras cosas. El ciudadano cuenta con toda una
+gama de servicios al alcance de su mano. CESCO Digital ha convertido los procesos en
+unos fáciles y convenientes.
+No obstante, en el caso de las multas, es necesario que la notificación que se hace a través
+de la aplicación de licencia virtual contenga toda la información necesaria para que el
+ciudadano pueda corroborar su veracidad y corrección y tenga una notificación
+adecuada.
+Por todo lo antes mencionado, se proponen cambios a la Ley 22-2000, según enmendada,
+conocida como la <Ley de Vehículos y Tránsito de Puerto Rico= a los fines de facultar que
+las multas de tránsito deberán ser notificadas a través de la aplicación móvil (app) del
+Departamento de Transportación y Obras Públicas para las licencias virtuales CESCO
+Digital, o cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana y disponer la información mínima que deberá contener dicha
+notificación.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.-Se enmienda el Artículo 3.13-A de la Ley 22-2000, según enmendada,
+para que lea como sigue:
+< Artículo 3.13-A. 4 Licencia de conducir virtual
+A toda persona que se autorice a conducir un vehículo de motor, y de así solicitarlo,
+el Secretario le facilitará el acceso a una aplicación móvil (app) que contendrá la
+licencia de conducir virtual del solicitante.
+La aplicación móvil a diseñarse e implantarse contendrá, en español e inglés, la
+siguiente información: el nombre y demás datos descriptivos de la persona a quien se
+le expida, una imagen tridimensional del conductor, que podrá ser girada de lado a
+lado para facilitar la identificación de éste por parte de las autoridades
+gubernamentales, fecha de nacimiento, género de la persona, dirección residencial,
+tipo de sangre, si es o no donante de órganos anatómicos O tejidos, número de
+identificación de la licencia que haya designado el(la) Secretario(a) mediante
+reglamento, designación de veteranos y veteranas (para aquellas personas que
+cualifiquen y presenten evidencia como veteranos y veteranas de las Fuerzas
+Armadas mediante la certificación DD214 que evidencie que el servicio se caracterizó
+como honorable), tipo de licencia concedida, restricciones aplicables si alguna, y
+fechas de expedición y expiración de la misma. El número de identificación se
+conservará a través de todas las renovaciones que se hagan, siempre que se autorice
+dicha renovación de acuerdo con las disposiciones del Artículo 3.14 de esta Ley.
+Así mismo, la aplicación móvil incluirá toda multa expedida contra la persona. La
+multa deberá contener el nombre completo del infractor, fecha de la infracción,
+naturaleza y fundamento legal de la infracción, y cuantía a pagar.
+Además de la información que antecede, el Secretario incluirá en la licencia de
+conducir virtual aquella otra información que a su juicio estime pertinente. También,
+a solicitud del poseedor de la licencia virtual, el Secretario incluirá si tiene pérdida de
+la capacidad auditiva y el grado de la misma.
+=
+Sección 2.-Se enmiendan los incisos (h), (s) y (t) del Artículo 23.05 de la Ley 22-
+2000, según enmendada, para que lea como sigue:
+< Artículo 23.05.- Procedimiento administrativo
+Con relación a las faltas administrativas de tránsito, se seguirán las normas siguientes:
+(8) -..
+(h) Será deber del infractor pagar todo boleto dentro de los treinta (30) días a partir de
+la fecha de su expedición, salvo en los casos que solicite un recurso de revisión
+judicial, conforme a lo establecido en el inciso (1) de este Artículo. Todo pago de
+infracción realizado dentro del periodo de quince (15) días a partir de la fecha de
+la infracción, tendrá derecho a un descuento de treinta por ciento (30%) del monto
+total de la infracción. De no pagarse dentro de quince (15) días, tendrá derecho a
+un descuento de quince por ciento (15%) si se paga antes de cumplidos los treinta
+(30) días a partir de la fecha de la infracción. Luego de pasados los treinta (30) días,
+aplicará un recargo de diez (10) dólares y a partir de ahí, conllevará un recargo de
+cinco (5) dólares adicionales por cada mes de retraso. El recargo podrá ser pagado
+junto al boleto en cualquier colecturía antes del vencimiento de la fecha de pago
+del permiso del vehículo de motor o de la licencia de conducir. En los casos de
+infracciones de movimiento, de no realizarse el pago dentro de los sesenta (60)
+días de emitido, la misma será incluida en la licencia de conducir del infractor o
+del conductor certificado. En el caso que se extravíe el boleto de notificación de la
+multa administrativa y dicha multa no aparezca aún en los registros
+correspondientes del Departamento, el infractor podrá efectuar el pago mediante
+la radicación de una declaración al efecto, en la forma y manera en que el Secretario
+disponga mediante el reglamento. Dicho pago será acreditado contra cualquier
+multa pendiente expedida con anterioridad al mismo, en orden cronológico.
+Cuando alguna de las personas indicadas en el inciso (1) de este Artículo, ejerza su
+derecho a solicitar un recurso de revisión judicial por la imposición de multa, los
+términos aquí establecidos para el pago y los descuentos correspondientes
+comenzarán a decursar a partir del momento en que la determinación del Tribunal
+advenga final, firme e inapelable.
+Toda persona que renueve su licencia de conducir solo vendrá obligada a pagar
+aquellas multas correspondientes al término de la vigencia de su permiso.
+Ninguna persona vendrá obligada a pagar multas de años anteriores al periodo de
+los tres (3) años de vigencia de su licencia, salvo que el Departamento:
+(1) demuestre que nunca fueron pagadas porque no se renovó la licencia de
+conducir correspondiente al periodo donde aparece la multa; o
+(2) haya enviado una notificación de cobro al infractor con anterioridad a la
+culminación de este término a su última dirección conocida mediante: correo
+electrónico o por correo certificado con acuse de recibo, a través de la aplicación
+móvil (app) del Departamento para las licencias virtuales, CESCO Digital, o
+cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana, en los casos donde la persona recipiente de dicha
+notificación esté debida y voluntariamente registrada en dicho sistema digital
+y haya autorizado recibir notificaciones electrónicas a estos fines; o en su
+defecto, haya publicado en' un periódico de circulación general una
+reclamación de pago de la multa o multas atribuibles a dicho infractor.
+(s) Será deber del Secretario del Departamento de Transportación y Obras Públicas
+notificar mediante correo ordinario a todo infractor que haya acumulado mil
+(1,000) dólares o más en multas, ofreciéndole la opción de acudir ante cualquier
+colecturía del Departamento de Hacienda a solicitar y poder acogerse a un plan de
+pago aplazado hasta saldar el monto total de las multas. El Secretario podrá
+ordenar la suspensión de la licencia de conducir a toda persona que no salde la
+cantidad acumulada o no se acoja al plan de pago aplazado. Se autoriza al
+Secretario a enviar estas notificaciones por correo electrónico a aquellas personas
+que así lo soliciten; o a través de la aplicación móvil (app) del Departamento para
+las licencias virtuales, CESCO Digital, o cualquier otro sistema digital autorizado
+por el Secretario con propósitos de notificación ciudadana en los casos donde la
+persona recipiente de dicha notificación esté debida y voluntariamente registrada
+en dicho sistema digital y haya autorizado recibir notificaciones electrónicas a
+estos fines.
+(t) Será deber del Secretario notificar anualmente mediante correo ordinario a todo
+infractor que haya acumulado entre un (1) y novecientos noventa y nueve (999)
+dólares durante un año natural, exhortándole a cumplir con el deber ciudadano
+del pago de multas. Se autoriza al Secretario a enviar estas notificaciones por
+correo electrónico a aquellas personas que así lo soliciten, o a través de la
+aplicación móvil (app) del Departamento para las licencias virtuales, CESCO
+Digital, o cualquier otro sistema digital autorizado por el Secretario con propósitos
+de notificación ciudadana en los casos donde la persona recipiente de dicha
+notificación esté debida y voluntariamente registrada en dicho sistema digital y
+haya autorizado recibir notificaciones electrónicas a estos fines.
+nu"
+Sección 3.-Se enmienda el Artículo 25.01 de la Ley 22-2000, según enmendada, para
+que lea como sigue:
+<Artículo 25.01. 4 Deber de notificación.
+Al momento de la expedición de una multa, el Secretario deberá notificar por correo
+regular o correo electrónico al infractor sobre la existencia de la misma, a su última
+dirección conocida dentro del período de prescripción de tres (3) años establecido en
+el inciso (h) del Artículo 23.05 de esta Ley. También deberá notificarlo a través de la
+aplicación móvil (app) del Departamento para las licencias virtuales, CESCO Digital,
+o cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana en los casos donde la persona recipiente de dicha notificación
+esté debida y voluntariamente registrada en dicho sistema digital y haya autorizado
+recibir notificaciones electrónicas a estos fines.=
+Sección 4.- Se deroga el Artículo 25.02 de la Ley 22-2000, según enmendada, y se
+sustituye por un nuevo Artículo 25.02, para que lea como sigue:
+<Artículo 25.02. 4 Prescripción de multas.
+Al cabo de tres años, contados estos a partir de la fecha de expedición de la multa, la
+misma prescribirá y no podrá ser cobrada por el Secretario, a menos que con
+anterioridad al cumplimiento de dicho plazo, éste haya enviado una notificación de
+cobro al infractor, por correo electrónico; por correo certificado con acuse de recibo a
+su última dirección conocida; o a través de la aplicación móvil (app) del Departamento
+para las licencias virtuales, CESCO Digital, o cualquier otro sistema digital autorizado
+por el Secretario con propósitos de notificación ciudadana en los casos donde la
+persona recipiente de dicha notificación esté debida y voluntariamente registrada en
+dicho sistema digital y haya autorizado recibir notificaciones electrónicas a estos fines;
+o en su defecto, haya publicado en un periódico de circulación general una
+reclamación de pago de la multa o multas atribuibles a dicho infractor. Tampoco
+prescribirá la multa cuando el Secretario demuestre que las multas nunca fueron
+pagadas porque no se renovó la licencia de conducir correspondiente al periodo
+donde aparece la multa o cuando el infractor no haya cumplido con un plan de pago
+al cual se haya acogido.=
+Sección 5.- Se enmienda el Artículo 25.03 de la Ley 22-2000, según enmendada, para
+que lea como sigue:
+< Artículo 25.03. 4 Contenido de la notificación.
+Toda notificación de cobro ya sea por correo postal; correo electrónico; a través de la
+aplicación móvil (app) del Departamento para las licencias virtuales, CESCO Digital,
+o cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana; o por edicto, debe contener como mínimo lo siguiente:
+a) Nombre completo del infractor
+b) Fecha de la infracción
+c) Naturaleza de la infracción y fundamento legal de la infracción
+d) Cuantía a pagar=
+Sección 6.- Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por
+un tribunal de jurisdicción y competencia, este fallo no afectará ni invalidará el resto de
+la Ley y su efecto quedará limitado al aspecto objeto de dicho dictamen judicial.
+Sección 7.- El Secretario del Departamento de Transportación y Obras Públicas tendrá
+un periodo no mayor de ciento veinte (120) días para establecer la reglamentación
+necesaria para cumplir con los propósitos descritos en esta Ley.
+Sección 8.-Esta Ley entrará en vigor inmediatamente después de su aprobación,
+[DELETED:  d l C 4 o | s 6 a v e e A 3 l i ( ( y ( d A 2 y e A d e A 2 y s p u n y e e A d l L 2 s e c c l < d V y d P R a l f d e q l m d t s n a t d l a m ( d D d y O P p l l v C D o o s d a p e S c p d c d l i m q d c n y p o f r D M i d s t a l p g s h e u h c v m f y n p f e a l s q s o a c l L 1 s e c c < d G s e q l < p g d l t d l i b l o d m l p d s a c e d d l g y l d d i g c a a l p d l c e e g L i d l t a l y s d g e u v h p r t e t d c l c d o y l s e i d s a l d l c p q e g p s d m c L r q e a a l i e u i d d v q l b t a y e y f l d r e l g g m l L 7 c c < d l P R I a S d c p p d G d P R < l d i y c s a d f t q s a u ó d e s s e p d i e l t d y c d l a g y s f a e i d s l t e l i y l e d G s e d y e a a l s g s p l i d h c l t d i y c y s f l]
+[DELETED: coosdt p d e t t c l a d l L 1 s a o i q a s j e pstaalmSiaodradm oaEitgoC rssgreár reat:tna ,ptueal asacassir asus c lsieobirrbrc  olomta iftaária  oeyái o e e c d l m e n q l n q s h a tadedhui díeecsroeut=slto Leyeealyá oi    r cs derse áeotnbreaióarfvpáiscea vpc c lt p  rial rp nt ca yaabrsacúlasiu ndfueaoriea i lnmmrraní n  e]
+[DELETED: q]
+[DELETED:  -]
+[DELETED: lc]
+[DELETED: aNc]
+
+
+================================================================================
+
+Raw Text:
+Bn
+Cc
+(P. de la C. 473) o |
+LEY sprobada 6 alar vA)
+Para enmendar el Articulo 3.13-A, los incisos (h), (s) y (t) del Articulo 23.05, y el Articulo
+25.01, derogar el Articulo 25.02 y sustituir por uno nuevo, y enmendar el Articulo
+25.03 de la Ley 22-2000, según enmendada, conocida como la <Ley de Vehículos y
+Tránsito de Puerto Rico=, a los fines de establecer que las multas de tránsito
+deberán ser notificadas a través de la aplicación móvil (app) del Departamento de
+Transportación y Obras Públicas para las licencias virtuales, CESCO Digital, o
+cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana; disponer la información mínima que deberá contener
+dicha notificación; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La incorporación de sistemas tecnológicos a los procedimientos gubernamentales se ha
+convertido en una herramienta cada vez más frecuente y necesaria para facilitar el acceso
+a los servicios que se ofrecen al ciudadano.
+Mediante la Ley 151-2004, según enmendada, conocida como <Ley de Gobierno
+Electrónico=, se estableció que la <aplicación pore l gobierno de las tecnologías de la información
+le brinda la oportunidad de mejorar la prestación de servicios al ciudadano, el desempeño de las
+funciones gubernamentales y la divulgación de información gubernamental, contribuyendo así a
+facilitar la participación de los ciudadanos en el gobierno. La incorporación de la tecnología a los
+programas y servicios de gobierno es una valiosa herramienta para reducir tanto el tiempo de
+gestión como los costos de operación, y facilitar la supervisión e implantación de soluciones a las
+necesidades de los ciudadanos, permitiendo que el gobierno preste servicios de mejor calidad.=
+Dicha Ley reconoce, que el acceso a la información es un instrumento democrático de
+incalculable valor, que le brinda transparencia, agilidad y eficiencia, y facilita la
+atribución de responsabilidad en la gestión gubernamental.
+Así mismo, la Ley 75-2019, conocida como <Ley de la Puerto Rico Innovation and
+Technology Service=, decretó como política pública del Gobierno de Puerto Rico, <que las
+tecnologías de información y comunicación sean administradas de forma tal, que se alcance un
+nivel óptimo de eficiencia, se solucione el problema de integración entre las tecnologías de
+información y comunicación de las agencias gubernamentales, y se facilite así el intercambio de
+información, se fomente la transparencia en la información y la ejecución del Gobierno, se expanda
+la disponibilidad y el acceso a los servicios gubernamentales, se promueva la interacción de
+nuestros habitantes con las tecnologías de información y comunicación, y se fomenten las
+
+ON
+iniciativas públicas y privadas que propendan a eliminar la brecha digital en nuestra sociedad. La
+política pública que se adopta y promulga es cónsona con el objetivo de lograr que la tecnología y
+el uso de ésta se inserte más en la cotidianidad de la vida de nuestros ciudadanos. Además, es de
+vital importancia que se fomente el desenvolvimiento de la industria de las tecnologías de
+información como un ente de desarrollo y crecimiento económico en el Gobierno de Puerto Rico.
+De tal forma, esta Ley crea un nuevo andamiaje de gobierno innovador, atemperando las exigencias
+del siglo XXI y capaz de valerse de la tecnologia para cumplir con las expectativas de la ciudadanía
+y con los estándares modernos de gobernanza.=
+Como parte de esta transformación tecnológica, con la aprobación de la Ley 141-2020, se
+autorizó al Departamento de Transportación y Obras Públicas (DTOP) a <la expedición y
+el uso de las denominadas <licencias de conducir virtuales= (virtual driver licenses), mediante el
+diseño y acceso a una aplicación móvil (app) que contendrá la referida licencia=. Dicha Ley
+también dispuso que el Secretario del DTOP puede incluir en la licencia de conducir
+virtual aquella otra información que a su juicio estime pertinente.
+A esos efectos, se implementó el sistema de los Centros de Servicios al Conductor
+(CESCO). Esta plataforma, llamada CESCO Digital, ha logrado la digitalización,
+simplificación y agilización de los servicios que se ofrecen en el DTOP. Con este sistema,
+los ciudadanos pueden realizar diversas transacciones sin tener que visitar el CESCO de
+forma presencial, entre estas: pagar multas de tránsito, hacer traspaso de vehículos,
+cambios de direcciones, sacar citas, tomar el examen de la licencia de aprendizaje de
+forma virtual, renovar su licencia de conducir, entre otras gestiones disponibles. Además,
+mediante la aplicación, las personas pueden tener acceso a su licencia, registro de
+vehículos, las multas, así como recibir notificaciones y alertas, para saber cuándo deben
+renovar su licencia o el marbete, entre otras cosas. El ciudadano cuenta con toda una
+gama de servicios al alcance de su mano. CESCO Digital ha convertido los procesos en
+unos fáciles y convenientes.
+No obstante, en el caso de las multas, es necesario que la notificación que se hace a través
+de la aplicación de licencia virtual contenga toda la información necesaria para que el
+ciudadano pueda corroborar su veracidad y corrección y tenga una notificación
+adecuada.
+Por todo lo antes mencionado, se proponen cambios a la Ley 22-2000, según enmendada,
+conocida como la <Ley de Vehículos y Tránsito de Puerto Rico= a los fines de facultar que
+las multas de tránsito deberán ser notificadas a través de la aplicación móvil (app) del
+Departamento de Transportación y Obras Públicas para las licencias virtuales CESCO
+Digital, o cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana y disponer la información mínima que deberá contener dicha
+notificación.
+
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.-Se enmienda el Artículo 3.13-A de la Ley 22-2000, según enmendada,
+para que lea como sigue:
+< Artículo 3.13-A. 4 Licencia de conducir virtual
+A toda persona que se autorice a conducir un vehículo de motor, y de así solicitarlo,
+el Secretario le facilitará el acceso a una aplicación móvil (app) que contendrá la
+licencia de conducir virtual del solicitante.
+La aplicación móvil a diseñarse e implantarse contendrá, en español e inglés, la
+siguiente información: el nombre y demás datos descriptivos de la persona a quien se
+le expida, una imagen tridimensional del conductor, que podrá ser girada de lado a
+lado para facilitar la identificación de éste por parte de las autoridades
+gubernamentales, fecha de nacimiento, género de la persona, dirección residencial,
+tipo de sangre, si es o no donante de órganos anatómicos O tejidos, número de
+identificación de la licencia que haya designado el(la) Secretario(a) mediante
+reglamento, designación de veteranos y veteranas (para aquellas personas que
+cualifiquen y presenten evidencia como veteranos y veteranas de las Fuerzas
+Armadas mediante la certificación DD214 que evidencie que el servicio se caracterizó
+como honorable), tipo de licencia concedida, restricciones aplicables si alguna, y
+fechas de expedición y expiración de la misma. El número de identificación se
+conservará a través de todas las renovaciones que se hagan, siempre que se autorice
+dicha renovación de acuerdo con las disposiciones del Artículo 3.14 de esta Ley.
+Así mismo, la aplicación móvil incluirá toda multa expedida contra la persona. La
+multa deberá contener el nombre completo del infractor, fecha de la infracción,
+naturaleza y fundamento legal de la infracción, y cuantía a pagar.
+Además de la información que antecede, el Secretario incluirá en la licencia de
+conducir virtual aquella otra información que a su juicio estime pertinente. También,
+a solicitud del poseedor de la licencia virtual, el Secretario incluirá si tiene pérdida de
+la capacidad auditiva y el grado de la misma.
+=
+Sección 2.-Se enmiendan los incisos (h), (s) y (t) del Artículo 23.05 de la Ley 22-
+2000, según enmendada, para que lea como sigue:
+< Artículo 23.05.- Procedimiento administrativo
+Con relación a las faltas administrativas de tránsito, se seguirán las normas siguientes:
+
+(8) -..
+(h) Será deber del infractor pagar todo boleto dentro de los treinta (30) días a partir de
+la fecha de su expedición, salvo en los casos que solicite un recurso de revisión
+judicial, conforme a lo establecido en el inciso (1) de este Artículo. Todo pago de
+infracción realizado dentro del periodo de quince (15) días a partir de la fecha de
+la infracción, tendrá derecho a un descuento de treinta por ciento (30%) del monto
+total de la infracción. De no pagarse dentro de quince (15) días, tendrá derecho a
+un descuento de quince por ciento (15%) si se paga antes de cumplidos los treinta
+(30) días a partir de la fecha de la infracción. Luego de pasados los treinta (30) días,
+aplicará un recargo de diez (10) dólares y a partir de ahí, conllevará un recargo de
+cinco (5) dólares adicionales por cada mes de retraso. El recargo podrá ser pagado
+junto al boleto en cualquier colecturía antes del vencimiento de la fecha de pago
+del permiso del vehículo de motor o de la licencia de conducir. En los casos de
+infracciones de movimiento, de no realizarse el pago dentro de los sesenta (60)
+días de emitido, la misma será incluida en la licencia de conducir del infractor o
+del conductor certificado. En el caso que se extravíe el boleto de notificación de la
+multa administrativa y dicha multa no aparezca aún en los registros
+correspondientes del Departamento, el infractor podrá efectuar el pago mediante
+la radicación de una declaración al efecto, en la forma y manera en que el Secretario
+disponga mediante el reglamento. Dicho pago será acreditado contra cualquier
+multa pendiente expedida con anterioridad al mismo, en orden cronológico.
+Cuando alguna de las personas indicadas en el inciso (1) de este Artículo, ejerza su
+derecho a solicitar un recurso de revisión judicial por la imposición de multa, los
+términos aquí establecidos para el pago y los descuentos correspondientes
+comenzarán a decursar a partir del momento en que la determinación del Tribunal
+advenga final, firme e inapelable.
+Toda persona que renueve su licencia de conducir solo vendrá obligada a pagar
+aquellas multas correspondientes al término de la vigencia de su permiso.
+
+Ninguna persona vendrá obligada a pagar multas de años anteriores al periodo de
+los tres (3) años de vigencia de su licencia, salvo que el Departamento:
+(1) demuestre que nunca fueron pagadas porque no se renovó la licencia de
+conducir correspondiente al periodo donde aparece la multa; o
+(2) haya enviado una notificación de cobro al infractor con anterioridad a la
+culminación de este término a su última dirección conocida mediante: correo
+electrónico o por correo certificado con acuse de recibo, a través de la aplicación
+móvil (app) del Departamento para las licencias virtuales, CESCO Digital, o
+cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana, en los casos donde la persona recipiente de dicha
+notificación esté debida y voluntariamente registrada en dicho sistema digital
+y haya autorizado recibir notificaciones electrónicas a estos fines; o en su
+defecto, haya publicado en' un periódico de circulación general una
+reclamación de pago de la multa o multas atribuibles a dicho infractor.
+(s) Será deber del Secretario del Departamento de Transportación y Obras Públicas
+notificar mediante correo ordinario a todo infractor que haya acumulado mil
+(1,000) dólares o más en multas, ofreciéndole la opción de acudir ante cualquier
+colecturía del Departamento de Hacienda a solicitar y poder acogerse a un plan de
+pago aplazado hasta saldar el monto total de las multas. El Secretario podrá
+ordenar la suspensión de la licencia de conducir a toda persona que no salde la
+
+cantidad acumulada o no se acoja al plan de pago aplazado. Se autoriza al
+Secretario a enviar estas notificaciones por correo electrónico a aquellas personas
+que así lo soliciten; o a través de la aplicación móvil (app) del Departamento para
+las licencias virtuales, CESCO Digital, o cualquier otro sistema digital autorizado
+por el Secretario con propósitos de notificación ciudadana en los casos donde la
+persona recipiente de dicha notificación esté debida y voluntariamente registrada
+en dicho sistema digital y haya autorizado recibir notificaciones electrónicas a
+estos fines.
+(t) Será deber del Secretario notificar anualmente mediante correo ordinario a todo
+infractor que haya acumulado entre un (1) y novecientos noventa y nueve (999)
+dólares durante un año natural, exhortándole a cumplir con el deber ciudadano
+del pago de multas. Se autoriza al Secretario a enviar estas notificaciones por
+correo electrónico a aquellas personas que así lo soliciten, o a través de la
+aplicación móvil (app) del Departamento para las licencias virtuales, CESCO
+Digital, o cualquier otro sistema digital autorizado por el Secretario con propósitos
+de notificación ciudadana en los casos donde la persona recipiente de dicha
+notificación esté debida y voluntariamente registrada en dicho sistema digital y
+haya autorizado recibir notificaciones electrónicas a estos fines.
+nu"
+Sección 3.-Se enmienda el Artículo 25.01 de la Ley 22-2000, según enmendada, para
+que lea como sigue:
+<Artículo 25.01. 4 Deber de notificación.
+Al momento de la expedición de una multa, el Secretario deberá notificar por correo
+regular o correo electrónico al infractor sobre la existencia de la misma, a su última
+dirección conocida dentro del período de prescripción de tres (3) años establecido en
+el inciso (h) del Artículo 23.05 de esta Ley. También deberá notificarlo a través de la
+aplicación móvil (app) del Departamento para las licencias virtuales, CESCO Digital,
+o cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana en los casos donde la persona recipiente de dicha notificación
+esté debida y voluntariamente registrada en dicho sistema digital y haya autorizado
+recibir notificaciones electrónicas a estos fines.=
+Sección 4.- Se deroga el Artículo 25.02 de la Ley 22-2000, según enmendada, y se
+sustituye por un nuevo Artículo 25.02, para que lea como sigue:
+<Artículo 25.02. 4 Prescripción de multas.
+
+Al cabo de tres años, contados estos a partir de la fecha de expedición de la multa, la
+misma prescribirá y no podrá ser cobrada por el Secretario, a menos que con
+anterioridad al cumplimiento de dicho plazo, éste haya enviado una notificación de
+cobro al infractor, por correo electrónico; por correo certificado con acuse de recibo a
+su última dirección conocida; o a través de la aplicación móvil (app) del Departamento
+para las licencias virtuales, CESCO Digital, o cualquier otro sistema digital autorizado
+por el Secretario con propósitos de notificación ciudadana en los casos donde la
+persona recipiente de dicha notificación esté debida y voluntariamente registrada en
+dicho sistema digital y haya autorizado recibir notificaciones electrónicas a estos fines;
+o en su defecto, haya publicado en un periódico de circulación general una
+reclamación de pago de la multa o multas atribuibles a dicho infractor. Tampoco
+prescribirá la multa cuando el Secretario demuestre que las multas nunca fueron
+pagadas porque no se renovó la licencia de conducir correspondiente al periodo
+donde aparece la multa o cuando el infractor no haya cumplido con un plan de pago
+al cual se haya acogido.=
+Sección 5.- Se enmienda el Artículo 25.03 de la Ley 22-2000, según enmendada, para
+que lea como sigue:
+< Artículo 25.03. 4 Contenido de la notificación.
+Toda notificación de cobro ya sea por correo postal; correo electrónico; a través de la
+aplicación móvil (app) del Departamento para las licencias virtuales, CESCO Digital,
+o cualquier otro sistema digital autorizado por el Secretario con propósitos de
+notificación ciudadana; o por edicto, debe contener como mínimo lo siguiente:
+a) Nombre completo del infractor
+b) Fecha de la infracción
+c) Naturaleza de la infracción y fundamento legal de la infracción
+d) Cuantía a pagar=
+Sección 6.- Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por
+un tribunal de jurisdicción y competencia, este fallo no afectará ni invalidará el resto de
+la Ley y su efecto quedará limitado al aspecto objeto de dicho dictamen judicial.
+Sección 7.- El Secretario del Departamento de Transportación y Obras Públicas tendrá
+un periodo no mayor de ciento veinte (120) días para establecer la reglamentación
+necesaria para cumplir con los propósitos descritos en esta Ley.
+
+Sección 8.-Esta Ley entrará en vigor inmediatamente después de su aprobación,
+
+[DELETED:  d l C 4 o | s 6 a v e e A 3 l i ( ( y ( d A 2 y e A d e A 2 y s p u n y e e A d l L 2 s e c c l < d V y d P R a l f d e q l m d t s n a t d l a m ( d D d y O P p l l v C D o o s d a p e S c p d c d l i m q d c n y p o f r D M i d s t a l p g s h e u h c v m f y n p f e a l s q s o a c l L 1 s e c c < d G s e q l < p g d l t d l i b l o d m l p d s a c e d d l g y l d d i g c a a l p d l c e e g L i d l t a l y s d g e u v h p r t e t d c l c d o y l s e i d s a l d l c p q e g p s d m c L r q e a a l i e u i d d v q l b t a y e y f l d r e l g g m l L 7 c c < d l P R I a S d c p p d G d P R < l d i y c s a d f t q s a u ó d e s s e p d i e l t d y c d l a g y s f a e i d s l t e l i y l e d G s e d y e a a l s g s p l i d h c l t d i y c y s f l]
+[DELETED: coosdt p d e t t c l a d l L 1 s a o i q a s j e pstaalmSiaodradm oaEitgoC rssgreár reat:tna ,ptueal asacassir asus c lsieobirrbrc  olomta iftaária  oeyái o e e c d l m e n q l n q s h a tadedhui díeecsroeut=slto Leyeealyá oi    r cs derse áeotnbreaióarfvpáiscea vpc c lt p  rial rp nt ca yaabrsacúlasiu ndfueaoriea i lnmmrraní n  e]
+[DELETED: q]
+[DELETED:  -]
+[DELETED: lc]
+[DELETED: aNc]

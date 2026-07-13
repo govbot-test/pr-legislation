@@ -1,0 +1,1057 @@
+Title: Para enmendar la Sección 3.19 de la Ley Núm. 38-2017, según enmendada,
+Official Title: Para enmendar la Sección 3.19 de la Ley Núm. 38-2017, según enmendada,
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1266
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+conocida como la “Ley de Procedimiento Administrativo Uniforme del Gobierno de
+Puerto Rico”; enmendar los Artículos 32 y 53 de la Ley Núm. 73-2019, según enmendada,
+conocida como la “Ley de la Administración de Servicios Generales para la
+Centralización de las Compras del Gobierno de Puerto Rico de 2019”; a los fines de
+establecer requisitos uniformes y obligatorios para las notificaciones de adjudicación
+emitidas en procesos de licitación pública, incluyendo subastas formales, subastas
+informales, solicitudes de propuestas, solicitudes de propuestas selladas, requerimientos
+de propuestas, solicitudes de cualificaciones, requerimientos de cualificaciones y
+procedimientos análogos; requerir advertencias claras sobre los términos y foros
+disponibles para solicitar revisión administrativa, reconsideración o revisión judicial,
+según corresponda; disponer el efecto jurídico de una notificación defectuosa sobre el
+inicio de los términos jurisdiccionales; ordenar la preparación y adopción de modelos
+uniformes de notificación; establecer deberes de reglamentación y coordinación
+interagencial; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La contratación pública constituye una de las funciones administrativas de mayor
+impacto en la prestación de servicios gubernamentales, la ejecución presupuestaria, la
+continuidad operacional de las agencias, la protección de fondos públicos y la confianza
+2
+ciudadana en la administración pública. Los procesos de subasta, solicitud de propuestas,
+solicitud de propuestas selladas, solicitud de cualificaciones, requerimientos de
+propuestas y otros mecanismos de licitación pública no son meros trámites internos de
+adquisición; son procedimientos administrativos que deben salvaguardar la competencia
+justa, la transparencia, la igualdad de condiciones entre licitadores, la selección
+responsable del mejor valor para el Gobierno y el derecho de las partes adversamente
+afectadas a revisar una adjudicación conforme a los términos y foros establecidos por ley.
+En este contexto, la notificación de adjudicación ocupa una función jurídica
+indispensable. Es el acto administrativo mediante el cual la entidad gubernamental
+comunica oficialmente el resultado del proceso de licitación, los fundamentos que
+justifican la selección realizada, la evaluación comparativa de las propuestas, los defectos
+o incumplimientos identificados, si alguno, y los remedios disponibles para las partes
+que interesen impugnar la determinación.
+Por tanto, una notificación de adjudicación incompleta, ambigua, contradictoria o
+jurídicamente incorrecta no solo afecta a los licitadores o proponentes; también afecta al
+propio Gobierno, porque puede provocar retrasos contractuales, litigios innecesarios,
+recursos prematuros, desestimaciones por falta de jurisdicción, duplicidad de
+notificaciones, incertidumbre sobre la firmeza de la adjudicación y atrasos en la
+prestación de servicios públicos.
+La Ley Núm. 73-2019, según enmendada, conocida como la “Ley de la
+Administración de Servicios Generales para la Centralización de las Compras del
+Gobierno de Puerto Rico de 2019”, estableció un marco uniforme para los procesos de
+compras y subastas del Gobierno de Puerto Rico, incluyendo métodos de licitación como
+la subasta informal, la subasta formal, la solicitud de propuestas, la solicitud de
+propuestas selladas y la solicitud de cualificaciones. Dicha Ley también creó la Junta
+Revisora de Subastas de la Administración de Servicios Generales y dispuso un
+mecanismo especializado de revisión administrativa para impugnar adjudicaciones en
+determinados procesos de licitación pública.
+3
+Por su parte, la Ley Núm. 38-2017, según enmendada, conocida como la “Ley de
+Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, contiene el marco
+general de revisión administrativa y judicial de actuaciones administrativas. En años
+recientes, la Asamblea Legislativa ha enmendado tanto la Ley Núm. 38-2017 como la Ley
+Núm. 73-2019 para uniformar términos, aclarar la jurisdicción de la Junta Revisora de
+Subastas de la Administración de Servicios Generales y establecer la relación entre
+revisión administrativa y revisión judicial en procesos de licitación pública.
+Sin embargo, la experiencia administrativa y judicial demuestra que todavía
+persisten zonas de incertidumbre relacionadas con el contenido mínimo de las
+notificaciones de adjudicación, particularmente cuando el proceso no cae claramente
+dentro de la jurisdicción ordinaria de la Junta Revisora de Subastas o cuando la agencia
+emite advertencias incorrectas sobre el término aplicable, el foro revisor o el efecto de la
+reconsideración.
+El Tribunal Supremo de Puerto Rico atendió recientemente este problema en
+RedMane Technology, LLC v. Departamento de Salud, 2026 TSPR 37. En dicho caso, la
+controversia giró en torno a una notificación de adjudicación emitida en un proceso de
+Request for Proposal del Departamento de Salud. El Tribunal Supremo expresó que tenía
+ante sí la oportunidad de aclarar la normativa procesal aplicable a las notificaciones de
+adjudicación en procesos de licitación pública, particularmente ante una impugnación de
+un RFP efectuado por una agencia gubernamental. La controversia procesal surgió
+porque la notificación contenía advertencias inadecuadas sobre los mecanismos
+disponibles para solicitar reconsideración, revisión administrativa o revisión judicial, lo
+que incidió sobre la jurisdicción del Tribunal de Apelaciones y obligó a examinar cuándo
+una notificación defectuosa activa, o no activa, los términos de revisión.
+La importancia de dicha decisión trasciende las partes del caso. El problema que
+revela no es meramente incidental ni aislado. Cuando una agencia, junta de subastas o
+entidad gubernamental emite una notificación con advertencias incorrectas, incompletas
+o incompatibles con el estatuto aplicable, se crea incertidumbre sobre el término para
+acudir al foro correspondiente, sobre si la reconsideración es mandatoria o permisible,
+4
+sobre si procede revisión administrativa ante la Junta Revisora de Subastas o revisión
+judicial directa ante el Tribunal de Apelaciones, y sobre si la presentación de un recurso
+tiene o no efecto paralizador.
+Esa incertidumbre genera litigios que no atienden necesariamente el mérito de la
+adjudicación, sino defectos procesales que pudieron evitarse mediante una notificación
+clara, uniforme y correcta. La Asamblea Legislativa reconoce que la finalidad de un
+proceso de licitación pública no es producir controversias procesales innecesarias, sino
+seleccionar de forma transparente, competitiva y responsable la propuesta que mejor
+atienda los intereses del Gobierno de Puerto Rico. A su vez, reconoce que el derecho de
+revisión de las partes adversamente afectadas es parte esencial del debido proceso
+administrativo. Para que ese derecho sea real y efectivo, las partes deben recibir una
+notificación que les informe correctamente qué recurso tienen disponible, ante qué foro
+deben presentarlo, en qué término deben hacerlo, desde qué fecha comienza a transcurrir
+dicho término, qué efecto tiene una reconsideración o revisión administrativa, a quién
+debe notificarse el recurso y cuál es la consecuencia de una notificación defectuosa.
+Esta Ley atiende esa necesidad mediante tres mecanismos complementarios.
+Primero, enmienda la Ley Núm. 38-2017 para establecer una regla general de notificación
+uniforme aplicable a procesos de licitación pública. Segundo, enmienda la Ley Núm. 73-
+2019 para reforzar los requisitos de notificación dentro del régimen de compras
+centralizadas y de la Junta de Subastas. Tercero, ordena la adopción de modelos
+uniformes de notificación que puedan utilizarse según la naturaleza del proceso:
+procesos sujetos a revisión administrativa ante la Junta Revisora de Subastas de la
+Administración de Servicios Generales, procesos sujetos a reconsideración ante la
+agencia, procesos sujetos a revisión judicial directa, procesos de entidades exentas y
+procesos regulados por leyes especiales.
+La medida no pretende alterar los criterios sustantivos de adjudicación, ni crear
+una nueva causa de impugnación por errores inocuos, ni paralizar automáticamente
+procesos de contratación pública. Su propósito es más limitado y preciso: asegurar que
+toda adjudicación de subasta, RFP, RFQ o licitación pública se notifique con advertencias
+5
+uniformes, correctas y suficientes, de manera que los términos jurisdiccionales comiencen
+a transcurrir únicamente cuando las partes hayan sido notificadas conforme a derecho.
+De esta forma, se protege el debido proceso, se promueve la eficiencia gubernamental, se
+reduce la litigación innecesaria y se brinda mayor certeza a las agencias, licitadores,
+proponentes, contratistas y foros revisores.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda la Sección 3.19 de la Ley Núm. 38-2017, según
+2 enmendada, conocida como la “Ley de Procedimiento Administrativo Uniforme del
+3 Gobierno de Puerto Rico”, para que lea como sigue:
+4 Sección 3.19. — Procesos de Licitación Pública; Procedimiento y término para
+5 solicitar revisión administrativa en la adjudicación de procesos de licitación pública.
+6 Los procesos de licitación pública se celebrarán de conformidad a la Ley 73-2019,
+7 según enmendada, salvo los procesos de licitación pública municipal que se realizarán
+8 de conformidad a la Ley 107-2020, según enmendada. Las agencias administrativas bajo
+9 la definición de Entidades Exentas para fines de la Ley 73-2019 vendrán obligadas a
+10 adoptar los métodos de licitación y compras excepcionales y a seguir los procedimientos
+11 establecidos en la Ley 73-2019 al momento de realizar sus compras y subastas de bienes,
+12 obras y servicios no profesionales. Las Entidades Exentas de la Ley 73-2019 deberán
+13 además cumplir con los términos y procesos que se establecen en esta Ley y en la Ley 73-
+14 2019.
+15 La parte adversamente afectada por una determinación en un proceso de licitación
+16 pública podrá presentar una solicitud de revisión administrativa ante la Junta Revisora
+6
+1 de Subastas de la Administración de Servicios Generales dentro del término de diez (10)
+2 días calendario, contados a partir del depósito en el correo federal o la notificación por
+3 correo electrónico, lo que ocurra primero, de la adjudicación del proceso de licitación
+4 pública. La Junta Revisora de Subastas de la Administración de Servicios Generales
+5 deberá determinar si acoge o no la solicitud de revisión administrativa dentro del término
+6 de diez (10) días calendario de haberse presentado la solicitud de revisión administrativa.
+7 Si dentro de ese término la Junta Revisora de la Administración de Servicios
+8 Generales determina acoger la misma, tendrá un término de treinta (30) días calendario
+9 adicionales para adjudicarla, contados a partir del vencimiento de los diez (10) días
+10 calendario que tenía para determinar si la acogía o no. La Junta Revisora de la
+11 Administración de Servicios Generales podrá extender el término de treinta (30) días
+12 calendario, una sola vez, por un término adicional de quince (15) días calendario.
+13 Si se tomare alguna determinación en la revisión administrativa, el término para
+14 instar el recurso de revisión judicial ante el Tribunal de Apelaciones comenzará a contarse
+15 desde la fecha en que se depositó en el correo federal o se notificó por correo electrónico,
+16 lo que ocurra primero, copia de la notificación de la decisión de la Junta Revisora de
+17 Subastas de la Administración de Servicios Generales adjudicando la solicitud de revisión
+18 administrativa. Si la Junta Revisora de Subastas de la Administración de Servicios
+19 Generales dejare de tomar alguna acción con relación al recurso de revisión
+20 administrativa dentro de los términos dispuestos en esta Ley, se entenderá que este ha
+21 sido rechazado de plano, y a partir de esa fecha comenzará a decursar el término para
+22 presentar el recurso de revisión judicial. La presentación del recurso de revisión
+7
+1 administrativa ante la Junta Revisora de Subastas de la Administración de Servicios
+2 Generales será un requisito jurisdiccional antes de presentar un recurso de revisión
+3 judicial ante el Tribunal de Apelaciones.
+4 La parte adversamente afectada tendrá un término jurisdiccional de veinte (20)
+5 días calendario para presentar un recurso de revisión judicial ante el Tribunal de
+6 Apelaciones, contados a partir del depósito en el correo federal o de remitida la
+7 determinación por correo electrónico, lo que ocurra primero, ya sea de la adjudicación de
+8 la solicitud de revisión administrativa ante la Junta Revisora de Subastas de la
+9 Administración de Servicios Generales, o cuando venza el término que tenía la Junta
+10 Revisora de Subastas de la Administración de Servicios Generales para determinar si
+11 acogía o no la solicitud de revisión administrativa.
+12 Toda notificación de adjudicación emitida en un proceso de licitación pública deberá ser
+13 escrita, fundamentada, clara, uniforme y suficiente para informar a las partes adversamente
+14 afectadas los fundamentos de la determinación y los remedios administrativos o judiciales
+15 disponibles. Este requisito aplicará, sin limitarse a ello, a subastas formales, subastas informales,
+16 solicitudes de propuestas, solicitudes de propuestas selladas, requerimientos de propuestas,
+17 solicitudes de cualificaciones, requerimientos de cualificaciones y cualquier procedimiento análogo
+18 de contratación pública, independientemente de la denominación utilizada por la agencia, junta de
+19 subastas, entidad exenta, instrumentalidad pública o entidad gubernamental correspondiente.
+20 La notificación de adjudicación deberá incluir, como mínimo:
+21 (a) el nombre oficial del proceso de licitación pública;
+8
+1 (b) el número de subasta, solicitud de propuestas, solicitud de propuestas selladas,
+2 requerimiento de propuestas, solicitud de cualificaciones, requerimiento de cualificaciones o
+3 procedimiento análogo;
+4 (c) la entidad gubernamental, agencia, junta, instrumentalidad o entidad exenta que emite
+5 la adjudicación;
+6 (d) la fecha de adjudicación;
+7 (e) la fecha de archivo en el expediente administrativo o en autos, si aplica;
+8 (f) la fecha de depósito en el correo federal, de envío por correo electrónico o de utilización
+9 de cualquier otro método de notificación autorizado por ley;
+10 (g) el método de notificación utilizado;
+11 (h) el nombre del licitador, proponente u oferente agraciado;
+12 (i) los nombres de todos los licitadores, proponentes u oferentes participantes;
+13 (j) una síntesis de las propuestas, ofertas o cualificaciones evaluadas, salvo aquella
+14 información protegida por ley, secreto comercial, confidencialidad estatutaria o disposición federal
+15 aplicable;
+16 (k) los criterios de evaluación utilizados para adjudicar;
+17 (l) la puntuación, clasificación, recomendación técnica, evaluación comparativa o
+18 determinación equivalente, cuando aplique por la naturaleza del proceso;
+19 (m) los defectos, deficiencias, incumplimientos o razones principales por las cuales no
+20 fueron favorecidas las propuestas, ofertas o cualificaciones no agraciadas, si alguno;
+21 (n) los fundamentos que justifican la adjudicación, aunque sea de forma breve o sucinta;
+9
+1 (o) el recurso disponible para impugnar la determinación, especificando si procede revisión
+2 administrativa ante la Junta Revisora de Subastas de la Administración de Servicios Generales,
+3 reconsideración ante la agencia adjudicadora, revisión judicial directa ante el Tribunal de
+4 Apelaciones, o cualquier otro remedio dispuesto por ley especial;
+5 (p) el foro exacto ante el cual deberá presentarse el recurso disponible;
+6 (q) el término aplicable para presentar dicho recurso;
+7 (r) la fecha o evento desde el cual comenzará a transcurrir el término correspondiente;
+8 (s) si el término aplicable es jurisdiccional o de cumplimiento estricto;
+9 (t) si la presentación de reconsideración, revisión administrativa o revisión judicial tiene o
+10 no tiene el efecto de paralizar la adjudicación, la contratación, la ejecución del contrato o cualquier
+11 etapa posterior del proceso;
+12 (u) las partes a quienes deberá notificarse copia del recurso, incluyendo la agencia, la junta
+13 de subastas, la Junta Revisora de Subastas, el licitador o proponente agraciado y cualquier otra
+14 parte con derecho a notificación;
+15 (v) la forma permitida de notificación del recurso a las demás partes;
+16 (w) la advertencia de que una notificación defectuosa, incompleta o con advertencias
+17 incorrectas sobre términos, foros o remedios no activará los términos jurisdiccionales de revisión
+18 hasta tanto se emita y notifique una notificación corregida conforme a derecho; y
+19 (x) cualquier otra advertencia requerida por la Ley 73-2019, esta Ley, el Reglamento
+20 Uniforme de Compras y Subastas de la Administración de Servicios Generales, la ley orgánica de
+21 la agencia adjudicadora o cualquier ley especial aplicable.
+10
+1 Cuando el proceso de licitación pública esté sujeto a revisión administrativa ante la Junta
+2 Revisora de Subastas de la Administración de Servicios Generales, la notificación deberá advertir
+3 expresamente que dicha revisión administrativa constituye un requisito jurisdiccional previo a la
+4 presentación de un recurso de revisión judicial ante el Tribunal de Apelaciones.
+5 Cuando el proceso de licitación pública no esté sujeto a revisión administrativa ante la
+6 Junta Revisora de Subastas de la Administración de Servicios Generales, la notificación deberá
+7 identificar expresamente el remedio aplicable, incluyendo si procede reconsideración ante la
+8 agencia adjudicadora, revisión judicial directa ante el Tribunal de Apelaciones o cualquier otro
+9 mecanismo dispuesto por ley especial o reglamento válido. En tales casos, la agencia no podrá
+10 advertir como mandatorio un recurso que no sea requerido por ley, ni podrá identificar como foro
+11 revisor a un organismo que carezca de jurisdicción sobre el proceso adjudicado.
+12 Una notificación de adjudicación que omita, contradiga o exprese incorrectamente el
+13 término aplicable, el foro revisor, la disponibilidad de reconsideración, la disponibilidad de revisión
+14 administrativa, la disponibilidad de revisión judicial, el efecto de la presentación de un recurso, o
+15 la fecha desde la cual comenzará a transcurrir el término correspondiente, se considerará defectuosa
+16 para propósitos de activar términos jurisdiccionales. En tal caso, los términos para solicitar
+17 reconsideración, revisión administrativa o revisión judicial, según corresponda, no comenzarán a
+18 decursar hasta que la entidad adjudicadora emita una notificación corregida conforme a derecho.
+19 No se considerará defectuosa, para propósitos de este Artículo, una notificación que contenga
+20 errores de forma, tipográficos o clericales que no afecten sustancialmente el derecho de una parte
+21 adversamente afectada a conocer los fundamentos de la adjudicación, el foro competente, el término
+22 aplicable, el remedio disponible o la fecha desde la cual comienza a transcurrir dicho término.
+11
+1 La Administración de Servicios Generales, en coordinación con el Departamento de
+2 Justicia, preparará y publicará modelos uniformes de notificación de adjudicación para los distintos
+3 procesos de licitación pública. Dichos modelos deberán contemplar, como mínimo, procesos sujetos
+4 a revisión administrativa ante la Junta Revisora de Subastas de la Administración de Servicios
+5 Generales, procesos no sujetos a dicha revisión administrativa, procesos de entidades exentas,
+6 procesos de servicios profesionales cuando sean tramitados mediante mecanismos competitivos,
+7 procesos sujetos a ley especial y procesos municipales, en la medida en que sean compatibles con la
+8 Ley 107-2020, según enmendada, conocida como el “Código Municipal de Puerto Rico”.
+9 Sección 2. Se enmienda el Artículo 32 de la Ley Núm. 73-2019, según enmendada,
+10 conocida como la “Ley de la Administración de Servicios Generales para la
+11 Centralización de las Compras del Gobierno de Puerto Rico de 2019”, para que lea como
+12 sigue:
+13 Artículo 32. — Disposiciones Generales sobre los Procesos de Licitación.
+14 El Administrador establecerá mediante reglamento los procesos específicos que
+15 deberán llevarse a cabo para cada Método de Licitación dispuesto en esta Ley. El monto
+16 dispuesto como requisito de subasta formal y solicitud de propuesta sellada podrá ser
+17 revisado por el Administrador en cualquier momento, previa reglamentación aprobada
+18 conforme la Ley 38-2017, según enmendada.
+19 Las adjudicaciones realizadas por la Junta de Subastas, correspondientes a
+20 subastas formales, solicitud de propuestas, solicitud de propuestas selladas y/o solicitud
+21 de cualificaciones, podrán ser revisadas por la Junta Revisora de Subastas, según lo
+22 dispuesto en el Capítulo VIII de esta Ley.
+12
+1 La Administración tendrá la facultad de cancelar cualquier Subasta, Solicitud de
+2 Propuestas y/o Solicitud de Cualificaciones o parte de estas, antes o después de su
+3 adjudicación, cuando así lo estime necesario para proteger los mejores intereses del
+4 Gobierno de Puerto Rico.
+5 Una vez adjudicado un asunto ante la consideración de la Administración Auxiliar
+6 de Adquisiciones o ante la Junta de Subastas, el organismo correspondiente procederá a
+7 notificar su determinación final, según las normas y procedimientos que se establezcan
+8 en el Reglamento Uniforme de Compras y Subastas de la Administración de Servicios
+9 Generales del Gobierno de Puerto Rico y conforme a los requisitos establecidos en la Sección
+10 3.19 de la Ley 38-2017, según enmendada. La notificación de adjudicación de subasta será
+11 notificada adecuadamente, mediante correo federal certificado con acuse de recibo o
+12 mediante correo electrónico, a todas las partes que tengan derecho a impugnar tal
+13 determinación. La notificación se realizará de manera simultánea y utilizando el mismo método
+14 de notificación para todas las partes.
+15 La notificación de adjudicación estará debidamente fundamentada y deberá
+16 incluir los fundamentos que justifican la determinación, aunque sea de forma breve o
+17 sucinta, en aras de que los foros revisores puedan revisar tales fundamentos y así
+18 determinar si la decisión fue arbitraria, caprichosa o irrazonable. Como mínimo, la
+19 notificación debe incluir:
+20 (1) los nombres de los licitadores que participaron en la subasta, solicitud de
+21 propuestas, solicitud de propuestas selladas, solicitud de cualificaciones o método de licitación
+22 aplicable, y una síntesis de sus propuestas;
+13
+1 (2) los factores o criterios que se tomaron en cuenta para adjudicar;
+2 (3) los defectos, deficiencias o incumplimientos, si alguno, que tuvieran las
+3 propuestas de los licitadores, proponentes u oferentes no favorecidos;
+4 (4) el licitador, proponente u oferente agraciado;
+5 (5) la disponibilidad y el plazo para solicitar revisión administrativa ante la Junta Revisora
+6 de Subastas de la Administración de Servicios Generales;
+7 (6) la disponibilidad y el plazo para solicitar revisión judicial;
+8 (7) la fecha de adjudicación;
+9 (8) la fecha de archivo en el expediente administrativo, si aplica;
+10 (9) la fecha de depósito en el correo federal, envío por correo electrónico o método de
+11 notificación utilizado;
+12 (10) la advertencia de que la revisión administrativa ante la Junta Revisora de Subastas de
+13 la Administración de Servicios Generales será requisito jurisdiccional previo a la revisión judicial
+14 cuando así lo disponga esta Ley o la Ley 38-2017, según enmendada;
+15 (11) el efecto de la presentación de una revisión administrativa o revisión judicial sobre la
+16 adjudicación o ejecución del proceso impugnado; y
+17 (12) la advertencia de que una notificación defectuosa, incompleta o con advertencias
+18 incorrectas sobre términos, foros o remedios no activará los términos jurisdiccionales de revisión
+19 hasta tanto se emita y notifique una notificación corregida conforme a derecho.
+20 La Administración deberá utilizar el modelo uniforme de notificación de adjudicación que
+21 adopte mediante reglamento, orden administrativa, carta circular o guía oficial, siempre que dicho
+14
+1 modelo sea compatible con esta Ley, la Ley 38-2017, según enmendada, y cualquier ley federal o
+2 estatal aplicable.
+3 La parte adversamente afectada por una actuación, determinación final o
+4 resolución de la Junta Revisora de Subastas de la Administración de Servicios Generales
+5 podrá presentar un recurso de revisión judicial, conforme a lo establecido en el Capítulo
+6 VIII de esta Ley.
+7 Cuando las ofertas y/o propuestas recibidas demuestren que los licitadores
+8 controlan el mercado del producto solicitado, el Administrador someterá el asunto a la
+9 consideración de la Oficina de Asuntos Monopolísticos del Departamento de Justicia para
+10 la acción correspondiente.
+11 Cuando surja de las ofertas y/o propuestas recibidas que los licitadores se han
+12 puesto de acuerdo entre sí para cotizar precios de forma colusoria y/o fraudulenta, el
+13 Administrador someterá el asunto a la consideración del Departamento de Justicia para
+14 la acción correspondiente.
+15 Sección 3. — Se enmienda el Artículo 53 de la Ley Núm. 73-2019, según
+16 enmendada, conocida como la “Ley de la Administración de Servicios Generales para la
+17 Centralización de las Compras del Gobierno de Puerto Rico de 2019”, para que lea como
+18 sigue:
+19 Artículo 53. — Determinación Final. Notificación de adjudicación.
+20 Una vez adjudicado un asunto ante la consideración de la Junta de Subastas, esta
+21 procederá a notificar su determinación final, según los procedimientos y mecanismos que
+22 se establezcan en el Reglamento Uniforme de Compras y Subastas y conforme a los
+15
+1 requisitos establecidos en la Sección 3.19 de la Ley 38-2017, según enmendada. La notificación
+2 de adjudicación de subasta será notificada adecuadamente, mediante correo federal
+3 certificado con acuse de recibo o correo electrónico, a todas las partes que tengan derecho
+4 a impugnar tal determinación. La notificación se realizará de manera simultánea y utilizando
+5 el mismo método de notificación para todas las partes.
+6 La notificación de adjudicación estará debidamente fundamentada y deberá
+7 incluir los fundamentos que justifican la determinación, aunque sea de forma breve o
+8 sucinta, en aras de que los foros revisores puedan revisar tales fundamentos y así
+9 determinar si la decisión fue arbitraria, caprichosa o irrazonable. Como mínimo, la
+10 notificación debe incluir:
+11 (1) los nombres de los licitadores que participaron en la subasta, solicitud de
+12 propuestas selladas, solicitud de cualificaciones o método de licitación correspondiente, y una
+13 síntesis de sus propuestas;
+14 (2) los factores o criterios que se tomaron en cuenta para adjudicar;
+15 (3) los defectos, deficiencias o incumplimientos, si alguno, que tuvieran las
+16 propuestas de los licitadores, proponentes u oferentes no favorecidos;
+17 (4) la identificación del licitador, proponente u oferente agraciado;
+18 (5) la fecha de adjudicación;
+19 (6) la fecha de archivo en el expediente administrativo, si aplica;
+20 (7) la fecha de depósito en el correo federal, envío por correo electrónico o método de
+21 notificación utilizado;
+16
+1 (8) la disponibilidad y el plazo para solicitar revisión administrativa ante la Junta Revisora
+2 de Subastas de la Administración de Servicios Generales;
+3 (9) la advertencia de que la revisión administrativa ante la Junta Revisora de Subastas de
+4 la Administración de Servicios Generales constituye un requisito jurisdiccional previo a la
+5 presentación de un recurso de revisión judicial ante el Tribunal de Apelaciones;
+6 (10) la disponibilidad y el plazo para solicitar revisión judicial;
+7 (11) el evento desde el cual comenzará a transcurrir el término para solicitar revisión
+8 administrativa o revisión judicial, según corresponda;
+9 (12) las partes a quienes deberá notificarse cualquier recurso de revisión administrativa o
+10 revisión judicial;
+11 (13) la forma permitida de notificación del recurso a las demás partes;
+12 (14) el efecto de la presentación de una revisión administrativa o revisión judicial sobre la
+13 adjudicación, contratación o ejecución del proceso impugnado; y
+14 (15) la advertencia de que una notificación defectuosa, incompleta o con advertencias
+15 incorrectas sobre términos, foros o remedios no activará los términos jurisdiccionales de revisión
+16 hasta tanto se emita y notifique una notificación corregida conforme a derecho.
+17 La determinación final de la Junta de Subastas contendrá determinaciones de
+18 hechos y conclusiones de derecho. La parte adversamente afectada por una actuación,
+19 determinación final o resolución de la Junta de Subastas podrá presentar un recurso de
+20 revisión, conforme a lo establecido en el Capítulo VIII de esta Ley.
+21 La Junta de Subastas utilizará el modelo uniforme de notificación de adjudicación aprobado
+22 por la Administración de Servicios Generales. Dicho modelo podrá ser adaptado a la naturaleza
+17
+1 particular del proceso de licitación, siempre que conserve todas las advertencias mínimas
+2 requeridas por esta Ley, la Ley 38-2017, según enmendada, y cualquier otra disposición legal
+3 aplicable.
+4 Sección 4. - Modelos uniformes de notificación.
+5 La Administración de Servicios Generales, en coordinación con el Departamento
+6 de Justicia, deberá preparar, aprobar y publicar modelos uniformes de notificación de
+7 adjudicación para procesos de licitación pública dentro de un término no mayor de
+8 noventa (90) días contados a partir de la vigencia de esta Ley.
+9 Los modelos uniformes deberán incluir, como mínimo:
+10 (a) un modelo para subastas informales;
+11 (b) un modelo para subastas formales;
+12 (c) un modelo para solicitudes de propuestas;
+13 (d) un modelo para solicitudes de propuestas selladas;
+14 (e) un modelo para requerimientos de propuestas;
+15 (f) un modelo para solicitudes de cualificaciones;
+16 (g) un modelo para requerimientos de cualificaciones;
+17 (h) un modelo para procesos sujetos a revisión administrativa ante la Junta
+18 Revisora de Subastas de la Administración de Servicios Generales;
+19 (i) un modelo para procesos no sujetos a revisión administrativa ante la Junta
+20 Revisora de Subastas de la Administración de Servicios Generales;
+21 (j) un modelo para procesos en los que proceda reconsideración ante la agencia
+22 adjudicadora;
+18
+1 (k) un modelo para procesos en los que proceda revisión judicial directa ante el
+2 Tribunal de Apelaciones;
+3 (l) un modelo para entidades exentas bajo la Ley Núm. 73-2019, según enmendada;
+4 y
+5 (m) cualquier otro modelo necesario para atender procesos regulados por leyes
+6 especiales o por normativa federal aplicable.
+7 La Administración de Servicios Generales deberá publicar dichos modelos en su
+8 página electrónica oficial y notificarlos mediante carta circular a las agencias,
+9 instrumentalidades, entidades exentas, corporaciones públicas y demás entidades
+10 gubernamentales sujetas total o parcialmente a la Ley Núm. 73-2019 o a la Ley Núm. 38-
+11 2017.
+12 Sección 5. Reglamentación.
+13 La Administración de Servicios Generales deberá enmendar el Reglamento
+14 Uniforme de Compras y Subastas dentro de un término no mayor de ciento veinte (120)
+15 días contados a partir de la vigencia de esta Ley, a los fines de incorporar los requisitos
+16 de notificación uniforme establecidos en esta Ley.
+17 El Departamento de Justicia brindará asistencia legal a la Administración de
+18 Servicios Generales en la preparación de los modelos uniformes y en la revisión de las
+19 advertencias procesales que deberán contener las notificaciones de adjudicación.
+20 Sección 6.- Aplicación a entidades exentas y leyes especiales.
+19
+1 Las entidades exentas bajo la Ley Núm. 73-2019, según enmendada, deberán
+2 adoptar modelos de notificación compatibles con los requisitos mínimos establecidos en
+3 esta Ley y en la Sección 3.19 de la Ley Núm. 38-2017, según enmendada.
+4 Cuando una ley especial establezca un procedimiento de licitación pública,
+5 reconsideración, revisión administrativa o revisión judicial distinto, la entidad
+6 adjudicadora deberá adaptar su notificación de adjudicación a dicho régimen especial,
+7 pero deberá incluir advertencias claras sobre el foro competente, el término aplicable, el
+8 evento desde el cual comienza a transcurrir dicho término, el efecto de la presentación
+9 del recurso y las partes a quienes deberá notificarse.
+10 Nada de lo dispuesto en esta Ley se interpretará como una derogación de
+11 procedimientos especiales establecidos por ley federal, condiciones de fondos federales,
+12 reglamentación federal aplicable, acuerdos de subvención o requisitos específicos de
+13 contratación financiada total o parcialmente con fondos federales. No obstante, en la
+14 medida en que no exista conflicto con dichas disposiciones, las entidades
+15 gubernamentales deberán cumplir con los requisitos mínimos de notificación uniforme
+16 establecidos en esta Ley.
+17 Sección 7.- Efecto de notificaciones defectuosas.
+18 Toda notificación de adjudicación emitida con posterioridad a la vigencia de esta
+19 Ley que omita, contradiga o exprese incorrectamente el término aplicable, el foro revisor,
+20 la disponibilidad de reconsideración, la disponibilidad de revisión administrativa, la
+21 disponibilidad de revisión judicial, el efecto de la presentación de un recurso, o la fecha
+22 desde la cual comenzará a transcurrir el término correspondiente, no activará los
+20
+1 términos jurisdiccionales de revisión hasta tanto la entidad adjudicadora emita y
+2 notifique una notificación corregida conforme a derecho.
+3 La entidad adjudicadora deberá emitir la notificación corregida dentro de un
+4 término razonable, que no excederá de diez (10) días laborables desde que advenga en
+5 conocimiento del defecto, ya sea por determinación propia, señalamiento de una parte,
+6 determinación de la Junta Revisora de Subastas de la Administración de Servicios
+7 Generales o resolución de un tribunal competente.
+8 La emisión de una notificación corregida no alterará los fundamentos sustantivos
+9 de la adjudicación, salvo que la entidad adjudicadora determine, conforme a derecho,
+10 que procede reconsiderar, corregir, modificar o dejar sin efecto la adjudicación por
+11 razones independientes al defecto de notificación.
+12 Sección 8.- Cláusula de interpretación.
+13 Esta Ley se interpretará de manera compatible con el debido proceso de ley, la
+14 transparencia en la contratación pública, la eficiencia administrativa, la competencia justa
+15 entre licitadores y la protección de los fondos públicos.
+16 Nada de lo dispuesto en esta Ley se interpretará como una paralización automática
+17 de los procesos de contratación pública, salvo que una ley, reglamento, orden
+18 administrativa, orden de la Junta Revisora de Subastas de la Administración de Servicios
+19 Generales o determinación judicial disponga lo contrario.
+20 Tampoco se interpretará esta Ley como una autorización para invalidar
+21 adjudicaciones por errores de forma, tipográficos o clericales que no afecten
+22 sustancialmente el derecho de una parte adversamente afectada a conocer los
+21
+1 fundamentos de la adjudicación, el foro competente, el término aplicable, el remedio
+2 disponible o la fecha desde la cual comienza a transcurrir dicho término.
+3 Sección 9.- Separabilidad.
+4 Si cualquier cláusula, párrafo, subpárrafo, artículo, sección, inciso, subinciso o
+5 parte de esta Ley fuere declarada inconstitucional o nula por un tribunal competente, la
+6 sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las restantes
+7 disposiciones de esta Ley. El efecto de dicha sentencia quedará limitado a la cláusula,
+8 párrafo, subpárrafo, artículo, sección, inciso, subinciso o parte declarada inconstitucional
+9 o nula.
+10 Sección 10.- Vigencia.
+11 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A   3 .r L r e l S 3 d l L N 3 s e c l “ d P A U d G d c l “ d l A d S G p l d l C d G d P R d 2 a l f d r u y o p l n d a e p d l p i s f s p s d c r d c y a r a c s l t y f p s r a r o r j d n e d d r y c]
+[DELETED:  d p s s d c r d l t l i d c e l l s e c l n d a o u f j E e a a m e c l e g o e r d p d l l f q G p p p c l i p d p f d j d d i s l f d l a y a e l L N 7 s e c c l “ d l d S G p l C d l C d s i l s f l s d p l s d d S d l A d S G y d u]
+[DELETED:  d l A d S G y e l r e e l e a y j d q t z d i r c e c m d l d a p c e p n c c T S d P R a r e p e R e p u a g L c p s l n c a i s l m]
+[DELETED:  u y c L A L r q l f d u d l p a a e p e d d p L a e n m t m c p r l r d n d d r d c y d l J d S T o l a d m d n q p u s l n d p s a r a a l J R d S d l d S G p s a r a l p s a r j d p d e e y n c d i p e i n p a]
+[DELETED:  l l i y s b m c a l a l 1 — S e l S 3 d l L N 3 s c c l “ d P A U d 3 — P d L P P y t p E v y s n L E E d l L 7 d]
+[DELETED:  L J R d S d l A d S G d d e t l J R d l A d S p a c a p d v d l d ( d q t p d s l a o n L J R d l S l J R d S d l A d S d d t a a c r a r d r e r d r j L p d r d r]
+[DELETED:  a l J R d S d l A d S s u r j a d p u r d r c p p u r d r j a e T d c a p d d e e c f o d r l s d r a a l J R d S d l T e f c u y s p i a l p a a l f d l d y l r a o j d s d p s d p s r d p s d s L (]
+[DELETED:  ( e n d s s d p s d p s r d p s d c r d c o p ( l ( ( ( d ( ( ( ( u s d l p o o c e s a i a ( ( l p c r t e c o d ( l d d i r p p l c n f (]
+[DELETED:  ( a r a l a a r j d a e T d A ( ( ( ( ( n e ( d p (  ( l a d q u n d i o c a i h ( c o a r p l L 7 e L e R U l]
+[DELETED:  C R e p C J i e e r a i s p r a l a m a r U n d a q o c o e i e t a l p p d a t j E t c l t p s r d N e a a]
+[DELETED:  L A d S G e c c e D d J p a G p p L c l “ d l A d S G p l a r p l J d S c a c p s r p l J R d S s l]
+[DELETED:  y S d C o p d e a o d d s c a l e n p p l m i d y 3 a m c f c c a d r o c e a t l p q t d a i t L d n d a e d f y d e a d q l f r p r t f y a s l d f a c o i C m l l n d l l q p e l s s d p a]
+[DELETED:  l d s s a q t l d o i  p ( ( d ( ( ( ( l f d d e e c f e p c e o m d n ( l c ( a ( l a d q u n d i o c a i h L a]
+[DELETED:  m e p a a p u a d f o l o y p r d q l l 3 — S e e A 5 d l L N 7 s e e e R U d C y S y c a l]
+[DELETED:  r a d s s n a m c f L e n d a e d f y d e a d q l f r p r t f y a s l d f a c o i C m l l n d l l q p e l s s d p l d , s a q t l d o i   psn ( ( ( ( l f d d e e c f e p c e o m d n]
+[DELETED:  ( d ( l A d S G c u r j p a l p ( ( a ( r ( ( a ( l a d q u n d i o c a i h d f d l J d S c d d L p]
+[DELETED:  p d p d l s q c t l a m r a p p d l p d d u t n m d u m p p s a r a a l J]
+[DELETED:  e o y n m c c a l a e e c p y d e A d S G d e e R D d J b a l a l A d]
+[DELETED:  e e b l L N 7 s e d u l e e u p d l p r a o r j d l e d l d e e L s i c u d d f a a d s o r e d e q n e c c d d l e d d r l d d r a l l c c a t e t c n a l]
+[DELETED:  j d r h t l e a e y e a d e l n c d d u d l J R d S d l A d S p r c m o d s e l a p l p d c p s q u l r o s i e L c u a p i p e d f t o c q n a e d d u p a a a c l]
+[DELETED:  c c p s a s i s o d a t e n a p n i l r]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 1266
+14 de mayo de 2026
+Presentado por señora Soto Aguilú
+Referido a
+LEY
+Para enmendar la Sección 3.19 de la Ley Núm. 38-2017, según enmendada,
+conocida como la “Ley de Procedimiento Administrativo Uniforme del Gobierno de
+Puerto Rico”; enmendar los Artículos 32 y 53 de la Ley Núm. 73-2019, según enmendada,
+conocida como la “Ley de la Administración de Servicios Generales para la
+Centralización de las Compras del Gobierno de Puerto Rico de 2019”; a los fines de
+establecer requisitos uniformes y obligatorios para las notificaciones de adjudicación
+emitidas en procesos de licitación pública, incluyendo subastas formales, subastas
+informales, solicitudes de propuestas, solicitudes de propuestas selladas, requerimientos
+de propuestas, solicitudes de cualificaciones, requerimientos de cualificaciones y
+procedimientos análogos; requerir advertencias claras sobre los términos y foros
+disponibles para solicitar revisión administrativa, reconsideración o revisión judicial,
+según corresponda; disponer el efecto jurídico de una notificación defectuosa sobre el
+inicio de los términos jurisdiccionales; ordenar la preparación y adopción de modelos
+uniformes de notificación; establecer deberes de reglamentación y coordinación
+interagencial; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La contratación pública constituye una de las funciones administrativas de mayor
+impacto en la prestación de servicios gubernamentales, la ejecución presupuestaria, la
+continuidad operacional de las agencias, la protección de fondos públicos y la confianza
+
+2
+ciudadana en la administración pública. Los procesos de subasta, solicitud de propuestas,
+solicitud de propuestas selladas, solicitud de cualificaciones, requerimientos de
+propuestas y otros mecanismos de licitación pública no son meros trámites internos de
+adquisición; son procedimientos administrativos que deben salvaguardar la competencia
+justa, la transparencia, la igualdad de condiciones entre licitadores, la selección
+responsable del mejor valor para el Gobierno y el derecho de las partes adversamente
+afectadas a revisar una adjudicación conforme a los términos y foros establecidos por ley.
+En este contexto, la notificación de adjudicación ocupa una función jurídica
+indispensable. Es el acto administrativo mediante el cual la entidad gubernamental
+comunica oficialmente el resultado del proceso de licitación, los fundamentos que
+justifican la selección realizada, la evaluación comparativa de las propuestas, los defectos
+o incumplimientos identificados, si alguno, y los remedios disponibles para las partes
+que interesen impugnar la determinación.
+Por tanto, una notificación de adjudicación incompleta, ambigua, contradictoria o
+jurídicamente incorrecta no solo afecta a los licitadores o proponentes; también afecta al
+propio Gobierno, porque puede provocar retrasos contractuales, litigios innecesarios,
+recursos prematuros, desestimaciones por falta de jurisdicción, duplicidad de
+notificaciones, incertidumbre sobre la firmeza de la adjudicación y atrasos en la
+prestación de servicios públicos.
+La Ley Núm. 73-2019, según enmendada, conocida como la “Ley de la
+Administración de Servicios Generales para la Centralización de las Compras del
+Gobierno de Puerto Rico de 2019”, estableció un marco uniforme para los procesos de
+compras y subastas del Gobierno de Puerto Rico, incluyendo métodos de licitación como
+la subasta informal, la subasta formal, la solicitud de propuestas, la solicitud de
+propuestas selladas y la solicitud de cualificaciones. Dicha Ley también creó la Junta
+Revisora de Subastas de la Administración de Servicios Generales y dispuso un
+mecanismo especializado de revisión administrativa para impugnar adjudicaciones en
+determinados procesos de licitación pública.
+
+3
+Por su parte, la Ley Núm. 38-2017, según enmendada, conocida como la “Ley de
+Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, contiene el marco
+general de revisión administrativa y judicial de actuaciones administrativas. En años
+recientes, la Asamblea Legislativa ha enmendado tanto la Ley Núm. 38-2017 como la Ley
+Núm. 73-2019 para uniformar términos, aclarar la jurisdicción de la Junta Revisora de
+Subastas de la Administración de Servicios Generales y establecer la relación entre
+revisión administrativa y revisión judicial en procesos de licitación pública.
+Sin embargo, la experiencia administrativa y judicial demuestra que todavía
+persisten zonas de incertidumbre relacionadas con el contenido mínimo de las
+notificaciones de adjudicación, particularmente cuando el proceso no cae claramente
+dentro de la jurisdicción ordinaria de la Junta Revisora de Subastas o cuando la agencia
+emite advertencias incorrectas sobre el término aplicable, el foro revisor o el efecto de la
+reconsideración.
+El Tribunal Supremo de Puerto Rico atendió recientemente este problema en
+RedMane Technology, LLC v. Departamento de Salud, 2026 TSPR 37. En dicho caso, la
+controversia giró en torno a una notificación de adjudicación emitida en un proceso de
+Request for Proposal del Departamento de Salud. El Tribunal Supremo expresó que tenía
+ante sí la oportunidad de aclarar la normativa procesal aplicable a las notificaciones de
+adjudicación en procesos de licitación pública, particularmente ante una impugnación de
+un RFP efectuado por una agencia gubernamental. La controversia procesal surgió
+porque la notificación contenía advertencias inadecuadas sobre los mecanismos
+disponibles para solicitar reconsideración, revisión administrativa o revisión judicial, lo
+que incidió sobre la jurisdicción del Tribunal de Apelaciones y obligó a examinar cuándo
+una notificación defectuosa activa, o no activa, los términos de revisión.
+La importancia de dicha decisión trasciende las partes del caso. El problema que
+revela no es meramente incidental ni aislado. Cuando una agencia, junta de subastas o
+entidad gubernamental emite una notificación con advertencias incorrectas, incompletas
+o incompatibles con el estatuto aplicable, se crea incertidumbre sobre el término para
+acudir al foro correspondiente, sobre si la reconsideración es mandatoria o permisible,
+
+4
+sobre si procede revisión administrativa ante la Junta Revisora de Subastas o revisión
+judicial directa ante el Tribunal de Apelaciones, y sobre si la presentación de un recurso
+tiene o no efecto paralizador.
+Esa incertidumbre genera litigios que no atienden necesariamente el mérito de la
+adjudicación, sino defectos procesales que pudieron evitarse mediante una notificación
+clara, uniforme y correcta. La Asamblea Legislativa reconoce que la finalidad de un
+proceso de licitación pública no es producir controversias procesales innecesarias, sino
+seleccionar de forma transparente, competitiva y responsable la propuesta que mejor
+atienda los intereses del Gobierno de Puerto Rico. A su vez, reconoce que el derecho de
+revisión de las partes adversamente afectadas es parte esencial del debido proceso
+administrativo. Para que ese derecho sea real y efectivo, las partes deben recibir una
+notificación que les informe correctamente qué recurso tienen disponible, ante qué foro
+deben presentarlo, en qué término deben hacerlo, desde qué fecha comienza a transcurrir
+dicho término, qué efecto tiene una reconsideración o revisión administrativa, a quién
+debe notificarse el recurso y cuál es la consecuencia de una notificación defectuosa.
+Esta Ley atiende esa necesidad mediante tres mecanismos complementarios.
+Primero, enmienda la Ley Núm. 38-2017 para establecer una regla general de notificación
+uniforme aplicable a procesos de licitación pública. Segundo, enmienda la Ley Núm. 73-
+2019 para reforzar los requisitos de notificación dentro del régimen de compras
+centralizadas y de la Junta de Subastas. Tercero, ordena la adopción de modelos
+uniformes de notificación que puedan utilizarse según la naturaleza del proceso:
+procesos sujetos a revisión administrativa ante la Junta Revisora de Subastas de la
+Administración de Servicios Generales, procesos sujetos a reconsideración ante la
+agencia, procesos sujetos a revisión judicial directa, procesos de entidades exentas y
+procesos regulados por leyes especiales.
+La medida no pretende alterar los criterios sustantivos de adjudicación, ni crear
+una nueva causa de impugnación por errores inocuos, ni paralizar automáticamente
+procesos de contratación pública. Su propósito es más limitado y preciso: asegurar que
+toda adjudicación de subasta, RFP, RFQ o licitación pública se notifique con advertencias
+
+5
+uniformes, correctas y suficientes, de manera que los términos jurisdiccionales comiencen
+a transcurrir únicamente cuando las partes hayan sido notificadas conforme a derecho.
+De esta forma, se protege el debido proceso, se promueve la eficiencia gubernamental, se
+reduce la litigación innecesaria y se brinda mayor certeza a las agencias, licitadores,
+proponentes, contratistas y foros revisores.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Se enmienda la Sección 3.19 de la Ley Núm. 38-2017, según
+2 enmendada, conocida como la “Ley de Procedimiento Administrativo Uniforme del
+3 Gobierno de Puerto Rico”, para que lea como sigue:
+4 Sección 3.19. — Procesos de Licitación Pública; Procedimiento y término para
+5 solicitar revisión administrativa en la adjudicación de procesos de licitación pública.
+6 Los procesos de licitación pública se celebrarán de conformidad a la Ley 73-2019,
+7 según enmendada, salvo los procesos de licitación pública municipal que se realizarán
+8 de conformidad a la Ley 107-2020, según enmendada. Las agencias administrativas bajo
+9 la definición de Entidades Exentas para fines de la Ley 73-2019 vendrán obligadas a
+10 adoptar los métodos de licitación y compras excepcionales y a seguir los procedimientos
+11 establecidos en la Ley 73-2019 al momento de realizar sus compras y subastas de bienes,
+12 obras y servicios no profesionales. Las Entidades Exentas de la Ley 73-2019 deberán
+13 además cumplir con los términos y procesos que se establecen en esta Ley y en la Ley 73-
+14 2019.
+15 La parte adversamente afectada por una determinación en un proceso de licitación
+16 pública podrá presentar una solicitud de revisión administrativa ante la Junta Revisora
+
+6
+1 de Subastas de la Administración de Servicios Generales dentro del término de diez (10)
+2 días calendario, contados a partir del depósito en el correo federal o la notificación por
+3 correo electrónico, lo que ocurra primero, de la adjudicación del proceso de licitación
+4 pública. La Junta Revisora de Subastas de la Administración de Servicios Generales
+5 deberá determinar si acoge o no la solicitud de revisión administrativa dentro del término
+6 de diez (10) días calendario de haberse presentado la solicitud de revisión administrativa.
+7 Si dentro de ese término la Junta Revisora de la Administración de Servicios
+8 Generales determina acoger la misma, tendrá un término de treinta (30) días calendario
+9 adicionales para adjudicarla, contados a partir del vencimiento de los diez (10) días
+10 calendario que tenía para determinar si la acogía o no. La Junta Revisora de la
+11 Administración de Servicios Generales podrá extender el término de treinta (30) días
+12 calendario, una sola vez, por un término adicional de quince (15) días calendario.
+13 Si se tomare alguna determinación en la revisión administrativa, el término para
+14 instar el recurso de revisión judicial ante el Tribunal de Apelaciones comenzará a contarse
+15 desde la fecha en que se depositó en el correo federal o se notificó por correo electrónico,
+16 lo que ocurra primero, copia de la notificación de la decisión de la Junta Revisora de
+17 Subastas de la Administración de Servicios Generales adjudicando la solicitud de revisión
+18 administrativa. Si la Junta Revisora de Subastas de la Administración de Servicios
+19 Generales dejare de tomar alguna acción con relación al recurso de revisión
+20 administrativa dentro de los términos dispuestos en esta Ley, se entenderá que este ha
+21 sido rechazado de plano, y a partir de esa fecha comenzará a decursar el término para
+22 presentar el recurso de revisión judicial. La presentación del recurso de revisión
+
+7
+1 administrativa ante la Junta Revisora de Subastas de la Administración de Servicios
+2 Generales será un requisito jurisdiccional antes de presentar un recurso de revisión
+3 judicial ante el Tribunal de Apelaciones.
+4 La parte adversamente afectada tendrá un término jurisdiccional de veinte (20)
+5 días calendario para presentar un recurso de revisión judicial ante el Tribunal de
+6 Apelaciones, contados a partir del depósito en el correo federal o de remitida la
+7 determinación por correo electrónico, lo que ocurra primero, ya sea de la adjudicación de
+8 la solicitud de revisión administrativa ante la Junta Revisora de Subastas de la
+9 Administración de Servicios Generales, o cuando venza el término que tenía la Junta
+10 Revisora de Subastas de la Administración de Servicios Generales para determinar si
+11 acogía o no la solicitud de revisión administrativa.
+12 Toda notificación de adjudicación emitida en un proceso de licitación pública deberá ser
+13 escrita, fundamentada, clara, uniforme y suficiente para informar a las partes adversamente
+14 afectadas los fundamentos de la determinación y los remedios administrativos o judiciales
+15 disponibles. Este requisito aplicará, sin limitarse a ello, a subastas formales, subastas informales,
+16 solicitudes de propuestas, solicitudes de propuestas selladas, requerimientos de propuestas,
+17 solicitudes de cualificaciones, requerimientos de cualificaciones y cualquier procedimiento análogo
+18 de contratación pública, independientemente de la denominación utilizada por la agencia, junta de
+19 subastas, entidad exenta, instrumentalidad pública o entidad gubernamental correspondiente.
+20 La notificación de adjudicación deberá incluir, como mínimo:
+21 (a) el nombre oficial del proceso de licitación pública;
+
+8
+1 (b) el número de subasta, solicitud de propuestas, solicitud de propuestas selladas,
+2 requerimiento de propuestas, solicitud de cualificaciones, requerimiento de cualificaciones o
+3 procedimiento análogo;
+4 (c) la entidad gubernamental, agencia, junta, instrumentalidad o entidad exenta que emite
+5 la adjudicación;
+6 (d) la fecha de adjudicación;
+7 (e) la fecha de archivo en el expediente administrativo o en autos, si aplica;
+8 (f) la fecha de depósito en el correo federal, de envío por correo electrónico o de utilización
+9 de cualquier otro método de notificación autorizado por ley;
+10 (g) el método de notificación utilizado;
+11 (h) el nombre del licitador, proponente u oferente agraciado;
+12 (i) los nombres de todos los licitadores, proponentes u oferentes participantes;
+13 (j) una síntesis de las propuestas, ofertas o cualificaciones evaluadas, salvo aquella
+14 información protegida por ley, secreto comercial, confidencialidad estatutaria o disposición federal
+15 aplicable;
+16 (k) los criterios de evaluación utilizados para adjudicar;
+17 (l) la puntuación, clasificación, recomendación técnica, evaluación comparativa o
+18 determinación equivalente, cuando aplique por la naturaleza del proceso;
+19 (m) los defectos, deficiencias, incumplimientos o razones principales por las cuales no
+20 fueron favorecidas las propuestas, ofertas o cualificaciones no agraciadas, si alguno;
+21 (n) los fundamentos que justifican la adjudicación, aunque sea de forma breve o sucinta;
+
+9
+1 (o) el recurso disponible para impugnar la determinación, especificando si procede revisión
+2 administrativa ante la Junta Revisora de Subastas de la Administración de Servicios Generales,
+3 reconsideración ante la agencia adjudicadora, revisión judicial directa ante el Tribunal de
+4 Apelaciones, o cualquier otro remedio dispuesto por ley especial;
+5 (p) el foro exacto ante el cual deberá presentarse el recurso disponible;
+6 (q) el término aplicable para presentar dicho recurso;
+7 (r) la fecha o evento desde el cual comenzará a transcurrir el término correspondiente;
+8 (s) si el término aplicable es jurisdiccional o de cumplimiento estricto;
+9 (t) si la presentación de reconsideración, revisión administrativa o revisión judicial tiene o
+10 no tiene el efecto de paralizar la adjudicación, la contratación, la ejecución del contrato o cualquier
+11 etapa posterior del proceso;
+12 (u) las partes a quienes deberá notificarse copia del recurso, incluyendo la agencia, la junta
+13 de subastas, la Junta Revisora de Subastas, el licitador o proponente agraciado y cualquier otra
+14 parte con derecho a notificación;
+15 (v) la forma permitida de notificación del recurso a las demás partes;
+16 (w) la advertencia de que una notificación defectuosa, incompleta o con advertencias
+17 incorrectas sobre términos, foros o remedios no activará los términos jurisdiccionales de revisión
+18 hasta tanto se emita y notifique una notificación corregida conforme a derecho; y
+19 (x) cualquier otra advertencia requerida por la Ley 73-2019, esta Ley, el Reglamento
+20 Uniforme de Compras y Subastas de la Administración de Servicios Generales, la ley orgánica de
+21 la agencia adjudicadora o cualquier ley especial aplicable.
+
+10
+1 Cuando el proceso de licitación pública esté sujeto a revisión administrativa ante la Junta
+2 Revisora de Subastas de la Administración de Servicios Generales, la notificación deberá advertir
+3 expresamente que dicha revisión administrativa constituye un requisito jurisdiccional previo a la
+4 presentación de un recurso de revisión judicial ante el Tribunal de Apelaciones.
+5 Cuando el proceso de licitación pública no esté sujeto a revisión administrativa ante la
+6 Junta Revisora de Subastas de la Administración de Servicios Generales, la notificación deberá
+7 identificar expresamente el remedio aplicable, incluyendo si procede reconsideración ante la
+8 agencia adjudicadora, revisión judicial directa ante el Tribunal de Apelaciones o cualquier otro
+9 mecanismo dispuesto por ley especial o reglamento válido. En tales casos, la agencia no podrá
+10 advertir como mandatorio un recurso que no sea requerido por ley, ni podrá identificar como foro
+11 revisor a un organismo que carezca de jurisdicción sobre el proceso adjudicado.
+12 Una notificación de adjudicación que omita, contradiga o exprese incorrectamente el
+13 término aplicable, el foro revisor, la disponibilidad de reconsideración, la disponibilidad de revisión
+14 administrativa, la disponibilidad de revisión judicial, el efecto de la presentación de un recurso, o
+15 la fecha desde la cual comenzará a transcurrir el término correspondiente, se considerará defectuosa
+16 para propósitos de activar términos jurisdiccionales. En tal caso, los términos para solicitar
+17 reconsideración, revisión administrativa o revisión judicial, según corresponda, no comenzarán a
+18 decursar hasta que la entidad adjudicadora emita una notificación corregida conforme a derecho.
+19 No se considerará defectuosa, para propósitos de este Artículo, una notificación que contenga
+20 errores de forma, tipográficos o clericales que no afecten sustancialmente el derecho de una parte
+21 adversamente afectada a conocer los fundamentos de la adjudicación, el foro competente, el término
+22 aplicable, el remedio disponible o la fecha desde la cual comienza a transcurrir dicho término.
+
+11
+1 La Administración de Servicios Generales, en coordinación con el Departamento de
+2 Justicia, preparará y publicará modelos uniformes de notificación de adjudicación para los distintos
+3 procesos de licitación pública. Dichos modelos deberán contemplar, como mínimo, procesos sujetos
+4 a revisión administrativa ante la Junta Revisora de Subastas de la Administración de Servicios
+5 Generales, procesos no sujetos a dicha revisión administrativa, procesos de entidades exentas,
+6 procesos de servicios profesionales cuando sean tramitados mediante mecanismos competitivos,
+7 procesos sujetos a ley especial y procesos municipales, en la medida en que sean compatibles con la
+8 Ley 107-2020, según enmendada, conocida como el “Código Municipal de Puerto Rico”.
+9 Sección 2. Se enmienda el Artículo 32 de la Ley Núm. 73-2019, según enmendada,
+10 conocida como la “Ley de la Administración de Servicios Generales para la
+11 Centralización de las Compras del Gobierno de Puerto Rico de 2019”, para que lea como
+12 sigue:
+13 Artículo 32. — Disposiciones Generales sobre los Procesos de Licitación.
+14 El Administrador establecerá mediante reglamento los procesos específicos que
+15 deberán llevarse a cabo para cada Método de Licitación dispuesto en esta Ley. El monto
+16 dispuesto como requisito de subasta formal y solicitud de propuesta sellada podrá ser
+17 revisado por el Administrador en cualquier momento, previa reglamentación aprobada
+18 conforme la Ley 38-2017, según enmendada.
+19 Las adjudicaciones realizadas por la Junta de Subastas, correspondientes a
+20 subastas formales, solicitud de propuestas, solicitud de propuestas selladas y/o solicitud
+21 de cualificaciones, podrán ser revisadas por la Junta Revisora de Subastas, según lo
+22 dispuesto en el Capítulo VIII de esta Ley.
+
+12
+1 La Administración tendrá la facultad de cancelar cualquier Subasta, Solicitud de
+2 Propuestas y/o Solicitud de Cualificaciones o parte de estas, antes o después de su
+3 adjudicación, cuando así lo estime necesario para proteger los mejores intereses del
+4 Gobierno de Puerto Rico.
+5 Una vez adjudicado un asunto ante la consideración de la Administración Auxiliar
+6 de Adquisiciones o ante la Junta de Subastas, el organismo correspondiente procederá a
+7 notificar su determinación final, según las normas y procedimientos que se establezcan
+8 en el Reglamento Uniforme de Compras y Subastas de la Administración de Servicios
+9 Generales del Gobierno de Puerto Rico y conforme a los requisitos establecidos en la Sección
+10 3.19 de la Ley 38-2017, según enmendada. La notificación de adjudicación de subasta será
+11 notificada adecuadamente, mediante correo federal certificado con acuse de recibo o
+12 mediante correo electrónico, a todas las partes que tengan derecho a impugnar tal
+13 determinación. La notificación se realizará de manera simultánea y utilizando el mismo método
+14 de notificación para todas las partes.
+15 La notificación de adjudicación estará debidamente fundamentada y deberá
+16 incluir los fundamentos que justifican la determinación, aunque sea de forma breve o
+17 sucinta, en aras de que los foros revisores puedan revisar tales fundamentos y así
+18 determinar si la decisión fue arbitraria, caprichosa o irrazonable. Como mínimo, la
+19 notificación debe incluir:
+20 (1) los nombres de los licitadores que participaron en la subasta, solicitud de
+21 propuestas, solicitud de propuestas selladas, solicitud de cualificaciones o método de licitación
+22 aplicable, y una síntesis de sus propuestas;
+
+13
+1 (2) los factores o criterios que se tomaron en cuenta para adjudicar;
+2 (3) los defectos, deficiencias o incumplimientos, si alguno, que tuvieran las
+3 propuestas de los licitadores, proponentes u oferentes no favorecidos;
+4 (4) el licitador, proponente u oferente agraciado;
+5 (5) la disponibilidad y el plazo para solicitar revisión administrativa ante la Junta Revisora
+6 de Subastas de la Administración de Servicios Generales;
+7 (6) la disponibilidad y el plazo para solicitar revisión judicial;
+8 (7) la fecha de adjudicación;
+9 (8) la fecha de archivo en el expediente administrativo, si aplica;
+10 (9) la fecha de depósito en el correo federal, envío por correo electrónico o método de
+11 notificación utilizado;
+12 (10) la advertencia de que la revisión administrativa ante la Junta Revisora de Subastas de
+13 la Administración de Servicios Generales será requisito jurisdiccional previo a la revisión judicial
+14 cuando así lo disponga esta Ley o la Ley 38-2017, según enmendada;
+15 (11) el efecto de la presentación de una revisión administrativa o revisión judicial sobre la
+16 adjudicación o ejecución del proceso impugnado; y
+17 (12) la advertencia de que una notificación defectuosa, incompleta o con advertencias
+18 incorrectas sobre términos, foros o remedios no activará los términos jurisdiccionales de revisión
+19 hasta tanto se emita y notifique una notificación corregida conforme a derecho.
+20 La Administración deberá utilizar el modelo uniforme de notificación de adjudicación que
+21 adopte mediante reglamento, orden administrativa, carta circular o guía oficial, siempre que dicho
+
+14
+1 modelo sea compatible con esta Ley, la Ley 38-2017, según enmendada, y cualquier ley federal o
+2 estatal aplicable.
+3 La parte adversamente afectada por una actuación, determinación final o
+4 resolución de la Junta Revisora de Subastas de la Administración de Servicios Generales
+5 podrá presentar un recurso de revisión judicial, conforme a lo establecido en el Capítulo
+6 VIII de esta Ley.
+7 Cuando las ofertas y/o propuestas recibidas demuestren que los licitadores
+8 controlan el mercado del producto solicitado, el Administrador someterá el asunto a la
+9 consideración de la Oficina de Asuntos Monopolísticos del Departamento de Justicia para
+10 la acción correspondiente.
+11 Cuando surja de las ofertas y/o propuestas recibidas que los licitadores se han
+12 puesto de acuerdo entre sí para cotizar precios de forma colusoria y/o fraudulenta, el
+13 Administrador someterá el asunto a la consideración del Departamento de Justicia para
+14 la acción correspondiente.
+15 Sección 3. — Se enmienda el Artículo 53 de la Ley Núm. 73-2019, según
+16 enmendada, conocida como la “Ley de la Administración de Servicios Generales para la
+17 Centralización de las Compras del Gobierno de Puerto Rico de 2019”, para que lea como
+18 sigue:
+19 Artículo 53. — Determinación Final. Notificación de adjudicación.
+20 Una vez adjudicado un asunto ante la consideración de la Junta de Subastas, esta
+21 procederá a notificar su determinación final, según los procedimientos y mecanismos que
+22 se establezcan en el Reglamento Uniforme de Compras y Subastas y conforme a los
+
+15
+1 requisitos establecidos en la Sección 3.19 de la Ley 38-2017, según enmendada. La notificación
+2 de adjudicación de subasta será notificada adecuadamente, mediante correo federal
+3 certificado con acuse de recibo o correo electrónico, a todas las partes que tengan derecho
+4 a impugnar tal determinación. La notificación se realizará de manera simultánea y utilizando
+5 el mismo método de notificación para todas las partes.
+6 La notificación de adjudicación estará debidamente fundamentada y deberá
+7 incluir los fundamentos que justifican la determinación, aunque sea de forma breve o
+8 sucinta, en aras de que los foros revisores puedan revisar tales fundamentos y así
+9 determinar si la decisión fue arbitraria, caprichosa o irrazonable. Como mínimo, la
+10 notificación debe incluir:
+11 (1) los nombres de los licitadores que participaron en la subasta, solicitud de
+12 propuestas selladas, solicitud de cualificaciones o método de licitación correspondiente, y una
+13 síntesis de sus propuestas;
+14 (2) los factores o criterios que se tomaron en cuenta para adjudicar;
+15 (3) los defectos, deficiencias o incumplimientos, si alguno, que tuvieran las
+16 propuestas de los licitadores, proponentes u oferentes no favorecidos;
+17 (4) la identificación del licitador, proponente u oferente agraciado;
+18 (5) la fecha de adjudicación;
+19 (6) la fecha de archivo en el expediente administrativo, si aplica;
+20 (7) la fecha de depósito en el correo federal, envío por correo electrónico o método de
+21 notificación utilizado;
+
+16
+1 (8) la disponibilidad y el plazo para solicitar revisión administrativa ante la Junta Revisora
+2 de Subastas de la Administración de Servicios Generales;
+3 (9) la advertencia de que la revisión administrativa ante la Junta Revisora de Subastas de
+4 la Administración de Servicios Generales constituye un requisito jurisdiccional previo a la
+5 presentación de un recurso de revisión judicial ante el Tribunal de Apelaciones;
+6 (10) la disponibilidad y el plazo para solicitar revisión judicial;
+7 (11) el evento desde el cual comenzará a transcurrir el término para solicitar revisión
+8 administrativa o revisión judicial, según corresponda;
+9 (12) las partes a quienes deberá notificarse cualquier recurso de revisión administrativa o
+10 revisión judicial;
+11 (13) la forma permitida de notificación del recurso a las demás partes;
+12 (14) el efecto de la presentación de una revisión administrativa o revisión judicial sobre la
+13 adjudicación, contratación o ejecución del proceso impugnado; y
+14 (15) la advertencia de que una notificación defectuosa, incompleta o con advertencias
+15 incorrectas sobre términos, foros o remedios no activará los términos jurisdiccionales de revisión
+16 hasta tanto se emita y notifique una notificación corregida conforme a derecho.
+17 La determinación final de la Junta de Subastas contendrá determinaciones de
+18 hechos y conclusiones de derecho. La parte adversamente afectada por una actuación,
+19 determinación final o resolución de la Junta de Subastas podrá presentar un recurso de
+20 revisión, conforme a lo establecido en el Capítulo VIII de esta Ley.
+21 La Junta de Subastas utilizará el modelo uniforme de notificación de adjudicación aprobado
+22 por la Administración de Servicios Generales. Dicho modelo podrá ser adaptado a la naturaleza
+
+17
+1 particular del proceso de licitación, siempre que conserve todas las advertencias mínimas
+2 requeridas por esta Ley, la Ley 38-2017, según enmendada, y cualquier otra disposición legal
+3 aplicable.
+4 Sección 4. - Modelos uniformes de notificación.
+5 La Administración de Servicios Generales, en coordinación con el Departamento
+6 de Justicia, deberá preparar, aprobar y publicar modelos uniformes de notificación de
+7 adjudicación para procesos de licitación pública dentro de un término no mayor de
+8 noventa (90) días contados a partir de la vigencia de esta Ley.
+9 Los modelos uniformes deberán incluir, como mínimo:
+10 (a) un modelo para subastas informales;
+11 (b) un modelo para subastas formales;
+12 (c) un modelo para solicitudes de propuestas;
+13 (d) un modelo para solicitudes de propuestas selladas;
+14 (e) un modelo para requerimientos de propuestas;
+15 (f) un modelo para solicitudes de cualificaciones;
+16 (g) un modelo para requerimientos de cualificaciones;
+17 (h) un modelo para procesos sujetos a revisión administrativa ante la Junta
+18 Revisora de Subastas de la Administración de Servicios Generales;
+19 (i) un modelo para procesos no sujetos a revisión administrativa ante la Junta
+20 Revisora de Subastas de la Administración de Servicios Generales;
+21 (j) un modelo para procesos en los que proceda reconsideración ante la agencia
+22 adjudicadora;
+
+18
+1 (k) un modelo para procesos en los que proceda revisión judicial directa ante el
+2 Tribunal de Apelaciones;
+3 (l) un modelo para entidades exentas bajo la Ley Núm. 73-2019, según enmendada;
+4 y
+5 (m) cualquier otro modelo necesario para atender procesos regulados por leyes
+6 especiales o por normativa federal aplicable.
+7 La Administración de Servicios Generales deberá publicar dichos modelos en su
+8 página electrónica oficial y notificarlos mediante carta circular a las agencias,
+9 instrumentalidades, entidades exentas, corporaciones públicas y demás entidades
+10 gubernamentales sujetas total o parcialmente a la Ley Núm. 73-2019 o a la Ley Núm. 38-
+11 2017.
+12 Sección 5. Reglamentación.
+13 La Administración de Servicios Generales deberá enmendar el Reglamento
+14 Uniforme de Compras y Subastas dentro de un término no mayor de ciento veinte (120)
+15 días contados a partir de la vigencia de esta Ley, a los fines de incorporar los requisitos
+16 de notificación uniforme establecidos en esta Ley.
+17 El Departamento de Justicia brindará asistencia legal a la Administración de
+18 Servicios Generales en la preparación de los modelos uniformes y en la revisión de las
+19 advertencias procesales que deberán contener las notificaciones de adjudicación.
+20 Sección 6.- Aplicación a entidades exentas y leyes especiales.
+
+19
+1 Las entidades exentas bajo la Ley Núm. 73-2019, según enmendada, deberán
+2 adoptar modelos de notificación compatibles con los requisitos mínimos establecidos en
+3 esta Ley y en la Sección 3.19 de la Ley Núm. 38-2017, según enmendada.
+4 Cuando una ley especial establezca un procedimiento de licitación pública,
+5 reconsideración, revisión administrativa o revisión judicial distinto, la entidad
+6 adjudicadora deberá adaptar su notificación de adjudicación a dicho régimen especial,
+7 pero deberá incluir advertencias claras sobre el foro competente, el término aplicable, el
+8 evento desde el cual comienza a transcurrir dicho término, el efecto de la presentación
+9 del recurso y las partes a quienes deberá notificarse.
+10 Nada de lo dispuesto en esta Ley se interpretará como una derogación de
+11 procedimientos especiales establecidos por ley federal, condiciones de fondos federales,
+12 reglamentación federal aplicable, acuerdos de subvención o requisitos específicos de
+13 contratación financiada total o parcialmente con fondos federales. No obstante, en la
+14 medida en que no exista conflicto con dichas disposiciones, las entidades
+15 gubernamentales deberán cumplir con los requisitos mínimos de notificación uniforme
+16 establecidos en esta Ley.
+17 Sección 7.- Efecto de notificaciones defectuosas.
+18 Toda notificación de adjudicación emitida con posterioridad a la vigencia de esta
+19 Ley que omita, contradiga o exprese incorrectamente el término aplicable, el foro revisor,
+20 la disponibilidad de reconsideración, la disponibilidad de revisión administrativa, la
+21 disponibilidad de revisión judicial, el efecto de la presentación de un recurso, o la fecha
+22 desde la cual comenzará a transcurrir el término correspondiente, no activará los
+
+20
+1 términos jurisdiccionales de revisión hasta tanto la entidad adjudicadora emita y
+2 notifique una notificación corregida conforme a derecho.
+3 La entidad adjudicadora deberá emitir la notificación corregida dentro de un
+4 término razonable, que no excederá de diez (10) días laborables desde que advenga en
+5 conocimiento del defecto, ya sea por determinación propia, señalamiento de una parte,
+6 determinación de la Junta Revisora de Subastas de la Administración de Servicios
+7 Generales o resolución de un tribunal competente.
+8 La emisión de una notificación corregida no alterará los fundamentos sustantivos
+9 de la adjudicación, salvo que la entidad adjudicadora determine, conforme a derecho,
+10 que procede reconsiderar, corregir, modificar o dejar sin efecto la adjudicación por
+11 razones independientes al defecto de notificación.
+12 Sección 8.- Cláusula de interpretación.
+13 Esta Ley se interpretará de manera compatible con el debido proceso de ley, la
+14 transparencia en la contratación pública, la eficiencia administrativa, la competencia justa
+15 entre licitadores y la protección de los fondos públicos.
+16 Nada de lo dispuesto en esta Ley se interpretará como una paralización automática
+17 de los procesos de contratación pública, salvo que una ley, reglamento, orden
+18 administrativa, orden de la Junta Revisora de Subastas de la Administración de Servicios
+19 Generales o determinación judicial disponga lo contrario.
+20 Tampoco se interpretará esta Ley como una autorización para invalidar
+21 adjudicaciones por errores de forma, tipográficos o clericales que no afecten
+22 sustancialmente el derecho de una parte adversamente afectada a conocer los
+
+21
+1 fundamentos de la adjudicación, el foro competente, el término aplicable, el remedio
+2 disponible o la fecha desde la cual comienza a transcurrir dicho término.
+3 Sección 9.- Separabilidad.
+4 Si cualquier cláusula, párrafo, subpárrafo, artículo, sección, inciso, subinciso o
+5 parte de esta Ley fuere declarada inconstitucional o nula por un tribunal competente, la
+6 sentencia dictada a tal efecto no afectará, perjudicará ni invalidará las restantes
+7 disposiciones de esta Ley. El efecto de dicha sentencia quedará limitado a la cláusula,
+8 párrafo, subpárrafo, artículo, sección, inciso, subinciso o parte declarada inconstitucional
+9 o nula.
+10 Sección 10.- Vigencia.
+11 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3 .r L r e l S 3 d l L N 3 s e c l “ d P A U d G d c l “ d l A d S G p l d l C d G d P R d 2 a l f d r u y o p l n d a e p d l p i s f s p s d c r d c y a r a c s l t y f p s r a r o r j d n e d d r y c]
+[DELETED:  d p s s d c r d l t l i d c e l l s e c l n d a o u f j E e a a m e c l e g o e r d p d l l f q G p p p c l i p d p f d j d d i s l f d l a y a e l L N 7 s e c c l “ d l d S G p l C d l C d s i l s f l s d p l s d d S d l A d S G y d u]
+[DELETED:  d l A d S G y e l r e e l e a y j d q t z d i r c e c m d l d a p c e p n c c T S d P R a r e p e R e p u a g L c p s l n c a i s l m]
+[DELETED:  u y c L A L r q l f d u d l p a a e p e d d p L a e n m t m c p r l r d n d d r d c y d l J d S T o l a d m d n q p u s l n d p s a r a a l J R d S d l d S G p s a r a l p s a r j d p d e e y n c d i p e i n p a]
+[DELETED:  l l i y s b m c a l a l 1 — S e l S 3 d l L N 3 s c c l “ d P A U d 3 — P d L P P y t p E v y s n L E E d l L 7 d]
+[DELETED:  L J R d S d l A d S G d d e t l J R d l A d S p a c a p d v d l d ( d q t p d s l a o n L J R d l S l J R d S d l A d S d d t a a c r a r d r e r d r j L p d r d r]
+[DELETED:  a l J R d S d l A d S s u r j a d p u r d r c p p u r d r j a e T d c a p d d e e c f o d r l s d r a a l J R d S d l T e f c u y s p i a l p a a l f d l d y l r a o j d s d p s d p s r d p s d s L (]
+[DELETED:  ( e n d s s d p s d p s r d p s d c r d c o p ( l ( ( ( d ( ( ( ( u s d l p o o c e s a i a ( ( l p c r t e c o d ( l d d i r p p l c n f (]
+[DELETED:  ( a r a l a a r j d a e T d A ( ( ( ( ( n e ( d p (  ( l a d q u n d i o c a i h ( c o a r p l L 7 e L e R U l]
+[DELETED:  C R e p C J i e e r a i s p r a l a m a r U n d a q o c o e i e t a l p p d a t j E t c l t p s r d N e a a]
+[DELETED:  L A d S G e c c e D d J p a G p p L c l “ d l A d S G p l a r p l J d S c a c p s r p l J R d S s l]
+[DELETED:  y S d C o p d e a o d d s c a l e n p p l m i d y 3 a m c f c c a d r o c e a t l p q t d a i t L d n d a e d f y d e a d q l f r p r t f y a s l d f a c o i C m l l n d l l q p e l s s d p a]
+[DELETED:  l d s s a q t l d o i  p ( ( d ( ( ( ( l f d d e e c f e p c e o m d n ( l c ( a ( l a d q u n d i o c a i h L a]
+[DELETED:  m e p a a p u a d f o l o y p r d q l l 3 — S e e A 5 d l L N 7 s e e e R U d C y S y c a l]
+[DELETED:  r a d s s n a m c f L e n d a e d f y d e a d q l f r p r t f y a s l d f a c o i C m l l n d l l q p e l s s d p l d , s a q t l d o i   psn ( ( ( ( l f d d e e c f e p c e o m d n]
+[DELETED:  ( d ( l A d S G c u r j p a l p ( ( a ( r ( ( a ( l a d q u n d i o c a i h d f d l J d S c d d L p]
+[DELETED:  p d p d l s q c t l a m r a p p d l p d d u t n m d u m p p s a r a a l J]
+[DELETED:  e o y n m c c a l a e e c p y d e A d S G d e e R D d J b a l a l A d]
+[DELETED:  e e b l L N 7 s e d u l e e u p d l p r a o r j d l e d l d e e L s i c u d d f a a d s o r e d e q n e c c d d l e d d r l d d r a l l c c a t e t c n a l]
+[DELETED:  j d r h t l e a e y e a d e l n c d d u d l J R d S d l A d S p r c m o d s e l a p l p d c p s q u l r o s i e L c u a p i p e d f t o c q n a e d d u p a a a c l]
+[DELETED:  c c p s a s i s o d a t e n a p n i l r]

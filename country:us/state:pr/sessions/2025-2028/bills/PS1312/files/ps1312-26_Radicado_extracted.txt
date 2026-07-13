@@ -1,0 +1,755 @@
+Title: Para crear la “Ley del Registro Digital de Estaciones de Combustible”, a fin de
+Official Title: Para crear la “Ley del Registro Digital de Estaciones de Combustible”, a fin de
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1312
+5 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+institucionalizar y modernizar el registro electrónico de detallistas de combustible
+administrado por el Departamento de Asuntos del Consumidor; disponer información
+pública mínima sobre precios y cumplimiento; establecer deberes, confidencialidad,
+mecanismos de corrección, penalidades; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La disponibilidad de información oficial, confiable y actualizada sobre el mercado de
+combustibles es una herramienta indispensable para proteger al consumidor, fortalecer
+la fiscalización gubernamental y brindar certeza a los comerciantes que operan conforme
+a derecho. En Puerto Rico, la venta al detal de gasolina, diésel y otros combustibles
+líquidos incide directamente sobre la transportación, la actividad económica, la
+prestación de servicios esenciales y el funcionamiento cotidiano de las comunidades. Por
+ello, la información básica sobre estaciones de combustible, precios reportados y
+cumplimiento regulatorio debe manejarse mediante mecanismos modernos, uniformes y
+accesibles.
+El Departamento de Asuntos del Consumidor tiene una función central en la
+supervisión de precios, la protección de los consumidores y la fiscalización de prácticas
+comerciales relacionadas con la venta de combustibles. En años recientes, la agencia ha
+desarrollado mecanismos administrativos para requerir información a detallistas,
+2
+recopilar datos de precios y mantener registros electrónicos relacionados con la industria.
+Esos esfuerzos constituyen una base importante para la modernización del mercado, pero
+requieren continuidad legal, parámetros mínimos y una estructura uniforme que no
+dependa exclusivamente de órdenes administrativas o determinaciones internas
+susceptibles a cambios futuros.
+La experiencia administrativa demuestra que los registros creados únicamente por
+orden o práctica interna pueden perder efectividad por cambios de administración,
+variaciones en prioridades institucionales, limitaciones tecnológicas, falta de
+actualización o ausencia de deberes estatutarios claros. Por tal razón, esta Ley eleva a
+rango estatutario el Registro Digital de Estaciones de Combustible, tomando como punto
+de partida los esfuerzos administrativos existentes en DACO y dotándolos de
+permanencia, dirección normativa y salvaguardas adecuadas.
+Esta medida no crea una carga innecesaria ni duplica funciones de la agencia. Su
+propósito es consolidar y ordenar información que ya resulta necesaria para la
+fiscalización de precios, la orientación al consumidor y la supervisión de cumplimiento.
+El Registro Digital permitirá que DACO mantenga información básica de las estaciones
+de combustible que operan en Puerto Rico, incluyendo su ubicación, tipos de combustible
+ofrecidos, precios reportados, fecha de actualización y estatus general de inspección o
+aprobación de surtidores, según la información validada por la agencia.
+La transparencia que se persigue mediante esta Ley no implica divulgar información
+comercial sensitiva. Los secretos de negocio, contratos privados, márgenes de ganancia,
+información financiera no pública, datos personales protegidos e información propietaria
+deberán mantenerse confidenciales conforme al ordenamiento jurídico aplicable. El
+propósito principal será divulgar información mínima útil para el consumidor y para la
+fiscalización pública, sin menoscabar derechos legítimos de los comerciantes ni convertir
+la plataforma en un mecanismo de exposición indebida de datos privados.
+El Registro Digital también beneficia al detallista cumplidor. Cuando la información
+oficial es incompleta, está dispersa o no puede verificarse fácilmente, el comerciante
+puede quedar expuesto a percepciones incorrectas sobre su operación. Una plataforma
+3
+administrada por DACO permite distinguir entre incumplimientos reales y situaciones
+en trámite, como solicitudes oportunas de inspección, prórrogas provisionales,
+actualizaciones pendientes o correcciones de datos. De esa forma, el sistema no solo
+orienta al consumidor, sino que protege la reputación comercial de quienes cumplen con
+las exigencias aplicables.
+La medida autoriza, además, el uso de mecanismos digitales de verificación, tales
+como códigos QR, números de validación o enlaces electrónicos, para que el consumidor
+pueda confirmar información pública directamente desde la estación o mediante el portal
+oficial de DACO. Esta herramienta debe implantarse de forma gradual y razonable,
+tomando en consideración la capacidad operacional de la agencia y la realidad de
+pequeños detallistas, particularmente aquellos ubicados en municipios con acceso
+limitado a combustible.
+La política pública que inspira esta Ley es clara: Puerto Rico debe contar con un
+registro digital permanente, confiable y fiscalizable de estaciones de combustible, que
+permita orientar al consumidor, fortalecer la supervisión de precios, apoyar al
+comerciante cumplidor y promover mayor confianza pública en una industria esencial.
+La modernización regulatoria debe servir para simplificar información, reducir
+incertidumbre y mejorar la capacidad del Estado para actuar sobre datos oficiales y
+verificables.
+Por todo lo anterior, esta Asamblea Legislativa entiende necesario crear un marco
+legal para institucionalizar el Registro Digital de Estaciones de Combustible, bajo la
+administración de DACO, con parámetros mínimos de información, mecanismos de
+corrección, protección de confidencialidad, deberes claros de actualización y un
+calendario razonable de implantación.
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. — Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley del Registro Digital de
+3 Estaciones de Combustible”.
+4 Artículo 2. — Política pública.
+5 Se declara política pública del Gobierno de Puerto Rico mantener un registro
+6 digital permanente, actualizado y confiable de las estaciones de combustible que operan
+7 en Puerto Rico, con el propósito de promover transparencia, facilitar la orientación al
+8 consumidor, apoyar el cumplimiento de los detallistas y fortalecer la fiscalización del
+9 Departamento de Asuntos del Consumidor.
+10 A esos fines, el Departamento de Asuntos del Consumidor mantendrá,
+11 administrará y modernizará el Registro Digital de Estaciones de Combustible, tomando
+12 como base el registro electrónico de detallistas de combustible existente o cualquier
+13 sistema administrativo análogo que haya sido creado por el Departamento, de manera
+14 que dicho mecanismo cuente con permanencia estatutaria, parámetros uniformes y
+15 salvaguardas adecuadas de confidencialidad.
+16 Artículo 3. — Términos operacionales.
+17 Para fines de esta Ley, los siguientes términos tendrán el significado que se expresa
+18 a continuación:
+19 (a) “DACO” o “Departamento” — El Departamento de Asuntos del Consumidor
+20 del Gobierno de Puerto Rico.
+5
+1 (b) “Estación de combustible” — Establecimiento comercial dedicado a la venta al
+2 detal de gasolina, diésel u otro combustible líquido mediante surtidores.
+3 (c) “Registro Digital” — Plataforma electrónica administrada por DACO para
+4 recopilar, organizar, validar y publicar información básica relacionada con estaciones de
+5 combustible en Puerto Rico.
+6 (d) “Perfil digital” — Ficha electrónica pública correspondiente a una estación de
+7 combustible registrada, que contiene la información autorizada para divulgación bajo
+8 esta Ley.
+9 (e) “Información confidencial” — Información comercial sensitiva, secreto de
+10 negocio, dato propietario, información financiera no pública, dato personal o cualquier
+11 otra información protegida por ley.
+12 (f) “Mecanismo digital de verificación” — Código QR, número de validación,
+13 enlace electrónico o herramienta tecnológica aprobada por DACO para confirmar
+14 información pública relacionada con una estación de combustible.
+15 Artículo 4. — Registro Digital; información requerida.
+16 Se eleva a rango de ley y se ordena a DACO mantener, administrar y modernizar
+17 el Registro Digital de Estaciones de Combustible.
+18 El Registro Digital tendrá el propósito de centralizar información básica de las
+19 estaciones de combustible que operan en Puerto Rico, facilitar la actualización electrónica
+20 de datos por parte de los detallistas, publicar información útil para orientación del
+21 consumidor, integrar datos públicos sobre precios reportados y estatus general de
+6
+1 cumplimiento, reducir duplicidad de trámites administrativos y mejorar la capacidad de
+2 fiscalización, análisis y monitoreo de DACO.
+3 Todo operador de una estación de combustible deberá mantener actualizada en el
+4 Registro Digital la siguiente información mínima:
+5 (a) Nombre legal del operador.
+6 (b) Nombre comercial de la estación.
+7 (c) Dirección física de la estación.
+8 (d) Municipio donde ubica la estación.
+9 (e) Información de contacto oficial para fines regulatorios.
+10 (f) Tipos de combustible ofrecidos.
+11 (g) Marca bajo la cual opera, si alguna.
+12 (h) Identificación de si la estación opera como abanderada o independiente.
+13 (i) Horario ordinario de operación.
+14 (j) Número de surtidores operacionales.
+15 (k) Precios reportados por tipo de combustible, conforme a los requisitos
+16 establecidos por DACO.
+17 (l) Estatus general de inspección o aprobación de surtidores, según información
+18 validada por DACO.
+19 (m) Cualquier otra información básica que DACO determine mediante
+20 reglamento, siempre que sea necesaria para la protección del consumidor, la fiscalización
+21 de precios o la administración del Registro Digital.
+7
+1 DACO establecerá mediante reglamento qué información será pública y qué
+2 información será confidencial. La información confidencial no será divulgada en el perfil
+3 digital de la estación.
+4 Artículo 5. — Perfil digital y mecanismo de verificación.
+5 DACO creará un perfil digital público para cada estación de combustible
+6 registrada.
+7 El perfil digital podrá incluir, como mínimo, la siguiente información:
+8 (a) Nombre comercial de la estación.
+9 (b) Dirección física.
+10 (c) Municipio.
+11 (d) Tipos de combustible ofrecidos.
+12 (e) Precios reportados por tipo de combustible.
+13 (f) Fecha y hora de la última actualización de precios.
+14 (g) Estatus general de inspección o aprobación de surtidores.
+15 (h) Avisos oficiales emitidos por DACO relacionados con la estación, cuando
+16 proceda.
+17 (i) Fecha de última actualización del perfil.
+18 El perfil digital no incluirá información confidencial, información financiera,
+19 contratos privados, márgenes de ganancia, datos personales protegidos, secretos de
+20 negocio ni información comercial sensitiva.
+21 DACO podrá implantar un mecanismo digital de verificación para que el
+22 consumidor acceda al perfil digital de la estación o confirme información pública de
+8
+1 cumplimiento. Dicho mecanismo podrá consistir en un código QR, número de validación,
+2 enlace electrónico o cualquier otra herramienta tecnológica aprobada por DACO.
+3 Cuando DACO requiera que el mecanismo digital de verificación esté visible en la
+4 estación, deberá establecer mediante reglamento la forma, ubicación y contenido mínimo
+5 del aviso correspondiente.
+6 El mecanismo digital de verificación no sustituirá los sellos físicos, rótulos, avisos
+7 o requisitos de divulgación establecidos por otras leyes o reglamentos, salvo que DACO
+8 disponga lo contrario conforme a autoridad legal expresa.
+9 Artículo 6. — Reporte y actualización de precios.
+10 Todo operador de una estación de combustible deberá reportar electrónicamente
+11 a DACO los precios de venta al detal de los combustibles que ofrezca, en la forma,
+12 frecuencia y método que establezca el Departamento mediante reglamento, orden
+13 administrativa o mecanismo electrónico autorizado.
+14 DACO podrá utilizar la información de precios para orientar al consumidor,
+15 monitorear variaciones de mercado, identificar patrones atípicos, evaluar razonabilidad
+16 de precios conforme a su autoridad legal, generar informes agregados y fiscalizar
+17 incumplimientos relacionados con rotulación, divulgación de precios o prácticas
+18 engañosas.
+19 La publicación de precios en el perfil digital deberá indicar la fecha y hora de
+20 actualización más reciente.
+21 Artículo 7. — Estatus general de inspección o aprobación de surtidores.
+9
+1 DACO integrará al Registro Digital la información pública relacionada con el
+2 estatus general de inspección o aprobación de surtidores de cada estación.
+3 La información podrá identificar si los surtidores se encuentran aprobados,
+4 pendientes de inspección por solicitud oportuna, bajo prórroga provisional, suspendidos,
+5 vencidos sin solicitud oportuna o fuera de servicio.
+6 Cuando la información provenga de un sistema de inspección autorizada, técnico
+7 autorizado, reinspección, auditoría o mecanismo de validación digital, DACO podrá
+8 integrarla al perfil digital conforme a los protocolos aplicables.
+9 Artículo 8. — Corrección de información.
+10 Cuando un operador de una estación de combustible identifique información
+11 incorrecta en su perfil digital, podrá solicitar corrección a DACO mediante el
+12 procedimiento electrónico que establezca el Departamento.
+13 DACO deberá evaluar la solicitud y realizar la corrección correspondiente dentro
+14 de un término razonable. Cuando la información incorrecta pueda afectar la reputación
+15 comercial del operador o inducir a error al consumidor, DACO deberá atender la
+16 solicitud de manera prioritaria.
+17 Si la información incorrecta fue sometida por el propio operador, DACO podrá
+18 requerir explicación, documentación adicional o medidas correctivas, según
+19 corresponda.
+20 Artículo 9. — Deberes de los operadores de estaciones de combustible.
+21 Todo operador de una estación de combustible tendrá los siguientes deberes:
+22 (a) Registrarse en el Registro Digital dentro del término establecido por DACO.
+10
+1 (b) Mantener actualizada la información requerida.
+2 (c) Reportar precios en la forma y frecuencia establecida por DACO.
+3 (d) Corregir información inexacta dentro del término dispuesto por el
+4 Departamento.
+5 (e) Conservar evidencia de la información sometida por un término no menor de
+6 cinco años.
+7 (f) Notificar cambios materiales en operación, marca, tipos de combustible
+8 ofrecidos, cierre temporero prolongado o cierre permanente.
+9 (g) Abstenerse de someter información falsa, engañosa, incompleta o
+10 materialmente desactualizada.
+11 (h) Mantener visible el mecanismo digital de verificación, cuando DACO así lo
+12 requiera mediante reglamento.
+13 Artículo 10. — Deberes de DACO.
+14 DACO tendrá los siguientes deberes:
+15 (a) Mantener, administrar y modernizar el Registro Digital.
+16 (b) Establecer formularios electrónicos para el registro y actualización de
+17 información.
+18 (c) Determinar las categorías de información pública y confidencial.
+19 (d) Validar, cuando corresponda, la información sometida por los operadores.
+20 (e) Mantener disponible al consumidor el perfil digital público de cada estación
+21 registrada.
+11
+1 (f) Proteger información confidencial conforme a esta Ley y a las demás leyes
+2 aplicables.
+3 (g) Establecer un procedimiento electrónico de corrección de información.
+4 (h) Proveer orientación y asistencia técnica razonable durante la implantación
+5 inicial de esta Ley.
+6 (i) Adoptar medidas para que el Registro Digital sea accesible, claro y
+7 comprensible para el consumidor.
+8 Artículo 11. — Protección de información confidencial.
+9 DACO no divulgará públicamente información confidencial, incluyendo secretos
+10 de negocio, información financiera no pública, márgenes de ganancia, contratos privados,
+11 información propietaria, datos personales protegidos o cualquier otra información que
+12 deba mantenerse reservada conforme a ley.
+13 La protección de confidencialidad no impedirá que DACO utilice dicha
+14 información para fines de fiscalización, auditoría, investigación, procedimiento
+15 administrativo, análisis económico, informe agregado o referido a otra agencia con
+16 jurisdicción.
+17 Todo informe público generado a partir del Registro Digital deberá presentarse de
+18 forma agregada, salvo en cuanto a información pública de cumplimiento correspondiente
+19 a una estación específica.
+20 Artículo 12. — Prohibiciones.
+21 Se prohíbe a toda persona natural o jurídica:
+12
+1 (a) Operar una estación de combustible sin registrarse en el Registro Digital dentro
+2 del término dispuesto por DACO.
+3 (b) Someter información falsa, engañosa, incompleta o materialmente incorrecta.
+4 (c) Alterar, falsificar, remover o utilizar indebidamente un mecanismo digital de
+5 verificación.
+6 (d) Publicar precios distintos a los reportados a DACO cuando ello induzca a error
+7 al consumidor.
+8 (e) Negarse injustificadamente a corregir información requerida por DACO.
+9 (f) Utilizar el Registro Digital para aparentar cumplimiento inexistente.
+10 (g) Obstruir una auditoría, investigación o requerimiento de información
+11 relacionado con esta Ley.
+12 Artículo 13. — Penalidades administrativas.
+13 DACO podrá imponer las siguientes penalidades administrativas:
+14 (a) A todo operador de una estación de combustible que no se registre en el
+15 Registro Digital dentro del término dispuesto por DACO, multa administrativa no menor
+16 de quinientos dólares ($500) ni mayor de dos mil quinientos dólares ($2,500) por
+17 infracción.
+18 (b) A todo operador de una estación de combustible que incumpla con la
+19 actualización de información requerida, multa administrativa no menor de doscientos
+20 cincuenta dólares ($250) ni mayor de mil dólares ($1,000) por infracción.
+13
+1 (c) A toda persona que someta información falsa, engañosa o materialmente
+2 incorrecta, multa administrativa no menor de mil dólares ($1,000) ni mayor de cinco mil
+3 dólares ($5,000) por infracción.
+4 (d) A toda persona que altere, falsifique, remueva o utilice indebidamente un
+5 mecanismo digital de verificación, multa administrativa no menor de dos mil quinientos
+6 dólares ($2,500) ni mayor de diez mil dólares ($10,000) por infracción.
+7 (e) A todo operador de una estación de combustible que publique o mantenga
+8 precios que induzcan a error al consumidor, multa administrativa no menor de
+9 quinientos dólares ($500) ni mayor de cinco mil dólares ($5,000) por infracción, sin
+10 perjuicio de cualquier otra penalidad aplicable bajo leyes o reglamentos de protección al
+11 consumidor.
+12 (f) A toda persona que obstruya una auditoría, investigación o requerimiento de
+13 información relacionado con esta Ley, multa administrativa no menor de mil dólares
+14 ($1,000) ni mayor de cinco mil dólares ($5,000) por infracción.
+15 Cada día de incumplimiento, cada estación afectada, cada dato falso o cada acto
+16 separado podrá constituir una infracción independiente.
+17 DACO podrá emitir advertencias, órdenes de corrección, planes de cumplimiento
+18 o términos de subsanación antes de imponer multas, cuando la infracción sea corregible,
+19 no exista intención fraudulenta y no se afecte sustancialmente al consumidor.
+20 Artículo 14. — Implantación.
+21 DACO implantará esta Ley conforme al siguiente calendario:
+14
+1 (a) Dentro de los noventa días siguientes a la aprobación de esta Ley, DACO
+2 publicará una guía preliminar sobre la información requerida para el Registro Digital.
+3 (b) Dentro de los ciento ochenta días siguientes a la aprobación de esta Ley, DACO
+4 habilitará o actualizará el portal electrónico para el registro de estaciones.
+5 (c) Dentro de los doscientos cuarenta días siguientes a la aprobación de esta Ley,
+6 los operadores de estaciones de combustible deberán comenzar el proceso de registro
+7 electrónico o actualización de datos, según corresponda.
+8 (d) Dentro de los trescientos sesenta días siguientes a la aprobación de esta Ley,
+9 DACO deberá tener operativo el perfil digital público de las estaciones registradas.
+10 Durante el periodo inicial de implantación, DACO deberá proveer orientación y
+11 asistencia técnica a los operadores de estaciones de combustible, particularmente a
+12 pequeños operadores y estaciones ubicadas en municipios con acceso limitado a
+13 combustible.
+14 Artículo 15. — Reglamentación.
+15 DACO adoptará la reglamentación necesaria para implementar esta Ley dentro de
+16 un término no mayor de ciento ochenta días contados a partir de su aprobación.
+17 La reglamentación deberá incluir, como mínimo:
+18 (a) Procedimiento de registro electrónico.
+19 (b) Información requerida a los operadores de estaciones de combustible.
+20 (c) Categorías de información pública y confidencial.
+21 (d) Frecuencia y método de actualización de precios.
+22 (e) Diseño del perfil digital de estación.
+15
+1 (f) Uso del mecanismo digital de verificación.
+2 (g) Procedimiento de corrección de información.
+3 (h) Mecanismos de protección de datos confidenciales.
+4 (i) Procedimiento de fiscalización y auditoría.
+5 (j) Criterios para imposición de penalidades y medidas correctivas.
+6 Hasta tanto se apruebe la reglamentación final, DACO podrá emitir órdenes
+7 administrativas, cartas circulares o guías provisionales compatibles con esta Ley.
+8 Artículo 16. — Cláusula de no menoscabo.
+9 Nada de lo dispuesto en esta Ley limitará las facultades de DACO bajo su Ley
+10 Orgánica, reglamentos de precios, reglamentos de pesas y medidas, órdenes
+11 administrativas o cualquier otra disposición aplicable a la protección del consumidor y
+12 fiscalización de la industria de combustibles.
+13 Artículo 17. — Separabilidad.
+14 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, inciso, artículo o parte
+15 de esta Ley fuera anulada o declarada inconstitucional por un tribunal con jurisdicción,
+16 la sentencia dictada no afectará ni invalidará las demás disposiciones de esta Ley. El
+17 efecto de dicha sentencia quedará limitado a la disposición que haya sido anulada o
+18 declarada inconstitucional.
+19 Artículo 18. — Vigencia.
+20 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL    c l “ d R D d E d C a f d y m e r e d d d c m s p y c e d c d E P R l v a d d g d y o c i d s l t l a e l l i b s e d c p r y D d A d C t u f c e l m a p r i a d]
+[DELETED:  c l p m y u e u q n e d ó a o d i o p i p p e p c d a e p i l t f d p l e a e e D y d d e c y o i q y r n p l m c c a o j a E e i e d o n p v f e c]
+[DELETED:  t c s o d i p p p o c d d D e f e s n s d D E h d i d f g y r e c l c o d l a y l r d d p a u e m c a p p q i e L e c P R d c c u o a c f l s d p a a m r d s p s i r y m l c d E p a s d o y p i e R D d E d C b l d D c p m d i m d p d c d c d a y u]
+[DELETED:  L s c y p c c l “ d R D d d p p d G d P R m u r e f e D d A d C m b e r e d d d c e o c d m c c p e p u y]
+[DELETED:  “ D — P e a p D p “ c — I c s s d “ d d v — C Q n d v e o h t a p D p c d p p d l d p i ú p o d i d p s p r y e g d]
+[DELETED:  P r p t d c c a l r C o i b q D d m]
+[DELETED:  e m r q i s p y q c u p d p p c e d c A o e p D r c l e c p d n i i c i f p m d g d p p s d p i u m d d v p q e]
+[DELETED:  D l p d v a d d l c q o e l f y m q e e D m r o p u l i d p p o a c p c a s a l g i a y f r c r d d p o p]
+[DELETED:  i a R D l i p r c e i p i s l s s e a r a o m d v d D p u o d u e d c i i e s p d p s c a D m e d o o i a e a c D d a l e d a o m c s]
+[DELETED:  C i i d d t d p e N c m e o m t d c A d s i f e i o E f e p e r y a d]
+[DELETED:  P P o y a t r d l i A m p q e R D s a c y p d c n i q D u d p f d f a i p a e i a o r a o a c]
+[DELETED:  O u a i o r d i A t o d u e d c q n s r e e q d ( n m d d m q d ( p A t o d u e d c q i c l]
+[DELETED:  A t p q s i f e o m A t p q a f r o u i u q i a e a c m a n m d d ( n m d c m d ( p i s]
+[DELETED:  D d l n d s a l a d e L D t a l o d e d c p a o y e u e m c a l a]
+[DELETED:  t s a l r f D p e ó r d p r d p y m ó]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1312
+5 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para crear la “Ley del Registro Digital de Estaciones de Combustible”, a fin de
+institucionalizar y modernizar el registro electrónico de detallistas de combustible
+administrado por el Departamento de Asuntos del Consumidor; disponer información
+pública mínima sobre precios y cumplimiento; establecer deberes, confidencialidad,
+mecanismos de corrección, penalidades; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La disponibilidad de información oficial, confiable y actualizada sobre el mercado de
+combustibles es una herramienta indispensable para proteger al consumidor, fortalecer
+la fiscalización gubernamental y brindar certeza a los comerciantes que operan conforme
+a derecho. En Puerto Rico, la venta al detal de gasolina, diésel y otros combustibles
+líquidos incide directamente sobre la transportación, la actividad económica, la
+prestación de servicios esenciales y el funcionamiento cotidiano de las comunidades. Por
+ello, la información básica sobre estaciones de combustible, precios reportados y
+cumplimiento regulatorio debe manejarse mediante mecanismos modernos, uniformes y
+accesibles.
+El Departamento de Asuntos del Consumidor tiene una función central en la
+supervisión de precios, la protección de los consumidores y la fiscalización de prácticas
+comerciales relacionadas con la venta de combustibles. En años recientes, la agencia ha
+desarrollado mecanismos administrativos para requerir información a detallistas,
+
+2
+recopilar datos de precios y mantener registros electrónicos relacionados con la industria.
+Esos esfuerzos constituyen una base importante para la modernización del mercado, pero
+requieren continuidad legal, parámetros mínimos y una estructura uniforme que no
+dependa exclusivamente de órdenes administrativas o determinaciones internas
+susceptibles a cambios futuros.
+La experiencia administrativa demuestra que los registros creados únicamente por
+orden o práctica interna pueden perder efectividad por cambios de administración,
+variaciones en prioridades institucionales, limitaciones tecnológicas, falta de
+actualización o ausencia de deberes estatutarios claros. Por tal razón, esta Ley eleva a
+rango estatutario el Registro Digital de Estaciones de Combustible, tomando como punto
+de partida los esfuerzos administrativos existentes en DACO y dotándolos de
+permanencia, dirección normativa y salvaguardas adecuadas.
+Esta medida no crea una carga innecesaria ni duplica funciones de la agencia. Su
+propósito es consolidar y ordenar información que ya resulta necesaria para la
+fiscalización de precios, la orientación al consumidor y la supervisión de cumplimiento.
+El Registro Digital permitirá que DACO mantenga información básica de las estaciones
+de combustible que operan en Puerto Rico, incluyendo su ubicación, tipos de combustible
+ofrecidos, precios reportados, fecha de actualización y estatus general de inspección o
+aprobación de surtidores, según la información validada por la agencia.
+La transparencia que se persigue mediante esta Ley no implica divulgar información
+comercial sensitiva. Los secretos de negocio, contratos privados, márgenes de ganancia,
+información financiera no pública, datos personales protegidos e información propietaria
+deberán mantenerse confidenciales conforme al ordenamiento jurídico aplicable. El
+propósito principal será divulgar información mínima útil para el consumidor y para la
+fiscalización pública, sin menoscabar derechos legítimos de los comerciantes ni convertir
+la plataforma en un mecanismo de exposición indebida de datos privados.
+El Registro Digital también beneficia al detallista cumplidor. Cuando la información
+oficial es incompleta, está dispersa o no puede verificarse fácilmente, el comerciante
+puede quedar expuesto a percepciones incorrectas sobre su operación. Una plataforma
+
+3
+administrada por DACO permite distinguir entre incumplimientos reales y situaciones
+en trámite, como solicitudes oportunas de inspección, prórrogas provisionales,
+actualizaciones pendientes o correcciones de datos. De esa forma, el sistema no solo
+orienta al consumidor, sino que protege la reputación comercial de quienes cumplen con
+las exigencias aplicables.
+La medida autoriza, además, el uso de mecanismos digitales de verificación, tales
+como códigos QR, números de validación o enlaces electrónicos, para que el consumidor
+pueda confirmar información pública directamente desde la estación o mediante el portal
+oficial de DACO. Esta herramienta debe implantarse de forma gradual y razonable,
+tomando en consideración la capacidad operacional de la agencia y la realidad de
+pequeños detallistas, particularmente aquellos ubicados en municipios con acceso
+limitado a combustible.
+La política pública que inspira esta Ley es clara: Puerto Rico debe contar con un
+registro digital permanente, confiable y fiscalizable de estaciones de combustible, que
+permita orientar al consumidor, fortalecer la supervisión de precios, apoyar al
+comerciante cumplidor y promover mayor confianza pública en una industria esencial.
+La modernización regulatoria debe servir para simplificar información, reducir
+incertidumbre y mejorar la capacidad del Estado para actuar sobre datos oficiales y
+verificables.
+Por todo lo anterior, esta Asamblea Legislativa entiende necesario crear un marco
+legal para institucionalizar el Registro Digital de Estaciones de Combustible, bajo la
+administración de DACO, con parámetros mínimos de información, mecanismos de
+corrección, protección de confidencialidad, deberes claros de actualización y un
+calendario razonable de implantación.
+
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. — Título.
+2 Esta Ley se conocerá y podrá citarse como la “Ley del Registro Digital de
+3 Estaciones de Combustible”.
+4 Artículo 2. — Política pública.
+5 Se declara política pública del Gobierno de Puerto Rico mantener un registro
+6 digital permanente, actualizado y confiable de las estaciones de combustible que operan
+7 en Puerto Rico, con el propósito de promover transparencia, facilitar la orientación al
+8 consumidor, apoyar el cumplimiento de los detallistas y fortalecer la fiscalización del
+9 Departamento de Asuntos del Consumidor.
+10 A esos fines, el Departamento de Asuntos del Consumidor mantendrá,
+11 administrará y modernizará el Registro Digital de Estaciones de Combustible, tomando
+12 como base el registro electrónico de detallistas de combustible existente o cualquier
+13 sistema administrativo análogo que haya sido creado por el Departamento, de manera
+14 que dicho mecanismo cuente con permanencia estatutaria, parámetros uniformes y
+15 salvaguardas adecuadas de confidencialidad.
+16 Artículo 3. — Términos operacionales.
+17 Para fines de esta Ley, los siguientes términos tendrán el significado que se expresa
+18 a continuación:
+19 (a) “DACO” o “Departamento” — El Departamento de Asuntos del Consumidor
+20 del Gobierno de Puerto Rico.
+
+5
+1 (b) “Estación de combustible” — Establecimiento comercial dedicado a la venta al
+2 detal de gasolina, diésel u otro combustible líquido mediante surtidores.
+3 (c) “Registro Digital” — Plataforma electrónica administrada por DACO para
+4 recopilar, organizar, validar y publicar información básica relacionada con estaciones de
+5 combustible en Puerto Rico.
+6 (d) “Perfil digital” — Ficha electrónica pública correspondiente a una estación de
+7 combustible registrada, que contiene la información autorizada para divulgación bajo
+8 esta Ley.
+9 (e) “Información confidencial” — Información comercial sensitiva, secreto de
+10 negocio, dato propietario, información financiera no pública, dato personal o cualquier
+11 otra información protegida por ley.
+12 (f) “Mecanismo digital de verificación” — Código QR, número de validación,
+13 enlace electrónico o herramienta tecnológica aprobada por DACO para confirmar
+14 información pública relacionada con una estación de combustible.
+15 Artículo 4. — Registro Digital; información requerida.
+16 Se eleva a rango de ley y se ordena a DACO mantener, administrar y modernizar
+17 el Registro Digital de Estaciones de Combustible.
+18 El Registro Digital tendrá el propósito de centralizar información básica de las
+19 estaciones de combustible que operan en Puerto Rico, facilitar la actualización electrónica
+20 de datos por parte de los detallistas, publicar información útil para orientación del
+21 consumidor, integrar datos públicos sobre precios reportados y estatus general de
+
+6
+1 cumplimiento, reducir duplicidad de trámites administrativos y mejorar la capacidad de
+2 fiscalización, análisis y monitoreo de DACO.
+3 Todo operador de una estación de combustible deberá mantener actualizada en el
+4 Registro Digital la siguiente información mínima:
+5 (a) Nombre legal del operador.
+6 (b) Nombre comercial de la estación.
+7 (c) Dirección física de la estación.
+8 (d) Municipio donde ubica la estación.
+9 (e) Información de contacto oficial para fines regulatorios.
+10 (f) Tipos de combustible ofrecidos.
+11 (g) Marca bajo la cual opera, si alguna.
+12 (h) Identificación de si la estación opera como abanderada o independiente.
+13 (i) Horario ordinario de operación.
+14 (j) Número de surtidores operacionales.
+15 (k) Precios reportados por tipo de combustible, conforme a los requisitos
+16 establecidos por DACO.
+17 (l) Estatus general de inspección o aprobación de surtidores, según información
+18 validada por DACO.
+19 (m) Cualquier otra información básica que DACO determine mediante
+20 reglamento, siempre que sea necesaria para la protección del consumidor, la fiscalización
+21 de precios o la administración del Registro Digital.
+
+7
+1 DACO establecerá mediante reglamento qué información será pública y qué
+2 información será confidencial. La información confidencial no será divulgada en el perfil
+3 digital de la estación.
+4 Artículo 5. — Perfil digital y mecanismo de verificación.
+5 DACO creará un perfil digital público para cada estación de combustible
+6 registrada.
+7 El perfil digital podrá incluir, como mínimo, la siguiente información:
+8 (a) Nombre comercial de la estación.
+9 (b) Dirección física.
+10 (c) Municipio.
+11 (d) Tipos de combustible ofrecidos.
+12 (e) Precios reportados por tipo de combustible.
+13 (f) Fecha y hora de la última actualización de precios.
+14 (g) Estatus general de inspección o aprobación de surtidores.
+15 (h) Avisos oficiales emitidos por DACO relacionados con la estación, cuando
+16 proceda.
+17 (i) Fecha de última actualización del perfil.
+18 El perfil digital no incluirá información confidencial, información financiera,
+19 contratos privados, márgenes de ganancia, datos personales protegidos, secretos de
+20 negocio ni información comercial sensitiva.
+21 DACO podrá implantar un mecanismo digital de verificación para que el
+22 consumidor acceda al perfil digital de la estación o confirme información pública de
+
+8
+1 cumplimiento. Dicho mecanismo podrá consistir en un código QR, número de validación,
+2 enlace electrónico o cualquier otra herramienta tecnológica aprobada por DACO.
+3 Cuando DACO requiera que el mecanismo digital de verificación esté visible en la
+4 estación, deberá establecer mediante reglamento la forma, ubicación y contenido mínimo
+5 del aviso correspondiente.
+6 El mecanismo digital de verificación no sustituirá los sellos físicos, rótulos, avisos
+7 o requisitos de divulgación establecidos por otras leyes o reglamentos, salvo que DACO
+8 disponga lo contrario conforme a autoridad legal expresa.
+9 Artículo 6. — Reporte y actualización de precios.
+10 Todo operador de una estación de combustible deberá reportar electrónicamente
+11 a DACO los precios de venta al detal de los combustibles que ofrezca, en la forma,
+12 frecuencia y método que establezca el Departamento mediante reglamento, orden
+13 administrativa o mecanismo electrónico autorizado.
+14 DACO podrá utilizar la información de precios para orientar al consumidor,
+15 monitorear variaciones de mercado, identificar patrones atípicos, evaluar razonabilidad
+16 de precios conforme a su autoridad legal, generar informes agregados y fiscalizar
+17 incumplimientos relacionados con rotulación, divulgación de precios o prácticas
+18 engañosas.
+19 La publicación de precios en el perfil digital deberá indicar la fecha y hora de
+20 actualización más reciente.
+21 Artículo 7. — Estatus general de inspección o aprobación de surtidores.
+
+9
+1 DACO integrará al Registro Digital la información pública relacionada con el
+2 estatus general de inspección o aprobación de surtidores de cada estación.
+3 La información podrá identificar si los surtidores se encuentran aprobados,
+4 pendientes de inspección por solicitud oportuna, bajo prórroga provisional, suspendidos,
+5 vencidos sin solicitud oportuna o fuera de servicio.
+6 Cuando la información provenga de un sistema de inspección autorizada, técnico
+7 autorizado, reinspección, auditoría o mecanismo de validación digital, DACO podrá
+8 integrarla al perfil digital conforme a los protocolos aplicables.
+9 Artículo 8. — Corrección de información.
+10 Cuando un operador de una estación de combustible identifique información
+11 incorrecta en su perfil digital, podrá solicitar corrección a DACO mediante el
+12 procedimiento electrónico que establezca el Departamento.
+13 DACO deberá evaluar la solicitud y realizar la corrección correspondiente dentro
+14 de un término razonable. Cuando la información incorrecta pueda afectar la reputación
+15 comercial del operador o inducir a error al consumidor, DACO deberá atender la
+16 solicitud de manera prioritaria.
+17 Si la información incorrecta fue sometida por el propio operador, DACO podrá
+18 requerir explicación, documentación adicional o medidas correctivas, según
+19 corresponda.
+20 Artículo 9. — Deberes de los operadores de estaciones de combustible.
+21 Todo operador de una estación de combustible tendrá los siguientes deberes:
+22 (a) Registrarse en el Registro Digital dentro del término establecido por DACO.
+
+10
+1 (b) Mantener actualizada la información requerida.
+2 (c) Reportar precios en la forma y frecuencia establecida por DACO.
+3 (d) Corregir información inexacta dentro del término dispuesto por el
+4 Departamento.
+5 (e) Conservar evidencia de la información sometida por un término no menor de
+6 cinco años.
+7 (f) Notificar cambios materiales en operación, marca, tipos de combustible
+8 ofrecidos, cierre temporero prolongado o cierre permanente.
+9 (g) Abstenerse de someter información falsa, engañosa, incompleta o
+10 materialmente desactualizada.
+11 (h) Mantener visible el mecanismo digital de verificación, cuando DACO así lo
+12 requiera mediante reglamento.
+13 Artículo 10. — Deberes de DACO.
+14 DACO tendrá los siguientes deberes:
+15 (a) Mantener, administrar y modernizar el Registro Digital.
+16 (b) Establecer formularios electrónicos para el registro y actualización de
+17 información.
+18 (c) Determinar las categorías de información pública y confidencial.
+19 (d) Validar, cuando corresponda, la información sometida por los operadores.
+20 (e) Mantener disponible al consumidor el perfil digital público de cada estación
+21 registrada.
+
+11
+1 (f) Proteger información confidencial conforme a esta Ley y a las demás leyes
+2 aplicables.
+3 (g) Establecer un procedimiento electrónico de corrección de información.
+4 (h) Proveer orientación y asistencia técnica razonable durante la implantación
+5 inicial de esta Ley.
+6 (i) Adoptar medidas para que el Registro Digital sea accesible, claro y
+7 comprensible para el consumidor.
+8 Artículo 11. — Protección de información confidencial.
+9 DACO no divulgará públicamente información confidencial, incluyendo secretos
+10 de negocio, información financiera no pública, márgenes de ganancia, contratos privados,
+11 información propietaria, datos personales protegidos o cualquier otra información que
+12 deba mantenerse reservada conforme a ley.
+13 La protección de confidencialidad no impedirá que DACO utilice dicha
+14 información para fines de fiscalización, auditoría, investigación, procedimiento
+15 administrativo, análisis económico, informe agregado o referido a otra agencia con
+16 jurisdicción.
+17 Todo informe público generado a partir del Registro Digital deberá presentarse de
+18 forma agregada, salvo en cuanto a información pública de cumplimiento correspondiente
+19 a una estación específica.
+20 Artículo 12. — Prohibiciones.
+21 Se prohíbe a toda persona natural o jurídica:
+
+12
+1 (a) Operar una estación de combustible sin registrarse en el Registro Digital dentro
+2 del término dispuesto por DACO.
+3 (b) Someter información falsa, engañosa, incompleta o materialmente incorrecta.
+4 (c) Alterar, falsificar, remover o utilizar indebidamente un mecanismo digital de
+5 verificación.
+6 (d) Publicar precios distintos a los reportados a DACO cuando ello induzca a error
+7 al consumidor.
+8 (e) Negarse injustificadamente a corregir información requerida por DACO.
+9 (f) Utilizar el Registro Digital para aparentar cumplimiento inexistente.
+10 (g) Obstruir una auditoría, investigación o requerimiento de información
+11 relacionado con esta Ley.
+12 Artículo 13. — Penalidades administrativas.
+13 DACO podrá imponer las siguientes penalidades administrativas:
+14 (a) A todo operador de una estación de combustible que no se registre en el
+15 Registro Digital dentro del término dispuesto por DACO, multa administrativa no menor
+16 de quinientos dólares ($500) ni mayor de dos mil quinientos dólares ($2,500) por
+17 infracción.
+18 (b) A todo operador de una estación de combustible que incumpla con la
+19 actualización de información requerida, multa administrativa no menor de doscientos
+20 cincuenta dólares ($250) ni mayor de mil dólares ($1,000) por infracción.
+
+13
+1 (c) A toda persona que someta información falsa, engañosa o materialmente
+2 incorrecta, multa administrativa no menor de mil dólares ($1,000) ni mayor de cinco mil
+3 dólares ($5,000) por infracción.
+4 (d) A toda persona que altere, falsifique, remueva o utilice indebidamente un
+5 mecanismo digital de verificación, multa administrativa no menor de dos mil quinientos
+6 dólares ($2,500) ni mayor de diez mil dólares ($10,000) por infracción.
+7 (e) A todo operador de una estación de combustible que publique o mantenga
+8 precios que induzcan a error al consumidor, multa administrativa no menor de
+9 quinientos dólares ($500) ni mayor de cinco mil dólares ($5,000) por infracción, sin
+10 perjuicio de cualquier otra penalidad aplicable bajo leyes o reglamentos de protección al
+11 consumidor.
+12 (f) A toda persona que obstruya una auditoría, investigación o requerimiento de
+13 información relacionado con esta Ley, multa administrativa no menor de mil dólares
+14 ($1,000) ni mayor de cinco mil dólares ($5,000) por infracción.
+15 Cada día de incumplimiento, cada estación afectada, cada dato falso o cada acto
+16 separado podrá constituir una infracción independiente.
+17 DACO podrá emitir advertencias, órdenes de corrección, planes de cumplimiento
+18 o términos de subsanación antes de imponer multas, cuando la infracción sea corregible,
+19 no exista intención fraudulenta y no se afecte sustancialmente al consumidor.
+20 Artículo 14. — Implantación.
+21 DACO implantará esta Ley conforme al siguiente calendario:
+
+14
+1 (a) Dentro de los noventa días siguientes a la aprobación de esta Ley, DACO
+2 publicará una guía preliminar sobre la información requerida para el Registro Digital.
+3 (b) Dentro de los ciento ochenta días siguientes a la aprobación de esta Ley, DACO
+4 habilitará o actualizará el portal electrónico para el registro de estaciones.
+5 (c) Dentro de los doscientos cuarenta días siguientes a la aprobación de esta Ley,
+6 los operadores de estaciones de combustible deberán comenzar el proceso de registro
+7 electrónico o actualización de datos, según corresponda.
+8 (d) Dentro de los trescientos sesenta días siguientes a la aprobación de esta Ley,
+9 DACO deberá tener operativo el perfil digital público de las estaciones registradas.
+10 Durante el periodo inicial de implantación, DACO deberá proveer orientación y
+11 asistencia técnica a los operadores de estaciones de combustible, particularmente a
+12 pequeños operadores y estaciones ubicadas en municipios con acceso limitado a
+13 combustible.
+14 Artículo 15. — Reglamentación.
+15 DACO adoptará la reglamentación necesaria para implementar esta Ley dentro de
+16 un término no mayor de ciento ochenta días contados a partir de su aprobación.
+17 La reglamentación deberá incluir, como mínimo:
+18 (a) Procedimiento de registro electrónico.
+19 (b) Información requerida a los operadores de estaciones de combustible.
+20 (c) Categorías de información pública y confidencial.
+21 (d) Frecuencia y método de actualización de precios.
+22 (e) Diseño del perfil digital de estación.
+
+15
+1 (f) Uso del mecanismo digital de verificación.
+2 (g) Procedimiento de corrección de información.
+3 (h) Mecanismos de protección de datos confidenciales.
+4 (i) Procedimiento de fiscalización y auditoría.
+5 (j) Criterios para imposición de penalidades y medidas correctivas.
+6 Hasta tanto se apruebe la reglamentación final, DACO podrá emitir órdenes
+7 administrativas, cartas circulares o guías provisionales compatibles con esta Ley.
+8 Artículo 16. — Cláusula de no menoscabo.
+9 Nada de lo dispuesto en esta Ley limitará las facultades de DACO bajo su Ley
+10 Orgánica, reglamentos de precios, reglamentos de pesas y medidas, órdenes
+11 administrativas o cualquier otra disposición aplicable a la protección del consumidor y
+12 fiscalización de la industria de combustibles.
+13 Artículo 17. — Separabilidad.
+14 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, inciso, artículo o parte
+15 de esta Ley fuera anulada o declarada inconstitucional por un tribunal con jurisdicción,
+16 la sentencia dictada no afectará ni invalidará las demás disposiciones de esta Ley. El
+17 efecto de dicha sentencia quedará limitado a la disposición que haya sido anulada o
+18 declarada inconstitucional.
+19 Artículo 18. — Vigencia.
+20 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL    c l “ d R D d E d C a f d y m e r e d d d c m s p y c e d c d E P R l v a d d g d y o c i d s l t l a e l l i b s e d c p r y D d A d C t u f c e l m a p r i a d]
+[DELETED:  c l p m y u e u q n e d ó a o d i o p i p p e p c d a e p i l t f d p l e a e e D y d d e c y o i q y r n p l m c c a o j a E e i e d o n p v f e c]
+[DELETED:  t c s o d i p p p o c d d D e f e s n s d D E h d i d f g y r e c l c o d l a y l r d d p a u e m c a p p q i e L e c P R d c c u o a c f l s d p a a m r d s p s i r y m l c d E p a s d o y p i e R D d E d C b l d D c p m d i m d p d c d c d a y u]
+[DELETED:  L s c y p c c l “ d R D d d p p d G d P R m u r e f e D d A d C m b e r e d d d c e o c d m c c p e p u y]
+[DELETED:  “ D — P e a p D p “ c — I c s s d “ d d v — C Q n d v e o h t a p D p c d p p d l d p i ú p o d i d p s p r y e g d]
+[DELETED:  P r p t d c c a l r C o i b q D d m]
+[DELETED:  e m r q i s p y q c u p d p p c e d c A o e p D r c l e c p d n i i c i f p m d g d p p s d p i u m d d v p q e]
+[DELETED:  D l p d v a d d l c q o e l f y m q e e D m r o p u l i d p p o a c p c a s a l g i a y f r c r d d p o p]
+[DELETED:  i a R D l i p r c e i p i s l s s e a r a o m d v d D p u o d u e d c i i e s p d p s c a D m e d o o i a e a c D d a l e d a o m c s]
+[DELETED:  C i i d d t d p e N c m e o m t d c A d s i f e i o E f e p e r y a d]
+[DELETED:  P P o y a t r d l i A m p q e R D s a c y p d c n i q D u d p f d f a i p a e i a o r a o a c]
+[DELETED:  O u a i o r d i A t o d u e d c q n s r e e q d ( n m d d m q d ( p A t o d u e d c q i c l]
+[DELETED:  A t p q s i f e o m A t p q a f r o u i u q i a e a c m a n m d d ( n m d c m d ( p i s]
+[DELETED:  D d l n d s a l a d e L D t a l o d e d c p a o y e u e m c a l a]
+[DELETED:  t s a l r f D p e ó r d p r d p y m ó]

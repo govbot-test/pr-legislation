@@ -1,0 +1,275 @@
+Title: Para enmendar los Artículos 625 y 629 de la Ley Núm. 135 del 14 de noviembre de 1933,
+Official Title: Para enmendar los Artículos 625 y 629 de la Ley Núm. 135 del 14 de noviembre de 1933,
+Number of Sections: 2
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(22 DE JUNIO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 929
+13 de enero de 2026
+Presentado por la señora Soto Aguilú
+Referido a la Comisión de lo Jurídico
+LEY
+según enmendada, conocida como “Código de Enjuiciamiento Civil de Puerto
+Rico”, a los fines de actualizar y fortalecer el procedimiento de desahucio en casos
+relacionados con viviendas públicas administradas por la Administración de
+Vivienda Pública (AVP) y el Departamento de Vivienda Federal (HUD); extender
+los plazos de apelación a veinte (20) días; requerir la culminación obligatoria del
+procedimiento administrativo de "Intención de Cancelación de Contrato de
+Arrendamiento", antes de radicar una demanda de desahucio en tribunales por
+incumplimientos no relacionados con falta de pago; incorporar explícitamente la
+reglamentación federal del Departamento de Vivienda y Desarrollo Urbano de los
+Estados Unidos (HUD) en todo lo concerniente a desahucios en residenciales
+públicos; para que en los casos de desahucio donde el demandado sea un adulto
+mayor, con discapacidades o litigante de forma pauperis, el tribunal notifique
+inmediatamente a la Oficina del Procurador de las Personas de Edad Avanzada y a
+la Defensoría de las Personas con Impedimentos para que brinde apoyo en estos
+casos dentro de sus capacidades; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 86-2011 enmendó los Artículos 625, 629 y 632 del Código de Enjuiciamiento
+Civil de Puerto Rico, con el propósito de acelerar los procedimientos de desahucio y
+fomentar el mercado de arrendamiento de viviendas. Sin embargo, más de una década
+después de su aprobación, esta legislación ha demostrado limitaciones significativas,
+particularmente en el contexto de las viviendas públicas en Puerto Rico. Los residentes
+2
+de residenciales públicos, administrados por la Administración de Vivienda Pública
+(AVP) bajo la supervisión del Departamento de Vivienda y Desarrollo Urbano de los
+Estados Unidos (HUD), enfrentan desafíos únicos que no fueron adecuadamente
+contemplados en las enmiendas introducidas en el 2011.
+El plazo de apelación de cinco (5) días establecido en el Artículo 629 es irreal en la
+práctica, dado que las demandas de desahucio en viviendas públicas a menudo
+involucran múltiples documentos, vistas administrativas previas y complejas
+controversias reglamentarias.
+Esta brevedad impide que los residentes, muchos de los cuales carecen de recursos
+para representación legal inmediata, puedan preparar una apelación adecuada. Además,
+estas secciones no establecen con claridad la obligación de completar el procedimiento
+administrativo reglamentado federalmente antes de radicar una demanda por
+incumplimientos no relacionados con la falta de pago, como violaciones menores de
+reglamentos.
+Sin duda, dicha omisión permite que los agentes administradores inicien acciones
+judiciales prematuras, perpetuando un ciclo de inestabilidad habitacional y
+discriminación contra residentes vulnerables. En el contexto de la crisis de vivienda
+asequible en Puerto Rico, exacerbada por desastres naturales como huracanes y
+terremotos que han afectado más de 725,000 hogares es imperativo proteger los derechos
+de los residentes de viviendas públicas, quienes dependen de subsidios federales y
+enfrentan barreras adicionales como movilidad reducida, falta de conocimiento legal y
+estigmatización social.
+La falta de integración explícita de la reglamentación federal del HUD en estas
+secciones estatales ha generado inconsistencias, permitiendo decisiones judiciales que
+ignoran requisitos federales como el derecho a una audiencia administrativa imparcial
+antes del desahucio (24 C.F.R. § 966.52(a), en relación con 24 C.F.R. §§ 966.54, 966.56 y
+3
+
+Section 2:
+966.57) y protecciones contra discriminación bajo la Ley de Vivienda Justa (Fair Housing
+Act, 42 U.S.C. §§ 3601-3619) y la Ley ADA (42 U.S.C. §§ 12101 et seq.).
+Esto mina la confianza en el sistema judicial y contribuye al deterioro de la calidad
+de vida de miles de familias, como se evidencia en quejas recurrentes de residentes en
+proyectos como los aprobados bajo el programa 5(h) del HUD, donde negligencias
+administrativas agravan la vulnerabilidad. La pieza legislativa que se presenta, busca
+rectificar estas deficiencias mediante una revisión exhaustiva y actualización de los
+artículos y secciones mencionados. Se extienden los plazos de apelación a quince (15) días
+y se incorporan salvaguardas para garantizar el cumplimiento de procedimientos
+administrativos previos en casos de viviendas públicas.
+Asimismo, se especifica la aplicación obligatoria de las normativas federales del
+HUD, asegurando que los desahucios en residenciales públicos se alineen con estándares
+federales de equidad y derechos humanos. Esto no solo beneficiará directamente a los
+residentes afectados, sino que fortalecerá el tejido social de Puerto Rico al promover un
+sistema de justicia más inclusivo, equitativo y respetuoso de los derechos constitucionales
+y federales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 625 de la Ley Núm. 135 del 14 de noviembre
+2 de 1933, según enmendada, conocida como el “Código de Enjuiciamiento Civil de Puerto
+3 Rico de 1933”, para que lea como sigue:
+4 “Artículo 625.- Procedimiento durante el juicio; sentencia.
+5 El día de la comparecencia se celebrará el juicio y en él expondrán por su orden las
+6 partes lo que a su derecho conduzca y formularán en el acto toda la prueba que les
+7 convenga. Terminadas las pruebas, el juez o el tribunal en su caso dictará la sentencia,
+8 declarando haber o no lugar al desahucio, dentro de un término mandatorio no mayor
+4
+1 de diez (10) días laborables. Disponiéndose, que las excepciones previas y todas las que
+2 el demandado haya de alegar deberán aducirse al contestar la demanda.
+3 En casos de desahucio de residentes de viviendas públicas administradas por la
+4 Administración de Vivienda Pública (AVP) o subsidiadas bajo programas del
+5 Departamento de Vivienda y Desarrollo Urbano de los Estados Unidos (HUD), el tribunal
+6 verificará el cumplimiento y culminación del procedimiento administrativo de
+7 notificación de intención de cancelación del contrato de arrendamiento conforme al
+8 Admissions and Continued Occupancy Policy (ACOP) de la AVP y las regulaciones
+9 federales del HUD incluyendo, sin limitarse a, 24 C.F.R. Parte 966, antes de proceder con
+10 la demanda judicial, salvo en casos de incumplimiento por falta de pago en los que
+11 procederá el trámite sumario conforme a derecho y a la reglamentación federal aplicable.
+12 La parte promovente deberá acompañar a la demanda, o presentar en la primera
+13 comparecencia, evidencia documental suficiente que acredite el cumplimiento de los
+14 requisitos administrativos y de notificación aplicables. El incumplimiento con esta
+15 disposición constituirá fundamento para la desestimación sin perjuicio de la demanda.”
+16 Sección 2.- Se enmienda el Artículo 629 de la Ley Núm. 135 del 14 de noviembre
+17 de 1933, según enmendada, conocida como el “Código de Enjuiciamiento Civil de Puerto
+18 Rico de 1933”, para que lea como sigue:
+19 “Artículo 629.- Término para apelar.
+20 Las apelaciones deberán interponerse en el término de, veinte (20) días, contados
+21 desde la fecha de archivo en autos de la notificación de la sentencia, por las partes
+22 perjudicadas por la misma o sus abogados.
+5
+1 En casos de desahucio donde el demandado sea un adulto mayor de 60 años, con
+2 discapacidades o litigante de forma pauperis, el tribunal notificará inmediatamente al
+3 Procurador de las Personas de Edad Avanzada y a la Defensoría de las Personas con
+4 Impedimentos para que brinde apoyo en estos casos dentro de sus capacidades, según
+5 disponga su reglamentación.”
+6 Sección 3.- Cláusula de Separabilidad.
+7 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o
+8 inválida por un tribunal competente, dicha declaración no afectará las demás
+9 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+10 Sección 4.- Esta Ley comenzará a regir inmediatamente después de su aprobación,
+11 y se aplicará a todos los casos pendientes a la fecha de su vigencia, sin efecto retroactivo
+12 que perjudique derechos adquiridos.
+[DELETED: 0 A   3  .r L r e c c “ d E C d P c v p a p l A d a d " d C d C d a d r u d d d e t p U ( e t l c a d e r c d o l d f , e t n d s a e l h d l s]
+[DELETED:  r p a p l A d V P U ( e d ú q n f a d q l d d d e v p a m m d v a p y c r f a d r u d p n r c l f d p c v m d p p u c d i h y c r v E e c d l c d v e P R e p d n c h y l r d v p q d d s f y]
+[DELETED:  c l a b e p 5 d H d n e d m u r e y a d l s i s p g e c d p]
+[DELETED:  d V P ( o s b p d e c y c d p a d d i d c d c d a c a a C O P ( d l A y l r i  d j s e c d i p f d p e l q  p p d a a l d o p e l p e d s q a e c d l a y d n a E i c e-S l f d a e a d l n d l s p l p]
+[DELETED:  ,  c d d e L f d i n o p u t c d d n a l d .]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(22 DE JUNIO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 929
+13 de enero de 2026
+Presentado por la señora Soto Aguilú
+Referido a la Comisión de lo Jurídico
+LEY
+Para enmendar los Artículos 625 y 629 de la Ley Núm. 135 del 14 de noviembre de 1933,
+según enmendada, conocida como “Código de Enjuiciamiento Civil de Puerto
+Rico”, a los fines de actualizar y fortalecer el procedimiento de desahucio en casos
+relacionados con viviendas públicas administradas por la Administración de
+Vivienda Pública (AVP) y el Departamento de Vivienda Federal (HUD); extender
+los plazos de apelación a veinte (20) días; requerir la culminación obligatoria del
+procedimiento administrativo de "Intención de Cancelación de Contrato de
+Arrendamiento", antes de radicar una demanda de desahucio en tribunales por
+incumplimientos no relacionados con falta de pago; incorporar explícitamente la
+reglamentación federal del Departamento de Vivienda y Desarrollo Urbano de los
+Estados Unidos (HUD) en todo lo concerniente a desahucios en residenciales
+públicos; para que en los casos de desahucio donde el demandado sea un adulto
+mayor, con discapacidades o litigante de forma pauperis, el tribunal notifique
+inmediatamente a la Oficina del Procurador de las Personas de Edad Avanzada y a
+la Defensoría de las Personas con Impedimentos para que brinde apoyo en estos
+casos dentro de sus capacidades; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 86-2011 enmendó los Artículos 625, 629 y 632 del Código de Enjuiciamiento
+Civil de Puerto Rico, con el propósito de acelerar los procedimientos de desahucio y
+fomentar el mercado de arrendamiento de viviendas. Sin embargo, más de una década
+después de su aprobación, esta legislación ha demostrado limitaciones significativas,
+particularmente en el contexto de las viviendas públicas en Puerto Rico. Los residentes
+
+2
+de residenciales públicos, administrados por la Administración de Vivienda Pública
+(AVP) bajo la supervisión del Departamento de Vivienda y Desarrollo Urbano de los
+Estados Unidos (HUD), enfrentan desafíos únicos que no fueron adecuadamente
+contemplados en las enmiendas introducidas en el 2011.
+El plazo de apelación de cinco (5) días establecido en el Artículo 629 es irreal en la
+práctica, dado que las demandas de desahucio en viviendas públicas a menudo
+involucran múltiples documentos, vistas administrativas previas y complejas
+controversias reglamentarias.
+Esta brevedad impide que los residentes, muchos de los cuales carecen de recursos
+para representación legal inmediata, puedan preparar una apelación adecuada. Además,
+estas secciones no establecen con claridad la obligación de completar el procedimiento
+administrativo reglamentado federalmente antes de radicar una demanda por
+incumplimientos no relacionados con la falta de pago, como violaciones menores de
+reglamentos.
+Sin duda, dicha omisión permite que los agentes administradores inicien acciones
+judiciales prematuras, perpetuando un ciclo de inestabilidad habitacional y
+discriminación contra residentes vulnerables. En el contexto de la crisis de vivienda
+asequible en Puerto Rico, exacerbada por desastres naturales como huracanes y
+terremotos que han afectado más de 725,000 hogares es imperativo proteger los derechos
+de los residentes de viviendas públicas, quienes dependen de subsidios federales y
+enfrentan barreras adicionales como movilidad reducida, falta de conocimiento legal y
+estigmatización social.
+La falta de integración explícita de la reglamentación federal del HUD en estas
+secciones estatales ha generado inconsistencias, permitiendo decisiones judiciales que
+ignoran requisitos federales como el derecho a una audiencia administrativa imparcial
+antes del desahucio (24 C.F.R. § 966.52(a), en relación con 24 C.F.R. §§ 966.54, 966.56 y
+
+3
+966.57) y protecciones contra discriminación bajo la Ley de Vivienda Justa (Fair Housing
+Act, 42 U.S.C. §§ 3601-3619) y la Ley ADA (42 U.S.C. §§ 12101 et seq.).
+Esto mina la confianza en el sistema judicial y contribuye al deterioro de la calidad
+de vida de miles de familias, como se evidencia en quejas recurrentes de residentes en
+proyectos como los aprobados bajo el programa 5(h) del HUD, donde negligencias
+administrativas agravan la vulnerabilidad. La pieza legislativa que se presenta, busca
+rectificar estas deficiencias mediante una revisión exhaustiva y actualización de los
+artículos y secciones mencionados. Se extienden los plazos de apelación a quince (15) días
+y se incorporan salvaguardas para garantizar el cumplimiento de procedimientos
+administrativos previos en casos de viviendas públicas.
+Asimismo, se especifica la aplicación obligatoria de las normativas federales del
+HUD, asegurando que los desahucios en residenciales públicos se alineen con estándares
+federales de equidad y derechos humanos. Esto no solo beneficiará directamente a los
+residentes afectados, sino que fortalecerá el tejido social de Puerto Rico al promover un
+sistema de justicia más inclusivo, equitativo y respetuoso de los derechos constitucionales
+y federales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 625 de la Ley Núm. 135 del 14 de noviembre
+2 de 1933, según enmendada, conocida como el “Código de Enjuiciamiento Civil de Puerto
+3 Rico de 1933”, para que lea como sigue:
+4 “Artículo 625.- Procedimiento durante el juicio; sentencia.
+5 El día de la comparecencia se celebrará el juicio y en él expondrán por su orden las
+6 partes lo que a su derecho conduzca y formularán en el acto toda la prueba que les
+7 convenga. Terminadas las pruebas, el juez o el tribunal en su caso dictará la sentencia,
+8 declarando haber o no lugar al desahucio, dentro de un término mandatorio no mayor
+
+4
+1 de diez (10) días laborables. Disponiéndose, que las excepciones previas y todas las que
+2 el demandado haya de alegar deberán aducirse al contestar la demanda.
+3 En casos de desahucio de residentes de viviendas públicas administradas por la
+4 Administración de Vivienda Pública (AVP) o subsidiadas bajo programas del
+5 Departamento de Vivienda y Desarrollo Urbano de los Estados Unidos (HUD), el tribunal
+6 verificará el cumplimiento y culminación del procedimiento administrativo de
+7 notificación de intención de cancelación del contrato de arrendamiento conforme al
+8 Admissions and Continued Occupancy Policy (ACOP) de la AVP y las regulaciones
+9 federales del HUD incluyendo, sin limitarse a, 24 C.F.R. Parte 966, antes de proceder con
+10 la demanda judicial, salvo en casos de incumplimiento por falta de pago en los que
+11 procederá el trámite sumario conforme a derecho y a la reglamentación federal aplicable.
+12 La parte promovente deberá acompañar a la demanda, o presentar en la primera
+13 comparecencia, evidencia documental suficiente que acredite el cumplimiento de los
+14 requisitos administrativos y de notificación aplicables. El incumplimiento con esta
+15 disposición constituirá fundamento para la desestimación sin perjuicio de la demanda.”
+16 Sección 2.- Se enmienda el Artículo 629 de la Ley Núm. 135 del 14 de noviembre
+17 de 1933, según enmendada, conocida como el “Código de Enjuiciamiento Civil de Puerto
+18 Rico de 1933”, para que lea como sigue:
+19 “Artículo 629.- Término para apelar.
+20 Las apelaciones deberán interponerse en el término de, veinte (20) días, contados
+21 desde la fecha de archivo en autos de la notificación de la sentencia, por las partes
+22 perjudicadas por la misma o sus abogados.
+
+5
+1 En casos de desahucio donde el demandado sea un adulto mayor de 60 años, con
+2 discapacidades o litigante de forma pauperis, el tribunal notificará inmediatamente al
+3 Procurador de las Personas de Edad Avanzada y a la Defensoría de las Personas con
+4 Impedimentos para que brinde apoyo en estos casos dentro de sus capacidades, según
+5 disponga su reglamentación.”
+6 Sección 3.- Cláusula de Separabilidad.
+7 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o
+8 inválida por un tribunal competente, dicha declaración no afectará las demás
+9 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+10 Sección 4.- Esta Ley comenzará a regir inmediatamente después de su aprobación,
+11 y se aplicará a todos los casos pendientes a la fecha de su vigencia, sin efecto retroactivo
+12 que perjudique derechos adquiridos.
+
+[DELETED: 0 A   3  .r L r e c c “ d E C d P c v p a p l A d a d " d C d C d a d r u d d d e t p U ( e t l c a d e r c d o l d f , e t n d s a e l h d l s]
+[DELETED:  r p a p l A d V P U ( e d ú q n f a d q l d d d e v p a m m d v a p y c r f a d r u d p n r c l f d p c v m d p p u c d i h y c r v E e c d l c d v e P R e p d n c h y l r d v p q d d s f y]
+[DELETED:  c l a b e p 5 d H d n e d m u r e y a d l s i s p g e c d p]
+[DELETED:  d V P ( o s b p d e c y c d p a d d i d c d c d a c a a C O P ( d l A y l r i  d j s e c d i p f d p e l q  p p d a a l d o p e l p e d s q a e c d l a y d n a E i c e-S l f d a e a d l n d l s p l p]
+[DELETED:  ,  c d d e L f d i n o p u t c d d n a l d .]
