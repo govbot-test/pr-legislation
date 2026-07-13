@@ -1,0 +1,452 @@
+Title: Referido a las Comisiones de Salud; y de Banca, Seguros y Comercio
+Official Title: Referido a las Comisiones de Salud; y de Banca, Seguros y Comercio
+Number of Sections: 1
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+(ENTIRILLADO ELECTRÓNICO)
+(TEXTO DE APROBACIÓN FINAL POR LA CÁMARA)
+(16 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 1ra. Sesión
+Legislativa Ordinaria
+CÁMARA DE REPRESENTANTES
+P. de la C. 348
+24 DE FEBRERO DE 2025
+Presentado por la representante Higgins Cuadrado
+y suscrito por la representante Martínez Soto
+LEY
+Para enmendar el inciso (S) del Artículo 26.060 de la Ley Núm. 194-2011, según
+enmendada, mejor conocida como “Código de Seguros de Salud de Puerto Rico”,
+a los fines de establecer que la responsabilidad de la coordinación de beneficios es
+una mancomunadamente compartida de las organizaciones de seguros de salud o
+aseguradores, de sus intermediarios y de los proveedores participantes y cuáles
+serán los parámetros para tramitar la coordinación de beneficios de servicios de
+salud de los pacientes; añadir los sub-incisos 14 y 15 al inciso (a) del Artículo 17 de
+la Ley 194-2000, según enmendada, conocida como “Carta de Derechos y
+Responsabilidades del Paciente”, a los fines de proveer alternativas para que el
+paciente, asegurado o consumidor pueda presentar querellas administrativas;
+requerir la redacción de un Reglamento conforme a los parámetros de esta Ley y
+establecer campaña educativa; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La coordinación de beneficios es de suma importancia para el paciente que cuenta
+con dos o más seguros de salud o planes de salud en cuanto a servicios de salud se refiere.
+La coordinación de beneficios permite que el plan primario pague la reclamación de
+servicios médicos y si la persona tiene un plan secundario, este paga los copagos,
+2
+deducibles y coaseguros que el plan primario no cubre y son responsabilidad del
+asegurado o suscriptor del plan primario. Esto es, la coordinación de beneficios permite
+que el asegurado que cuenta con más de un plan médico, en la mayoría de los casos, no
+tiene que hacer desembolsos para pagar deducibles, copagos y coaseguros, lo cual le
+representa un ahorro al paciente.
+Actualmente, existen discrepancias entre si son los proveedores de servicios de
+salud los que deben hacer la coordinación de servicios o si son las aseguradoras, las
+organizaciones de servicios de salud o las organizaciones para el mantenimiento de la
+salud quienes deben hacer los mismos. El problema actual en esta controversia reside en
+que, al no aceptar el proveedor la coordinación de beneficios, el paciente muchas veces
+se ve en la obligación de pagar los deducibles, coaseguros y copagos, para que entonces
+sea el propio paciente el que solicite el reembolso al asegurador. Respetuosamente
+entendemos que esta responsabilidad no debe ser impuesta al paciente quien solamente
+lo que busca es quien le brinde los servicios médicos cuando los necesita.
+Como en Puerto Rico existe una gran cantidad de personas que se encuentran
+cubiertas por dos (2) o más seguros de salud o planes de salud, con esta Ley también se
+provee para que en caso de que el paciente esté suscrito en un plan de salud privado y a
+su vez en el Plan de Salud Gubernamental, el Plan de Salud del Gobierno de Puerto Rico
+será siempre el plan secundario a utilizarse, lo cual redunda en beneficios para el erario
+público en donde se evite que el mismo sea facturado erróneamente por servicios que se
+supone sean cubiertos por el plan primario del asegurado. En adición, como parte de las
+disposiciones de las pólizas de seguro y planes de salud, es estándar en la industria de
+seguros de salud, que se establezca la cláusula de coordinación de beneficios que sigue la
+Ley Modelo promovida por la National Association of Insurance Commissioners (NAIC) y la
+regla de Medicare as Secondary Payer expedida por el Centers for Medicare and Medicaid
+Services (CMS). Entendemos que con esta Ley adaptamos en nuestra jurisdicción el
+cumplimiento de dichas disposiciones legales y, a su vez, mejoramos los accesos a los
+servicios de salud. El proveedor participante podrá hacer la coordinación de beneficios
+de forma electrónica cumpliendo con la Regla de Códigos y Transacciones bajo la Ley
+Federal Health Insurance Portability and Accountability Act de 1996 (HIPAA) o en papel.
+Además, se clarifica en el Código de Seguros de Salud de Puerto Rico que en aquellos
+casos en donde el asegurado se encuentre cubierto bajo dos (2) o más planes médicos, la
+responsabilidad de la coordinación de beneficios es una mancomunadamente
+compartida de las organizaciones de seguros de salud o aseguradores, de sus
+intermediarios y de los proveedores participantes.
+Por tanto, la Asamblea Legislativa entiende meritoria la aprobación de esta Ley,
+en donde se establece que la promoción del acceso a los servicios de salud es de vital
+importancia. Es por ello, que con esta Ley se promueve que el asegurado, beneficiario o
+suscriptor tenga la obligación de dar al proveedor participante la información sobre todos
+los seguros de salud que posea y se establece la obligación de que una vez proveedor
+3
+participante comience con el proceso de coordinación de los beneficios entre los distintos
+planes o seguros de salud que cubren al asegurado, se agilicen los procesos de
+coordinación de beneficios ante la responsabilidad mancomunadamente compartida que
+se establece al amparo de esta Ley de las organizaciones de seguros de salud o
+aseguradores, de sus intermediarios y de los proveedores participantes. De esta manera,
+promovemos una mejor utilización de los planes médicos; y sobretodo, del Plan de Salud
+Gubernamental, en el caso de que el participante posea el Plan de Salud Gubernamental
+en adición de un plan médico privado.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.-Se enmienda el inciso (S) del Artículo 26.060 de la Ley 194-2011, según
+2 enmendada, mejor conocida como “Código de Seguros de Salud de Puerto Rico”, para
+3 que se lea como sigue:
+4 “Artículo 26.060.- Requisitos para las Organizaciones de Seguros de Salud o
+5 Aseguradores y los Proveedores Participantes
+6 Las organizaciones de seguros de salud o aseguradores que ofrezcan planes de
+7 cuidado coordinado deberán satisfacer todos los requisitos siguientes:
+8 A) …
+9 B) …
+10 …
+11 S) Las organizaciones de seguros de salud o aseguradores incluirán en sus
+12 contratos con los proveedores participantes los parámetros para tramitar la
+13 coordinación de beneficios de servicios de salud de los pacientes, los cuales se
+14 regirán por la reglamentación que a estos efectos establezca el Comisionado
+15 tomando como base la Ley Modelo vigente de la Asociación Nacional de
+16 Comisionados de Seguros (NAIC, por sus siglas en inglés) y las leyes federales
+4
+1 sobre coordinación de beneficios. Se establece que en aquellos casos en que la
+2 persona cubierta o asegurado esté cubierto bajo dos (2) o más planes médicos,
+3 la responsabilidad de la coordinación de beneficios es una
+4 mancomunadamente compartida de las organizaciones de seguros de salud o
+5 aseguradores, de sus intermediarios y de los proveedores participantes.
+6 Disponiéndose que contarán con un término máximo de treinta (30) días para
+7 completar los procesos de coordinación de beneficios, a partir del momento que
+8 recibieron la totalidad de información y documentación necesaria”
+9 Sección 2.-Se añaden los sub-incisos 14 y 15 al inciso (a) del Artículo 17 de la Ley
+10 194-2000, según enmendada, mejor conocida como la “Carta de Derechos y
+11 Responsabilidades del Paciente”, para que se lean como sigue:
+12 “Artículo 17.-Querellas y procedimientos relacionados
+13 (a) Todo paciente, tutor, asegurado, usuario o consumidor de servicios y
+14 facilidades de salud que considere que se le han violado sus derechos o
+15 los de su tutelado, bajo la presente Ley, podrá presentar una querella
+16 administrativa contra el proveedor o asegurador o tercero
+17 administrador o intermediario en cuestión ante el Departamento, en
+18 asuntos como los siguientes:
+19 1. . . .
+20 …
+21 14. Cuando un proveedor se niega a efectuar la coordinación de beneficios
+22 o un asegurador o tercero administrador o intermediario obstaculiza o
+5
+1 rehúsa sin justificación válida el colaborar en la gestión de la
+2 coordinación de beneficios.
+3 15. Cuando una organización dedicada al cuidado de la salud, sin
+4 fundamento válido, obstaculiza o se rehúsa a cooperar en la
+5 coordinación de beneficios.
+6 (b) Una vez sea instada la querella en el Departamento, este determinará si el
+7 asunto que se presenta a su consideración es de su competencia o de la
+8 competencia del Comisionado o de la Administración de Seguros de Salud, y
+9 los referirá según corresponda. Se entenderá que son de la competencia del
+10 Comisionado aquellos asuntos que envuelvan controversias de cubierta o de
+11 derechos que emanen de las disposiciones de un plan de cuidado de salud o
+12 que, sin constituir violaciones de los derechos bajo esta Ley, representan
+13 conducta impropia o prácticas desleales por parte de una entidad aseguradora
+14 de conformidad con las disposiciones del Código de Seguros de Salud de
+15 Puerto Rico o del Código de Seguros de Puerto Rico. Se entenderá que son de
+16 la competencia de la Administración de Seguros de Salud aquellos casos en
+17 los cuales corresponda su trámite de conformidad con las disposiciones de la
+18 Ley 72-1993, según enmendada, conocida como “Ley de la Administración de
+19 Seguros de Salud de Puerto Rico (A.S.E.S.)”. En todos los demás casos, el
+20 Departamento atenderá la querella.
+21 El Departamento de Salud, la Administración de Salud y la Oficina del
+22 Comisionado de Seguros de Puerto Rico tendrán facultad, como parte de dicho
+6
+1 procedimiento de querellas, para imponer las multas autorizadas en el Artículo 19
+2 de esta Ley y de acuerdo a las disposiciones de la Ley 38-2017, según enmendada,
+3 conocida como la “Ley de Procedimiento Administrativo Uniforme del Gobierno
+4 de Puerto Rico” o cualquier Ley posterior que sustituya la misma. Toda querella
+5 deberá ser atendida inmediatamente.”
+6 Sección 3.-Reglamentación
+7 Se ordena a la Oficina del Comisionado de Seguros de Puerto Rico a redactar un
+8 Reglamento de acuerdo con lo requerido en esta Ley y utilizando los siguientes
+9 parámetros que deberán ser establecidos dentro de dicha reglamentación, los cuales son:
+10 a) Utilizar como guía, en lo pertinente, la Ley Modelo vigente de la Asociación
+11 Nacional de Comisionados de Seguros (NAIC, por sus siglas en inglés)
+12 relacionada con la coordinación de beneficios;
+13 b) Prohibir a los proveedores participantes negarse a hacer coordinación de
+14 beneficios o proveer el servicio condicionado a que el paciente gestione el
+15 reembolso con el asegurador u organización de servicios de salud o exigir al
+16 paciente que gestione el reembolso de su dinero, así como las penalidades por
+17 incumplimiento;
+18 c) Establecer que el Plan de Salud Gubernamental, el cual es administrado por la
+19 Administración de Seguros de Salud de Puerto Rico (ASES) bajo el Programa
+20 Medicaid Federal, será el pagador de último recurso (payer of last resort);
+21 d) Establecer los deberes y responsabilidades específicas por parte de las
+22 organizaciones de seguros de salud o aseguradores, terceros administradores
+7
+1 o intermediarios, de los proveedores participantes y de los asegurados en
+2 cuanto al proceso de coordinación de beneficios velando por el cumplimiento con
+3 los estándares de la Ley HIPAA durante el proceso;
+4 e) Establecer que todo asegurador, tercero administrador o intermediario,
+5 organización de servicios de salud u organización para el mantenimiento de la
+6 salud según definidas en la Ley 101 de 26 de junio de 1965, mejor conocida
+7 como la “Ley de Facilidades de Salud y Bienestar Social”, tendrá en sus
+8 contratos de seguros o planes de salud de índole comercial un resumen
+9 adecuado de la cláusula de coordinación de beneficios;
+10 f) Establecer la responsabilidad del asegurado de informar y suministrar la
+11 información sobre los planes médicos que posee a los proveedores
+12 participantes al momento de solicitar o necesitar un servicio médico;
+13 g) Establecer en los procesos de coordinación de beneficios, cuando existan
+14 procedimientos que requieran preautorizaciones del plan primario, los
+15 procedimientos, términos y condiciones de aprobación o rechazo del plan
+16 primario y el proceso de solicitud, términos y condiciones de aprobación o
+17 rechazo de dichas preautorizaciones dentro del plan secundario, de ser la
+18 misma necesaria;
+19 h) Establecer los procedimientos de facturación por parte de los proveedores
+20 participantes cuando exista coordinación de beneficios tanto del plan primario
+21 como del plan secundario; cómo proceden las denegaciones de pago por parte
+8
+1 de los planes, sean primarios o secundarios, y cuándo comienzan a correr los
+2 términos de facturación al plan secundario; y
+3 i) cualquier otro asunto que el Comisionado de Seguros de Puerto Rico entienda
+4 pertinente incluir en dicha reglamentación, siempre y cuando el lenguaje a
+5 incluir no menoscabe los parámetros y requerimientos de política pública
+6 establecidos al amparo de esta Ley.
+7 Sección 4.-Campaña educativa
+8 Previo a la efectividad de las disposiciones de esta Ley, será responsabilidad de
+9 las organizaciones de servicios de salud, los terceros administradores o intermediarios,
+10 los Healthcare Clearinghouses y los aseguradores de salud e incapacidad, orientar al
+11 asegurado, beneficiario o suscriptor y a los proveedores de servicios de salud sobre la
+12 coordinación de beneficios. Estas campañas educativas deberán realizarse de manera continua
+13 y periódica bajo la supervisión de la Oficina del Comisionado de Seguros.
+14 Sección 5.-Vigencia
+15 Esta Ley comenzará a regir inmediatamente luego de su aprobación. No obstante,
+16 se le brinda un término no mayor de noventa (90) días una vez aprobada esta Ley, para
+17 la preparación y redacción del Reglamento requerido al amparo de la Sección 3 de esta
+18 Ley.
+[DELETED: .S e e i ( d A 2 d l L N 1 s L 1 s e c c “ d D y a o c p p q a d p d m y s l p t u p s e p l c]
+[DELETED:  y c q e p p n c y s r doe e p p e q s e r a a R  ()sN  rC( E q c e L a e n j e  ()tH d l c d b e u m d l o d s d s o a d s]
+[DELETED:  o s d s q c a a s a l p d e a a d e L d l o d s d s o 2 R p l O d S d S o)…)… L o d s d s o a i e s c b l L M v d l A N d]
+[DELETED:  r d l c d b e u d s i y d l p p q c c u t m d t ( d p l p d c d b a p d m q s e m c c l “ d D y Tdq c e p o a o t c a D .. C]
+[DELETED:  s j v e c e l g d l C u o d a c d l s s v o o s r a c e l U q s p a s c e d s c o d l s c v d l d b e L r d]
+[DELETED:  d a c l r e e L y u l s)U d C d S () p s s e i)P a l p p n a h c d o p e s c a q e p g e)E)E l d y r e p p d l]
+[DELETED:  i d l p p y d l a e)E q t a t a o i l “ d F d S y B S t e s d s o p d s d í c u r)E l r d a d i y s l s l p m q p a l p)E e l p d c d b c e q r p d p p l t y c d a o r d p d d p d d p s d s l)E l p d f p p d l p]
+[DELETED: )c d r s y l n m l p y r d p p  y l a d s e i o a C]
+
+
+================================================================================
+
+Raw Text:
+(ENTIRILLADO ELECTRÓNICO)
+(TEXTO DE APROBACIÓN FINAL POR LA CÁMARA)
+(16 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 1ra. Sesión
+Legislativa Ordinaria
+CÁMARA DE REPRESENTANTES
+P. de la C. 348
+24 DE FEBRERO DE 2025
+Presentado por la representante Higgins Cuadrado
+y suscrito por la representante Martínez Soto
+Referido a las Comisiones de Salud; y de Banca, Seguros y Comercio
+LEY
+Para enmendar el inciso (S) del Artículo 26.060 de la Ley Núm. 194-2011, según
+enmendada, mejor conocida como “Código de Seguros de Salud de Puerto Rico”,
+a los fines de establecer que la responsabilidad de la coordinación de beneficios es
+una mancomunadamente compartida de las organizaciones de seguros de salud o
+aseguradores, de sus intermediarios y de los proveedores participantes y cuáles
+serán los parámetros para tramitar la coordinación de beneficios de servicios de
+salud de los pacientes; añadir los sub-incisos 14 y 15 al inciso (a) del Artículo 17 de
+la Ley 194-2000, según enmendada, conocida como “Carta de Derechos y
+Responsabilidades del Paciente”, a los fines de proveer alternativas para que el
+paciente, asegurado o consumidor pueda presentar querellas administrativas;
+requerir la redacción de un Reglamento conforme a los parámetros de esta Ley y
+establecer campaña educativa; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La coordinación de beneficios es de suma importancia para el paciente que cuenta
+con dos o más seguros de salud o planes de salud en cuanto a servicios de salud se refiere.
+La coordinación de beneficios permite que el plan primario pague la reclamación de
+servicios médicos y si la persona tiene un plan secundario, este paga los copagos,
+
+2
+deducibles y coaseguros que el plan primario no cubre y son responsabilidad del
+asegurado o suscriptor del plan primario. Esto es, la coordinación de beneficios permite
+que el asegurado que cuenta con más de un plan médico, en la mayoría de los casos, no
+tiene que hacer desembolsos para pagar deducibles, copagos y coaseguros, lo cual le
+representa un ahorro al paciente.
+Actualmente, existen discrepancias entre si son los proveedores de servicios de
+salud los que deben hacer la coordinación de servicios o si son las aseguradoras, las
+organizaciones de servicios de salud o las organizaciones para el mantenimiento de la
+salud quienes deben hacer los mismos. El problema actual en esta controversia reside en
+que, al no aceptar el proveedor la coordinación de beneficios, el paciente muchas veces
+se ve en la obligación de pagar los deducibles, coaseguros y copagos, para que entonces
+sea el propio paciente el que solicite el reembolso al asegurador. Respetuosamente
+entendemos que esta responsabilidad no debe ser impuesta al paciente quien solamente
+lo que busca es quien le brinde los servicios médicos cuando los necesita.
+Como en Puerto Rico existe una gran cantidad de personas que se encuentran
+cubiertas por dos (2) o más seguros de salud o planes de salud, con esta Ley también se
+provee para que en caso de que el paciente esté suscrito en un plan de salud privado y a
+su vez en el Plan de Salud Gubernamental, el Plan de Salud del Gobierno de Puerto Rico
+será siempre el plan secundario a utilizarse, lo cual redunda en beneficios para el erario
+público en donde se evite que el mismo sea facturado erróneamente por servicios que se
+supone sean cubiertos por el plan primario del asegurado. En adición, como parte de las
+disposiciones de las pólizas de seguro y planes de salud, es estándar en la industria de
+seguros de salud, que se establezca la cláusula de coordinación de beneficios que sigue la
+Ley Modelo promovida por la National Association of Insurance Commissioners (NAIC) y la
+regla de Medicare as Secondary Payer expedida por el Centers for Medicare and Medicaid
+Services (CMS). Entendemos que con esta Ley adaptamos en nuestra jurisdicción el
+cumplimiento de dichas disposiciones legales y, a su vez, mejoramos los accesos a los
+servicios de salud. El proveedor participante podrá hacer la coordinación de beneficios
+de forma electrónica cumpliendo con la Regla de Códigos y Transacciones bajo la Ley
+Federal Health Insurance Portability and Accountability Act de 1996 (HIPAA) o en papel.
+Además, se clarifica en el Código de Seguros de Salud de Puerto Rico que en aquellos
+casos en donde el asegurado se encuentre cubierto bajo dos (2) o más planes médicos, la
+responsabilidad de la coordinación de beneficios es una mancomunadamente
+compartida de las organizaciones de seguros de salud o aseguradores, de sus
+intermediarios y de los proveedores participantes.
+Por tanto, la Asamblea Legislativa entiende meritoria la aprobación de esta Ley,
+en donde se establece que la promoción del acceso a los servicios de salud es de vital
+importancia. Es por ello, que con esta Ley se promueve que el asegurado, beneficiario o
+suscriptor tenga la obligación de dar al proveedor participante la información sobre todos
+los seguros de salud que posea y se establece la obligación de que una vez proveedor
+
+3
+participante comience con el proceso de coordinación de los beneficios entre los distintos
+planes o seguros de salud que cubren al asegurado, se agilicen los procesos de
+coordinación de beneficios ante la responsabilidad mancomunadamente compartida que
+se establece al amparo de esta Ley de las organizaciones de seguros de salud o
+aseguradores, de sus intermediarios y de los proveedores participantes. De esta manera,
+promovemos una mejor utilización de los planes médicos; y sobretodo, del Plan de Salud
+Gubernamental, en el caso de que el participante posea el Plan de Salud Gubernamental
+en adición de un plan médico privado.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.-Se enmienda el inciso (S) del Artículo 26.060 de la Ley 194-2011, según
+2 enmendada, mejor conocida como “Código de Seguros de Salud de Puerto Rico”, para
+3 que se lea como sigue:
+4 “Artículo 26.060.- Requisitos para las Organizaciones de Seguros de Salud o
+5 Aseguradores y los Proveedores Participantes
+6 Las organizaciones de seguros de salud o aseguradores que ofrezcan planes de
+7 cuidado coordinado deberán satisfacer todos los requisitos siguientes:
+8 A) …
+9 B) …
+10 …
+11 S) Las organizaciones de seguros de salud o aseguradores incluirán en sus
+12 contratos con los proveedores participantes los parámetros para tramitar la
+13 coordinación de beneficios de servicios de salud de los pacientes, los cuales se
+14 regirán por la reglamentación que a estos efectos establezca el Comisionado
+15 tomando como base la Ley Modelo vigente de la Asociación Nacional de
+16 Comisionados de Seguros (NAIC, por sus siglas en inglés) y las leyes federales
+
+4
+1 sobre coordinación de beneficios. Se establece que en aquellos casos en que la
+2 persona cubierta o asegurado esté cubierto bajo dos (2) o más planes médicos,
+3 la responsabilidad de la coordinación de beneficios es una
+4 mancomunadamente compartida de las organizaciones de seguros de salud o
+5 aseguradores, de sus intermediarios y de los proveedores participantes.
+6 Disponiéndose que contarán con un término máximo de treinta (30) días para
+7 completar los procesos de coordinación de beneficios, a partir del momento que
+8 recibieron la totalidad de información y documentación necesaria”
+9 Sección 2.-Se añaden los sub-incisos 14 y 15 al inciso (a) del Artículo 17 de la Ley
+10 194-2000, según enmendada, mejor conocida como la “Carta de Derechos y
+11 Responsabilidades del Paciente”, para que se lean como sigue:
+12 “Artículo 17.-Querellas y procedimientos relacionados
+13 (a) Todo paciente, tutor, asegurado, usuario o consumidor de servicios y
+14 facilidades de salud que considere que se le han violado sus derechos o
+15 los de su tutelado, bajo la presente Ley, podrá presentar una querella
+16 administrativa contra el proveedor o asegurador o tercero
+17 administrador o intermediario en cuestión ante el Departamento, en
+18 asuntos como los siguientes:
+19 1. . . .
+20 …
+21 14. Cuando un proveedor se niega a efectuar la coordinación de beneficios
+22 o un asegurador o tercero administrador o intermediario obstaculiza o
+
+5
+1 rehúsa sin justificación válida el colaborar en la gestión de la
+2 coordinación de beneficios.
+3 15. Cuando una organización dedicada al cuidado de la salud, sin
+4 fundamento válido, obstaculiza o se rehúsa a cooperar en la
+5 coordinación de beneficios.
+6 (b) Una vez sea instada la querella en el Departamento, este determinará si el
+7 asunto que se presenta a su consideración es de su competencia o de la
+8 competencia del Comisionado o de la Administración de Seguros de Salud, y
+9 los referirá según corresponda. Se entenderá que son de la competencia del
+10 Comisionado aquellos asuntos que envuelvan controversias de cubierta o de
+11 derechos que emanen de las disposiciones de un plan de cuidado de salud o
+12 que, sin constituir violaciones de los derechos bajo esta Ley, representan
+13 conducta impropia o prácticas desleales por parte de una entidad aseguradora
+14 de conformidad con las disposiciones del Código de Seguros de Salud de
+15 Puerto Rico o del Código de Seguros de Puerto Rico. Se entenderá que son de
+16 la competencia de la Administración de Seguros de Salud aquellos casos en
+17 los cuales corresponda su trámite de conformidad con las disposiciones de la
+18 Ley 72-1993, según enmendada, conocida como “Ley de la Administración de
+19 Seguros de Salud de Puerto Rico (A.S.E.S.)”. En todos los demás casos, el
+20 Departamento atenderá la querella.
+21 El Departamento de Salud, la Administración de Salud y la Oficina del
+22 Comisionado de Seguros de Puerto Rico tendrán facultad, como parte de dicho
+
+6
+1 procedimiento de querellas, para imponer las multas autorizadas en el Artículo 19
+2 de esta Ley y de acuerdo a las disposiciones de la Ley 38-2017, según enmendada,
+3 conocida como la “Ley de Procedimiento Administrativo Uniforme del Gobierno
+4 de Puerto Rico” o cualquier Ley posterior que sustituya la misma. Toda querella
+5 deberá ser atendida inmediatamente.”
+6 Sección 3.-Reglamentación
+7 Se ordena a la Oficina del Comisionado de Seguros de Puerto Rico a redactar un
+8 Reglamento de acuerdo con lo requerido en esta Ley y utilizando los siguientes
+9 parámetros que deberán ser establecidos dentro de dicha reglamentación, los cuales son:
+10 a) Utilizar como guía, en lo pertinente, la Ley Modelo vigente de la Asociación
+11 Nacional de Comisionados de Seguros (NAIC, por sus siglas en inglés)
+12 relacionada con la coordinación de beneficios;
+13 b) Prohibir a los proveedores participantes negarse a hacer coordinación de
+14 beneficios o proveer el servicio condicionado a que el paciente gestione el
+15 reembolso con el asegurador u organización de servicios de salud o exigir al
+16 paciente que gestione el reembolso de su dinero, así como las penalidades por
+17 incumplimiento;
+18 c) Establecer que el Plan de Salud Gubernamental, el cual es administrado por la
+19 Administración de Seguros de Salud de Puerto Rico (ASES) bajo el Programa
+20 Medicaid Federal, será el pagador de último recurso (payer of last resort);
+21 d) Establecer los deberes y responsabilidades específicas por parte de las
+22 organizaciones de seguros de salud o aseguradores, terceros administradores
+
+7
+1 o intermediarios, de los proveedores participantes y de los asegurados en
+2 cuanto al proceso de coordinación de beneficios velando por el cumplimiento con
+3 los estándares de la Ley HIPAA durante el proceso;
+4 e) Establecer que todo asegurador, tercero administrador o intermediario,
+5 organización de servicios de salud u organización para el mantenimiento de la
+6 salud según definidas en la Ley 101 de 26 de junio de 1965, mejor conocida
+7 como la “Ley de Facilidades de Salud y Bienestar Social”, tendrá en sus
+8 contratos de seguros o planes de salud de índole comercial un resumen
+9 adecuado de la cláusula de coordinación de beneficios;
+10 f) Establecer la responsabilidad del asegurado de informar y suministrar la
+11 información sobre los planes médicos que posee a los proveedores
+12 participantes al momento de solicitar o necesitar un servicio médico;
+13 g) Establecer en los procesos de coordinación de beneficios, cuando existan
+14 procedimientos que requieran preautorizaciones del plan primario, los
+15 procedimientos, términos y condiciones de aprobación o rechazo del plan
+16 primario y el proceso de solicitud, términos y condiciones de aprobación o
+17 rechazo de dichas preautorizaciones dentro del plan secundario, de ser la
+18 misma necesaria;
+19 h) Establecer los procedimientos de facturación por parte de los proveedores
+20 participantes cuando exista coordinación de beneficios tanto del plan primario
+21 como del plan secundario; cómo proceden las denegaciones de pago por parte
+
+8
+1 de los planes, sean primarios o secundarios, y cuándo comienzan a correr los
+2 términos de facturación al plan secundario; y
+3 i) cualquier otro asunto que el Comisionado de Seguros de Puerto Rico entienda
+4 pertinente incluir en dicha reglamentación, siempre y cuando el lenguaje a
+5 incluir no menoscabe los parámetros y requerimientos de política pública
+6 establecidos al amparo de esta Ley.
+7 Sección 4.-Campaña educativa
+8 Previo a la efectividad de las disposiciones de esta Ley, será responsabilidad de
+9 las organizaciones de servicios de salud, los terceros administradores o intermediarios,
+10 los Healthcare Clearinghouses y los aseguradores de salud e incapacidad, orientar al
+11 asegurado, beneficiario o suscriptor y a los proveedores de servicios de salud sobre la
+12 coordinación de beneficios. Estas campañas educativas deberán realizarse de manera continua
+13 y periódica bajo la supervisión de la Oficina del Comisionado de Seguros.
+14 Sección 5.-Vigencia
+15 Esta Ley comenzará a regir inmediatamente luego de su aprobación. No obstante,
+16 se le brinda un término no mayor de noventa (90) días una vez aprobada esta Ley, para
+17 la preparación y redacción del Reglamento requerido al amparo de la Sección 3 de esta
+18 Ley.
+
+[DELETED: .S e e i ( d A 2 d l L N 1 s L 1 s e c c “ d D y a o c p p q a d p d m y s l p t u p s e p l c]
+[DELETED:  y c q e p p n c y s r doe e p p e q s e r a a R  ()sN  rC( E q c e L a e n j e  ()tH d l c d b e u m d l o d s d s o a d s]
+[DELETED:  o s d s q c a a s a l p d e a a d e L d l o d s d s o 2 R p l O d S d S o)…)… L o d s d s o a i e s c b l L M v d l A N d]
+[DELETED:  r d l c d b e u d s i y d l p p q c c u t m d t ( d p l p d c d b a p d m q s e m c c l “ d D y Tdq c e p o a o t c a D .. C]
+[DELETED:  s j v e c e l g d l C u o d a c d l s s v o o s r a c e l U q s p a s c e d s c o d l s c v d l d b e L r d]
+[DELETED:  d a c l r e e L y u l s)U d C d S () p s s e i)P a l p p n a h c d o p e s c a q e p g e)E)E l d y r e p p d l]
+[DELETED:  i d l p p y d l a e)E q t a t a o i l “ d F d S y B S t e s d s o p d s d í c u r)E l r d a d i y s l s l p m q p a l p)E e l p d c d b c e q r p d p p l t y c d a o r d p d d p d d p s d s l)E l p d f p p d l p]
+[DELETED: )c d r s y l n m l p y r d p p  y l a d s e i o a C]

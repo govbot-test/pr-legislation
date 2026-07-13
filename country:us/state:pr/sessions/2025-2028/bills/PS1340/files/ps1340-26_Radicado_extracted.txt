@@ -1,0 +1,804 @@
+Title: Para enmendar los Artículos 552, 558, 561 y 562, y añadir los nuevos Artículos 552A y
+Official Title: Para enmendar los Artículos 552, 558, 561 y 562, y añadir los nuevos Artículos 552A y
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1340
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+562A a la Ley de Procedimientos Legales Especiales; enmendar el Artículo 1602 y añadir
+un nuevo Artículo 1602A a la Ley Núm. 55-2020, según enmendada, conocida como
+“Código Civil de Puerto Rico”; y enmendar los Artículos 5 y 6 de la Ley Núm. 282-1999,
+según enmendada, conocida como “Ley de Asuntos No Contenciosos Ante Notario”, a
+los fines de establecer un procedimiento para localizar, notificar y representar herederos
+no localizados; proteger sus derechos hereditarios; permitir la conservación,
+administración y partición de la herencia; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Resolver una herencia no siempre depende de que exista o no un testamento. En
+muchos casos, el mayor obstáculo es encontrar a todas las personas que podrían tener
+derecho a participar en la sucesión. Hay familias cuyos miembros viven fuera de Puerto
+Rico, cambiaron de dirección, perdieron contacto por años, fallecieron sin que los demás
+familiares lo sepan, o dejaron descendientes cuya información no está disponible.
+Cuando eso ocurre, una sucesión puede quedar detenida por largo tiempo. Una casa
+no se puede vender, reparar o inscribir. Un terreno permanece abandonado. Una cuenta
+bancaria no se liquida. Una propiedad hereditaria se deteriora mientras los coherederos
+presentes no pueden actuar con seguridad jurídica. El problema afecta a las familias, pero
+2
+también tiene consecuencias para comunidades, municipios, acreedores, registros
+públicos y el mercado de vivienda.
+El ordenamiento jurídico vigente tiene mecanismos tradicionales para atender
+personas ausentes o de paradero desconocido. Existen citaciones personales, edictos,
+administración judicial y nombramiento de defensores judiciales en ciertos escenarios.
+Sin embargo, esas herramientas no siempre responden a la realidad actual de las familias
+puertorriqueñas, especialmente cuando hay herederos en la diáspora o cuando solo se
+cuenta con información parcial sobre una persona que pudiera tener derecho en la
+herencia.
+La ley tampoco establece con suficiente claridad qué gestiones mínimas deben hacerse
+para localizar a un heredero; cuándo puede usarse una notificación electrónica
+verificable; cómo se debe documentar la búsqueda; cuándo procede nombrar un
+representante especial; qué término debe concederse para comparecer; y cómo se protege
+una participación hereditaria sin paralizar indefinidamente la conservación,
+administración o partición del caudal.
+Esta medida crea un procedimiento uniforme para esos casos. El propósito no es
+quitarle derechos a ningún heredero ni sustituir las garantías del debido proceso de ley.
+Por el contrario, la pieza legislativa exige una búsqueda razonable, permite mecanismos
+modernos de notificación cuando sean adecuados, autoriza la representación especial de
+herederos no localizados y permite reservar la participación que pudiera
+corresponderles.
+La medida también reconoce que no todas las situaciones son iguales. Si el heredero
+está identificado, pero no se conoce su paradero, el tribunal podrá ordenar notificación,
+representación y reserva de participación. Si lo que está en controversia es la identidad
+misma de los herederos, el parentesco, el derecho a suceder o la validez de una
+reclamación hereditaria, el asunto deberá atenderse por el foro judicial competente.
+En el ámbito notarial, la medida permite que el notario documente gestiones de
+búsqueda y notificación en declaratorias de herederos, siempre que el asunto siga siendo
+no contencioso. Si surge oposición fundamentada, incertidumbre sustancial sobre quién
+3
+tiene derecho a heredar, necesidad de nombrar representante especial, reserva de
+participación, consignación o adjudicación de bienes, el notario deberá cesar su
+intervención y orientar al requirente sobre la vía judicial correspondiente.
+Con esta medida, Puerto Rico atiende una laguna práctica que afecta a muchas
+familias. La ausencia, distancia o falta de información sobre un heredero no debe eliminar
+sus derechos, pero tampoco debe congelar indefinidamente una herencia cuando existen
+mecanismos razonables para protegerlo y permitir que el proceso continúe bajo garantías
+adecuadas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 552 de la Ley de Procedimientos Legales
+2 Especiales, para que lea como sigue:
+3 Artículo 552. — Procedimiento para declaratoria de herederos.
+4 En casos de sucesión intestada o de nulidad de un testamento, los que tengan
+5 algún interés en la herencia podrán dirigir una solicitud a la Sala del Tribunal de Primera
+6 Instancia del último domicilio del finado, o del lugar en donde se encuentren sus bienes,
+7 pidiendo se dicte el correspondiente auto de declaración de herederos.
+8 (1) La solicitud declarará bajo juramento el fallecimiento de la persona de cuya
+9 sucesión se trate;
+10 (2) que, según el leal saber y entender del peticionario, quien expondrá el origen
+11 de sus informes y los fundamentos en que se apoya para creerlo, falleció sin dejar
+12 testamento; que se han hecho las investigaciones y registros correspondientes, sin
+13 encontrarlo, o si hubiere dejado testamento, que éste ha sido declarado nulo, [y]
+14 (3) los nombres y domicilios de las personas con derecho a la herencia o sucesión,
+4
+1 (4) la información de contacto disponible de las personas con derecho a la herencia o
+2 sucesión, incluyendo dirección física, dirección postal, correo electrónico, número telefónico u otro
+3 medio razonable de contacto, si se conociere; y
+4 (5) cuando algún heredero no haya podido ser localizado, una declaración jurada que
+5 describa las gestiones de búsqueda razonable realizadas conforme al Artículo 552A de esta Ley.
+6 El juez a quien se hubiese presentado la solicitud examinará en el más breve
+7 término posible la prueba documental en que se apoya el peticionario y la certificación
+8 negativa del Registro de Testamentos en el Tribunal Supremo y, con el resultado de ella,
+9 dictará la resolución que proceda sin necesidad de celebrar vista; o discrecionalmente
+10 podrá requerir prueba adicional o señalar vista de estimarlo procedente. El auto se dictará
+11 sin perjuicio de tercero, a no ser que se trate de herederos forzosos.
+12 …
+13 Sección 2.- Se añade un nuevo Artículo 552A a la Ley de Procedimientos Legales
+14 Especiales, para que lea como sigue:
+15 Artículo 552A. — Búsqueda razonable y notificación de herederos no localizados.
+16 Heredero no localizado.—Persona natural o jurídica que, según la información disponible,
+17 pudiera tener derecho, participación, cuota, representación sucesoria, interés o reclamación en una
+18 herencia, pero cuyo domicilio, dirección física, dirección postal, correo electrónico, paradero,
+19 existencia, estado vital, representante legal o sucesores no puedan determinarse luego de realizar
+20 gestiones razonables de búsqueda.
+21 En todo procedimiento de declaratoria de herederos, testamentaría, abintestato,
+22 administración judicial, liquidación, partición o adjudicación de herencia en que se alegue la
+5
+1 existencia de un heredero no localizado, la parte promovente deberá presentar una declaración
+2 jurada que describa las gestiones de búsqueda realizadas.
+3 La búsqueda razonable podrá incluir, según las circunstancias del caso y la información
+4 disponible, las siguientes gestiones:
+5 (a) revisión de certificados del Registro Demográfico relacionados con el causante y con las
+6 personas llamadas a la sucesión;
+7 (b) verificación de certificaciones del Registro de Testamentos y del Registro de Poderes;
+8 (c) revisión de escrituras, testamentos, declaratorias de herederos previas, sentencias,
+9 expedientes judiciales, expedientes notariales o documentos relacionados con el caudal hereditario;
+10 (d) búsqueda en el Registro de la Propiedad, Centro de Recaudación de Ingresos
+11 Municipales, Departamento de Hacienda, Departamento de Transportación y Obras Públicas u
+12 otros registros públicos accesibles conforme a derecho;
+13 (e) envío de comunicación por correo certificado, servicio de entrega con acuse de recibo o
+14 cualquier otro medio postal verificable a las últimas direcciones conocidas;
+15 (f) envío de comunicación por correo electrónico, mensaje de texto u otro medio electrónico
+16 verificable, cuando existan fundamentos razonables para creer que pertenece a la persona buscada;
+17 (g) declaraciones juradas o entrevistas documentadas de familiares, vecinos,
+18 administradores, cuidadores, patronos conocidos o personas que razonablemente puedan tener
+19 información sobre el paradero, existencia o estado vital de la persona;
+20 (h) búsqueda en obituarios, cementerios, funerarias, directorios profesionales, registros
+21 comerciales, redes sociales o fuentes digitales de acceso público; y
+6
+1 (i) cualquier otra gestión que el tribunal estime razonable conforme a las circunstancias
+2 particulares del caso.
+3 No será necesario realizar todas las gestiones enumeradas en este Artículo si resultan
+4 duplicativas, imposibles, irrazonables, desproporcionadas o no conducentes. El tribunal evaluará
+5 la suficiencia de la búsqueda razonable tomando en consideración la información disponible, el
+6 valor y naturaleza del caudal, la urgencia de conservar bienes hereditarios, la posible participación
+7 del heredero no localizado y las circunstancias particulares de la sucesión.
+8 Cuando el tribunal determine que se realizaron gestiones razonables de búsqueda y que el
+9 heredero no pudo ser localizado, podrá ordenar la notificación por edicto, publicación digital oficial,
+10 notificación electrónica verificable o cualquier otro mecanismo compatible con el debido proceso de
+11 ley.
+12 La notificación electrónica verificable podrá autorizarse como mecanismo complementario
+13 o, cuando el tribunal así lo determine, como mecanismo suficiente de notificación, siempre que
+14 ofrezca garantías razonables de autenticidad, trazabilidad, constancia de envío, acceso o recibo.
+15 El término para comparecer no será menor de treinta (30) días contados desde la última
+16 publicación, notificación electrónica verificable, certificación de publicación digital o el mecanismo
+17 de notificación que el tribunal disponga, salvo que por ley especial o por circunstancias
+18 extraordinarias proceda un término distinto.
+19 La falta de comparecencia de un heredero no localizado no se entenderá como renuncia,
+20 repudiación, cesión, transacción ni pérdida de su derecho hereditario. El tribunal podrá continuar
+21 el procedimiento, nombrar representante especial o defensor judicial, ordenar la reserva de la
+7
+1 participación que pudiera corresponderle, o dictar cualquier orden necesaria para proteger su
+2 derecho sin paralizar indefinidamente la sucesión.
+3 Sección 3.- Se enmienda el Artículo 558 de la Ley de Procedimientos Legales
+4 Especiales, para que lea como sigue:
+5 Artículo 558. — Cuándo será necesaria la administración judicial.
+6 Cuando todos o alguno o algunos de los herederos estén ausentes, y no tengan
+7 representante legítimo en la jurisdicción del último domicilio de la persona finada o lugar
+8 donde radiquen sus bienes, o cuando un heredero o legatario sea menor o esté
+9 incapacitado y no esté representado por su padre o madre o por un tutor que haya
+10 prestado fianza con arreglo a la ley será necesaria la administración judicial de los bienes
+11 del testador.
+12 No obstante, cuando la ausencia, falta de domicilio conocido o no localización de un
+13 heredero pueda atenderse adecuadamente mediante búsqueda razonable, notificación conforme al
+14 Artículo 552A de esta Ley, nombramiento de representante especial o defensor judicial, reserva de
+15 participación, consignación o cualquier otra medida protectora, el tribunal podrá limitar la
+16 administración judicial a los actos necesarios para conservar, administrar, liquidar, partir o
+17 adjudicar la herencia, sin perjuicio de los derechos sustantivos del heredero no localizado.
+18 El tribunal podrá prescindir de una administración judicial plena cuando determine que
+19 existen mecanismos suficientes para proteger el derecho del heredero no localizado y que la
+20 administración judicial completa resultaría innecesaria, onerosa o contraria a la economía procesal
+21 del caudal hereditario.
+8
+1 Sección 4.- Se enmienda el Artículo 561 de la Ley de Procedimientos Legales
+2 Especiales, para que lea como sigue:
+3 Artículo 561. — Citaciones, modo de hacerlas.
+4 Las citaciones se harán personalmente a las partes cuya morada fuese conocida o
+5 que pudiesen ser halladas. Las citaciones se harán de conformidad con lo dispuesto en la
+6 Regla 4.4 de las Reglas de Procedimiento Civil para el diligenciamiento personal de
+7 emplazamientos. A las partes cuyo domicilio o paradero fuese desconocido se les llamará
+8 por edicto de conformidad con lo dispuesto en la Regla 4.5 de las Reglas de Procedimiento
+9 Civil para el emplazamiento por edictos.
+10 En los procedimientos sucesorales, el tribunal podrá autorizar, además de los mecanismos
+11 ordinarios de citación o emplazamiento, la notificación electrónica verificable, la publicación digital
+12 oficial, o cualquier otro medio tecnológico que permita acreditar razonablemente el envío,
+13 publicación, acceso o recibo de la notificación, siempre que dicho mecanismo sea compatible con el
+14 debido proceso de ley.
+15 La orden que autorice mecanismos electrónicos o digitales de notificación deberá identificar
+16 el medio autorizado, el contenido mínimo de la notificación, el término para comparecer, la forma
+17 de acreditar el diligenciamiento o publicación, y cualquier medida adicional necesaria para proteger
+18 los derechos del heredero no localizado.
+19 Sección 5.- Se enmienda el Artículo 562 de la Ley de Procedimientos Legales
+20 Especiales, para que lea como sigue:
+21 Artículo 562. — Caso en que las partes no comparezcan.
+9
+1 Si los citados por edicto dejasen de comparecer dentro de los veinte (20) días de la
+2 fecha de la última publicación, seguirá el juicio en rebeldía sin nueva citación.
+3 En los procedimientos sucesorales en que un heredero no localizado haya sido notificado
+4 por edicto, publicación digital oficial, notificación electrónica verificable o cualquier otro
+5 mecanismo autorizado por el tribunal conforme al Artículo 552A de esta Ley, el término para
+6 comparecer no será menor de treinta (30) días, salvo que el tribunal disponga un término mayor
+7 por razón del lugar de residencia, información disponible, complejidad de la sucesión o cualquier
+8 otra circunstancia pertinente.
+9 La continuación del procedimiento por falta de comparecencia no extinguirá el derecho
+10 hereditario que pudiera corresponder al heredero no localizado. En tales casos, el tribunal podrá
+11 ordenar la designación de un representante especial o defensor judicial, la reserva de participación,
+12 la consignación de fondos, la anotación correspondiente en la resolución o escritura que proceda, o
+13 cualquier otra medida protectora compatible con la naturaleza del procedimiento.
+14 Sección 6.- Se añade un nuevo Artículo 562A a la Ley de Procedimientos Legales
+15 Especiales, para que lea como sigue:
+16 Artículo 562A. — Representante especial, reserva de participación y comparecencia
+17 posterior.
+18 Cuando un heredero no pueda ser localizado luego de una búsqueda razonable y su falta de
+19 comparecencia pueda afectar la administración, conservación, liquidación, partición o adjudicación
+20 de la herencia, el tribunal podrá nombrar un representante especial o defensor judicial para
+21 proteger sus intereses en el procedimiento sucesoral.
+10
+1 El nombramiento podrá hacerse a solicitud de parte interesada, del administrador judicial,
+2 albacea, contador partidor, coheredero, acreedor, Ministerio Público cuando proceda, o por
+3 iniciativa del tribunal.
+4 El representante especial o defensor judicial tendrá autoridad limitada al procedimiento
+5 para el cual fue nombrado. Podrá recibir notificaciones, examinar el expediente, solicitar
+6 información, comparecer a vistas, objetar actuaciones que afecten la posible participación del
+7 heredero no localizado, solicitar medidas de conservación, recomendar la aprobación o rechazo de
+8 acuerdos, y realizar cualquier otra actuación autorizada por el tribunal para proteger los intereses
+9 representados.
+10 El representante especial o defensor judicial no podrá repudiar la herencia, renunciar
+11 derechos, consentir una transacción final, disponer de bienes o aceptar adjudicaciones definitivas
+12 en perjuicio del heredero no localizado, salvo autorización expresa del tribunal luego de determinar
+13 que la actuación protege adecuadamente sus intereses.
+14 Cuando el tribunal autorice la continuación de un procedimiento sucesoral en ausencia de
+15 un heredero no localizado, deberá adoptar medidas razonables para proteger la participación que
+16 pudiera corresponderle. Dichas medidas podrán incluir la reserva de una cuota abstracta,
+17 consignación de fondos, anotación en la resolución, partición, escritura pública, acta, cuenta final
+18 o documento correspondiente, partición parcial, adjudicación provisional, administración
+19 limitada, venta, arrendamiento, reparación o conservación de bienes hereditarios, o cualquier otra
+20 orden compatible con el debido proceso de ley.
+21 La comparecencia posterior del heredero no localizado, de sus sucesores o de su
+22 representante legítimo no invalidará automáticamente las actuaciones realizadas conforme a este
+11
+1 Artículo, siempre que se hayan cumplido las gestiones de búsqueda razonable, notificación,
+2 representación y reserva dispuestas por ley u orden judicial.
+3 La persona que comparezca posteriormente conservará las acciones que procedan para
+4 reclamar su participación, impugnar actuaciones realizadas con fraude, dolo, mala fe o violación
+5 al debido proceso de ley, o solicitar la entrega de los fondos, bienes, frutos o derechos reservados a
+6 su favor.
+7 Nada de lo dispuesto en este Artículo afectará la protección que corresponda a terceros
+8 adquirentes de buena fe, a derechos inscritos en el Registro de la Propiedad o a actos válidamente
+9 autorizados por el tribunal conforme a derecho.
+10 Los honorarios y gastos razonables del representante especial o defensor judicial
+11 constituirán carga hereditaria, salvo que el tribunal disponga otra cosa por razón de temeridad,
+12 mala fe, conflicto de interés o circunstancias particulares del caso.
+13 El nombramiento cesará cuando comparezca la persona representada, su representante
+14 legítimo, sucesor, administrador, tutor, albacea o persona con autoridad suficiente; cuando
+15 concluya el procedimiento para el cual fue designado; o cuando el tribunal así lo disponga por justa
+16 causa.
+17 Sección 7.- Se enmienda el Artículo 1602 de la Ley Núm. 55-2020, según
+18 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+19 Artículo 1602. — Medidas urgentes.
+20 El tribunal puede ordenar, a solicitud de cualquier persona con interés legítimo en
+21 la herencia, las medidas urgentes que se requieran para la conservación de los bienes
+22 comunes.
+12
+1 Cuando la conservación, administración, liquidación, partición o adjudicación de bienes
+2 hereditarios se afecte por la ausencia, domicilio desconocido o no localización de un heredero, el
+3 tribunal podrá ordenar medidas urgentes o provisionales, incluyendo búsqueda razonable,
+4 notificación electrónica verificable, edictos, nombramiento de representante especial o defensor
+5 judicial, inventario, tasación, consignación, reserva de participación, administración provisional,
+6 partición parcial o cualquier otra medida necesaria para proteger el caudal y los derechos de las
+7 personas interesadas.
+8 Sección 8.- Se añade un nuevo Artículo 1602A a la Ley Núm. 55-2020, según
+9 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+10 Artículo 1602A. — Heredero no localizado.
+11 La ausencia, domicilio desconocido o no localización de un heredero no impedirá, por sí
+12 sola, que el tribunal autorice medidas de conservación, administración, liquidación, partición
+13 parcial o adjudicación de la herencia, siempre que se hayan realizado gestiones razonables de
+14 búsqueda, se haya provisto notificación adecuada conforme a derecho, y se adopten medidas para
+15 proteger la participación que pudiera corresponderle.
+16 El tribunal podrá nombrar un representante especial o defensor judicial para el heredero no
+17 localizado, ordenar la reserva de su participación, disponer la consignación de fondos o bienes,
+18 autorizar actos necesarios de administración o conservación, y dictar cualquier otra orden
+19 compatible con la protección del derecho hereditario y la economía procesal del caudal.
+20 La falta de comparecencia de un heredero no localizado no se entenderá como renuncia,
+21 repudiación, cesión, transacción ni pérdida de su derecho hereditario.
+13
+1 La comparecencia posterior del heredero no localizado, de sus sucesores o de su
+2 representante legítimo se regirá por las normas aplicables sobre petición de herencia, comunidad
+3 hereditaria, partición, protección de terceros de buena fe, buena fe registral y cualquier otro remedio
+4 reconocido por este Código o por ley especial.
+5 Sección 9.- Se enmienda el Artículo 5 de la Ley Núm. 282-1999, según enmendada,
+6 conocida como “Ley de Asuntos No Contenciosos Ante Notario”, para que lea como
+7 sigue:
+8 Artículo 5. — Procedimiento en general.
+9 El trámite ante sede notarial se iniciará mediante requerimiento por quien esté
+10 legitimado para ello.
+11 El notario deberá:
+12 1.- …
+13 2.- Reunir la documentación requerida, según sea el caso. Esta documentación
+14 podrá ser aportada por quien requiera la actuación del notario u obtenida por el propio
+15 notario.
+16 En los procedimientos de declaratoria de herederos, el notario deberá requerir al promovente
+17 la información de contacto disponible de las personas con posible derecho a la herencia, incluyendo
+18 dirección física, dirección postal, correo electrónico, número telefónico u otro medio de contacto
+19 conocido. Cuando algún heredero no pueda ser localizado, el notario deberá documentar en el
+20 expediente las gestiones de búsqueda realizadas, las fuentes consultadas, las notificaciones
+21 cursadas y cualquier información obtenida sobre su paradero, existencia, fallecimiento, sucesores
+22 o representante legítimo.
+14
+1 El notario podrá utilizar medios electrónicos verificables para cursar notificaciones o
+2 comunicaciones relacionadas con el procedimiento, siempre que conserve constancia del envío,
+3 recibo, acceso o gestión realizada y que dicho mecanismo sea compatible con las reglas que adopte
+4 el Tribunal Supremo.
+5 3.- …
+6 4.- Si luego de calificar los documentos concluye que procede realizar la
+7 declaración de hechos y de derecho solicitada por el requirente, el notario hará constar
+8 en un acta notarial lo siguiente:
+9 a. …
+10 …
+11 d. La declaración de los hechos y del derecho correspondiente**; y**
+12 e. En los procedimientos de declaratoria de herederos, las gestiones de búsqueda y
+13 notificación realizadas respecto a cualquier heredero no localizado, así como la forma en que se
+14 documentó o protegió su posible derecho, si alguno.
+15 5.- …
+16 …
+17 Sección 10.- Se enmienda el Artículo 6 de la Ley Núm. 282-1999, según enmendada,
+18 conocida como “Ley de Asuntos No Contenciosos Ante Notario”, para que lea como
+19 sigue:
+20 Artículo 6. — Cese del trámite.
+21 …
+22 El notario también cesará todo trámite con relación a un asunto si:
+15
+1 a. …
+2 …
+3 e. Tuviere conocimiento de que el asunto se está tramitando en el tribunal.
+4 La mera no localización de un heredero no requerirá, por sí sola, el cese del trámite notarial
+5 de declaratoria de herederos cuando la identidad, grado de parentesco y derecho de dicha persona
+6 puedan determinarse con la prueba documental disponible, no exista controversia u oposición
+7 fundamentada, y el notario haga constar en el acta las gestiones de búsqueda y notificación
+8 realizadas.
+9 El notario deberá cesar su intervención y orientar al requirente sobre la necesidad de acudir
+10 al tribunal cuando la no localización impida determinar con certeza la identidad de las personas
+11 llamadas a la herencia, exista controversia sobre el derecho o grado de parentesco de alguna
+12 persona, sea necesario nombrar representante especial o defensor judicial, se requiera reserva de
+13 participación, consignación, partición, adjudicación de bienes, o cualquier otra medida que exceda
+14 la competencia notarial.
+15 …
+16 Sección 11.- Reglamentación.
+17 El Tribunal Supremo de Puerto Rico podrá adoptar o enmendar las reglas,
+18 formularios, procedimientos electrónicos, requisitos de publicación digital, modelos de
+19 notificación, normas de conservación de expedientes y cualquier otra disposición
+20 reglamentaria necesaria para implantar esta Ley en los tribunales y en los procedimientos
+21 de asuntos no contenciosos ante notario.
+16
+1 La Oficina de Administración de los Tribunales y la Oficina de Inspección de
+2 Notarías podrán adoptar guías administrativas compatibles con esta Ley y con la
+3 reglamentación que apruebe el Tribunal Supremo.
+4 Sección 12.- Aplicabilidad.
+5 Esta Ley aplicará a todo procedimiento sucesoral presentado a partir de su
+6 vigencia. También aplicará a procedimientos sucesorales pendientes en los cuales no se
+7 haya dictado resolución, sentencia, acta, escritura o adjudicación final y firme, siempre
+8 que su aplicación no menoscabe derechos adquiridos, acuerdos transaccionales válidos,
+9 adjudicaciones finales y firmes, ni actuaciones válidamente realizadas antes de su
+10 vigencia.
+11 Nada de lo dispuesto en esta Ley se interpretará como autorización para reabrir
+12 sentencias, resoluciones, actas notariales, escrituras públicas o adjudicaciones finales y
+13 firmes emitidas antes de su vigencia.
+14 Sección 13.- Separabilidad.
+15 Si cualquier disposición de esta Ley o su aplicación fuere declarada nula o
+16 inconstitucional por un tribunal competente, tal determinación no afectará las demás
+17 disposiciones o aplicaciones que puedan mantenerse en vigor sin la disposición o
+18 aplicación anulada.
+19 Sección 14.- Vigencia.
+20 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL   n A 1 a l L N 5 s e c c l p s d h p l c]
+[DELETED:  t c p c m a r o j v t m t p a a o d p d E c p e c i p s u p q p t d e l l a u h c p u u n e c s d d l b c p n u p h s p i l c m c u p u p e c E p n e n l y p r l p q p d l h e p e d a s o l v d u e á n l m p q e n d g d]
+[DELETED:  d a h n d n r e r d c o a d b e n d c s e m P R a u l p q a a m 1 S e e A 5 d l L d P L s i y l f e q s a p c f s d q s h h l i y r c s]
+[DELETED:  ( l i d c d d l p c d a l h o s m ( c a h n h p s l u d j q d j a q s h p l s e e e m b  A H p h p c d d f d p c e p e g E t p d d d h t a a j l p o a d h e q s a l]
+[DELETED:  e j L d ( p ( ( r d e t d d h p s e ( b e e R d l P C d R d I M o ( c ( v ( d j o e d d f v a i ( b e o c f d p r c]
+[DELETED:  ( p N d l v d C h n l L o o E p d n q e t d s q p l e o p c e L r e p n r e o d j o l r d l]
+[DELETED:  p q p c o d c o n p p s d 3 S e e A 5 d l L d P L r s b o c u h o l s m o e y n e r p s p o m o p u t q h N o c l a f d d c o n l d u h A p c o c o m p e t p l l a j a l a n p c a l p o a E e m s p p e d d h n l y q l a d]
+[DELETED:  4 S e e A 5 d l L d P L 4 d l R d P C p e d p d E o o o c o m t q p a r e e p d L e d l 5 S e e A 5 d l L d P L]
+[DELETED:  E p e p d o n e v o c o m c p o L h o l c A 5 — R e r d p y c p C c d l h e t p n u r e o d j p p]
+[DELETED:  E a c p c a M P c p o p i E p e c f n P r n e e e s i c a v o a q a l p p d h a r E r e o d j n p r l h r d e q C u p c D m p i l r d u c a c o d c p p a p a l o L c p d h n l d s s o d s r]
+[DELETED:  A s q s h c l g d b r n r L p q c p c l a q p p r a s N a a L h y g r d r e o d j c m E l s a t a o p c a s c c c 7 S e e A 1 d l L N 5 s]
+[DELETED:  C h t p o m u o p i b r n j p p 8 S a u n A 1 a l L N 5 s A L s q e t a m d c a l p p b p E l a a n d a o c y d c o o c L r]
+[DELETED:  L c p d h n l d s s o d s r h r E l d c e l g d b r l f c l n c o]
+[DELETED:  E n p u m e v p c n o c r e S l d c l d c q p r l e E l p d d d h l g d b y n d]
+[DELETED:  L d p f y e n h c e e a l g d b y n r E a l a l h e c s e d o g d p d a p p l … T S d P R p a o e l r n d c d e y c o d]
+[DELETED:  O d A d l T y l O d I d p a g a c c e L y c l L a a t p s p a p d s f y f n a v r a d s c d d e L o s a f d n o o a q p m e v s l d o]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1340
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar los Artículos 552, 558, 561 y 562, y añadir los nuevos Artículos 552A y
+562A a la Ley de Procedimientos Legales Especiales; enmendar el Artículo 1602 y añadir
+un nuevo Artículo 1602A a la Ley Núm. 55-2020, según enmendada, conocida como
+“Código Civil de Puerto Rico”; y enmendar los Artículos 5 y 6 de la Ley Núm. 282-1999,
+según enmendada, conocida como “Ley de Asuntos No Contenciosos Ante Notario”, a
+los fines de establecer un procedimiento para localizar, notificar y representar herederos
+no localizados; proteger sus derechos hereditarios; permitir la conservación,
+administración y partición de la herencia; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Resolver una herencia no siempre depende de que exista o no un testamento. En
+muchos casos, el mayor obstáculo es encontrar a todas las personas que podrían tener
+derecho a participar en la sucesión. Hay familias cuyos miembros viven fuera de Puerto
+Rico, cambiaron de dirección, perdieron contacto por años, fallecieron sin que los demás
+familiares lo sepan, o dejaron descendientes cuya información no está disponible.
+Cuando eso ocurre, una sucesión puede quedar detenida por largo tiempo. Una casa
+no se puede vender, reparar o inscribir. Un terreno permanece abandonado. Una cuenta
+bancaria no se liquida. Una propiedad hereditaria se deteriora mientras los coherederos
+presentes no pueden actuar con seguridad jurídica. El problema afecta a las familias, pero
+
+2
+también tiene consecuencias para comunidades, municipios, acreedores, registros
+públicos y el mercado de vivienda.
+El ordenamiento jurídico vigente tiene mecanismos tradicionales para atender
+personas ausentes o de paradero desconocido. Existen citaciones personales, edictos,
+administración judicial y nombramiento de defensores judiciales en ciertos escenarios.
+Sin embargo, esas herramientas no siempre responden a la realidad actual de las familias
+puertorriqueñas, especialmente cuando hay herederos en la diáspora o cuando solo se
+cuenta con información parcial sobre una persona que pudiera tener derecho en la
+herencia.
+La ley tampoco establece con suficiente claridad qué gestiones mínimas deben hacerse
+para localizar a un heredero; cuándo puede usarse una notificación electrónica
+verificable; cómo se debe documentar la búsqueda; cuándo procede nombrar un
+representante especial; qué término debe concederse para comparecer; y cómo se protege
+una participación hereditaria sin paralizar indefinidamente la conservación,
+administración o partición del caudal.
+Esta medida crea un procedimiento uniforme para esos casos. El propósito no es
+quitarle derechos a ningún heredero ni sustituir las garantías del debido proceso de ley.
+Por el contrario, la pieza legislativa exige una búsqueda razonable, permite mecanismos
+modernos de notificación cuando sean adecuados, autoriza la representación especial de
+herederos no localizados y permite reservar la participación que pudiera
+corresponderles.
+La medida también reconoce que no todas las situaciones son iguales. Si el heredero
+está identificado, pero no se conoce su paradero, el tribunal podrá ordenar notificación,
+representación y reserva de participación. Si lo que está en controversia es la identidad
+misma de los herederos, el parentesco, el derecho a suceder o la validez de una
+reclamación hereditaria, el asunto deberá atenderse por el foro judicial competente.
+En el ámbito notarial, la medida permite que el notario documente gestiones de
+búsqueda y notificación en declaratorias de herederos, siempre que el asunto siga siendo
+no contencioso. Si surge oposición fundamentada, incertidumbre sustancial sobre quién
+
+3
+tiene derecho a heredar, necesidad de nombrar representante especial, reserva de
+participación, consignación o adjudicación de bienes, el notario deberá cesar su
+intervención y orientar al requirente sobre la vía judicial correspondiente.
+Con esta medida, Puerto Rico atiende una laguna práctica que afecta a muchas
+familias. La ausencia, distancia o falta de información sobre un heredero no debe eliminar
+sus derechos, pero tampoco debe congelar indefinidamente una herencia cuando existen
+mecanismos razonables para protegerlo y permitir que el proceso continúe bajo garantías
+adecuadas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 552 de la Ley de Procedimientos Legales
+2 Especiales, para que lea como sigue:
+3 Artículo 552. — Procedimiento para declaratoria de herederos.
+4 En casos de sucesión intestada o de nulidad de un testamento, los que tengan
+5 algún interés en la herencia podrán dirigir una solicitud a la Sala del Tribunal de Primera
+6 Instancia del último domicilio del finado, o del lugar en donde se encuentren sus bienes,
+7 pidiendo se dicte el correspondiente auto de declaración de herederos.
+8 (1) La solicitud declarará bajo juramento el fallecimiento de la persona de cuya
+9 sucesión se trate;
+10 (2) que, según el leal saber y entender del peticionario, quien expondrá el origen
+11 de sus informes y los fundamentos en que se apoya para creerlo, falleció sin dejar
+12 testamento; que se han hecho las investigaciones y registros correspondientes, sin
+13 encontrarlo, o si hubiere dejado testamento, que éste ha sido declarado nulo, [y]
+14 (3) los nombres y domicilios de las personas con derecho a la herencia o sucesión,
+
+4
+1 (4) la información de contacto disponible de las personas con derecho a la herencia o
+2 sucesión, incluyendo dirección física, dirección postal, correo electrónico, número telefónico u otro
+3 medio razonable de contacto, si se conociere; y
+4 (5) cuando algún heredero no haya podido ser localizado, una declaración jurada que
+5 describa las gestiones de búsqueda razonable realizadas conforme al Artículo 552A de esta Ley.
+6 El juez a quien se hubiese presentado la solicitud examinará en el más breve
+7 término posible la prueba documental en que se apoya el peticionario y la certificación
+8 negativa del Registro de Testamentos en el Tribunal Supremo y, con el resultado de ella,
+9 dictará la resolución que proceda sin necesidad de celebrar vista; o discrecionalmente
+10 podrá requerir prueba adicional o señalar vista de estimarlo procedente. El auto se dictará
+11 sin perjuicio de tercero, a no ser que se trate de herederos forzosos.
+12 …
+13 Sección 2.- Se añade un nuevo Artículo 552A a la Ley de Procedimientos Legales
+14 Especiales, para que lea como sigue:
+15 Artículo 552A. — Búsqueda razonable y notificación de herederos no localizados.
+16 Heredero no localizado.—Persona natural o jurídica que, según la información disponible,
+17 pudiera tener derecho, participación, cuota, representación sucesoria, interés o reclamación en una
+18 herencia, pero cuyo domicilio, dirección física, dirección postal, correo electrónico, paradero,
+19 existencia, estado vital, representante legal o sucesores no puedan determinarse luego de realizar
+20 gestiones razonables de búsqueda.
+21 En todo procedimiento de declaratoria de herederos, testamentaría, abintestato,
+22 administración judicial, liquidación, partición o adjudicación de herencia en que se alegue la
+
+5
+1 existencia de un heredero no localizado, la parte promovente deberá presentar una declaración
+2 jurada que describa las gestiones de búsqueda realizadas.
+3 La búsqueda razonable podrá incluir, según las circunstancias del caso y la información
+4 disponible, las siguientes gestiones:
+5 (a) revisión de certificados del Registro Demográfico relacionados con el causante y con las
+6 personas llamadas a la sucesión;
+7 (b) verificación de certificaciones del Registro de Testamentos y del Registro de Poderes;
+8 (c) revisión de escrituras, testamentos, declaratorias de herederos previas, sentencias,
+9 expedientes judiciales, expedientes notariales o documentos relacionados con el caudal hereditario;
+10 (d) búsqueda en el Registro de la Propiedad, Centro de Recaudación de Ingresos
+11 Municipales, Departamento de Hacienda, Departamento de Transportación y Obras Públicas u
+12 otros registros públicos accesibles conforme a derecho;
+13 (e) envío de comunicación por correo certificado, servicio de entrega con acuse de recibo o
+14 cualquier otro medio postal verificable a las últimas direcciones conocidas;
+15 (f) envío de comunicación por correo electrónico, mensaje de texto u otro medio electrónico
+16 verificable, cuando existan fundamentos razonables para creer que pertenece a la persona buscada;
+17 (g) declaraciones juradas o entrevistas documentadas de familiares, vecinos,
+18 administradores, cuidadores, patronos conocidos o personas que razonablemente puedan tener
+19 información sobre el paradero, existencia o estado vital de la persona;
+20 (h) búsqueda en obituarios, cementerios, funerarias, directorios profesionales, registros
+21 comerciales, redes sociales o fuentes digitales de acceso público; y
+
+6
+1 (i) cualquier otra gestión que el tribunal estime razonable conforme a las circunstancias
+2 particulares del caso.
+3 No será necesario realizar todas las gestiones enumeradas en este Artículo si resultan
+4 duplicativas, imposibles, irrazonables, desproporcionadas o no conducentes. El tribunal evaluará
+5 la suficiencia de la búsqueda razonable tomando en consideración la información disponible, el
+6 valor y naturaleza del caudal, la urgencia de conservar bienes hereditarios, la posible participación
+7 del heredero no localizado y las circunstancias particulares de la sucesión.
+8 Cuando el tribunal determine que se realizaron gestiones razonables de búsqueda y que el
+9 heredero no pudo ser localizado, podrá ordenar la notificación por edicto, publicación digital oficial,
+10 notificación electrónica verificable o cualquier otro mecanismo compatible con el debido proceso de
+11 ley.
+12 La notificación electrónica verificable podrá autorizarse como mecanismo complementario
+13 o, cuando el tribunal así lo determine, como mecanismo suficiente de notificación, siempre que
+14 ofrezca garantías razonables de autenticidad, trazabilidad, constancia de envío, acceso o recibo.
+15 El término para comparecer no será menor de treinta (30) días contados desde la última
+16 publicación, notificación electrónica verificable, certificación de publicación digital o el mecanismo
+17 de notificación que el tribunal disponga, salvo que por ley especial o por circunstancias
+18 extraordinarias proceda un término distinto.
+19 La falta de comparecencia de un heredero no localizado no se entenderá como renuncia,
+20 repudiación, cesión, transacción ni pérdida de su derecho hereditario. El tribunal podrá continuar
+21 el procedimiento, nombrar representante especial o defensor judicial, ordenar la reserva de la
+
+7
+1 participación que pudiera corresponderle, o dictar cualquier orden necesaria para proteger su
+2 derecho sin paralizar indefinidamente la sucesión.
+3 Sección 3.- Se enmienda el Artículo 558 de la Ley de Procedimientos Legales
+4 Especiales, para que lea como sigue:
+5 Artículo 558. — Cuándo será necesaria la administración judicial.
+6 Cuando todos o alguno o algunos de los herederos estén ausentes, y no tengan
+7 representante legítimo en la jurisdicción del último domicilio de la persona finada o lugar
+8 donde radiquen sus bienes, o cuando un heredero o legatario sea menor o esté
+9 incapacitado y no esté representado por su padre o madre o por un tutor que haya
+10 prestado fianza con arreglo a la ley será necesaria la administración judicial de los bienes
+11 del testador.
+12 No obstante, cuando la ausencia, falta de domicilio conocido o no localización de un
+13 heredero pueda atenderse adecuadamente mediante búsqueda razonable, notificación conforme al
+14 Artículo 552A de esta Ley, nombramiento de representante especial o defensor judicial, reserva de
+15 participación, consignación o cualquier otra medida protectora, el tribunal podrá limitar la
+16 administración judicial a los actos necesarios para conservar, administrar, liquidar, partir o
+17 adjudicar la herencia, sin perjuicio de los derechos sustantivos del heredero no localizado.
+18 El tribunal podrá prescindir de una administración judicial plena cuando determine que
+19 existen mecanismos suficientes para proteger el derecho del heredero no localizado y que la
+20 administración judicial completa resultaría innecesaria, onerosa o contraria a la economía procesal
+21 del caudal hereditario.
+
+8
+1 Sección 4.- Se enmienda el Artículo 561 de la Ley de Procedimientos Legales
+2 Especiales, para que lea como sigue:
+3 Artículo 561. — Citaciones, modo de hacerlas.
+4 Las citaciones se harán personalmente a las partes cuya morada fuese conocida o
+5 que pudiesen ser halladas. Las citaciones se harán de conformidad con lo dispuesto en la
+6 Regla 4.4 de las Reglas de Procedimiento Civil para el diligenciamiento personal de
+7 emplazamientos. A las partes cuyo domicilio o paradero fuese desconocido se les llamará
+8 por edicto de conformidad con lo dispuesto en la Regla 4.5 de las Reglas de Procedimiento
+9 Civil para el emplazamiento por edictos.
+10 En los procedimientos sucesorales, el tribunal podrá autorizar, además de los mecanismos
+11 ordinarios de citación o emplazamiento, la notificación electrónica verificable, la publicación digital
+12 oficial, o cualquier otro medio tecnológico que permita acreditar razonablemente el envío,
+13 publicación, acceso o recibo de la notificación, siempre que dicho mecanismo sea compatible con el
+14 debido proceso de ley.
+15 La orden que autorice mecanismos electrónicos o digitales de notificación deberá identificar
+16 el medio autorizado, el contenido mínimo de la notificación, el término para comparecer, la forma
+17 de acreditar el diligenciamiento o publicación, y cualquier medida adicional necesaria para proteger
+18 los derechos del heredero no localizado.
+19 Sección 5.- Se enmienda el Artículo 562 de la Ley de Procedimientos Legales
+20 Especiales, para que lea como sigue:
+21 Artículo 562. — Caso en que las partes no comparezcan.
+
+9
+1 Si los citados por edicto dejasen de comparecer dentro de los veinte (20) días de la
+2 fecha de la última publicación, seguirá el juicio en rebeldía sin nueva citación.
+3 En los procedimientos sucesorales en que un heredero no localizado haya sido notificado
+4 por edicto, publicación digital oficial, notificación electrónica verificable o cualquier otro
+5 mecanismo autorizado por el tribunal conforme al Artículo 552A de esta Ley, el término para
+6 comparecer no será menor de treinta (30) días, salvo que el tribunal disponga un término mayor
+7 por razón del lugar de residencia, información disponible, complejidad de la sucesión o cualquier
+8 otra circunstancia pertinente.
+9 La continuación del procedimiento por falta de comparecencia no extinguirá el derecho
+10 hereditario que pudiera corresponder al heredero no localizado. En tales casos, el tribunal podrá
+11 ordenar la designación de un representante especial o defensor judicial, la reserva de participación,
+12 la consignación de fondos, la anotación correspondiente en la resolución o escritura que proceda, o
+13 cualquier otra medida protectora compatible con la naturaleza del procedimiento.
+14 Sección 6.- Se añade un nuevo Artículo 562A a la Ley de Procedimientos Legales
+15 Especiales, para que lea como sigue:
+16 Artículo 562A. — Representante especial, reserva de participación y comparecencia
+17 posterior.
+18 Cuando un heredero no pueda ser localizado luego de una búsqueda razonable y su falta de
+19 comparecencia pueda afectar la administración, conservación, liquidación, partición o adjudicación
+20 de la herencia, el tribunal podrá nombrar un representante especial o defensor judicial para
+21 proteger sus intereses en el procedimiento sucesoral.
+
+10
+1 El nombramiento podrá hacerse a solicitud de parte interesada, del administrador judicial,
+2 albacea, contador partidor, coheredero, acreedor, Ministerio Público cuando proceda, o por
+3 iniciativa del tribunal.
+4 El representante especial o defensor judicial tendrá autoridad limitada al procedimiento
+5 para el cual fue nombrado. Podrá recibir notificaciones, examinar el expediente, solicitar
+6 información, comparecer a vistas, objetar actuaciones que afecten la posible participación del
+7 heredero no localizado, solicitar medidas de conservación, recomendar la aprobación o rechazo de
+8 acuerdos, y realizar cualquier otra actuación autorizada por el tribunal para proteger los intereses
+9 representados.
+10 El representante especial o defensor judicial no podrá repudiar la herencia, renunciar
+11 derechos, consentir una transacción final, disponer de bienes o aceptar adjudicaciones definitivas
+12 en perjuicio del heredero no localizado, salvo autorización expresa del tribunal luego de determinar
+13 que la actuación protege adecuadamente sus intereses.
+14 Cuando el tribunal autorice la continuación de un procedimiento sucesoral en ausencia de
+15 un heredero no localizado, deberá adoptar medidas razonables para proteger la participación que
+16 pudiera corresponderle. Dichas medidas podrán incluir la reserva de una cuota abstracta,
+17 consignación de fondos, anotación en la resolución, partición, escritura pública, acta, cuenta final
+18 o documento correspondiente, partición parcial, adjudicación provisional, administración
+19 limitada, venta, arrendamiento, reparación o conservación de bienes hereditarios, o cualquier otra
+20 orden compatible con el debido proceso de ley.
+21 La comparecencia posterior del heredero no localizado, de sus sucesores o de su
+22 representante legítimo no invalidará automáticamente las actuaciones realizadas conforme a este
+
+11
+1 Artículo, siempre que se hayan cumplido las gestiones de búsqueda razonable, notificación,
+2 representación y reserva dispuestas por ley u orden judicial.
+3 La persona que comparezca posteriormente conservará las acciones que procedan para
+4 reclamar su participación, impugnar actuaciones realizadas con fraude, dolo, mala fe o violación
+5 al debido proceso de ley, o solicitar la entrega de los fondos, bienes, frutos o derechos reservados a
+6 su favor.
+7 Nada de lo dispuesto en este Artículo afectará la protección que corresponda a terceros
+8 adquirentes de buena fe, a derechos inscritos en el Registro de la Propiedad o a actos válidamente
+9 autorizados por el tribunal conforme a derecho.
+10 Los honorarios y gastos razonables del representante especial o defensor judicial
+11 constituirán carga hereditaria, salvo que el tribunal disponga otra cosa por razón de temeridad,
+12 mala fe, conflicto de interés o circunstancias particulares del caso.
+13 El nombramiento cesará cuando comparezca la persona representada, su representante
+14 legítimo, sucesor, administrador, tutor, albacea o persona con autoridad suficiente; cuando
+15 concluya el procedimiento para el cual fue designado; o cuando el tribunal así lo disponga por justa
+16 causa.
+17 Sección 7.- Se enmienda el Artículo 1602 de la Ley Núm. 55-2020, según
+18 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+19 Artículo 1602. — Medidas urgentes.
+20 El tribunal puede ordenar, a solicitud de cualquier persona con interés legítimo en
+21 la herencia, las medidas urgentes que se requieran para la conservación de los bienes
+22 comunes.
+
+12
+1 Cuando la conservación, administración, liquidación, partición o adjudicación de bienes
+2 hereditarios se afecte por la ausencia, domicilio desconocido o no localización de un heredero, el
+3 tribunal podrá ordenar medidas urgentes o provisionales, incluyendo búsqueda razonable,
+4 notificación electrónica verificable, edictos, nombramiento de representante especial o defensor
+5 judicial, inventario, tasación, consignación, reserva de participación, administración provisional,
+6 partición parcial o cualquier otra medida necesaria para proteger el caudal y los derechos de las
+7 personas interesadas.
+8 Sección 8.- Se añade un nuevo Artículo 1602A a la Ley Núm. 55-2020, según
+9 enmendada, conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+10 Artículo 1602A. — Heredero no localizado.
+11 La ausencia, domicilio desconocido o no localización de un heredero no impedirá, por sí
+12 sola, que el tribunal autorice medidas de conservación, administración, liquidación, partición
+13 parcial o adjudicación de la herencia, siempre que se hayan realizado gestiones razonables de
+14 búsqueda, se haya provisto notificación adecuada conforme a derecho, y se adopten medidas para
+15 proteger la participación que pudiera corresponderle.
+16 El tribunal podrá nombrar un representante especial o defensor judicial para el heredero no
+17 localizado, ordenar la reserva de su participación, disponer la consignación de fondos o bienes,
+18 autorizar actos necesarios de administración o conservación, y dictar cualquier otra orden
+19 compatible con la protección del derecho hereditario y la economía procesal del caudal.
+20 La falta de comparecencia de un heredero no localizado no se entenderá como renuncia,
+21 repudiación, cesión, transacción ni pérdida de su derecho hereditario.
+
+13
+1 La comparecencia posterior del heredero no localizado, de sus sucesores o de su
+2 representante legítimo se regirá por las normas aplicables sobre petición de herencia, comunidad
+3 hereditaria, partición, protección de terceros de buena fe, buena fe registral y cualquier otro remedio
+4 reconocido por este Código o por ley especial.
+5 Sección 9.- Se enmienda el Artículo 5 de la Ley Núm. 282-1999, según enmendada,
+6 conocida como “Ley de Asuntos No Contenciosos Ante Notario”, para que lea como
+7 sigue:
+8 Artículo 5. — Procedimiento en general.
+9 El trámite ante sede notarial se iniciará mediante requerimiento por quien esté
+10 legitimado para ello.
+11 El notario deberá:
+12 1.- …
+13 2.- Reunir la documentación requerida, según sea el caso. Esta documentación
+14 podrá ser aportada por quien requiera la actuación del notario u obtenida por el propio
+15 notario.
+16 En los procedimientos de declaratoria de herederos, el notario deberá requerir al promovente
+17 la información de contacto disponible de las personas con posible derecho a la herencia, incluyendo
+18 dirección física, dirección postal, correo electrónico, número telefónico u otro medio de contacto
+19 conocido. Cuando algún heredero no pueda ser localizado, el notario deberá documentar en el
+20 expediente las gestiones de búsqueda realizadas, las fuentes consultadas, las notificaciones
+21 cursadas y cualquier información obtenida sobre su paradero, existencia, fallecimiento, sucesores
+22 o representante legítimo.
+
+14
+1 El notario podrá utilizar medios electrónicos verificables para cursar notificaciones o
+2 comunicaciones relacionadas con el procedimiento, siempre que conserve constancia del envío,
+3 recibo, acceso o gestión realizada y que dicho mecanismo sea compatible con las reglas que adopte
+4 el Tribunal Supremo.
+5 3.- …
+6 4.- Si luego de calificar los documentos concluye que procede realizar la
+7 declaración de hechos y de derecho solicitada por el requirente, el notario hará constar
+8 en un acta notarial lo siguiente:
+9 a. …
+10 …
+11 d. La declaración de los hechos y del derecho correspondiente**; y**
+12 e. En los procedimientos de declaratoria de herederos, las gestiones de búsqueda y
+13 notificación realizadas respecto a cualquier heredero no localizado, así como la forma en que se
+14 documentó o protegió su posible derecho, si alguno.
+15 5.- …
+16 …
+17 Sección 10.- Se enmienda el Artículo 6 de la Ley Núm. 282-1999, según enmendada,
+18 conocida como “Ley de Asuntos No Contenciosos Ante Notario”, para que lea como
+19 sigue:
+20 Artículo 6. — Cese del trámite.
+21 …
+22 El notario también cesará todo trámite con relación a un asunto si:
+
+15
+1 a. …
+2 …
+3 e. Tuviere conocimiento de que el asunto se está tramitando en el tribunal.
+4 La mera no localización de un heredero no requerirá, por sí sola, el cese del trámite notarial
+5 de declaratoria de herederos cuando la identidad, grado de parentesco y derecho de dicha persona
+6 puedan determinarse con la prueba documental disponible, no exista controversia u oposición
+7 fundamentada, y el notario haga constar en el acta las gestiones de búsqueda y notificación
+8 realizadas.
+9 El notario deberá cesar su intervención y orientar al requirente sobre la necesidad de acudir
+10 al tribunal cuando la no localización impida determinar con certeza la identidad de las personas
+11 llamadas a la herencia, exista controversia sobre el derecho o grado de parentesco de alguna
+12 persona, sea necesario nombrar representante especial o defensor judicial, se requiera reserva de
+13 participación, consignación, partición, adjudicación de bienes, o cualquier otra medida que exceda
+14 la competencia notarial.
+15 …
+16 Sección 11.- Reglamentación.
+17 El Tribunal Supremo de Puerto Rico podrá adoptar o enmendar las reglas,
+18 formularios, procedimientos electrónicos, requisitos de publicación digital, modelos de
+19 notificación, normas de conservación de expedientes y cualquier otra disposición
+20 reglamentaria necesaria para implantar esta Ley en los tribunales y en los procedimientos
+21 de asuntos no contenciosos ante notario.
+
+16
+1 La Oficina de Administración de los Tribunales y la Oficina de Inspección de
+2 Notarías podrán adoptar guías administrativas compatibles con esta Ley y con la
+3 reglamentación que apruebe el Tribunal Supremo.
+4 Sección 12.- Aplicabilidad.
+5 Esta Ley aplicará a todo procedimiento sucesoral presentado a partir de su
+6 vigencia. También aplicará a procedimientos sucesorales pendientes en los cuales no se
+7 haya dictado resolución, sentencia, acta, escritura o adjudicación final y firme, siempre
+8 que su aplicación no menoscabe derechos adquiridos, acuerdos transaccionales válidos,
+9 adjudicaciones finales y firmes, ni actuaciones válidamente realizadas antes de su
+10 vigencia.
+11 Nada de lo dispuesto en esta Ley se interpretará como autorización para reabrir
+12 sentencias, resoluciones, actas notariales, escrituras públicas o adjudicaciones finales y
+13 firmes emitidas antes de su vigencia.
+14 Sección 13.- Separabilidad.
+15 Si cualquier disposición de esta Ley o su aplicación fuere declarada nula o
+16 inconstitucional por un tribunal competente, tal determinación no afectará las demás
+17 disposiciones o aplicaciones que puedan mantenerse en vigor sin la disposición o
+18 aplicación anulada.
+19 Sección 14.- Vigencia.
+20 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL   n A 1 a l L N 5 s e c c l p s d h p l c]
+[DELETED:  t c p c m a r o j v t m t p a a o d p d E c p e c i p s u p q p t d e l l a u h c p u u n e c s d d l b c p n u p h s p i l c m c u p u p e c E p n e n l y p r l p q p d l h e p e d a s o l v d u e á n l m p q e n d g d]
+[DELETED:  d a h n d n r e r d c o a d b e n d c s e m P R a u l p q a a m 1 S e e A 5 d l L d P L s i y l f e q s a p c f s d q s h h l i y r c s]
+[DELETED:  ( l i d c d d l p c d a l h o s m ( c a h n h p s l u d j q d j a q s h p l s e e e m b  A H p h p c d d f d p c e p e g E t p d d d h t a a j l p o a d h e q s a l]
+[DELETED:  e j L d ( p ( ( r d e t d d h p s e ( b e e R d l P C d R d I M o ( c ( v ( d j o e d d f v a i ( b e o c f d p r c]
+[DELETED:  ( p N d l v d C h n l L o o E p d n q e t d s q p l e o p c e L r e p n r e o d j o l r d l]
+[DELETED:  p q p c o d c o n p p s d 3 S e e A 5 d l L d P L r s b o c u h o l s m o e y n e r p s p o m o p u t q h N o c l a f d d c o n l d u h A p c o c o m p e t p l l a j a l a n p c a l p o a E e m s p p e d d h n l y q l a d]
+[DELETED:  4 S e e A 5 d l L d P L 4 d l R d P C p e d p d E o o o c o m t q p a r e e p d L e d l 5 S e e A 5 d l L d P L]
+[DELETED:  E p e p d o n e v o c o m c p o L h o l c A 5 — R e r d p y c p C c d l h e t p n u r e o d j p p]
+[DELETED:  E a c p c a M P c p o p i E p e c f n P r n e e e s i c a v o a q a l p p d h a r E r e o d j n p r l h r d e q C u p c D m p i l r d u c a c o d c p p a p a l o L c p d h n l d s s o d s r]
+[DELETED:  A s q s h c l g d b r n r L p q c p c l a q p p r a s N a a L h y g r d r e o d j c m E l s a t a o p c a s c c c 7 S e e A 1 d l L N 5 s]
+[DELETED:  C h t p o m u o p i b r n j p p 8 S a u n A 1 a l L N 5 s A L s q e t a m d c a l p p b p E l a a n d a o c y d c o o c L r]
+[DELETED:  L c p d h n l d s s o d s r h r E l d c e l g d b r l f c l n c o]
+[DELETED:  E n p u m e v p c n o c r e S l d c l d c q p r l e E l p d d d h l g d b y n d]
+[DELETED:  L d p f y e n h c e e a l g d b y n r E a l a l h e c s e d o g d p d a p p l … T S d P R p a o e l r n d c d e y c o d]
+[DELETED:  O d A d l T y l O d I d p a g a c c e L y c l L a a t p s p a p d s f y f n a v r a d s c d d e L o s a f d n o o a q p m e v s l d o]

@@ -1,0 +1,774 @@
+Title: Para enmendar los Artículos 2, 3, 4 y 6 de la Ley 253-1995, según enmendada,
+Official Title: Para enmendar los Artículos 2, 3, 4 y 6 de la Ley 253-1995, según enmendada,
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 67)
+LEY
+conocida como “Ley de Seguro de Responsabilidad Obligatorio para Vehículos
+de Motor”, a los fines de atemperar la definición de entidad autorizada para el
+cobro del Seguro de Responsabilidad Obligatorio a la evolución del marbete
+electrónico; disponer que la selección y pago del seguro obligatorio en vehículos
+de motor con más de tres (3) años de fabricación se llevará a cabo durante el
+proceso de inspección vehicular en una Entidad Autorizada para cobrar dicho
+seguro; establecer que la evidencia de la selección del asegurador en el
+Formulario de Selección puede ser provista al asegurado de forma electrónica o
+física; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Sistema de Seguro de Responsabilidad Obligatorio fue implementado en
+Puerto Rico, mediante la aprobación de la Ley 253-1995, según enmendada, conocida
+como “Ley de Seguro de Responsabilidad Obligatorio para Vehículos de Motor”, con el
+objetivo de establecer una cubierta automática de responsabilidad pública a todo
+vehículo de motor que transite por la vías de rodaje dentro de la jurisdicción de Puerto
+Rico, así como para atender el problema asociado a la pérdida económica que resultaba
+en los daños no compensados relacionado a accidentes de tránsito de vehículos de
+motor.
+El modelo implementado en Puerto Rico emuló los modelos y mecanismos vigentes
+y operantes en otros estados de los Estados Unidos. Para garantizar que todo ciudadano
+que transite por las vías de rodaje contase con una cubierta de responsabilidad pública
+que cubra por daños ocasionados a terceros ante una colisión vehicular, el formulario y
+el pago del Seguro de Responsabilidad Obligatorio, se implementó al momento de la
+obtención o renovación y pago de los derechos de licencia vehicular.
+La cubierta y la prima del seguro obligatorio son uniformes y están establecidas en
+la Ley 253-1995, supra. Tanto la cubierta como la prima del seguro obligatorio fueron
+instituidas a base del estudio actuarial ejecutado por la firma Mercer (William Mercer)
+llevada a cabo en enero del año 1995 y cimentado en un principio de “fault-base” o
+responsabilidad, definido bajo un sistema de determinación inicial, promulgado por la
+Oficina del Comisionado de Seguros bajo la Regla LXXI.
+La prima del seguro obligatorio, producto del estudio actuarial llevado a cabo por
+la firma precitada, dispuso de una prima uniforme de noventa y nueve dólares ($99.00)
+para vehículos privados y ciento cuarenta y ocho dólares ($148.00) para vehículos
+comerciales. Esta prima uniforme está cimentada en una distribución porcentual
+2
+específica del dólar prima. La distribución del dólar prima que surge del estudio
+actuarial de Mercer contempla las distintas partidas que tienen que ser cubiertas por el
+asegurador, cuyos porcientos asignados suman la cantidad total de la prima actual del
+Seguro de Responsabilidad Obligatorio, y que fueron presentados y aprobados por la
+Decimosegunda Asamblea Legislativa bajo el Proyecto del Senado 1163, a saber1:
+0F
+Concepto Por Ciento Prima Privada Prima Comercial
+_____________________________________________________________________________
+Costos de Adquisición 8% $7.92 $11.84
+Impuestos, Licencias 1 $.99 $1.48
+y Cargos
+Gasto Administrativo 7 $6.93 $10.36
+Ganancia 5 $4.95 $7.40
+_____________________________________
+Subtotal 21 $20.79 $31.08
+Pérdidas y Ajustes 79 $78.21 $116.92
+TOTAL 100% $99.00 $148.00
+La distribución de este dólar prima representa los diferentes conceptos de gastos a
+los cuales debe ir destinado el dólar prima. Estos conceptos incluyen: i. costo de
+adquisición, esto es la parte de esta partida que al presente se paga a las Estaciones
+Oficiales de Inspección, o sea, el cinco por ciento (5%) por prima suscrita; ii. los
+impuestos, costo de licencias y otros cargos; iii. el gasto administrativo; iv. la ganancia
+del asegurador, el ajuste y pago de pérdidas de reclamaciones.
+Desde su creación hasta el presente, la Ley 253-1995, supra, ha experimentado
+enmiendas diversas, siendo la más significativa aquellas incorporadas por virtud de la
+Ley 245-2014, la cual integró el Formulario de Selección para garantizar la apertura en el
+mercado y el resguardo de la participación de otras aseguradoras privadas en el
+ofrecimiento del Seguro de Responsabilidad Obligatorio, además de proteger el derecho
+del consumidor a escoger el asegurador de su preferencia.
+1 Comunicación C-35, Oficina del Comisionado de Seguros de PR, Hon. Juan Antonio García, 15 de julio de 1995,
+Proyecto del Senado 1163.
+3
+En principio, el Formulario de Selección fue contemplado de forma física, no
+obstante, sin cerrar las puertas a que en su momento fuere posible poner en función un
+mecanismo electrónico que proveyera el Formulario de Selección de forma digital,
+manteniendo los requisitos establecidos en la Ley e incluyendo el requerimiento de la
+firma del asegurado. En todo caso, para garantizar la pureza y confiabilidad del
+proceso, dicha firma debe llevarse a cabo de forma presencial.
+Así las cosas, ante la evolución tecnológica, su arraigo en todas las actividades de
+la cotidianidad de la vida moderna y siendo el norte del Gobierno de Puerto Rico
+viabilizar los accesos a los servicios a disposición del ciudadano de forma tecnológica,
+esta Ley promueve la integración efectiva de la tecnología en la gestión gubernamental.
+Esta Ley está alineada con los esfuerzos llevados a cabo por el Gobierno de Puerto
+Rico para mantenerse a la vanguardia de los cambios tecnológicos. Ello, en aras de
+lograr mayor eficiencia en la administración del aparato gubernamental, agilización de
+procesos y adelantar la unificación e integración de los sistemas tecnológicos en Puerto
+Rico.
+Por tanto, habiéndose implementado el concepto del marbete electrónico y el pago
+de los derechos de licencia de vehículo de motor y renovación de forma digital, resulta
+imperativo atemperar la Ley 253-1995, supra, de modo que se disponga de la
+metodología y procesos asociados al pago y selección del Seguro de Responsabilidad
+Obligatorio ante los cambios tecnológicos experimentados recientemente y aquellos
+que, como imperativo para su unificación, son necesarios para que el Gobierno de
+Puerto Rico logre su encomienda de forma efectiva y sostenida.
+Al adelantar el concepto del marbete electrónico y un Formulario de Selección
+Digital, es imperioso resguardar la gesta de las Estaciones Oficiales de Inspección
+dentro del proceso de selección y pago del Seguro de Responsabilidad Obligatorio, así
+como de la partida que estos pequeños comerciantes obtienen por el procesamiento de
+la prima. De lo contrario, esta Asamblea Legislativa tendría la responsabilidad de
+aplicar una reducción a la prima del seguro obligatorio, puesto que la distribución del
+dólar prima que paga el asegurado para un fin específico ya no estaría presente, el cual
+constituye una porción de un cinco por ciento (5%) del dólar prima, establecido bajo el
+precitado estudio Mercer.
+El Gobierno de Puerto Rico reconoce la gesta de las Estaciones Oficiales de
+Inspección en el proceso de obtención y renovación de los derechos de licencia
+vehicular y del Seguro Obligatorio, labor que han estado ejerciendo por casi dos
+décadas. Igualmente, reconocemos que esta partida de procesamiento del Seguro
+Obligatorio que reciben las Estaciones Oficiales de Inspección de los aseguradores es
+vital para el sustento de la operación de cientos de centros de inspección. Es igualmente
+importante que la distribución del dólar prima del Seguro Obligatorio se utilice para los
+fines establecidos en la distribución de la prima, puesto que el asegurado los paga para
+4
+un fin determinado. Lo contrario, constituiría un enriquecimiento no sustentado en el
+estudio actuarial que dio base a la prima del Seguro Obligatorio, en beneficio de las
+aseguradoras, contrario a la partida de ganancia contemplada por el estudio actuarial
+Mercer. Lo que opera en detrimento del ciudadano, como de las Estaciones Oficiales de
+Inspección en Puerto Rico.
+Esta Asamblea Legislativa, considera medular viabilizar la evolución del sistema
+de obtención, renovación y pago de los derechos de licencia vehicular a un mecanismo
+digital o electrónico. Igualmente, estima que el viabilizar que el Formulario de Selección
+vaya en armonía con esta evolución, garantiza el derecho del asegurado a la selección y
+resguardo de la gesta de la Estaciones Oficiales de Inspección en el proceso. A estos
+fines, mediante esta Ley insertamos unas enmiendas técnicas con el objetivo de
+disponer y reconocer el mecanismo de selección digital y su operación dentro del
+sistema del Seguro de Responsabilidad Obligatorio. Ergo, es importante aclarar que
+esta medida no trastoca los costos actuales de la inspección vehicular, los cuales están
+dispuestos en la Ley 22-2000, según enmendada, conocida como “Ley de Vehículos y
+Tránsito de Puerto Rico”, puesto que el pago por el procesamiento y selección del
+Seguro de Responsabilidad Obligatorio a las entidades autorizadas es una
+responsabilidad y va a cargo de las aseguradoras participantes del Formulario de
+Selección, y se encuentran contempladas dentro de la partida del dólar.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1. - Se enmienda el Artículo 2 de la Ley 253-1995, según enmendada, para
+que lea como sigue:
+“Artículo 2. – Declaración de Propósitos.
+En atención al problema de la pérdida económica como resultado de los daños
+no compensados que sufren los vehículos de motor en accidentes de tránsito, el
+Gobierno de Puerto Rico adopta mediante la presente Ley un sistema de Seguro de
+Responsabilidad Obligatorio que cubra los daños ocasionados a vehículos en dichos
+accidentes. A estos fines, para que un vehículo de motor pueda transitar por las vías
+públicas, su dueño deberá obtener y mantener vigente una cubierta de seguro de
+responsabilidad. Esta cubierta responde por los daños causados a vehículos de motor
+de terceros como resultado de un accidente de tránsito, por los cuales es legalmente
+responsable el dueño del vehículo asegurado por este seguro y a causa de cuyo uso se
+ocasionan dichos daños.
+Para poner en ejecución el carácter obligatorio de la cubierta de seguro, se deberá
+pagar el costo de ésta a la fecha en que se adquiera por primera vez o se renueve la
+licencia del vehículo, o a la fecha en que se lleve a cabo la inspección vehicular periódica
+por una Entidad Autorizada para el cobro del Seguro de Responsabilidad Obligatorio,
+en el caso de los vehículos no exentos del requisito de inspección, o sea vehículos que
+tengan más de tres (3) años de fabricados. La cubierta obligatoria no será cancelable,
+5
+excepto como se dispone en el Artículo 4 (c) de esta Ley, ni reembolsable y al momento
+de compra se pagará la totalidad de su costo, excepto como se dispone por el Artículo
+12 (a) de esta Ley.”
+Sección 2.- Se enmiendan los incisos (g) e (i) del Artículo 3 de la Ley 253-1995,
+según enmendada, para que lean como sigue:
+“Artículo 3.– Definiciones
+Para fines de esta Ley, los siguientes términos y frases tendrán el significado que
+se expresa a continuación:
+(a)…
+(b)…
+…
+(g) Entidades autorizadas para el cobro y procesamiento físico o electrónico del
+Seguro de Responsabilidad Obligatorio. – Significa las entidades autorizadas por el
+Secretario de Hacienda y el Secretario de Transportación y Obras Públicas, incluyendo
+Colecturías, Estaciones Oficiales de Inspección debidamente autorizadas, bancos, según
+definidos en la Ley Núm. 55 de 12 de mayo de 1933, según enmendada, mejor conocida
+como “Ley de Bancos de Puerto Rico”, y cooperativas, según definidas en la Ley 239-
+2004, según enmendada, mejor conocida como “Ley General de Sociedades
+Cooperativas de 2004”,para el cobro, recaudo o procesamiento físico o electrónico del
+pago de los derechos de expedición o renovación de licencia de un vehículo de motor,
+conjuntamente con el cobro del Seguro de Responsabilidad Obligatorio en la misma
+transacción para la expedición o renovación de la licencia vehicular o en la misma
+transacción relativa al cobro o recaudo físico o electrónico del pago de derechos de
+inspección periódica de un vehículo de motor con más de tres (3) años de fabricado,
+cuando ésta sea llevada a cabo por una Entidad Autorizada.
+(h) …
+(i) Formulario de Selección – Significa el mecanismo, ya sea físico o electrónico,
+mediante el cual cada dueño de vehículo de motor, al momento de la expedición o
+renovación de su licencia, en el caso de vehículos no sujetos a inspección, o al momento
+de la inspección periódica del vehículo de motor llevada a cabo por una Entidad
+Autorizada para cobrar el Seguro de Responsabilidad Obligatorio, en el caso de
+vehículos con más de tres (3) años de fabricados, podrán seleccionar al asegurador de su
+preferencia para que emita el Seguro de Responsabilidad Obligatorio. En el caso de
+utilizar un Formulario de Selección electrónico o digital, se proveerá al asegurado de
+evidencia, física o electrónica, de dicha selección al momento de la elección. En este
+Formulario aparecerá la Asociación de Suscripción Conjunta y cualquier asegurador
+privado que opte por participar en este mecanismo para ofrecer el Seguro de
+Responsabilidad Obligatorio.
+(j)…
+6
+(k)…
+…”
+Sección 3. – Se enmiendan los incisos (a), (b), (c), (e), (f), (g), (h) y (k) del Artículo
+4 de la Ley 253-1995, según enmendada, para que lean como sigue:
+“Artículo 4 –Disposiciones Generales del Seguro de Responsabilidad Obligatorio.
+(a) El Formulario de Selección será el mecanismo a utilizarse para que el
+consumidor ejerza su derecho a elegir la aseguradora de su preferencia. El Formulario
+de Selección puede ser de forma digital o electrónica. En caso de un Formulario
+electrónico o digital, la selección, procesamiento y cobro del Seguro de Responsabilidad
+Obligatorio, por parte de una Entidad Autorizada para ello, a dueños de vehículos con
+más de tres (3) años de fabricados, se realizará conjuntamente en la misma transacción
+para el pago de derechos de una inspección vehicular periódica. El Comisionado
+establecerá lo concerniente al contenido de dicho formulario el cual deberá incluir
+información básica de identificación del vehículo del asegurado como el número de
+tablilla, así como el detalle de la cubierta uniforme y sus límites. De igual forma, la
+firma del asegurado se llevará acabo de forma presencial, cuando el pago y
+procesamiento se lleve a cabo en la misma transacción para el pago de los derechos de
+inspección vehicular periódica cuando ésta se realice por una Entidad Autorizada para
+el cobro del Seguro de Responsabilidad Obligatorio, requerida en los casos en que el
+vehículo de motor del asegurado tuviese más de tres (3) años de fabricado. El orden de
+los aseguradores en dicho formulario se determinará al azar. Los aseguradores privados
+contemplados en el Formulario no podrán rechazar a ningún solicitante que lo escoja, ni
+podrán retirarse de ser una alternativa de selección hasta tanto culmine la vigencia de
+dicho Formulario.
+(b) El Comisionado y el Departamento de Transportación y Obras Públicas,
+en conjunto, establecerán los procedimientos para el acceso, procesamiento y
+administración del Formulario de Selección, y organizarán la metodología en cuanto al
+Formulario de Selección electrónico o digital conforme esta Ley, considerando que para
+autos con más de tres (3) años de fabricados dicha selección se llevará a cabo durante el
+proceso de inspección periódica del vehículo de motor en una Estación Oficial de
+Inspección debidamente autorizada para el cobro del Seguro de Responsabilidad
+Obligatorio. El Departamento de Transportación y Obras Públicas será la agencia con
+facultad de fiscalización y atención de querellas presentadas contra una Estación Oficial
+de Inspección, en relación con el incumplimiento o inobservancia en cuanto al derecho
+de selección del asegurado, y tendrá facultad para emitir sanciones administrativas
+conforme al proceso dispuesto en la Ley 38-2017, según enmendada, conocida como
+“Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”.
+(c) El Formulario tendrá una vigencia de un año, contado a partir de su
+aprobación por el Comisionado. Todas las entidades autorizadas para el cobro del
+Seguro de Responsabilidad Obligatorio utilizarán este Formulario al momento de una
+persona realizar el pago de los derechos de licencia o al momento de llevar a cabo la
+7
+inspección periódica del vehículo de motor, cuando éste tuviese más de tres (3) años de
+fabricado, según sea el caso.
+(d) …
+(e) El Formulario contendrá aquella información necesaria para identificar el
+vehículo asegurado. El original será entregado al asegurado al momento del pago de
+los derechos de licencia. De no estar en formato electrónico o sistema mecanizado,
+copias del mismo se distribuirán al Departamento de Transportación y Obras Públicas,
+la Asociación de Suscripción Conjunta y al asegurador seleccionado. Del Formulario
+estar en formato digital o electrónico, la selección será notificada de forma automática y
+electrónica al momento de la selección al asegurado, al Departamento de
+Transportación y Obras Públicas, a la Asociación de Suscripción Conjunta y al
+asegurador seleccionado. En la eventualidad de que el asegurador seleccionado necesite
+información adicional del vehículo asegurado y su dueño registral, la misma le será
+provista por la Asociación de Suscripción Conjunta o el Departamento de
+Transportación y Obras Públicas.
+(f) El Formulario de Selección se utilizará físicamente hasta tanto el
+Departamento de Hacienda y el Departamento de Transportación y Obras Públicas
+implementen y esté en función un sistema mecanizado que provea el Formulario
+tecnológicamente. Dicho sistema cumplirá con todos los criterios aquí establecidos,
+incluyendo el requerimiento de firma del Formulario dispuesto en el Artículo 4 (a) de
+esta Ley, para garantizar la libre selección del consumidor al momento de adquirir el
+Seguro de Responsabilidad Obligatorio y vinculará su selección al proceso de
+inspección periódica del vehículo de motor en una Entidad Autorizada, cuando se trate
+de vehículos con más de tres (3) años de fabricado, además de proveer para que el
+asegurado conserve evidencia de la selección realizada.
+(g) Toda persona que obtenga por primera vez o renueve la licencia de un
+vehículo de motor requerida por la “Ley de Vehículos y Tránsito de Puerto Rico”, luego
+de escoger al asegurador, incluyendo a la Asociación de Suscripción Conjunta, de su
+preferencia a través del Formulario de Selección, vendrá obligada a pagar la prima
+correspondiente del Seguro de Responsabilidad Obligatorio, junto con el pago del
+importe de los derechos por la expedición o renovación de la referida licencia o en la
+misma transacción relativa al pago de derechos de inspección periódica del vehículo de
+motor, realizada por una Entidad Autorizada para el cobro del Seguro de
+Responsabilidad Obligatorio, según aplique, salvo que presente el Certificado de
+Cumplimiento establecido en el Artículo 13 de esta Ley. A estos efectos, las entidades
+autorizadas para el cobro del Seguro de Responsabilidad Obligatorio, viabilizarán y se
+asegurarán que dicho consumidor seleccione el asegurador con el cual desee obtener el
+Seguro de Responsabilidad Obligatorio y firme el Formulario.
+Será obligación de toda entidad autorizada exhibir un aviso en un lugar visible al
+consumidor en cada establecimiento, ubicado en el área de pago de los derechos de
+8
+licencia. Dicho aviso, en letra de imprenta no menor de un tamaño 45, incluirá el
+siguiente texto:
+“Toda persona tiene derecho a seleccionar el asegurador de su preferencia para el
+Seguro de Responsabilidad Obligatorio. A tales fines utilizará el Formulario de
+Selección.”
+En la entidad autorizada al cobro se asegurarán de no finalizar la transacción sin
+que la persona haya realizado la elección de su asegurador.
+El Comisionado, en consulta con el Departamento de Hacienda y el Departamento
+de Transportación y Obras Públicas, podrá establecer, mediante reglamentación al
+efecto, métodos alternos para el pago de la prima correspondiente al Seguro de
+Responsabilidad Obligatorio. En todo caso, el método de pago deberá garantizar que la
+emisión o renovación de la licencia de un vehículo de motor estará sujeta a que el dueño
+del referido vehículo esté asegurado por un seguro de responsabilidad tradicional o el
+Seguro de Responsabilidad Obligatorio. Además, garantizará al individuo el derecho a
+la libre selección mediante la utilización del Formulario aquí establecido para estos
+efectos. Al establecerse un sistema tecnológico de cobro o método de pago electrónico,
+el mismo proveerá las garantías suficientes que permitan la corroboración o validación
+de la identidad del asegurado, así como la obligación de seleccionar un asegurador, al
+momento del pago de la expedición o renovación de los derechos de licencia o de la
+inspección periódica del vehículo de motor por una Entidad Autorizada para el cobro
+del Seguro de Responsabilidad Obligatorio, cuando éste tuviese más de tres (3) años de
+fabricado, previo a que se le expida la licencia o marbete. El Secretario de
+Transportación y Obras Públicas denegará la expedición o renovación de toda licencia
+de vehículo de motor a nombre de aquellas personas que no cumplan con esta
+disposición.
+(h) Cuando el dueño registral de un vehículo realice la inspección periódica
+del vehículo de motor en una Entidad Autorizada para cobrar el Seguro de
+Responsabilidad Obligatorio, o la adquisición o renovación de sus derechos de licencia
+mediante un gestor o tercero, la comparecencia de éste a realizar tal gestión tendrá el
+efecto de una autorización del titular, válida a los fines de seleccionar al asegurador que
+proveerá el Seguro de Responsabilidad Obligatorio y cualquier otra gestión relacionada
+a dicho propósito. Las entidades autorizadas al cobro del Seguro de Responsabilidad
+Obligatorio identificarán al representante del dueño registral y requerirán la
+documentación necesaria de ambos, incluyendo, pero sin limitarse a una identificación
+válida con foto, dejando constancia del hecho en el Formulario de Selección o sistema
+mecanizado correspondiente.
+(i) …
+(j) …
+(k) Todo dueño de un vehículo de motor que desee adquirir el Seguro de
+Responsabilidad Obligatorio podrá seleccionar libremente el asegurador de su
+9
+preferencia que ofrezca dicha cubierta. Cada dueño de vehículo de motor, al momento
+de la expedición o renovación de la licencia del vehículo, o de la inspección periódica
+del vehículo de motor en una Entidad Autorizada para cobrar el Seguro de
+Responsabilidad Obligatorio, según aplique, seleccionará entre las entidades
+participantes en el Formulario de Selección al asegurador de su preferencia, excepto
+cuando el dueño haya adquirido un seguro tradicional igual o mayor a este seguro,
+según evidenciado en el Certificado de Cumplimiento. Los aseguradores privados que
+ofrezcan esta cubierta podrán seleccionar sus asegurados conforme a las disposiciones
+del Artículo 5 (b) de esta Ley, salvo aquellos que hayan determinado participar en el
+Formulario de Selección, quienes renuncian a su facultad de rechazar a un solicitante.
+(l) …”
+Sección 4.-Se enmiendan los incisos (a), (b) y (d) del Artículo 6 de la Ley 253-1995,
+según enmendada, para que lean como sigue:
+“Artículo 6 –Asociación de Suscripción Conjunta - Creación
+(a) Se crea la Asociación de Suscripción Conjunta del Seguro de
+Responsabilidad Obligatorio, asociación privada que administrará y ofrecerá el Seguro
+de Responsabilidad Obligatorio que se adquirirá mediante el pago de los derechos de
+expedición o renovación de la licencia de vehículos de motor o de los derechos de
+inspección periódica vehicular en una Entidad Autorizada para el cobro del Seguro de
+Responsabilidad Obligatorio, en aquellos casos de vehículos de motor con más de tres
+(3) años de fabricados, a todas aquellas personas que la seleccionen en el Formulario de
+Selección y a los solicitantes de dicho seguro rechazados por un asegurador privado
+que no forman parte del Formulario de Selección. La misma estará integrada por todos
+los aseguradores privados que cumplan con el requisito de suscripción de esta Ley.
+Cada uno de los aseguradores privados será miembro de la Asociación de Suscripción
+Conjunta como condición para continuar gestionando cualquier clase de seguro en
+Puerto Rico.
+(b) El propósito principal de la Asociación de Suscripción Conjunta será́
+administrar y proveer el Seguro de Responsabilidad Obligatorio para vehículos de
+motor a aquellas personas que no posean un seguro tradicional de responsabilidad o
+Seguro de Responsabilidad Obligatorio con un asegurador privado, y que a su vez, le
+hayan seleccionado en el Formulario de Selección y hayan pagado la correspondiente
+cubierta con el pago de los derechos por la expedición o renovación de la licencia de un
+vehículo de motor o de los derechos de inspección periódica del vehículo de motor en
+una Entidad Autorizada para cobrar el Seguro de Responsabilidad Obligatorio, según
+aplique, o a los solicitantes de dicho seguro rechazados por los aseguradores privados
+que no forman parte del Formulario de Selección.
+(c) …
+(d) Las primas pagadas, a través de entidades autorizadas para el cobro del
+Seguro de Responsabilidad Obligatorio conjuntamente con el pago de los derechos de
+10
+licencia o de inspección periódica de un vehículo de motor en una Entidad Autorizada
+para realizar el cobro de dicho seguro, serán debitadas por la Asociación de Suscripción
+Conjunta o transferidas a ésta, para su posterior distribución a todo asegurador,
+conforme al Formulario de Selección. La Asociación de Suscripción Conjunta, el
+Departamento de Hacienda y las entidades autorizadas para el cobro del Seguro de
+Responsabilidad Obligatorio podrán compartir la información necesaria, incluyendo
+aquella requerida en el inciso (l) de este Artículo para lograr la consecución de esta Ley.
+… ”
+Sección 5.- Vigencia.
+Esta Ley comenzará a regir inmediatamente desde su aprobación.
+[DELETED:  e l A 2 3 4 y 6 d l L 2 s e d S d R O a l e d m e q l e d l s d a e e S d S d R O f i eo  d e u c a d r p a t l d n c r a a d t d v d . a c e e d a 1 y c e u p d “” o v p y c c y o d ( p v  E p u e c e u d p]
+[DELETED:  d d p L d d d p q s d er:   P P P 8  $   $ 1  $   $ 7  $       5  $       2  $     7  $  $   1  $  $ c d i d e d p  E c i i c d d I o s e c p c ( p p s i l s c h e p l L 2 , h e y e r d l p d o a p e e]
+[DELETED:  p e F d S f c d f f n e q p e F d S d f d d a E t c p g l p y c d c d l v m y s e n d G d P R p m a l v d l c t E e a d a l L 2 , d m q s d d l a l c t e r y a c i p s u s n p q e G d a e c d m e y u F d S e i r l g d l E O d I p  D l c e A L t l r d G d P R r l g d l E O d e e p d o y r d l d d l y d S O l q h e e p c d I r q e p d p d S]
+[DELETED:  m e L i u e t c e o d y r e m d s d y s o d d d P R p q e p p e p y s d d R O a l e a e u y v a c d l a p d F dr 1S c q s l v d m e a d t e d P R a m l p L u s d S d O q c l d o a v e d s d d o y m v u c d s d l]
+[DELETED: ((… d R O – S l e a p e s e m c c “ G d S c e c d S d R O e l m p l e o r d l l v o e l m r a c o r f o e d p d d d e c c d d v d m a m d l e o l i p d v d m l a c p u E p c e S d R O e e c d p q e e S d R O E e c d f o e d d s a m d l e E e a l A d S C y c a q o p p e e m p o e S d]
+[DELETED: )E F d S s e m a u p q e S p s d f d o e  E c d u F e p d d d u i v p E C l c a c d d f e c d i b d i d v d a c e n d d a s l a d f p c e p y)E c e l p p e a p y d i p d v d m e u E O d d a p e c d S d R s d a y t f p e s a a p d e l L 3 s e c c)E F t u v d u a c a p d s p e C  T l e a p e c d]
+[DELETED: ))E d d l  D n e e f e o s m a m d l s a a a D d y O P a l A d S C y a a d v a y s d r l m l s p l A d S C o e D d)E F d S s u f h t e d H y e D d T y O P y e e f u s m q p e F  D s c c t l c a e d R O y v s s a p d v c m d t ( a d f a d p p q ead)T a t d F d S v o a p l p d S d R O j c e p d r p u E A p e c d S d O s a s q p e C dS e c e u e e á d p l d d]
+[DELETED:  D a e l d i n m d u t 4 i e“ d R O A t f u e F dEE T y O P p e m r a m a p e p d l p c a S d l s m l u d F a e p e p a q s l e l l o m E S d v d m a n d a p q n c c e)  v d m e u E A p c e S d i a r d d r y r l)…)…)T d d u v d m q d a e S d O p s l e a d s]
+[DELETED:  v d m e u E A p c e S d O s a s e l e e e F d S a a d s p e e d h a u s t i o m a e s)…)S c l A d S C d S d o r d l l d v d m o d l d d a p q c c e r d s d e L c c p c g c c d s e)E p p d l A d S C s y p e S d R O p v d)…)L]
+[DELETED:  o t a é p s p d a t a a F d S L A d S C e d H y l e a p e c d S d O p c l i n i]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 67)
+LEY
+Para enmendar los Artículos 2, 3, 4 y 6 de la Ley 253-1995, según enmendada,
+conocida como “Ley de Seguro de Responsabilidad Obligatorio para Vehículos
+de Motor”, a los fines de atemperar la definición de entidad autorizada para el
+cobro del Seguro de Responsabilidad Obligatorio a la evolución del marbete
+electrónico; disponer que la selección y pago del seguro obligatorio en vehículos
+de motor con más de tres (3) años de fabricación se llevará a cabo durante el
+proceso de inspección vehicular en una Entidad Autorizada para cobrar dicho
+seguro; establecer que la evidencia de la selección del asegurador en el
+Formulario de Selección puede ser provista al asegurado de forma electrónica o
+física; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Sistema de Seguro de Responsabilidad Obligatorio fue implementado en
+Puerto Rico, mediante la aprobación de la Ley 253-1995, según enmendada, conocida
+como “Ley de Seguro de Responsabilidad Obligatorio para Vehículos de Motor”, con el
+objetivo de establecer una cubierta automática de responsabilidad pública a todo
+vehículo de motor que transite por la vías de rodaje dentro de la jurisdicción de Puerto
+Rico, así como para atender el problema asociado a la pérdida económica que resultaba
+en los daños no compensados relacionado a accidentes de tránsito de vehículos de
+motor.
+El modelo implementado en Puerto Rico emuló los modelos y mecanismos vigentes
+y operantes en otros estados de los Estados Unidos. Para garantizar que todo ciudadano
+que transite por las vías de rodaje contase con una cubierta de responsabilidad pública
+que cubra por daños ocasionados a terceros ante una colisión vehicular, el formulario y
+el pago del Seguro de Responsabilidad Obligatorio, se implementó al momento de la
+obtención o renovación y pago de los derechos de licencia vehicular.
+La cubierta y la prima del seguro obligatorio son uniformes y están establecidas en
+la Ley 253-1995, supra. Tanto la cubierta como la prima del seguro obligatorio fueron
+instituidas a base del estudio actuarial ejecutado por la firma Mercer (William Mercer)
+llevada a cabo en enero del año 1995 y cimentado en un principio de “fault-base” o
+responsabilidad, definido bajo un sistema de determinación inicial, promulgado por la
+Oficina del Comisionado de Seguros bajo la Regla LXXI.
+La prima del seguro obligatorio, producto del estudio actuarial llevado a cabo por
+la firma precitada, dispuso de una prima uniforme de noventa y nueve dólares ($99.00)
+para vehículos privados y ciento cuarenta y ocho dólares ($148.00) para vehículos
+comerciales. Esta prima uniforme está cimentada en una distribución porcentual
+
+2
+específica del dólar prima. La distribución del dólar prima que surge del estudio
+actuarial de Mercer contempla las distintas partidas que tienen que ser cubiertas por el
+asegurador, cuyos porcientos asignados suman la cantidad total de la prima actual del
+Seguro de Responsabilidad Obligatorio, y que fueron presentados y aprobados por la
+Decimosegunda Asamblea Legislativa bajo el Proyecto del Senado 1163, a saber1:
+0F
+Concepto Por Ciento Prima Privada Prima Comercial
+_____________________________________________________________________________
+Costos de Adquisición 8% $7.92 $11.84
+Impuestos, Licencias 1 $.99 $1.48
+y Cargos
+Gasto Administrativo 7 $6.93 $10.36
+Ganancia 5 $4.95 $7.40
+_____________________________________
+Subtotal 21 $20.79 $31.08
+Pérdidas y Ajustes 79 $78.21 $116.92
+TOTAL 100% $99.00 $148.00
+La distribución de este dólar prima representa los diferentes conceptos de gastos a
+los cuales debe ir destinado el dólar prima. Estos conceptos incluyen: i. costo de
+adquisición, esto es la parte de esta partida que al presente se paga a las Estaciones
+Oficiales de Inspección, o sea, el cinco por ciento (5%) por prima suscrita; ii. los
+impuestos, costo de licencias y otros cargos; iii. el gasto administrativo; iv. la ganancia
+del asegurador, el ajuste y pago de pérdidas de reclamaciones.
+Desde su creación hasta el presente, la Ley 253-1995, supra, ha experimentado
+enmiendas diversas, siendo la más significativa aquellas incorporadas por virtud de la
+Ley 245-2014, la cual integró el Formulario de Selección para garantizar la apertura en el
+mercado y el resguardo de la participación de otras aseguradoras privadas en el
+ofrecimiento del Seguro de Responsabilidad Obligatorio, además de proteger el derecho
+del consumidor a escoger el asegurador de su preferencia.
+1 Comunicación C-35, Oficina del Comisionado de Seguros de PR, Hon. Juan Antonio García, 15 de julio de 1995,
+Proyecto del Senado 1163.
+
+3
+En principio, el Formulario de Selección fue contemplado de forma física, no
+obstante, sin cerrar las puertas a que en su momento fuere posible poner en función un
+mecanismo electrónico que proveyera el Formulario de Selección de forma digital,
+manteniendo los requisitos establecidos en la Ley e incluyendo el requerimiento de la
+firma del asegurado. En todo caso, para garantizar la pureza y confiabilidad del
+proceso, dicha firma debe llevarse a cabo de forma presencial.
+Así las cosas, ante la evolución tecnológica, su arraigo en todas las actividades de
+la cotidianidad de la vida moderna y siendo el norte del Gobierno de Puerto Rico
+viabilizar los accesos a los servicios a disposición del ciudadano de forma tecnológica,
+esta Ley promueve la integración efectiva de la tecnología en la gestión gubernamental.
+Esta Ley está alineada con los esfuerzos llevados a cabo por el Gobierno de Puerto
+Rico para mantenerse a la vanguardia de los cambios tecnológicos. Ello, en aras de
+lograr mayor eficiencia en la administración del aparato gubernamental, agilización de
+procesos y adelantar la unificación e integración de los sistemas tecnológicos en Puerto
+Rico.
+Por tanto, habiéndose implementado el concepto del marbete electrónico y el pago
+de los derechos de licencia de vehículo de motor y renovación de forma digital, resulta
+imperativo atemperar la Ley 253-1995, supra, de modo que se disponga de la
+metodología y procesos asociados al pago y selección del Seguro de Responsabilidad
+Obligatorio ante los cambios tecnológicos experimentados recientemente y aquellos
+que, como imperativo para su unificación, son necesarios para que el Gobierno de
+Puerto Rico logre su encomienda de forma efectiva y sostenida.
+Al adelantar el concepto del marbete electrónico y un Formulario de Selección
+Digital, es imperioso resguardar la gesta de las Estaciones Oficiales de Inspección
+dentro del proceso de selección y pago del Seguro de Responsabilidad Obligatorio, así
+como de la partida que estos pequeños comerciantes obtienen por el procesamiento de
+la prima. De lo contrario, esta Asamblea Legislativa tendría la responsabilidad de
+aplicar una reducción a la prima del seguro obligatorio, puesto que la distribución del
+dólar prima que paga el asegurado para un fin específico ya no estaría presente, el cual
+constituye una porción de un cinco por ciento (5%) del dólar prima, establecido bajo el
+precitado estudio Mercer.
+El Gobierno de Puerto Rico reconoce la gesta de las Estaciones Oficiales de
+Inspección en el proceso de obtención y renovación de los derechos de licencia
+vehicular y del Seguro Obligatorio, labor que han estado ejerciendo por casi dos
+décadas. Igualmente, reconocemos que esta partida de procesamiento del Seguro
+Obligatorio que reciben las Estaciones Oficiales de Inspección de los aseguradores es
+vital para el sustento de la operación de cientos de centros de inspección. Es igualmente
+importante que la distribución del dólar prima del Seguro Obligatorio se utilice para los
+fines establecidos en la distribución de la prima, puesto que el asegurado los paga para
+
+4
+un fin determinado. Lo contrario, constituiría un enriquecimiento no sustentado en el
+estudio actuarial que dio base a la prima del Seguro Obligatorio, en beneficio de las
+aseguradoras, contrario a la partida de ganancia contemplada por el estudio actuarial
+Mercer. Lo que opera en detrimento del ciudadano, como de las Estaciones Oficiales de
+Inspección en Puerto Rico.
+Esta Asamblea Legislativa, considera medular viabilizar la evolución del sistema
+de obtención, renovación y pago de los derechos de licencia vehicular a un mecanismo
+digital o electrónico. Igualmente, estima que el viabilizar que el Formulario de Selección
+vaya en armonía con esta evolución, garantiza el derecho del asegurado a la selección y
+resguardo de la gesta de la Estaciones Oficiales de Inspección en el proceso. A estos
+fines, mediante esta Ley insertamos unas enmiendas técnicas con el objetivo de
+disponer y reconocer el mecanismo de selección digital y su operación dentro del
+sistema del Seguro de Responsabilidad Obligatorio. Ergo, es importante aclarar que
+esta medida no trastoca los costos actuales de la inspección vehicular, los cuales están
+dispuestos en la Ley 22-2000, según enmendada, conocida como “Ley de Vehículos y
+Tránsito de Puerto Rico”, puesto que el pago por el procesamiento y selección del
+Seguro de Responsabilidad Obligatorio a las entidades autorizadas es una
+responsabilidad y va a cargo de las aseguradoras participantes del Formulario de
+Selección, y se encuentran contempladas dentro de la partida del dólar.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1. - Se enmienda el Artículo 2 de la Ley 253-1995, según enmendada, para
+que lea como sigue:
+“Artículo 2. – Declaración de Propósitos.
+En atención al problema de la pérdida económica como resultado de los daños
+no compensados que sufren los vehículos de motor en accidentes de tránsito, el
+Gobierno de Puerto Rico adopta mediante la presente Ley un sistema de Seguro de
+Responsabilidad Obligatorio que cubra los daños ocasionados a vehículos en dichos
+accidentes. A estos fines, para que un vehículo de motor pueda transitar por las vías
+públicas, su dueño deberá obtener y mantener vigente una cubierta de seguro de
+responsabilidad. Esta cubierta responde por los daños causados a vehículos de motor
+de terceros como resultado de un accidente de tránsito, por los cuales es legalmente
+responsable el dueño del vehículo asegurado por este seguro y a causa de cuyo uso se
+ocasionan dichos daños.
+Para poner en ejecución el carácter obligatorio de la cubierta de seguro, se deberá
+pagar el costo de ésta a la fecha en que se adquiera por primera vez o se renueve la
+licencia del vehículo, o a la fecha en que se lleve a cabo la inspección vehicular periódica
+por una Entidad Autorizada para el cobro del Seguro de Responsabilidad Obligatorio,
+en el caso de los vehículos no exentos del requisito de inspección, o sea vehículos que
+tengan más de tres (3) años de fabricados. La cubierta obligatoria no será cancelable,
+
+5
+excepto como se dispone en el Artículo 4 (c) de esta Ley, ni reembolsable y al momento
+de compra se pagará la totalidad de su costo, excepto como se dispone por el Artículo
+12 (a) de esta Ley.”
+Sección 2.- Se enmiendan los incisos (g) e (i) del Artículo 3 de la Ley 253-1995,
+según enmendada, para que lean como sigue:
+“Artículo 3.– Definiciones
+Para fines de esta Ley, los siguientes términos y frases tendrán el significado que
+se expresa a continuación:
+(a)…
+(b)…
+…
+(g) Entidades autorizadas para el cobro y procesamiento físico o electrónico del
+Seguro de Responsabilidad Obligatorio. – Significa las entidades autorizadas por el
+Secretario de Hacienda y el Secretario de Transportación y Obras Públicas, incluyendo
+Colecturías, Estaciones Oficiales de Inspección debidamente autorizadas, bancos, según
+definidos en la Ley Núm. 55 de 12 de mayo de 1933, según enmendada, mejor conocida
+como “Ley de Bancos de Puerto Rico”, y cooperativas, según definidas en la Ley 239-
+2004, según enmendada, mejor conocida como “Ley General de Sociedades
+Cooperativas de 2004”,para el cobro, recaudo o procesamiento físico o electrónico del
+pago de los derechos de expedición o renovación de licencia de un vehículo de motor,
+conjuntamente con el cobro del Seguro de Responsabilidad Obligatorio en la misma
+transacción para la expedición o renovación de la licencia vehicular o en la misma
+transacción relativa al cobro o recaudo físico o electrónico del pago de derechos de
+inspección periódica de un vehículo de motor con más de tres (3) años de fabricado,
+cuando ésta sea llevada a cabo por una Entidad Autorizada.
+(h) …
+(i) Formulario de Selección – Significa el mecanismo, ya sea físico o electrónico,
+mediante el cual cada dueño de vehículo de motor, al momento de la expedición o
+renovación de su licencia, en el caso de vehículos no sujetos a inspección, o al momento
+de la inspección periódica del vehículo de motor llevada a cabo por una Entidad
+Autorizada para cobrar el Seguro de Responsabilidad Obligatorio, en el caso de
+vehículos con más de tres (3) años de fabricados, podrán seleccionar al asegurador de su
+preferencia para que emita el Seguro de Responsabilidad Obligatorio. En el caso de
+utilizar un Formulario de Selección electrónico o digital, se proveerá al asegurado de
+evidencia, física o electrónica, de dicha selección al momento de la elección. En este
+Formulario aparecerá la Asociación de Suscripción Conjunta y cualquier asegurador
+privado que opte por participar en este mecanismo para ofrecer el Seguro de
+Responsabilidad Obligatorio.
+(j)…
+
+6
+(k)…
+…”
+Sección 3. – Se enmiendan los incisos (a), (b), (c), (e), (f), (g), (h) y (k) del Artículo
+4 de la Ley 253-1995, según enmendada, para que lean como sigue:
+“Artículo 4 –Disposiciones Generales del Seguro de Responsabilidad Obligatorio.
+(a) El Formulario de Selección será el mecanismo a utilizarse para que el
+consumidor ejerza su derecho a elegir la aseguradora de su preferencia. El Formulario
+de Selección puede ser de forma digital o electrónica. En caso de un Formulario
+electrónico o digital, la selección, procesamiento y cobro del Seguro de Responsabilidad
+Obligatorio, por parte de una Entidad Autorizada para ello, a dueños de vehículos con
+más de tres (3) años de fabricados, se realizará conjuntamente en la misma transacción
+para el pago de derechos de una inspección vehicular periódica. El Comisionado
+establecerá lo concerniente al contenido de dicho formulario el cual deberá incluir
+información básica de identificación del vehículo del asegurado como el número de
+tablilla, así como el detalle de la cubierta uniforme y sus límites. De igual forma, la
+firma del asegurado se llevará acabo de forma presencial, cuando el pago y
+procesamiento se lleve a cabo en la misma transacción para el pago de los derechos de
+inspección vehicular periódica cuando ésta se realice por una Entidad Autorizada para
+el cobro del Seguro de Responsabilidad Obligatorio, requerida en los casos en que el
+vehículo de motor del asegurado tuviese más de tres (3) años de fabricado. El orden de
+los aseguradores en dicho formulario se determinará al azar. Los aseguradores privados
+contemplados en el Formulario no podrán rechazar a ningún solicitante que lo escoja, ni
+podrán retirarse de ser una alternativa de selección hasta tanto culmine la vigencia de
+dicho Formulario.
+(b) El Comisionado y el Departamento de Transportación y Obras Públicas,
+en conjunto, establecerán los procedimientos para el acceso, procesamiento y
+administración del Formulario de Selección, y organizarán la metodología en cuanto al
+Formulario de Selección electrónico o digital conforme esta Ley, considerando que para
+autos con más de tres (3) años de fabricados dicha selección se llevará a cabo durante el
+proceso de inspección periódica del vehículo de motor en una Estación Oficial de
+Inspección debidamente autorizada para el cobro del Seguro de Responsabilidad
+Obligatorio. El Departamento de Transportación y Obras Públicas será la agencia con
+facultad de fiscalización y atención de querellas presentadas contra una Estación Oficial
+de Inspección, en relación con el incumplimiento o inobservancia en cuanto al derecho
+de selección del asegurado, y tendrá facultad para emitir sanciones administrativas
+conforme al proceso dispuesto en la Ley 38-2017, según enmendada, conocida como
+“Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”.
+(c) El Formulario tendrá una vigencia de un año, contado a partir de su
+aprobación por el Comisionado. Todas las entidades autorizadas para el cobro del
+Seguro de Responsabilidad Obligatorio utilizarán este Formulario al momento de una
+persona realizar el pago de los derechos de licencia o al momento de llevar a cabo la
+
+7
+inspección periódica del vehículo de motor, cuando éste tuviese más de tres (3) años de
+fabricado, según sea el caso.
+(d) …
+(e) El Formulario contendrá aquella información necesaria para identificar el
+vehículo asegurado. El original será entregado al asegurado al momento del pago de
+los derechos de licencia. De no estar en formato electrónico o sistema mecanizado,
+copias del mismo se distribuirán al Departamento de Transportación y Obras Públicas,
+la Asociación de Suscripción Conjunta y al asegurador seleccionado. Del Formulario
+estar en formato digital o electrónico, la selección será notificada de forma automática y
+electrónica al momento de la selección al asegurado, al Departamento de
+Transportación y Obras Públicas, a la Asociación de Suscripción Conjunta y al
+asegurador seleccionado. En la eventualidad de que el asegurador seleccionado necesite
+información adicional del vehículo asegurado y su dueño registral, la misma le será
+provista por la Asociación de Suscripción Conjunta o el Departamento de
+Transportación y Obras Públicas.
+(f) El Formulario de Selección se utilizará físicamente hasta tanto el
+Departamento de Hacienda y el Departamento de Transportación y Obras Públicas
+implementen y esté en función un sistema mecanizado que provea el Formulario
+tecnológicamente. Dicho sistema cumplirá con todos los criterios aquí establecidos,
+incluyendo el requerimiento de firma del Formulario dispuesto en el Artículo 4 (a) de
+esta Ley, para garantizar la libre selección del consumidor al momento de adquirir el
+Seguro de Responsabilidad Obligatorio y vinculará su selección al proceso de
+inspección periódica del vehículo de motor en una Entidad Autorizada, cuando se trate
+de vehículos con más de tres (3) años de fabricado, además de proveer para que el
+asegurado conserve evidencia de la selección realizada.
+(g) Toda persona que obtenga por primera vez o renueve la licencia de un
+vehículo de motor requerida por la “Ley de Vehículos y Tránsito de Puerto Rico”, luego
+de escoger al asegurador, incluyendo a la Asociación de Suscripción Conjunta, de su
+preferencia a través del Formulario de Selección, vendrá obligada a pagar la prima
+correspondiente del Seguro de Responsabilidad Obligatorio, junto con el pago del
+importe de los derechos por la expedición o renovación de la referida licencia o en la
+misma transacción relativa al pago de derechos de inspección periódica del vehículo de
+motor, realizada por una Entidad Autorizada para el cobro del Seguro de
+Responsabilidad Obligatorio, según aplique, salvo que presente el Certificado de
+Cumplimiento establecido en el Artículo 13 de esta Ley. A estos efectos, las entidades
+autorizadas para el cobro del Seguro de Responsabilidad Obligatorio, viabilizarán y se
+asegurarán que dicho consumidor seleccione el asegurador con el cual desee obtener el
+Seguro de Responsabilidad Obligatorio y firme el Formulario.
+Será obligación de toda entidad autorizada exhibir un aviso en un lugar visible al
+consumidor en cada establecimiento, ubicado en el área de pago de los derechos de
+
+8
+licencia. Dicho aviso, en letra de imprenta no menor de un tamaño 45, incluirá el
+siguiente texto:
+“Toda persona tiene derecho a seleccionar el asegurador de su preferencia para el
+Seguro de Responsabilidad Obligatorio. A tales fines utilizará el Formulario de
+Selección.”
+En la entidad autorizada al cobro se asegurarán de no finalizar la transacción sin
+que la persona haya realizado la elección de su asegurador.
+El Comisionado, en consulta con el Departamento de Hacienda y el Departamento
+de Transportación y Obras Públicas, podrá establecer, mediante reglamentación al
+efecto, métodos alternos para el pago de la prima correspondiente al Seguro de
+Responsabilidad Obligatorio. En todo caso, el método de pago deberá garantizar que la
+emisión o renovación de la licencia de un vehículo de motor estará sujeta a que el dueño
+del referido vehículo esté asegurado por un seguro de responsabilidad tradicional o el
+Seguro de Responsabilidad Obligatorio. Además, garantizará al individuo el derecho a
+la libre selección mediante la utilización del Formulario aquí establecido para estos
+efectos. Al establecerse un sistema tecnológico de cobro o método de pago electrónico,
+el mismo proveerá las garantías suficientes que permitan la corroboración o validación
+de la identidad del asegurado, así como la obligación de seleccionar un asegurador, al
+momento del pago de la expedición o renovación de los derechos de licencia o de la
+inspección periódica del vehículo de motor por una Entidad Autorizada para el cobro
+del Seguro de Responsabilidad Obligatorio, cuando éste tuviese más de tres (3) años de
+fabricado, previo a que se le expida la licencia o marbete. El Secretario de
+Transportación y Obras Públicas denegará la expedición o renovación de toda licencia
+de vehículo de motor a nombre de aquellas personas que no cumplan con esta
+disposición.
+(h) Cuando el dueño registral de un vehículo realice la inspección periódica
+del vehículo de motor en una Entidad Autorizada para cobrar el Seguro de
+Responsabilidad Obligatorio, o la adquisición o renovación de sus derechos de licencia
+mediante un gestor o tercero, la comparecencia de éste a realizar tal gestión tendrá el
+efecto de una autorización del titular, válida a los fines de seleccionar al asegurador que
+proveerá el Seguro de Responsabilidad Obligatorio y cualquier otra gestión relacionada
+a dicho propósito. Las entidades autorizadas al cobro del Seguro de Responsabilidad
+Obligatorio identificarán al representante del dueño registral y requerirán la
+documentación necesaria de ambos, incluyendo, pero sin limitarse a una identificación
+válida con foto, dejando constancia del hecho en el Formulario de Selección o sistema
+mecanizado correspondiente.
+(i) …
+(j) …
+(k) Todo dueño de un vehículo de motor que desee adquirir el Seguro de
+Responsabilidad Obligatorio podrá seleccionar libremente el asegurador de su
+
+9
+preferencia que ofrezca dicha cubierta. Cada dueño de vehículo de motor, al momento
+de la expedición o renovación de la licencia del vehículo, o de la inspección periódica
+del vehículo de motor en una Entidad Autorizada para cobrar el Seguro de
+Responsabilidad Obligatorio, según aplique, seleccionará entre las entidades
+participantes en el Formulario de Selección al asegurador de su preferencia, excepto
+cuando el dueño haya adquirido un seguro tradicional igual o mayor a este seguro,
+según evidenciado en el Certificado de Cumplimiento. Los aseguradores privados que
+ofrezcan esta cubierta podrán seleccionar sus asegurados conforme a las disposiciones
+del Artículo 5 (b) de esta Ley, salvo aquellos que hayan determinado participar en el
+Formulario de Selección, quienes renuncian a su facultad de rechazar a un solicitante.
+(l) …”
+Sección 4.-Se enmiendan los incisos (a), (b) y (d) del Artículo 6 de la Ley 253-1995,
+según enmendada, para que lean como sigue:
+“Artículo 6 –Asociación de Suscripción Conjunta - Creación
+(a) Se crea la Asociación de Suscripción Conjunta del Seguro de
+Responsabilidad Obligatorio, asociación privada que administrará y ofrecerá el Seguro
+de Responsabilidad Obligatorio que se adquirirá mediante el pago de los derechos de
+expedición o renovación de la licencia de vehículos de motor o de los derechos de
+inspección periódica vehicular en una Entidad Autorizada para el cobro del Seguro de
+Responsabilidad Obligatorio, en aquellos casos de vehículos de motor con más de tres
+(3) años de fabricados, a todas aquellas personas que la seleccionen en el Formulario de
+Selección y a los solicitantes de dicho seguro rechazados por un asegurador privado
+que no forman parte del Formulario de Selección. La misma estará integrada por todos
+los aseguradores privados que cumplan con el requisito de suscripción de esta Ley.
+Cada uno de los aseguradores privados será miembro de la Asociación de Suscripción
+Conjunta como condición para continuar gestionando cualquier clase de seguro en
+Puerto Rico.
+(b) El propósito principal de la Asociación de Suscripción Conjunta será́
+administrar y proveer el Seguro de Responsabilidad Obligatorio para vehículos de
+motor a aquellas personas que no posean un seguro tradicional de responsabilidad o
+Seguro de Responsabilidad Obligatorio con un asegurador privado, y que a su vez, le
+hayan seleccionado en el Formulario de Selección y hayan pagado la correspondiente
+cubierta con el pago de los derechos por la expedición o renovación de la licencia de un
+vehículo de motor o de los derechos de inspección periódica del vehículo de motor en
+una Entidad Autorizada para cobrar el Seguro de Responsabilidad Obligatorio, según
+aplique, o a los solicitantes de dicho seguro rechazados por los aseguradores privados
+que no forman parte del Formulario de Selección.
+(c) …
+(d) Las primas pagadas, a través de entidades autorizadas para el cobro del
+Seguro de Responsabilidad Obligatorio conjuntamente con el pago de los derechos de
+
+10
+licencia o de inspección periódica de un vehículo de motor en una Entidad Autorizada
+para realizar el cobro de dicho seguro, serán debitadas por la Asociación de Suscripción
+Conjunta o transferidas a ésta, para su posterior distribución a todo asegurador,
+conforme al Formulario de Selección. La Asociación de Suscripción Conjunta, el
+Departamento de Hacienda y las entidades autorizadas para el cobro del Seguro de
+Responsabilidad Obligatorio podrán compartir la información necesaria, incluyendo
+aquella requerida en el inciso (l) de este Artículo para lograr la consecución de esta Ley.
+… ”
+Sección 5.- Vigencia.
+Esta Ley comenzará a regir inmediatamente desde su aprobación.
+
+[DELETED:  e l A 2 3 4 y 6 d l L 2 s e d S d R O a l e d m e q l e d l s d a e e S d S d R O f i eo  d e u c a d r p a t l d n c r a a d t d v d . a c e e d a 1 y c e u p d “” o v p y c c y o d ( p v  E p u e c e u d p]
+[DELETED:  d d p L d d d p q s d er:   P P P 8  $   $ 1  $   $ 7  $       5  $       2  $     7  $  $   1  $  $ c d i d e d p  E c i i c d d I o s e c p c ( p p s i l s c h e p l L 2 , h e y e r d l p d o a p e e]
+[DELETED:  p e F d S f c d f f n e q p e F d S d f d d a E t c p g l p y c d c d l v m y s e n d G d P R p m a l v d l c t E e a d a l L 2 , d m q s d d l a l c t e r y a c i p s u s n p q e G d a e c d m e y u F d S e i r l g d l E O d I p  D l c e A L t l r d G d P R r l g d l E O d e e p d o y r d l d d l y d S O l q h e e p c d I r q e p d p d S]
+[DELETED:  m e L i u e t c e o d y r e m d s d y s o d d d P R p q e p p e p y s d d R O a l e a e u y v a c d l a p d F dr 1S c q s l v d m e a d t e d P R a m l p L u s d S d O q c l d o a v e d s d d o y m v u c d s d l]
+[DELETED: ((… d R O – S l e a p e s e m c c “ G d S c e c d S d R O e l m p l e o r d l l v o e l m r a c o r f o e d p d d d e c c d d v d m a m d l e o l i p d v d m l a c p u E p c e S d R O e e c d p q e e S d R O E e c d f o e d d s a m d l e E e a l A d S C y c a q o p p e e m p o e S d]
+[DELETED: )E F d S s e m a u p q e S p s d f d o e  E c d u F e p d d d u i v p E C l c a c d d f e c d i b d i d v d a c e n d d a s l a d f p c e p y)E c e l p p e a p y d i p d v d m e u E O d d a p e c d S d R s d a y t f p e s a a p d e l L 3 s e c c)E F t u v d u a c a p d s p e C  T l e a p e c d]
+[DELETED: ))E d d l  D n e e f e o s m a m d l s a a a D d y O P a l A d S C y a a d v a y s d r l m l s p l A d S C o e D d)E F d S s u f h t e d H y e D d T y O P y e e f u s m q p e F  D s c c t l c a e d R O y v s s a p d v c m d t ( a d f a d p p q ead)T a t d F d S v o a p l p d S d R O j c e p d r p u E A p e c d S d O s a s q p e C dS e c e u e e á d p l d d]
+[DELETED:  D a e l d i n m d u t 4 i e“ d R O A t f u e F dEE T y O P p e m r a m a p e p d l p c a S d l s m l u d F a e p e p a q s l e l l o m E S d v d m a n d a p q n c c e)  v d m e u E A p c e S d i a r d d r y r l)…)…)T d d u v d m q d a e S d O p s l e a d s]
+[DELETED:  v d m e u E A p c e S d O s a s e l e e e F d S a a d s p e e d h a u s t i o m a e s)…)S c l A d S C d S d o r d l l d v d m o d l d d a p q c c e r d s d e L c c p c g c c d s e)E p p d l A d S C s y p e S d R O p v d)…)L]
+[DELETED:  o t a é p s p d a t a a F d S L A d S C e d H y l e a p e c d S d O p c l i n i]

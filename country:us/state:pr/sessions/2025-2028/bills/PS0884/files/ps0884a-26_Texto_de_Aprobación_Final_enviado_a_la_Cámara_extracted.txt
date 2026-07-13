@@ -1,0 +1,212 @@
+Title: Referido a la Comisión de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del
+Official Title: Referido a la Comisión de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(9 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 884
+18 de diciembre de 2025
+Presentado por la señora Soto Aguilú
+Consumidor
+LEY
+Para enmendar el Artículo 21 de la Ley Núm. 5 de 23 de abril de 1973, según enmendada,
+conocida como "Ley Orgánica del Departamento de Asuntos del Consumidor", a los
+fines de requerir la radicación de informes anuales detallados sobre el estado de las
+querellas, embargos y colecciones realizadas por dicho Departamento; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Departamento de Asuntos del Consumidor (DACO) juega un rol fundamental en
+la protección de los derechos de los consumidores en Puerto Rico. Esta agencia no solo
+atiende consultas y resuelve querellas, sino que también ejerce poderes de fiscalización,
+incluyendo la emisión de embargos y órdenes de cobro de dinero para hacer efectivas sus
+determinaciones administrativas y judiciales. Estas acciones permiten recuperar fondos
+para los consumidores afectados, sancionar prácticas abusivas y garantizar el
+cumplimiento de las leyes de protección al consumidor.
+Sin embargo, en un contexto de creciente complejidad económica y mayor volumen
+de querellas relacionadas con prácticas comerciales injustas, inflación y disputas
+contractuales, es imperativo fortalecer la transparencia y la rendición de cuentas en las
+2
+operaciones del DACO. De otra parte, la Constitución de Puerto Rico, establece el
+principio de que el gobierno debe servir al pueblo y ser responsable ante él. Asimismo,
+leyes como la Ley 236-2010, según enmendada, conocida como “Ley de Rendición de
+Cuentas y Ejecución de Programas Gubernamentales”, la Ley 122-2019, conocida como
+“Ley de Datos Abiertos del Gobierno de Puerto Rico”, la Ley 141-2019, según enmendada,
+conocida como “Ley de Transparencia y Procedimiento Expedito para el Acceso a la
+Información Pública” o la Ley 107-2025, conocida como “Ley de Administración y
+Conservación de Documentos Públicos para el Siglo XXI”, entre otras, promueven la
+divulgación de información gubernamental para fomentar la confianza pública y permitir
+una supervisión efectiva por parte de la Asamblea Legislativa y el Gobernador.
+Actualmente, el Artículo 21 de la Ley Orgánica del DACO requiere un informe anual
+general sobre las labores realizadas durante el año fiscal. No obstante, este informe no
+detalla específicamente el estado de las querellas pendientes, los embargos emitidos ni
+las cuantías recolectadas mediante ejecuciones de embargos u órdenes de cobro. Esta
+omisión limita la capacidad de evaluar la eficiencia operativa del Departamento,
+identificar patrones de incumplimiento por parte de entidades reguladas, medir el
+impacto económico de sus intervenciones en beneficio de los consumidores y detectar
+posibles áreas de mejora en los procesos administrativos.
+La radicación de informes anuales detallados sobre estos aspectos promovería
+varios objetivos clave: (1) Mayor transparencia, al permitir que el público, los legisladores
+y el Ejecutivo accedan a datos agregados sobre el volumen y resolución de querellas,
+evitando opacidad en el manejo de fondos públicos y privados; (2) Rendición de cuentas,
+al obligar al DACO a documentar sus acciones de embargo y cobro, lo que disuadiría
+abusos y aseguraría el uso adecuado de recursos; (3) Eficiencia institucional, al facilitar
+análisis que revelen demoras en procesos o bajos índices de recuperación, permitiendo
+ajustes normativos o presupuestarios; (4) Protección al consumidor, al generar datos que
+informen políticas públicas para abordar problemas sistémicos, como fraudes recurrentes
+en sectores específicos; y (5) Cumplimiento con estándares internacionales de buena
+3
+gobernanza, alineados con los principios de la Organización para la Cooperación y el
+Desarrollo Económicos (OCDE) sobre transparencia en agencias regulatorias.
+Esta legislación no le impone una carga administrativa excesiva al DACO, puesto
+que esta ya mantiene registros internos de querellas, embargos y colecciones como parte
+de sus funciones bajo los Artículos 6, 9, 13 y 25 de su Ley Orgánica. Integrar estos detalles
+en el informe anual existente, optimizaría recursos y fortalecería el marco legal vigente
+sin crear estructuras paralelas. En última instancia, esta enmienda contribuirá a un
+gobierno más responsable, protegiendo los intereses de los consumidores
+puertorriqueños en un entorno económico desafiante.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 21 de la Ley Núm. 5 de 23 de abril de 1973,
+2 según enmendada, para que lea como sigue:
+3 "Artículo 21.- Informe anual.
+4 El Secretario deberá rendir al Gobernador y a la Asamblea Legislativa un informe
+5 de la labor realizada durante el año, al finalizar cada año fiscal. Dicho informe incluirá,
+6 como mínimo, la siguiente información:
+7 (a) El estado de todas las querellas radicadas ante el Departamento, incluyendo el
+8 número total de querellas recibidas, resueltas, pendientes y desestimadas, desglosadas
+9 por tipo de violación alegada y sector económico involucrado.
+10 (b) El número de embargos emitidos por el Departamento durante el año fiscal,
+11 con un desglose por tipo de embargo, entidad embargada y estatus actual (ejecutado,
+12 pendiente o revocado).
+4
+1 (c) La cuantía total de captación realizada mediante la ejecución de embargos y
+2 órdenes de cobro de dinero emitidas por el Departamento, incluyendo el monto
+3 recolectado, distribuido a consumidores o depositado en fondos especiales, y cualquier
+4 monto pendiente de recuperación.
+5 El informe será público y se hará disponible en la página electrónica del
+6 Departamento, inmediatamente después de haber sido presentado ante el Gobernador y
+7 la Asamblea Legislativa."
+8 Sección 2.- Cláusula de Separabilidad.
+9 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o
+10 inválida por un tribunal competente, dicha declaración no afectará las demás
+11 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+12 Sección 3.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A   3  .r L r l c a s p a y g e q r c p c i i y d]
+[DELETED:  d D D o p l C d P R e e e A P o l L 1 c c “ d A y l l c d e l e o d D p d i p p d e r m e r d i a d s e a p s e y ( C c e i d b]
+[DELETED:  c e p E ú i e e c a u m r p l i d l c]
+[DELETED:  d c d d e p e D i e m i s p y s h d e l p e d c d d e L f d i n o p u t c d d n a l d]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(9 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3 ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 884
+18 de diciembre de 2025
+Presentado por la señora Soto Aguilú
+Referido a la Comisión de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del
+Consumidor
+LEY
+Para enmendar el Artículo 21 de la Ley Núm. 5 de 23 de abril de 1973, según enmendada,
+conocida como "Ley Orgánica del Departamento de Asuntos del Consumidor", a los
+fines de requerir la radicación de informes anuales detallados sobre el estado de las
+querellas, embargos y colecciones realizadas por dicho Departamento; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Departamento de Asuntos del Consumidor (DACO) juega un rol fundamental en
+la protección de los derechos de los consumidores en Puerto Rico. Esta agencia no solo
+atiende consultas y resuelve querellas, sino que también ejerce poderes de fiscalización,
+incluyendo la emisión de embargos y órdenes de cobro de dinero para hacer efectivas sus
+determinaciones administrativas y judiciales. Estas acciones permiten recuperar fondos
+para los consumidores afectados, sancionar prácticas abusivas y garantizar el
+cumplimiento de las leyes de protección al consumidor.
+Sin embargo, en un contexto de creciente complejidad económica y mayor volumen
+de querellas relacionadas con prácticas comerciales injustas, inflación y disputas
+contractuales, es imperativo fortalecer la transparencia y la rendición de cuentas en las
+
+2
+operaciones del DACO. De otra parte, la Constitución de Puerto Rico, establece el
+principio de que el gobierno debe servir al pueblo y ser responsable ante él. Asimismo,
+leyes como la Ley 236-2010, según enmendada, conocida como “Ley de Rendición de
+Cuentas y Ejecución de Programas Gubernamentales”, la Ley 122-2019, conocida como
+“Ley de Datos Abiertos del Gobierno de Puerto Rico”, la Ley 141-2019, según enmendada,
+conocida como “Ley de Transparencia y Procedimiento Expedito para el Acceso a la
+Información Pública” o la Ley 107-2025, conocida como “Ley de Administración y
+Conservación de Documentos Públicos para el Siglo XXI”, entre otras, promueven la
+divulgación de información gubernamental para fomentar la confianza pública y permitir
+una supervisión efectiva por parte de la Asamblea Legislativa y el Gobernador.
+Actualmente, el Artículo 21 de la Ley Orgánica del DACO requiere un informe anual
+general sobre las labores realizadas durante el año fiscal. No obstante, este informe no
+detalla específicamente el estado de las querellas pendientes, los embargos emitidos ni
+las cuantías recolectadas mediante ejecuciones de embargos u órdenes de cobro. Esta
+omisión limita la capacidad de evaluar la eficiencia operativa del Departamento,
+identificar patrones de incumplimiento por parte de entidades reguladas, medir el
+impacto económico de sus intervenciones en beneficio de los consumidores y detectar
+posibles áreas de mejora en los procesos administrativos.
+La radicación de informes anuales detallados sobre estos aspectos promovería
+varios objetivos clave: (1) Mayor transparencia, al permitir que el público, los legisladores
+y el Ejecutivo accedan a datos agregados sobre el volumen y resolución de querellas,
+evitando opacidad en el manejo de fondos públicos y privados; (2) Rendición de cuentas,
+al obligar al DACO a documentar sus acciones de embargo y cobro, lo que disuadiría
+abusos y aseguraría el uso adecuado de recursos; (3) Eficiencia institucional, al facilitar
+análisis que revelen demoras en procesos o bajos índices de recuperación, permitiendo
+ajustes normativos o presupuestarios; (4) Protección al consumidor, al generar datos que
+informen políticas públicas para abordar problemas sistémicos, como fraudes recurrentes
+en sectores específicos; y (5) Cumplimiento con estándares internacionales de buena
+
+3
+gobernanza, alineados con los principios de la Organización para la Cooperación y el
+Desarrollo Económicos (OCDE) sobre transparencia en agencias regulatorias.
+Esta legislación no le impone una carga administrativa excesiva al DACO, puesto
+que esta ya mantiene registros internos de querellas, embargos y colecciones como parte
+de sus funciones bajo los Artículos 6, 9, 13 y 25 de su Ley Orgánica. Integrar estos detalles
+en el informe anual existente, optimizaría recursos y fortalecería el marco legal vigente
+sin crear estructuras paralelas. En última instancia, esta enmienda contribuirá a un
+gobierno más responsable, protegiendo los intereses de los consumidores
+puertorriqueños en un entorno económico desafiante.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 21 de la Ley Núm. 5 de 23 de abril de 1973,
+2 según enmendada, para que lea como sigue:
+3 "Artículo 21.- Informe anual.
+4 El Secretario deberá rendir al Gobernador y a la Asamblea Legislativa un informe
+5 de la labor realizada durante el año, al finalizar cada año fiscal. Dicho informe incluirá,
+6 como mínimo, la siguiente información:
+7 (a) El estado de todas las querellas radicadas ante el Departamento, incluyendo el
+8 número total de querellas recibidas, resueltas, pendientes y desestimadas, desglosadas
+9 por tipo de violación alegada y sector económico involucrado.
+10 (b) El número de embargos emitidos por el Departamento durante el año fiscal,
+11 con un desglose por tipo de embargo, entidad embargada y estatus actual (ejecutado,
+12 pendiente o revocado).
+
+4
+1 (c) La cuantía total de captación realizada mediante la ejecución de embargos y
+2 órdenes de cobro de dinero emitidas por el Departamento, incluyendo el monto
+3 recolectado, distribuido a consumidores o depositado en fondos especiales, y cualquier
+4 monto pendiente de recuperación.
+5 El informe será público y se hará disponible en la página electrónica del
+6 Departamento, inmediatamente después de haber sido presentado ante el Gobernador y
+7 la Asamblea Legislativa."
+8 Sección 2.- Cláusula de Separabilidad.
+9 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o
+10 inválida por un tribunal competente, dicha declaración no afectará las demás
+11 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+12 Sección 3.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A   3  .r L r l c a s p a y g e q r c p c i i y d]
+[DELETED:  d D D o p l C d P R e e e A P o l L 1 c c “ d A y l l c d e l e o d D p d i p p d e r m e r d i a d s e a p s e y ( C c e i d b]
+[DELETED:  c e p E ú i e e c a u m r p l i d l c]
+[DELETED:  d c d d e p e D i e m i s p y s h d e l p e d c d d e L f d i n o p u t c d d n a l d]
