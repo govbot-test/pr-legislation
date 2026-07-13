@@ -1,0 +1,1432 @@
+Title: Para crear la “Ley para Promover y Establecer el Intercambio de Información de Salud
+Official Title: Para crear la “Ley para Promover y Establecer el Intercambio de Información de Salud
+Number of Sections: 2
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 613)
+LEY
+de Puerto Rico”; derogar la Ley Núm. 40-2012, según enmendada, conocida como
+“Ley para la Administración e Intercambio Electrónico de Información de Salud de
+Puerto Rico”; reconocer al Puerto Rico Health Information Exchange (PRHIE),
+adscrito al Programa Medicaid del Departamento de Salud de Puerto Rico, como
+la entidad designada por el Estado para cumplir con los requerimientos
+establecidos por la Oficina del Coordinador Nacional de Tecnología de la
+Información en Salud (ASTP, por sus siglas en inglés), el Departamento de Salud y
+Servicios Humanos del Gobierno de los Estados Unidos (HHS, por sus siglas en
+inglés), y los Centros de Servicios de Medicare y Medicaid (CMS, por sus siglas en
+inglés); autorizar la creación y operación de un Consejo Asesor del PRHIE, con el
+fin de brindar asesoramiento y orientación estratégica al Programa Medicaid en
+asuntos relacionados con el intercambio de información de salud; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Durante las últimas décadas ha surgido un amplio consenso sobre el impacto
+positivo que tiene el intercambio y el uso eficiente de la información en la prestación de
+servicios de salud. El acceso oportuno y adecuado a datos clínicos no solo mejora la
+calidad del cuidado médico y reduce sus costos, sino que también disminuye
+significativamente las cargas administrativas, optimiza la gestión de la salud
+poblacional y fortalece la coordinación entre proveedores.
+Con ese fin, el gobierno federal ha impulsado diversas iniciativas para fomentar el
+uso estratégico de los datos de salud, incluyendo el desarrollo de sistemas de
+intercambio de información que permitan la recopilación, estandarización y
+accesibilidad de datos clínicos mediante un repositorio central o red interconectada. En
+el 2004, como parte de estos esfuerzos, se estableció la Oficina del Coordinador
+Nacional de Tecnología de la Información en Salud (ASTP, por sus siglas en inglés),
+como la entidad federal responsable de coordinar la implementación y expansión de
+tecnologías avanzadas en el ámbito del intercambio de información de salud.
+Posteriormente, en 2009 se aprobó la “Health Information Technology for Economic
+and Clinical Health” (HITECH Act), que promovió la adopción de sistemas de
+expedientes de salud electrónicos (EHR, por sus siglas en inglés). Esta legislación
+transformó la prestación de servicios de salud al facilitar el intercambio electrónico de
+información y establecer un marco legal para proteger dichos datos. Además, otorgó
+fondos federales a los estados para apoyar la implementación y expansión de sistemas
+de intercambio de información en salud (HIE, por sus siglas en inglés).
+2
+En ese contexto, en 2012 se promulgó en Puerto Rico la Ley Núm. 40-2012,
+conocida como la “Ley para la Administración e Intercambio Electrónico de
+Información de Salud de Puerto Rico”. Esta legislación representó un avance
+significativo para la informática en salud en la Isla. En virtud de dicha Ley, se comenzó
+el desarrollo del “Puerto Rico Health Information Network” (PRHIN), actualmente
+conocido como el “Puerto Rico Health Information Exchange” (PRHIE), con el fin de
+integrar electrónicamente los datos de salud del paciente y facilitar su manejo, cuidado
+y conservación.
+La Ley 40-2012, supra, designó al PRHIN como una organización sin fines de lucro,
+designada por el Estado como el como la “State Designated Entity” (SDE), otorgándole la
+responsabilidad de adoptar e implementar estándares de intercambio, seguridad e
+interoperabilidad de sistemas electrónicos y datos clínicos, conforme a requisitos
+federales y estatales. Asimismo, se le encomendó la integración tecnológica de los datos
+de salud para permitir su intercambio entre entidades afiliadas y no afiliadas, tanto
+dentro como fuera de la jurisdicción.
+Tras la aprobación de esta Ley, el Departamento de Salud de Puerto Rico, junto al
+Coordinador de Informática Médica del PRHIN, impulsó una política pública para
+viabilizar el intercambio electrónico de información. No obstante, con el tiempo
+surgieron obstáculos que limitaron su implementación efectiva, afectando tanto los
+servicios técnicos como operacionales del PRHIN. Ante esta situación, el Programa
+Medicaid del Departamento de Salud (PMPR) implementó un plan de acción correctiva
+para restablecer la funcionalidad del HIE. Desde entonces el PMPR ha liderado
+esfuerzos en planificación técnica, mejora de servicios operativos e identificación de
+brechas entre el estado actual y el deseado del intercambio electrónico de datos. Este
+trabajo ha tenido un enfoque particular en maximizar los beneficios para planes de
+salud, proveedores y pacientes del programa Medicaid.
+Hasta la fecha, gracias a la activa participación del PMPR, se ha logrado integrar
+aproximadamente el 72% de las instituciones hospitalarias de Puerto Rico al PRHIE, así
+como el 95% de los laboratorios y el 30% de los “Federally Qualified Health Centers”
+(FQHC, por sus siglas en inglés). Este avance representa un primer paso significativo
+hacia la interconexión de los procesos de interoperabilidad en la isla, aunque aún queda
+un largo camino por recorrer. Y es que con la expiración de los fondos del HITECH Act
+en 2021 y el creciente enfoque de la ASTP en las normas y acuerdos que promueven la
+interoperabilidad, los Centros de Servicios de Medicare y Medicaid (CMS, por sus siglas
+en inglés) han dirigido sus esfuerzos a apoyar a los estados y territorios en la creación
+de Sistemas Empresariales de Medicaid (“Medicaid Enterprise System” o MES, por sus
+siglas en inglés). Estos sistemas son fundamentales para garantizar una operación eficaz
+y eficiente de los programas de Medicaid. Los servicios de HIE se han hecho parte del
+MES porque apuntan a mejoras en la prestación de servicios de salud para los
+beneficiarios de Medicaid y los datos del HIE pueden respaldar actividades de
+3
+reducción de costos como la coordinación de la atención, la revisión de la utilización y
+la atención basada en el valor (“Value-Based Care”).
+Esta integración permite a los proveedores de salud cumplir con métricas
+establecidas por Medicaid y CMS, y facilita la supervisión estatal y la generación de
+informes sobre calidad en entornos de atención administrada, como el de Puerto Rico.
+Además, CMS ha habilitado vías de financiamiento para apoyar el desarrollo del HIE
+como parte del MES, resaltando la importancia del rol del PMPR como SDE en la
+operación del PRHIE y en el cumplimiento de mandatos federales. El objetivo a largo
+plazo del PMPR es evolucionar el HIE hacia una Utilidad de Datos de Salud (“Health
+Data Utility” o HDU), como recurso técnico compartido en beneficio de toda la
+comunidad, que garantice el acceso seguro, equitativo y con altos estándares de
+privacidad.
+Además, la Regla de Interoperabilidad y Acceso de Pacientes de CMS establece
+que los planes de salud de Medicare Advantage, Medicaid, el Programa de Seguro
+Médico para Niños (“Children's Health Insurance Program” o CHIP, por sus siglas en
+inglés) y los intercambios de seguros médicos federales deben proporcionar a los
+pacientes información sobre reclamaciones y otros datos de salud en un formato
+electrónico que sea seguro, accesible y fácil de usar. Al mismo tiempo, se exige a los
+hospitales que informen a los proveedores sobre los cambios en la atención al paciente y
+se requiere que los pagadores intercambien datos con el fin de minimizar las prácticas
+de facturación duplicadas.
+Los esfuerzos llevados a cabo dentro del PMPR tienen como objetivo fomentar la
+interoperabilidad, lo que a su vez facilita a los proveedores de Medicaid, es decir,
+aquellos que ofrecen servicios de salud elegibles, la coordinación de la atención de
+manera más eficiente. Esto se logra mediante la provisión de herramientas que permiten
+a los proveedores cumplir con los requisitos establecidos a nivel federal. Aunque en la
+actualidad el enfoque del PMPR se centra en los proveedores de Medicaid en Puerto
+Rico, su plan contempla la inclusión de todos los proveedores de atención médica y
+otras entidades pertinentes en esta iniciativa.
+Puerto Rico cuenta hoy con una base más sólida para implementar un sistema de
+intercambio de información de salud a nivel isla, gracias a la madurez tecnológica
+alcanzada. Por ello, se propone que el Secretario del Departamento de Salud, junto al
+PMPR y con el respaldo de un Consejo Asesor del PRHIE, lidere la adopción e
+implementación de estrategias y políticas públicas que impulsen este esfuerzo.
+No obstante, para facilitar y regular adecuadamente el intercambio de datos de
+salud —en cumplimiento con la Ley de Portabilidad y Responsabilidad de Seguro
+Médico (HIPAA, por sus siglas en inglés) y sus reglas de privacidad y seguridad— es
+imprescindible establecer una estructura legal moderna, alineada con la realidad
+tecnológica actual y las mejores prácticas en la materia.
+4
+Por tanto, esta Administración considera imperativo derogar la Ley Núm. 40-2012
+y crear una nueva estructura para promover y establecer el PRHIE, de un modo que sea
+más efectivo y simple, reconociendo el potencial y la importancia del HIE para mejorar
+la calidad y eficacia en el cuidado de la salud del pueblo de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Esta Ley se conocerá y podrá ser citada oficialmente como “Ley para
+Promover y Establecer el Intercambio de Información de Salud de Puerto Rico”.
+Artículo 2. – Definiciones
+A los efectos de esta Ley, los siguientes términos o frases tendrán el
+significado que a continuación se expresa:
+(a) Acuerdo de Asociado de Negocios (“Business Associate Agreement” o
+“BAA”, por sus siglas en inglés): Significa acuerdo entre una entidad
+cubierta y un asociado de negocio o individuo que realiza ciertas funciones
+o actividades en nombre de la entidad cubierta. Este acuerdo se aplica
+cuando la función, actividad o servicio implica la creación, recepción,
+mantenimiento o transmisión de Información de Salud Protegida (“PHI”,
+por sus siglas en inglés).
+(b) Arquitectura Clínica Consolidada de Documentos (“Consolidated
+Document Architecture” o “C-CDA”): Significa un conjunto de plantillas
+estandarizadas para documentos clínicos electrónicos, desarrollado por la
+Organización Internacional HL7 (“Health Level Seven International”).
+Proporciona una estructura común y un lenguaje uniforme que facilita la
+interoperabilidad y el intercambio preciso de datos clínicos entre
+diferentes sistemas de información de salud.
+(c) Bloqueo de información (“Information blocking”): Según definido en el
+“Cures Act” o “21st Century Cures Act”, son aquellas prácticas que
+interfieren, impiden o desalientan de manera significativa el acceso, el
+intercambio o el uso de información de salud electrónica.
+(d) Centros de Servicios de Medicare y Medicaid (Centers for Medicare &
+Medicaid Services o CMS, por sus siglas en inglés): Es la agencia federal
+que brinda cobertura médica a través de Medicare, Medicaid, el programa
+de seguro médico para niños y el mercado de seguros médicos. CMS
+trabaja en asociación con toda la comunidad de atención médica para
+mejorar la calidad, la equidad y los resultados en el sistema de atención
+médica.
+(e) Consejo Asesor: Es el grupo multisectorial compuesto por representantes
+del gobierno estatal y federal, proveedores médicos, de las farmacias, de
+las facilidades de salud, de los laboratorios clínicos, de organizaciones
+5
+“bona fide” relacionadas al sector de la salud en Puerto Rico, de las
+organizaciones de cuidado administrado y otros usuarios finales de
+servicios de intercambio de información de salud (HIE, por sus siglas en
+inglés). El Consejo asesorará al Programa de Medicaid sobre servicios,
+políticas, reglamentación, modelos de operación y financiamiento, manejo
+y utilidad de datos de salud, entre otros asuntos relacionados con el
+intercambio de información de salud.
+(f) Departamento de Salud de Puerto Rico: Es la agencia a nivel estatal creada
+bajo la Ley Núm. 81 de 14 de marzo de 1912, según enmendada, conocida
+como la “Ley Orgánica del Departamento de Salud”, y elevado a rango
+constitucional el 25 de julio de 1952. Tiene a su cargo todos los asuntos que
+por ley se encomienden relacionados con la salud, sanidad y beneficencia
+pública. Entre estos, es responsable de la administración y ejecución del
+Programa Medicaid de Puerto Rico (PRMP), que se implementó el 1 de
+enero de 1966 bajo la Ley del Seguro Social, al agregar las Secciones 1901 a
+1910 del Título XIX. El PRMP es el programa a través del cual el Gobierno
+Federal ayuda al Gobierno de Puerto Rico a pagar los gastos médicos de la
+población de bajos ingresos; un componente vital de los esfuerzos del
+Departamento de Salud para garantizar la salud y el bienestar de todos los
+puertorriqueños.
+(g) Entidades afiliadas: Significa entidades participantes en el sector de la
+salud que son legalmente distinguibles, pero comparten una
+administración común de actividades organizacionalmente similares,
+aunque diferenciables (ej. cadena de hospitales). Estas entidades pueden
+compartir un dueño o control común para designarse a sí mismas, o a sus
+componentes de cuidado de salud, como una sola entidad cubierta.
+Control común existe si una entidad tiene el poder, directa o
+indirectamente, para influenciar de manera significativa o dirigir las
+acciones o políticas de otra entidad. Dueños en común existen si una
+entidad o entidades poseen un interés en otra entidad. Dichas
+organizaciones pueden promulgar de manera compartida una sola
+notificación de prácticas de información y formas de consentimiento.
+(h) Entidad cubierta: Cualquier entidad descrita en 45 CFR § 160.103. Se
+refiere a una organización o individuo que está obligado a cumplir con la
+Regla de Privacidad de la Ley de Portabilidad del Seguro de Salud
+(HIPAA, por sus siglas en inglés). Entre las entidades cubiertas se
+encuentran los planes de salud, los centros de intercambio de información
+sobre atención médica y ciertos proveedores de atención médica.
+(i) Entidades no afiliadas: Significa entidades cubiertas que son legalmente
+separadas.
+6
+(j) Expediente de salud electrónico (también conocido como Electronic Health
+Record o EHR, por sus siglas en inglés): es un registro electrónico de la
+información relacionada con la salud de una persona que cumple las
+normas nacionales de interoperabilidad reconocidas. Este registro puede
+ser creado, administrado y consultado por médicos y personal autorizado
+en múltiples instituciones u organizaciones de salud.
+(k) Facilidades de Salud: Significa los establecimientos que se dedican a la
+prestación de servicios médicos, incluyendo los hospitales (de cualquier
+tipo), centros de salud, unidad de salud pública, centros de diagnósticos y
+tratamientos, casas de salud, centros de cuidado de larga duración, centros
+de rehabilitación sicosociales, facilidades médicas y cualquier otra
+institución médica autorizada por el Secretario de Salud a proveer
+servicios médicos, y toda facilidad en la cual se ofrezcan servicios de salud
+por parte de proveedores de servicios de salud.
+(l) Health IT: La aplicación del procesamiento de información que involucra
+tanto hardware como software que se ocupa del almacenamiento,
+recuperación, intercambio y uso de información, datos y conocimientos de
+atención médica para la comunicación y la toma de decisiones. Además,
+respalda el intercambio de información de salud e incluye la tecnología de
+intercambio de información de salud (HIE).
+(m) Información médica electrónica protegida (ePHI): Significa información
+médica electrónica protegida, de acuerdo con la Ley de Portabilidad y
+Responsabilidad del Seguro Médico (HIPAA). Es información de salud
+que se crea, guarda, transmite, o recibe en formato electrónico.
+(n) Información Protegida de Salud (Protected Health Information o PHI, por
+sus siglas en inglés): Se refiere a datos médicos identificables
+individualmente que se encuentran en medios electrónicos, transmisiones
+electrónicas o cualquier otro registro médico electrónico. Es un
+subconjunto de la información sanitaria y puede incluir: información
+demográfica individual, información creada o recibida por proveedores de
+atención médica o planes de salud elegibles, así como información creada
+o recibida por empleadores o centros de intercambio de información de
+atención médica.
+(o) Intercambio de Información de Salud (IIS) (también conocido como Health
+Information Exchange o HIE, por sus siglas en inglés): Abarca la
+administración y el intercambio electrónico apropiado y confidencial de
+información clínica o de salud entre organizaciones autorizadas y de
+acuerdo con los estándares nacionales.
+(p) Intercambio de Información de Salud de Puerto Rico (IISPR) (también
+conocido como el Puerto Rico Health Information Exchange o PRHIE, por
+sus siglas en inglés): Es el ente creado para determinar, controlar y/o
+7
+administrar cualquier requisito, política o acuerdo que permita o requiera
+el uso de cualquier tecnología o servicio para el acceso, el intercambio o el
+uso de información médica electrónica en Puerto Rico, de conformidad con
+las leyes, normas y políticas aplicables.
+(q) Ley de Portabilidad y Responsabilidad del Seguro Médico (también
+conocida como el Health Insurance Portability and Accountability Act o
+HIPAA, por sus siglas en inglés): Una ley federal aprobada en 1996 cuyo
+objetivo principal es mantener privada y segura la información de salud
+de las personas.
+(r) Ley de Tecnología de la Información Sanitaria para la Salud Económica y
+Clínica (Health Information Technology for Economic and Clinical Health
+o HITECH Act, por sus siglas en inglés): Es parte de la Ley de
+Recuperación y Reinversión Estadounidense de 2009 y busca incentivar el
+uso significativo EHR con el fin de mejorar la calidad y eficiencia de la
+atención al paciente. El HITECH Act también refuerza las regulaciones de
+privacidad y seguridad establecidas por HIPAA.
+(s) Secretario Adjunto de Política Tecnológica/Oficina del Coordinador
+Nacional de Tecnología de la Información en Salud (Assistant Secretary for
+Technology Policy/Office of the National Coordinator for Health
+Information Technology o ASTP, por sus siglas en inglés): Oficina adscrita
+al Departamento de Salud y Servicios Humanos (HHS) del Gobierno de
+Estados Unidos y encomendada con establecer la Red Nacional de
+Administración e Intercambio de Información de Salud (también conocida
+como la National Health Information Network o NHIN, por sus siglas en
+inglés).
+(t) Organización de Atención Administrada (Managed Care Organization o
+MCO, por sus siglas en inglés): Es un plan de salud o una compañía de
+atención médica que utiliza el modelo de atención administrada para
+mantener la calidad de la atención alta mientras limita los costos.
+(u) Participante: Significa aquella entidad que cumpla con los requerimientos
+de participación en el PRHIE y que haya suscrito un acuerdo a tales
+efectos.
+(v) Programa de Medicaid de Puerto Rico (Puerto Rico Medicaid Program o
+PRMP, por sus siglas en inglés): Es el Programa adscrito al Departamento
+de Salud de Puerto Rico responsable de la operación de Medicaid,
+incluyendo la supervisión del Programa de Promoción de
+Interoperabilidad de Medicaid de Puerto Rico (Medicaid Program to
+Promote Interoperability of Puerto Rico o MPPIPR, por sus siglas en
+inglés).
+8
+(w) Proveedor de Servicios de Salud y/o Profesional de la Salud: Significa
+cualquier persona o entidad autorizada al amparo de las leyes de Puerto
+Rico a prestar o proveer servicios de cuidado de salud médico-
+hospitalarios en Puerto Rico y que posee licencia expedida por la Oficina
+de Reglamentación y Certificación de los Profesionales de la Salud adscrita
+al Departamento de Salud.
+(x) Red Nacional de Administración e Intercambio de Información de Salud
+(también conocida como la National Health Information Network o NHIN,
+por sus siglas en inglés): Es un programa establecido en 2004 por la ASTP.
+Su objetivo principal es mejorar la calidad y la eficiencia de la atención
+médica mediante la creación de un mecanismo para el intercambio de
+información de salud a nivel nacional. El ASTP de la NHIN se está
+implementando a través del Marco de Intercambio Confiable y Acuerdo
+Común (Trusted Exchange Framework and Common Agreement o
+TEFCA, por sus siglas en inglés) y una red asociada de diferentes Redes
+Calificadas de Información de Salud (Qualified Health Information
+Networks o QHIN, por sus siglas en inglés).
+Artículo 3. -Designación del SDE.
+Se designa al Programa de Medicaid del Departamento de Salud como la
+Entidad Designada por el Gobierno de Puerto Rico (SDE) para supervisar y
+respaldar de una forma viable y sostenible, la prestación de servicios del Puerto Rico
+Health Information Exchange (PRHIE) dentro y fuera de la jurisdicción de Puerto
+Rico. El Departamento de Salud, a través del Programa de Medicaid, podrá a su vez
+delegar la administración y funcionamiento del PRHIE a un tercero, si así lo estima
+apropiado para el mejor funcionamiento del PRHIE.
+En el caso que el Departamento de Salud como “Single Designated Entity”
+decida delegar en un tercero la administración y funcionamiento del PRHIE
+establecido al amparo de esta Ley mediante contratación a estos efectos, el
+Departamento de Salud realizará dicha contratación como resultado de un proceso
+de Solicitud de Propuestas (Request for Proposal) en donde se pueda escoger el
+mejor proveedor capaz de garantizar la confiabilidad, seguridad e interoperabilidad
+de los servicios de salud a través del PRHIE según lo propuesto en esta Ley.
+Artículo 4. -Funciones y deberes.
+Como SDE del HIE para Puerto Rico, el PMPR, con la guía y orientación del
+Consejo Asesor del PRHIE, tendrá las siguientes funciones y deberes:
+(1) Adoptará, implementará o modificará según sea necesario, los
+estándares de intercambio, seguridad e interoperabilidad de sistemas
+electrónicos y datos de salud, de conformidad con los requisitos
+federales y estatales, en o fuera de la jurisdicción de Puerto Rico.
+9
+(2) Coordinará la integración del PRHIE con redes o infraestructuras
+tecnológicas similares en otras jurisdicciones, de forma segura y
+efectiva.
+(3) Promoverá la colaboración activa y efectiva entre los sectores de salud
+en Puerto Rico y cualesquiera otras jurisdicciones que resulten en
+beneficio de la salud y la salud pública en Puerto Rico.
+(4) Establecerá estrategias, políticas y procedimientos para el manejo o
+mitigación de riesgos en el HIE, dentro y fuera de la jurisdicción de
+Puerto Rico.
+(5) Representará a Puerto Rico en toda reunión, conferencia, vistas y/o
+cualquier evento relacionado, al HIE fuera de Puerto Rico, con el fin de
+adelantar la implantación de la política pública relacionada al campo de
+la informática médica entre Puerto Rico y otras jurisdicciones.
+(6) Creará, implantará, enmendará, según sea necesario, y promoverá las
+políticas públicas consignadas en esta Ley con relación al intercambio
+electrónico de información de salud de forma integrada y uniforme.
+(7) Promoverá y maximizará la integración, registro, participación y
+conexión efectiva de los proveedores de servicios de salud en Puerto
+Rico de una forma segura y confiable.
+(8) Facilitará actividades de planificación estratégica, así como el
+entrenamiento y educación continua a los proveedores de servicios de
+salud en Puerto Rico, en relación con el intercambio de información de
+salud.
+(9) Establecerá y/o identificará políticas, gobernanza, financiamiento,
+áreas de prioridad y el modelo operativo y organizacional necesario
+para trabajar en conjunto con los servicios técnicos para establecer el
+entorno necesario para permitir el intercambio adecuado de datos de
+salud.
+(10) Firmará contratos y acuerdos que fueran necesarios y razonables en el
+desempeño de sus deberes, incluido la firma de acuerdos relacionados
+a servicios consultivos, de operación y administración del HIE.
+Además, podrá emplear al personal necesario para cumplir con sus
+funciones y deberes.
+(11) Determinará de manera confidencial aquellos datos que serán
+utilizados para propósitos investigativos según lo requiera la ley
+aplicable.
+(12) Adoptará e implantará los controles y niveles de acceso requeridos, así
+como los estándares de intercambio, seguridad e interoperabilidad de
+sistemas electrónicos y datos de salud, en conformidad con los
+10
+requisitos federales y estatales dentro y fuera de la jurisdicción de
+Puerto Rico.
+(13) Planificará, adquirirá y establecerá la estructura tecnológica y
+operacional necesaria para el HIE, aprovechando las inversiones en
+tecnología existentes, siempre que sea posible.
+(14) Integrará, a través de la tecnología y procesos operacionales, datos de
+salud de pacientes, encaminados a lograr el intercambio electrónico de
+información de salud entre entidades afiliadas y no-afiliadas dentro y
+fuera de la jurisdicción de Puerto Rico.
+(15) Avanzará en los procesos encaminados a lograr la interoperabilidad en
+Puerto Rico, siempre alineados a los requisitos de la ASTP, CMS, HHS
+y cualquier otra entidad según sea aplicable.
+(16) Establecerá dentro de la estructura operacional y tecnológica del
+PRHIE, acceso a los proveedores de servicios de salud de la data
+médica de los pacientes para coordinación de cuidado de salud, alertas
+o notificaciones electrónicas sobre cambios en el estatus de cuidado del
+paciente (admisiones, altas o transferencias), reportes de salud pública
+estandarizados y automatizados, y disponibilidad de la data de salud
+para respuestas a situaciones de emergencias.
+(17) Administrará y mejorará el Índice Maestro de Pacientes (MPI, por sus
+siglas en inglés), índices de proveedores, así como otros índices o
+registros centralizados requeridos para el intercambio de información
+de salud dentro y fuera de la jurisdicción de Puerto Rico.
+(18) Mejorará y documentará el proceso de incorporación técnica para
+agilizar el proceso de establecimiento de una conexión entre los
+sistemas de datos electrónicos y el HIE.
+(19) Mejorará y documentará los procesos del HIE (por ejemplo, control de
+interfaz, integración de datos y comparación de registros) para
+respaldar actividades adecuadas de manejo y verificación de datos de
+salud.
+(20) Maximizará los datos que fluyen hacia el repositorio central del HIE,
+garantizará que los datos estén estandarizados y administrados para su
+uso en todas las configuraciones, pondrá a prueba los servicios de datos
+con usuarios reales y abrirá cuidadosamente el acceso a los datos a los
+usuarios apropiados.
+(21) Liderará el proceso de obtención y manejo de fondos destinados a la
+implementación, mantenimiento y operación del PRHIE.
+11
+(22) Tendrá la responsabilidad de obtener y mantener disponibles los
+fondos de financiamiento provenientes de la CMS y otras autoridades
+federales.
+(23) Cumplirá con aquellos requerimientos federales, incluyendo la
+presentación de informes a CMS.
+(24) Velará, junto al Departamento de Justicia de Puerto Rico, por el
+cumplimiento con las políticas y procedimientos en caso de violaciones
+de ley o reglamentos estatales y federales relacionados con la seguridad
+y confidencialidad de los datos e información de salud.
+Artículo 5. -Derechos.
+Como SDE del HIE para Puerto Rico, el Programa Medicaid del Departamento
+de Salud tendrá derecho sobre lo siguiente:
+(1) La custodia de la información resultante del HIE y solo podrá compartir la
+misma en cumplimiento de las leyes y reglamentos aplicables del Gobierno
+de Puerto Rico y el Gobierno de Estados Unidos.
+(2) El derecho de propiedad intelectual sobre toda aplicación de sistemas de
+información (si alguno) o cualquier modificación o documentación
+desarrollada, instalada o mejorada para el mismo que haya sido creado
+para el Programa de Medicaid del Departamento de Salud de Puerto Rico,
+así como el trabajo derivado y todo proceso diseñado para el PRHIE.
+(3) El derecho de acceso a las bases de datos resultantes del intercambio
+electrónico de datos de salud por parte de los participantes, en total
+cumplimiento con las leyes y reglamentación aplicable del Gobierno de
+Puerto Rico y del Gobierno de Estados Unidos.
+(4) Cualquier dato o producto derivado relacionado a los servicios prestados a
+Medicaid y otros servicios de atención médica financiados por el Gobierno
+de Puerto Rico.
+Artículo 6. - Coordinador del PRHIE.
+El PMPR designará a un Coordinador del PRHIE cuya función principal será
+la prestación de servicios relacionados al HIE según lo indicado por el PMPR como
+SDE. El Coordinador deberá contar con experiencia en el área de Health IT,
+incluyendo pericia en manejo de data y tecnologías relacionas al HIE. Bajo el PMPR,
+el Coordinador tendrá un rol directivo en la coordinación de los servicios y en
+presidir la estrategia del HIE. El Coordinador representará el PRHIE ante
+organismos estatales, federales y/o privados relacionados a la implementación del
+HIE. Además, será responsable por si, o a quien expresamente delegue para esos
+efectos, a trabajar los asuntos relacionados a la coordinación de actividades
+relacionadas al intercambio de información de salud y de interoperabilidad, la
+identificación de las necesidades de los usuarios, la implementación adecuada de
+12
+políticas o procedimientos alineados al plan estratégico establecido para el PRHIE, el
+desarrollo de protocolos e interfases para asegurar la integridad y la seguridad en el
+intercambio de los datos, el desarrollo y supervisión de contratación del sistema de
+HIE, así como cualquier otra función que le delegue el PMPR.
+Artículo 7. – Consejo Asesor del PRHIE.
+Como SDE del HIE para Puerto Rico, el Programa Medicaid del Departamento
+de Salud contará con el asesoramiento de un Consejo Asesor. Periódicamente el
+Consejo Asesor se reunirá para ser informado y/o consultado sobre el proceso de
+desarrollo, operación y/o planificación estratégica/financiera de las actividades del
+HIE.
+El Consejo Asesor deberá contar con la participación del(la) Secretario (a) de
+Salud, el(la) Director(a) Ejecutivo(a) de la Administración de Seguros de Salud de
+Puerto Rico, el Procurador del Paciente, el(la) Secretario (a) de Hacienda, Director
+Ejecutivo de la Oficina de Innovación y Servicios de Tecnología (PRITS, por sus
+siglas en inglés), el(la) Director(a) de la Oficina de Gerencia y Presupuesto o sus
+delegados autorizados. Los otros miembros del Consejo Asesor serán representantes
+de las Organizaciones de Cuidado Administrado (MCO, por sus siglas en inglés), de
+los proveedores médicos, de las farmacias, de las facilidades de salud, de los
+laboratorios clínicos, de una asociación bonafide sin fines de lucro que represente a
+los facturadores de servicios de salud y de otras organizaciones bona fide
+relacionadas al sector de la salud en Puerto Rico. Estos serán designados por el
+Secretario de Salud.
+Los miembros del Consejo Asesor del PRHIE no recibirán remuneración
+económica alguna por el desempeño de sus funciones y estarán exentos de rendir
+informes anuales a la Oficina de Ética Gubernamental. Los miembros del Consejo
+Asesor evitarán derivar beneficios para ellos o para terceros como parte de su
+función. El Consejo Asesor podrá crear comités que entienda necesarios para el
+trabajo de temas específicos relacionados el HIE y deberá reunirse periódicamente.
+Artículo 8. – Participación e informes requeridos en el PRHIE.
+Como condición para ser recipiente de fondos estatales o federales de
+Medicaid, y a excepción de lo que disponga esta Ley, todo proveedor de servicios de
+salud y/o profesional de la salud que cuente con expediente de salud electrónico
+deberá:
+(a) Participar y/o reportar información al PRHIE de manera obligatoria.
+Como mínimo, deben presentar información demográfica y clínica de los
+encuentros o servicios brindados a los pacientes, tal como se establece en
+esta Ley. El proceso de suministro de información de conformidad a lo
+dispuesto en esta Ley por parte de los participantes, será mediante el uso
+de los requisitos mínimos establecidos para el envío de datos y uno
+estrictamente confidencial, el cual estará sujeto a las disposiciones de
+13
+HIPAA y de acuerdo con las disposiciones contendidas en el 45 CFR §
+
+Section 2:
+164.500, et seq., (Privacy of Individually Identifiable Health Information),
+las cuales autorizan la divulgación de dicha información a las agencias de
+salud pública cuando su propósito es un fin público tales como evaluar,
+monitorear, llevar a cabo investigaciones, mantener registros de datos, o
+para cualquier otro uso regulador y/o fiscalizador.
+(b) Contar con las herramientas tecnológicas necesarias para reportar al
+PRHIE los datos solicitados y conforme a los métodos adoptados de
+tiempo en tiempo por el PRHIE. El SDE, en consulta con su Consejo
+Asesor, podrá establecer un proceso para otorgar extensiones de tiempo
+para que los proveedores y entidades comiencen a enviar datos según lo
+requerido en esta Ley. Además, el SDE, o la persona o entidad designada
+por este, tendrá la autoridad para otorgar exenciones a proveedores de
+servicios de salud, para quienes la implementación de un sistema de
+expediente de salud electrónico y de la tecnología necesaria para
+conectarse al PRHIE constituiría una carga excesiva. Para efectos de esta
+Ley, se considerarán en cumplimiento todas aquellas entidades que ya
+cuenten con presencia en redes nacionales como Commonwell,
+eHealthExchange, CareQuality y todas aquellas con credenciales
+necesarias para ser aceptadas por el PRHIE.
+(c) Reportar al PRHIE toda documentación relacionada con ADT (Admission-
+Discharge-Transfer), todo resultado de radiología relacionado al cuidado
+del paciente, toda documentación del encuentro entre el proveedor y/o
+profesional de la salud con el paciente, que sea parte de su cuidado,
+incluyendo todos los documentos particulares de las distintas
+especialidades médicas, así como la Arquitectura Clínica Consolidada de
+Documentos (Consolidated Document Architecture o C-CDA) de todo
+paciente que reciba cuidado médico.
+(d) No obstante, la participación en redes nacionales no exime al participante
+del cumplimiento con los términos del Artículo 8(a) y del Artículo 8(c).
+Reportar información requerida por el Artículo 8 inciso (a) al PRHIE es
+requisito estricto para el cumplimiento de esta ley.
+Todo profesional de la salud, hospitales, centros de servicios de salud,
+laboratorios, instituciones estatales y otros lugares que brindan servicios de salud
+deberá reportar al PRHIE toda información de salud especificado en órdenes
+administrativas del Departamento de Salud de Puerto Rico vigentes y futuras, así
+como avisos relevantes emitidos por la Secretaría Auxiliar de la Regulación de la
+Salud Pública - División de Acreditación de Facilidades de Salud.
+El mandato de intercambio de datos a todo proveedor de servicios de salud o
+profesional de la salud según definido en esta Ley deberá estar alineado con las
+capacidades actuales de los servicios del PRHIE y la oportuna notificación del PRHIE
+14
+de estar completamente preparado para el intercambio de información de salud de
+manera eficiente, lo que incluye las consideraciones operativas, financieras, de
+seguridad y técnicas necesarias.
+El mecanismo de intercambio de información de salud será el establecido y
+según sea necesario, modificados de conformidad con los estándares vigentes de
+intercambio y presentación de datos establecidos por la ASTP y por los estándares de
+interoperabilidad en salud.
+Artículo 9.– Financiamiento PRHIE.
+Con el fin de sustentar y garantizar la implementación, continuidad y
+operabilidad del PRHIE se gestionarán fondos federales y se identificarán y
+asignarán los fondos estatales necesarios para estos fines.
+Artículo 10.- Confidencialidad.
+Todo intercambio de información de salud enviado en cumplimiento con las
+disposiciones de esta Ley, y que contenga información de salud protegida,
+información de identificación personal, o una combinación de estas, serán
+categorizadas como confidenciales y privilegiada. Este Artículo no deberá
+interpretarse en el sentido de prohibir la divulgación de dicha información según lo
+permitido por las leyes estatales y federales aplicables y/o de restringir la
+divulgación de información protegida de salud del PRHIE con fines de salud pública
+o de investigación, siempre que la divulgación sea permitida por la ley estatal o
+federal aplicable.
+Artículo 11.- Prohibición.
+Ni el Departamento de Salud de Puerto Rico, su Programa de Medicaid,
+incluido el Puerto Rico Health Information Exchange, podrán brindar acceso a
+información de salud en violación a las leyes y reglamentos federales y estatales que
+protegen la información, de salud u otra, información que pueda identificar a un
+individuo (Ej. HIPAA, Privacy Act of 1974, Ley de Salud Mental de Puerto Rico,
+Family Educational Rights and Privacy Act (FERPA), etc.). Tampoco podrán permitir
+la utilización o divulgación de información confidencial y protegida a cualquier
+persona o entidad para propósitos no autorizados por la ley estatal o federal
+aplicable.
+En el ejercicio de las funciones del PRHIE, el intercambio de información de
+salud, así como el acceso a la data, deberá en todo momento cumplir con lo
+dispuesto en esta Ley, el HIPAA y cualquier norma adoptada bajo HIPAA, incluida
+la Regla de Privacidad y la Regla de Seguridad, así como con los términos de
+cualquier acuerdo de participación, acuerdo de socio de negocio, o cualquier otro
+acuerdo relacionado.
+15
+De conformidad con lo dispuesto en HIPAA y HITECH, toda “venta” o
+divulgación con remuneración directa o indirecta, de información de salud protegida
+(PHI, por sus siglas en inglés) reportada dentro de un HIE, está prohibida.
+Artículo 12.- Participación de entidades cubiertas.
+(1) Cada proveedor de servicios de salud considerado como entidad cubierta
+y que participe en el PRHIE deberá firmar un acuerdo como asociado de
+negocio (BAA, por sus siglas en inglés) y un acuerdo escrito de
+participación en el PRHIE, antes de comenzar a transmitir datos.
+(2) Cada entidad cubierta que participe en el PRHIE puede autorizar a sus
+asociados de negocio en beneficio de la entidad cubierta, a presentar datos,
+o a acceder a datos almacenada en el PRHIE de conformidad con este
+Artículo.
+(3) Sin perjuicio de cualquier ley o reglamento federal o estatal que establezca
+lo contrario, cada entidad cubierta que participe en el PRHIE puede
+divulgar a otras entidades cubiertas la información de salud protegida de
+un individuo a través del PRHIE para cualquier propósito permitido por
+HIPAA. (2015 241, s. 12A.5(d); 2015 264, s. 86.5c); 2017-57, s. 11A.5(d).)
+Artículo 13.- Derecho continuo a optar por no participar; efecto de la exclusión
+‑ ‑
+voluntaria.
+(1) Todo paciente tendrá el derecho de forma continua a optar por no
+participar o rescindir una decisión de acceso a sus registros médicos
+firmando y enviando un formulario de "exclusión voluntaria" disponible
+de a través de su proveedor de servicios de salud o Participante. Una vez
+implementado, el PRHIE será responsable de mantener un registro de las
+preferencias de consentimiento y deberá proveer a los proveedores de
+servicios de salud un mecanismo para informar las "exclusiones" y
+proporcionar un medio electrónico para que los pacientes “opten por no
+participar" directamente a través del PRHIE.
+(2) Todo Participante deberá hacer cumplir la decisión de un paciente de optar
+por no participar o rescindir una opción de exclusión de manera
+prospectiva, a partir de la fecha en que reciba una notificación por escrito
+de la decisión del paciente de optar por no participar o rescindir una
+opción de exclusión.
+(3) La decisión del paciente de optar por no participar o rescindir una opción
+de exclusión no afectará de ninguna manera cualquier divulgación
+realizada por el proveedor de servicios de salud o entidades cubiertas a
+través del PRHIE, antes del recibo de la notificación por escrito de la
+decisión del paciente de optar por no participar o rescindir una opción de
+exclusión.
+16
+(4) La decisión del paciente de optar por no participar o rescindir una opción
+de exclusión no será validada cuando se trate de un requisito de ley, como
+lo es el intercambio de información de salud pública según requerido por
+el Departamento de Salud o las agencias federales de salud.
+(5) Un proveedor de servicios de salud Participante o entidad cubierta no
+negará tratamiento, cobertura o beneficios a un paciente debido a su
+decisión de optar por no participar. No obstante, nada de lo aquí
+dispuesto busca restringir a un proveedor de servicios de salud de
+terminar de manera apropiada una relación con un paciente de acuerdo
+con la ley y los estándares éticos profesionales aplicables.
+(6) Salvo que se permita lo contrario o según lo exija la ley aplicable, la
+información de salud protegida de un paciente que ha ejercido el derecho
+de exclusión voluntaria no puede hacerse accesible ni divulgarse a
+entidades cubiertas ni a ninguna otra persona o entidad a través del PRHIE
+para cualquier propósito, salvo las excepciones establecidas en esta Ley.
+Artículo 14. —Sanciones y remedios.
+El incumplimiento con lo dispuesto en esta Ley podrá conllevar lo siguiente:
+(1) Imposición de multas o sanciones monetarias – Ante el incumplimiento
+con lo dispuesto en esta Ley, particularmente con lo relacionado al
+requerimiento de participar y reportar información al PRHIE, el PMPR, a
+través del Departamento de Salud podrá imponer, previa notificación y
+oportunidad de ser escuchado, una multa no menor de mil dólares ($1,000)
+ni mayor de cinco mil dólares ($5,000) por cada violación.
+(2) Cuando medie obstrucción, negligencia, mala fe, temeridad o negativa
+caprichosa en el intercambio de información de salud según lo dispuesto
+en esta Ley, el PMPR, a través del Departamento de Salud podrá imponer,
+previa notificación y oportunidad de ser escuchado, una multa no menor
+de cinco mil dólares ($5,000) ni mayor de diez mil dólares ($10,000) por
+cada violación.
+(3) Cualquier sanción civil o penal, o ambas, que pueda imponerse bajo una
+ley estatal o federal o reglamento aplicable.
+(4) Cualquier otro recurso civil o administrativo disponible.
+Además, el 21st Century Cures Act, Ley Pública Núm. 114-255, aprobada por
+el Congreso de los Estados Unidos el 13 de diciembre de 2016, 130 Stat. 1033 (Cures
+Act), faculta a la Oficina del Inspector General (OIG) del Departamento de Salud y
+Servicios Humanos de los Estados Unidos, a emitir sanciones monetarias civiles de
+hasta un millón de dólares ($1,000,000) por el incumplimiento de dicha ley, mediante
+prácticas de bloqueo de información por parte de los profesionales o proveedores de
+17
+servicios de salud, así como desarrolladores de tecnología y redes de información de
+salud.
+Artículo 15.- Reglamentación.
+Se faculta al Departamento de Salud a adoptar las normas, así como
+promulgar la reglamentación y normativa necesaria para el funcionamiento, la
+administración y poner en ejecución el plan estratégico del PRHIE. Se le conceden
+ciento ochenta (180) días naturales para poner en función la reglamentación derivada
+de esta Ley, la cual incluirá un periodo de transición, con fases de implementación y
+programas de asistencia técnica. La reglamentación que se apruebe no será más
+restrictiva a los requisitos establecidos por el gobierno federal en el tema de
+intercambio de información de salud.
+Los Reglamentos, Cartas Circulares, Órdenes o Protocolos y Políticas
+Administrativas del Departamento de Salud que tengan como base o estén
+relacionadas con la Ley 40-2012, supra, continuarán en vigor hasta tanto sean
+aprobados nuevos reglamentos o documentos relacionados en armonía con las
+disposiciones de esta ley y la política pública que esta adelanta o que el
+Departamento de Salud tome la determinación de dejar las mismas sin efecto.
+Artículo 16.- Inmunidad.
+Ni el Departamento de Salud de Puerto Rico, su Programa de Medicaid,
+incluido el Puerto Rico Health Information Exchange, podrán ser demandados por
+daños y perjuicios ocasionados por, relacionados a, o resultantes de, las medidas,
+determinaciones y actos realizados al proveer los servicios relacionados al HIE y
+mientras instrumenta intercambio de información de salud cuando se determine por
+el Gobierno de Puerto Rico o el Gobierno de los Estados Unidos, que una
+enfermedad, condición de salud o determinada emergencia estatal o nacional
+constituya emergencia o amenaza de emergencia a la salud pública. Esta inmunidad
+no aplica a actos u omisiones que constituyan negligencia crasa.
+Artículo 17.- Cláusula derogatoria.
+Se deroga la Ley Núm. 40 de 2 de febrero de 2012, conocida como la “Ley para
+la Administración e Intercambio Electrónico de Información de Salud de Puerto
+Rico”, así como cualquier otra ley o parte de ley, que sea incompatible con los
+propósitos de la presente.
+Artículo 18.- Separabilidad.
+Si cualquier disposición de esta Ley fuera declarada inconstitucional o nula,
+por Tribunal competente, la sentencia a tal efecto dictada no afectará, perjudicará ni
+invalidará el resto de esta Ley. El efecto de dicha sentencia quedará limitado al
+párrafo, inciso o artículo de esta que así hubiese sido declarado inconstitucional.
+18
+Artículo 19.-Vigencia.
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:    R r a P R H I E ( e d p e E p c c l r p l O d C N d T d l r c e i d i d s y p o l ú d h s u a c s e i d c m y r s c s q t d l c a o l g d l s e d l d d s i e d d s d d i q p l r e y 2 c p d e e s e l O d C C H ( A q p l a d s d d s e ( p s s e i E l]
+[DELETED:   e c e 2 s p e P R l L N 4 c l “ p l A e I E d d S d P R E l r u a d d “” ( a R H I N c e “” ( c e f d R H I E ,“” d a e i e d i s e d s e y d c c a r s p p s i e e a y n a t d I M d P i u p p p e i e d i N o c e t o q l s i e a t l t c o d P A e s e P r l f d H D e e P h l e p t m d s o e i d h t u e p e m l b p p d e 9 d l l y e 3 d l “” Q H C“” p a a m e l p d s d s p l d M y l d d H p r a d]
+[DELETED:  “) i p a l p d s c c m p d M r l i d r d P c S e l U o H c r t c e b d t l q g e a s e y c a e d l p d s d M A M e P d S p N (“” o C p s s e H I P y l i d s m f d p a l i s r y o d d s e u f l q a s v f a l p d M e d q o s d s e l c d l a d c d i d s a n i g a l m t y c e r d u C A d P l l a e o p f y a e i d d d — c c l L d P y R d S e u e l m a c l r]
+[DELETED:   A.–A l e d e L l s t o f t e)A d A d N ( A A o p s s e i S a e u e a e n d l e c E a s a l f a o s i l c r.)A C C d Ds( I H ( L S I y e i p d d c e)B d i ( b S d e e A o “ C C A s a p q i o d d m s e a e)C d S d M y Md( f M & s m p n y e m d s m C e a c t l c d a m p)CrE f d s d l l c d o]
+[DELETED:   f r a s d l s e P R d l d c a y o u f d E C a a P d M s s u d d d s e o a r c e)D M d P R ( q s i e 1 d d b i u c v d l e d)E a S e p e e s d l q s l d p c u c d a o s d c d s c u s e c c e s u e t e p d o p i d m s o d l o p d o e D e c e s u o e p u i e o e D p p d m c u s)E c C e d e 4 C § 1 S d P d l L d P d S d S p s s e i E l e c s.)E n a S e c q s l]
+[DELETED:  )E r c l s d u p q c l)F d S S l e q s d a l d s m i l h ( c r s f m y c o m a p e S d S a p)H h c s q s o d a)I e p d a c l L d P y d S M ( E i d s)I s e i S r a d m i o c o r m e E u d l i s y p i i.)I E o H p s s e i A l y e i e a y c d c o d s e o a y d)I d I d S d P R ( ( s e i E e e c p d c y]
+[DELETED:  )L d P y R d S M ()L H A p s s e i E p d l L d f)S A d P T d C P o t N C f H U y e c e l R N d)O d A A ( C O o m q u e m d a a p)P p e e P y q h s u a a t)P S d P R r d l o d M l s d P d P d d M d P R ( P t I o P R o M p s s e]
+[DELETED:  )P d S d S y P d l S S a p o p s d c d s m)R o p e m l c y l e d l a m l c d u m p e i d d s a n n E A d l N s e ( E F a C A o d I d S ( H I d a P d M d D d S c l D p e G d P R ( p s y e c q e D d “ D E d e u t l a y f d P a a d e L m c a e e e S d P ( f P e d s p e e)A i o m s s n l y d d s d c c l r]
+[DELETED:  )C l i d P c r o i s e o j d f s y)P P R y c o j q r e)E e p y p p e m o d r e e H d y f d l j d)R a P R e t r c v y)C)P y m l i r p y)F a d p e a c e)E y i p g f d p y e m o y o n)F s c d o y a d H p e a p n p c c s)D d m c a d q s p p i s l r l l)A e y d d s e c c l]
+[DELETED:   f y e d y f d l j d)P a y e l e t y n p e H a l i e)I)A)E d d l e o y t d a a l p d s d s d l d)A e i í d p a c o í o)M y d e p d i t p e p d e d u c e l)M i d d y c d r p)M)L]
+[DELETED:  )T l r d o y m d l)C c a r f i l)V j a D d J d P R p e)L)E ( a o c m o d i o m p e m q h s c)E d d a a l b d d r d i d d d s p p d l p e t c l l y r a d G d)C-C E C d c c e e e á d H I C t u r d e l c d l s y e l e d H E C r e P a A s r p s o a q e d p e a t l a r a l c d a a i d i d s y d i l d l n d l u l i a d]
+[DELETED:   S c c e a d u C A  P e d l O d I y S d T ( p s e i e D d l O d G y P o s p m d l f d l f d s d l f d s d s y d o o b f a s d l s e P R E s d p e m d C A d P n r r e d b p e o p t c p d s E C A p c c q e n p e c p s r d f e o f d)P y r i a P d m o L E p d s d i d c a l l r m e p e e d d y u c e c e s a l d d]
+[DELETED:   y d a c l d c e e 4 C §)C c l h t n p r a l d s y c a l m a d e t p e P E S e c c s C t e t l a p o e a p d d s p q l i d u s d d s e y d l t n p s c e c t a e q y c p e r n c C C y t a c c)R p t d d e e e p y d l s c e p q s p d s c t l d p d l d ( D A o C d t c c l t d A 8 y d A 8 i p e A 8 i ( a P e p d l s h c d s d s i e y o l q b s d s r a P t i d s e e ó a r e p l S A d l R d l d l s s d e e L d e a c l]
+[DELETED:   e l q i l c o f d s n m d c c l e v d e f d s y g l i c y d P s g f f y s i y d e L y q c i d s p d i p o u c d e s c c y p E A n d p l l e y f a y d r l d i s q l d s p p l l e o e D d S d P R s P d M e P R H I E p b a a l i d s u o i q p i a u ( H P A o 1 L d S M d P R u o d d i c y p a c o e p p n a p l l e o f a c e a a l d d e t m c c l R d P y l R d S a c c l t d p o]
+[DELETED:   c c l d e H y H t “ o)C ( p s s e i y u a e d)C e c q p e e P p a a s a a a d a e e P d c c e)S c c e c q p e e P p5252)T p t e d d f c a o p n o r u d d a a s r m d c y d p a l p d d s u m p i l " y)T n p o r u o d e d m l d d p d o p n p o r u)L e n a d n m c d d P a d r d l n p e d l]
+[DELETED:  )L)U p d s d s P o e c n t c o b a u p d a s d o p n p  N o n d l a b r a u p d s d s d)S q s p l c o s l e l l a l e v n p h a n d a)I d m o s m – A e i l d e e L p c l r a d D d S p i p n y)C m o n m f t o n)C)C]
+[DELETED:   f a D d S a a l n a c l r y n n p e f l d a t L r q s a n s m a l r e p e g f e e t d R C C Ó o P y P d D d S q t c b o e c l L 4 , c e v h t s n r o d r e a c l d e l y l p p q e a o q e e D d S d P R s P d M y p o p r a o r d l m y a r a p l s r a H y G d P R o e G d l E U q u c d s o d e e o n A e I E d I d S d P a c c o l o p d l q s i c l e r d e L E e d d s q l a]
+[DELETED:  ]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 613)
+LEY
+Para crear la “Ley para Promover y Establecer el Intercambio de Información de Salud
+de Puerto Rico”; derogar la Ley Núm. 40-2012, según enmendada, conocida como
+“Ley para la Administración e Intercambio Electrónico de Información de Salud de
+Puerto Rico”; reconocer al Puerto Rico Health Information Exchange (PRHIE),
+adscrito al Programa Medicaid del Departamento de Salud de Puerto Rico, como
+la entidad designada por el Estado para cumplir con los requerimientos
+establecidos por la Oficina del Coordinador Nacional de Tecnología de la
+Información en Salud (ASTP, por sus siglas en inglés), el Departamento de Salud y
+Servicios Humanos del Gobierno de los Estados Unidos (HHS, por sus siglas en
+inglés), y los Centros de Servicios de Medicare y Medicaid (CMS, por sus siglas en
+inglés); autorizar la creación y operación de un Consejo Asesor del PRHIE, con el
+fin de brindar asesoramiento y orientación estratégica al Programa Medicaid en
+asuntos relacionados con el intercambio de información de salud; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Durante las últimas décadas ha surgido un amplio consenso sobre el impacto
+positivo que tiene el intercambio y el uso eficiente de la información en la prestación de
+servicios de salud. El acceso oportuno y adecuado a datos clínicos no solo mejora la
+calidad del cuidado médico y reduce sus costos, sino que también disminuye
+significativamente las cargas administrativas, optimiza la gestión de la salud
+poblacional y fortalece la coordinación entre proveedores.
+Con ese fin, el gobierno federal ha impulsado diversas iniciativas para fomentar el
+uso estratégico de los datos de salud, incluyendo el desarrollo de sistemas de
+intercambio de información que permitan la recopilación, estandarización y
+accesibilidad de datos clínicos mediante un repositorio central o red interconectada. En
+el 2004, como parte de estos esfuerzos, se estableció la Oficina del Coordinador
+Nacional de Tecnología de la Información en Salud (ASTP, por sus siglas en inglés),
+como la entidad federal responsable de coordinar la implementación y expansión de
+tecnologías avanzadas en el ámbito del intercambio de información de salud.
+Posteriormente, en 2009 se aprobó la “Health Information Technology for Economic
+and Clinical Health” (HITECH Act), que promovió la adopción de sistemas de
+expedientes de salud electrónicos (EHR, por sus siglas en inglés). Esta legislación
+transformó la prestación de servicios de salud al facilitar el intercambio electrónico de
+información y establecer un marco legal para proteger dichos datos. Además, otorgó
+fondos federales a los estados para apoyar la implementación y expansión de sistemas
+de intercambio de información en salud (HIE, por sus siglas en inglés).
+
+2
+En ese contexto, en 2012 se promulgó en Puerto Rico la Ley Núm. 40-2012,
+conocida como la “Ley para la Administración e Intercambio Electrónico de
+Información de Salud de Puerto Rico”. Esta legislación representó un avance
+significativo para la informática en salud en la Isla. En virtud de dicha Ley, se comenzó
+el desarrollo del “Puerto Rico Health Information Network” (PRHIN), actualmente
+conocido como el “Puerto Rico Health Information Exchange” (PRHIE), con el fin de
+integrar electrónicamente los datos de salud del paciente y facilitar su manejo, cuidado
+y conservación.
+La Ley 40-2012, supra, designó al PRHIN como una organización sin fines de lucro,
+designada por el Estado como el como la “State Designated Entity” (SDE), otorgándole la
+responsabilidad de adoptar e implementar estándares de intercambio, seguridad e
+interoperabilidad de sistemas electrónicos y datos clínicos, conforme a requisitos
+federales y estatales. Asimismo, se le encomendó la integración tecnológica de los datos
+de salud para permitir su intercambio entre entidades afiliadas y no afiliadas, tanto
+dentro como fuera de la jurisdicción.
+Tras la aprobación de esta Ley, el Departamento de Salud de Puerto Rico, junto al
+Coordinador de Informática Médica del PRHIN, impulsó una política pública para
+viabilizar el intercambio electrónico de información. No obstante, con el tiempo
+surgieron obstáculos que limitaron su implementación efectiva, afectando tanto los
+servicios técnicos como operacionales del PRHIN. Ante esta situación, el Programa
+Medicaid del Departamento de Salud (PMPR) implementó un plan de acción correctiva
+para restablecer la funcionalidad del HIE. Desde entonces el PMPR ha liderado
+esfuerzos en planificación técnica, mejora de servicios operativos e identificación de
+brechas entre el estado actual y el deseado del intercambio electrónico de datos. Este
+trabajo ha tenido un enfoque particular en maximizar los beneficios para planes de
+salud, proveedores y pacientes del programa Medicaid.
+Hasta la fecha, gracias a la activa participación del PMPR, se ha logrado integrar
+aproximadamente el 72% de las instituciones hospitalarias de Puerto Rico al PRHIE, así
+como el 95% de los laboratorios y el 30% de los “Federally Qualified Health Centers”
+(FQHC, por sus siglas en inglés). Este avance representa un primer paso significativo
+hacia la interconexión de los procesos de interoperabilidad en la isla, aunque aún queda
+un largo camino por recorrer. Y es que con la expiración de los fondos del HITECH Act
+en 2021 y el creciente enfoque de la ASTP en las normas y acuerdos que promueven la
+interoperabilidad, los Centros de Servicios de Medicare y Medicaid (CMS, por sus siglas
+en inglés) han dirigido sus esfuerzos a apoyar a los estados y territorios en la creación
+de Sistemas Empresariales de Medicaid (“Medicaid Enterprise System” o MES, por sus
+siglas en inglés). Estos sistemas son fundamentales para garantizar una operación eficaz
+y eficiente de los programas de Medicaid. Los servicios de HIE se han hecho parte del
+MES porque apuntan a mejoras en la prestación de servicios de salud para los
+beneficiarios de Medicaid y los datos del HIE pueden respaldar actividades de
+
+3
+reducción de costos como la coordinación de la atención, la revisión de la utilización y
+la atención basada en el valor (“Value-Based Care”).
+Esta integración permite a los proveedores de salud cumplir con métricas
+establecidas por Medicaid y CMS, y facilita la supervisión estatal y la generación de
+informes sobre calidad en entornos de atención administrada, como el de Puerto Rico.
+Además, CMS ha habilitado vías de financiamiento para apoyar el desarrollo del HIE
+como parte del MES, resaltando la importancia del rol del PMPR como SDE en la
+operación del PRHIE y en el cumplimiento de mandatos federales. El objetivo a largo
+plazo del PMPR es evolucionar el HIE hacia una Utilidad de Datos de Salud (“Health
+Data Utility” o HDU), como recurso técnico compartido en beneficio de toda la
+comunidad, que garantice el acceso seguro, equitativo y con altos estándares de
+privacidad.
+Además, la Regla de Interoperabilidad y Acceso de Pacientes de CMS establece
+que los planes de salud de Medicare Advantage, Medicaid, el Programa de Seguro
+Médico para Niños (“Children's Health Insurance Program” o CHIP, por sus siglas en
+inglés) y los intercambios de seguros médicos federales deben proporcionar a los
+pacientes información sobre reclamaciones y otros datos de salud en un formato
+electrónico que sea seguro, accesible y fácil de usar. Al mismo tiempo, se exige a los
+hospitales que informen a los proveedores sobre los cambios en la atención al paciente y
+se requiere que los pagadores intercambien datos con el fin de minimizar las prácticas
+de facturación duplicadas.
+Los esfuerzos llevados a cabo dentro del PMPR tienen como objetivo fomentar la
+interoperabilidad, lo que a su vez facilita a los proveedores de Medicaid, es decir,
+aquellos que ofrecen servicios de salud elegibles, la coordinación de la atención de
+manera más eficiente. Esto se logra mediante la provisión de herramientas que permiten
+a los proveedores cumplir con los requisitos establecidos a nivel federal. Aunque en la
+actualidad el enfoque del PMPR se centra en los proveedores de Medicaid en Puerto
+Rico, su plan contempla la inclusión de todos los proveedores de atención médica y
+otras entidades pertinentes en esta iniciativa.
+Puerto Rico cuenta hoy con una base más sólida para implementar un sistema de
+intercambio de información de salud a nivel isla, gracias a la madurez tecnológica
+alcanzada. Por ello, se propone que el Secretario del Departamento de Salud, junto al
+PMPR y con el respaldo de un Consejo Asesor del PRHIE, lidere la adopción e
+implementación de estrategias y políticas públicas que impulsen este esfuerzo.
+No obstante, para facilitar y regular adecuadamente el intercambio de datos de
+salud —en cumplimiento con la Ley de Portabilidad y Responsabilidad de Seguro
+Médico (HIPAA, por sus siglas en inglés) y sus reglas de privacidad y seguridad— es
+imprescindible establecer una estructura legal moderna, alineada con la realidad
+tecnológica actual y las mejores prácticas en la materia.
+
+4
+Por tanto, esta Administración considera imperativo derogar la Ley Núm. 40-2012
+y crear una nueva estructura para promover y establecer el PRHIE, de un modo que sea
+más efectivo y simple, reconociendo el potencial y la importancia del HIE para mejorar
+la calidad y eficacia en el cuidado de la salud del pueblo de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Esta Ley se conocerá y podrá ser citada oficialmente como “Ley para
+Promover y Establecer el Intercambio de Información de Salud de Puerto Rico”.
+Artículo 2. – Definiciones
+A los efectos de esta Ley, los siguientes términos o frases tendrán el
+significado que a continuación se expresa:
+(a) Acuerdo de Asociado de Negocios (“Business Associate Agreement” o
+“BAA”, por sus siglas en inglés): Significa acuerdo entre una entidad
+cubierta y un asociado de negocio o individuo que realiza ciertas funciones
+o actividades en nombre de la entidad cubierta. Este acuerdo se aplica
+cuando la función, actividad o servicio implica la creación, recepción,
+mantenimiento o transmisión de Información de Salud Protegida (“PHI”,
+por sus siglas en inglés).
+(b) Arquitectura Clínica Consolidada de Documentos (“Consolidated
+Document Architecture” o “C-CDA”): Significa un conjunto de plantillas
+estandarizadas para documentos clínicos electrónicos, desarrollado por la
+Organización Internacional HL7 (“Health Level Seven International”).
+Proporciona una estructura común y un lenguaje uniforme que facilita la
+interoperabilidad y el intercambio preciso de datos clínicos entre
+diferentes sistemas de información de salud.
+(c) Bloqueo de información (“Information blocking”): Según definido en el
+“Cures Act” o “21st Century Cures Act”, son aquellas prácticas que
+interfieren, impiden o desalientan de manera significativa el acceso, el
+intercambio o el uso de información de salud electrónica.
+(d) Centros de Servicios de Medicare y Medicaid (Centers for Medicare &
+Medicaid Services o CMS, por sus siglas en inglés): Es la agencia federal
+que brinda cobertura médica a través de Medicare, Medicaid, el programa
+de seguro médico para niños y el mercado de seguros médicos. CMS
+trabaja en asociación con toda la comunidad de atención médica para
+mejorar la calidad, la equidad y los resultados en el sistema de atención
+médica.
+(e) Consejo Asesor: Es el grupo multisectorial compuesto por representantes
+del gobierno estatal y federal, proveedores médicos, de las farmacias, de
+las facilidades de salud, de los laboratorios clínicos, de organizaciones
+
+5
+“bona fide” relacionadas al sector de la salud en Puerto Rico, de las
+organizaciones de cuidado administrado y otros usuarios finales de
+servicios de intercambio de información de salud (HIE, por sus siglas en
+inglés). El Consejo asesorará al Programa de Medicaid sobre servicios,
+políticas, reglamentación, modelos de operación y financiamiento, manejo
+y utilidad de datos de salud, entre otros asuntos relacionados con el
+intercambio de información de salud.
+(f) Departamento de Salud de Puerto Rico: Es la agencia a nivel estatal creada
+bajo la Ley Núm. 81 de 14 de marzo de 1912, según enmendada, conocida
+como la “Ley Orgánica del Departamento de Salud”, y elevado a rango
+constitucional el 25 de julio de 1952. Tiene a su cargo todos los asuntos que
+por ley se encomienden relacionados con la salud, sanidad y beneficencia
+pública. Entre estos, es responsable de la administración y ejecución del
+Programa Medicaid de Puerto Rico (PRMP), que se implementó el 1 de
+enero de 1966 bajo la Ley del Seguro Social, al agregar las Secciones 1901 a
+1910 del Título XIX. El PRMP es el programa a través del cual el Gobierno
+Federal ayuda al Gobierno de Puerto Rico a pagar los gastos médicos de la
+población de bajos ingresos; un componente vital de los esfuerzos del
+Departamento de Salud para garantizar la salud y el bienestar de todos los
+puertorriqueños.
+(g) Entidades afiliadas: Significa entidades participantes en el sector de la
+salud que son legalmente distinguibles, pero comparten una
+administración común de actividades organizacionalmente similares,
+aunque diferenciables (ej. cadena de hospitales). Estas entidades pueden
+compartir un dueño o control común para designarse a sí mismas, o a sus
+componentes de cuidado de salud, como una sola entidad cubierta.
+Control común existe si una entidad tiene el poder, directa o
+indirectamente, para influenciar de manera significativa o dirigir las
+acciones o políticas de otra entidad. Dueños en común existen si una
+entidad o entidades poseen un interés en otra entidad. Dichas
+organizaciones pueden promulgar de manera compartida una sola
+notificación de prácticas de información y formas de consentimiento.
+(h) Entidad cubierta: Cualquier entidad descrita en 45 CFR § 160.103. Se
+refiere a una organización o individuo que está obligado a cumplir con la
+Regla de Privacidad de la Ley de Portabilidad del Seguro de Salud
+(HIPAA, por sus siglas en inglés). Entre las entidades cubiertas se
+encuentran los planes de salud, los centros de intercambio de información
+sobre atención médica y ciertos proveedores de atención médica.
+(i) Entidades no afiliadas: Significa entidades cubiertas que son legalmente
+separadas.
+
+6
+(j) Expediente de salud electrónico (también conocido como Electronic Health
+Record o EHR, por sus siglas en inglés): es un registro electrónico de la
+información relacionada con la salud de una persona que cumple las
+normas nacionales de interoperabilidad reconocidas. Este registro puede
+ser creado, administrado y consultado por médicos y personal autorizado
+en múltiples instituciones u organizaciones de salud.
+(k) Facilidades de Salud: Significa los establecimientos que se dedican a la
+prestación de servicios médicos, incluyendo los hospitales (de cualquier
+tipo), centros de salud, unidad de salud pública, centros de diagnósticos y
+tratamientos, casas de salud, centros de cuidado de larga duración, centros
+de rehabilitación sicosociales, facilidades médicas y cualquier otra
+institución médica autorizada por el Secretario de Salud a proveer
+servicios médicos, y toda facilidad en la cual se ofrezcan servicios de salud
+por parte de proveedores de servicios de salud.
+(l) Health IT: La aplicación del procesamiento de información que involucra
+tanto hardware como software que se ocupa del almacenamiento,
+recuperación, intercambio y uso de información, datos y conocimientos de
+atención médica para la comunicación y la toma de decisiones. Además,
+respalda el intercambio de información de salud e incluye la tecnología de
+intercambio de información de salud (HIE).
+(m) Información médica electrónica protegida (ePHI): Significa información
+médica electrónica protegida, de acuerdo con la Ley de Portabilidad y
+Responsabilidad del Seguro Médico (HIPAA). Es información de salud
+que se crea, guarda, transmite, o recibe en formato electrónico.
+(n) Información Protegida de Salud (Protected Health Information o PHI, por
+sus siglas en inglés): Se refiere a datos médicos identificables
+individualmente que se encuentran en medios electrónicos, transmisiones
+electrónicas o cualquier otro registro médico electrónico. Es un
+subconjunto de la información sanitaria y puede incluir: información
+demográfica individual, información creada o recibida por proveedores de
+atención médica o planes de salud elegibles, así como información creada
+o recibida por empleadores o centros de intercambio de información de
+atención médica.
+(o) Intercambio de Información de Salud (IIS) (también conocido como Health
+Information Exchange o HIE, por sus siglas en inglés): Abarca la
+administración y el intercambio electrónico apropiado y confidencial de
+información clínica o de salud entre organizaciones autorizadas y de
+acuerdo con los estándares nacionales.
+(p) Intercambio de Información de Salud de Puerto Rico (IISPR) (también
+conocido como el Puerto Rico Health Information Exchange o PRHIE, por
+sus siglas en inglés): Es el ente creado para determinar, controlar y/o
+
+7
+administrar cualquier requisito, política o acuerdo que permita o requiera
+el uso de cualquier tecnología o servicio para el acceso, el intercambio o el
+uso de información médica electrónica en Puerto Rico, de conformidad con
+las leyes, normas y políticas aplicables.
+(q) Ley de Portabilidad y Responsabilidad del Seguro Médico (también
+conocida como el Health Insurance Portability and Accountability Act o
+HIPAA, por sus siglas en inglés): Una ley federal aprobada en 1996 cuyo
+objetivo principal es mantener privada y segura la información de salud
+de las personas.
+(r) Ley de Tecnología de la Información Sanitaria para la Salud Económica y
+Clínica (Health Information Technology for Economic and Clinical Health
+o HITECH Act, por sus siglas en inglés): Es parte de la Ley de
+Recuperación y Reinversión Estadounidense de 2009 y busca incentivar el
+uso significativo EHR con el fin de mejorar la calidad y eficiencia de la
+atención al paciente. El HITECH Act también refuerza las regulaciones de
+privacidad y seguridad establecidas por HIPAA.
+(s) Secretario Adjunto de Política Tecnológica/Oficina del Coordinador
+Nacional de Tecnología de la Información en Salud (Assistant Secretary for
+Technology Policy/Office of the National Coordinator for Health
+Information Technology o ASTP, por sus siglas en inglés): Oficina adscrita
+al Departamento de Salud y Servicios Humanos (HHS) del Gobierno de
+Estados Unidos y encomendada con establecer la Red Nacional de
+Administración e Intercambio de Información de Salud (también conocida
+como la National Health Information Network o NHIN, por sus siglas en
+inglés).
+(t) Organización de Atención Administrada (Managed Care Organization o
+MCO, por sus siglas en inglés): Es un plan de salud o una compañía de
+atención médica que utiliza el modelo de atención administrada para
+mantener la calidad de la atención alta mientras limita los costos.
+(u) Participante: Significa aquella entidad que cumpla con los requerimientos
+de participación en el PRHIE y que haya suscrito un acuerdo a tales
+efectos.
+(v) Programa de Medicaid de Puerto Rico (Puerto Rico Medicaid Program o
+PRMP, por sus siglas en inglés): Es el Programa adscrito al Departamento
+de Salud de Puerto Rico responsable de la operación de Medicaid,
+incluyendo la supervisión del Programa de Promoción de
+Interoperabilidad de Medicaid de Puerto Rico (Medicaid Program to
+Promote Interoperability of Puerto Rico o MPPIPR, por sus siglas en
+inglés).
+
+8
+(w) Proveedor de Servicios de Salud y/o Profesional de la Salud: Significa
+cualquier persona o entidad autorizada al amparo de las leyes de Puerto
+Rico a prestar o proveer servicios de cuidado de salud médico-
+hospitalarios en Puerto Rico y que posee licencia expedida por la Oficina
+de Reglamentación y Certificación de los Profesionales de la Salud adscrita
+al Departamento de Salud.
+(x) Red Nacional de Administración e Intercambio de Información de Salud
+(también conocida como la National Health Information Network o NHIN,
+por sus siglas en inglés): Es un programa establecido en 2004 por la ASTP.
+Su objetivo principal es mejorar la calidad y la eficiencia de la atención
+médica mediante la creación de un mecanismo para el intercambio de
+información de salud a nivel nacional. El ASTP de la NHIN se está
+implementando a través del Marco de Intercambio Confiable y Acuerdo
+Común (Trusted Exchange Framework and Common Agreement o
+TEFCA, por sus siglas en inglés) y una red asociada de diferentes Redes
+Calificadas de Información de Salud (Qualified Health Information
+Networks o QHIN, por sus siglas en inglés).
+Artículo 3. -Designación del SDE.
+Se designa al Programa de Medicaid del Departamento de Salud como la
+Entidad Designada por el Gobierno de Puerto Rico (SDE) para supervisar y
+respaldar de una forma viable y sostenible, la prestación de servicios del Puerto Rico
+Health Information Exchange (PRHIE) dentro y fuera de la jurisdicción de Puerto
+Rico. El Departamento de Salud, a través del Programa de Medicaid, podrá a su vez
+delegar la administración y funcionamiento del PRHIE a un tercero, si así lo estima
+apropiado para el mejor funcionamiento del PRHIE.
+En el caso que el Departamento de Salud como “Single Designated Entity”
+decida delegar en un tercero la administración y funcionamiento del PRHIE
+establecido al amparo de esta Ley mediante contratación a estos efectos, el
+Departamento de Salud realizará dicha contratación como resultado de un proceso
+de Solicitud de Propuestas (Request for Proposal) en donde se pueda escoger el
+mejor proveedor capaz de garantizar la confiabilidad, seguridad e interoperabilidad
+de los servicios de salud a través del PRHIE según lo propuesto en esta Ley.
+Artículo 4. -Funciones y deberes.
+Como SDE del HIE para Puerto Rico, el PMPR, con la guía y orientación del
+Consejo Asesor del PRHIE, tendrá las siguientes funciones y deberes:
+(1) Adoptará, implementará o modificará según sea necesario, los
+estándares de intercambio, seguridad e interoperabilidad de sistemas
+electrónicos y datos de salud, de conformidad con los requisitos
+federales y estatales, en o fuera de la jurisdicción de Puerto Rico.
+
+9
+(2) Coordinará la integración del PRHIE con redes o infraestructuras
+tecnológicas similares en otras jurisdicciones, de forma segura y
+efectiva.
+(3) Promoverá la colaboración activa y efectiva entre los sectores de salud
+en Puerto Rico y cualesquiera otras jurisdicciones que resulten en
+beneficio de la salud y la salud pública en Puerto Rico.
+(4) Establecerá estrategias, políticas y procedimientos para el manejo o
+mitigación de riesgos en el HIE, dentro y fuera de la jurisdicción de
+Puerto Rico.
+(5) Representará a Puerto Rico en toda reunión, conferencia, vistas y/o
+cualquier evento relacionado, al HIE fuera de Puerto Rico, con el fin de
+adelantar la implantación de la política pública relacionada al campo de
+la informática médica entre Puerto Rico y otras jurisdicciones.
+(6) Creará, implantará, enmendará, según sea necesario, y promoverá las
+políticas públicas consignadas en esta Ley con relación al intercambio
+electrónico de información de salud de forma integrada y uniforme.
+(7) Promoverá y maximizará la integración, registro, participación y
+conexión efectiva de los proveedores de servicios de salud en Puerto
+Rico de una forma segura y confiable.
+(8) Facilitará actividades de planificación estratégica, así como el
+entrenamiento y educación continua a los proveedores de servicios de
+salud en Puerto Rico, en relación con el intercambio de información de
+salud.
+(9) Establecerá y/o identificará políticas, gobernanza, financiamiento,
+áreas de prioridad y el modelo operativo y organizacional necesario
+para trabajar en conjunto con los servicios técnicos para establecer el
+entorno necesario para permitir el intercambio adecuado de datos de
+salud.
+(10) Firmará contratos y acuerdos que fueran necesarios y razonables en el
+desempeño de sus deberes, incluido la firma de acuerdos relacionados
+a servicios consultivos, de operación y administración del HIE.
+Además, podrá emplear al personal necesario para cumplir con sus
+funciones y deberes.
+(11) Determinará de manera confidencial aquellos datos que serán
+utilizados para propósitos investigativos según lo requiera la ley
+aplicable.
+(12) Adoptará e implantará los controles y niveles de acceso requeridos, así
+como los estándares de intercambio, seguridad e interoperabilidad de
+sistemas electrónicos y datos de salud, en conformidad con los
+
+10
+requisitos federales y estatales dentro y fuera de la jurisdicción de
+Puerto Rico.
+(13) Planificará, adquirirá y establecerá la estructura tecnológica y
+operacional necesaria para el HIE, aprovechando las inversiones en
+tecnología existentes, siempre que sea posible.
+(14) Integrará, a través de la tecnología y procesos operacionales, datos de
+salud de pacientes, encaminados a lograr el intercambio electrónico de
+información de salud entre entidades afiliadas y no-afiliadas dentro y
+fuera de la jurisdicción de Puerto Rico.
+(15) Avanzará en los procesos encaminados a lograr la interoperabilidad en
+Puerto Rico, siempre alineados a los requisitos de la ASTP, CMS, HHS
+y cualquier otra entidad según sea aplicable.
+(16) Establecerá dentro de la estructura operacional y tecnológica del
+PRHIE, acceso a los proveedores de servicios de salud de la data
+médica de los pacientes para coordinación de cuidado de salud, alertas
+o notificaciones electrónicas sobre cambios en el estatus de cuidado del
+paciente (admisiones, altas o transferencias), reportes de salud pública
+estandarizados y automatizados, y disponibilidad de la data de salud
+para respuestas a situaciones de emergencias.
+(17) Administrará y mejorará el Índice Maestro de Pacientes (MPI, por sus
+siglas en inglés), índices de proveedores, así como otros índices o
+registros centralizados requeridos para el intercambio de información
+de salud dentro y fuera de la jurisdicción de Puerto Rico.
+(18) Mejorará y documentará el proceso de incorporación técnica para
+agilizar el proceso de establecimiento de una conexión entre los
+sistemas de datos electrónicos y el HIE.
+(19) Mejorará y documentará los procesos del HIE (por ejemplo, control de
+interfaz, integración de datos y comparación de registros) para
+respaldar actividades adecuadas de manejo y verificación de datos de
+salud.
+(20) Maximizará los datos que fluyen hacia el repositorio central del HIE,
+garantizará que los datos estén estandarizados y administrados para su
+uso en todas las configuraciones, pondrá a prueba los servicios de datos
+con usuarios reales y abrirá cuidadosamente el acceso a los datos a los
+usuarios apropiados.
+(21) Liderará el proceso de obtención y manejo de fondos destinados a la
+implementación, mantenimiento y operación del PRHIE.
+
+11
+(22) Tendrá la responsabilidad de obtener y mantener disponibles los
+fondos de financiamiento provenientes de la CMS y otras autoridades
+federales.
+(23) Cumplirá con aquellos requerimientos federales, incluyendo la
+presentación de informes a CMS.
+(24) Velará, junto al Departamento de Justicia de Puerto Rico, por el
+cumplimiento con las políticas y procedimientos en caso de violaciones
+de ley o reglamentos estatales y federales relacionados con la seguridad
+y confidencialidad de los datos e información de salud.
+Artículo 5. -Derechos.
+Como SDE del HIE para Puerto Rico, el Programa Medicaid del Departamento
+de Salud tendrá derecho sobre lo siguiente:
+(1) La custodia de la información resultante del HIE y solo podrá compartir la
+misma en cumplimiento de las leyes y reglamentos aplicables del Gobierno
+de Puerto Rico y el Gobierno de Estados Unidos.
+(2) El derecho de propiedad intelectual sobre toda aplicación de sistemas de
+información (si alguno) o cualquier modificación o documentación
+desarrollada, instalada o mejorada para el mismo que haya sido creado
+para el Programa de Medicaid del Departamento de Salud de Puerto Rico,
+así como el trabajo derivado y todo proceso diseñado para el PRHIE.
+(3) El derecho de acceso a las bases de datos resultantes del intercambio
+electrónico de datos de salud por parte de los participantes, en total
+cumplimiento con las leyes y reglamentación aplicable del Gobierno de
+Puerto Rico y del Gobierno de Estados Unidos.
+(4) Cualquier dato o producto derivado relacionado a los servicios prestados a
+Medicaid y otros servicios de atención médica financiados por el Gobierno
+de Puerto Rico.
+Artículo 6. - Coordinador del PRHIE.
+El PMPR designará a un Coordinador del PRHIE cuya función principal será
+la prestación de servicios relacionados al HIE según lo indicado por el PMPR como
+SDE. El Coordinador deberá contar con experiencia en el área de Health IT,
+incluyendo pericia en manejo de data y tecnologías relacionas al HIE. Bajo el PMPR,
+el Coordinador tendrá un rol directivo en la coordinación de los servicios y en
+presidir la estrategia del HIE. El Coordinador representará el PRHIE ante
+organismos estatales, federales y/o privados relacionados a la implementación del
+HIE. Además, será responsable por si, o a quien expresamente delegue para esos
+efectos, a trabajar los asuntos relacionados a la coordinación de actividades
+relacionadas al intercambio de información de salud y de interoperabilidad, la
+identificación de las necesidades de los usuarios, la implementación adecuada de
+
+12
+políticas o procedimientos alineados al plan estratégico establecido para el PRHIE, el
+desarrollo de protocolos e interfases para asegurar la integridad y la seguridad en el
+intercambio de los datos, el desarrollo y supervisión de contratación del sistema de
+HIE, así como cualquier otra función que le delegue el PMPR.
+Artículo 7. – Consejo Asesor del PRHIE.
+Como SDE del HIE para Puerto Rico, el Programa Medicaid del Departamento
+de Salud contará con el asesoramiento de un Consejo Asesor. Periódicamente el
+Consejo Asesor se reunirá para ser informado y/o consultado sobre el proceso de
+desarrollo, operación y/o planificación estratégica/financiera de las actividades del
+HIE.
+El Consejo Asesor deberá contar con la participación del(la) Secretario (a) de
+Salud, el(la) Director(a) Ejecutivo(a) de la Administración de Seguros de Salud de
+Puerto Rico, el Procurador del Paciente, el(la) Secretario (a) de Hacienda, Director
+Ejecutivo de la Oficina de Innovación y Servicios de Tecnología (PRITS, por sus
+siglas en inglés), el(la) Director(a) de la Oficina de Gerencia y Presupuesto o sus
+delegados autorizados. Los otros miembros del Consejo Asesor serán representantes
+de las Organizaciones de Cuidado Administrado (MCO, por sus siglas en inglés), de
+los proveedores médicos, de las farmacias, de las facilidades de salud, de los
+laboratorios clínicos, de una asociación bonafide sin fines de lucro que represente a
+los facturadores de servicios de salud y de otras organizaciones bona fide
+relacionadas al sector de la salud en Puerto Rico. Estos serán designados por el
+Secretario de Salud.
+Los miembros del Consejo Asesor del PRHIE no recibirán remuneración
+económica alguna por el desempeño de sus funciones y estarán exentos de rendir
+informes anuales a la Oficina de Ética Gubernamental. Los miembros del Consejo
+Asesor evitarán derivar beneficios para ellos o para terceros como parte de su
+función. El Consejo Asesor podrá crear comités que entienda necesarios para el
+trabajo de temas específicos relacionados el HIE y deberá reunirse periódicamente.
+Artículo 8. – Participación e informes requeridos en el PRHIE.
+Como condición para ser recipiente de fondos estatales o federales de
+Medicaid, y a excepción de lo que disponga esta Ley, todo proveedor de servicios de
+salud y/o profesional de la salud que cuente con expediente de salud electrónico
+deberá:
+(a) Participar y/o reportar información al PRHIE de manera obligatoria.
+Como mínimo, deben presentar información demográfica y clínica de los
+encuentros o servicios brindados a los pacientes, tal como se establece en
+esta Ley. El proceso de suministro de información de conformidad a lo
+dispuesto en esta Ley por parte de los participantes, será mediante el uso
+de los requisitos mínimos establecidos para el envío de datos y uno
+estrictamente confidencial, el cual estará sujeto a las disposiciones de
+
+13
+HIPAA y de acuerdo con las disposiciones contendidas en el 45 CFR §
+164.500, et seq., (Privacy of Individually Identifiable Health Information),
+las cuales autorizan la divulgación de dicha información a las agencias de
+salud pública cuando su propósito es un fin público tales como evaluar,
+monitorear, llevar a cabo investigaciones, mantener registros de datos, o
+para cualquier otro uso regulador y/o fiscalizador.
+(b) Contar con las herramientas tecnológicas necesarias para reportar al
+PRHIE los datos solicitados y conforme a los métodos adoptados de
+tiempo en tiempo por el PRHIE. El SDE, en consulta con su Consejo
+Asesor, podrá establecer un proceso para otorgar extensiones de tiempo
+para que los proveedores y entidades comiencen a enviar datos según lo
+requerido en esta Ley. Además, el SDE, o la persona o entidad designada
+por este, tendrá la autoridad para otorgar exenciones a proveedores de
+servicios de salud, para quienes la implementación de un sistema de
+expediente de salud electrónico y de la tecnología necesaria para
+conectarse al PRHIE constituiría una carga excesiva. Para efectos de esta
+Ley, se considerarán en cumplimiento todas aquellas entidades que ya
+cuenten con presencia en redes nacionales como Commonwell,
+eHealthExchange, CareQuality y todas aquellas con credenciales
+necesarias para ser aceptadas por el PRHIE.
+(c) Reportar al PRHIE toda documentación relacionada con ADT (Admission-
+Discharge-Transfer), todo resultado de radiología relacionado al cuidado
+del paciente, toda documentación del encuentro entre el proveedor y/o
+profesional de la salud con el paciente, que sea parte de su cuidado,
+incluyendo todos los documentos particulares de las distintas
+especialidades médicas, así como la Arquitectura Clínica Consolidada de
+Documentos (Consolidated Document Architecture o C-CDA) de todo
+paciente que reciba cuidado médico.
+(d) No obstante, la participación en redes nacionales no exime al participante
+del cumplimiento con los términos del Artículo 8(a) y del Artículo 8(c).
+Reportar información requerida por el Artículo 8 inciso (a) al PRHIE es
+requisito estricto para el cumplimiento de esta ley.
+Todo profesional de la salud, hospitales, centros de servicios de salud,
+laboratorios, instituciones estatales y otros lugares que brindan servicios de salud
+deberá reportar al PRHIE toda información de salud especificado en órdenes
+administrativas del Departamento de Salud de Puerto Rico vigentes y futuras, así
+como avisos relevantes emitidos por la Secretaría Auxiliar de la Regulación de la
+Salud Pública - División de Acreditación de Facilidades de Salud.
+El mandato de intercambio de datos a todo proveedor de servicios de salud o
+profesional de la salud según definido en esta Ley deberá estar alineado con las
+capacidades actuales de los servicios del PRHIE y la oportuna notificación del PRHIE
+
+14
+de estar completamente preparado para el intercambio de información de salud de
+manera eficiente, lo que incluye las consideraciones operativas, financieras, de
+seguridad y técnicas necesarias.
+El mecanismo de intercambio de información de salud será el establecido y
+según sea necesario, modificados de conformidad con los estándares vigentes de
+intercambio y presentación de datos establecidos por la ASTP y por los estándares de
+interoperabilidad en salud.
+Artículo 9.– Financiamiento PRHIE.
+Con el fin de sustentar y garantizar la implementación, continuidad y
+operabilidad del PRHIE se gestionarán fondos federales y se identificarán y
+asignarán los fondos estatales necesarios para estos fines.
+Artículo 10.- Confidencialidad.
+Todo intercambio de información de salud enviado en cumplimiento con las
+disposiciones de esta Ley, y que contenga información de salud protegida,
+información de identificación personal, o una combinación de estas, serán
+categorizadas como confidenciales y privilegiada. Este Artículo no deberá
+interpretarse en el sentido de prohibir la divulgación de dicha información según lo
+permitido por las leyes estatales y federales aplicables y/o de restringir la
+divulgación de información protegida de salud del PRHIE con fines de salud pública
+o de investigación, siempre que la divulgación sea permitida por la ley estatal o
+federal aplicable.
+Artículo 11.- Prohibición.
+Ni el Departamento de Salud de Puerto Rico, su Programa de Medicaid,
+incluido el Puerto Rico Health Information Exchange, podrán brindar acceso a
+información de salud en violación a las leyes y reglamentos federales y estatales que
+protegen la información, de salud u otra, información que pueda identificar a un
+individuo (Ej. HIPAA, Privacy Act of 1974, Ley de Salud Mental de Puerto Rico,
+Family Educational Rights and Privacy Act (FERPA), etc.). Tampoco podrán permitir
+la utilización o divulgación de información confidencial y protegida a cualquier
+persona o entidad para propósitos no autorizados por la ley estatal o federal
+aplicable.
+En el ejercicio de las funciones del PRHIE, el intercambio de información de
+salud, así como el acceso a la data, deberá en todo momento cumplir con lo
+dispuesto en esta Ley, el HIPAA y cualquier norma adoptada bajo HIPAA, incluida
+la Regla de Privacidad y la Regla de Seguridad, así como con los términos de
+cualquier acuerdo de participación, acuerdo de socio de negocio, o cualquier otro
+acuerdo relacionado.
+
+15
+De conformidad con lo dispuesto en HIPAA y HITECH, toda “venta” o
+divulgación con remuneración directa o indirecta, de información de salud protegida
+(PHI, por sus siglas en inglés) reportada dentro de un HIE, está prohibida.
+Artículo 12.- Participación de entidades cubiertas.
+(1) Cada proveedor de servicios de salud considerado como entidad cubierta
+y que participe en el PRHIE deberá firmar un acuerdo como asociado de
+negocio (BAA, por sus siglas en inglés) y un acuerdo escrito de
+participación en el PRHIE, antes de comenzar a transmitir datos.
+(2) Cada entidad cubierta que participe en el PRHIE puede autorizar a sus
+asociados de negocio en beneficio de la entidad cubierta, a presentar datos,
+o a acceder a datos almacenada en el PRHIE de conformidad con este
+Artículo.
+(3) Sin perjuicio de cualquier ley o reglamento federal o estatal que establezca
+lo contrario, cada entidad cubierta que participe en el PRHIE puede
+divulgar a otras entidades cubiertas la información de salud protegida de
+un individuo a través del PRHIE para cualquier propósito permitido por
+HIPAA. (2015 241, s. 12A.5(d); 2015 264, s. 86.5c); 2017-57, s. 11A.5(d).)
+Artículo 13.- Derecho continuo a optar por no participar; efecto de la exclusión
+‑ ‑
+voluntaria.
+(1) Todo paciente tendrá el derecho de forma continua a optar por no
+participar o rescindir una decisión de acceso a sus registros médicos
+firmando y enviando un formulario de "exclusión voluntaria" disponible
+de a través de su proveedor de servicios de salud o Participante. Una vez
+implementado, el PRHIE será responsable de mantener un registro de las
+preferencias de consentimiento y deberá proveer a los proveedores de
+servicios de salud un mecanismo para informar las "exclusiones" y
+proporcionar un medio electrónico para que los pacientes “opten por no
+participar" directamente a través del PRHIE.
+(2) Todo Participante deberá hacer cumplir la decisión de un paciente de optar
+por no participar o rescindir una opción de exclusión de manera
+prospectiva, a partir de la fecha en que reciba una notificación por escrito
+de la decisión del paciente de optar por no participar o rescindir una
+opción de exclusión.
+(3) La decisión del paciente de optar por no participar o rescindir una opción
+de exclusión no afectará de ninguna manera cualquier divulgación
+realizada por el proveedor de servicios de salud o entidades cubiertas a
+través del PRHIE, antes del recibo de la notificación por escrito de la
+decisión del paciente de optar por no participar o rescindir una opción de
+exclusión.
+
+16
+(4) La decisión del paciente de optar por no participar o rescindir una opción
+de exclusión no será validada cuando se trate de un requisito de ley, como
+lo es el intercambio de información de salud pública según requerido por
+el Departamento de Salud o las agencias federales de salud.
+(5) Un proveedor de servicios de salud Participante o entidad cubierta no
+negará tratamiento, cobertura o beneficios a un paciente debido a su
+decisión de optar por no participar. No obstante, nada de lo aquí
+dispuesto busca restringir a un proveedor de servicios de salud de
+terminar de manera apropiada una relación con un paciente de acuerdo
+con la ley y los estándares éticos profesionales aplicables.
+(6) Salvo que se permita lo contrario o según lo exija la ley aplicable, la
+información de salud protegida de un paciente que ha ejercido el derecho
+de exclusión voluntaria no puede hacerse accesible ni divulgarse a
+entidades cubiertas ni a ninguna otra persona o entidad a través del PRHIE
+para cualquier propósito, salvo las excepciones establecidas en esta Ley.
+Artículo 14. —Sanciones y remedios.
+El incumplimiento con lo dispuesto en esta Ley podrá conllevar lo siguiente:
+(1) Imposición de multas o sanciones monetarias – Ante el incumplimiento
+con lo dispuesto en esta Ley, particularmente con lo relacionado al
+requerimiento de participar y reportar información al PRHIE, el PMPR, a
+través del Departamento de Salud podrá imponer, previa notificación y
+oportunidad de ser escuchado, una multa no menor de mil dólares ($1,000)
+ni mayor de cinco mil dólares ($5,000) por cada violación.
+(2) Cuando medie obstrucción, negligencia, mala fe, temeridad o negativa
+caprichosa en el intercambio de información de salud según lo dispuesto
+en esta Ley, el PMPR, a través del Departamento de Salud podrá imponer,
+previa notificación y oportunidad de ser escuchado, una multa no menor
+de cinco mil dólares ($5,000) ni mayor de diez mil dólares ($10,000) por
+cada violación.
+(3) Cualquier sanción civil o penal, o ambas, que pueda imponerse bajo una
+ley estatal o federal o reglamento aplicable.
+(4) Cualquier otro recurso civil o administrativo disponible.
+Además, el 21st Century Cures Act, Ley Pública Núm. 114-255, aprobada por
+el Congreso de los Estados Unidos el 13 de diciembre de 2016, 130 Stat. 1033 (Cures
+Act), faculta a la Oficina del Inspector General (OIG) del Departamento de Salud y
+Servicios Humanos de los Estados Unidos, a emitir sanciones monetarias civiles de
+hasta un millón de dólares ($1,000,000) por el incumplimiento de dicha ley, mediante
+prácticas de bloqueo de información por parte de los profesionales o proveedores de
+
+17
+servicios de salud, así como desarrolladores de tecnología y redes de información de
+salud.
+Artículo 15.- Reglamentación.
+Se faculta al Departamento de Salud a adoptar las normas, así como
+promulgar la reglamentación y normativa necesaria para el funcionamiento, la
+administración y poner en ejecución el plan estratégico del PRHIE. Se le conceden
+ciento ochenta (180) días naturales para poner en función la reglamentación derivada
+de esta Ley, la cual incluirá un periodo de transición, con fases de implementación y
+programas de asistencia técnica. La reglamentación que se apruebe no será más
+restrictiva a los requisitos establecidos por el gobierno federal en el tema de
+intercambio de información de salud.
+Los Reglamentos, Cartas Circulares, Órdenes o Protocolos y Políticas
+Administrativas del Departamento de Salud que tengan como base o estén
+relacionadas con la Ley 40-2012, supra, continuarán en vigor hasta tanto sean
+aprobados nuevos reglamentos o documentos relacionados en armonía con las
+disposiciones de esta ley y la política pública que esta adelanta o que el
+Departamento de Salud tome la determinación de dejar las mismas sin efecto.
+Artículo 16.- Inmunidad.
+Ni el Departamento de Salud de Puerto Rico, su Programa de Medicaid,
+incluido el Puerto Rico Health Information Exchange, podrán ser demandados por
+daños y perjuicios ocasionados por, relacionados a, o resultantes de, las medidas,
+determinaciones y actos realizados al proveer los servicios relacionados al HIE y
+mientras instrumenta intercambio de información de salud cuando se determine por
+el Gobierno de Puerto Rico o el Gobierno de los Estados Unidos, que una
+enfermedad, condición de salud o determinada emergencia estatal o nacional
+constituya emergencia o amenaza de emergencia a la salud pública. Esta inmunidad
+no aplica a actos u omisiones que constituyan negligencia crasa.
+Artículo 17.- Cláusula derogatoria.
+Se deroga la Ley Núm. 40 de 2 de febrero de 2012, conocida como la “Ley para
+la Administración e Intercambio Electrónico de Información de Salud de Puerto
+Rico”, así como cualquier otra ley o parte de ley, que sea incompatible con los
+propósitos de la presente.
+Artículo 18.- Separabilidad.
+Si cualquier disposición de esta Ley fuera declarada inconstitucional o nula,
+por Tribunal competente, la sentencia a tal efecto dictada no afectará, perjudicará ni
+invalidará el resto de esta Ley. El efecto de dicha sentencia quedará limitado al
+párrafo, inciso o artículo de esta que así hubiese sido declarado inconstitucional.
+
+18
+Artículo 19.-Vigencia.
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:    R r a P R H I E ( e d p e E p c c l r p l O d C N d T d l r c e i d i d s y p o l ú d h s u a c s e i d c m y r s c s q t d l c a o l g d l s e d l d d s i e d d s d d i q p l r e y 2 c p d e e s e l O d C C H ( A q p l a d s d d s e ( p s s e i E l]
+[DELETED:   e c e 2 s p e P R l L N 4 c l “ p l A e I E d d S d P R E l r u a d d “” ( a R H I N c e “” ( c e f d R H I E ,“” d a e i e d i s e d s e y d c c a r s p p s i e e a y n a t d I M d P i u p p p e i e d i N o c e t o q l s i e a t l t c o d P A e s e P r l f d H D e e P h l e p t m d s o e i d h t u e p e m l b p p d e 9 d l l y e 3 d l “” Q H C“” p a a m e l p d s d s p l d M y l d d H p r a d]
+[DELETED:  “) i p a l p d s c c m p d M r l i d r d P c S e l U o H c r t c e b d t l q g e a s e y c a e d l p d s d M A M e P d S p N (“” o C p s s e H I P y l i d s m f d p a l i s r y o d d s e u f l q a s v f a l p d M e d q o s d s e l c d l a d c d i d s a n i g a l m t y c e r d u C A d P l l a e o p f y a e i d d d — c c l L d P y R d S e u e l m a c l r]
+[DELETED:   A.–A l e d e L l s t o f t e)A d A d N ( A A o p s s e i S a e u e a e n d l e c E a s a l f a o s i l c r.)A C C d Ds( I H ( L S I y e i p d d c e)B d i ( b S d e e A o “ C C A s a p q i o d d m s e a e)C d S d M y Md( f M & s m p n y e m d s m C e a c t l c d a m p)CrE f d s d l l c d o]
+[DELETED:   f r a s d l s e P R d l d c a y o u f d E C a a P d M s s u d d d s e o a r c e)D M d P R ( q s i e 1 d d b i u c v d l e d)E a S e p e e s d l q s l d p c u c d a o s d c d s c u s e c c e s u e t e p d o p i d m s o d l o p d o e D e c e s u o e p u i e o e D p p d m c u s)E c C e d e 4 C § 1 S d P d l L d P d S d S p s s e i E l e c s.)E n a S e c q s l]
+[DELETED:  )E r c l s d u p q c l)F d S S l e q s d a l d s m i l h ( c r s f m y c o m a p e S d S a p)H h c s q s o d a)I e p d a c l L d P y d S M ( E i d s)I s e i S r a d m i o c o r m e E u d l i s y p i i.)I E o H p s s e i A l y e i e a y c d c o d s e o a y d)I d I d S d P R ( ( s e i E e e c p d c y]
+[DELETED:  )L d P y R d S M ()L H A p s s e i E p d l L d f)S A d P T d C P o t N C f H U y e c e l R N d)O d A A ( C O o m q u e m d a a p)P p e e P y q h s u a a t)P S d P R r d l o d M l s d P d P d d M d P R ( P t I o P R o M p s s e]
+[DELETED:  )P d S d S y P d l S S a p o p s d c d s m)R o p e m l c y l e d l a m l c d u m p e i d d s a n n E A d l N s e ( E F a C A o d I d S ( H I d a P d M d D d S c l D p e G d P R ( p s y e c q e D d “ D E d e u t l a y f d P a a d e L m c a e e e S d P ( f P e d s p e e)A i o m s s n l y d d s d c c l r]
+[DELETED:  )C l i d P c r o i s e o j d f s y)P P R y c o j q r e)E e p y p p e m o d r e e H d y f d l j d)R a P R e t r c v y)C)P y m l i r p y)F a d p e a c e)E y i p g f d p y e m o y o n)F s c d o y a d H p e a p n p c c s)D d m c a d q s p p i s l r l l)A e y d d s e c c l]
+[DELETED:   f y e d y f d l j d)P a y e l e t y n p e H a l i e)I)A)E d d l e o y t d a a l p d s d s d l d)A e i í d p a c o í o)M y d e p d i t p e p d e d u c e l)M i d d y c d r p)M)L]
+[DELETED:  )T l r d o y m d l)C c a r f i l)V j a D d J d P R p e)L)E ( a o c m o d i o m p e m q h s c)E d d a a l b d d r d i d d d s p p d l p e t c l l y r a d G d)C-C E C d c c e e e á d H I C t u r d e l c d l s y e l e d H E C r e P a A s r p s o a q e d p e a t l a r a l c d a a i d i d s y d i l d l n d l u l i a d]
+[DELETED:   S c c e a d u C A  P e d l O d I y S d T ( p s e i e D d l O d G y P o s p m d l f d l f d s d l f d s d s y d o o b f a s d l s e P R E s d p e m d C A d P n r r e d b p e o p t c p d s E C A p c c q e n p e c p s r d f e o f d)P y r i a P d m o L E p d s d i d c a l l r m e p e e d d y u c e c e s a l d d]
+[DELETED:   y d a c l d c e e 4 C §)C c l h t n p r a l d s y c a l m a d e t p e P E S e c c s C t e t l a p o e a p d d s p q l i d u s d d s e y d l t n p s c e c t a e q y c p e r n c C C y t a c c)R p t d d e e e p y d l s c e p q s p d s c t l d p d l d ( D A o C d t c c l t d A 8 y d A 8 i p e A 8 i ( a P e p d l s h c d s d s i e y o l q b s d s r a P t i d s e e ó a r e p l S A d l R d l d l s s d e e L d e a c l]
+[DELETED:   e l q i l c o f d s n m d c c l e v d e f d s y g l i c y d P s g f f y s i y d e L y q c i d s p d i p o u c d e s c c y p E A n d p l l e y f a y d r l d i s q l d s p p l l e o e D d S d P R s P d M e P R H I E p b a a l i d s u o i q p i a u ( H P A o 1 L d S M d P R u o d d i c y p a c o e p p n a p l l e o f a c e a a l d d e t m c c l R d P y l R d S a c c l t d p o]
+[DELETED:   c c l d e H y H t “ o)C ( p s s e i y u a e d)C e c q p e e P p a a s a a a d a e e P d c c e)S c c e c q p e e P p5252)T p t e d d f c a o p n o r u d d a a s r m d c y d p a l p d d s u m p i l " y)T n p o r u o d e d m l d d p d o p n p o r u)L e n a d n m c d d P a d r d l n p e d l]
+[DELETED:  )L)U p d s d s P o e c n t c o b a u p d a s d o p n p  N o n d l a b r a u p d s d s d)S q s p l c o s l e l l a l e v n p h a n d a)I d m o s m – A e i l d e e L p c l r a d D d S p i p n y)C m o n m f t o n)C)C]
+[DELETED:   f a D d S a a l n a c l r y n n p e f l d a t L r q s a n s m a l r e p e g f e e t d R C C Ó o P y P d D d S q t c b o e c l L 4 , c e v h t s n r o d r e a c l d e l y l p p q e a o q e e D d S d P R s P d M y p o p r a o r d l m y a r a p l s r a H y G d P R o e G d l E U q u c d s o d e e o n A e I E d I d S d P a c c o l o p d l q s i c l e r d e L E e d d s q l a]
+[DELETED:  ]

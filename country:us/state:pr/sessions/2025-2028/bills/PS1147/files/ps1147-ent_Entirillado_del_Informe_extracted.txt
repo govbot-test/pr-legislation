@@ -1,0 +1,1911 @@
+Title: Referido a la Comisión de Familia, Mujer, Personas de la Tercera Edad y Población con
+Official Title: Referido a la Comisión de Familia, Mujer, Personas de la Tercera Edad y Población con
+Number of Sections: 1
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Strikethrough Detection: 41 sections found
+
+================================================================================
+
+Section 1:
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1147
+19 de marzo de 2026
+Presentado por la señora Barlucea Rodríguez
+Diversidad Funcional e Impedimentos
+LEY
+Para enmendar los Artículos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 y 17 de la Ley 76-
+2013, según enmendada, conocida como la “Ley del Procurador de las Personas de
+Edad Avanzada del Estado Libre Asociado de Puerto Rico” a los fines de actualizar la
+nomenclatura y referencias legales contenidas en dicha Ley,; armonizarla sus
+disposiciones con la Ley 121-2019, según enmendada, la Ley 8-2017, según enmendada y la
+Ley 38-2017, según enmendada; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La protección efectiva de los derechos de las personas adultas mayores constituye un
+deber ineludible del Gobierno de Puerto Rico. El envejecimiento de la población, la
+complejidad creciente de sus necesidades y la dispersión de servicios entre múltiples
+agencias e instituciones públicas y privadas exigen un andamiaje institucional robusto,
+coherente y actualizado. Dentro de ese esquema, la Oficina del Procurador de las
+Personas de Edad Avanzada de Puerto Rico ocupa un lugar central como organismo
+llamado a fiscalizar, investigar, orientar, coordinar y vindicar los derechos de esta
+población.
+2
+La Ley 76-2013, según enmendada, creó esa Oficina y el cargo del Procurador de las
+Personas de Edad Avanzada, dotándolos de facultades amplias para atender querellas,
+promover acciones correctivas, coordinar política pública y servir de instrumento de
+protección y defensa para este sector. Sin embargo, luego de más de una década de
+vigencia, resulta evidente la necesidad de revisar su texto para atemperarlo a la realidad
+jurídica vigente, armonizarlo con legislación posterior y corregir referencias normativas,
+terminológicas y estructurales que hoy resultan anticuadas, imprecisas o insuficientes.
+Esta Asamblea Legislativa entiende necesario actualizar la nomenclatura utilizada en
+la Ley para uniformarla con el lenguaje contemporáneo del ordenamiento jurídico
+puertorriqueño y con la política pública más reciente sobre envejecimiento. De igual
+modo, procede armonizar sus disposiciones con la Ley 121-2019, según enmendada,
+conocida como la “Carta de Derechos y la Política Pública del Gobierno a Favor de los
+Adultos Mayores”, así como con otras leyes vigentes que regulan la administración
+pública, los recursos humanos, los procedimientos adjudicativos y la reglamentación
+administrativa en Puerto Rico. Esa armonización es indispensable para asegurar
+coherencia normativa, evitar contradicciones internas y facilitar una interpretación
+integrada de las facultades y deberes de la Oficina.
+La presente medida también persigue precisar y fortalecer la estructura funcional de
+la Oficina y del cargo del Procurador. Para ello, se actualizan definiciones, se aclaran
+funciones y deberes, se revisan disposiciones sobre los Procuradores Auxiliares, se
+ajustan los mecanismos de nombramiento, administración y funcionamiento interno, y se
+reafirman las facultades de la Oficina para investigar, adjudicar querellas, imponer
+multas administrativas, ordenar remedios, fiscalizar programas, comparecer ante foros
+judiciales y administrativos y coordinar esfuerzos interagenciales y comunitarios.
+Asimismo, se modernizan las referencias a la normativa federal pertinente,
+particularmente en relación con el Older Americans Act of 1965, y se atempera la ley a la
+organización gubernamental actual.
+3
+En última instancia, esta Asamblea Legislativa reconoce que la defensa de los
+derechos de las personas adultas mayores requiere instituciones funcionales, normas
+claras y facultades bien definidas. La actualización de la Ley 76-2013 responde
+precisamente a ese propósito. Mediante estas enmiendas se fortalece la Oficina del
+Procurador de las Personas de Edad Avanzada de Puerto Rico como instrumento jurídico
+y administrativo para hacer valer los derechos de esta población, fiscalizar su
+cumplimiento y adelantar una política pública fundada en la dignidad, la participación,
+la autonomía y la justicia.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la “Ley del Procurador de las Personas de
+2 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+3 que lea como sigue:
+4 “Artículo 1.
+5 Esta Ley se conocerá como “Ley del Procurador de las Personas de Edad Avanzada
+6 [del Estado Libre Asociado] de Puerto Rico”.”
+7 Sección 2.- Se enmienda el Artículo 2 de la “Ley del Procurador de las Personas de
+8 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+9 que lea como sigue:
+10 “Artículo 2.- Para crear la Oficina del Procurador(a) de las Personas de Edad
+11 Avanzada [del Estado Libre Asociado] de Puerto Rico.
+12 Se crea la “Oficina del Procurador(a) de las Personas de Edad Avanzada [del
+13 Estado Libre Asociado] de Puerto Rico".”
+4
+1 Sección 3.- Se enmienda el Artículo 3 de la “Ley del Procurador de las Personas de
+2 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+3 que lea como sigue:
+4 “Artículo 3.- Definiciones
+5 Para fines de esta Ley, los siguientes términos tienen el significado que se
+6 expresa a continuación:
+7 (a) Adulto Mayor - significa toda persona de sesenta (60) años o más de edad. Su
+8 término equivalente es “Persona de Edad Avanzada”.
+9 [(a)] (b) Agencia Pública - significa cualquier departamento, junta, comisión,
+10 división, oficina, negociado, administración, corporación pública o subsidiaria de ésta,
+11 municipio o instrumentalidad del [Estado Libre Asociado] Gobierno de Puerto Rico,
+12 incluyendo cualquiera de sus funcionarios, empleados o sus miembros que actúen o
+13 aparenten actuar en el desempeño de sus deberes oficiales.
+14 [(b)] (c) Consejo Consultivo - significa el Consejo Consultivo sobre Asuntos de
+15 la Vejez que se crea en virtud de esta Ley.
+16 [(c)] (d) Entidad Privada o Institución - significa cualquier asociación,
+17 organización, instituto o persona natural o jurídica que preste, ofrezca o rinda algún
+18 servicio o actividad o administre o desarrolle algún programa relacionado con las
+19 personas de edad avanzada en Puerto Rico y que reciba alguna aportación económica
+20 del Gobierno [del Estado Libre Asociado] de Puerto Rico o que reciba fondos de los
+5
+1 programas del Gobierno de los Estados Unidos de América que para beneficio,
+2 atención y protección de dichas personas se contemplan en las leyes federales.
+3 [(d)] (e) Gobernador(a) - significa el Gobernador o la Gobernadora [del Estado
+4 Libre Asociado] de Puerto Rico.
+5 [(e)] (f) Oficina - significa la Oficina del Procurador(a) de las Personas de Edad
+6 Avanzada [del Estado Libre Asociado] de Puerto Rico.
+7 [(f) Persona de Edad Avanzada -significa toda persona de sesenta (60) años o
+8 más de edad, según la Ley Núm. 121 de 12 de Julio de 1986, según enmendada,
+9 llamada “Carta de Derechos de las Personas de Edad Avanzada”.]
+10 (g) Procurador(a) - significa el Procurador o la Procuradora de las Personas de
+11 Edad Avanzada, cargo que se crea en virtud de esta Ley.”
+12 Sección 4.- Se enmienda el Artículo 4 de la “Ley del Procurador de las Personas de
+13 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+14 que lea como sigue:
+15 “Artículo 4.- Política Pública
+16 La seguridad y protección, así como el sentido de pertenencia, auto estimación
+17 y realización son aspiraciones de todo adulto que va experimentando al paso de los
+18 años. La atención de la población de los adultos mayores [personas de edad avanzada]
+19 y la provisión de servicios para mejorar la calidad de vida son de alta prioridad para
+20 el Gobierno [del Estado Libre Asociado] de Puerto Rico. El desarrollo de actividades
+6
+1 y acciones que contribuyen a mantener al máximo la capacidad de independencia
+2 física, mental y social posible en estos adultos, dentro de su ámbito familiar y social,
+3 es esencial para lograr su bienestar y su participación activa en la comunidad.
+4 Para la consecución de estos propósitos es menester planificar de manera
+5 integral la acción gubernamental dirigida a la provisión de los servicios necesarios
+6 para satisfacer las aspiraciones de este sector, entre las cuales pueden mencionarse la
+7 salud, el bienestar social, la seguridad económica, la vivienda, la educación y la
+8 recreación, entre otros. Actualmente, los servicios se ofrecen a los adultos mayores [las
+9 personas de edad avanzada] por diversas agencias y entidades públicas y privadas.
+10 Es necesaria la coordinación efectiva de todos estos servicios y recursos
+11 gubernamentales para lograr una mejor utilización.
+12 La planificación e implantación de la política pública debe, además, integrar a
+13 las familias y a la comunidad en el sistema de prestación de servicios por ser éstos el
+14 principal apoyo de los adultos mayores [las personas de edad avanzada] y fomentar, a
+15 su vez, su participación en las decisiones que afecten sus vidas propiciando su
+16 envolvimiento personal en actividades y acciones dirigidas a la atención de sus
+17 propias necesidades y las de sus conciudadanos.
+18 Por tanto, es política pública del [Estado Libre Asociado] Gobierno de Puerto
+19 Rico garantizar el respeto de los derechos humanos de las personas de edad avanzada,
+20 su pleno desarrollo y el ejercicio y disfrute de sus libertades fundamentales. Al
+21 reconocer que los adultos mayores [las personas de edad avanzada] tienen problemas
+7
+1 que dificultan muchas veces su participación en la vida política, social, económica,
+2 cultural y civil, se hace necesario fortalecer y consolidar los instrumentos y
+3 mecanismos que tiene el Estado para la implantación efectiva de esta política pública.
+4 Es parte esencial de esta política pública garantizar estos derechos y que [todas] todos
+5 los adultos mayores [las personas de edad avanzada], sin importar su ubicación
+6 geográfica, raza, etnia, estado civil, condición social y económica, capacidad física,
+7 afiliación política o religiosa, tengan acceso a los procesos de participación que genere
+8 la Oficina en el desempeño de sus funciones.
+9 Para fiscalizar la implantación de esta política pública y de su cumplimiento
+10 por parte de agencias públicas y las entidades privadas se crea la Oficina y el cargo
+11 del Procurador(a) de las Personas de Edad Avanzada. Esta Oficina está dotada de
+12 funciones educativas, investigativas, fiscalizadoras, de reglamentación y cuasi-
+13 judiciales, con el propósito de que se investiguen y se provean los remedios y las
+14 actuaciones correctivas que sean necesarias ante acciones u omisiones que lesionen los
+15 derechos de las personas de edad avanzada. Asimismo, esta Oficina está facultada
+16 para actuar por sí, en representación de personas de edad avanzada en su carácter
+17 individual o como clase para la defensa de sus derechos, así como para aprobar
+18 reglamentación para fiscalizar y velar que las agencias gubernamentales y las
+19 entidades o instituciones privadas cumplan con la política pública y los objetivos de
+20 esta Ley.”
+8
+1 Sección 5.- Se enmienda el Artículo 5 de la “Ley del Procurador de las Personas de
+2 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+3 que lea como sigue:
+4 “Artículo 5.– Creación de la Oficina
+5 Se crea la Oficina del Procurador(a) de las Personas de Edad Avanzada, como
+6 una entidad jurídica independiente y separada de cualquier otra agencia o entidad
+7 pública. Dicha Oficina, que será dirigida por un Procurador(a), tendrá entre otras
+8 funciones dispuestas en esta Ley, la responsabilidad de servir como instrumento de
+9 coordinación para atender y viabilizar la solución de los problemas, necesidades y
+10 reclamos de las personas de edad avanzada en las áreas de la educación, la salud, el
+11 empleo, de los derechos civiles y políticos, de la legislación social, laboral y
+12 contributiva, de vivienda, de transportación, de recreación y de cultura, entre otras.
+13 Asimismo, tendrá la responsabilidad de establecer y llevar a cabo un programa de
+14 asistencia, orientación y asesoramiento para la protección de los derechos de las
+15 personas de edad avanzada.
+16 [En adición] Adicionalmente, será el organismo que fiscalizará, investigará,
+17 reglamentará, planificará y coordinará con las distintas agencias públicas y/o
+18 entidades privadas el diseño y desarrollo de los proyectos y programas encaminados
+19 a atender las necesidades de la población de edad avanzada en armonía con la política
+20 pública enunciada en virtud de esta Ley, de la Ley Pública Federal Núm. 89-73 de 14
+21 de julio de 1965, según enmendada, conocida como "Older American Act of l965", [de
+9
+1 la Ley Núm. 121 de 12 de julio de 1986, según enmendada, mejor conocida como la
+2 "Carta de Derechos de Persona de Edad Avanzada"] de la Ley 121-2019, según
+3 enmendada, conocida como la “Carta de Derechos y la Política Pública del Gobierno a Favor de
+4 los Adultos Mayores” y de cualquier otra ley especial que así le faculte, a los fines de
+5 propiciar el disfrute de una vida plena y productiva y lograr la mayor participación
+6 de estas personas en la comunidad. [En adición] Además, fiscalizará la implantación y
+7 cumplimiento por las agencias públicas de la política pública en torno a este sector de
+8 la población.
+9 Sección 6.- Se enmienda el Artículo 6 de la “Ley del Procurador de las Personas de
+10 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+11 que lea como sigue:
+12 “Artículo 6.– Creación del Cargo de Procurador(a) de las Personas de Edad
+13 Avanzada
+14 Se crea el cargo del Procurador(a) de las Personas de Edad Avanzada, quien
+15 será nombrado por el Gobernador(a) con el consejo y consentimiento del Senado [del
+16 Estado Libre Asociado] de Puerto Rico, por el término de diez (10) años y hasta que
+17 su sucesor o sucesora sea nombrado y tome posesión del cargo.
+18 La remuneración del cargo del Procurador(a) la fijará el Gobernador(a)
+19 tomando en consideración lo establecido para los Secretarios(as) de Departamentos
+20 Ejecutivos. La persona designada deberá ser de reconocido conocimiento y capacidad
+21 profesional, e independencia de criterio. [En adición] Adicionalmente, dicho cargo sólo
+10
+1 podrá ser desempeñado por una persona que tenga conocimientos y/o experiencia en
+2 la administración pública, gestión gubernamental, servicios para las personas de edad
+3 avanzada y [en adición,] que haya cursado estudios y/o obtenido un grado
+4 universitario a nivel graduado en gerontología. Este podrá acogerse a los beneficios
+5 establecidos mediante la [Ley Núm. 447 de 15 de mayo de 1951, según enmendada,
+6 que establece el Sistema de Retiro de los Empleados del Gobierno de Puerto Rico y
+7 sus dependencias o entidades gubernamentales] Ley Ley 106-2017, según enmendada,
+8 conocida como la “Ley para Garantizar el Pago a Nuestros Pensionados y Establecer un Nuevo
+9 Plan de Aportaciones Definidas para los Servidores Públicos”. Además deberá haber estado
+10 domiciliado en Puerto Rico por lo menos cinco (5) años inmediatamente anteriores a
+11 la fecha de su nombramiento.
+12 El Gobernador(a), sin menoscabo de sus prerrogativas constitucionales, podrá
+13 solicitar y recibir recomendaciones del sector gubernamental y de los grupos
+14 identificados con los derechos de [las personas de edad avanzada] los adultos mayores
+15 sobre posibles candidatos(as) para ocupar el cargo.
+16 El Gobernador(a), previa notificación y vista, podrá declarar vacante el cargo
+17 del Procurador(a) por incapacidad física o mental que le inhabilite para el desempeño
+18 de las funciones del cargo, por negligencia en el desempeño de sus funciones u
+19 omisión en el cumplimiento del deber. [En adición] Adicionalmente, serán causas de
+20 destitución del cargo la comisión y convicción de cualquier delito contra la función
+21 pública, contra el erario público y/o cualquier delito grave.
+11
+1 En el caso de enfermedad o ausencia temporal del Procurador(a), el
+2 Procurador(a) podrá designar a un Procurador(a) Auxiliar a cubrir dicha posición y
+3 asumirá todas las funciones, deberes y facultades de dicho cargo, hasta tanto el
+4 Procurador(a) se incorpore en el mismo. Cuando surja una incapacidad que le impida
+5 continuar en dicho cargo o el cargo de Procurador(a) quede vacante de forma
+6 permanente, antes de expirar el término de su nombramiento, la persona designada
+7 temporeramente asumirá todas las funciones, deberes y facultades de ésta por el
+8 término no cumplido de la que ocasione tal vacante, hasta que su sucesor(a) sea
+9 designado y tome posesión del cargo.”
+10 Sección 7.- Se enmienda el Artículo 7 de la “Ley del Procurador de las Personas de
+11 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+12 que lea como sigue:
+13 “Artículo 7.-Procuradores Auxiliares
+14 El Procurador(a) podrá nombrar Procuradores Auxiliares y delegarle
+15 cualesquiera de las funciones dispuestas en esta Ley, excepto la de nombrar el personal
+16 y adoptar los reglamentos necesarios para cumplir con los propósitos de esta Ley. Las
+17 personas que sean nombradas como Procuradores Auxiliares deberán ser de
+18 reconocida capacidad profesional, e independencia de criterio. [En adición] Además,
+19 deberán tener conocimientos y/o experiencia en la administración pública, gestión
+20 gubernamental y servicios a personas de edad avanzada. Además, deberán contar con
+21 conocimientos en materia de gerontología.
+12
+1 Además de lo dispuesto en el párrafo anterior, la persona nombrada como
+2 Procurador(a) Auxiliar que en su momento sea designada por el Procurador(a) para
+3 cubrir su posición y asumir sus funciones, deberes y facultades hasta tanto el
+4 Procurador(a) se reincorpore en la misma, deberá haber cursado estudios relacionados
+5 al campo de la gerontología. Esto también será de aplicación cuando surja una
+6 incapacidad que le impida al Procurador(a) continuar en dicho cargo o quede vacante
+7 el mismo de manera permanente.”
+8 Sección 8.- Se enmienda el Artículo 8 de la “Ley del Procurador de las Personas de
+9 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+10 que lea como sigue:
+11 “Artículo 8.-Funciones y Deberes de la Oficina
+12 La Oficina tendrá los siguientes deberes y funciones, además de otros
+13 dispuestos en esta Ley:
+14 (a) Realizar y fomentar estudios e investigaciones, así como recopilar y
+15 analizar estadísticas sobre la situación de los adultos mayores [las
+16 personas de edad avanzada], analizar los factores que afecten los
+17 derechos de las personas de edad avanzada en todas las esferas de su
+18 vida social, política, económica, educativa, cultural y civil, así como el
+19 acceso de participación en materia de educación y capacitación, la salud,
+20 el empleo, la autogestión, el desarrollo económico y, en general, en el
+21 ejercicio de sus derechos civiles, políticos, sociales y culturales,
+13
+1 incluyendo la participación en la toma de decisiones a todo nivel, entre
+2 otros;
+3 (b) Fiscalizar y que se lleve a cabo el cumplimiento de la política pública
+4 establecida en esta Ley, velar por los derechos de los adultos mayores [las
+5 personas de edad avanzada] y asegurar que las agencias públicas
+6 cumplan y adopten programas de acción afirmativa o correctiva,
+7 promover que las entidades privadas las incorporen, así como evaluar
+8 los programas ya existentes, a fin de lograr la integración de las personas
+9 de edad avanzada y propiciar su participación;
+10 (c) Radicar, a su discreción, ante los tribunales, los foros administrativos e
+11 instrumentalidades y subdivisiones políticas del [Estado Libre
+12 Asociado] Gobierno de Puerto Rico, por sí o en representación de la parte
+13 interesada, ya sean adultos mayores [personas de edad avanzada] en su
+14 carácter individual o constituidos como una clase, las acciones que
+15 estime pertinente para atender violaciones a la política pública
+16 establecida en esta Ley. La Oficina estará exenta del pago y cancelación
+17 de toda clase de sellos, aranceles y derechos requeridos para la
+18 radicación y tramitación, de cualesquiera escritos, acciones o
+19 procedimientos, o para la obtención de copias de cualquier documento
+20 ante los tribunales de justicia y agencias administrativas [del Estado
+21 Libre Asociado] de Puerto Rico;
+14
+1 (d) Mantener una revisión y evaluación continua de las actividades llevadas
+2 a cabo por las agencias públicas y entidades privadas para evitar
+3 violaciones a los derechos de los adultos mayores [las personas de edad
+4 avanzada] y posibilitar procesos sistemáticos de consulta con las
+5 entidades privadas y no gubernamentales de los adultos mayores
+6 [personas de edad avanzada] con el propósito de garantizar que las
+7 actividades de la Oficina respondan en todo momento a las necesidades,
+8 exigencias y aspiraciones de las personas de edad avanzada de Puerto
+9 Rico;
+10 (e) Impulsar acciones que contribuyan a resolver el problema del maltrato
+11 contra los adultos mayores [las personas de edad avanzada], en todas sus
+12 manifestaciones;
+13 (f) Considerar el efecto que pueden tener nuevos acontecimientos sobre los
+14 métodos utilizados en la promoción y defensa de los derechos de los
+15 adultos mayores [las personas de edad avanzada] y disponer la acción
+16 correctiva apropiada para ser implantadas;
+17 (g) Cooperar y establecer redes de trabajo y de intercambio de información
+18 y experiencias con las entidades privadas y organizaciones no
+19 gubernamentales de los adultos mayores de Puerto Rico [las personas de
+20 edad avanzada del país] y del exterior, y con las agencias estatales,
+15
+1 municipales y federales, dedicadas al desarrollo y la promoción de los
+2 derechos de los adultos mayores [las personas de edad avanzada];
+3 (h) Estudiar y analizar los convenios, normas y directrices internacionales
+4 respecto a los derechos de los adultos mayores [las personas de edad
+5 avanzada] e investigar planteamientos de controversias concretas en
+6 cuanto arrojen luz sobre problemas de importancia general, y
+7 recomendar remedios dirigidos a garantizar la participación de los
+8 adultos mayores [las personas de edad avanzada] en todas las esferas de
+9 la vida social, educativa, recreativa, política, económica y cultural;
+10 (i) Proponer aquella legislación que estime pertinente para el desarrollo
+11 efectivo de la política pública establecida en esta Ley y de los derechos
+12 que la Constitución de los Estados Unidos de América, la Constitución
+13 [del Estado Libre Asociado] de Puerto Rico y las leyes federales y locales
+14 le reconocen a los adultos mayores [las personas de edad avanzada], así
+15 como velar por que la política pública, las iniciativas, las declaraciones y
+16 proyectos dirigidos especialmente a los adultos mayores [las personas de
+17 edad avanzada] sean evaluados e implantados con una visión de
+18 integración y respeto;
+19 (j) Coordinar los esfuerzos de educación a la comunidad sobre los derechos
+20 de los adultos mayores [las personas de edad avanzada] y asuntos
+21 relacionados con éstos y podrá realizar en todo [el país] Puerto Rico
+16
+1 campañas de sensibilización, orientación y educación sobre los
+2 problemas que aquejan a las personas de edad avanzada;
+3 (k) Mantener actualizado un catálogo o manual sobre todos los programas,
+4 beneficios, servicios, actividades y facilidades disponibles para los
+5 adultos mayores [las personas de edad avanzada], tanto en las agencias
+6 públicas como en entidades privadas sin fines de lucro, mediante vía
+7 electrónica y/o impresa. Tal catálogo deberá incluir y comprender una
+8 síntesis con su cita de las leyes estatales y federales, reglamentos,
+9 órdenes, normas relevantes a los servicios y programas para los adultos
+10 mayores [la población de edad avanzada].
+11 A los fines de este inciso, la Oficina cobrará un precio razonable a
+12 cualquier ciudadano, que no sea de edad avanzada, que solicite copia de
+13 este catálogo o manual impreso. Dicho precio se fijará con el único
+14 propósito de recuperar los gastos incurridos en la reproducción de tal
+15 manual o catálogo;
+16 (l) Cualquier otra función que sea necesaria para el cumplimiento de esta
+17 Ley.”
+18 Sección 9.- Se enmienda el Artículo 9 de la “Ley del Procurador de las Personas de
+19 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+20 que lea como sigue:
+21 “Artículo 9.- Funciones, Poderes y Deberes del Procurador
+17
+1 El Procurador(a), tendrá, sin que se entienda como una limitación, las
+2 siguientes funciones, poderes y deberes a fin de cumplir con los propósitos de esta
+3 Ley:
+4 (a) Recibir, atender, investigar, procesar, resolver y adjudicar querellas
+5 relacionadas con acciones y omisiones que lesionen los derechos de los adultos mayores
+6 las [personas de edad avanzada], le nieguen los beneficios y oportunidades a que
+7 tienen derecho, y afecten los programas de beneficio; y conceder los remedios
+8 pertinentes conforme a derecho, así como ordenar acciones correctivas a cualquier
+9 persona natural o jurídica, o cualquier agencia o entidad privada o institución que
+10 niegue, entorpezca, viole o perjudique los derechos y beneficios de los adultos mayores
+11 las [personas de edad avanzada].
+12 (b) Tomar medidas para la tramitación de reclamaciones que propendan a la
+13 consecución de los fines de esta Ley, incluyendo representación legal u otro peritaje o
+14 servicio de apoyo para la tramitación de estas reclamaciones. A estos fines, el
+15 Procurador(a) podrá suministrar, directamente o mediante contratación o a través de
+16 referido, a su discreción, la prestación de servicios legales, profesionales, médicos,
+17 periciales o técnicos o comparecer por y en representación de los adultos mayores las
+18 [personas de edad avanzada] que cualifiquen para obtener algún beneficio o derecho
+19 al amparo de leyes y reglamentos [del Estado Libre Asociado] de Puerto Rico u
+20 ordenanzas municipales y leyes federales, ante cualquier tribunal, foro administrativo
+21 o de mediación, junta, comisión u oficina.
+18
+1 (c) Realizar investigaciones, por su propia iniciativa o en relación con las
+2 querellas que investigue, obtener la información que sea pertinente; celebrar vistas
+3 administrativas y llevar a cabo inspecciones oculares. Las vistas ante la Oficina serán
+4 públicas a menos que por razón de interés público se justifique que se conduzcan en
+5 privado.
+6 (d) Adoptar cualesquiera reglas y reglamentos que fueren necesarios para
+7 llevar a cabo los propósitos de esta Ley.
+8 (e) Tomar juramentos y declaraciones por sí o por medio de sus representantes
+9 autorizados.
+10 (f) Inspeccionar expedientes, inventarios, documentos e instalaciones de las
+11 agencias o entidades privadas cuando ello sea pertinente y necesario para una
+12 investigación o querella ante su consideración. En cuanto a esto, el Procurador(a) y sus
+13 representantes tendrán acceso a inspeccionar cualquier documento o registro, incluso
+14 aquellos existentes en los establecimientos de cuidado de larga duración con el
+15 historial social y cuidado médico de los adultos mayores [de edad avanzada] residentes
+16 en éstos, salvo que el adulto mayor [de edad avanzada] por sí o a través de su tutor o
+17 representante legal se oponga a ello, esto si el residente no esté en riesgo. Se podrá
+18 requerir, además, al encargado del establecimiento, que presente documentos que
+19 demuestren que cumple con los requisitos de licenciamiento y certificados expedidos
+20 por agencias o entidades privadas que garanticen que el adulto mayor [de edad
+21 avanzada] recibe la atención y cuidado por personal certificado para administrarlos.
+19
+1 (g) Ordenar la comparecencia y declaración de testigos, requerir la presentación
+2 o reproducción o cualesquiera papeles, libros, documentos y otra evidencia pertinente
+3 a una investigación o querella ante su consideración.
+4 (h) Requerir por sí o solicitar el auxilio de cualquier Tribunal de Primera
+5 Instancia para la asistencia, declaración, reproducción o inspección de documentos
+6 cuando un testigo debidamente citado no comparezca a testificar o no produzca la
+7 evidencia que le sea requerida o cuando rehúse contestar alguna pregunta o permitir
+8 la inspección solicitada conforme a las disposiciones de esta Ley. A estos efectos, el
+9 Secretario(a) de Justicia deberá suministrar al Procurador(a) la asistencia legal
+10 necesaria a estos fines si le fuera solicitada por el Procurador(a) quien podrá optar por
+11 comparecer a través de sus abogados. La presentación del testimonio y la información
+12 y la inspección estarán sujetas a las disposiciones de la Ley Núm. 27 de 8 de diciembre
+13 de 1990, según enmendada.
+14 (i) Imponer y cobrar multas administrativas hasta un máximo de diez mil
+15 (10,000) dólares por acciones u omisiones que lesionen los derechos de los adultos
+16 mayores [la personas de edad avanzada] amparados por la Constitución de los Estados
+17 Unidos de América, en la Constitución y las leyes [del Estado Libre Asociado] de
+18 Puerto Rico [y las leyes del Estado Libre Asociado de Puerto Rico], y podrá fijar la
+19 compensación por daños ocasionados, en los casos que así proceda.
+20
+1 (j) Imponer a la parte que no prevalezca en un procedimiento cuasi-judicial la
+2 obligación de pagar honorarios de abogado y costas, cuando así proceda conforme a
+3 derecho.
+4 (k) Nombrar, conforme a la reglamentación, Procuradores Auxiliares y/o
+5 Oficiales Examinadores para el cumplimiento de los propósitos de esta Ley.
+6 (l) Recibir, investigar y resolver las querellas de los adultos mayores [personas de
+7 edad avanzada] que residan en establecimientos de larga duración, o las que hayan
+8 sido presentadas en el interés de éstos.
+9 (m) Establecer los procedimientos que sean necesarios para el recibo y
+10 procesamiento de querellas y realizar investigaciones por sí o a través de sus
+11 representantes.
+12 (n) Investigar las acciones u omisiones administrativas en los establecimientos
+13 de cuidado de larga duración y de aquellos proveedores que brinden servicios a los
+14 adultos mayores [las personas de edad avanzada] en dichos establecimientos que
+15 contravengan los derechos garantizados a estos ciudadanos según dispuesto en la
+16 “Carta de Derechos y la Política Pública del Gobierno a Favor de los Adultos Mayores”, Ley
+17 121-2019, según enmendada, [Ley Núm. 121 de 12 de julio de 1986, según enmendada,
+18 conocida como "Carta de Derechos de la Persona de Edad Avanzada de Puerto
+19 Rico"].
+20 (o) Rendir, no más tarde del 31 de enero de cada año, un informe completo y
+21 detallado al Gobernador(a) y a la Asamblea Legislativa [del Estado Libre Asociado]
+21
+1 de Puerto Rico, sobre sus logros, peticiones, querellas radicadas y atendidas, datos
+2 estadísticos, uso de recursos y actividades realizadas por la Oficina durante el año
+3 fiscal precedente a la fecha de radicación.
+4 (p) Garantizar la confidencialidad de toda documentación examinada y
+5 recopilada durante el curso de la investigación y procesamiento de una querella
+6 radicada al amparo de esta Ley y de las disposiciones de leyes federales y estatales
+7 aplicables. Se garantizará la confidencialidad de los querellantes, testigos, pacientes, o
+8 residentes, hasta tanto se obtenga autorización de dichos querellantes, testigos,
+9 pacientes, residentes o sus representantes legales o tutores para divulgar tal
+10 información. El Procurador(a) ni sus representantes podrán ser obligados a testificar
+11 sobre la información obtenida en el curso de una investigación, salvo en aquellos casos
+12 en los que puedan, legalmente, ser compelidos a así hacerlo por los foros judiciales
+13 competentes.
+14 (q) Cualquier otra función que sea necesaria para la implementación de esta
+15 Ley. Se declara que la interferencia por parte de cualquier persona natural o jurídica
+16 con las funciones inherentes al cargo de Procurador(a) y sus representantes será ilegal.
+17 De igual forma será ilegal el que cualquier persona por sí o en representación de un
+18 establecimiento de cuidado de larga duración tome represalias, discrimine o penalice
+19 a un residente, paciente o empleado de dicho establecimiento por presentar una
+20 querella o por proveer información al Procurador(a) o su representante. [En adición]
+21 Adicionalmente, el Procurador(a) ni sus representantes podrán ser incursos en
+22
+1 responsabilidad civil o criminal por el desempeño bona fide de sus funciones según lo
+2 establecido por esta Ley y las disposiciones para el cargo en la Ley Pública Núm. 89-
+3 73 de 14 de julio de 1965, según enmendada, conocida como " Older Americans Act Of
+4 1965".
+5 (r) Brindar acompañamiento a las víctimas de maltrato o delito que sean personas
+6 adultas mayores durante los procesos legales contra sus agresores, conforme a las facultades
+7 establecidas en la Ley 99-2025, según enmendada y cualquier otra ley aplicable.
+8 Por último, se declara que dentro del cargo del Procurador(a) recaerá
+9 simultáneamente las funciones y deberes del cargo de Procurador de los Residentes
+10 en Establecimientos de Cuidado de Larga Duración para Personas de Edad Avanzada,
+11 conforme a lo requerido y establecido en la Ley Pública Núm. 89-73 de 14 de julio de
+12 1965, según enmendada, conocida como "Older Americans Act of 1965".”
+13 Sección 10.- Se enmienda el Artículo 10 de la “Ley del Procurador de las Personas
+14 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+15 para que lea como sigue:
+16 “Artículo 10.- Planificación y Coordinación de Fondos Federales; Designación
+17 como Agencia Administradora
+18 La Oficina podrá ser designada por el Gobernador(a) como la agencia estatal
+19 administradora y receptora de cualesquiera fondos o aportaciones concedidos por las
+20 leyes federales para los programas de los adultos mayores [personas de edad avanzada].
+23
+1 Se designa a la Oficina como la agencia administradora y encargada de poner
+2 en vigor localmente los programas federales para los adultos mayores [personas de edad
+3 avanzada] establecidos en virtud de la Ley Pública Núm. 89-73 de 14 de julio de 1965,
+4 según enmendada, conocida como "Older Americans Act of 1965".
+5 Cuando la Oficina sea designada conforme establece esta Ley, queda
+6 autorizada a realizar las diligencias necesarias y formalizar, en representación del
+7 [Estado Libre Asociado] Gobierno de Puerto Rico, convenios y contratos con las
+8 agencias federales pertinentes con el propósito de obtener los beneficios y fondos
+9 federales disponibles. La Oficina solicitará previamente a la Oficina de Gerencia y
+10 Presupuesto los fondos que se puedan requerir al [Estado Libre Asociado] Gobierno
+11 de Puerto Rico para el pareo de los fondos federales.”
+12 Sección 11.- Se enmienda el Artículo 11 de la “Ley del Procurador de las Personas
+13 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+14 para que lea como sigue:
+15 “Artículo 11. - Administración y Funcionamiento de la Oficina
+16 La Oficina, sin que se entienda como una limitación, será administrada y
+17 funcionará de la siguiente manera:
+18 (a) El Procurador(a) determinará la organización interna de la Oficina y
+19 establecerá los sistemas necesarios para su adecuado funcionamiento y operación. A
+20 esos fines tendrá la responsabilidad de planificar, organizar, tomar decisiones y dirigir
+21 todos los asuntos y operaciones relacionadas con los recursos humanos, contratación
+24
+1 de servicios, asignación presupuestaria, adquisición, uso y control de equipo,
+2 materiales y propiedad, reproducción de documentos y otros materiales y demás
+3 asuntos, transacciones y decisiones relativos al manejo y gobierno interno de la
+4 Oficina.
+5 (b) Atenderá las reclamaciones y quejas que insten los adultos mayores [las
+6 personas de edad avanzada] cuando alegan inacción por parte de las agencias,
+7 entidades privadas y personas en el cumplimiento de la política pública establecida
+8 en esta Ley para proteger los derechos que le han sido reconocidos a las personas de
+9 edad avanzada mediante la Constitución de los Estados Unidos de América, de la
+10 Constitución [del Estado Libre Asociado] de Puerto Rico, las leyes federales y
+11 estatales y la reglamentación vigente.
+12 (c) El Procurador(a) nombrará el personal que fuere necesario para llevar a cabo
+13 los propósitos de esta Ley de acuerdo con la [Ley Núm. 184 de 3 de agosto de 2004,
+14 según enmendada, conocida como la “Ley para la Administración de los Recursos
+15 Humanos en el Servicio Público del Estado Libre Asociado de Puerto Rico”] Ley 8-
+16 2017, conocida como “Ley para la Administración y Transformación de los Recursos Humanos
+17 en el Gobierno de Puerto Rico”, según enmendada, y podrá contratar los servicios de
+18 peritos y asesores para cumplir a cabalidad las funciones que le impone esta Ley.
+19 (d) El Procurador(a) adoptará la reglamentación interna de la Oficina y los
+20 reglamentos que regirán el funcionamiento de los programas y servicios que
+21 establezca a tenor con lo dispuesto en esta Ley, sujeto a [la Ley Núm. 170 de 12 de
+25
+1 agosto de 1988, según enmendada, conocida como "Ley de Procedimiento
+2 Administrativo Uniforme del Estado Libre Asociado de Puerto Rico"] Ley 38-2017,
+3 según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+4 Gobierno de Puerto Rico”.
+5 (e) Para recibir información y datos para los estudios e investigaciones de
+6 carácter general sobre el tema de los adultos mayores [las personas de edad avanzada]
+7 que la Oficina lleve a cabo, los reglamentos antes mencionados proveerán lo necesario
+8 para el cumplimiento de los siguientes requisitos procesales:
+9 (1) La celebración de audiencias públicas o ejecutivas, para lo cual podrá
+10 delegar en uno o más de sus funcionarios o empleados la función de escuchar
+11 testimonios o recibir cualquier otra evidencia para la Oficina.
+12 (2) Que las notificaciones de audiencias públicas deberán publicarse con diez
+13 (10) días de anticipación en por los menos en un periódico dos periódicos de
+14 circulación general o regionales que circulen en la región o área específica que abarque
+15 el estudio o investigación.
+16 Además, podrán anunciarse a través de otros medios de comunicación cuando sea
+17 necesario y razonable para una difusión más eficaz. Deberán incluir descripciones
+18 detalladas de los propósitos de las audiencias y los asuntos que en ellas se
+19 considerarán.
+20 (3) Que todas las declaraciones verbales se oirán en sesiones públicas. Sin
+21 embargo, en los casos en que la Oficina considere que la evidencia o el testimonio que
+26
+1 se va a presentar en una vista tiende a difamar, degradar o incriminar a cualquier
+2 persona o a vulnerar su intimidad, para proteger su identidad, o en aquellos casos en
+3 que medien circunstancias que lo justifiquen, podrá hacer una excepción y optar por
+4 recibir dicho testimonio en sesión ejecutiva.
+5 (4) Cada deponente podrá, si lo estima conveniente, ser aconsejado por un
+6 abogado. También tendrá derecho a que no se le fotografíe sin su consentimiento, a
+7 ser interrogado por su abogado dentro de las normas de la audiencia y su aplicación
+8 por el Procurador(a), a revisar la exactitud de la transcripción de sus testimonios, a
+9 copiar dicha transcripción y a someter manifestaciones breves por escrito y bajo
+10 juramento para ser incluidas en el expediente de la audiencia.
+11 (5) La Oficina determinará las demás reglas de procedimiento para las
+12 audiencias públicas o ejecutivas, inclusive las que se refieran a la admisibilidad de
+13 evidencia y a la exclusión de personas que violen las normas que deben imperar en
+14 una audiencia.
+15 (f) El(la) Procurador(a), ya sea por acción propia o mediante acuerdos de
+16 colaboración, podrá establecer y poner en vigor un plan para el establecimiento de
+17 oficinas regionales, así como de distrito o municipales, que faciliten y promuevan el
+18 acceso de los adultos mayores [las personas de edad avanzada] a la Oficina, a fin de
+19 cumplir con los propósitos de esta Ley, dentro de los parámetros de la ley federal y lo
+20 establecido en el plan estatal.
+27
+1 (g) El Procurador(a) promoverá la formalización de los acuerdos de
+2 colaboración a nivel gubernamental y privado incluyendo, sin que se entienda como
+3 una limitación, acuerdos con los gobiernos, entidades y corporaciones municipales y
+4 con entidades y organizaciones no gubernamentales identificadas con los derechos de
+5 los adultos mayores [las personas de edad avanzada], cuando estos acuerdos viabilicen
+6 el ejercicio de sus responsabilidades sin menoscabo de su autonomía.
+7 (h) La Oficina podrá solicitar a personas o entidades privadas, así como a las
+8 agencias gubernamentales, por sí o a través del Gobernador(a), servicios y facilidades
+9 disponibles para llevar a cabo los propósitos de esta Ley.
+10 (i) La Oficina podrá contratar o nombrar a cualquier funcionario o empleado
+11 del [Estado Libre Asociado] Gobierno de Puerto Rico o de sus agencias, con la anuencia
+12 de la autoridad nominadora del organismo gubernamental donde preste servicio el
+13 funcionario o empleado. En tal caso, la autoridad nominadora tiene la obligación de
+14 retener el cargo o empleo a dicho funcionario o empleado mientras la Oficina utilice
+15 sus servicios.
+16 (j) Se autoriza, además, a la Oficina a contratar, sin sujeción a lo dispuesto por
+17 el Artículo 177 del Código Político de Puerto Rico, según enmendado, los servicios de
+18 cualquier funcionario o empleado público y a pagarle por los servicios adicionales que
+19 preste a la Oficina fuera de sus horas regulares de servicio.
+20 (k) La Oficina podrá, con la aprobación del Gobernador(a), encomendar a
+21 cualquier agencia que efectúe algún estudio o investigación, o alguna fase o parte de
+28
+1 los mismos, o que realice cualquier otra clase de trabajo que fuere necesario al
+2 desempeño de sus funciones, al cual deberá conferir prioridad. Si a su juicio fuere
+3 necesario, la agencia podrá solicitar de la Oficina, y obtener de ésta, previa
+4 autorización del Gobernador(a), una transferencia de fondos por la cantidad que la
+5 Oficina considere razonable.
+6 (l) La Oficina queda autorizada para recibir y administrar fondos provenientes
+7 de asignaciones legislativas, y de transferencias, delegaciones, aportaciones y
+8 donativos de cualquier clase que reciba de agencias, gobiernos municipales y del
+9 Gobierno de los Estados Unidos de América, así como los provenientes de personas,
+10 organizaciones no gubernamentales y de otras entidades privadas para el diseño e
+11 implantación de proyectos y programas a ser ejecutados por la Oficina, por las
+12 agencias, entidades y organizaciones no gubernamentales de los adultos mayores
+13 [personas de edad avanzada] o por la sociedad civil. Los fondos así recibidos se
+14 contabilizarán, controlarán y administrarán con sujeción a las leyes que regulan el uso
+15 de fondos públicos, a las normas legales, reglas o convenios en virtud de los cuales los
+16 reciba la Oficina y según los reglamentos que ésta adopte para esos fines. La Oficina
+17 puede recibir además cualesquiera bienes muebles de agencias públicas en calidad de
+18 préstamo, usufructo o donación y poseerlos, administrarlos y usarlos para llevar a
+19 cabo las funciones dispuestas en esta Ley.
+20 (m) La Oficina presentará, no más tarde del 31 de enero de cada año, un informe
+21 anual escrito y cualesquiera informes especiales al Gobernador(a) y a la Asamblea
+29
+1 Legislativa sobre sus actividades, operaciones, logros y situación fiscal, junto con las
+2 recomendaciones que estime necesarias para la continua y eficaz protección de los
+3 derechos de los adultos mayores [las personas de edad avanzada]. Luego del primer
+4 informe anual, la Oficina incluirá, al final de sus informes anuales, un resumen de las
+5 recomendaciones que ha hecho anteriormente y una descripción de la acción tomada
+6 sobre dichas recomendaciones. La Oficina publicará sus informes y serán enviados al
+7 Gobernador(a) y a la Asamblea Legislativa, así como también podrá publicar los
+8 estudios y monografías que le sometan sus consultores y asesores.
+9 (n) Planificará y coordinará con las distintas agencias públicas así como con las
+10 entidades privadas los programas, actividades y servicios relacionados con los adultos
+11 mayores [las personas de edad avanzada] para asegurar la implantación de la política
+12 pública de esta Ley de una manera integral, sujeto a las condiciones y restricciones que
+13 dispongan las leyes aplicables.
+14 (o) Proveerá guías a las agencias públicas en la formulación e implantación de
+15 programas y proyectos relacionados con los adultos mayores [las personas de edad
+16 avanzada].
+17 (p) Establecerá sistemas y procedimientos para evaluar la efectividad y mejorar
+18 la coordinación de los programas y proyectos de las diversas agencias públicas y
+19 entidades privadas encaminados a atender las necesidades y problemas de los adultos
+20 mayores [las personas de edad avanzada].
+30
+1 (q) Fomentará la participación de los ciudadanos en el desarrollo e
+2 implantación de proyectos y programas en beneficio de los adultos mayores [las
+3 personas de edad avanzada] y facilitará su comunicación con las agencias públicas.
+4 (r) Podrá brindar el asesoramiento, la ayuda técnica y los servicios
+5 profesionales a las agencias y entidades privadas que así lo soliciten a los fines de
+6 mejorar los servicios que prestan y satisfacer requisitos de funcionamiento
+7 establecidos por las leyes o reglamentos.
+8 (s) Podrá organizar y celebrar conferencias, seminarios y talleres y realizará
+9 estudios e investigaciones por sí, o en coordinación con otras agencias y entidades
+10 privadas o educativas o cualquier otra organización que lleve a cabo actividades afines
+11 con los propósitos de esta Ley, para el desarrollo de nuevos enfoques, métodos,
+12 programas y servicios, y el adiestramiento y mejoramiento del personal necesario para
+13 la prestación de servicios a los adultos mayores [personas de edad avanzada]. Asimismo
+14 podrá establecer relación de coordinación y colaboración con colegios, universidades
+15 e instituciones educativas de educación postsecundaria para el diseño de currículo y
+16 la planificación de textos en gerontología.
+17 (t) Fomentará el establecimiento de servicios, y cuando fuere aconsejable,
+18 establecerlos con carácter de demostración o modelo, para ser luego transferidos a
+19 organizaciones públicas o privadas tales como clínicas de preparación para la vejez, y
+20 la jubilación del trabajo, centros de actividades múltiples, clínicas geriátricas y otras.
+31
+1 (u) Recopilará, analizará y mantendrá actualizados los datos estadísticos
+2 necesarios para la planificación, coordinación y uso de los recursos gubernamentales
+3 disponibles para la implantación y desarrollo de una política pública con respecto a
+4 los adultos mayores [las personas de edad avanzada] que responda a las exigencias del
+5 momento.
+6 (v) Mantener actualizado un catálogo o manual sobre todos los programas,
+7 beneficios, servicios, actividades y facilidades disponibles para los adultos mayores [las
+8 personas de edad avanzada], tanto en las agencias públicas como en entidades
+9 privadas sin fines de lucro. Tal catálogo deberá incluir y comprender una síntesis con
+10 su cita de las leyes estatales y federales, reglamentos, órdenes, normas,
+11 procedimientos, recursos, medios, mecanismos y requisitos necesarios para cualificar
+12 y obtener cualquier beneficio, servicio, derecho o privilegio. A los fines de este Inciso,
+13 la Oficina cobrará un precio razonable a cualquier ciudadano, que no sea adulto mayor
+14 [de edad avanzada], que solicite copia de este catálogo o manual. Dicho precio se fijará
+15 con el único propósito de recuperar los gastos incurridos en la reproducción de tal
+16 manual o catálogo.
+17 (w) Promoverá en la ciudadanía y en el adulto mayor [la persona de edad
+18 avanzada] el conocimiento y un mejor entendimiento de las particularidades del
+19 proceso de envejecimiento.
+32
+1 (x) Llevará a cabo actividades de divulgación y orientación con miras a
+2 desarrollar actitudes positivas en los ciudadanos y mantener a los adultos mayores [las
+3 personas de edad avanzada] integradas activamente a la comunidad.
+4 (y) Orientará a los adultos mayores [las personas de edad avanzada] sobre los
+5 servicios, beneficios, programas y actividades que ofrecen las agencias públicas y
+6 entidades privadas.
+7 (z) Designará aquellos comités especiales que estime necesarios para llevar a
+8 cabo las funciones de la Oficina, en consulta con el Consejo Consultivo.
+9 (aa) Recomendará al Gobernador(a) y la Asamblea Legislativa aquellas
+10 medidas que crea necesarias para atender las necesidades y problemas de los adultos
+11 mayores [las personas de edad avanzada].
+12 (bb) Analizará los factores que afectan el ejercicio de los derechos civiles,
+13 políticos, sociales y culturales, así como la prestación de servicios y beneficios
+14 conferidos a las personas de edad avanzada, a los fines de orientar y asesorar sobre
+15 los requisitos, mecanismos, medios, recursos y procedimientos para hacer valer los
+16 mismos o beneficiarse de éstos.
+17 (cc) Investigar, canalizar y resolver las peticiones o querellas en las que se
+18 alegue que algún acto administrativo o la inacción de cualquier agencia pública o
+19 entidad privada lesiona los derechos que la Constitución [del Estado Libre Asociado]
+20 de Puerto Rico, la Constitución de los Estados Unidos de América y las leyes y
+21 reglamentos en vigor le reconocen a los adultos mayores [las personas de edad
+33
+1 avanzada]; o en las que se alegue que se han negado beneficios y oportunidades a que
+2 tienen derecho, o que afectan los programas en beneficio de los adultos mayores [las
+3 personas de edad avanzada] y conceder los remedios pertinentes conforme a Derecho,
+4 así como ordenar acciones correctivas a cualquier persona natural o jurídica, o a
+5 cualquier agencia pública o entidad privada que incurra en tales actuaciones.
+6 (dd) Asegurar que las agencias cumplan y adopten programas de acción
+7 afirmativa o correctiva y promover que las entidades privadas las incorporen, a fin de
+8 propiciar y lograr el cumplimiento con los derechos y beneficios conferidos por las
+9 leyes y reglamentos a los adultos mayores [las personas de edad avanzada].
+10 (ee) Radicar ante los tribunales y foros administrativos las acciones pertinentes
+11 para atender las violaciones a la política pública establecida en relación a los adultos
+12 mayores [las personas de edad avanzada]. La Oficina tendrá discreción para radicar
+13 tales acciones por sí o en representación de parte interesada, ya sean los adultos mayores
+14 [personas de edad avanzada] individualmente o una clase. La Oficina estará exenta
+15 del pago y cancelación de todo tipo de sellos, aranceles y derechos requeridos para la
+16 radicación y tramitación de cualesquiera escritos, acciones o procedimientos, o para la
+17 obtención de copias de cualquier documento ante los tribunales de justicia y agencias
+18 públicas del [Estado Libre Asociado] Gobierno de Puerto Rico.
+19 (ff) Mantener una revisión y evaluación continua del cumplimiento con los
+20 servicios y las actividades llevadas a cabo por las agencias y entidades privadas para
+21 evitar violaciones a los derechos de los adultos mayores [las personas de edad
+34
+1 avanzada] y posibilitar procesos sistemáticos de consulta con el propósito de
+2 garantizar que las actividades de la Oficina respondan en todo momento a las
+3 necesidades, exigencias y aspiraciones de este sector de la población.
+4 (gg) Cooperar y establecer redes de trabajo, intercambio de información y
+5 experiencias con las agencias, entidades privadas y organismos federales e
+6 internacionales dedicados al desarrollo y promoción de los derechos y beneficios de
+7 los adultos mayores [las personas de edad avanzada].”
+8 Sección 12.- Se enmienda el Artículo 12 de la “Ley del Procurador de las Personas
+9 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+10 para que lea como sigue:
+11 “Artículo 12.- Consejo Consultivo; Creación
+12 Se crea un Consejo Consultivo sobre Asuntos de la Vejez, adscrito a la Oficina,
+13 para asesorar a la Oficina del Procurador(a) de las Personas de Edad Avanzada en
+14 relación con la implantación de esta Ley. El Consejo Consultivo estará integrado por
+15 diecisiete (17) miembros cuya composición será la siguiente: nueve (9) miembros ex
+16 officio en representación del interés público y ocho (8) miembros en representación
+17 del interés de la comunidad. Los miembros ex officio en representación del interés
+18 público serán a saber: el Secretario(a) del Departamento de Salud, el Secretario(a) del
+19 Departamento de la Familia, Secretario(a) del Departamento de Educación,
+20 Secretario(a) del Departamento de Recreación y Deportes, Secretario(a) del
+21 Departamento del Trabajo y Recursos Humanos, Secretario(a) del Departamento de la
+35
+1 Vivienda, el Procurador(a) del Paciente, el [Procurador(a)] Defensor de las Personas
+2 con Impedimentos y la Procuradora de las Mujeres o el representante que estos
+3 funcionarios designen expresamente para estos propósitos. De los ocho (8) miembros
+4 en representación del interés de la comunidad, cuatro (4) de los mismos deberán ser
+5 adultos mayores [personas de edad avanzada].
+6 Todos los miembros en representación del interés de la comunidad deberán ser
+7 personas de probada capacidad y liderato, conscientes de las necesidades y
+8 problemáticas de los adultos mayores [las personas de edad avanzada] e identificadas
+9 con el respeto por los derechos que le asisten a éstas.
+10 Nueve (9) miembros constituirán quórum para celebrar las reuniones del
+11 Consejo Consultivo y sus acuerdos se tomarán por mayoría de las/los presentes. El
+12 Consejo Consultivo adoptará un reglamento interno para regir sus trabajos,
+13 deliberaciones y ejecución de sus funciones. La Oficina proveerá al Consejo Consultivo
+14 las instalaciones, equipos, materiales y recursos humanos necesarios para cumplir las
+15 funciones que le asigna esta Ley.
+16 El Consejo Consultivo se reunirá cuantas veces sea convocado por el
+17 Procurador(a), pero nunca menos de seis (6) veces al año, al menos una (1) vez cada
+18 dos (2) meses. El Consejo Consultivo mantendrá un récord de las reuniones,
+19 comparecencias y de las recomendaciones presentadas al Procurador(a).
+20 Se establece, además, que los miembros del Consejo Consultivo, bien sean del
+21 interés público o de la comunidad, serán nombrados por el Gobernador(a) [del Estado
+36
+1 Libre Asociado] de Puerto Rico sin necesidad del consejo y consentimiento del Senado
+2 [del Estado Libre Asociado] de Puerto Rico. Al entrar en vigor esta Ley, de los ocho
+3 (8) miembros en representación del interés de la comunidad, cinco (5) miembros serán
+4 nombrados por el término de dos (2) años y tres (3) miembros por el término de tres
+5 (3) años. Al vencer estos términos iniciales, se harán nombramientos por tres (3) años.
+6 Los miembros del Consejo Consultivo elegirán su Presidente(a) de entre sus
+7 miembros, no obstante, el mismo deberá surgir de entre los miembros del interés de
+8 la comunidad. Los miembros representantes del interés público ejercerán su oficio
+9 mientras dure su ministerio gubernamental. Al momento del cese de su ministerio,
+10 serán remplazados por la persona que ocupe tal cargo público.“
+11 Sección 13.- Se enmienda el Artículo 13 de la “Ley del Procurador de las Personas
+12 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+13 para que lea como sigue:
+14 "Artículo 13.- Dietas para los miembros del Consejo Consultivo
+15 Los miembros del Consejo Consultivo recibirán una dieta de cincuenta (50)
+16 dólares por cada reunión a la que asistan, o por la asistencia a sesiones o reuniones de
+17 comisión, por cada sesión, reunión extraordinaria o de comité u otro organismo o
+18 realización de encomienda autorizada por el Presidente del Consejo Consultivo a la
+19 que asistan, excepto aquéllos que sean jefes de agencias del Gobierno [del Estado
+20 Libre Asociado] de Puerto Rico y sus instrumentalidades, salvo el Presidente del
+37
+1 Consejo Consultivo, quien recibirá una dieta equivalente al ciento treinta y tres (133)
+2 por ciento de la dieta que reciban los demás miembros del Consejo Consultivo.
+3 Aquel miembro del Consejo Consultivo que reciba una pensión por mérito o
+4 años de servicio o anualidad de la Administración de Sistemas de Retiro [de los
+5 Empleados del Estado Libre Asociado de Puerto Rico] o de cualesquiera de sus
+6 agencias, instrumentalidades, corporaciones públicas o subdivisiones políticas, podrá
+7 recibir el pago de dietas sin que se afecte su derecho a la pensión o anualidad de
+8 retiro.”
+9 Sección 14.- Se enmienda el Artículo 14 de la “Ley del Procurador de las Personas
+10 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+11 para que lea como sigue:
+12 “Artículo 14.- Funciones y Deberes del Consejo Consultivo sobre Asuntos de la
+13 Vejez
+14 El Consejo Consultivo tendrá, sin que se entienda como una limitación, los
+15 siguientes deberes y funciones:
+16 (a) Asesorar a la Oficina en materias relacionadas con las necesidades y el
+17 bienestar de los adultos mayores [las personas de edad avanzada] en sus aspectos físico,
+18 mental y socioeconómico, sobre todo, evaluar la política pública relacionada con la
+19 situación de las personas de edad avanzada en el ámbito de la educación y
+20 capacitación, el empleo, la autogestión, el desarrollo económico, la vivienda y la salud,
+21 entre otros, con el propósito de propulsar acciones que contribuyan a procurar la
+38
+1 participación de los adultos mayores [las personas de edad avanzada] en todas las
+2 esferas de la vida social, política, económica y cultural.
+3 (b) Asesorar a la Oficina en cuanto al establecimiento de criterios para evaluar
+4 los programas y proyectos desarrollados bajo esta Ley y hacer las recomendaciones
+5 que estime pertinente al Procurador(a).
+6 (c) Recomendar sistemas y métodos encaminados a la integración de los
+7 programas que desarrolle el Gobierno para atender las necesidades de los adultos
+8 mayores [las personas de edad avanzada].
+9 (d) Asesorar a la Oficina con respecto a la distribución de fondos y ayuda
+10 económica proveniente de donaciones y otras aportaciones que reciba la Oficina.
+11 (e) Hacer recomendaciones a la Oficina con respecto a los reglamentos y normas
+12 que se adopten al amparo de esta Ley.
+13 (f) Asesorar a la Oficina en la preparación y administración de un plan de
+14 trabajo anual y de propuestas de la Oficina.
+15 (g) Cualquier otra función que sea necesaria para el cumplimiento de esta Ley.”
+16 Sección 15.- Se enmienda el Artículo 15 de la “Ley del Procurador de las Personas
+17 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+18 para que lea como sigue:
+39
+1 “Artículo 15.-Tramitación de Peticiones o Querellas.
+2 Se faculta al Procurador(a) a establecer los sistemas necesarios para el acceso,
+3 recibo y encausamiento de las reclamaciones y quejas que insten las personas de edad
+4 avanzada cuando aleguen cualquier acción u omisión por parte de las agencias y
+5 entidades privadas que lesionen los derechos que le reconocen la Constitución de los
+6 Estados Unidos de América, la Constitución [del Estado Libre Asociado] de Puerto
+7 Rico, las leyes y los reglamentos en vigor.
+8 Toda querella promovida al amparo de las disposiciones de esta Ley se
+9 tramitará en la forma que disponga el reglamento que a estos efectos se apruebe en
+10 cumplimiento de la [Ley Núm. 170 de 12 de agosto de 1988, según enmendada,
+11 conocida como la "Ley de Procedimiento Administrativo Uniforme del Estado Libre
+12 Asociado de Puerto Rico"] Ley 38-2017, según enmendada, conocida como “Ley de
+13 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”. El Procurador(a)
+14 notificará a la parte promovente su decisión de investigar los hechos denunciados y
+15 en la misma fecha en que tramite la correspondiente notificación deberá notificarlo a
+16 la agencia o a la persona o entidad privada, según fuere el caso, con expresión de los
+17 hechos alegados en la querella y una cita de la ley que le confiere facultad para realizar
+18 tal investigación. También deberá notificar a la parte promovente su decisión de no
+19 investigar la querella en cuestión, cuando así proceda, expresando las razones para
+20 ello y apercibiéndole de su derecho a solicitar la reconsideración y revisión de la
+21 determinación.
+40
+1 No obstante, el Procurador(a) no investigará aquellas querellas cuando:
+2 (a) Se refieran a algún asunto fuera del ámbito de su jurisdicción.
+3 (b) Sean carentes de mérito.
+4 (c) La parte promovente no tiene legitimación para instarla.
+5 En aquellos casos en que la querella radicada no plantee controversia
+6 adjudicable alguna o se refiera a algún asunto fuera del ámbito de jurisdicción de la
+7 Oficina, el Procurador(a) orientará a la parte promovente y la referirá a la agencia
+8 concernida, si ello fuera necesario.
+9 El Procurador(a), en el ejercicio de las facultades adjudicativas que le confiere
+10 esta Ley, podrá designar oficiales examinadores para que presidan las vistas
+11 administrativas que se celebren. Los procedimientos adjudicativos deberán regirse por
+12 lo dispuesto en la [Ley Núm. 170 de 12 de agosto de 1988, según enmendada,
+13 conocida como la "Ley de Procedimiento Administrativo Uniforme del Estado Libre
+14 Asociado de Puerto Rico"] Ley 38-2017, según enmendada, conocida como “Ley de
+15 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico” y los reglamentos que
+16 adopte la Oficina para ello, incluyendo lo perteneciente al recurso de reconsideración
+17 y revisión de la determinación adversa del Procurador(a) y su facultad para imponer
+18 y cobrar multas administrativas hasta diez mil (10,000) dólares, así como podrá
+19 imponer la compensación por los daños ocasionados, incluyendo, entre otros, daños
+20 emocionales.”
+41
+1 Sección 16.- Se enmienda el Artículo 17 de la “Ley del Procurador de las Personas
+2 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+3 para que lea como sigue:
+4 “Artículo 17.- Reglas y Reglamentos.
+5 Se faculta a la Oficina para adoptar aquellas reglas y reglamentos que fueren
+6 necesarios para el cumplimiento de las funciones y deberes que establece esta Ley. Las
+7 reglas y reglamentos que no sean de carácter interno tendrán fuerza de ley, una vez se
+8 cumpla con lo dispuesto en la [Ley Núm. 112 de 20 de junio de 1957, conocida como
+9 "Ley sobre Reglamentos de 1958"] Ley 38-2017, según enmendada, conocida como “Ley de
+10 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, según enmendada”.
+11 Sección 17. - Vigencia
+12 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A 3 .rL  a y r l c e d L, ass,alas9,     ; i d G d P R E e d l p l y a D d e e l O d P d l a f i o c y v l d d e]
+[DELETED:  c c p y e S e d d L p u c e l c d o j l r e p a s d c l L 1 s e M a c c o l v q r l a e P R E a e i p a n e c i y f u i y d s r d s l P A s l f d l O p i a q i y a y c e i y c s m l r a l n f p]
+[DELETED:  ú i e A L r q l d d l d y f b d L a d l L 7 r a e p M e e s f l O d a p h v l d d e p f s  ]
+[DELETED:  f d e L l s t t e s q s     E P o I - s c a a  ]
+[DELETED:  d G d l E U d A q p b][G  d   ]
+[DELETED:  l c d e p e m p d m e b s l s e l v l e y l  n l c e d t e s y r  y v s p e l d q a s v p s p e a y a d a l a d s  p d y e e y d d s l f A  t]
+[DELETED:  y c s h n f y c l i y   a m, s i s u p d e a e i f d r y c o c c p l d d s d a c p a p f y v q l a g y l]
+[DELETED: S O q d u P t e o d l d c y p d l l s l y o y a p l p d l d d l[ a, s e o q f i p y c c l d a p y]
+[DELETED:  d D d P d E A l L 1 sa“ ,SL r d c d P l f e G  ,]
+[DELETED: sd y  q h c e y o u g aE y r r d s g y d l g E l f d c p n e e d d s f u  ,]
+[DELETED: E e c d e o a t d P e t l f d y f d d c h t e e d c o e c d P q v d f a t l f d y f d é p e n c d l q o t v h q s s sE P p n P A y d q s n c P A d s d  ,]
+[DELETED: A d e p l n s p y a s f d y f h t e c d l g E t s d a c s uL O t l s d y f a d o)R y f e e i a c r y e s l s d   a m d e a a l f q a l d s d c p s y c]
+[DELETED: )F   d e ay a q l a p y a p d a a o c)R y s p d L     i o c c u c l a q p p a v a l p p t c d s a y d r p l y t d c e a o]
+[DELETED: )M c p l a p y e p p e   p p s d c c l p y n g d  a mc e p q)   [,)C[y)C e c l e p y o n   a d p d e y c l a e]
+[DELETED:   [;)  a l d d   a m p d e i p d c c e a l s p d i g y r d a g l p d[ )P a l q e d  [,   a e e i c u v d)C  [y a a m p d e a c é y p r e t   p R]
+[DELETED:  d s o y e s l)M s a y f d p[, c s c d l l e y f r. l f d e i l O c u p rea c o m i D p s f c e ú) “]
+[DELETED: E P t s q s e c u l l R a i p r y a q  , d y a l p d b y c l r  . d a p l t d e r A e f e   a d l y r d P R u E L A]
+[DELETED:  R i p s p i o e r c l A c r y r q f n p I d d o e p c e s p y n p u e e l e d c d l d c e       d e a o e p q g q e a  e]
+[DELETED:  ( R p s o s e a d c T d P d J d s a P l a l I y c m a h u m d d m l d  l   ,]
+[DELETED:  N c a l r P A y  E l p q s n p e r y d q y r i p s o a t d s me d e q p d e a c " d D d l P d E A d P[]
+[DELETED:  G l c d t d e y d e c d l i y p d u q h t s o a d d q t r o s r l o t p d t( u r p o e d d e p p u e P n s r p s i e]
+[DELETED:    l qP ú s d q d d c d P rL  .]
+[DELETED: S C l O s d c e e L q e r d L A d P R c y c c l e p l  L O s q s e c u l s a y( E P d l o i d l O y]
+[DELETED:  s a p a u y c d e y p r d d y o m y d t y d r a m y g i d l( A l r y q q i  a m d e a a i p p d l a  d P R l l f y E L A(( a l i d y q r e f d l p y s q]
+[DELETED:  d 1 s e c c " d P e c c “ d P A U d( P r i y d p l e e i d  ( L c d a p o e p l c p e u o m d s f o e l f d e( d d a e p l m e u p d p d d l p d l a y l a q e e s( Q t l d v s o e s p S]
+[DELETED: ( s a d t y a s m b p e y b( L O d l d r d p p l(  E P y s p a p o m a d   ]
+[DELETED:  E P p l f d l a d,   L O p c l a d G e a]
+[DELETED:  m o q r c o c d t q f n a l a p s d l O y o d é p a l y d t d a y d c c q r d a g m y d d p y p a s e p l O p l e y o n g d  a m d e ao p l s c L f a r s ]
+[DELETED:   . y a l A L a c t p p l   d d.]
+[DELETED:  F l p d l c e e d e d p y p e b d  a m P b e a l a t y l s l s q p y s r d f l p d e L p e d d n e m  . F e e d s y c f a]
+[DELETED:  R a y m a l d e  a c t  d e a t e l a p c e e c d l l e y f r ó n  P e l c y e  a m p d ee c y u m e d l p d]
+[DELETED:  L a c a d d y o c m a     b p y a q o l a p y R a G y l A L a. A l f q a e e d l d c s y c a c l p d s y b I c y r l p o q e l q s P R l C d l E U d A y l l y e v l r a  a m p d e]
+[DELETED:   c o a c a c p n o j o a A q l a c y a p d a  ..    M u r y c c l v a l d d  a m p d e]
+[DELETED: y p p s d c c e p d q l a d l O r e t m a l C y e r d t i d i y c l a e p y o f e.S d l F S d D d E d D d R y D S d]
+[DELETED:     I y l P d l M o e r q e.T d p c y l c d l n y  eN ( m c q p c l r d C a u r i p r s tE C C s r c v s c p e ( m E C C m u r d l rS]
+[DELETED:  m d C C e s P d e sL c s d]
+[DELETED: A d s o a d l A d S d R l d E L A d P Ro d c d sE s q l l( A a l O e m r c l n y e  e d l p d e a e e á d l e y o e p a a l]
+[DELETED:  d    m(( R s y m e a l i d l q d e G p a l n d a.( A a l O c r a l d d f y a(( A e l a d p d(]
+[DELETED: S c a u o p p  T q p a a d l d d e L s d l N 1 d 1 d a d 1 s e d P R 3 s e c c “ d d s d s l y d]
+[DELETED: E a c e q l q r n p cE L p d o e p q p l v d e l N 1 d 1 d a d 1 s e d P R 3 s e c c “ d c m a h d m ( d a c p]
+[DELETED: S””]
+
+
+================================================================================
+
+Raw Text:
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1147
+19 de marzo de 2026
+Presentado por la señora Barlucea Rodríguez
+Referido a la Comisión de Familia, Mujer, Personas de la Tercera Edad y Población con
+Diversidad Funcional e Impedimentos
+LEY
+Para enmendar los Artículos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 y 17 de la Ley 76-
+2013, según enmendada, conocida como la “Ley del Procurador de las Personas de
+Edad Avanzada del Estado Libre Asociado de Puerto Rico” a los fines de actualizar la
+nomenclatura y referencias legales contenidas en dicha Ley,; armonizarla sus
+disposiciones con la Ley 121-2019, según enmendada, la Ley 8-2017, según enmendada y la
+Ley 38-2017, según enmendada; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La protección efectiva de los derechos de las personas adultas mayores constituye un
+deber ineludible del Gobierno de Puerto Rico. El envejecimiento de la población, la
+complejidad creciente de sus necesidades y la dispersión de servicios entre múltiples
+agencias e instituciones públicas y privadas exigen un andamiaje institucional robusto,
+coherente y actualizado. Dentro de ese esquema, la Oficina del Procurador de las
+Personas de Edad Avanzada de Puerto Rico ocupa un lugar central como organismo
+llamado a fiscalizar, investigar, orientar, coordinar y vindicar los derechos de esta
+población.
+
+2
+La Ley 76-2013, según enmendada, creó esa Oficina y el cargo del Procurador de las
+Personas de Edad Avanzada, dotándolos de facultades amplias para atender querellas,
+promover acciones correctivas, coordinar política pública y servir de instrumento de
+protección y defensa para este sector. Sin embargo, luego de más de una década de
+vigencia, resulta evidente la necesidad de revisar su texto para atemperarlo a la realidad
+jurídica vigente, armonizarlo con legislación posterior y corregir referencias normativas,
+terminológicas y estructurales que hoy resultan anticuadas, imprecisas o insuficientes.
+Esta Asamblea Legislativa entiende necesario actualizar la nomenclatura utilizada en
+la Ley para uniformarla con el lenguaje contemporáneo del ordenamiento jurídico
+puertorriqueño y con la política pública más reciente sobre envejecimiento. De igual
+modo, procede armonizar sus disposiciones con la Ley 121-2019, según enmendada,
+conocida como la “Carta de Derechos y la Política Pública del Gobierno a Favor de los
+Adultos Mayores”, así como con otras leyes vigentes que regulan la administración
+pública, los recursos humanos, los procedimientos adjudicativos y la reglamentación
+administrativa en Puerto Rico. Esa armonización es indispensable para asegurar
+coherencia normativa, evitar contradicciones internas y facilitar una interpretación
+integrada de las facultades y deberes de la Oficina.
+La presente medida también persigue precisar y fortalecer la estructura funcional de
+la Oficina y del cargo del Procurador. Para ello, se actualizan definiciones, se aclaran
+funciones y deberes, se revisan disposiciones sobre los Procuradores Auxiliares, se
+ajustan los mecanismos de nombramiento, administración y funcionamiento interno, y se
+reafirman las facultades de la Oficina para investigar, adjudicar querellas, imponer
+multas administrativas, ordenar remedios, fiscalizar programas, comparecer ante foros
+judiciales y administrativos y coordinar esfuerzos interagenciales y comunitarios.
+Asimismo, se modernizan las referencias a la normativa federal pertinente,
+particularmente en relación con el Older Americans Act of 1965, y se atempera la ley a la
+organización gubernamental actual.
+
+3
+En última instancia, esta Asamblea Legislativa reconoce que la defensa de los
+derechos de las personas adultas mayores requiere instituciones funcionales, normas
+claras y facultades bien definidas. La actualización de la Ley 76-2013 responde
+precisamente a ese propósito. Mediante estas enmiendas se fortalece la Oficina del
+Procurador de las Personas de Edad Avanzada de Puerto Rico como instrumento jurídico
+y administrativo para hacer valer los derechos de esta población, fiscalizar su
+cumplimiento y adelantar una política pública fundada en la dignidad, la participación,
+la autonomía y la justicia.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la “Ley del Procurador de las Personas de
+2 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+3 que lea como sigue:
+4 “Artículo 1.
+5 Esta Ley se conocerá como “Ley del Procurador de las Personas de Edad Avanzada
+6 [del Estado Libre Asociado] de Puerto Rico”.”
+7 Sección 2.- Se enmienda el Artículo 2 de la “Ley del Procurador de las Personas de
+8 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+9 que lea como sigue:
+10 “Artículo 2.- Para crear la Oficina del Procurador(a) de las Personas de Edad
+11 Avanzada [del Estado Libre Asociado] de Puerto Rico.
+12 Se crea la “Oficina del Procurador(a) de las Personas de Edad Avanzada [del
+13 Estado Libre Asociado] de Puerto Rico".”
+
+4
+1 Sección 3.- Se enmienda el Artículo 3 de la “Ley del Procurador de las Personas de
+2 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+3 que lea como sigue:
+4 “Artículo 3.- Definiciones
+5 Para fines de esta Ley, los siguientes términos tienen el significado que se
+6 expresa a continuación:
+7 (a) Adulto Mayor - significa toda persona de sesenta (60) años o más de edad. Su
+8 término equivalente es “Persona de Edad Avanzada”.
+9 [(a)] (b) Agencia Pública - significa cualquier departamento, junta, comisión,
+10 división, oficina, negociado, administración, corporación pública o subsidiaria de ésta,
+11 municipio o instrumentalidad del [Estado Libre Asociado] Gobierno de Puerto Rico,
+12 incluyendo cualquiera de sus funcionarios, empleados o sus miembros que actúen o
+13 aparenten actuar en el desempeño de sus deberes oficiales.
+14 [(b)] (c) Consejo Consultivo - significa el Consejo Consultivo sobre Asuntos de
+15 la Vejez que se crea en virtud de esta Ley.
+16 [(c)] (d) Entidad Privada o Institución - significa cualquier asociación,
+17 organización, instituto o persona natural o jurídica que preste, ofrezca o rinda algún
+18 servicio o actividad o administre o desarrolle algún programa relacionado con las
+19 personas de edad avanzada en Puerto Rico y que reciba alguna aportación económica
+20 del Gobierno [del Estado Libre Asociado] de Puerto Rico o que reciba fondos de los
+
+5
+1 programas del Gobierno de los Estados Unidos de América que para beneficio,
+2 atención y protección de dichas personas se contemplan en las leyes federales.
+3 [(d)] (e) Gobernador(a) - significa el Gobernador o la Gobernadora [del Estado
+4 Libre Asociado] de Puerto Rico.
+5 [(e)] (f) Oficina - significa la Oficina del Procurador(a) de las Personas de Edad
+6 Avanzada [del Estado Libre Asociado] de Puerto Rico.
+7 [(f) Persona de Edad Avanzada -significa toda persona de sesenta (60) años o
+8 más de edad, según la Ley Núm. 121 de 12 de Julio de 1986, según enmendada,
+9 llamada “Carta de Derechos de las Personas de Edad Avanzada”.]
+10 (g) Procurador(a) - significa el Procurador o la Procuradora de las Personas de
+11 Edad Avanzada, cargo que se crea en virtud de esta Ley.”
+12 Sección 4.- Se enmienda el Artículo 4 de la “Ley del Procurador de las Personas de
+13 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+14 que lea como sigue:
+15 “Artículo 4.- Política Pública
+16 La seguridad y protección, así como el sentido de pertenencia, auto estimación
+17 y realización son aspiraciones de todo adulto que va experimentando al paso de los
+18 años. La atención de la población de los adultos mayores [personas de edad avanzada]
+19 y la provisión de servicios para mejorar la calidad de vida son de alta prioridad para
+20 el Gobierno [del Estado Libre Asociado] de Puerto Rico. El desarrollo de actividades
+
+6
+1 y acciones que contribuyen a mantener al máximo la capacidad de independencia
+2 física, mental y social posible en estos adultos, dentro de su ámbito familiar y social,
+3 es esencial para lograr su bienestar y su participación activa en la comunidad.
+4 Para la consecución de estos propósitos es menester planificar de manera
+5 integral la acción gubernamental dirigida a la provisión de los servicios necesarios
+6 para satisfacer las aspiraciones de este sector, entre las cuales pueden mencionarse la
+7 salud, el bienestar social, la seguridad económica, la vivienda, la educación y la
+8 recreación, entre otros. Actualmente, los servicios se ofrecen a los adultos mayores [las
+9 personas de edad avanzada] por diversas agencias y entidades públicas y privadas.
+10 Es necesaria la coordinación efectiva de todos estos servicios y recursos
+11 gubernamentales para lograr una mejor utilización.
+12 La planificación e implantación de la política pública debe, además, integrar a
+13 las familias y a la comunidad en el sistema de prestación de servicios por ser éstos el
+14 principal apoyo de los adultos mayores [las personas de edad avanzada] y fomentar, a
+15 su vez, su participación en las decisiones que afecten sus vidas propiciando su
+16 envolvimiento personal en actividades y acciones dirigidas a la atención de sus
+17 propias necesidades y las de sus conciudadanos.
+18 Por tanto, es política pública del [Estado Libre Asociado] Gobierno de Puerto
+19 Rico garantizar el respeto de los derechos humanos de las personas de edad avanzada,
+20 su pleno desarrollo y el ejercicio y disfrute de sus libertades fundamentales. Al
+21 reconocer que los adultos mayores [las personas de edad avanzada] tienen problemas
+
+7
+1 que dificultan muchas veces su participación en la vida política, social, económica,
+2 cultural y civil, se hace necesario fortalecer y consolidar los instrumentos y
+3 mecanismos que tiene el Estado para la implantación efectiva de esta política pública.
+4 Es parte esencial de esta política pública garantizar estos derechos y que [todas] todos
+5 los adultos mayores [las personas de edad avanzada], sin importar su ubicación
+6 geográfica, raza, etnia, estado civil, condición social y económica, capacidad física,
+7 afiliación política o religiosa, tengan acceso a los procesos de participación que genere
+8 la Oficina en el desempeño de sus funciones.
+9 Para fiscalizar la implantación de esta política pública y de su cumplimiento
+10 por parte de agencias públicas y las entidades privadas se crea la Oficina y el cargo
+11 del Procurador(a) de las Personas de Edad Avanzada. Esta Oficina está dotada de
+12 funciones educativas, investigativas, fiscalizadoras, de reglamentación y cuasi-
+13 judiciales, con el propósito de que se investiguen y se provean los remedios y las
+14 actuaciones correctivas que sean necesarias ante acciones u omisiones que lesionen los
+15 derechos de las personas de edad avanzada. Asimismo, esta Oficina está facultada
+16 para actuar por sí, en representación de personas de edad avanzada en su carácter
+17 individual o como clase para la defensa de sus derechos, así como para aprobar
+18 reglamentación para fiscalizar y velar que las agencias gubernamentales y las
+19 entidades o instituciones privadas cumplan con la política pública y los objetivos de
+20 esta Ley.”
+
+8
+1 Sección 5.- Se enmienda el Artículo 5 de la “Ley del Procurador de las Personas de
+2 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+3 que lea como sigue:
+4 “Artículo 5.– Creación de la Oficina
+5 Se crea la Oficina del Procurador(a) de las Personas de Edad Avanzada, como
+6 una entidad jurídica independiente y separada de cualquier otra agencia o entidad
+7 pública. Dicha Oficina, que será dirigida por un Procurador(a), tendrá entre otras
+8 funciones dispuestas en esta Ley, la responsabilidad de servir como instrumento de
+9 coordinación para atender y viabilizar la solución de los problemas, necesidades y
+10 reclamos de las personas de edad avanzada en las áreas de la educación, la salud, el
+11 empleo, de los derechos civiles y políticos, de la legislación social, laboral y
+12 contributiva, de vivienda, de transportación, de recreación y de cultura, entre otras.
+13 Asimismo, tendrá la responsabilidad de establecer y llevar a cabo un programa de
+14 asistencia, orientación y asesoramiento para la protección de los derechos de las
+15 personas de edad avanzada.
+16 [En adición] Adicionalmente, será el organismo que fiscalizará, investigará,
+17 reglamentará, planificará y coordinará con las distintas agencias públicas y/o
+18 entidades privadas el diseño y desarrollo de los proyectos y programas encaminados
+19 a atender las necesidades de la población de edad avanzada en armonía con la política
+20 pública enunciada en virtud de esta Ley, de la Ley Pública Federal Núm. 89-73 de 14
+21 de julio de 1965, según enmendada, conocida como "Older American Act of l965", [de
+
+9
+1 la Ley Núm. 121 de 12 de julio de 1986, según enmendada, mejor conocida como la
+2 "Carta de Derechos de Persona de Edad Avanzada"] de la Ley 121-2019, según
+3 enmendada, conocida como la “Carta de Derechos y la Política Pública del Gobierno a Favor de
+4 los Adultos Mayores” y de cualquier otra ley especial que así le faculte, a los fines de
+5 propiciar el disfrute de una vida plena y productiva y lograr la mayor participación
+6 de estas personas en la comunidad. [En adición] Además, fiscalizará la implantación y
+7 cumplimiento por las agencias públicas de la política pública en torno a este sector de
+8 la población.
+9 Sección 6.- Se enmienda el Artículo 6 de la “Ley del Procurador de las Personas de
+10 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+11 que lea como sigue:
+12 “Artículo 6.– Creación del Cargo de Procurador(a) de las Personas de Edad
+13 Avanzada
+14 Se crea el cargo del Procurador(a) de las Personas de Edad Avanzada, quien
+15 será nombrado por el Gobernador(a) con el consejo y consentimiento del Senado [del
+16 Estado Libre Asociado] de Puerto Rico, por el término de diez (10) años y hasta que
+17 su sucesor o sucesora sea nombrado y tome posesión del cargo.
+18 La remuneración del cargo del Procurador(a) la fijará el Gobernador(a)
+19 tomando en consideración lo establecido para los Secretarios(as) de Departamentos
+20 Ejecutivos. La persona designada deberá ser de reconocido conocimiento y capacidad
+21 profesional, e independencia de criterio. [En adición] Adicionalmente, dicho cargo sólo
+
+10
+1 podrá ser desempeñado por una persona que tenga conocimientos y/o experiencia en
+2 la administración pública, gestión gubernamental, servicios para las personas de edad
+3 avanzada y [en adición,] que haya cursado estudios y/o obtenido un grado
+4 universitario a nivel graduado en gerontología. Este podrá acogerse a los beneficios
+5 establecidos mediante la [Ley Núm. 447 de 15 de mayo de 1951, según enmendada,
+6 que establece el Sistema de Retiro de los Empleados del Gobierno de Puerto Rico y
+7 sus dependencias o entidades gubernamentales] Ley Ley 106-2017, según enmendada,
+8 conocida como la “Ley para Garantizar el Pago a Nuestros Pensionados y Establecer un Nuevo
+9 Plan de Aportaciones Definidas para los Servidores Públicos”. Además deberá haber estado
+10 domiciliado en Puerto Rico por lo menos cinco (5) años inmediatamente anteriores a
+11 la fecha de su nombramiento.
+12 El Gobernador(a), sin menoscabo de sus prerrogativas constitucionales, podrá
+13 solicitar y recibir recomendaciones del sector gubernamental y de los grupos
+14 identificados con los derechos de [las personas de edad avanzada] los adultos mayores
+15 sobre posibles candidatos(as) para ocupar el cargo.
+16 El Gobernador(a), previa notificación y vista, podrá declarar vacante el cargo
+17 del Procurador(a) por incapacidad física o mental que le inhabilite para el desempeño
+18 de las funciones del cargo, por negligencia en el desempeño de sus funciones u
+19 omisión en el cumplimiento del deber. [En adición] Adicionalmente, serán causas de
+20 destitución del cargo la comisión y convicción de cualquier delito contra la función
+21 pública, contra el erario público y/o cualquier delito grave.
+
+11
+1 En el caso de enfermedad o ausencia temporal del Procurador(a), el
+2 Procurador(a) podrá designar a un Procurador(a) Auxiliar a cubrir dicha posición y
+3 asumirá todas las funciones, deberes y facultades de dicho cargo, hasta tanto el
+4 Procurador(a) se incorpore en el mismo. Cuando surja una incapacidad que le impida
+5 continuar en dicho cargo o el cargo de Procurador(a) quede vacante de forma
+6 permanente, antes de expirar el término de su nombramiento, la persona designada
+7 temporeramente asumirá todas las funciones, deberes y facultades de ésta por el
+8 término no cumplido de la que ocasione tal vacante, hasta que su sucesor(a) sea
+9 designado y tome posesión del cargo.”
+10 Sección 7.- Se enmienda el Artículo 7 de la “Ley del Procurador de las Personas de
+11 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+12 que lea como sigue:
+13 “Artículo 7.-Procuradores Auxiliares
+14 El Procurador(a) podrá nombrar Procuradores Auxiliares y delegarle
+15 cualesquiera de las funciones dispuestas en esta Ley, excepto la de nombrar el personal
+16 y adoptar los reglamentos necesarios para cumplir con los propósitos de esta Ley. Las
+17 personas que sean nombradas como Procuradores Auxiliares deberán ser de
+18 reconocida capacidad profesional, e independencia de criterio. [En adición] Además,
+19 deberán tener conocimientos y/o experiencia en la administración pública, gestión
+20 gubernamental y servicios a personas de edad avanzada. Además, deberán contar con
+21 conocimientos en materia de gerontología.
+
+12
+1 Además de lo dispuesto en el párrafo anterior, la persona nombrada como
+2 Procurador(a) Auxiliar que en su momento sea designada por el Procurador(a) para
+3 cubrir su posición y asumir sus funciones, deberes y facultades hasta tanto el
+4 Procurador(a) se reincorpore en la misma, deberá haber cursado estudios relacionados
+5 al campo de la gerontología. Esto también será de aplicación cuando surja una
+6 incapacidad que le impida al Procurador(a) continuar en dicho cargo o quede vacante
+7 el mismo de manera permanente.”
+8 Sección 8.- Se enmienda el Artículo 8 de la “Ley del Procurador de las Personas de
+9 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+10 que lea como sigue:
+11 “Artículo 8.-Funciones y Deberes de la Oficina
+12 La Oficina tendrá los siguientes deberes y funciones, además de otros
+13 dispuestos en esta Ley:
+14 (a) Realizar y fomentar estudios e investigaciones, así como recopilar y
+15 analizar estadísticas sobre la situación de los adultos mayores [las
+16 personas de edad avanzada], analizar los factores que afecten los
+17 derechos de las personas de edad avanzada en todas las esferas de su
+18 vida social, política, económica, educativa, cultural y civil, así como el
+19 acceso de participación en materia de educación y capacitación, la salud,
+20 el empleo, la autogestión, el desarrollo económico y, en general, en el
+21 ejercicio de sus derechos civiles, políticos, sociales y culturales,
+
+13
+1 incluyendo la participación en la toma de decisiones a todo nivel, entre
+2 otros;
+3 (b) Fiscalizar y que se lleve a cabo el cumplimiento de la política pública
+4 establecida en esta Ley, velar por los derechos de los adultos mayores [las
+5 personas de edad avanzada] y asegurar que las agencias públicas
+6 cumplan y adopten programas de acción afirmativa o correctiva,
+7 promover que las entidades privadas las incorporen, así como evaluar
+8 los programas ya existentes, a fin de lograr la integración de las personas
+9 de edad avanzada y propiciar su participación;
+10 (c) Radicar, a su discreción, ante los tribunales, los foros administrativos e
+11 instrumentalidades y subdivisiones políticas del [Estado Libre
+12 Asociado] Gobierno de Puerto Rico, por sí o en representación de la parte
+13 interesada, ya sean adultos mayores [personas de edad avanzada] en su
+14 carácter individual o constituidos como una clase, las acciones que
+15 estime pertinente para atender violaciones a la política pública
+16 establecida en esta Ley. La Oficina estará exenta del pago y cancelación
+17 de toda clase de sellos, aranceles y derechos requeridos para la
+18 radicación y tramitación, de cualesquiera escritos, acciones o
+19 procedimientos, o para la obtención de copias de cualquier documento
+20 ante los tribunales de justicia y agencias administrativas [del Estado
+21 Libre Asociado] de Puerto Rico;
+
+14
+1 (d) Mantener una revisión y evaluación continua de las actividades llevadas
+2 a cabo por las agencias públicas y entidades privadas para evitar
+3 violaciones a los derechos de los adultos mayores [las personas de edad
+4 avanzada] y posibilitar procesos sistemáticos de consulta con las
+5 entidades privadas y no gubernamentales de los adultos mayores
+6 [personas de edad avanzada] con el propósito de garantizar que las
+7 actividades de la Oficina respondan en todo momento a las necesidades,
+8 exigencias y aspiraciones de las personas de edad avanzada de Puerto
+9 Rico;
+10 (e) Impulsar acciones que contribuyan a resolver el problema del maltrato
+11 contra los adultos mayores [las personas de edad avanzada], en todas sus
+12 manifestaciones;
+13 (f) Considerar el efecto que pueden tener nuevos acontecimientos sobre los
+14 métodos utilizados en la promoción y defensa de los derechos de los
+15 adultos mayores [las personas de edad avanzada] y disponer la acción
+16 correctiva apropiada para ser implantadas;
+17 (g) Cooperar y establecer redes de trabajo y de intercambio de información
+18 y experiencias con las entidades privadas y organizaciones no
+19 gubernamentales de los adultos mayores de Puerto Rico [las personas de
+20 edad avanzada del país] y del exterior, y con las agencias estatales,
+
+15
+1 municipales y federales, dedicadas al desarrollo y la promoción de los
+2 derechos de los adultos mayores [las personas de edad avanzada];
+3 (h) Estudiar y analizar los convenios, normas y directrices internacionales
+4 respecto a los derechos de los adultos mayores [las personas de edad
+5 avanzada] e investigar planteamientos de controversias concretas en
+6 cuanto arrojen luz sobre problemas de importancia general, y
+7 recomendar remedios dirigidos a garantizar la participación de los
+8 adultos mayores [las personas de edad avanzada] en todas las esferas de
+9 la vida social, educativa, recreativa, política, económica y cultural;
+10 (i) Proponer aquella legislación que estime pertinente para el desarrollo
+11 efectivo de la política pública establecida en esta Ley y de los derechos
+12 que la Constitución de los Estados Unidos de América, la Constitución
+13 [del Estado Libre Asociado] de Puerto Rico y las leyes federales y locales
+14 le reconocen a los adultos mayores [las personas de edad avanzada], así
+15 como velar por que la política pública, las iniciativas, las declaraciones y
+16 proyectos dirigidos especialmente a los adultos mayores [las personas de
+17 edad avanzada] sean evaluados e implantados con una visión de
+18 integración y respeto;
+19 (j) Coordinar los esfuerzos de educación a la comunidad sobre los derechos
+20 de los adultos mayores [las personas de edad avanzada] y asuntos
+21 relacionados con éstos y podrá realizar en todo [el país] Puerto Rico
+
+16
+1 campañas de sensibilización, orientación y educación sobre los
+2 problemas que aquejan a las personas de edad avanzada;
+3 (k) Mantener actualizado un catálogo o manual sobre todos los programas,
+4 beneficios, servicios, actividades y facilidades disponibles para los
+5 adultos mayores [las personas de edad avanzada], tanto en las agencias
+6 públicas como en entidades privadas sin fines de lucro, mediante vía
+7 electrónica y/o impresa. Tal catálogo deberá incluir y comprender una
+8 síntesis con su cita de las leyes estatales y federales, reglamentos,
+9 órdenes, normas relevantes a los servicios y programas para los adultos
+10 mayores [la población de edad avanzada].
+11 A los fines de este inciso, la Oficina cobrará un precio razonable a
+12 cualquier ciudadano, que no sea de edad avanzada, que solicite copia de
+13 este catálogo o manual impreso. Dicho precio se fijará con el único
+14 propósito de recuperar los gastos incurridos en la reproducción de tal
+15 manual o catálogo;
+16 (l) Cualquier otra función que sea necesaria para el cumplimiento de esta
+17 Ley.”
+18 Sección 9.- Se enmienda el Artículo 9 de la “Ley del Procurador de las Personas de
+19 Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013, para
+20 que lea como sigue:
+21 “Artículo 9.- Funciones, Poderes y Deberes del Procurador
+
+17
+1 El Procurador(a), tendrá, sin que se entienda como una limitación, las
+2 siguientes funciones, poderes y deberes a fin de cumplir con los propósitos de esta
+3 Ley:
+4 (a) Recibir, atender, investigar, procesar, resolver y adjudicar querellas
+5 relacionadas con acciones y omisiones que lesionen los derechos de los adultos mayores
+6 las [personas de edad avanzada], le nieguen los beneficios y oportunidades a que
+7 tienen derecho, y afecten los programas de beneficio; y conceder los remedios
+8 pertinentes conforme a derecho, así como ordenar acciones correctivas a cualquier
+9 persona natural o jurídica, o cualquier agencia o entidad privada o institución que
+10 niegue, entorpezca, viole o perjudique los derechos y beneficios de los adultos mayores
+11 las [personas de edad avanzada].
+12 (b) Tomar medidas para la tramitación de reclamaciones que propendan a la
+13 consecución de los fines de esta Ley, incluyendo representación legal u otro peritaje o
+14 servicio de apoyo para la tramitación de estas reclamaciones. A estos fines, el
+15 Procurador(a) podrá suministrar, directamente o mediante contratación o a través de
+16 referido, a su discreción, la prestación de servicios legales, profesionales, médicos,
+17 periciales o técnicos o comparecer por y en representación de los adultos mayores las
+18 [personas de edad avanzada] que cualifiquen para obtener algún beneficio o derecho
+19 al amparo de leyes y reglamentos [del Estado Libre Asociado] de Puerto Rico u
+20 ordenanzas municipales y leyes federales, ante cualquier tribunal, foro administrativo
+21 o de mediación, junta, comisión u oficina.
+
+18
+1 (c) Realizar investigaciones, por su propia iniciativa o en relación con las
+2 querellas que investigue, obtener la información que sea pertinente; celebrar vistas
+3 administrativas y llevar a cabo inspecciones oculares. Las vistas ante la Oficina serán
+4 públicas a menos que por razón de interés público se justifique que se conduzcan en
+5 privado.
+6 (d) Adoptar cualesquiera reglas y reglamentos que fueren necesarios para
+7 llevar a cabo los propósitos de esta Ley.
+8 (e) Tomar juramentos y declaraciones por sí o por medio de sus representantes
+9 autorizados.
+10 (f) Inspeccionar expedientes, inventarios, documentos e instalaciones de las
+11 agencias o entidades privadas cuando ello sea pertinente y necesario para una
+12 investigación o querella ante su consideración. En cuanto a esto, el Procurador(a) y sus
+13 representantes tendrán acceso a inspeccionar cualquier documento o registro, incluso
+14 aquellos existentes en los establecimientos de cuidado de larga duración con el
+15 historial social y cuidado médico de los adultos mayores [de edad avanzada] residentes
+16 en éstos, salvo que el adulto mayor [de edad avanzada] por sí o a través de su tutor o
+17 representante legal se oponga a ello, esto si el residente no esté en riesgo. Se podrá
+18 requerir, además, al encargado del establecimiento, que presente documentos que
+19 demuestren que cumple con los requisitos de licenciamiento y certificados expedidos
+20 por agencias o entidades privadas que garanticen que el adulto mayor [de edad
+21 avanzada] recibe la atención y cuidado por personal certificado para administrarlos.
+
+19
+1 (g) Ordenar la comparecencia y declaración de testigos, requerir la presentación
+2 o reproducción o cualesquiera papeles, libros, documentos y otra evidencia pertinente
+3 a una investigación o querella ante su consideración.
+4 (h) Requerir por sí o solicitar el auxilio de cualquier Tribunal de Primera
+5 Instancia para la asistencia, declaración, reproducción o inspección de documentos
+6 cuando un testigo debidamente citado no comparezca a testificar o no produzca la
+7 evidencia que le sea requerida o cuando rehúse contestar alguna pregunta o permitir
+8 la inspección solicitada conforme a las disposiciones de esta Ley. A estos efectos, el
+9 Secretario(a) de Justicia deberá suministrar al Procurador(a) la asistencia legal
+10 necesaria a estos fines si le fuera solicitada por el Procurador(a) quien podrá optar por
+11 comparecer a través de sus abogados. La presentación del testimonio y la información
+12 y la inspección estarán sujetas a las disposiciones de la Ley Núm. 27 de 8 de diciembre
+13 de 1990, según enmendada.
+14 (i) Imponer y cobrar multas administrativas hasta un máximo de diez mil
+15 (10,000) dólares por acciones u omisiones que lesionen los derechos de los adultos
+16 mayores [la personas de edad avanzada] amparados por la Constitución de los Estados
+17 Unidos de América, en la Constitución y las leyes [del Estado Libre Asociado] de
+18 Puerto Rico [y las leyes del Estado Libre Asociado de Puerto Rico], y podrá fijar la
+19 compensación por daños ocasionados, en los casos que así proceda.
+
+20
+1 (j) Imponer a la parte que no prevalezca en un procedimiento cuasi-judicial la
+2 obligación de pagar honorarios de abogado y costas, cuando así proceda conforme a
+3 derecho.
+4 (k) Nombrar, conforme a la reglamentación, Procuradores Auxiliares y/o
+5 Oficiales Examinadores para el cumplimiento de los propósitos de esta Ley.
+6 (l) Recibir, investigar y resolver las querellas de los adultos mayores [personas de
+7 edad avanzada] que residan en establecimientos de larga duración, o las que hayan
+8 sido presentadas en el interés de éstos.
+9 (m) Establecer los procedimientos que sean necesarios para el recibo y
+10 procesamiento de querellas y realizar investigaciones por sí o a través de sus
+11 representantes.
+12 (n) Investigar las acciones u omisiones administrativas en los establecimientos
+13 de cuidado de larga duración y de aquellos proveedores que brinden servicios a los
+14 adultos mayores [las personas de edad avanzada] en dichos establecimientos que
+15 contravengan los derechos garantizados a estos ciudadanos según dispuesto en la
+16 “Carta de Derechos y la Política Pública del Gobierno a Favor de los Adultos Mayores”, Ley
+17 121-2019, según enmendada, [Ley Núm. 121 de 12 de julio de 1986, según enmendada,
+18 conocida como "Carta de Derechos de la Persona de Edad Avanzada de Puerto
+19 Rico"].
+20 (o) Rendir, no más tarde del 31 de enero de cada año, un informe completo y
+21 detallado al Gobernador(a) y a la Asamblea Legislativa [del Estado Libre Asociado]
+
+21
+1 de Puerto Rico, sobre sus logros, peticiones, querellas radicadas y atendidas, datos
+2 estadísticos, uso de recursos y actividades realizadas por la Oficina durante el año
+3 fiscal precedente a la fecha de radicación.
+4 (p) Garantizar la confidencialidad de toda documentación examinada y
+5 recopilada durante el curso de la investigación y procesamiento de una querella
+6 radicada al amparo de esta Ley y de las disposiciones de leyes federales y estatales
+7 aplicables. Se garantizará la confidencialidad de los querellantes, testigos, pacientes, o
+8 residentes, hasta tanto se obtenga autorización de dichos querellantes, testigos,
+9 pacientes, residentes o sus representantes legales o tutores para divulgar tal
+10 información. El Procurador(a) ni sus representantes podrán ser obligados a testificar
+11 sobre la información obtenida en el curso de una investigación, salvo en aquellos casos
+12 en los que puedan, legalmente, ser compelidos a así hacerlo por los foros judiciales
+13 competentes.
+14 (q) Cualquier otra función que sea necesaria para la implementación de esta
+15 Ley. Se declara que la interferencia por parte de cualquier persona natural o jurídica
+16 con las funciones inherentes al cargo de Procurador(a) y sus representantes será ilegal.
+17 De igual forma será ilegal el que cualquier persona por sí o en representación de un
+18 establecimiento de cuidado de larga duración tome represalias, discrimine o penalice
+19 a un residente, paciente o empleado de dicho establecimiento por presentar una
+20 querella o por proveer información al Procurador(a) o su representante. [En adición]
+21 Adicionalmente, el Procurador(a) ni sus representantes podrán ser incursos en
+
+22
+1 responsabilidad civil o criminal por el desempeño bona fide de sus funciones según lo
+2 establecido por esta Ley y las disposiciones para el cargo en la Ley Pública Núm. 89-
+3 73 de 14 de julio de 1965, según enmendada, conocida como " Older Americans Act Of
+4 1965".
+5 (r) Brindar acompañamiento a las víctimas de maltrato o delito que sean personas
+6 adultas mayores durante los procesos legales contra sus agresores, conforme a las facultades
+7 establecidas en la Ley 99-2025, según enmendada y cualquier otra ley aplicable.
+8 Por último, se declara que dentro del cargo del Procurador(a) recaerá
+9 simultáneamente las funciones y deberes del cargo de Procurador de los Residentes
+10 en Establecimientos de Cuidado de Larga Duración para Personas de Edad Avanzada,
+11 conforme a lo requerido y establecido en la Ley Pública Núm. 89-73 de 14 de julio de
+12 1965, según enmendada, conocida como "Older Americans Act of 1965".”
+13 Sección 10.- Se enmienda el Artículo 10 de la “Ley del Procurador de las Personas
+14 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+15 para que lea como sigue:
+16 “Artículo 10.- Planificación y Coordinación de Fondos Federales; Designación
+17 como Agencia Administradora
+18 La Oficina podrá ser designada por el Gobernador(a) como la agencia estatal
+19 administradora y receptora de cualesquiera fondos o aportaciones concedidos por las
+20 leyes federales para los programas de los adultos mayores [personas de edad avanzada].
+
+23
+1 Se designa a la Oficina como la agencia administradora y encargada de poner
+2 en vigor localmente los programas federales para los adultos mayores [personas de edad
+3 avanzada] establecidos en virtud de la Ley Pública Núm. 89-73 de 14 de julio de 1965,
+4 según enmendada, conocida como "Older Americans Act of 1965".
+5 Cuando la Oficina sea designada conforme establece esta Ley, queda
+6 autorizada a realizar las diligencias necesarias y formalizar, en representación del
+7 [Estado Libre Asociado] Gobierno de Puerto Rico, convenios y contratos con las
+8 agencias federales pertinentes con el propósito de obtener los beneficios y fondos
+9 federales disponibles. La Oficina solicitará previamente a la Oficina de Gerencia y
+10 Presupuesto los fondos que se puedan requerir al [Estado Libre Asociado] Gobierno
+11 de Puerto Rico para el pareo de los fondos federales.”
+12 Sección 11.- Se enmienda el Artículo 11 de la “Ley del Procurador de las Personas
+13 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+14 para que lea como sigue:
+15 “Artículo 11. - Administración y Funcionamiento de la Oficina
+16 La Oficina, sin que se entienda como una limitación, será administrada y
+17 funcionará de la siguiente manera:
+18 (a) El Procurador(a) determinará la organización interna de la Oficina y
+19 establecerá los sistemas necesarios para su adecuado funcionamiento y operación. A
+20 esos fines tendrá la responsabilidad de planificar, organizar, tomar decisiones y dirigir
+21 todos los asuntos y operaciones relacionadas con los recursos humanos, contratación
+
+24
+1 de servicios, asignación presupuestaria, adquisición, uso y control de equipo,
+2 materiales y propiedad, reproducción de documentos y otros materiales y demás
+3 asuntos, transacciones y decisiones relativos al manejo y gobierno interno de la
+4 Oficina.
+5 (b) Atenderá las reclamaciones y quejas que insten los adultos mayores [las
+6 personas de edad avanzada] cuando alegan inacción por parte de las agencias,
+7 entidades privadas y personas en el cumplimiento de la política pública establecida
+8 en esta Ley para proteger los derechos que le han sido reconocidos a las personas de
+9 edad avanzada mediante la Constitución de los Estados Unidos de América, de la
+10 Constitución [del Estado Libre Asociado] de Puerto Rico, las leyes federales y
+11 estatales y la reglamentación vigente.
+12 (c) El Procurador(a) nombrará el personal que fuere necesario para llevar a cabo
+13 los propósitos de esta Ley de acuerdo con la [Ley Núm. 184 de 3 de agosto de 2004,
+14 según enmendada, conocida como la “Ley para la Administración de los Recursos
+15 Humanos en el Servicio Público del Estado Libre Asociado de Puerto Rico”] Ley 8-
+16 2017, conocida como “Ley para la Administración y Transformación de los Recursos Humanos
+17 en el Gobierno de Puerto Rico”, según enmendada, y podrá contratar los servicios de
+18 peritos y asesores para cumplir a cabalidad las funciones que le impone esta Ley.
+19 (d) El Procurador(a) adoptará la reglamentación interna de la Oficina y los
+20 reglamentos que regirán el funcionamiento de los programas y servicios que
+21 establezca a tenor con lo dispuesto en esta Ley, sujeto a [la Ley Núm. 170 de 12 de
+
+25
+1 agosto de 1988, según enmendada, conocida como "Ley de Procedimiento
+2 Administrativo Uniforme del Estado Libre Asociado de Puerto Rico"] Ley 38-2017,
+3 según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+4 Gobierno de Puerto Rico”.
+5 (e) Para recibir información y datos para los estudios e investigaciones de
+6 carácter general sobre el tema de los adultos mayores [las personas de edad avanzada]
+7 que la Oficina lleve a cabo, los reglamentos antes mencionados proveerán lo necesario
+8 para el cumplimiento de los siguientes requisitos procesales:
+9 (1) La celebración de audiencias públicas o ejecutivas, para lo cual podrá
+10 delegar en uno o más de sus funcionarios o empleados la función de escuchar
+11 testimonios o recibir cualquier otra evidencia para la Oficina.
+12 (2) Que las notificaciones de audiencias públicas deberán publicarse con diez
+13 (10) días de anticipación en por los menos en un periódico dos periódicos de
+14 circulación general o regionales que circulen en la región o área específica que abarque
+15 el estudio o investigación.
+16 Además, podrán anunciarse a través de otros medios de comunicación cuando sea
+17 necesario y razonable para una difusión más eficaz. Deberán incluir descripciones
+18 detalladas de los propósitos de las audiencias y los asuntos que en ellas se
+19 considerarán.
+20 (3) Que todas las declaraciones verbales se oirán en sesiones públicas. Sin
+21 embargo, en los casos en que la Oficina considere que la evidencia o el testimonio que
+
+26
+1 se va a presentar en una vista tiende a difamar, degradar o incriminar a cualquier
+2 persona o a vulnerar su intimidad, para proteger su identidad, o en aquellos casos en
+3 que medien circunstancias que lo justifiquen, podrá hacer una excepción y optar por
+4 recibir dicho testimonio en sesión ejecutiva.
+5 (4) Cada deponente podrá, si lo estima conveniente, ser aconsejado por un
+6 abogado. También tendrá derecho a que no se le fotografíe sin su consentimiento, a
+7 ser interrogado por su abogado dentro de las normas de la audiencia y su aplicación
+8 por el Procurador(a), a revisar la exactitud de la transcripción de sus testimonios, a
+9 copiar dicha transcripción y a someter manifestaciones breves por escrito y bajo
+10 juramento para ser incluidas en el expediente de la audiencia.
+11 (5) La Oficina determinará las demás reglas de procedimiento para las
+12 audiencias públicas o ejecutivas, inclusive las que se refieran a la admisibilidad de
+13 evidencia y a la exclusión de personas que violen las normas que deben imperar en
+14 una audiencia.
+15 (f) El(la) Procurador(a), ya sea por acción propia o mediante acuerdos de
+16 colaboración, podrá establecer y poner en vigor un plan para el establecimiento de
+17 oficinas regionales, así como de distrito o municipales, que faciliten y promuevan el
+18 acceso de los adultos mayores [las personas de edad avanzada] a la Oficina, a fin de
+19 cumplir con los propósitos de esta Ley, dentro de los parámetros de la ley federal y lo
+20 establecido en el plan estatal.
+
+27
+1 (g) El Procurador(a) promoverá la formalización de los acuerdos de
+2 colaboración a nivel gubernamental y privado incluyendo, sin que se entienda como
+3 una limitación, acuerdos con los gobiernos, entidades y corporaciones municipales y
+4 con entidades y organizaciones no gubernamentales identificadas con los derechos de
+5 los adultos mayores [las personas de edad avanzada], cuando estos acuerdos viabilicen
+6 el ejercicio de sus responsabilidades sin menoscabo de su autonomía.
+7 (h) La Oficina podrá solicitar a personas o entidades privadas, así como a las
+8 agencias gubernamentales, por sí o a través del Gobernador(a), servicios y facilidades
+9 disponibles para llevar a cabo los propósitos de esta Ley.
+10 (i) La Oficina podrá contratar o nombrar a cualquier funcionario o empleado
+11 del [Estado Libre Asociado] Gobierno de Puerto Rico o de sus agencias, con la anuencia
+12 de la autoridad nominadora del organismo gubernamental donde preste servicio el
+13 funcionario o empleado. En tal caso, la autoridad nominadora tiene la obligación de
+14 retener el cargo o empleo a dicho funcionario o empleado mientras la Oficina utilice
+15 sus servicios.
+16 (j) Se autoriza, además, a la Oficina a contratar, sin sujeción a lo dispuesto por
+17 el Artículo 177 del Código Político de Puerto Rico, según enmendado, los servicios de
+18 cualquier funcionario o empleado público y a pagarle por los servicios adicionales que
+19 preste a la Oficina fuera de sus horas regulares de servicio.
+20 (k) La Oficina podrá, con la aprobación del Gobernador(a), encomendar a
+21 cualquier agencia que efectúe algún estudio o investigación, o alguna fase o parte de
+
+28
+1 los mismos, o que realice cualquier otra clase de trabajo que fuere necesario al
+2 desempeño de sus funciones, al cual deberá conferir prioridad. Si a su juicio fuere
+3 necesario, la agencia podrá solicitar de la Oficina, y obtener de ésta, previa
+4 autorización del Gobernador(a), una transferencia de fondos por la cantidad que la
+5 Oficina considere razonable.
+6 (l) La Oficina queda autorizada para recibir y administrar fondos provenientes
+7 de asignaciones legislativas, y de transferencias, delegaciones, aportaciones y
+8 donativos de cualquier clase que reciba de agencias, gobiernos municipales y del
+9 Gobierno de los Estados Unidos de América, así como los provenientes de personas,
+10 organizaciones no gubernamentales y de otras entidades privadas para el diseño e
+11 implantación de proyectos y programas a ser ejecutados por la Oficina, por las
+12 agencias, entidades y organizaciones no gubernamentales de los adultos mayores
+13 [personas de edad avanzada] o por la sociedad civil. Los fondos así recibidos se
+14 contabilizarán, controlarán y administrarán con sujeción a las leyes que regulan el uso
+15 de fondos públicos, a las normas legales, reglas o convenios en virtud de los cuales los
+16 reciba la Oficina y según los reglamentos que ésta adopte para esos fines. La Oficina
+17 puede recibir además cualesquiera bienes muebles de agencias públicas en calidad de
+18 préstamo, usufructo o donación y poseerlos, administrarlos y usarlos para llevar a
+19 cabo las funciones dispuestas en esta Ley.
+20 (m) La Oficina presentará, no más tarde del 31 de enero de cada año, un informe
+21 anual escrito y cualesquiera informes especiales al Gobernador(a) y a la Asamblea
+
+29
+1 Legislativa sobre sus actividades, operaciones, logros y situación fiscal, junto con las
+2 recomendaciones que estime necesarias para la continua y eficaz protección de los
+3 derechos de los adultos mayores [las personas de edad avanzada]. Luego del primer
+4 informe anual, la Oficina incluirá, al final de sus informes anuales, un resumen de las
+5 recomendaciones que ha hecho anteriormente y una descripción de la acción tomada
+6 sobre dichas recomendaciones. La Oficina publicará sus informes y serán enviados al
+7 Gobernador(a) y a la Asamblea Legislativa, así como también podrá publicar los
+8 estudios y monografías que le sometan sus consultores y asesores.
+9 (n) Planificará y coordinará con las distintas agencias públicas así como con las
+10 entidades privadas los programas, actividades y servicios relacionados con los adultos
+11 mayores [las personas de edad avanzada] para asegurar la implantación de la política
+12 pública de esta Ley de una manera integral, sujeto a las condiciones y restricciones que
+13 dispongan las leyes aplicables.
+14 (o) Proveerá guías a las agencias públicas en la formulación e implantación de
+15 programas y proyectos relacionados con los adultos mayores [las personas de edad
+16 avanzada].
+17 (p) Establecerá sistemas y procedimientos para evaluar la efectividad y mejorar
+18 la coordinación de los programas y proyectos de las diversas agencias públicas y
+19 entidades privadas encaminados a atender las necesidades y problemas de los adultos
+20 mayores [las personas de edad avanzada].
+
+30
+1 (q) Fomentará la participación de los ciudadanos en el desarrollo e
+2 implantación de proyectos y programas en beneficio de los adultos mayores [las
+3 personas de edad avanzada] y facilitará su comunicación con las agencias públicas.
+4 (r) Podrá brindar el asesoramiento, la ayuda técnica y los servicios
+5 profesionales a las agencias y entidades privadas que así lo soliciten a los fines de
+6 mejorar los servicios que prestan y satisfacer requisitos de funcionamiento
+7 establecidos por las leyes o reglamentos.
+8 (s) Podrá organizar y celebrar conferencias, seminarios y talleres y realizará
+9 estudios e investigaciones por sí, o en coordinación con otras agencias y entidades
+10 privadas o educativas o cualquier otra organización que lleve a cabo actividades afines
+11 con los propósitos de esta Ley, para el desarrollo de nuevos enfoques, métodos,
+12 programas y servicios, y el adiestramiento y mejoramiento del personal necesario para
+13 la prestación de servicios a los adultos mayores [personas de edad avanzada]. Asimismo
+14 podrá establecer relación de coordinación y colaboración con colegios, universidades
+15 e instituciones educativas de educación postsecundaria para el diseño de currículo y
+16 la planificación de textos en gerontología.
+17 (t) Fomentará el establecimiento de servicios, y cuando fuere aconsejable,
+18 establecerlos con carácter de demostración o modelo, para ser luego transferidos a
+19 organizaciones públicas o privadas tales como clínicas de preparación para la vejez, y
+20 la jubilación del trabajo, centros de actividades múltiples, clínicas geriátricas y otras.
+
+31
+1 (u) Recopilará, analizará y mantendrá actualizados los datos estadísticos
+2 necesarios para la planificación, coordinación y uso de los recursos gubernamentales
+3 disponibles para la implantación y desarrollo de una política pública con respecto a
+4 los adultos mayores [las personas de edad avanzada] que responda a las exigencias del
+5 momento.
+6 (v) Mantener actualizado un catálogo o manual sobre todos los programas,
+7 beneficios, servicios, actividades y facilidades disponibles para los adultos mayores [las
+8 personas de edad avanzada], tanto en las agencias públicas como en entidades
+9 privadas sin fines de lucro. Tal catálogo deberá incluir y comprender una síntesis con
+10 su cita de las leyes estatales y federales, reglamentos, órdenes, normas,
+11 procedimientos, recursos, medios, mecanismos y requisitos necesarios para cualificar
+12 y obtener cualquier beneficio, servicio, derecho o privilegio. A los fines de este Inciso,
+13 la Oficina cobrará un precio razonable a cualquier ciudadano, que no sea adulto mayor
+14 [de edad avanzada], que solicite copia de este catálogo o manual. Dicho precio se fijará
+15 con el único propósito de recuperar los gastos incurridos en la reproducción de tal
+16 manual o catálogo.
+17 (w) Promoverá en la ciudadanía y en el adulto mayor [la persona de edad
+18 avanzada] el conocimiento y un mejor entendimiento de las particularidades del
+19 proceso de envejecimiento.
+
+32
+1 (x) Llevará a cabo actividades de divulgación y orientación con miras a
+2 desarrollar actitudes positivas en los ciudadanos y mantener a los adultos mayores [las
+3 personas de edad avanzada] integradas activamente a la comunidad.
+4 (y) Orientará a los adultos mayores [las personas de edad avanzada] sobre los
+5 servicios, beneficios, programas y actividades que ofrecen las agencias públicas y
+6 entidades privadas.
+7 (z) Designará aquellos comités especiales que estime necesarios para llevar a
+8 cabo las funciones de la Oficina, en consulta con el Consejo Consultivo.
+9 (aa) Recomendará al Gobernador(a) y la Asamblea Legislativa aquellas
+10 medidas que crea necesarias para atender las necesidades y problemas de los adultos
+11 mayores [las personas de edad avanzada].
+12 (bb) Analizará los factores que afectan el ejercicio de los derechos civiles,
+13 políticos, sociales y culturales, así como la prestación de servicios y beneficios
+14 conferidos a las personas de edad avanzada, a los fines de orientar y asesorar sobre
+15 los requisitos, mecanismos, medios, recursos y procedimientos para hacer valer los
+16 mismos o beneficiarse de éstos.
+17 (cc) Investigar, canalizar y resolver las peticiones o querellas en las que se
+18 alegue que algún acto administrativo o la inacción de cualquier agencia pública o
+19 entidad privada lesiona los derechos que la Constitución [del Estado Libre Asociado]
+20 de Puerto Rico, la Constitución de los Estados Unidos de América y las leyes y
+21 reglamentos en vigor le reconocen a los adultos mayores [las personas de edad
+
+33
+1 avanzada]; o en las que se alegue que se han negado beneficios y oportunidades a que
+2 tienen derecho, o que afectan los programas en beneficio de los adultos mayores [las
+3 personas de edad avanzada] y conceder los remedios pertinentes conforme a Derecho,
+4 así como ordenar acciones correctivas a cualquier persona natural o jurídica, o a
+5 cualquier agencia pública o entidad privada que incurra en tales actuaciones.
+6 (dd) Asegurar que las agencias cumplan y adopten programas de acción
+7 afirmativa o correctiva y promover que las entidades privadas las incorporen, a fin de
+8 propiciar y lograr el cumplimiento con los derechos y beneficios conferidos por las
+9 leyes y reglamentos a los adultos mayores [las personas de edad avanzada].
+10 (ee) Radicar ante los tribunales y foros administrativos las acciones pertinentes
+11 para atender las violaciones a la política pública establecida en relación a los adultos
+12 mayores [las personas de edad avanzada]. La Oficina tendrá discreción para radicar
+13 tales acciones por sí o en representación de parte interesada, ya sean los adultos mayores
+14 [personas de edad avanzada] individualmente o una clase. La Oficina estará exenta
+15 del pago y cancelación de todo tipo de sellos, aranceles y derechos requeridos para la
+16 radicación y tramitación de cualesquiera escritos, acciones o procedimientos, o para la
+17 obtención de copias de cualquier documento ante los tribunales de justicia y agencias
+18 públicas del [Estado Libre Asociado] Gobierno de Puerto Rico.
+19 (ff) Mantener una revisión y evaluación continua del cumplimiento con los
+20 servicios y las actividades llevadas a cabo por las agencias y entidades privadas para
+21 evitar violaciones a los derechos de los adultos mayores [las personas de edad
+
+34
+1 avanzada] y posibilitar procesos sistemáticos de consulta con el propósito de
+2 garantizar que las actividades de la Oficina respondan en todo momento a las
+3 necesidades, exigencias y aspiraciones de este sector de la población.
+4 (gg) Cooperar y establecer redes de trabajo, intercambio de información y
+5 experiencias con las agencias, entidades privadas y organismos federales e
+6 internacionales dedicados al desarrollo y promoción de los derechos y beneficios de
+7 los adultos mayores [las personas de edad avanzada].”
+8 Sección 12.- Se enmienda el Artículo 12 de la “Ley del Procurador de las Personas
+9 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+10 para que lea como sigue:
+11 “Artículo 12.- Consejo Consultivo; Creación
+12 Se crea un Consejo Consultivo sobre Asuntos de la Vejez, adscrito a la Oficina,
+13 para asesorar a la Oficina del Procurador(a) de las Personas de Edad Avanzada en
+14 relación con la implantación de esta Ley. El Consejo Consultivo estará integrado por
+15 diecisiete (17) miembros cuya composición será la siguiente: nueve (9) miembros ex
+16 officio en representación del interés público y ocho (8) miembros en representación
+17 del interés de la comunidad. Los miembros ex officio en representación del interés
+18 público serán a saber: el Secretario(a) del Departamento de Salud, el Secretario(a) del
+19 Departamento de la Familia, Secretario(a) del Departamento de Educación,
+20 Secretario(a) del Departamento de Recreación y Deportes, Secretario(a) del
+21 Departamento del Trabajo y Recursos Humanos, Secretario(a) del Departamento de la
+
+35
+1 Vivienda, el Procurador(a) del Paciente, el [Procurador(a)] Defensor de las Personas
+2 con Impedimentos y la Procuradora de las Mujeres o el representante que estos
+3 funcionarios designen expresamente para estos propósitos. De los ocho (8) miembros
+4 en representación del interés de la comunidad, cuatro (4) de los mismos deberán ser
+5 adultos mayores [personas de edad avanzada].
+6 Todos los miembros en representación del interés de la comunidad deberán ser
+7 personas de probada capacidad y liderato, conscientes de las necesidades y
+8 problemáticas de los adultos mayores [las personas de edad avanzada] e identificadas
+9 con el respeto por los derechos que le asisten a éstas.
+10 Nueve (9) miembros constituirán quórum para celebrar las reuniones del
+11 Consejo Consultivo y sus acuerdos se tomarán por mayoría de las/los presentes. El
+12 Consejo Consultivo adoptará un reglamento interno para regir sus trabajos,
+13 deliberaciones y ejecución de sus funciones. La Oficina proveerá al Consejo Consultivo
+14 las instalaciones, equipos, materiales y recursos humanos necesarios para cumplir las
+15 funciones que le asigna esta Ley.
+16 El Consejo Consultivo se reunirá cuantas veces sea convocado por el
+17 Procurador(a), pero nunca menos de seis (6) veces al año, al menos una (1) vez cada
+18 dos (2) meses. El Consejo Consultivo mantendrá un récord de las reuniones,
+19 comparecencias y de las recomendaciones presentadas al Procurador(a).
+20 Se establece, además, que los miembros del Consejo Consultivo, bien sean del
+21 interés público o de la comunidad, serán nombrados por el Gobernador(a) [del Estado
+
+36
+1 Libre Asociado] de Puerto Rico sin necesidad del consejo y consentimiento del Senado
+2 [del Estado Libre Asociado] de Puerto Rico. Al entrar en vigor esta Ley, de los ocho
+3 (8) miembros en representación del interés de la comunidad, cinco (5) miembros serán
+4 nombrados por el término de dos (2) años y tres (3) miembros por el término de tres
+5 (3) años. Al vencer estos términos iniciales, se harán nombramientos por tres (3) años.
+6 Los miembros del Consejo Consultivo elegirán su Presidente(a) de entre sus
+7 miembros, no obstante, el mismo deberá surgir de entre los miembros del interés de
+8 la comunidad. Los miembros representantes del interés público ejercerán su oficio
+9 mientras dure su ministerio gubernamental. Al momento del cese de su ministerio,
+10 serán remplazados por la persona que ocupe tal cargo público.“
+11 Sección 13.- Se enmienda el Artículo 13 de la “Ley del Procurador de las Personas
+12 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+13 para que lea como sigue:
+14 "Artículo 13.- Dietas para los miembros del Consejo Consultivo
+15 Los miembros del Consejo Consultivo recibirán una dieta de cincuenta (50)
+16 dólares por cada reunión a la que asistan, o por la asistencia a sesiones o reuniones de
+17 comisión, por cada sesión, reunión extraordinaria o de comité u otro organismo o
+18 realización de encomienda autorizada por el Presidente del Consejo Consultivo a la
+19 que asistan, excepto aquéllos que sean jefes de agencias del Gobierno [del Estado
+20 Libre Asociado] de Puerto Rico y sus instrumentalidades, salvo el Presidente del
+
+37
+1 Consejo Consultivo, quien recibirá una dieta equivalente al ciento treinta y tres (133)
+2 por ciento de la dieta que reciban los demás miembros del Consejo Consultivo.
+3 Aquel miembro del Consejo Consultivo que reciba una pensión por mérito o
+4 años de servicio o anualidad de la Administración de Sistemas de Retiro [de los
+5 Empleados del Estado Libre Asociado de Puerto Rico] o de cualesquiera de sus
+6 agencias, instrumentalidades, corporaciones públicas o subdivisiones políticas, podrá
+7 recibir el pago de dietas sin que se afecte su derecho a la pensión o anualidad de
+8 retiro.”
+9 Sección 14.- Se enmienda el Artículo 14 de la “Ley del Procurador de las Personas
+10 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+11 para que lea como sigue:
+12 “Artículo 14.- Funciones y Deberes del Consejo Consultivo sobre Asuntos de la
+13 Vejez
+14 El Consejo Consultivo tendrá, sin que se entienda como una limitación, los
+15 siguientes deberes y funciones:
+16 (a) Asesorar a la Oficina en materias relacionadas con las necesidades y el
+17 bienestar de los adultos mayores [las personas de edad avanzada] en sus aspectos físico,
+18 mental y socioeconómico, sobre todo, evaluar la política pública relacionada con la
+19 situación de las personas de edad avanzada en el ámbito de la educación y
+20 capacitación, el empleo, la autogestión, el desarrollo económico, la vivienda y la salud,
+21 entre otros, con el propósito de propulsar acciones que contribuyan a procurar la
+
+38
+1 participación de los adultos mayores [las personas de edad avanzada] en todas las
+2 esferas de la vida social, política, económica y cultural.
+3 (b) Asesorar a la Oficina en cuanto al establecimiento de criterios para evaluar
+4 los programas y proyectos desarrollados bajo esta Ley y hacer las recomendaciones
+5 que estime pertinente al Procurador(a).
+6 (c) Recomendar sistemas y métodos encaminados a la integración de los
+7 programas que desarrolle el Gobierno para atender las necesidades de los adultos
+8 mayores [las personas de edad avanzada].
+9 (d) Asesorar a la Oficina con respecto a la distribución de fondos y ayuda
+10 económica proveniente de donaciones y otras aportaciones que reciba la Oficina.
+11 (e) Hacer recomendaciones a la Oficina con respecto a los reglamentos y normas
+12 que se adopten al amparo de esta Ley.
+13 (f) Asesorar a la Oficina en la preparación y administración de un plan de
+14 trabajo anual y de propuestas de la Oficina.
+15 (g) Cualquier otra función que sea necesaria para el cumplimiento de esta Ley.”
+16 Sección 15.- Se enmienda el Artículo 15 de la “Ley del Procurador de las Personas
+17 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+18 para que lea como sigue:
+
+39
+1 “Artículo 15.-Tramitación de Peticiones o Querellas.
+2 Se faculta al Procurador(a) a establecer los sistemas necesarios para el acceso,
+3 recibo y encausamiento de las reclamaciones y quejas que insten las personas de edad
+4 avanzada cuando aleguen cualquier acción u omisión por parte de las agencias y
+5 entidades privadas que lesionen los derechos que le reconocen la Constitución de los
+6 Estados Unidos de América, la Constitución [del Estado Libre Asociado] de Puerto
+7 Rico, las leyes y los reglamentos en vigor.
+8 Toda querella promovida al amparo de las disposiciones de esta Ley se
+9 tramitará en la forma que disponga el reglamento que a estos efectos se apruebe en
+10 cumplimiento de la [Ley Núm. 170 de 12 de agosto de 1988, según enmendada,
+11 conocida como la "Ley de Procedimiento Administrativo Uniforme del Estado Libre
+12 Asociado de Puerto Rico"] Ley 38-2017, según enmendada, conocida como “Ley de
+13 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”. El Procurador(a)
+14 notificará a la parte promovente su decisión de investigar los hechos denunciados y
+15 en la misma fecha en que tramite la correspondiente notificación deberá notificarlo a
+16 la agencia o a la persona o entidad privada, según fuere el caso, con expresión de los
+17 hechos alegados en la querella y una cita de la ley que le confiere facultad para realizar
+18 tal investigación. También deberá notificar a la parte promovente su decisión de no
+19 investigar la querella en cuestión, cuando así proceda, expresando las razones para
+20 ello y apercibiéndole de su derecho a solicitar la reconsideración y revisión de la
+21 determinación.
+
+40
+1 No obstante, el Procurador(a) no investigará aquellas querellas cuando:
+2 (a) Se refieran a algún asunto fuera del ámbito de su jurisdicción.
+3 (b) Sean carentes de mérito.
+4 (c) La parte promovente no tiene legitimación para instarla.
+5 En aquellos casos en que la querella radicada no plantee controversia
+6 adjudicable alguna o se refiera a algún asunto fuera del ámbito de jurisdicción de la
+7 Oficina, el Procurador(a) orientará a la parte promovente y la referirá a la agencia
+8 concernida, si ello fuera necesario.
+9 El Procurador(a), en el ejercicio de las facultades adjudicativas que le confiere
+10 esta Ley, podrá designar oficiales examinadores para que presidan las vistas
+11 administrativas que se celebren. Los procedimientos adjudicativos deberán regirse por
+12 lo dispuesto en la [Ley Núm. 170 de 12 de agosto de 1988, según enmendada,
+13 conocida como la "Ley de Procedimiento Administrativo Uniforme del Estado Libre
+14 Asociado de Puerto Rico"] Ley 38-2017, según enmendada, conocida como “Ley de
+15 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico” y los reglamentos que
+16 adopte la Oficina para ello, incluyendo lo perteneciente al recurso de reconsideración
+17 y revisión de la determinación adversa del Procurador(a) y su facultad para imponer
+18 y cobrar multas administrativas hasta diez mil (10,000) dólares, así como podrá
+19 imponer la compensación por los daños ocasionados, incluyendo, entre otros, daños
+20 emocionales.”
+
+41
+1 Sección 16.- Se enmienda el Artículo 17 de la “Ley del Procurador de las Personas
+2 de Edad Avanzada del Estado Libre Asociado de Puerto Rico”, Ley Núm. 76-2013,
+3 para que lea como sigue:
+4 “Artículo 17.- Reglas y Reglamentos.
+5 Se faculta a la Oficina para adoptar aquellas reglas y reglamentos que fueren
+6 necesarios para el cumplimiento de las funciones y deberes que establece esta Ley. Las
+7 reglas y reglamentos que no sean de carácter interno tendrán fuerza de ley, una vez se
+8 cumpla con lo dispuesto en la [Ley Núm. 112 de 20 de junio de 1957, conocida como
+9 "Ley sobre Reglamentos de 1958"] Ley 38-2017, según enmendada, conocida como “Ley de
+10 Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, según enmendada”.
+11 Sección 17. - Vigencia
+12 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A 3 .rL  a y r l c e d L, ass,alas9,     ; i d G d P R E e d l p l y a D d e e l O d P d l a f i o c y v l d d e]
+[DELETED:  c c p y e S e d d L p u c e l c d o j l r e p a s d c l L 1 s e M a c c o l v q r l a e P R E a e i p a n e c i y f u i y d s r d s l P A s l f d l O p i a q i y a y c e i y c s m l r a l n f p]
+[DELETED:  ú i e A L r q l d d l d y f b d L a d l L 7 r a e p M e e s f l O d a p h v l d d e p f s  ]
+[DELETED:  f d e L l s t t e s q s     E P o I - s c a a  ]
+[DELETED:  d G d l E U d A q p b][G  d   ]
+[DELETED:  l c d e p e m p d m e b s l s e l v l e y l  n l c e d t e s y r  y v s p e l d q a s v p s p e a y a d a l a d s  p d y e e y d d s l f A  t]
+[DELETED:  y c s h n f y c l i y   a m, s i s u p d e a e i f d r y c o c c p l d d s d a c p a p f y v q l a g y l]
+[DELETED: S O q d u P t e o d l d c y p d l l s l y o y a p l p d l d d l[ a, s e o q f i p y c c l d a p y]
+[DELETED:  d D d P d E A l L 1 sa“ ,SL r d c d P l f e G  ,]
+[DELETED: sd y  q h c e y o u g aE y r r d s g y d l g E l f d c p n e e d d s f u  ,]
+[DELETED: E e c d e o a t d P e t l f d y f d d c h t e e d c o e c d P q v d f a t l f d y f d é p e n c d l q o t v h q s s sE P p n P A y d q s n c P A d s d  ,]
+[DELETED: A d e p l n s p y a s f d y f h t e c d l g E t s d a c s uL O t l s d y f a d o)R y f e e i a c r y e s l s d   a m d e a a l f q a l d s d c p s y c]
+[DELETED: )F   d e ay a q l a p y a p d a a o c)R y s p d L     i o c c u c l a q p p a v a l p p t c d s a y d r p l y t d c e a o]
+[DELETED: )M c p l a p y e p p e   p p s d c c l p y n g d  a mc e p q)   [,)C[y)C e c l e p y o n   a d p d e y c l a e]
+[DELETED:   [;)  a l d d   a m p d e i p d c c e a l s p d i g y r d a g l p d[ )P a l q e d  [,   a e e i c u v d)C  [y a a m p d e a c é y p r e t   p R]
+[DELETED:  d s o y e s l)M s a y f d p[, c s c d l l e y f r. l f d e i l O c u p rea c o m i D p s f c e ú) “]
+[DELETED: E P t s q s e c u l l R a i p r y a q  , d y a l p d b y c l r  . d a p l t d e r A e f e   a d l y r d P R u E L A]
+[DELETED:  R i p s p i o e r c l A c r y r q f n p I d d o e p c e s p y n p u e e l e d c d l d c e       d e a o e p q g q e a  e]
+[DELETED:  ( R p s o s e a d c T d P d J d s a P l a l I y c m a h u m d d m l d  l   ,]
+[DELETED:  N c a l r P A y  E l p q s n p e r y d q y r i p s o a t d s me d e q p d e a c " d D d l P d E A d P[]
+[DELETED:  G l c d t d e y d e c d l i y p d u q h t s o a d d q t r o s r l o t p d t( u r p o e d d e p p u e P n s r p s i e]
+[DELETED:    l qP ú s d q d d c d P rL  .]
+[DELETED: S C l O s d c e e L q e r d L A d P R c y c c l e p l  L O s q s e c u l s a y( E P d l o i d l O y]
+[DELETED:  s a p a u y c d e y p r d d y o m y d t y d r a m y g i d l( A l r y q q i  a m d e a a i p p d l a  d P R l l f y E L A(( a l i d y q r e f d l p y s q]
+[DELETED:  d 1 s e c c " d P e c c “ d P A U d( P r i y d p l e e i d  ( L c d a p o e p l c p e u o m d s f o e l f d e( d d a e p l m e u p d p d d l p d l a y l a q e e s( Q t l d v s o e s p S]
+[DELETED: ( s a d t y a s m b p e y b( L O d l d r d p p l(  E P y s p a p o m a d   ]
+[DELETED:  E P p l f d l a d,   L O p c l a d G e a]
+[DELETED:  m o q r c o c d t q f n a l a p s d l O y o d é p a l y d t d a y d c c q r d a g m y d d p y p a s e p l O p l e y o n g d  a m d e ao p l s c L f a r s ]
+[DELETED:   . y a l A L a c t p p l   d d.]
+[DELETED:  F l p d l c e e d e d p y p e b d  a m P b e a l a t y l s l s q p y s r d f l p d e L p e d d n e m  . F e e d s y c f a]
+[DELETED:  R a y m a l d e  a c t  d e a t e l a p c e e c d l l e y f r ó n  P e l c y e  a m p d ee c y u m e d l p d]
+[DELETED:  L a c a d d y o c m a     b p y a q o l a p y R a G y l A L a. A l f q a e e d l d c s y c a c l p d s y b I c y r l p o q e l q s P R l C d l E U d A y l l y e v l r a  a m p d e]
+[DELETED:   c o a c a c p n o j o a A q l a c y a p d a  ..    M u r y c c l v a l d d  a m p d e]
+[DELETED: y p p s d c c e p d q l a d l O r e t m a l C y e r d t i d i y c l a e p y o f e.S d l F S d D d E d D d R y D S d]
+[DELETED:     I y l P d l M o e r q e.T d p c y l c d l n y  eN ( m c q p c l r d C a u r i p r s tE C C s r c v s c p e ( m E C C m u r d l rS]
+[DELETED:  m d C C e s P d e sL c s d]
+[DELETED: A d s o a d l A d S d R l d E L A d P Ro d c d sE s q l l( A a l O e m r c l n y e  e d l p d e a e e á d l e y o e p a a l]
+[DELETED:  d    m(( R s y m e a l i d l q d e G p a l n d a.( A a l O c r a l d d f y a(( A e l a d p d(]
+[DELETED: S c a u o p p  T q p a a d l d d e L s d l N 1 d 1 d a d 1 s e d P R 3 s e c c “ d d s d s l y d]
+[DELETED: E a c e q l q r n p cE L p d o e p q p l v d e l N 1 d 1 d a d 1 s e d P R 3 s e c c “ d c m a h d m ( d a c p]
+[DELETED: S””]

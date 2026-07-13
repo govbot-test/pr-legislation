@@ -1,0 +1,301 @@
+Title: Para enmendar el Artículo 10 de la Ley Núm. 25 del 25 de septiembre de 1983, conocida
+Official Title: Para enmendar el Artículo 10 de la Ley Núm. 25 del 25 de septiembre de 1983, conocida
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1253
+11 de mayo de 2026
+Presentado por la señora Jiménez Santoni
+Referido a la Comisión de
+LEY
+como la “Ley de las Inmunizaciones Compulsorias a los Niños Pre-escolares y
+Estudiantes en el Gobierno de Puerto Rico”, con el fin de incluir la vacuna contra el
+Virus Respiratorio Sincitial (VRS) como vacuna requerida para la admisión y
+matrícula en escuelas, centros de cuidado diurno y centros de tratamiento social en
+Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Virus Respiratorio Sincitial (VRS), conocido en inglés como Respiratory
+Syncytial Virus (RSV), es una de las causas más frecuentes e importantes de infección
+respiratoria a nivel mundial y constituye una seria amenaza para la salud pública de
+Puerto Rico. Este virus, que provoca síntomas que oscilan entre un leve resfriado común
+hasta graves infecciones de las vías respiratorias bajas, afecta a personas de todas las
+edades, pero tiene una incidencia desproporcionadamente severa en la población más
+vulnerable: recién nacidos, infantes, niños menores de cinco años y adultos mayores de
+60 años. Su alta transmisibilidad, su patrón estacional y la ausencia histórica de vacunas
+efectivas lo convirtieron durante décadas en una carga endémica difícil de controlar.
+En Puerto Rico, el VRS representa una carga de salud pública documentada y
+creciente. Según datos de la División de Epidemiología e Investigación del
+2
+Departamento de Salud de Puerto Rico, en el año 2022 se reportaron 2,855 casos de VRS,
+con 722 hospitalizaciones. En el año 2023, los casos aumentaron a 3,629, con 807
+hospitalizaciones y dos muertes bajo investigación. En lo que va del año 2026, el
+Departamento de Salud reportó 725 casos acumulados con 281 hospitalizaciones. Los
+grupos de mayor impacto continúan siendo los niños de uno a cuatro años, los menores
+de un año y los adultos mayores de 65 años. Las regiones de Metro, Caguas y
+Mayagüez han registrado de manera consistente las tasas de incidencia más elevadas.
+A nivel de Estados Unidos, la magnitud del problema es igual de alarmante.
+Según datos del Centro para el Control y la Prevención de Enfermedades (CDC, por sus
+siglas en inglés), el VRS es la causa principal de hospitalización de infantes en toda la
+nación. Durante la temporada respiratoria 2024-2025, el CDC estimó entre 190,000 y
+350,000 hospitalizaciones y entre 10,000 y 23,000 muertes atribuibles al VRS en Estados
+Unidos. El 82.1% de las muertes asociadas al VRS ocurrieron en adultos de 65 años o
+más. En términos de hospitalizaciones en años promedio, el CDC estima entre 58,000 y
+80,000 hospitalizaciones en niños menores de cinco años, y entre 60,000 y 160,000 en
+adultos mayores, resultando en entre 100 a 300 muertes en niños menores de cinco años
+y entre 6,000 y 10,000 muertes en la población de edad avanzada anualmente.
+Ante esta realidad, la comunidad científica y médica internacional ha
+experimentado en años recientes un avance sin precedentes en el desarrollo de
+herramientas de protección contra el VRS. La Administración de Alimentos y
+Medicamentos de los Estados Unidos (FDA) aprobó en el año 2023 las primeras vacunas
+contra el VRS para adultos mayores: Arexvy (de GSK) y Abrysvo (de Pfizer). Asimismo,
+la FDA aprobó el uso de Abrysvo como vacuna materna para ser administrada entre las
+semanas 32 y 36 de gestación, lo que confiere protección pasiva al recién nacido durante
+los primeros meses de vida, el período de mayor riesgo. Para la protección postnatal de
+infantes menores de ocho meses, el anticuerpo monoclonal nirsevimab (Beyfortus) fue
+aprobado y recomendado para su administración durante la primera temporada de VRS
+de cada bebé. En el año 2025, el Comité Asesor sobre Prácticas de Inmunización (ACIP,
+3
+por sus siglas en inglés) también aprobó el uso de clesrovimab como alternativa para
+infantes que no recibieron protección materna.
+El ACIP del CDC ha emitido recomendaciones claras y abarcadoras respecto a la
+vacunación y protección contra el VRS. Específicamente, el ACIP recomienda: (1) la
+vacunación materna con la vacuna RSVpreF durante las semanas 32 a 36 de gestación
+para proteger a los recién nacidos durante su primera temporada de VRS; (2) la
+administración de nirsevimab o clesrovimab a todos los infantes menores de ocho
+meses que no estén protegidos por la vacunación materna; (3) una dosis de vacuna RSV
+para todos los adultos de 75 años o más; y (4) una dosis para adultos de 60 a 74 años con
+condiciones de riesgo, así como para adultos de 50 a 59 años en mayor riesgo de
+enfermedad grave. Estas recomendaciones han sido publicadas y actualizadas en el
+Morbidity and Mortality Weekly Report (MMWR) del CDC, reflejando la evolución
+continua del conocimiento científico en esta materia.
+Por otro lado, la Academia Americana de Pediatría (AAP, por sus siglas en
+inglés) también ha actualizado sus recomendaciones respecto a la prevención del VRS
+en infantes y niños de alto riesgo. En octubre de 2025, la AAP publicó una notificación
+de política con guías actualizadas para la prevención de la enfermedad por VRS,
+estableciendo que todos los infantes deben estar protegidos contra el VRS mediante
+vacunación materna o inmunoprofilaxis posnatal con anticuerpos monoclonales.
+Además, el calendario de vacunación para niños y adolescentes del año 2024,
+recomendado por el ACIP y aprobado conjuntamente por el CDC, la AAP, la Academia
+Americana de Médicos de Familia (AAFP), el Colegio Americano de Obstetricia y
+Ginecología (ACOG), entre otros organismos, reconoce la protección contra el VRS
+como parte integral de la inmunización pediátrica en los Estados Unidos.
+El Departamento de Salud de Puerto Rico, a través de su Programa de
+Vacunación, ha reconocido la importancia de la protección contra el VRS e incluye la
+vacuna o inmunoprofilaxis contra este virus entre las vacunas recomendadas para el
+regreso a clases. Asimismo, el propio Secretario de Salud de Puerto Rico ha reiterado
+públicamente el llamado a vacunarse contra el VRS, especialmente para los sectores más
+4
+frágiles, entiéndase, infantes, niños en edad preescolar y adultos mayores. Sin embargo,
+la Ley Núm. 25 de 1983 no incluye expresamente la protección contra el VRS como
+parte de la vacunación compulsoria requerido para la admisión en escuelas y centros de
+cuidado de niños, lo que limita el alcance de la protección colectiva que dicha ley busca
+garantizar.
+Es pertinente señalar que el impacto económico del VRS sobre el sistema de
+salud de Puerto Rico es también significativo. Cada hospitalización por VRS representa
+costos directos en servicios hospitalarios, personal médico, medicamentos y equipos,
+además de los costos indirectos asociados a la ausencia laboral de los padres y
+cuidadores. En una isla que ya enfrenta una grave crisis hospitalaria y una escasez de
+profesionales médicos, la prevención activa mediante vacunación resulta imperativa
+desde una perspectiva de política pública. La incorporación de la vacuna contra el VRS
+en el esquema de inmunizaciones compulsorias es una medida costo-efectiva que
+reducirá la carga sobre el sistema de salud, disminuirá las hospitalizaciones evitables y
+salvará vidas.
+La vacunación universal en contextos escolares y de cuidado diurno no solo
+protege a los individuos vacunados, sino que contribuye a la inmunidad de rebaño o
+inmunidad comunitaria, concepto que protege a aquellas personas que por razones
+médicas no pueden recibir la vacuna. La dinámica de los niños en los centros
+preescolares, de cuidado diurno y escuelas, facilita la transmisión del VRS. Al requerir
+la protección contra este virus como condición de ingreso, Puerto Rico extenderá el
+manto de protección a toda la comunidad escolar, incluyendo a los maestros,
+empleados y familiares de los estudiantes.
+Es política pública del Gobierno de Puerto Rico salvaguardar la salud y el
+bienestar de todos sus ciudadanos, especialmente de los más jóvenes y vulnerables. Es
+por lo que esta Asamblea Legislativa tiene la responsabilidad de actualizar el marco
+legal vigente conforme avanza el conocimiento científico y médico disponible. La
+aprobación de esta ley es un paso necesario, oportuno y responsable para modernizar la
+5
+Ley Núm. 25 de 1983 y armonizarla a las más recientes recomendaciones de los
+organismos médicos y de salud pública a nivel de Puerto Rico y los Estados Unidos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1(a) de la Ley 146-1995, según enmendada,
+2 para que lea como sigue:
+3 “Artículo 10.- El Secretario de Salud vendrá obligado a publicar anualmente, tres
+4 meses antes del comienzo de cada curso escolar las enfermedades contra las cuales
+5 los estudiantes deben ser inmunizados, entre otras, difteria, tétano, tos ferina,
+6 poliomielitis, sarampión alemán, sarampión común, paperas, el Virus Respiratorio
+7 Sincitial (VRS) y cualquier otra que el Secretario de Salud tenga a bien requerir. Las
+8 inmunizaciones requeridas y la forma y frecuencia de administrar las mismas
+9 deberán estar de acuerdo con las prácticas médicas reconocidas en [el Estado Libre
+10 Asociado de] Puerto Rico.”
+11 Sección 2.- El Secretario de Salud adoptará o enmendará toda la reglamentación,
+12 carta normativa, determinación administrativa o documento de similar naturaleza,
+13 para dar cumplimiento a las disposiciones de esta Ley dentro de los ciento ochenta
+14 (180) días de su vigencia.
+15 Sección 3.- Esta Ley comenzará a regir inmediatamente después de su
+16 aprobación. Disponiéndose que la vacuna del Virus Respiratorio Sincitial (VRS) será
+17 requerida a partir del 1 de enero de 2027.
+[DELETED:    3  .rL  a l “ d l I C a l N P y R S ( c v r p l a yE V R S ( c e i c R S d d l D d E e I d]
+[DELETED:  7 h E e a 2 l c a a 3 c 8 y d m b i E l q v d a 2 e u a y l a m d 6 a L r d M C y n d E U l m d p e i d a D l t r 2 e C e e 1 y e r l c c y m i h e a r u a s p e e d d d p c e V L A d A y    yA   m d o m e a m  f (]
+[DELETED:  s   y p c e V E e A r ( l p a l r n d s p t d V ( l d n o c a t l i m d o d r a c p a d 5 a 5 a e m r d g E r h s p y a e e a M W R (d C r l e o l l A A d P ( p s s e p c g a p l p d l e p V q t l i d e p c e V m m o i p c a m e c d v p n y a d a 2 d M d F ( e C A d O y ( e o o r l p c e V D d S d P R a t d s P d]
+[DELETED:  L N 2 d 1 n i e l p c e V c p s q e i e d V s e s d d e s h p m m y e d l c i a a l a l d l p y m l p a m v r i e e d i c e u m c q v u e c e y d c d n s c c q p a a p q p r n p r l v L d d l n e l c p c e v c c d i P R e e d p a t l c e i a l m p p d G d P R s l s y e l q e A L r d a e m v c a e c c y m d L]
+[DELETED:  N 2 d 1 y a a l m r r d l e d s i e o d t t f s a s c p  elV R S r y l f y f d a l m 3 E L c a r i d d s. ]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1253
+11 de mayo de 2026
+Presentado por la señora Jiménez Santoni
+Referido a la Comisión de
+LEY
+Para enmendar el Artículo 10 de la Ley Núm. 25 del 25 de septiembre de 1983, conocida
+como la “Ley de las Inmunizaciones Compulsorias a los Niños Pre-escolares y
+Estudiantes en el Gobierno de Puerto Rico”, con el fin de incluir la vacuna contra el
+Virus Respiratorio Sincitial (VRS) como vacuna requerida para la admisión y
+matrícula en escuelas, centros de cuidado diurno y centros de tratamiento social en
+Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Virus Respiratorio Sincitial (VRS), conocido en inglés como Respiratory
+Syncytial Virus (RSV), es una de las causas más frecuentes e importantes de infección
+respiratoria a nivel mundial y constituye una seria amenaza para la salud pública de
+Puerto Rico. Este virus, que provoca síntomas que oscilan entre un leve resfriado común
+hasta graves infecciones de las vías respiratorias bajas, afecta a personas de todas las
+edades, pero tiene una incidencia desproporcionadamente severa en la población más
+vulnerable: recién nacidos, infantes, niños menores de cinco años y adultos mayores de
+60 años. Su alta transmisibilidad, su patrón estacional y la ausencia histórica de vacunas
+efectivas lo convirtieron durante décadas en una carga endémica difícil de controlar.
+En Puerto Rico, el VRS representa una carga de salud pública documentada y
+creciente. Según datos de la División de Epidemiología e Investigación del
+
+2
+Departamento de Salud de Puerto Rico, en el año 2022 se reportaron 2,855 casos de VRS,
+con 722 hospitalizaciones. En el año 2023, los casos aumentaron a 3,629, con 807
+hospitalizaciones y dos muertes bajo investigación. En lo que va del año 2026, el
+Departamento de Salud reportó 725 casos acumulados con 281 hospitalizaciones. Los
+grupos de mayor impacto continúan siendo los niños de uno a cuatro años, los menores
+de un año y los adultos mayores de 65 años. Las regiones de Metro, Caguas y
+Mayagüez han registrado de manera consistente las tasas de incidencia más elevadas.
+A nivel de Estados Unidos, la magnitud del problema es igual de alarmante.
+Según datos del Centro para el Control y la Prevención de Enfermedades (CDC, por sus
+siglas en inglés), el VRS es la causa principal de hospitalización de infantes en toda la
+nación. Durante la temporada respiratoria 2024-2025, el CDC estimó entre 190,000 y
+350,000 hospitalizaciones y entre 10,000 y 23,000 muertes atribuibles al VRS en Estados
+Unidos. El 82.1% de las muertes asociadas al VRS ocurrieron en adultos de 65 años o
+más. En términos de hospitalizaciones en años promedio, el CDC estima entre 58,000 y
+80,000 hospitalizaciones en niños menores de cinco años, y entre 60,000 y 160,000 en
+adultos mayores, resultando en entre 100 a 300 muertes en niños menores de cinco años
+y entre 6,000 y 10,000 muertes en la población de edad avanzada anualmente.
+Ante esta realidad, la comunidad científica y médica internacional ha
+experimentado en años recientes un avance sin precedentes en el desarrollo de
+herramientas de protección contra el VRS. La Administración de Alimentos y
+Medicamentos de los Estados Unidos (FDA) aprobó en el año 2023 las primeras vacunas
+contra el VRS para adultos mayores: Arexvy (de GSK) y Abrysvo (de Pfizer). Asimismo,
+la FDA aprobó el uso de Abrysvo como vacuna materna para ser administrada entre las
+semanas 32 y 36 de gestación, lo que confiere protección pasiva al recién nacido durante
+los primeros meses de vida, el período de mayor riesgo. Para la protección postnatal de
+infantes menores de ocho meses, el anticuerpo monoclonal nirsevimab (Beyfortus) fue
+aprobado y recomendado para su administración durante la primera temporada de VRS
+de cada bebé. En el año 2025, el Comité Asesor sobre Prácticas de Inmunización (ACIP,
+
+3
+por sus siglas en inglés) también aprobó el uso de clesrovimab como alternativa para
+infantes que no recibieron protección materna.
+El ACIP del CDC ha emitido recomendaciones claras y abarcadoras respecto a la
+vacunación y protección contra el VRS. Específicamente, el ACIP recomienda: (1) la
+vacunación materna con la vacuna RSVpreF durante las semanas 32 a 36 de gestación
+para proteger a los recién nacidos durante su primera temporada de VRS; (2) la
+administración de nirsevimab o clesrovimab a todos los infantes menores de ocho
+meses que no estén protegidos por la vacunación materna; (3) una dosis de vacuna RSV
+para todos los adultos de 75 años o más; y (4) una dosis para adultos de 60 a 74 años con
+condiciones de riesgo, así como para adultos de 50 a 59 años en mayor riesgo de
+enfermedad grave. Estas recomendaciones han sido publicadas y actualizadas en el
+Morbidity and Mortality Weekly Report (MMWR) del CDC, reflejando la evolución
+continua del conocimiento científico en esta materia.
+Por otro lado, la Academia Americana de Pediatría (AAP, por sus siglas en
+inglés) también ha actualizado sus recomendaciones respecto a la prevención del VRS
+en infantes y niños de alto riesgo. En octubre de 2025, la AAP publicó una notificación
+de política con guías actualizadas para la prevención de la enfermedad por VRS,
+estableciendo que todos los infantes deben estar protegidos contra el VRS mediante
+vacunación materna o inmunoprofilaxis posnatal con anticuerpos monoclonales.
+Además, el calendario de vacunación para niños y adolescentes del año 2024,
+recomendado por el ACIP y aprobado conjuntamente por el CDC, la AAP, la Academia
+Americana de Médicos de Familia (AAFP), el Colegio Americano de Obstetricia y
+Ginecología (ACOG), entre otros organismos, reconoce la protección contra el VRS
+como parte integral de la inmunización pediátrica en los Estados Unidos.
+El Departamento de Salud de Puerto Rico, a través de su Programa de
+Vacunación, ha reconocido la importancia de la protección contra el VRS e incluye la
+vacuna o inmunoprofilaxis contra este virus entre las vacunas recomendadas para el
+regreso a clases. Asimismo, el propio Secretario de Salud de Puerto Rico ha reiterado
+públicamente el llamado a vacunarse contra el VRS, especialmente para los sectores más
+
+4
+frágiles, entiéndase, infantes, niños en edad preescolar y adultos mayores. Sin embargo,
+la Ley Núm. 25 de 1983 no incluye expresamente la protección contra el VRS como
+parte de la vacunación compulsoria requerido para la admisión en escuelas y centros de
+cuidado de niños, lo que limita el alcance de la protección colectiva que dicha ley busca
+garantizar.
+Es pertinente señalar que el impacto económico del VRS sobre el sistema de
+salud de Puerto Rico es también significativo. Cada hospitalización por VRS representa
+costos directos en servicios hospitalarios, personal médico, medicamentos y equipos,
+además de los costos indirectos asociados a la ausencia laboral de los padres y
+cuidadores. En una isla que ya enfrenta una grave crisis hospitalaria y una escasez de
+profesionales médicos, la prevención activa mediante vacunación resulta imperativa
+desde una perspectiva de política pública. La incorporación de la vacuna contra el VRS
+en el esquema de inmunizaciones compulsorias es una medida costo-efectiva que
+reducirá la carga sobre el sistema de salud, disminuirá las hospitalizaciones evitables y
+salvará vidas.
+La vacunación universal en contextos escolares y de cuidado diurno no solo
+protege a los individuos vacunados, sino que contribuye a la inmunidad de rebaño o
+inmunidad comunitaria, concepto que protege a aquellas personas que por razones
+médicas no pueden recibir la vacuna. La dinámica de los niños en los centros
+preescolares, de cuidado diurno y escuelas, facilita la transmisión del VRS. Al requerir
+la protección contra este virus como condición de ingreso, Puerto Rico extenderá el
+manto de protección a toda la comunidad escolar, incluyendo a los maestros,
+empleados y familiares de los estudiantes.
+Es política pública del Gobierno de Puerto Rico salvaguardar la salud y el
+bienestar de todos sus ciudadanos, especialmente de los más jóvenes y vulnerables. Es
+por lo que esta Asamblea Legislativa tiene la responsabilidad de actualizar el marco
+legal vigente conforme avanza el conocimiento científico y médico disponible. La
+aprobación de esta ley es un paso necesario, oportuno y responsable para modernizar la
+
+5
+Ley Núm. 25 de 1983 y armonizarla a las más recientes recomendaciones de los
+organismos médicos y de salud pública a nivel de Puerto Rico y los Estados Unidos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1(a) de la Ley 146-1995, según enmendada,
+2 para que lea como sigue:
+3 “Artículo 10.- El Secretario de Salud vendrá obligado a publicar anualmente, tres
+4 meses antes del comienzo de cada curso escolar las enfermedades contra las cuales
+5 los estudiantes deben ser inmunizados, entre otras, difteria, tétano, tos ferina,
+6 poliomielitis, sarampión alemán, sarampión común, paperas, el Virus Respiratorio
+7 Sincitial (VRS) y cualquier otra que el Secretario de Salud tenga a bien requerir. Las
+8 inmunizaciones requeridas y la forma y frecuencia de administrar las mismas
+9 deberán estar de acuerdo con las prácticas médicas reconocidas en [el Estado Libre
+10 Asociado de] Puerto Rico.”
+11 Sección 2.- El Secretario de Salud adoptará o enmendará toda la reglamentación,
+12 carta normativa, determinación administrativa o documento de similar naturaleza,
+13 para dar cumplimiento a las disposiciones de esta Ley dentro de los ciento ochenta
+14 (180) días de su vigencia.
+15 Sección 3.- Esta Ley comenzará a regir inmediatamente después de su
+16 aprobación. Disponiéndose que la vacuna del Virus Respiratorio Sincitial (VRS) será
+17 requerida a partir del 1 de enero de 2027.
+
+[DELETED:    3  .rL  a l “ d l I C a l N P y R S ( c v r p l a yE V R S ( c e i c R S d d l D d E e I d]
+[DELETED:  7 h E e a 2 l c a a 3 c 8 y d m b i E l q v d a 2 e u a y l a m d 6 a L r d M C y n d E U l m d p e i d a D l t r 2 e C e e 1 y e r l c c y m i h e a r u a s p e e d d d p c e V L A d A y    yA   m d o m e a m  f (]
+[DELETED:  s   y p c e V E e A r ( l p a l r n d s p t d V ( l d n o c a t l i m d o d r a c p a d 5 a 5 a e m r d g E r h s p y a e e a M W R (d C r l e o l l A A d P ( p s s e p c g a p l p d l e p V q t l i d e p c e V m m o i p c a m e c d v p n y a d a 2 d M d F ( e C A d O y ( e o o r l p c e V D d S d P R a t d s P d]
+[DELETED:  L N 2 d 1 n i e l p c e V c p s q e i e d V s e s d d e s h p m m y e d l c i a a l a l d l p y m l p a m v r i e e d i c e u m c q v u e c e y d c d n s c c q p a a p q p r n p r l v L d d l n e l c p c e v c c d i P R e e d p a t l c e i a l m p p d G d P R s l s y e l q e A L r d a e m v c a e c c y m d L]
+[DELETED:  N 2 d 1 y a a l m r r d l e d s i e o d t t f s a s c p  elV R S r y l f y f d a l m 3 E L c a r i d d s. ]

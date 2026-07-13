@@ -1,0 +1,910 @@
+Title: Presentado por los señores Rivera Schatz, Ríos Santiago; la señora Jiménez Santoni; los
+Official Title: Presentado por los señores Rivera Schatz, Ríos Santiago; la señora Jiménez Santoni; los
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(26 DE MARZO DE 2026)
+A-078
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 772
+9 de octubre de 2025
+señores Matías Rosario, Morales Rodríguez; la señora Barlucea Rodríguez; los señores Colón
+La Santa, González López; las señoras Padilla Alvelo, Moran Trinidad, Pérez Soto; el señor
+Reyes Berríos; la señora Román Rodríguez; los señores Rosa Ramos, Sánchez Álvarez, Santos
+Ortiz; las señoras Soto Aguilú, Soto Tolentino; y el señor Toledo López
+Referido a la Comisión de Gobierno
+LEY
+Para enmendar los Artículos 2.04, 2.08, 2.23 y añadir los nuevos Artículos 2.02-A, 2.04-
+A, 2.26 y 2.27 a la Ley 85-2018, según enmendada, conocida como la “Ley de
+Reforma Educativa de Puerto Rico”, a los fines de establecer una nueva estructura
+organizacional para el Departamento de Educación; crear las posiciones de
+Subsecretario, Oficial Principal Financiero y Oficial Principal de Informática;
+disponer sus cualificaciones, funciones y deberes; transformar al Subsecretario
+para Asuntos Académicos y Programáticos en el Oficial Principal Académico;
+establecer la coordinación entre estos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Departamento de Educación de Puerto Rico administra el mayor presupuesto
+de nuestro Gobierno, con asignaciones que ya superan los $5,000 millones anuales,
+provenientes de fondos estatales, federales y especiales. La complejidad de este
+presupuesto exige controles internos robustos, planificación financiera a largo plazo y
+mecanismos de transparencia que garanticen confianza pública en la administración del
+proceso enseñanza aprendizaje para nuestros niños y jóvenes.
+2
+Sin embargo, diferentes agencias fiscalizadoras repetidamente han señalado
+deficiencias en controles, atrasos en la presentación de informes y riesgos en la
+administración de fondos federales. Asimismo, informes de auditores federales han
+advertido sobre la posible pérdida de subvenciones por incumplimientos de
+elegibilidad o de uso de fondos. Esto ha llevado a que, desde 2019, el Departamento esté
+operando bajo la supervisión de un síndico o Third-Party Fiduciary Agreement, impuesto
+por el Departamento de Educación Federal, que impone un costo anual adicional
+multimillonario y añade una capa de burocracia que retrasa las transacciones y compras
+simples y rutinarias y obstaculiza la ejecución ágil de fondos federales.
+A nivel de los estados, se han implantado mecanismos de supervisión financiera
+exitosos mediante la creación del Principal Oficial Financiero o Chief Financial Officer
+(CFO) o el Chief School Finance Officer (CSFO) que han probado ser herramientas
+efectivas para fortalecer la gestión fiscal y asegurar el cumplimiento con la normativa
+federal.
+Por ejemplo, en Alabama, el CSFO es responsable, por mandato legal, de
+garantizar el cumplimiento financiero de los distritos escolares y de certificar la
+corrección de los informes presupuestarios. En Florida y Iowa, el CFO de los
+departamentos de educación supervisa directamente las áreas de contabilidad,
+presupuesto, tesorería y administración de fondos federales, sirviendo de enlace con
+auditores estatales y federales. Estos modelos han permitido reducir hallazgos de
+monitoría al establecer controles internos efectivos, acelerar el desembolso de fondos
+federales al contar con sistemas de rastreo y documentación más sólidos, alinear la
+planificación financiera con metas educativas, evitando que los recursos se distribuyan
+de forma reactiva o improvisada y fortalecer la transparencia pública mediante
+informes periódicos y tableros digitales de acceso ciudadano.
+Ante esta realidad, es deber de esta Administración dotar a nuestro Departamento
+de Educación de una estructura organizacional moderna y responsable, que permita
+elevar la disciplina fiscal y administrativa al nivel de las mejores prácticas en los
+3
+Estados Unidos, proteger los fondos estatales y federales de posibles señalamientos que
+puedan poner en riesgo su continuidad y asegurar que cada dólar invertido en
+educación pública llegue a los estudiantes, maestros y comunidades escolares, que es
+donde más se necesita. La creación de la figura del Oficial Principal Financiero en el
+Departamento de Educación busca precisamente garantizar el buen manejo de los
+recursos, fortalecer los controles internos, mejorar la planificación presupuestaria,
+terminar la sindicatura federal y establecer un régimen de transparencia financiera.
+Por otro lado, el Departamento de Educación es la agencia con mayor número de
+empleados y beneficiarios en la Isla, y su operación depende cada vez más de sistemas
+de información, plataformas digitales y tecnología educativa. La pandemia del COVID-
+19 evidenció la importancia de contar con infraestructura tecnológica confiable y
+moderna, tanto para la gestión administrativa como para la enseñanza en los salones de
+clase.
+Sin embargo, el Departamento ha enfrentado grandes retos en el manejo y
+modernización de su infraestructura tecnológica. Informes de la Oficina del Contralor y
+de monitorías federales han señalado problemas con la adquisición y manejo de
+equipos, deficiencias en la seguridad cibernética, falta de estandarización en
+plataformas y un rezago en la implantación de sistemas unificados de información
+estudiantil y administrativa.
+El Gobierno de Puerto Rico cuenta desde 2019 con la Puerto Rico Innovation and
+Technology Services (PRITS), creada mediante la Ley 75-2019, según enmendada, como la
+entidad responsable de establecer la política pública tecnológica del Estado. No
+obstante, el Departamento de Educación necesita un funcionario de alto nivel que,
+dentro de la estructura del propio Departamento, coordine directamente con PRITS y
+tenga autoridad para tomar decisiones estratégicas sobre las inversiones y prioridades
+tecnológicas.
+En diversos estados, la figura del Principal Oficial de Informática o Chief
+Information Officer (CIO) dentro de los departamentos de educación ha permitido
+4
+estandarizar sistemas de información, reforzar la seguridad de datos, agilizar la
+adquisición de equipos y plataformas digitales, y garantizar que la tecnología se utilice
+para mejorar los resultados académicos y administrativos.
+Por estas razones, esta Administración entiende necesario establecer por ley el
+cargo de Oficial Principal de Informática en el Departamento de Educación, con la
+responsabilidad de dirigir las estrategias de transformación digital, en armonía con la
+política pública de PRITS y las mejores prácticas en seguridad, interoperabilidad y
+eficiencia tecnológica. Esta legislación persigue establecer ambas posiciones dentro del
+Departamento de Educación, asegurando que operen en coordinación con la política
+pública del Gobierno de Puerto Rico. Además, se institucionaliza un mecanismo de
+coordinación entre ambos oficiales para garantizar que toda inversión tecnológica esté
+debidamente evaluada desde la perspectiva técnica y financiera, evitando duplicidades,
+desperdicio de fondos y promoviendo la transparencia.
+De igual manera, es importante continuar fortaleciendo la estructura del
+Departamento de Educación. El Artículo 172 del Código Político de Puerto Rico dispone
+que:
+“[e]n caso de muerte, renuncia o separación del jefe de algún
+departamento, oficina o negociado del Gobierno Estatal, o de la
+incapacidad o ausencia temporal de éste, el auxiliar o delegado
+del respectivo departamento, oficina o negociado, siempre que
+la ley no dispusiere en contrario, ejercerá el cargo de dicho jefe,
+mientras se nombre e instale el respectivo sucesor o cese dicha
+incapacidad o ausencia”.
+No obstante, la Ley 85-2018, antes citada, no provee un mecanismo o un orden de
+sucesión para que el Departamento de Educación continúe funcionando eficientemente
+en caso de muerte, renuncia, despido o salida del Secretario. La Ley 85-2018 tampoco
+establece una estructura organizacional del Departamento.
+Por tanto, con el propósito de mantener la continuidad de los servicios que ofrece
+el Departamento de Educación, se propone establecer un orden de sucesión ante la
+salida del Secretario del Departamento de Educación. Específicamente, se
+5
+institucionaliza la estructura organizacional del Departamento y la posición del
+“Subsecretario”, quien quedaría facultado por el Secretario del Departamento de
+Educación para ejercer cualquiera de sus responsabilidades, deberes o funciones. De
+igual manera, sería este Subsecretario, quien, en caso de ausencia, o incapacidad
+temporera del Secretario del Departamento de Educación, le sustituirá y ejercerá todas
+sus funciones y atribuciones, durante dicha ausencia o incapacidad. Asimismo, sería
+quien, en caso de muerte, renuncia o separación del cargo del referido Secretario,
+ejercería todas sus funciones, hasta tanto se nombre el sucesor en propiedad.
+Además, esta Ley propone transformar al Subsecretario de Asuntos Académicos y
+Programáticos en el Oficial Principal Académico o Chief Academic Officer. Esta figura ya
+existe en otros estados como Vermont, Maryland, North Carolina, South Carolina,
+Mississippi, Tennessee, entre otros. El objetivo es de uniformar las principales áreas
+administrativas y académicas del Departamento de Educación y cumplir con la visión
+de profesionalización del Gobierno de Puerto Rico de la Gobernadora Jenniffer
+González Colón, según aprobada por el Pueblo en nuestro Programa de Gobierno.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un nuevo Artículo 2.02-A a la Ley 85-2018, según enmendada,
+2 conocida como la “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+3 “Artículo 2.02-A.- Estructura Organizacional.
+4 La estructura organizacional del Departamento estará compuesta por varias
+5 Oficinas, cada una liderada por un Director u oficial principal, según corresponda,
+6 nombrado por el Secretario, cargo que será uno de confianza de conformidad con el
+7 Artículo 3.01(g) de esta Ley. Las Oficinas incluyen, pero no se limitan a las siguientes:
+8 a. Oficina del Secretario
+9 b. Oficina del Subsecretario
+6
+1 c. Oficina del Oficial Principal Financiero
+2 d. Oficina del Oficial Principal Académico y sus componentes
+3 e. Oficina del Oficial Principal de Informática
+4 f. Oficina de Administración y sus componentes
+5 g. Oficina de Asuntos Legales y Política Pública
+6 h. Oficina de Recursos Humanos
+7 i. Oficina del Programa de Educación Especial y sus componentes
+8 j. Oficina del Programa de Educación Montessori y sus componentes
+9 k. Cualquier otra que el Secretario entienda pertinente crearse y sea
+10 necesaria para implementar los propósitos de esta Ley y de la política
+11 pública del Gobierno de Puerto Rico.”
+12 Sección 2.- Se enmienda el Artículo 2.04 de la Ley 85-2018, según enmendada,
+13 conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se lea como
+14 sigue:
+15 “Artículo 2.04.- Deberes y Responsabilidades del Secretario de Educación.
+16 a…
+17 b…
+18 1…
+19 …
+20 6. Delegar, conforme a esta Ley u otras leyes y reglamentos aplicables,
+21 cualquiera de sus responsabilidades, deberes o funciones al Subsecretario del
+22 Departamento o en otros empleados o funcionarios de la Agencia, así como
+7
+1 retirar tal delegación. Sin embargo, no será delegable la facultad de aprobar
+2 ningún reglamento del Departamento.
+3 …”
+4 Sección 3.- Se añade un nuevo Artículo 2.04-A a la Ley 85-2018, según enmendada,
+5 conocida como la “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+6 “Artículo 2.04-A.- Subsecretario de Educación; nombramiento, deberes y
+7 responsabilidades.
+8 El Subsecretario del Departamento de Educación será nombrado por y servirá a
+9 discreción del Secretario. Serán los deberes y responsabilidades del Subsecretario, los
+10 siguientes:
+11 a. Colaborar en la formulación e implantación de la política pública establecida
+12 por el Departamento.
+13 b. Asistir al Secretario en la planificación, coordinación, dirección supervisión y
+14 evaluación de las actividades administrativas, programáticas, técnicas y
+15 operacionales.
+16 c. Asistir al Secretario en la gerencia de los proyectos del Departamento.
+17 d. Analizar leyes, reglamentos, proyectos de ley, estudios o trabajos realizados
+18 por otros funcionarios, entidades del gobierno y por la Asamblea Legislativa
+19 de Puerto Rico y someter recomendaciones sobre los mismos.
+20 e. Coordinar, establecer y mantener comunicación continua con otras agencias
+21 del gobierno, organizaciones cívicas, culturales y empresariales de Puerto
+8
+1 Rico y del exterior, así como con diversas instituciones de carácter
+2 internacional relacionadas con su trabajo.
+3 f. Desarrollar planes y proyecciones a corto y a mediano plazo y hacer
+4 recomendaciones al Secretario sobre la calidad, eficiencia y resultados
+5 esperados de las actividades.
+6 g. Desarrollar, establecer y evaluar normas, sistemas y procedimientos
+7 pertinentes a las actividades bajo su supervisión.
+8 h. Asesorar al Secretario sobre asuntos administrativos, técnicos y
+9 programáticos relacionados con su trabajo.
+10 i. Establecer y mantener estándares de ejecución para la medición cuantitativa y
+11 cualitativa de las actividades.
+12 j. Asegurar el cumplimiento de las leyes, reglamentos, normas y
+13 procedimientos federales y estatales aplicables a las funciones bajo su
+14 responsabilidad.
+15 k. Preparar y proveer al Secretario informes de progreso de resultados y
+16 estadísticos.
+17 l. Someter recomendaciones para el diseño de planes estratégicos y desarrollar
+18 planes de acción a tono con la misión y política pública establecida.
+19 m. Representar al Secretario en todos los asuntos oficiales que este le requiera.
+20 n. En caso de ausencia o incapacidad temporera del Secretario, le sustituirá y
+21 ejercerá todas las funciones y atribuciones del primero, durante dicha
+22 ausencia o incapacidad. En caso de muerte, renuncia o separación del cargo
+9
+1 del Secretario, el Subsecretario, ejercerá todas las funciones de aquel hasta
+2 tanto se nombre y confirme el nuevo Secretario en propiedad.
+3 o. Realizar otras tareas afines que le sean requeridas por el Secretario de
+4 Educación que sean necesarias para el buen funcionamiento del
+5 Departamento.
+6 Deberá poseer un grado de maestría y acreditar experiencia en los campos de la
+7 educación, o las finanzas o la administración, preferiblemente una combinación de
+8 todas.”
+9 Sección 4.- Se enmienda el inciso (w) del Artículo 2.08 de la Ley 85-2018, según
+10 enmendada, conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se
+11 lea como sigue:
+12 “Artículo 2.08.- Deberes y Responsabilidades del Superintendente de la Oficina
+13 Regional Educativa
+14 Además de los deberes y responsabilidades que se establezcan mediante reglamento
+15 o por directrices del Secretario, el Superintendente de cada Oficina Regional Educativa
+16 deberá:
+17 a…
+18 b…
+19 …
+20 w. Coordinará y garantizará, junto al Oficial Principal Académico, la entrega del
+21 diploma a los estudiantes graduados de duodécimo (12mo.) grado de cada escuela
+22 superior, el mismo día que se celebre los actos de graduación o no más tarde de 30 días
+10
+1 posterior de haberse celebrado la misma. De no poder cumplir con tal requerimiento,
+2 deberá asegurar que la oficina regional educativa correspondiente le emita a cada
+3 estudiante una certificación de grado.”
+4 Sección 5.- Se enmienda el inciso (d) del Artículo 2.22 de la Ley 85-2018, según
+5 enmendada, conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se
+6 lea como sigue:
+7 “Artículo 2.22.- Creación de la Comisión para el Estudio y Recomendación de la
+8 Filosofía Educativa de Puerto Rico (CERFE-PR).
+9 Se crea la Comisión para el Estudio y Recomendación de la Filosofía Educativa de
+10 Puerto Rico (CERFE-PR), con el fin de hacer recomendaciones al Secretario para la
+11 adopción de la filosofía educativa del Sistema de Educación Pública. La Comisión estará
+12 compuesta por:
+13 …
+14 d) El Oficial Principal Académico del Departamento;
+15 …”
+16 Sección 6.- Se enmienda el Artículo 2.23 de la Ley 85-2018, según enmendada,
+17 conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se lea como
+18 sigue:
+19 “Artículo 2.23. — Comité Ejecutivo del CERFE-PR.
+20 Se crea un Comité Ejecutivo del CERFE-PR, compuesto por el Oficial Principal
+21 Académico del Departamento, quien lo presidirá; tres (3) Directores de Educación de las
+22 universidades que formen parte del CERFE-PR, seleccionados entre sus pares,
+11
+1 estableciendo que al menos uno (1) será de la Universidad de Puerto Rico; el Presidente
+2 de la Comisión con jurisdicción primaria en Educación de la Cámara de Representantes
+3 de Puerto Rico; el Presidente de la Comisión con jurisdicción primaria en Educación del
+4 Senado de Puerto Rico; y un (1) exsecretario del Departamento, escogido entre sus
+5 pares.”
+6 Sección 7.- Se añade el Artículo 2.26 de la Ley 85-2018, según enmendada,
+7 conocida como “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+8 “Artículo 2.26. — Oficial Principal Financiero.
+9 (a) Creación del cargo.— Se crea el cargo del Oficial Principal Financiero del
+10 Departamento de Educación de Puerto Rico, quien será el encargado de supervisar toda la
+11 gestión financiera del Departamento, lo cual incluye la supervisión de fondos estatales,
+12 federales y especiales, y mejorar la gobernanza y el manejo fiscal; y quien tendrá jerarquía
+13 sobre todas las unidades de presupuesto, contabilidad, nómina, compras, contratos,
+14 administración de fondos federales y monitoría interna del Departamento. Este cargo será
+15 uno de confianza de conformidad con el Artículo 3.01(g) de esta Ley, nombrado por el
+16 Secretario y responderá directamente al mismo.
+17 (b) Cualificaciones. — El Oficial Principal Financiero deberá:
+18 i. Ser Contador Público Autorizado (CPA) en Puerto Rico;
+19 ii. Poseer al menos diez (10) años de experiencia en finanzas
+20 gubernamentales o administración de fondos federales;
+21 iii. Tener conocimiento acreditado en contabilidad gubernamental
+12
+1 (c) Funciones y deberes. —El Oficial Principal Financiero será el encargado de
+2 supervisar toda la gestión financiera del Departamento, lo cual incluye la supervisión de
+3 fondos estatales, federales y especiales, y mejorar la gobernanza y el manejo fiscal. Sus
+4 funciones incluyen, sin limitarse a:
+5 i. Supervisar y coordinar todas las operaciones y actividades financieras
+6 del Departamento y de sus Oficinas;
+7 ii. Velar por el buen uso de los fondos asignados al Programa de Educación
+8 Especial;
+9 iii. Preparar y administrar el presupuesto del Departamento alineado con
+10 las prioridades educativas del Gobierno y velar por el uso eficiente de los
+11 fondos asignados al Departamento;
+12 iv. Supervisar la contabilidad general y garantizar que todos los estados
+13 financieros se preparen en conformidad con la Ley Núm. 230 de 23 de
+14 julio de 1974, los principios de contabilidad gubernamental (GAAP) y las
+15 normas emitidas por la Oficina de Gerencia y Presupuesto (OGP).
+16 v. Supervisar las compras y contratos del Departamento y dirigir la
+17 administración y el desembolso de fondos federales y estatales,
+18 asegurando su uso correcto; diseñar e intervenir en las unidades
+19 contables y financieras del Departamento para asegurar el buen manejo
+20 de los fondos asignados al Departamento;
+13
+1 vi. Implementar y supervisar sistemas de control interno y gestión de
+2 riesgos basadas en las mejores prácticas; implementar medidas
+3 correctivas para atender problemas financieros;
+4 vii. Fortalecer los sistemas de monitoría interna para prevenir fraude y
+5 duplicidad y coordinar monitorías internas y externas;
+6 viii. Presentar informes financieros periódicos de ejecución presupuestaria,
+7 contratos y uso de fondos federales al Secretario, a la Asamblea
+8 Legislativa y a las agencias federales pertinentes; estos informes
+9 deberían presentarse por lo menos dos (2) veces al año, pero el
+10 Secretario del Departamento de Educación podrá requerir informes en
+11 cualquier otro periodo;
+12 ix. Buscar nuevas oportunidades de financiamiento del sistema educativo;
+13 x. Establecer métricas de eficiencia administrativa y financiera alineadas a
+14 la política pública del Gobierno de Puerto Rico;
+15 xi. Servir de enlace con la Autoridad de Asesoría Financiera y Agencia
+16 Fiscal de Puerto Rico, el Departamento de Hacienda, la Oficina de
+17 Gerencia y Presupuesto, la Oficina del Contralor de Puerto Rico, y
+18 agencias federales que otorgan fondos al Departamento; y
+19 xii. Ejercer las funciones y responsabilidades que le sean delegadas por el
+20 Secretario.”
+21 Sección 8.- Se añade el Artículo 2.27 de la Ley 85-2018, según enmendada,
+22 conocida como “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+14
+1 “Artículo 2.27. — Oficial Principal de Informática.
+2 (a) Creación del cargo. – Se crea el cargo de Oficial Principal de Informática del
+3 Departamento de Educación quien dirigirá la Oficina de Sistemas de Información, y
+4 será responsable de la gestión informática del Departamento conforme a la política
+5 pública adoptada en la Ley 75-2019, según enmendada. Este cargo será uno de
+6 confianza nombrado por el Secretario de conformidad con lo dispuesto en el Artículo
+7 3.01(g) de esta Ley.
+8 (b) Cualificaciones. — El Oficial Principal de Informática deberá poseer mínimo
+9 un grado de Bachillerato en Ciencias de Cómputos, Sistemas de Información,
+10 Tecnologías de la Información, Ingeniería, o Administración de Empresas con
+11 concentración en Sistemas de Información, o campos relacionados. Además, deberá
+12 haber ocupado posiciones de dirección o supervisión en áreas de informática o
+13 transformación digital por al menos cinco (5) años. Se considerará un valor añadido
+14 que posea certificaciones reconocidas en ciberseguridad, gestión de proyectos
+15 tecnológicos o informática educativa.
+16 (c) Funciones y deberes.- El Oficial Principal de Informática será responsable
+17 de:
+18 i. Elaborar e implementar un plan estratégico de informática y digitalización
+19 para el Departamento, el cual deberá ser sometido a la revisión y
+20 aprobación del Puerto Rico Innovation and Technology Service (PRITS)
+21 antes de su implantación;
+22 ii. Administrar la infraestructura digital, redes, sistemas de información
+15
+1 estudiantil y administrativos, en conformidad con las normas, políticas y
+2 directrices establecidas por PRITS;
+3 iii. Supervisar y certificar la adquisición de equipos, plataformas o licencias
+4 digitales, asegurando estandarización y cumplimiento con las políticas
+5 establecidas por el Puerto Rico Innovation and Technology Service
+6 (PRITS) y someter toda contratación o acuerdo tecnológico a la revisión y
+7 aprobación previa de PRITS;
+8 iv. Mantener un inventario actualizado de infraestructura tecnológica del
+9 Departamento y coordinar con PRITS la evaluación de necesidades
+10 tecnológicas comunes, con el propósito de promover la planificación y
+11 coordinación interagencial, conforme a la dirección y supervisión de
+12 dicha entidad;
+13 v. En coordinación con PRITS, implementar políticas de ciberseguridad y
+14 protección de datos y colaborar con PRITS en la ejecución de esas
+15 políticas, conforme a las disposiciones y directrices establecidas por
+16 dicha entidad, la cual es responsable de su desarrollo, implantación y
+17 fiscalización en todas las agencias e instrumentalidades del Gobierno de
+18 Puerto Rico;
+19 vi. Supervisar el desarrollo, consolidación y estandarización de la
+20 infraestructura informática y de telecomunicaciones del Departamento
+21 de acuerdo con las guías y estándares aprobados por PRITS;
+22 vii. Desarrollar programas de capacitación tecnológica para personal docente
+16
+1 y administrativo, en coordinación con las iniciativas y adiestramientos
+2 que establezca PRITS;
+3 viii. Rendir informes anuales sobre avances tecnológicos, seguridad y eficiencia
+4 digital, cumplimiento con estándares de PRITS, métricas de eficiencia digital
+5 e inventario tecnológico; y someter cualesquiera otros informes o métricas
+6 que PRITS requiera.; y
+7 ix. Ejecutar cualquier otras funciones y responsabilidades delegadas por el
+8 Secretario, siempre que las mismas sean consistentes con las políticas,
+9 reglamentaciones y determinaciones de PRITS, quien mantendrá
+10 autoridad supervisora y fiscalizadora sobre las áreas de tecnología e
+11 innovación gubernamental.
+12 (d) Coordinación interagencial con PRITS.— La Oficina de Sistemas de
+13 Información del Departamento de Educación y el Oficial Principal de Informática
+14 estarán sujetos a la política pública, los estándares, las guías operacionales, los
+15 protocolos de seguridad y cualesquiera cartas circulares, órdenes administrativas o
+16 directrices emitidas por PRITS y/o el Principal Ejecutivo de Innovación e Información
+17 del Gobierno (PEIIT), al amparo de la Ley 75-2019, según enmendada. En
+18 consecuencia:
+19 i. Ningún proyecto de creación, implantación, modificación, migración o
+20 actualización de bases de datos, sistemas, plataformas, redes,
+21 infraestructura digital o soluciones tecnológicas del Departamento,
+22 incluyendo iniciativas de transformación digital y ciberseguridad, podrá
+17
+1 iniciarse, adjudicarse o implantarse sin la revisión y comentarios previos
+2 de PRITS, y deberá ejecutarse conforme a los parámetros y
+3 especificaciones que esta establezca.
+4 ii. Ninguna adquisición, contratación, enmienda contractual, renovación o
+5 desembolso relativo a tecnologías de información y comunicación,
+6 incluyendo equipo, licencias, servicios administrados, nube,
+7 telecomunicaciones y ciberseguridad, podrá otorgarse sin cumplir con
+8 los procesos de revisión, evaluación y coordinación con PRITS
+9 dispuestos en la Ley 75-2019 y los reglamentos, guías y estándares
+10 adoptados al amparo de esta.
+11 iii. El Departamento vendrá obligado a proveer a PRITS, en el término que
+12 este requiera, toda información, datos, documentación, inventarios,
+13 métricas y acceso operacional necesario para el cumplimiento de la Ley
+14 75-2019, salvo prohibición expresa de ley.
+15 iv. El Oficial Principal de Informática fungirá como enlace oficial del
+16 Departamento ante PRITS para fines de planificación, estandarización,
+17 interoperabilidad, seguridad, continuidad operacional y eficiencia
+18 tecnológica interagencial.”
+19 Sección 9.- Separabilidad.
+20 Si cualquier parte de esta Ley fuese declarada nula por un Tribunal de
+21 jurisdicción competente, este fallo no afectará ni invalidará el resto de la Ley y su efecto
+18
+1 quedará limitado al aspecto objeto de dicho dictamen judicial.
+2 Sección 10.- Vigencia.
+3 Esta Ley entrará en vigor inmediatamente después de aprobación.
+[DELETED: 0A 2S d        l l J la;  zCaGzP ; ;sRzR ;;SoT ; 2 y 2 a l L 8 s e c c l “ d p e D d E c l p d O P F y O P d I s c f y d t a S A A y P e e O P A n G c a q y s l $ m a d f e f y e L c d e]
+[DELETED: 2 e d a f r h s e c a e l p d i y r e l d f f A i d a f h s l p p d s p i d , e D d E F q i u c a a d P F  O o e  ( q h p s h S F O e e A e C e r p m l d e c f d l d e y d c l d l i p E F y I e C d l d e s d l á d c d e y f E m h p r h d a e d a c c s d r y d m s a l f r o i y f l t p m E d u e o m y r q p l d f y a a n d l m p e l]
+[DELETED: 3 p e r s c y a q c d i e O d E b p g e b m d l f l c i m l p p e l i d c c i t c y e e D h e g r e e m y m f h s p c l a y m d d e l s c f d e e y u r e l i d s u d i l r d e l p p t d E N e D d E n u f d a n q d e l f d P O d I o O( d d l d d e h p]
+[DELETED: 4 s d i r l s d d a l e r e A e n e p l e d O P d I e e D d E c l p d P y l m p e s i y a o e c c l d G d P R A s i u m d i m e i c f l e d c d j D d E s p e u o d s a l d S d D d E E s]
+[DELETED: 5 l e o d D y l p d q q f p e S d D d e d d m s e S q e c d a o i d s e c d m r o s d c d r S . e o e c V M N C S C T e o E o e d u l p á p d G d P R d l G J e o d D e c p v c u l p u D u o p s c e S c u e.O.O]
+[DELETED: 6.O.O.O.O.O.O.O.O.C o q e S e p c y s p i l p d e L y d l p 2 S e e A 2 d l L 8 s e D c a e L u o l y r a d s r d o f a S d o e o e o f d l A a c]
+[DELETED: 7 t d S e n s d l f d alDo 2 S d E n d y S d D d E s n p y s a.C.A d l a a p t y.A.A.C g o c c y e d P]
+[DELETED: 8 y d e a c c d i d c.D p y p a c y a m p y h a S s l c e y r.D e y e n s y p.A a S s a a t y.E.A e c d l l r n y f y e a a l f b s.P y p a S i d p d r y.S.R.E t l f y a d p d d]
+[DELETED: 9 S e S e t l f d a h.R o t a q l s r p e S d q s n p e b f d p u g d m a e e l c d l o l f o l a p u c d 4 S e e i ( d A 2 d l L 8 s 2 D y R d S d l O C y g j a O P A l e d a l e g d d ( g d c e]
+[DELETED: 1 a q l o r e c l e a c 5 S e e i ( d A 2 d l L 8 s 2 C d l C p e E y R d l R ( c e f d h r a S p l 6 S e e A 2 d l L 8 s e c u C E d C c p e O P q f p d C s e s p]
+[DELETED: 1 d P R y u ( e d D e e s 7 S a e A 2 d l L 8 s e)C—S d F  t l u d p c n c c)C—E .S.P a m d ( a d e e f.T]
+[DELETED: 1)F.S.V.P.S l c g y g q t l e.S l c y c d D y d l y e d d f f y e s u c d e i e l u]
+[DELETED: 1.I y s s d c i y g d b e l m p i m.F lss d m i p p f y.P y u d f f a S a l A y a l a f p e i p p l m d ( v a a p e.B.E.S d e c l A d A F y A d P R e D d H l O d y P l O d C d P R y.E 8 S a e A 2 d l L 8 s e]
+[DELETED: 1)C d D a l a e l L 7 s e E c s u d)C g d B e C d C S d I d l I I o A d E c S d I o c d o p d d o s e á d i o p c r e c g d p)F.E e D e c d s s a l r y d P R I a T S (.A l i d r s d i]
+[DELETED: 1.S p e P R I a T S)y .M u i a d i t d y c c P l e d n i c a l d y s d.E d d y c c P e l e d e c a l d y d e p d.S e d c y e d l d d D.D]
+[DELETED: 1.Rlc ,.E s l m s c c y d d P q m s y f s l á d t e C i c P L O d S d d D d E y e O P d I s a l p p l e l g o l G ( a a d l L 7 s e E.N d b d d s p r d o s t d D]
+[DELETED: 1 P y d e c a l p y.N r a t d i y c e l s a n s c c p d r e y c c P e l L 7 y l r g y e.E r t i d d i.E O P d I f c e o d s c o y e c p d e L f d n p u T d]
+[DELETED: 1]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(26 DE MARZO DE 2026)
+A-078
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 772
+9 de octubre de 2025
+Presentado por los señores Rivera Schatz, Ríos Santiago; la señora Jiménez Santoni; los
+señores Matías Rosario, Morales Rodríguez; la señora Barlucea Rodríguez; los señores Colón
+La Santa, González López; las señoras Padilla Alvelo, Moran Trinidad, Pérez Soto; el señor
+Reyes Berríos; la señora Román Rodríguez; los señores Rosa Ramos, Sánchez Álvarez, Santos
+Ortiz; las señoras Soto Aguilú, Soto Tolentino; y el señor Toledo López
+Referido a la Comisión de Gobierno
+LEY
+Para enmendar los Artículos 2.04, 2.08, 2.23 y añadir los nuevos Artículos 2.02-A, 2.04-
+A, 2.26 y 2.27 a la Ley 85-2018, según enmendada, conocida como la “Ley de
+Reforma Educativa de Puerto Rico”, a los fines de establecer una nueva estructura
+organizacional para el Departamento de Educación; crear las posiciones de
+Subsecretario, Oficial Principal Financiero y Oficial Principal de Informática;
+disponer sus cualificaciones, funciones y deberes; transformar al Subsecretario
+para Asuntos Académicos y Programáticos en el Oficial Principal Académico;
+establecer la coordinación entre estos; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Departamento de Educación de Puerto Rico administra el mayor presupuesto
+de nuestro Gobierno, con asignaciones que ya superan los $5,000 millones anuales,
+provenientes de fondos estatales, federales y especiales. La complejidad de este
+presupuesto exige controles internos robustos, planificación financiera a largo plazo y
+mecanismos de transparencia que garanticen confianza pública en la administración del
+proceso enseñanza aprendizaje para nuestros niños y jóvenes.
+
+2
+Sin embargo, diferentes agencias fiscalizadoras repetidamente han señalado
+deficiencias en controles, atrasos en la presentación de informes y riesgos en la
+administración de fondos federales. Asimismo, informes de auditores federales han
+advertido sobre la posible pérdida de subvenciones por incumplimientos de
+elegibilidad o de uso de fondos. Esto ha llevado a que, desde 2019, el Departamento esté
+operando bajo la supervisión de un síndico o Third-Party Fiduciary Agreement, impuesto
+por el Departamento de Educación Federal, que impone un costo anual adicional
+multimillonario y añade una capa de burocracia que retrasa las transacciones y compras
+simples y rutinarias y obstaculiza la ejecución ágil de fondos federales.
+A nivel de los estados, se han implantado mecanismos de supervisión financiera
+exitosos mediante la creación del Principal Oficial Financiero o Chief Financial Officer
+(CFO) o el Chief School Finance Officer (CSFO) que han probado ser herramientas
+efectivas para fortalecer la gestión fiscal y asegurar el cumplimiento con la normativa
+federal.
+Por ejemplo, en Alabama, el CSFO es responsable, por mandato legal, de
+garantizar el cumplimiento financiero de los distritos escolares y de certificar la
+corrección de los informes presupuestarios. En Florida y Iowa, el CFO de los
+departamentos de educación supervisa directamente las áreas de contabilidad,
+presupuesto, tesorería y administración de fondos federales, sirviendo de enlace con
+auditores estatales y federales. Estos modelos han permitido reducir hallazgos de
+monitoría al establecer controles internos efectivos, acelerar el desembolso de fondos
+federales al contar con sistemas de rastreo y documentación más sólidos, alinear la
+planificación financiera con metas educativas, evitando que los recursos se distribuyan
+de forma reactiva o improvisada y fortalecer la transparencia pública mediante
+informes periódicos y tableros digitales de acceso ciudadano.
+Ante esta realidad, es deber de esta Administración dotar a nuestro Departamento
+de Educación de una estructura organizacional moderna y responsable, que permita
+elevar la disciplina fiscal y administrativa al nivel de las mejores prácticas en los
+
+3
+Estados Unidos, proteger los fondos estatales y federales de posibles señalamientos que
+puedan poner en riesgo su continuidad y asegurar que cada dólar invertido en
+educación pública llegue a los estudiantes, maestros y comunidades escolares, que es
+donde más se necesita. La creación de la figura del Oficial Principal Financiero en el
+Departamento de Educación busca precisamente garantizar el buen manejo de los
+recursos, fortalecer los controles internos, mejorar la planificación presupuestaria,
+terminar la sindicatura federal y establecer un régimen de transparencia financiera.
+Por otro lado, el Departamento de Educación es la agencia con mayor número de
+empleados y beneficiarios en la Isla, y su operación depende cada vez más de sistemas
+de información, plataformas digitales y tecnología educativa. La pandemia del COVID-
+19 evidenció la importancia de contar con infraestructura tecnológica confiable y
+moderna, tanto para la gestión administrativa como para la enseñanza en los salones de
+clase.
+Sin embargo, el Departamento ha enfrentado grandes retos en el manejo y
+modernización de su infraestructura tecnológica. Informes de la Oficina del Contralor y
+de monitorías federales han señalado problemas con la adquisición y manejo de
+equipos, deficiencias en la seguridad cibernética, falta de estandarización en
+plataformas y un rezago en la implantación de sistemas unificados de información
+estudiantil y administrativa.
+El Gobierno de Puerto Rico cuenta desde 2019 con la Puerto Rico Innovation and
+Technology Services (PRITS), creada mediante la Ley 75-2019, según enmendada, como la
+entidad responsable de establecer la política pública tecnológica del Estado. No
+obstante, el Departamento de Educación necesita un funcionario de alto nivel que,
+dentro de la estructura del propio Departamento, coordine directamente con PRITS y
+tenga autoridad para tomar decisiones estratégicas sobre las inversiones y prioridades
+tecnológicas.
+En diversos estados, la figura del Principal Oficial de Informática o Chief
+Information Officer (CIO) dentro de los departamentos de educación ha permitido
+
+4
+estandarizar sistemas de información, reforzar la seguridad de datos, agilizar la
+adquisición de equipos y plataformas digitales, y garantizar que la tecnología se utilice
+para mejorar los resultados académicos y administrativos.
+Por estas razones, esta Administración entiende necesario establecer por ley el
+cargo de Oficial Principal de Informática en el Departamento de Educación, con la
+responsabilidad de dirigir las estrategias de transformación digital, en armonía con la
+política pública de PRITS y las mejores prácticas en seguridad, interoperabilidad y
+eficiencia tecnológica. Esta legislación persigue establecer ambas posiciones dentro del
+Departamento de Educación, asegurando que operen en coordinación con la política
+pública del Gobierno de Puerto Rico. Además, se institucionaliza un mecanismo de
+coordinación entre ambos oficiales para garantizar que toda inversión tecnológica esté
+debidamente evaluada desde la perspectiva técnica y financiera, evitando duplicidades,
+desperdicio de fondos y promoviendo la transparencia.
+De igual manera, es importante continuar fortaleciendo la estructura del
+Departamento de Educación. El Artículo 172 del Código Político de Puerto Rico dispone
+que:
+“[e]n caso de muerte, renuncia o separación del jefe de algún
+departamento, oficina o negociado del Gobierno Estatal, o de la
+incapacidad o ausencia temporal de éste, el auxiliar o delegado
+del respectivo departamento, oficina o negociado, siempre que
+la ley no dispusiere en contrario, ejercerá el cargo de dicho jefe,
+mientras se nombre e instale el respectivo sucesor o cese dicha
+incapacidad o ausencia”.
+No obstante, la Ley 85-2018, antes citada, no provee un mecanismo o un orden de
+sucesión para que el Departamento de Educación continúe funcionando eficientemente
+en caso de muerte, renuncia, despido o salida del Secretario. La Ley 85-2018 tampoco
+establece una estructura organizacional del Departamento.
+Por tanto, con el propósito de mantener la continuidad de los servicios que ofrece
+el Departamento de Educación, se propone establecer un orden de sucesión ante la
+salida del Secretario del Departamento de Educación. Específicamente, se
+
+5
+institucionaliza la estructura organizacional del Departamento y la posición del
+“Subsecretario”, quien quedaría facultado por el Secretario del Departamento de
+Educación para ejercer cualquiera de sus responsabilidades, deberes o funciones. De
+igual manera, sería este Subsecretario, quien, en caso de ausencia, o incapacidad
+temporera del Secretario del Departamento de Educación, le sustituirá y ejercerá todas
+sus funciones y atribuciones, durante dicha ausencia o incapacidad. Asimismo, sería
+quien, en caso de muerte, renuncia o separación del cargo del referido Secretario,
+ejercería todas sus funciones, hasta tanto se nombre el sucesor en propiedad.
+Además, esta Ley propone transformar al Subsecretario de Asuntos Académicos y
+Programáticos en el Oficial Principal Académico o Chief Academic Officer. Esta figura ya
+existe en otros estados como Vermont, Maryland, North Carolina, South Carolina,
+Mississippi, Tennessee, entre otros. El objetivo es de uniformar las principales áreas
+administrativas y académicas del Departamento de Educación y cumplir con la visión
+de profesionalización del Gobierno de Puerto Rico de la Gobernadora Jenniffer
+González Colón, según aprobada por el Pueblo en nuestro Programa de Gobierno.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un nuevo Artículo 2.02-A a la Ley 85-2018, según enmendada,
+2 conocida como la “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+3 “Artículo 2.02-A.- Estructura Organizacional.
+4 La estructura organizacional del Departamento estará compuesta por varias
+5 Oficinas, cada una liderada por un Director u oficial principal, según corresponda,
+6 nombrado por el Secretario, cargo que será uno de confianza de conformidad con el
+7 Artículo 3.01(g) de esta Ley. Las Oficinas incluyen, pero no se limitan a las siguientes:
+8 a. Oficina del Secretario
+9 b. Oficina del Subsecretario
+
+6
+1 c. Oficina del Oficial Principal Financiero
+2 d. Oficina del Oficial Principal Académico y sus componentes
+3 e. Oficina del Oficial Principal de Informática
+4 f. Oficina de Administración y sus componentes
+5 g. Oficina de Asuntos Legales y Política Pública
+6 h. Oficina de Recursos Humanos
+7 i. Oficina del Programa de Educación Especial y sus componentes
+8 j. Oficina del Programa de Educación Montessori y sus componentes
+9 k. Cualquier otra que el Secretario entienda pertinente crearse y sea
+10 necesaria para implementar los propósitos de esta Ley y de la política
+11 pública del Gobierno de Puerto Rico.”
+12 Sección 2.- Se enmienda el Artículo 2.04 de la Ley 85-2018, según enmendada,
+13 conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se lea como
+14 sigue:
+15 “Artículo 2.04.- Deberes y Responsabilidades del Secretario de Educación.
+16 a…
+17 b…
+18 1…
+19 …
+20 6. Delegar, conforme a esta Ley u otras leyes y reglamentos aplicables,
+21 cualquiera de sus responsabilidades, deberes o funciones al Subsecretario del
+22 Departamento o en otros empleados o funcionarios de la Agencia, así como
+
+7
+1 retirar tal delegación. Sin embargo, no será delegable la facultad de aprobar
+2 ningún reglamento del Departamento.
+3 …”
+4 Sección 3.- Se añade un nuevo Artículo 2.04-A a la Ley 85-2018, según enmendada,
+5 conocida como la “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+6 “Artículo 2.04-A.- Subsecretario de Educación; nombramiento, deberes y
+7 responsabilidades.
+8 El Subsecretario del Departamento de Educación será nombrado por y servirá a
+9 discreción del Secretario. Serán los deberes y responsabilidades del Subsecretario, los
+10 siguientes:
+11 a. Colaborar en la formulación e implantación de la política pública establecida
+12 por el Departamento.
+13 b. Asistir al Secretario en la planificación, coordinación, dirección supervisión y
+14 evaluación de las actividades administrativas, programáticas, técnicas y
+15 operacionales.
+16 c. Asistir al Secretario en la gerencia de los proyectos del Departamento.
+17 d. Analizar leyes, reglamentos, proyectos de ley, estudios o trabajos realizados
+18 por otros funcionarios, entidades del gobierno y por la Asamblea Legislativa
+19 de Puerto Rico y someter recomendaciones sobre los mismos.
+20 e. Coordinar, establecer y mantener comunicación continua con otras agencias
+21 del gobierno, organizaciones cívicas, culturales y empresariales de Puerto
+
+8
+1 Rico y del exterior, así como con diversas instituciones de carácter
+2 internacional relacionadas con su trabajo.
+3 f. Desarrollar planes y proyecciones a corto y a mediano plazo y hacer
+4 recomendaciones al Secretario sobre la calidad, eficiencia y resultados
+5 esperados de las actividades.
+6 g. Desarrollar, establecer y evaluar normas, sistemas y procedimientos
+7 pertinentes a las actividades bajo su supervisión.
+8 h. Asesorar al Secretario sobre asuntos administrativos, técnicos y
+9 programáticos relacionados con su trabajo.
+10 i. Establecer y mantener estándares de ejecución para la medición cuantitativa y
+11 cualitativa de las actividades.
+12 j. Asegurar el cumplimiento de las leyes, reglamentos, normas y
+13 procedimientos federales y estatales aplicables a las funciones bajo su
+14 responsabilidad.
+15 k. Preparar y proveer al Secretario informes de progreso de resultados y
+16 estadísticos.
+17 l. Someter recomendaciones para el diseño de planes estratégicos y desarrollar
+18 planes de acción a tono con la misión y política pública establecida.
+19 m. Representar al Secretario en todos los asuntos oficiales que este le requiera.
+20 n. En caso de ausencia o incapacidad temporera del Secretario, le sustituirá y
+21 ejercerá todas las funciones y atribuciones del primero, durante dicha
+22 ausencia o incapacidad. En caso de muerte, renuncia o separación del cargo
+
+9
+1 del Secretario, el Subsecretario, ejercerá todas las funciones de aquel hasta
+2 tanto se nombre y confirme el nuevo Secretario en propiedad.
+3 o. Realizar otras tareas afines que le sean requeridas por el Secretario de
+4 Educación que sean necesarias para el buen funcionamiento del
+5 Departamento.
+6 Deberá poseer un grado de maestría y acreditar experiencia en los campos de la
+7 educación, o las finanzas o la administración, preferiblemente una combinación de
+8 todas.”
+9 Sección 4.- Se enmienda el inciso (w) del Artículo 2.08 de la Ley 85-2018, según
+10 enmendada, conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se
+11 lea como sigue:
+12 “Artículo 2.08.- Deberes y Responsabilidades del Superintendente de la Oficina
+13 Regional Educativa
+14 Además de los deberes y responsabilidades que se establezcan mediante reglamento
+15 o por directrices del Secretario, el Superintendente de cada Oficina Regional Educativa
+16 deberá:
+17 a…
+18 b…
+19 …
+20 w. Coordinará y garantizará, junto al Oficial Principal Académico, la entrega del
+21 diploma a los estudiantes graduados de duodécimo (12mo.) grado de cada escuela
+22 superior, el mismo día que se celebre los actos de graduación o no más tarde de 30 días
+
+10
+1 posterior de haberse celebrado la misma. De no poder cumplir con tal requerimiento,
+2 deberá asegurar que la oficina regional educativa correspondiente le emita a cada
+3 estudiante una certificación de grado.”
+4 Sección 5.- Se enmienda el inciso (d) del Artículo 2.22 de la Ley 85-2018, según
+5 enmendada, conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se
+6 lea como sigue:
+7 “Artículo 2.22.- Creación de la Comisión para el Estudio y Recomendación de la
+8 Filosofía Educativa de Puerto Rico (CERFE-PR).
+9 Se crea la Comisión para el Estudio y Recomendación de la Filosofía Educativa de
+10 Puerto Rico (CERFE-PR), con el fin de hacer recomendaciones al Secretario para la
+11 adopción de la filosofía educativa del Sistema de Educación Pública. La Comisión estará
+12 compuesta por:
+13 …
+14 d) El Oficial Principal Académico del Departamento;
+15 …”
+16 Sección 6.- Se enmienda el Artículo 2.23 de la Ley 85-2018, según enmendada,
+17 conocida como la “Ley de Reforma Educativa de Puerto Rico”, para que se lea como
+18 sigue:
+19 “Artículo 2.23. — Comité Ejecutivo del CERFE-PR.
+20 Se crea un Comité Ejecutivo del CERFE-PR, compuesto por el Oficial Principal
+21 Académico del Departamento, quien lo presidirá; tres (3) Directores de Educación de las
+22 universidades que formen parte del CERFE-PR, seleccionados entre sus pares,
+
+11
+1 estableciendo que al menos uno (1) será de la Universidad de Puerto Rico; el Presidente
+2 de la Comisión con jurisdicción primaria en Educación de la Cámara de Representantes
+3 de Puerto Rico; el Presidente de la Comisión con jurisdicción primaria en Educación del
+4 Senado de Puerto Rico; y un (1) exsecretario del Departamento, escogido entre sus
+5 pares.”
+6 Sección 7.- Se añade el Artículo 2.26 de la Ley 85-2018, según enmendada,
+7 conocida como “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+8 “Artículo 2.26. — Oficial Principal Financiero.
+9 (a) Creación del cargo.— Se crea el cargo del Oficial Principal Financiero del
+10 Departamento de Educación de Puerto Rico, quien será el encargado de supervisar toda la
+11 gestión financiera del Departamento, lo cual incluye la supervisión de fondos estatales,
+12 federales y especiales, y mejorar la gobernanza y el manejo fiscal; y quien tendrá jerarquía
+13 sobre todas las unidades de presupuesto, contabilidad, nómina, compras, contratos,
+14 administración de fondos federales y monitoría interna del Departamento. Este cargo será
+15 uno de confianza de conformidad con el Artículo 3.01(g) de esta Ley, nombrado por el
+16 Secretario y responderá directamente al mismo.
+17 (b) Cualificaciones. — El Oficial Principal Financiero deberá:
+18 i. Ser Contador Público Autorizado (CPA) en Puerto Rico;
+19 ii. Poseer al menos diez (10) años de experiencia en finanzas
+20 gubernamentales o administración de fondos federales;
+21 iii. Tener conocimiento acreditado en contabilidad gubernamental
+
+12
+1 (c) Funciones y deberes. —El Oficial Principal Financiero será el encargado de
+2 supervisar toda la gestión financiera del Departamento, lo cual incluye la supervisión de
+3 fondos estatales, federales y especiales, y mejorar la gobernanza y el manejo fiscal. Sus
+4 funciones incluyen, sin limitarse a:
+5 i. Supervisar y coordinar todas las operaciones y actividades financieras
+6 del Departamento y de sus Oficinas;
+7 ii. Velar por el buen uso de los fondos asignados al Programa de Educación
+8 Especial;
+9 iii. Preparar y administrar el presupuesto del Departamento alineado con
+10 las prioridades educativas del Gobierno y velar por el uso eficiente de los
+11 fondos asignados al Departamento;
+12 iv. Supervisar la contabilidad general y garantizar que todos los estados
+13 financieros se preparen en conformidad con la Ley Núm. 230 de 23 de
+14 julio de 1974, los principios de contabilidad gubernamental (GAAP) y las
+15 normas emitidas por la Oficina de Gerencia y Presupuesto (OGP).
+16 v. Supervisar las compras y contratos del Departamento y dirigir la
+17 administración y el desembolso de fondos federales y estatales,
+18 asegurando su uso correcto; diseñar e intervenir en las unidades
+19 contables y financieras del Departamento para asegurar el buen manejo
+20 de los fondos asignados al Departamento;
+
+13
+1 vi. Implementar y supervisar sistemas de control interno y gestión de
+2 riesgos basadas en las mejores prácticas; implementar medidas
+3 correctivas para atender problemas financieros;
+4 vii. Fortalecer los sistemas de monitoría interna para prevenir fraude y
+5 duplicidad y coordinar monitorías internas y externas;
+6 viii. Presentar informes financieros periódicos de ejecución presupuestaria,
+7 contratos y uso de fondos federales al Secretario, a la Asamblea
+8 Legislativa y a las agencias federales pertinentes; estos informes
+9 deberían presentarse por lo menos dos (2) veces al año, pero el
+10 Secretario del Departamento de Educación podrá requerir informes en
+11 cualquier otro periodo;
+12 ix. Buscar nuevas oportunidades de financiamiento del sistema educativo;
+13 x. Establecer métricas de eficiencia administrativa y financiera alineadas a
+14 la política pública del Gobierno de Puerto Rico;
+15 xi. Servir de enlace con la Autoridad de Asesoría Financiera y Agencia
+16 Fiscal de Puerto Rico, el Departamento de Hacienda, la Oficina de
+17 Gerencia y Presupuesto, la Oficina del Contralor de Puerto Rico, y
+18 agencias federales que otorgan fondos al Departamento; y
+19 xii. Ejercer las funciones y responsabilidades que le sean delegadas por el
+20 Secretario.”
+21 Sección 8.- Se añade el Artículo 2.27 de la Ley 85-2018, según enmendada,
+22 conocida como “Ley de Reforma Educativa de Puerto Rico”, que se leerá como sigue:
+
+14
+1 “Artículo 2.27. — Oficial Principal de Informática.
+2 (a) Creación del cargo. – Se crea el cargo de Oficial Principal de Informática del
+3 Departamento de Educación quien dirigirá la Oficina de Sistemas de Información, y
+4 será responsable de la gestión informática del Departamento conforme a la política
+5 pública adoptada en la Ley 75-2019, según enmendada. Este cargo será uno de
+6 confianza nombrado por el Secretario de conformidad con lo dispuesto en el Artículo
+7 3.01(g) de esta Ley.
+8 (b) Cualificaciones. — El Oficial Principal de Informática deberá poseer mínimo
+9 un grado de Bachillerato en Ciencias de Cómputos, Sistemas de Información,
+10 Tecnologías de la Información, Ingeniería, o Administración de Empresas con
+11 concentración en Sistemas de Información, o campos relacionados. Además, deberá
+12 haber ocupado posiciones de dirección o supervisión en áreas de informática o
+13 transformación digital por al menos cinco (5) años. Se considerará un valor añadido
+14 que posea certificaciones reconocidas en ciberseguridad, gestión de proyectos
+15 tecnológicos o informática educativa.
+16 (c) Funciones y deberes.- El Oficial Principal de Informática será responsable
+17 de:
+18 i. Elaborar e implementar un plan estratégico de informática y digitalización
+19 para el Departamento, el cual deberá ser sometido a la revisión y
+20 aprobación del Puerto Rico Innovation and Technology Service (PRITS)
+21 antes de su implantación;
+22 ii. Administrar la infraestructura digital, redes, sistemas de información
+
+15
+1 estudiantil y administrativos, en conformidad con las normas, políticas y
+2 directrices establecidas por PRITS;
+3 iii. Supervisar y certificar la adquisición de equipos, plataformas o licencias
+4 digitales, asegurando estandarización y cumplimiento con las políticas
+5 establecidas por el Puerto Rico Innovation and Technology Service
+6 (PRITS) y someter toda contratación o acuerdo tecnológico a la revisión y
+7 aprobación previa de PRITS;
+8 iv. Mantener un inventario actualizado de infraestructura tecnológica del
+9 Departamento y coordinar con PRITS la evaluación de necesidades
+10 tecnológicas comunes, con el propósito de promover la planificación y
+11 coordinación interagencial, conforme a la dirección y supervisión de
+12 dicha entidad;
+13 v. En coordinación con PRITS, implementar políticas de ciberseguridad y
+14 protección de datos y colaborar con PRITS en la ejecución de esas
+15 políticas, conforme a las disposiciones y directrices establecidas por
+16 dicha entidad, la cual es responsable de su desarrollo, implantación y
+17 fiscalización en todas las agencias e instrumentalidades del Gobierno de
+18 Puerto Rico;
+19 vi. Supervisar el desarrollo, consolidación y estandarización de la
+20 infraestructura informática y de telecomunicaciones del Departamento
+21 de acuerdo con las guías y estándares aprobados por PRITS;
+22 vii. Desarrollar programas de capacitación tecnológica para personal docente
+
+16
+1 y administrativo, en coordinación con las iniciativas y adiestramientos
+2 que establezca PRITS;
+3 viii. Rendir informes anuales sobre avances tecnológicos, seguridad y eficiencia
+4 digital, cumplimiento con estándares de PRITS, métricas de eficiencia digital
+5 e inventario tecnológico; y someter cualesquiera otros informes o métricas
+6 que PRITS requiera.; y
+7 ix. Ejecutar cualquier otras funciones y responsabilidades delegadas por el
+8 Secretario, siempre que las mismas sean consistentes con las políticas,
+9 reglamentaciones y determinaciones de PRITS, quien mantendrá
+10 autoridad supervisora y fiscalizadora sobre las áreas de tecnología e
+11 innovación gubernamental.
+12 (d) Coordinación interagencial con PRITS.— La Oficina de Sistemas de
+13 Información del Departamento de Educación y el Oficial Principal de Informática
+14 estarán sujetos a la política pública, los estándares, las guías operacionales, los
+15 protocolos de seguridad y cualesquiera cartas circulares, órdenes administrativas o
+16 directrices emitidas por PRITS y/o el Principal Ejecutivo de Innovación e Información
+17 del Gobierno (PEIIT), al amparo de la Ley 75-2019, según enmendada. En
+18 consecuencia:
+19 i. Ningún proyecto de creación, implantación, modificación, migración o
+20 actualización de bases de datos, sistemas, plataformas, redes,
+21 infraestructura digital o soluciones tecnológicas del Departamento,
+22 incluyendo iniciativas de transformación digital y ciberseguridad, podrá
+
+17
+1 iniciarse, adjudicarse o implantarse sin la revisión y comentarios previos
+2 de PRITS, y deberá ejecutarse conforme a los parámetros y
+3 especificaciones que esta establezca.
+4 ii. Ninguna adquisición, contratación, enmienda contractual, renovación o
+5 desembolso relativo a tecnologías de información y comunicación,
+6 incluyendo equipo, licencias, servicios administrados, nube,
+7 telecomunicaciones y ciberseguridad, podrá otorgarse sin cumplir con
+8 los procesos de revisión, evaluación y coordinación con PRITS
+9 dispuestos en la Ley 75-2019 y los reglamentos, guías y estándares
+10 adoptados al amparo de esta.
+11 iii. El Departamento vendrá obligado a proveer a PRITS, en el término que
+12 este requiera, toda información, datos, documentación, inventarios,
+13 métricas y acceso operacional necesario para el cumplimiento de la Ley
+14 75-2019, salvo prohibición expresa de ley.
+15 iv. El Oficial Principal de Informática fungirá como enlace oficial del
+16 Departamento ante PRITS para fines de planificación, estandarización,
+17 interoperabilidad, seguridad, continuidad operacional y eficiencia
+18 tecnológica interagencial.”
+19 Sección 9.- Separabilidad.
+20 Si cualquier parte de esta Ley fuese declarada nula por un Tribunal de
+21 jurisdicción competente, este fallo no afectará ni invalidará el resto de la Ley y su efecto
+
+18
+1 quedará limitado al aspecto objeto de dicho dictamen judicial.
+2 Sección 10.- Vigencia.
+3 Esta Ley entrará en vigor inmediatamente después de aprobación.
+
+[DELETED: 0A 2S d        l l J la;  zCaGzP ; ;sRzR ;;SoT ; 2 y 2 a l L 8 s e c c l “ d p e D d E c l p d O P F y O P d I s c f y d t a S A A y P e e O P A n G c a q y s l $ m a d f e f y e L c d e]
+[DELETED: 2 e d a f r h s e c a e l p d i y r e l d f f A i d a f h s l p p d s p i d , e D d E F q i u c a a d P F  O o e  ( q h p s h S F O e e A e C e r p m l d e c f d l d e y d c l d l i p E F y I e C d l d e s d l á d c d e y f E m h p r h d a e d a c c s d r y d m s a l f r o i y f l t p m E d u e o m y r q p l d f y a a n d l m p e l]
+[DELETED: 3 p e r s c y a q c d i e O d E b p g e b m d l f l c i m l p p e l i d c c i t c y e e D h e g r e e m y m f h s p c l a y m d d e l s c f d e e y u r e l i d s u d i l r d e l p p t d E N e D d E n u f d a n q d e l f d P O d I o O( d d l d d e h p]
+[DELETED: 4 s d i r l s d d a l e r e A e n e p l e d O P d I e e D d E c l p d P y l m p e s i y a o e c c l d G d P R A s i u m d i m e i c f l e d c d j D d E s p e u o d s a l d S d D d E E s]
+[DELETED: 5 l e o d D y l p d q q f p e S d D d e d d m s e S q e c d a o i d s e c d m r o s d c d r S . e o e c V M N C S C T e o E o e d u l p á p d G d P R d l G J e o d D e c p v c u l p u D u o p s c e S c u e.O.O]
+[DELETED: 6.O.O.O.O.O.O.O.O.C o q e S e p c y s p i l p d e L y d l p 2 S e e A 2 d l L 8 s e D c a e L u o l y r a d s r d o f a S d o e o e o f d l A a c]
+[DELETED: 7 t d S e n s d l f d alDo 2 S d E n d y S d D d E s n p y s a.C.A d l a a p t y.A.A.C g o c c y e d P]
+[DELETED: 8 y d e a c c d i d c.D p y p a c y a m p y h a S s l c e y r.D e y e n s y p.A a S s a a t y.E.A e c d l l r n y f y e a a l f b s.P y p a S i d p d r y.S.R.E t l f y a d p d d]
+[DELETED: 9 S e S e t l f d a h.R o t a q l s r p e S d q s n p e b f d p u g d m a e e l c d l o l f o l a p u c d 4 S e e i ( d A 2 d l L 8 s 2 D y R d S d l O C y g j a O P A l e d a l e g d d ( g d c e]
+[DELETED: 1 a q l o r e c l e a c 5 S e e i ( d A 2 d l L 8 s 2 C d l C p e E y R d l R ( c e f d h r a S p l 6 S e e A 2 d l L 8 s e c u C E d C c p e O P q f p d C s e s p]
+[DELETED: 1 d P R y u ( e d D e e s 7 S a e A 2 d l L 8 s e)C—S d F  t l u d p c n c c)C—E .S.P a m d ( a d e e f.T]
+[DELETED: 1)F.S.V.P.S l c g y g q t l e.S l c y c d D y d l y e d d f f y e s u c d e i e l u]
+[DELETED: 1.I y s s d c i y g d b e l m p i m.F lss d m i p p f y.P y u d f f a S a l A y a l a f p e i p p l m d ( v a a p e.B.E.S d e c l A d A F y A d P R e D d H l O d y P l O d C d P R y.E 8 S a e A 2 d l L 8 s e]
+[DELETED: 1)C d D a l a e l L 7 s e E c s u d)C g d B e C d C S d I d l I I o A d E c S d I o c d o p d d o s e á d i o p c r e c g d p)F.E e D e c d s s a l r y d P R I a T S (.A l i d r s d i]
+[DELETED: 1.S p e P R I a T S)y .M u i a d i t d y c c P l e d n i c a l d y s d.E d d y c c P e l e d e c a l d y d e p d.S e d c y e d l d d D.D]
+[DELETED: 1.Rlc ,.E s l m s c c y d d P q m s y f s l á d t e C i c P L O d S d d D d E y e O P d I s a l p p l e l g o l G ( a a d l L 7 s e E.N d b d d s p r d o s t d D]
+[DELETED: 1 P y d e c a l p y.N r a t d i y c e l s a n s c c p d r e y c c P e l L 7 y l r g y e.E r t i d d i.E O P d I f c e o d s c o y e c p d e L f d n p u T d]
+[DELETED: 1]

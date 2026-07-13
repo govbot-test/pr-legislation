@@ -1,0 +1,144 @@
+Title: Para enmendar la Sección 1052.01 (b) de la Ley 1-2011, según enmendada, conocida
+Official Title: Para enmendar la Sección 1052.01 (b) de la Ley 1-2011, según enmendada, conocida
+Number of Sections: 1
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+(P. del S. 244)
+LEY
+como “Código de Rentas Internas para un Nuevo Puerto Rico” a los fines de
+realizar una enmienda técnica que permita la más efectiva implementación del
+Crédito por Trabajo (“Earned Income Tax Credit”) del Código de Rentas Internas
+federal, según este fue extendido a Puerto Rico en virtud de la Ley Pública 117-2,
+conocida como el American Rescue Plan Act of 2021; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El 11 de marzo de 2021, el presidente de los Estados Unidos, Joe Biden firmó la
+Ley del Plan de Rescate Estadounidense. Mediante la misma, se aprobó un histórico
+paquete de alivios económicos extensivos a la ciudadanía en general. Más aún, dicha
+medida hizo extensiva la aplicación del Crédito por Trabajo hacia nuestros ciudadanos
+de una manera sin precedentes en nuestra historia. A través de ella, se le hace justicia a
+nuestros hermanos puertorriqueños que cohabitamos en este archipiélago.
+Insistentemente, nuestra Administración ha sido proactiva, logrando promover
+legislación, de la mano de la Asamblea Legislativa, que permita la extensión de dichos
+beneficios, los cuales otorgarán a nuestros ciudadanos sobre $800 millones anuales,
+sujetos a aumentos por inflación. A tenor con esto, mediante la firma de la Ley 41-2021.
+aseguramos que el dinero en manos de nuestros trabajadores produzca el efecto
+esperado a la hora de la aprobación de dichas disposiciones. No obstante, es deber de
+esta Asamblea Legislativa asegurarse que las leyes aprobadas puedan ser ejecutadas
+adecuadamente.
+Revisada la Ley aprobada, entendemos necesario presentar una enmienda
+técnica, en aras de corregir la referencia correcta dentro de las declaraciones
+informativas como evidencia del ingreso bruto ganado al que puede aplicar el Crédito
+por Trabajo. Fomentamos, con esta enmienda, una adecuada ejecución de las
+disposiciones aprobadas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Se enmienda el apartado (b) de la Sección 1052.01 de la Ley 1-2011,
+según enmendada, conocida como “Código de Rentas Internas para un Nuevo Puerto
+Rico”, para que se lea como sigue:
+“Sección 1052.01. — Crédito por Trabajo (“Earned Income Tax Credit”).
+(a) …
+2
+(b) Ingreso bruto ganado. — Para fines de esta sección, el término “ingreso
+bruto ganado” incluye salarios, sueldos, propinas, pensiones, toda
+remuneración por servicios prestados por un(a) empleado(a) para su
+patrono(a), sean exentos o tributables, u otra compensación
+proveniente de la prestación de servicios como empleado(a), pero
+solamente si dichas cantidades se incluyen en el ingreso bruto para el
+año contributivo, siempre y cuando dichas cantidades estén
+debidamente informadas en un comprobante de retención requerido
+bajo la Sección 1062.01(n)(2) estén o no sujetos a retención o
+declaración informativa emitida bajo la Sección 1081.01 de este Código,
+o en el caso de pensionados del gobierno federal, las cantidades de
+pensiones informadas en el Formulario 1099-R o cualquier otro
+formulario utilizado para dichos propósitos por el gobierno federal.
+Disponiéndose que, para propósitos del párrafo (5) del apartado (a), el
+término “ingreso bruto ganado” incluye, además, ingreso proveniente
+por una industria, negocio por cuenta propia o una actividad para la
+producción de ingresos por una persona residente de Puerto Rico que
+esté en cumplimiento con la Sección 4060.01 de este Código, y cuyo
+ingreso esté sujeto a la contribución de seguro social a nivel federal y
+dichos ingresos estén debidamente informados en una declaración
+informativa emitida bajo la Sección 1062.03, 1063.01 o 1063.15 de este
+Código y reportados en la Planilla de Contribución sobre Ingresos
+como ingresos sujetos a contribución.
+(c) …
+…”
+Artículo 2.-Vigencia
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:  e l S 1 ( d l L 1 s e c “ d R I p u N P R a l f d u e t q p l m e i d ; d M l c o a n c s $ m a q e d e m d n t p e e A L a q l l a p s e l L a e n p u e e a d c l r c d d l d T  F c e e u a e d l)…]
+[DELETED: )I g i s s p p t s e o t u o c d l p d s c e p c s y c d c e i e u c d r r l S 1 e o n s a r o e e c d p d g f l c d i e e F 1 o c o u p d p p e g f e c c l S 4 d e C y c i e d i e u d y r e l P d C s I)…AE]
+
+
+================================================================================
+
+Raw Text:
+(P. del S. 244)
+LEY
+Para enmendar la Sección 1052.01 (b) de la Ley 1-2011, según enmendada, conocida
+como “Código de Rentas Internas para un Nuevo Puerto Rico” a los fines de
+realizar una enmienda técnica que permita la más efectiva implementación del
+Crédito por Trabajo (“Earned Income Tax Credit”) del Código de Rentas Internas
+federal, según este fue extendido a Puerto Rico en virtud de la Ley Pública 117-2,
+conocida como el American Rescue Plan Act of 2021; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El 11 de marzo de 2021, el presidente de los Estados Unidos, Joe Biden firmó la
+Ley del Plan de Rescate Estadounidense. Mediante la misma, se aprobó un histórico
+paquete de alivios económicos extensivos a la ciudadanía en general. Más aún, dicha
+medida hizo extensiva la aplicación del Crédito por Trabajo hacia nuestros ciudadanos
+de una manera sin precedentes en nuestra historia. A través de ella, se le hace justicia a
+nuestros hermanos puertorriqueños que cohabitamos en este archipiélago.
+Insistentemente, nuestra Administración ha sido proactiva, logrando promover
+legislación, de la mano de la Asamblea Legislativa, que permita la extensión de dichos
+beneficios, los cuales otorgarán a nuestros ciudadanos sobre $800 millones anuales,
+sujetos a aumentos por inflación. A tenor con esto, mediante la firma de la Ley 41-2021.
+aseguramos que el dinero en manos de nuestros trabajadores produzca el efecto
+esperado a la hora de la aprobación de dichas disposiciones. No obstante, es deber de
+esta Asamblea Legislativa asegurarse que las leyes aprobadas puedan ser ejecutadas
+adecuadamente.
+Revisada la Ley aprobada, entendemos necesario presentar una enmienda
+técnica, en aras de corregir la referencia correcta dentro de las declaraciones
+informativas como evidencia del ingreso bruto ganado al que puede aplicar el Crédito
+por Trabajo. Fomentamos, con esta enmienda, una adecuada ejecución de las
+disposiciones aprobadas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Se enmienda el apartado (b) de la Sección 1052.01 de la Ley 1-2011,
+según enmendada, conocida como “Código de Rentas Internas para un Nuevo Puerto
+Rico”, para que se lea como sigue:
+“Sección 1052.01. — Crédito por Trabajo (“Earned Income Tax Credit”).
+(a) …
+
+2
+(b) Ingreso bruto ganado. — Para fines de esta sección, el término “ingreso
+bruto ganado” incluye salarios, sueldos, propinas, pensiones, toda
+remuneración por servicios prestados por un(a) empleado(a) para su
+patrono(a), sean exentos o tributables, u otra compensación
+proveniente de la prestación de servicios como empleado(a), pero
+solamente si dichas cantidades se incluyen en el ingreso bruto para el
+año contributivo, siempre y cuando dichas cantidades estén
+debidamente informadas en un comprobante de retención requerido
+bajo la Sección 1062.01(n)(2) estén o no sujetos a retención o
+declaración informativa emitida bajo la Sección 1081.01 de este Código,
+o en el caso de pensionados del gobierno federal, las cantidades de
+pensiones informadas en el Formulario 1099-R o cualquier otro
+formulario utilizado para dichos propósitos por el gobierno federal.
+Disponiéndose que, para propósitos del párrafo (5) del apartado (a), el
+término “ingreso bruto ganado” incluye, además, ingreso proveniente
+por una industria, negocio por cuenta propia o una actividad para la
+producción de ingresos por una persona residente de Puerto Rico que
+esté en cumplimiento con la Sección 4060.01 de este Código, y cuyo
+ingreso esté sujeto a la contribución de seguro social a nivel federal y
+dichos ingresos estén debidamente informados en una declaración
+informativa emitida bajo la Sección 1062.03, 1063.01 o 1063.15 de este
+Código y reportados en la Planilla de Contribución sobre Ingresos
+como ingresos sujetos a contribución.
+(c) …
+…”
+Artículo 2.-Vigencia
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:  e l S 1 ( d l L 1 s e c “ d R I p u N P R a l f d u e t q p l m e i d ; d M l c o a n c s $ m a q e d e m d n t p e e A L a q l l a p s e l L a e n p u e e a d c l r c d d l d T  F c e e u a e d l)…]
+[DELETED: )I g i s s p p t s e o t u o c d l p d s c e p c s y c d c e i e u c d r r l S 1 e o n s a r o e e c d p d g f l c d i e e F 1 o c o u p d p p e g f e c c l S 4 d e C y c i e d i e u d y r e l P d C s I)…AE]

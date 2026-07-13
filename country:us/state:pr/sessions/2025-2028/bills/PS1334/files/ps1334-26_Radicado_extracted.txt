@@ -1,0 +1,386 @@
+Title: Para enmendar las Secciones 6 y 9, y añadir una nueva Sección 9A a la Ley Núm. 2 de
+Official Title: Para enmendar las Secciones 6 y 9, y añadir una nueva Sección 9A a la Ley Núm. 2 de
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1334
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+17 de octubre de 1961, según enmendada, conocida como “Ley de Procedimiento Sumario
+de Reclamaciones Laborales”, a los fines de aclarar la improcedencia de mociones de
+reconsideración y los efectos de las mociones de relevo de sentencia en procedimientos
+sumarios laborales; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 2 de 17 de octubre de 1961, según enmendada, conocida como “Ley de
+Procedimiento Sumario de Reclamaciones Laborales”, fue aprobada para proveer un
+mecanismo rápido, sencillo y eficaz mediante el cual obreros y empleados puedan
+reclamar contra sus patronos derechos, beneficios, salarios, compensaciones o remedios
+laborales reconocidos por ley. Su carácter sumario responde a una política pública clara:
+evitar dilaciones innecesarias en reclamaciones laborales y asegurar que los derechos de
+las personas trabajadoras sean adjudicados con prontitud.
+La naturaleza sumaria de la Ley Núm. 2 exige que las reglas procesales ordinarias se
+apliquen únicamente en la medida en que no conflijan con sus disposiciones específicas
+ni con el propósito de celeridad que la anima. Por esa razón, el ordenamiento vigente
+reconoce términos abreviados para contestar la querella, limita ciertos mecanismos
+2
+procesales, restringe la presentación de reconvenciones y establece términos
+jurisdiccionales cortos para revisar las sentencias dictadas bajo dicho procedimiento.
+No obstante, la práctica litigiosa ha generado controversias recurrentes sobre la
+disponibilidad y efecto de mociones posteriores a sentencia en casos tramitados bajo la
+Ley Núm. 2. En particular, han surgido dudas sobre si procede una moción de
+reconsideración contra una sentencia dictada en un procedimiento sumario laboral y
+sobre si la mera presentación de una moción de relevo de sentencia tiene el efecto de
+interrumpir términos apelativos, prescriptivos o de caducidad.
+El Tribunal Supremo de Puerto Rico atendió recientemente estas controversias en
+Flores Reyes v. Prestress Manufacturing Corp., 2026 TSPR 53. En dicho caso, el Tribunal
+reiteró que la moción de reconsideración es incompatible con el procedimiento sumario
+laboral de la Ley Núm. 2. Asimismo, aclaró que la mera presentación de una moción de
+relevo de sentencia no interrumpe los términos prescriptivos, salvo cuando el resultado
+de dicha moción sea favorable para la parte peticionaria.
+Esta Asamblea Legislativa entiende necesario codificar dichas normas para promover
+certeza procesal y evitar litigios innecesarios sobre términos. Esta Ley no pretende limitar
+la facultad del Tribunal de Primera Instancia para conceder relevo de sentencia cuando
+proceda conforme a la Ley Núm. 2 y a la Regla 49.2 de Procedimiento Civil. Tampoco
+pretende restringir el derecho de una parte perjudicada a presentar oportunamente los
+recursos de revisión disponibles. Su propósito es aclarar qué mociones posteriores a
+sentencia proceden, cuáles no proceden y qué efecto tienen sobre los términos apelativos,
+prescriptivos o de caducidad.
+En consecuencia, esta Ley establece expresamente que no procederán mociones de
+reconsideración contra sentencias, resoluciones u órdenes finales dictadas bajo el
+procedimiento sumario laboral. También aclara que la moción de relevo de sentencia,
+aunque puede presentarse en los términos y bajo los requisitos estrictos de la Ley Núm.
+2, no interrumpe, suspende ni extiende los términos apelativos, prescriptivos o de
+caducidad por el solo hecho de ser presentada. Solo cuando dicha moción sea concedida
+3
+y tenga el efecto de dejar sin efecto, modificar o sustituir la sentencia, los términos se
+computarán conforme a la nueva determinación judicial, según corresponda.
+De igual forma, esta Ley atiende una referencia interna del texto vigente de la Ley
+Núm. 2 que, tras enmiendas y reenumeraciones previas, puede generar confusión. Al
+aclarar que el relevo de sentencia aplica a las sentencias dictadas bajo la Ley Núm. 2, se
+evita una lectura restrictiva o técnicamente defectuosa de la disposición vigente.
+Por todo lo anterior, esta Asamblea Legislativa estima necesario enmendar la Ley
+Núm. 2 de 17 de octubre de 1961, según enmendada, para codificar expresamente la
+improcedencia de mociones de reconsideración, aclarar los efectos de las mociones de
+relevo de sentencia y fortalecer la certeza procesal en el procedimiento sumario de
+reclamaciones laborales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se enmienda la Sección 6 de la Ley Núm. 2 de 17 de octubre de 1961,
+2 según enmendada, conocida como “Ley de Procedimiento Sumario de Reclamaciones
+3 Laborales”, para que lea como sigue:
+4 “Sección 6. — Relevo de sentencia.
+5 Cuando se dicte sentencia bajo esta Ley, el tribunal conservará la discreción que le
+6 concede la Regla 49.2 de Procedimiento Civil para el Tribunal General de Justicia en casos
+7 de error, inadvertencia, sorpresa, excusable negligencia y/o fraude, pero la moción
+8 invocando dicha discreción deberá radicarse dentro del término de sesenta (60) días de
+9 notificada la sentencia a las partes y deberán exponerse en la misma, bajo juramento, los
+10 motivos en que se funda la solicitud. De no radicarse dicha moción dentro del término y
+11 en la forma aquí dispuestos, el tribunal deberá declararla sin lugar de plano.
+4
+1 La presentación de una moción de relevo de sentencia al amparo de esta Sección no tendrá
+2 el efecto de interrumpir, suspender o extender los términos jurisdiccionales para recurrir en
+3 apelación o certiorari, ni los términos prescriptivos o de caducidad aplicables a la reclamación
+4 laboral, salvo que dicha moción sea concedida y su resultado sea favorable para la parte
+5 peticionaria.
+6 Cuando el tribunal conceda una moción de relevo de sentencia y deje sin efecto, modifique
+7 o sustituya la sentencia previamente notificada, los términos apelativos, prescriptivos o de
+8 caducidad se computarán a partir de la notificación de la nueva sentencia, resolución u orden, en
+9 la medida que ello proceda conforme al alcance del relevo concedido y al derecho aplicable.
+10 Nada de lo dispuesto en esta Sección se interpretará como una autorización para presentar
+11 mociones de reconsideración en procedimientos tramitados al amparo de esta Ley.”
+12 Artículo 2.- Se enmienda la Sección 9 de la Ley Núm. 2 de 17 de octubre de 1961,
+13 según enmendada, conocida como “Ley de Procedimiento Sumario de Reclamaciones
+14 Laborales”, para que lea como sigue:
+15 “Sección 9. — Revisión apelativa.
+16 Cualquiera de las partes que se considere perjudicada por la sentencia emitida por
+17 el Tribunal de Primera Instancia podrá interponer recurso de apelación ante el Tribunal
+18 de Apelaciones, en el término jurisdiccional de diez (10) días, computados a partir de la
+19 notificación de la sentencia del Tribunal de Primera Instancia.
+20 No procederán mociones de reconsideración contra sentencias, resoluciones u órdenes
+21 finales dictadas en procedimientos tramitados al amparo de esta Ley. La presentación de una
+5
+1 moción titulada o sustanciada como reconsideración no interrumpirá, suspenderá, extenderá ni
+2 reiniciará el término jurisdiccional para acudir en revisión apelativa.
+3 La parte que se considere perjudicada por la sentencia que emita el Tribunal de
+4 Apelaciones, podrá acudir mediante auto de Certiorari al Tribunal Supremo de Puerto
+5 Rico, en el término jurisdiccional de veinte (20) días, contados a partir de la notificación
+6 de la sentencia o resolución del Tribunal de Apelaciones.
+7 Los términos dispuestos en esta Sección serán jurisdiccionales y se computarán conforme
+8 a la fecha de notificación de la sentencia o resolución correspondiente, sin perjuicio de lo dispuesto
+9 en la Sección 6 de esta Ley respecto a una moción de relevo de sentencia concedida favorablemente.”
+10 Artículo 3.- Se añade una nueva Sección 9A a la Ley Núm. 2 de 17 de octubre de
+11 1961, según enmendada, conocida como “Ley de Procedimiento Sumario de
+12 Reclamaciones Laborales”, para que lea como sigue:
+13 “Sección 9A. — Mociones posteriores a sentencia y efectos procesales.
+14 En los procedimientos tramitados al amparo de esta Ley, las mociones posteriores a
+15 sentencia se regirán por las siguientes normas:
+16 (a) No procederán mociones de reconsideración contra sentencias, resoluciones u órdenes
+17 finales dictadas en procedimientos tramitados al amparo de esta Ley. La presentación de una
+18 moción titulada o sustanciada como reconsideración no interrumpirá, suspenderá, extenderá ni
+19 reiniciará los términos jurisdiccionales establecidos en esta Ley.
+20 (b) La moción de relevo de sentencia solo procederá conforme a los requisitos, fundamentos,
+21 forma y término dispuestos en la Sección 6 de esta Ley y en la medida en que sea compatible con el
+22 carácter sumario del procedimiento.
+6
+1 (c) La mera presentación de una moción de relevo de sentencia no afectará la finalidad de
+2 la sentencia, no suspenderá su ejecutividad y no interrumpirá, suspenderá, extenderá ni reiniciará
+3 los términos jurisdiccionales para recurrir en revisión apelativa.
+4 (d) La mera presentación de una moción de relevo de sentencia tampoco interrumpirá,
+5 suspenderá, extenderá ni reiniciará términos prescriptivos o de caducidad aplicables a una
+6 reclamación laboral, a una nueva reclamación presentada luego de una desestimación sin perjuicio,
+7 o a cualquier reclamación relacionada, salvo que la moción sea concedida y su resultado sea
+8 favorable para la parte peticionaria.
+9 (e) Cuando una moción de relevo de sentencia sea concedida y el tribunal deje sin efecto,
+10 modifique o sustituya la sentencia, los términos apelativos, prescriptivos o de caducidad se
+11 computarán desde la notificación de la nueva sentencia, resolución u orden, en la medida que ello
+12 proceda conforme al alcance del relevo concedido y al derecho aplicable.
+13 (f) Ninguna moción posterior a sentencia podrá utilizarse para evadir los términos
+14 jurisdiccionales establecidos en esta Ley, extender artificialmente la naturaleza sumaria del
+15 procedimiento o reabrir asuntos que debieron plantearse mediante el recurso apelativo
+16 correspondiente.
+17 (g) Nada de lo dispuesto en esta Sección limitará la facultad del tribunal para corregir
+18 errores de forma, clericales o de transcripción conforme a las reglas procesales aplicables, siempre
+19 que dicha corrección no altere sustancialmente los derechos adjudicados ni tenga el efecto de
+20 reiniciar términos jurisdiccionales, salvo disposición expresa de ley.”
+21 Artículo 4.- Aplicabilidad.
+7
+1 Las disposiciones de esta Ley aplicarán a las sentencias, resoluciones u órdenes
+2 finales notificadas en procedimientos tramitados al amparo de la Ley Núm. 2 de 17 de
+3 octubre de 1961, según enmendada, a partir de la fecha de vigencia de esta Ley.
+4 Nada de lo dispuesto en esta Ley se interpretará como una autorización para revivir
+5 términos apelativos, prescriptivos o de caducidad vencidos antes de su vigencia.
+6 Nada de lo dispuesto en esta Ley se interpretará como una limitación a la
+7 aplicación de normas jurisprudenciales vigentes a casos pendientes.
+8 Artículo 5.- Cláusula de interpretación.
+9 Esta Ley se interpretará de conformidad con el carácter sumario de la Ley Núm. 2
+10 de 17 de octubre de 1961, según enmendada, y con el propósito de asegurar la resolución
+11 rápida, justa y eficiente de las reclamaciones laborales.
+12 Nada de lo dispuesto en esta Ley se interpretará como una limitación a la facultad
+13 del Tribunal de Primera Instancia para conceder relevo de sentencia cuando proceda
+14 conforme a la Sección 6 de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, y
+15 a la Regla 49.2 de Procedimiento Civil.
+16 Tampoco se interpretará esta Ley como una limitación al derecho de una parte
+17 perjudicada a acudir oportunamente en revisión apelativa dentro de los términos
+18 jurisdiccionales dispuestos por la Ley Núm. 2 de 17 de octubre de 1961, según
+19 enmendada.
+20 Artículo 6.- Separabilidad.
+21 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+22 disposición, sección, inciso o parte de esta Ley fuera anulada o declarada inconstitucional,
+8
+1 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará las demás
+2 disposiciones de esta Ley.
+3 Artículo 7.- Vigencia.
+4 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+[DELETED: 0 A 3 .rL   S d R L f a p p u r s y e m e c o y e p t a p c l q l c m]
+[DELETED:  r l p d r y e t o l p l h g c r s l N 2 E p h s d s s p u m d s d r d S p e a q m p a c s r u ó f d b e n i s n e l t a p o d]
+[DELETED:  d s y f l c p e e p s d C e i s e n y f p l m]
+[DELETED:  L e e d i s o e l t j p r e a l s q d m s c y s r s f p l p p C o s l s p n l t a p o d c l N m N p m d r c s r u ó f a]
+[DELETED:  m r L a e s e c c “ d P S d “ E l p t a a d e L l m p a s ( f a m r ( f c]
+[DELETED:  ( l l ( s e n r t p o d c a a u r o a c r r s q l m s c y s r s f ( m o s l s l t a p o d c s c p ( N m p a s p u p e l t j e e e L e a l n s d p o r a q d p m e r a c ( e q d c n a s l d a n t e e d r]
+[DELETED:  d l d e e L s i c u l a l a a o e r a d d l t d p l L N 2 d 1 d o d 1 s c c p s o p l a]
+[DELETED:  s d a e e n a p n i l d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1334
+29 de junio de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para enmendar las Secciones 6 y 9, y añadir una nueva Sección 9A a la Ley Núm. 2 de
+17 de octubre de 1961, según enmendada, conocida como “Ley de Procedimiento Sumario
+de Reclamaciones Laborales”, a los fines de aclarar la improcedencia de mociones de
+reconsideración y los efectos de las mociones de relevo de sentencia en procedimientos
+sumarios laborales; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 2 de 17 de octubre de 1961, según enmendada, conocida como “Ley de
+Procedimiento Sumario de Reclamaciones Laborales”, fue aprobada para proveer un
+mecanismo rápido, sencillo y eficaz mediante el cual obreros y empleados puedan
+reclamar contra sus patronos derechos, beneficios, salarios, compensaciones o remedios
+laborales reconocidos por ley. Su carácter sumario responde a una política pública clara:
+evitar dilaciones innecesarias en reclamaciones laborales y asegurar que los derechos de
+las personas trabajadoras sean adjudicados con prontitud.
+La naturaleza sumaria de la Ley Núm. 2 exige que las reglas procesales ordinarias se
+apliquen únicamente en la medida en que no conflijan con sus disposiciones específicas
+ni con el propósito de celeridad que la anima. Por esa razón, el ordenamiento vigente
+reconoce términos abreviados para contestar la querella, limita ciertos mecanismos
+
+2
+procesales, restringe la presentación de reconvenciones y establece términos
+jurisdiccionales cortos para revisar las sentencias dictadas bajo dicho procedimiento.
+No obstante, la práctica litigiosa ha generado controversias recurrentes sobre la
+disponibilidad y efecto de mociones posteriores a sentencia en casos tramitados bajo la
+Ley Núm. 2. En particular, han surgido dudas sobre si procede una moción de
+reconsideración contra una sentencia dictada en un procedimiento sumario laboral y
+sobre si la mera presentación de una moción de relevo de sentencia tiene el efecto de
+interrumpir términos apelativos, prescriptivos o de caducidad.
+El Tribunal Supremo de Puerto Rico atendió recientemente estas controversias en
+Flores Reyes v. Prestress Manufacturing Corp., 2026 TSPR 53. En dicho caso, el Tribunal
+reiteró que la moción de reconsideración es incompatible con el procedimiento sumario
+laboral de la Ley Núm. 2. Asimismo, aclaró que la mera presentación de una moción de
+relevo de sentencia no interrumpe los términos prescriptivos, salvo cuando el resultado
+de dicha moción sea favorable para la parte peticionaria.
+Esta Asamblea Legislativa entiende necesario codificar dichas normas para promover
+certeza procesal y evitar litigios innecesarios sobre términos. Esta Ley no pretende limitar
+la facultad del Tribunal de Primera Instancia para conceder relevo de sentencia cuando
+proceda conforme a la Ley Núm. 2 y a la Regla 49.2 de Procedimiento Civil. Tampoco
+pretende restringir el derecho de una parte perjudicada a presentar oportunamente los
+recursos de revisión disponibles. Su propósito es aclarar qué mociones posteriores a
+sentencia proceden, cuáles no proceden y qué efecto tienen sobre los términos apelativos,
+prescriptivos o de caducidad.
+En consecuencia, esta Ley establece expresamente que no procederán mociones de
+reconsideración contra sentencias, resoluciones u órdenes finales dictadas bajo el
+procedimiento sumario laboral. También aclara que la moción de relevo de sentencia,
+aunque puede presentarse en los términos y bajo los requisitos estrictos de la Ley Núm.
+2, no interrumpe, suspende ni extiende los términos apelativos, prescriptivos o de
+caducidad por el solo hecho de ser presentada. Solo cuando dicha moción sea concedida
+
+3
+y tenga el efecto de dejar sin efecto, modificar o sustituir la sentencia, los términos se
+computarán conforme a la nueva determinación judicial, según corresponda.
+De igual forma, esta Ley atiende una referencia interna del texto vigente de la Ley
+Núm. 2 que, tras enmiendas y reenumeraciones previas, puede generar confusión. Al
+aclarar que el relevo de sentencia aplica a las sentencias dictadas bajo la Ley Núm. 2, se
+evita una lectura restrictiva o técnicamente defectuosa de la disposición vigente.
+Por todo lo anterior, esta Asamblea Legislativa estima necesario enmendar la Ley
+Núm. 2 de 17 de octubre de 1961, según enmendada, para codificar expresamente la
+improcedencia de mociones de reconsideración, aclarar los efectos de las mociones de
+relevo de sentencia y fortalecer la certeza procesal en el procedimiento sumario de
+reclamaciones laborales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se enmienda la Sección 6 de la Ley Núm. 2 de 17 de octubre de 1961,
+2 según enmendada, conocida como “Ley de Procedimiento Sumario de Reclamaciones
+3 Laborales”, para que lea como sigue:
+4 “Sección 6. — Relevo de sentencia.
+5 Cuando se dicte sentencia bajo esta Ley, el tribunal conservará la discreción que le
+6 concede la Regla 49.2 de Procedimiento Civil para el Tribunal General de Justicia en casos
+7 de error, inadvertencia, sorpresa, excusable negligencia y/o fraude, pero la moción
+8 invocando dicha discreción deberá radicarse dentro del término de sesenta (60) días de
+9 notificada la sentencia a las partes y deberán exponerse en la misma, bajo juramento, los
+10 motivos en que se funda la solicitud. De no radicarse dicha moción dentro del término y
+11 en la forma aquí dispuestos, el tribunal deberá declararla sin lugar de plano.
+
+4
+1 La presentación de una moción de relevo de sentencia al amparo de esta Sección no tendrá
+2 el efecto de interrumpir, suspender o extender los términos jurisdiccionales para recurrir en
+3 apelación o certiorari, ni los términos prescriptivos o de caducidad aplicables a la reclamación
+4 laboral, salvo que dicha moción sea concedida y su resultado sea favorable para la parte
+5 peticionaria.
+6 Cuando el tribunal conceda una moción de relevo de sentencia y deje sin efecto, modifique
+7 o sustituya la sentencia previamente notificada, los términos apelativos, prescriptivos o de
+8 caducidad se computarán a partir de la notificación de la nueva sentencia, resolución u orden, en
+9 la medida que ello proceda conforme al alcance del relevo concedido y al derecho aplicable.
+10 Nada de lo dispuesto en esta Sección se interpretará como una autorización para presentar
+11 mociones de reconsideración en procedimientos tramitados al amparo de esta Ley.”
+12 Artículo 2.- Se enmienda la Sección 9 de la Ley Núm. 2 de 17 de octubre de 1961,
+13 según enmendada, conocida como “Ley de Procedimiento Sumario de Reclamaciones
+14 Laborales”, para que lea como sigue:
+15 “Sección 9. — Revisión apelativa.
+16 Cualquiera de las partes que se considere perjudicada por la sentencia emitida por
+17 el Tribunal de Primera Instancia podrá interponer recurso de apelación ante el Tribunal
+18 de Apelaciones, en el término jurisdiccional de diez (10) días, computados a partir de la
+19 notificación de la sentencia del Tribunal de Primera Instancia.
+20 No procederán mociones de reconsideración contra sentencias, resoluciones u órdenes
+21 finales dictadas en procedimientos tramitados al amparo de esta Ley. La presentación de una
+
+5
+1 moción titulada o sustanciada como reconsideración no interrumpirá, suspenderá, extenderá ni
+2 reiniciará el término jurisdiccional para acudir en revisión apelativa.
+3 La parte que se considere perjudicada por la sentencia que emita el Tribunal de
+4 Apelaciones, podrá acudir mediante auto de Certiorari al Tribunal Supremo de Puerto
+5 Rico, en el término jurisdiccional de veinte (20) días, contados a partir de la notificación
+6 de la sentencia o resolución del Tribunal de Apelaciones.
+7 Los términos dispuestos en esta Sección serán jurisdiccionales y se computarán conforme
+8 a la fecha de notificación de la sentencia o resolución correspondiente, sin perjuicio de lo dispuesto
+9 en la Sección 6 de esta Ley respecto a una moción de relevo de sentencia concedida favorablemente.”
+10 Artículo 3.- Se añade una nueva Sección 9A a la Ley Núm. 2 de 17 de octubre de
+11 1961, según enmendada, conocida como “Ley de Procedimiento Sumario de
+12 Reclamaciones Laborales”, para que lea como sigue:
+13 “Sección 9A. — Mociones posteriores a sentencia y efectos procesales.
+14 En los procedimientos tramitados al amparo de esta Ley, las mociones posteriores a
+15 sentencia se regirán por las siguientes normas:
+16 (a) No procederán mociones de reconsideración contra sentencias, resoluciones u órdenes
+17 finales dictadas en procedimientos tramitados al amparo de esta Ley. La presentación de una
+18 moción titulada o sustanciada como reconsideración no interrumpirá, suspenderá, extenderá ni
+19 reiniciará los términos jurisdiccionales establecidos en esta Ley.
+20 (b) La moción de relevo de sentencia solo procederá conforme a los requisitos, fundamentos,
+21 forma y término dispuestos en la Sección 6 de esta Ley y en la medida en que sea compatible con el
+22 carácter sumario del procedimiento.
+
+6
+1 (c) La mera presentación de una moción de relevo de sentencia no afectará la finalidad de
+2 la sentencia, no suspenderá su ejecutividad y no interrumpirá, suspenderá, extenderá ni reiniciará
+3 los términos jurisdiccionales para recurrir en revisión apelativa.
+4 (d) La mera presentación de una moción de relevo de sentencia tampoco interrumpirá,
+5 suspenderá, extenderá ni reiniciará términos prescriptivos o de caducidad aplicables a una
+6 reclamación laboral, a una nueva reclamación presentada luego de una desestimación sin perjuicio,
+7 o a cualquier reclamación relacionada, salvo que la moción sea concedida y su resultado sea
+8 favorable para la parte peticionaria.
+9 (e) Cuando una moción de relevo de sentencia sea concedida y el tribunal deje sin efecto,
+10 modifique o sustituya la sentencia, los términos apelativos, prescriptivos o de caducidad se
+11 computarán desde la notificación de la nueva sentencia, resolución u orden, en la medida que ello
+12 proceda conforme al alcance del relevo concedido y al derecho aplicable.
+13 (f) Ninguna moción posterior a sentencia podrá utilizarse para evadir los términos
+14 jurisdiccionales establecidos en esta Ley, extender artificialmente la naturaleza sumaria del
+15 procedimiento o reabrir asuntos que debieron plantearse mediante el recurso apelativo
+16 correspondiente.
+17 (g) Nada de lo dispuesto en esta Sección limitará la facultad del tribunal para corregir
+18 errores de forma, clericales o de transcripción conforme a las reglas procesales aplicables, siempre
+19 que dicha corrección no altere sustancialmente los derechos adjudicados ni tenga el efecto de
+20 reiniciar términos jurisdiccionales, salvo disposición expresa de ley.”
+21 Artículo 4.- Aplicabilidad.
+
+7
+1 Las disposiciones de esta Ley aplicarán a las sentencias, resoluciones u órdenes
+2 finales notificadas en procedimientos tramitados al amparo de la Ley Núm. 2 de 17 de
+3 octubre de 1961, según enmendada, a partir de la fecha de vigencia de esta Ley.
+4 Nada de lo dispuesto en esta Ley se interpretará como una autorización para revivir
+5 términos apelativos, prescriptivos o de caducidad vencidos antes de su vigencia.
+6 Nada de lo dispuesto en esta Ley se interpretará como una limitación a la
+7 aplicación de normas jurisprudenciales vigentes a casos pendientes.
+8 Artículo 5.- Cláusula de interpretación.
+9 Esta Ley se interpretará de conformidad con el carácter sumario de la Ley Núm. 2
+10 de 17 de octubre de 1961, según enmendada, y con el propósito de asegurar la resolución
+11 rápida, justa y eficiente de las reclamaciones laborales.
+12 Nada de lo dispuesto en esta Ley se interpretará como una limitación a la facultad
+13 del Tribunal de Primera Instancia para conceder relevo de sentencia cuando proceda
+14 conforme a la Sección 6 de la Ley Núm. 2 de 17 de octubre de 1961, según enmendada, y
+15 a la Regla 49.2 de Procedimiento Civil.
+16 Tampoco se interpretará esta Ley como una limitación al derecho de una parte
+17 perjudicada a acudir oportunamente en revisión apelativa dentro de los términos
+18 jurisdiccionales dispuestos por la Ley Núm. 2 de 17 de octubre de 1961, según
+19 enmendada.
+20 Artículo 6.- Separabilidad.
+21 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+22 disposición, sección, inciso o parte de esta Ley fuera anulada o declarada inconstitucional,
+
+8
+1 la sentencia dictada a esos efectos no afectará, perjudicará ni invalidará las demás
+2 disposiciones de esta Ley.
+3 Artículo 7.- Vigencia.
+4 Esta Ley comenzará a regir noventa (90) días después de su aprobación.
+
+[DELETED: 0 A 3 .rL   S d R L f a p p u r s y e m e c o y e p t a p c l q l c m]
+[DELETED:  r l p d r y e t o l p l h g c r s l N 2 E p h s d s s p u m d s d r d S p e a q m p a c s r u ó f d b e n i s n e l t a p o d]
+[DELETED:  d s y f l c p e e p s d C e i s e n y f p l m]
+[DELETED:  L e e d i s o e l t j p r e a l s q d m s c y s r s f p l p p C o s l s p n l t a p o d c l N m N p m d r c s r u ó f a]
+[DELETED:  m r L a e s e c c “ d P S d “ E l p t a a d e L l m p a s ( f a m r ( f c]
+[DELETED:  ( l l ( s e n r t p o d c a a u r o a c r r s q l m s c y s r s f ( m o s l s l t a p o d c s c p ( N m p a s p u p e l t j e e e L e a l n s d p o r a q d p m e r a c ( e q d c n a s l d a n t e e d r]
+[DELETED:  d l d e e L s i c u l a l a a o e r a d d l t d p l L N 2 d 1 d o d 1 s c c p s o p l a]
+[DELETED:  s d a e e n a p n i l d]

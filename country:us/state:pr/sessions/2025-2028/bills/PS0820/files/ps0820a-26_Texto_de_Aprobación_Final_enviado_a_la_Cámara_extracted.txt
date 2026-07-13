@@ -1,0 +1,494 @@
+Title: Referido a las Comisiones de Educación, Arte y Cultura; y de Ciencia, Tecnología e Inteligencia
+Official Title: Referido a las Comisiones de Educación, Arte y Cultura; y de Ciencia, Tecnología e Inteligencia
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(26 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 820
+16 de octubre de 2025
+Presentado por la señora Pérez Soto
+Artificial
+LEY
+Para crear la “Ley de Alfabetización Mediática e Informacional de Puerto Rico” con el
+fin de garantizar que el estudiantado del sistema público de enseñanza desarrolle
+competencias de alfabetización mediática y digital donde se fomente el uso
+responsable de la tecnología y de la inteligencia artificial (IA), y fortalecer la
+resiliencia ciudadana ante la desinformación y manipulación digital; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La expansión de los medios digitales y de la inteligencia artificial ha transformado
+radicalmente la forma en que la sociedad accede produce y comparte información. En
+este entorno de inmediatez y viralización, la ciudadanía se enfrenta a un flujo constante
+de información falsa o manipulada que compromete la capacidad colectiva para tomar
+decisiones informadas y participar responsablemente en la vida democrática.
+El fenómeno de la desinformación digital constituye uno de los mayores retos de
+nuestra época. Las plataformas en línea han democratizado la creación de contenido,
+pero también han propiciado la proliferación de información errónea, teorías
+conspirativas y campañas de manipulación que se difunden con rapidez sin
+precedentes. Los algoritmos de recomendación crean “burbujas de filtro”, que refuerzan
+creencias preexistentes y limitan la exposición a ideas diversas.
+2
+Niños, niñas y jóvenes son especialmente vulnerables a esta crisis informacional.
+Pasan la mayor parte de su tiempo en entornos digitales, donde la mayoría carece de
+herramientas críticas para distinguir entre información veraz y engañosa. Su etapa de
+desarrollo cognitivo y emocional los hace más susceptibles a los efectos de la
+manipulación mediática, afectando su bienestar, autoestima y confianza en las
+instituciones. Esta brecha entre las destrezas técnicas para usar tecnología y la
+comprensión crítica del ecosistema mediático representa un riesgo real para su
+desarrollo intelectual y cívico.
+En Puerto Rico, la experiencia de los últimos años ha demostrado cómo los
+desafíos informativos pueden amplificarse en momentos de crisis. Tras eventos como el
+huracán María, los terremotos y la pandemia del COVID-19, la difusión de información
+falsa impactó la confianza pública y el bienestar colectivo. La juventud puertorriqueña,
+expuesta a un volumen creciente de contenido digital, necesita destrezas críticas para
+distinguir entre información veraz y engañosa, independientemente del contexto en que
+estudie o viva. Promover la alfabetización mediática en todas las escuelas asegura
+oportunidades equitativas para que cada estudiante pueda formarse como ciudadano
+informado, reflexivo y resiliente.
+Jurisdicciones como California han reconocido esta urgencia mediante la
+aprobación de la Ley AB 873 (2023) y su expansión en 2024, que integran la
+alfabetización mediática y digital en el currículo escolar K-12. Estas iniciativas
+reconocen que la alfabetización mediática no es un complemento, sino una competencia
+esencial para la ciudadanía del Siglo XXI. Países como Finlandia, Suecia y Canadá han
+adoptado estrategias similares con resultados comprobados en resiliencia democrática y
+pensamiento crítico.
+Esta Ley se fundamenta en el Artículo II, Sección 5 de la Constitución de Puerto
+Rico, que garantiza el derecho a una educación que promueva el desarrollo integral de
+la persona y el respeto a los derechos humanos. Asimismo, armoniza con la Ley 85-
+2018, según enmendada, mejor conocida como “Ley de Reforma Educativa de Puerto
+3
+Rico”, que promueve la innovación pedagógica, la autonomía escolar y la formación de
+ciudadanos críticos y responsables.
+Ante la magnitud del reto informacional contemporáneo, Puerto Rico debe
+responder de forma educativa, estructurada y sostenida. No basta con advertir sobre los
+peligros de la desinformación: es imperativo formar estudiantes capaces de analizar
+fuentes, identificar sesgos, verificar hechos y ejercer su libertad de expresión con ética y
+responsabilidad.
+Por tanto, esta Asamblea Legislativa establece un marco legal para integrar la
+alfabetización mediática y digital como herramienta esencial del pensamiento crítico,
+del aprendizaje autónomo y de la participación democrática. Con ello, se busca
+fortalecer la resiliencia individual y colectiva frente a la manipulación informativa,
+proteger el bienestar integral de la niñez y juventud, y garantizar que las próximas
+generaciones de puertorriqueños crezcan preparadas para participar, con criterio y
+compromiso, en el ecosistema digital que define el mundo moderno.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se conocerá como la "Ley de Alfabetización Mediática e Informacional
+3 de Puerto Rico".
+4 Artículo 2.- Declaración de Propósitos
+5 Esta Ley tiene como propósitos fundamentales:
+6 a) Fomentar en el estudiantado las destrezas necesarias para analizar y usar con
+7 responsabilidad la información y la tecnología digital.
+8 b) Proteger a la niñez y juventud de los efectos de la desinformación la
+9 manipulación mediática y los contenidos digitales perjudiciales.
+4
+1 c) Fortalecer la capacidad del sistema educativo público para formar
+2 ciudadanos críticos, informados y responsables en el entorno digital.
+3 Artículo 3.- Definiciones
+4 A los efectos de esta Ley, los siguientes términos tendrán el significado que se
+5 indica a continuación:
+6 a) Alfabetización mediática e informacional: Conjunto de conocimientos,
+7 destrezas y disposiciones que permiten acceder, analizar, evaluar críticamente, crear y
+8 compartir mensajes e información en múltiples formatos (impresos, audiovisuales y
+9 digitales) de manera responsable, ética y efectiva.
+10 b) Contenido manipulado: Material como fotos, videos o mensajes, que ha sido
+11 alterado, editado fuera de contexto o generado con programas o inteligencia artificial
+12 (como los llamados deepfakes) que aparenta ser real pero no lo es, con el propósito de
+13 distorsionar la realidad o engañar al público.
+14 c) Desinformación: Información falsa, engañosa o parcial difundida con la
+15 intención deliberada de manipular percepciones, influir en comportamientos, generar
+16 confusión.
+17 d) Inteligencia Artificial (IA): Sistemas computacionales que utilizan algoritmos,
+18 para procesar información y realizar tareas que simulan la inteligencia humana.
+19 e) Marco curricular: Estructura que define los contenidos y competencias
+20 esenciales del currículo oficial del Departamento de Educación.
+21 f) Microcredencial: Certificación educativa que acredita destrezas específicas en
+22 alfabetización mediática y digital.
+5
+1 g) Sesgo algorítmico: situación en la que un sistema digital o de inteligencia
+2 artificial muestra información o toma decisiones de manera parcial, favoreciendo unas
+3 ideas o grupos más que a otros. Esto puede ocurrir porque los datos usados para
+4 programar el sistema contienen errores o reflejan prejuicios sociales.
+5 h) Verificación de información (fact-checking): Proceso sistemático de
+6 corroboración de afirmaciones fácticas mediante el análisis de fuentes primarias,
+7 evidencia documental, datos objetivos y métodos de investigación reconocidos.
+8 Artículo 4.- Política Pública
+9 El Gobierno de Puerto Rico declara como política pública prioritaria la
+10 integración sistemática de la alfabetización mediática e informacional como
+11 componente transversal y permanente del currículo del sistema público de enseñanza.
+12 Esta política reconoce que en la era de la información digital, la capacidad de analizar
+13 críticamente contenidos mediáticos, identificar desinformación, comprender el
+14 funcionamiento de tecnologías emergentes y participar responsablemente en espacios
+15 digitales constituye una competencia fundamental e indispensable para el pleno
+16 ejercicio de la ciudadanía democrática, el desarrollo personal integral y la preparación
+17 para el mundo laboral del Siglo XXI.
+18 Esta política pública busca que cada estudiante desarrolle las competencias
+19 necesarias para analizar información, identificar desinformación, comprender el
+20 funcionamiento de las tecnologías modernas y participar responsablemente en los
+21 espacios digitales.
+22 Artículo 5.- Integración Curricular
+6
+1 a) El Departamento de Educación de Puerto Rico (DEPR) incorporará de manera
+2 transversal competencias de alfabetización mediática e informacional en los marcos
+3 curriculares de todas las materias del nivel elemental, intermedio y superior, con énfasis
+4 particular en las asignaturas de Español, Estudios Sociales, Ciencias y Matemáticas,
+5 comenzando en un término no mayor de dos (2) años académicos.
+6 b) Las competencias de alfabetización mediática e informacional que se
+7 integrarán al currículo incluirán, sin limitarse a:
+8 1. Evaluación crítica de fuentes y verificación de información.
+9 2. Identificación de desinformación y manipulación, ya sea información falsa,
+10 deepfakes, imágenes manipuladas, titulares sensacionalistas (clickbait) y otras
+11 formas de manipulación mediática.
+12 3. Comprensión básica del funcionamiento de algoritmos e inteligencia artificial.
+13 4. Verificación de hechos y corroboración, aplicación de metodologías de fact-
+14 checking, uso de herramientas de verificación digital, búsqueda inversa de
+15 imágenes, consulta de múltiples fuentes confiables y triangulación de
+16 información para confirmar veracidad.
+17 5. Producción responsable de contenido digital, incluyendo precisión de los
+18 hechos, cita adecuada de fuentes, y responsabilidad en la difusión de
+19 información.
+20 6. Respeto a la privacidad, propiedad intelectual y derechos digitales.
+21 7. Desarrollo de hábitos saludables en el uso de la tecnología.
+7
+1 c) El DEPR promoverá activamente proyectos interdisciplinarios y actividades
+2 prácticas donde el estudiantado aplique estas destrezas en la vida real. Estas actividades
+3 incluirán, sin limitarse a:
+4 1. Análisis comparativo de coberturas noticiosas sobre eventos actuales de
+5 diferentes fuentes mediáticas.
+6 2. Verificación colaborativa de afirmaciones virales en redes sociales usando
+7 herramientas de fact-checking.
+8 3. Creación de campañas educativas comunitarias sobre identificación de
+9 desinformación.
+10 4. Producción de contenido informativo multimedia responsable y verificado.
+11 5. Simulaciones de debates y discusiones sobre dilemas éticos relacionados con
+12 tecnología y medios.
+13 6. Investigaciones sobre el impacto de algoritmos en la formación de opinión
+14 pública.
+15 Artículo 6.- Formación y Desarrollo Profesional Docente
+16 a) El DEPR, en colaboración con universidades, instituciones públicas y
+17 privadas acreditadas, organizaciones especializadas y expertos en tecnología educativa,
+18 desarrollará un programa continuo de formación docente en alfabetización mediática y
+19 digital que permitan al personal docente actualizar constantemente sus conocimientos
+20 ante la evolución acelerada del sistema digital.
+21 b) Este programa incluirá, módulos de capacitación virtual y presencial, talleres
+22 prácticos, comunidades de aprendizaje profesional y recursos de autoformación. Las
+8
+1 Certificaciones o microcredenciales obtenidas contarán como horas de desarrollo
+2 profesional.
+3 c) Se dará prioridad inicial a maestros de Español, Estudios Sociales,
+4 Bibliotecarios y Especialistas en Tecnología Educativa, expandiendo progresivamente la
+5 formación a todo el personal docente.
+6 Artículo 7.- Evaluación, Monitoreo e Informes
+7 El DEPR preparará y someterá un informe anual detallado a la Asamblea
+8 Legislativa de Puerto Rico, que incluya:
+9 a) El progreso de la implementación curricular.
+10 b) La cantidad de maestros que han completado formación en alfabetización
+11 mediática y digital.
+12 c) Estado de implementación curricular en cada nivel educativo.
+13 d) Las escuelas que han integrado el programa.
+14 e) Resultados de evaluaciones y recomendaciones de mejora.
+15 f) Identificación de desafíos, obstáculos y barreras encontradas durante la
+16 implementación.
+17 g) Recomendaciones específicas y fundamentadas para mejorar la efectividad
+18 del programa, incluyendo necesidades de recursos adicionales, ajustes curriculares o
+19 cambios legislativos.
+20 Artículo 8.- Reglamentación
+21 El Secretario del Departamento de Educación de Puerto Rico adoptará,
+22 promulgará y publicará, en un término no mayor de ciento ochenta (180) días contados
+9
+1 a partir de la fecha de aprobación de esta Ley, los reglamentos, normas administrativas
+2 y guías técnicas necesarias para la implementación efectiva de todas las disposiciones
+3 contenidas en esta Ley.
+4 Artículo 9.- Cláusula de Separabilidad
+5 Si cualquier artículo, sección, párrafo, oración, cláusula o parte de esta Ley fuera
+6 declarada inconstitucional, nula o inválida por un tribunal con jurisdicción competente,
+7 dicha determinación no afectará, perjudicará ni invalidará el resto de esta Ley, cuyo
+8 efecto se limitará al artículo, sección, párrafo, oración, cláusula o parte de la misma así
+9 declarada inconstitucional, nula o inválida.
+10 Artículo 10.- Implementación
+11 La implementación inicial de esta Ley se llevará a cabo mediante la optimización
+12 de recursos humanos, tecnológicos, financieros e infraestructura existente en el
+13 Departamento de Educación, maximizando el uso de plataformas virtuales de bajo
+14 costo o gratuitas, recursos educativos abiertos, alianzas colaborativas con universidades
+15 y organizaciones sin fines de lucro, y capacitación en modalidades híbridas y virtuales
+16 que reduzcan costos operativos.
+17 El DEPR podrá coordinar con la Oficina de Gerencia y Presupuesto y el
+18 Departamento de Hacienda la identificación de fondos para la implementación de esta
+19 Ley.
+20 El Departamento deberá completar su implantación plena en un término no mayor
+21 de dos (2) años académicos a partir de su promulgación, permitiendo una
+10
+1 implementación gradual, reflexiva y de calidad que garantice efectividad y
+2 sostenibilidad.
+3 Artículo 11.- Vigencia
+4 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:    2  .dL   d a m y d d s f e u d l t y d l i a ( y f l t h p l p d i e t y c d m q s d c r s]
+[DELETED:  c y e l h m s a l e d l m a s b a y c e l E b e l d t p u t y l c d e m r u r r p s P R l e d l ú a h d c l o v P l a m e t l e a c C h r e u m l d l L A 8 ( y s e e 2 q i l m y d e e c e K E i]
+[DELETED:  l m d r i c P R d d l d e i f e c d a t e A L e u m l p i l a a y d l p d C e s b l r i y c f a l m i e b i d l n y j y g q l p d p c p p p c c y)F)P a l n y j d l e d l d l]
+[DELETED: )F l c d s e p p f)A m e i C d c m e i e m f ( a y)C ))D I f e o p d c l)I)M c E q d l c y c)M]
+[DELETED: )S a s e l q u s d o d i o g m q a o E p o p l d u p)V d i ( P s d d a f m e a d f p G d P R d c p p p l s d l a m e i c c m i d c e c u c f e i p e p p p b q c e d l c p a i i d c e d l t m y p r e l]
+[DELETED: )E c d a m e i e l m e l a d E E S C y M)L c d a m e i q s.E.I().C.V u d h d v d b i d c d m f c y t d.P r d c d i p d l c a d f y r e l d d.R.D]
+[DELETED:  E D p a p i y a.A c d c n s e a d.V c d a v e r s u.C d c e c s i d.P.S.I)E D e c c u i p y)E c d a p y r d a L]
+[DELETED:  o m o c c h d d)S d p i a m d E E S D p y s u i a d a l A)E)L c d m q h c f e a)E)L)R)I d d o y b e d l)R e y f p m l e p i n d r a a c o S d D d E d P R a]
+[DELETED:  d n a p n i e r d e L c r h t f e i e e e d E m e u d p v d b D p c c l O d G y P y e d ( a a a p d s p p u]
+[DELETED:  g r y d c q g e y]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(26 DE MARZO DE 2026)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 820
+16 de octubre de 2025
+Presentado por la señora Pérez Soto
+Referido a las Comisiones de Educación, Arte y Cultura; y de Ciencia, Tecnología e Inteligencia
+Artificial
+LEY
+Para crear la “Ley de Alfabetización Mediática e Informacional de Puerto Rico” con el
+fin de garantizar que el estudiantado del sistema público de enseñanza desarrolle
+competencias de alfabetización mediática y digital donde se fomente el uso
+responsable de la tecnología y de la inteligencia artificial (IA), y fortalecer la
+resiliencia ciudadana ante la desinformación y manipulación digital; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La expansión de los medios digitales y de la inteligencia artificial ha transformado
+radicalmente la forma en que la sociedad accede produce y comparte información. En
+este entorno de inmediatez y viralización, la ciudadanía se enfrenta a un flujo constante
+de información falsa o manipulada que compromete la capacidad colectiva para tomar
+decisiones informadas y participar responsablemente en la vida democrática.
+El fenómeno de la desinformación digital constituye uno de los mayores retos de
+nuestra época. Las plataformas en línea han democratizado la creación de contenido,
+pero también han propiciado la proliferación de información errónea, teorías
+conspirativas y campañas de manipulación que se difunden con rapidez sin
+precedentes. Los algoritmos de recomendación crean “burbujas de filtro”, que refuerzan
+creencias preexistentes y limitan la exposición a ideas diversas.
+
+2
+Niños, niñas y jóvenes son especialmente vulnerables a esta crisis informacional.
+Pasan la mayor parte de su tiempo en entornos digitales, donde la mayoría carece de
+herramientas críticas para distinguir entre información veraz y engañosa. Su etapa de
+desarrollo cognitivo y emocional los hace más susceptibles a los efectos de la
+manipulación mediática, afectando su bienestar, autoestima y confianza en las
+instituciones. Esta brecha entre las destrezas técnicas para usar tecnología y la
+comprensión crítica del ecosistema mediático representa un riesgo real para su
+desarrollo intelectual y cívico.
+En Puerto Rico, la experiencia de los últimos años ha demostrado cómo los
+desafíos informativos pueden amplificarse en momentos de crisis. Tras eventos como el
+huracán María, los terremotos y la pandemia del COVID-19, la difusión de información
+falsa impactó la confianza pública y el bienestar colectivo. La juventud puertorriqueña,
+expuesta a un volumen creciente de contenido digital, necesita destrezas críticas para
+distinguir entre información veraz y engañosa, independientemente del contexto en que
+estudie o viva. Promover la alfabetización mediática en todas las escuelas asegura
+oportunidades equitativas para que cada estudiante pueda formarse como ciudadano
+informado, reflexivo y resiliente.
+Jurisdicciones como California han reconocido esta urgencia mediante la
+aprobación de la Ley AB 873 (2023) y su expansión en 2024, que integran la
+alfabetización mediática y digital en el currículo escolar K-12. Estas iniciativas
+reconocen que la alfabetización mediática no es un complemento, sino una competencia
+esencial para la ciudadanía del Siglo XXI. Países como Finlandia, Suecia y Canadá han
+adoptado estrategias similares con resultados comprobados en resiliencia democrática y
+pensamiento crítico.
+Esta Ley se fundamenta en el Artículo II, Sección 5 de la Constitución de Puerto
+Rico, que garantiza el derecho a una educación que promueva el desarrollo integral de
+la persona y el respeto a los derechos humanos. Asimismo, armoniza con la Ley 85-
+2018, según enmendada, mejor conocida como “Ley de Reforma Educativa de Puerto
+
+3
+Rico”, que promueve la innovación pedagógica, la autonomía escolar y la formación de
+ciudadanos críticos y responsables.
+Ante la magnitud del reto informacional contemporáneo, Puerto Rico debe
+responder de forma educativa, estructurada y sostenida. No basta con advertir sobre los
+peligros de la desinformación: es imperativo formar estudiantes capaces de analizar
+fuentes, identificar sesgos, verificar hechos y ejercer su libertad de expresión con ética y
+responsabilidad.
+Por tanto, esta Asamblea Legislativa establece un marco legal para integrar la
+alfabetización mediática y digital como herramienta esencial del pensamiento crítico,
+del aprendizaje autónomo y de la participación democrática. Con ello, se busca
+fortalecer la resiliencia individual y colectiva frente a la manipulación informativa,
+proteger el bienestar integral de la niñez y juventud, y garantizar que las próximas
+generaciones de puertorriqueños crezcan preparadas para participar, con criterio y
+compromiso, en el ecosistema digital que define el mundo moderno.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se conocerá como la "Ley de Alfabetización Mediática e Informacional
+3 de Puerto Rico".
+4 Artículo 2.- Declaración de Propósitos
+5 Esta Ley tiene como propósitos fundamentales:
+6 a) Fomentar en el estudiantado las destrezas necesarias para analizar y usar con
+7 responsabilidad la información y la tecnología digital.
+8 b) Proteger a la niñez y juventud de los efectos de la desinformación la
+9 manipulación mediática y los contenidos digitales perjudiciales.
+
+4
+1 c) Fortalecer la capacidad del sistema educativo público para formar
+2 ciudadanos críticos, informados y responsables en el entorno digital.
+3 Artículo 3.- Definiciones
+4 A los efectos de esta Ley, los siguientes términos tendrán el significado que se
+5 indica a continuación:
+6 a) Alfabetización mediática e informacional: Conjunto de conocimientos,
+7 destrezas y disposiciones que permiten acceder, analizar, evaluar críticamente, crear y
+8 compartir mensajes e información en múltiples formatos (impresos, audiovisuales y
+9 digitales) de manera responsable, ética y efectiva.
+10 b) Contenido manipulado: Material como fotos, videos o mensajes, que ha sido
+11 alterado, editado fuera de contexto o generado con programas o inteligencia artificial
+12 (como los llamados deepfakes) que aparenta ser real pero no lo es, con el propósito de
+13 distorsionar la realidad o engañar al público.
+14 c) Desinformación: Información falsa, engañosa o parcial difundida con la
+15 intención deliberada de manipular percepciones, influir en comportamientos, generar
+16 confusión.
+17 d) Inteligencia Artificial (IA): Sistemas computacionales que utilizan algoritmos,
+18 para procesar información y realizar tareas que simulan la inteligencia humana.
+19 e) Marco curricular: Estructura que define los contenidos y competencias
+20 esenciales del currículo oficial del Departamento de Educación.
+21 f) Microcredencial: Certificación educativa que acredita destrezas específicas en
+22 alfabetización mediática y digital.
+
+5
+1 g) Sesgo algorítmico: situación en la que un sistema digital o de inteligencia
+2 artificial muestra información o toma decisiones de manera parcial, favoreciendo unas
+3 ideas o grupos más que a otros. Esto puede ocurrir porque los datos usados para
+4 programar el sistema contienen errores o reflejan prejuicios sociales.
+5 h) Verificación de información (fact-checking): Proceso sistemático de
+6 corroboración de afirmaciones fácticas mediante el análisis de fuentes primarias,
+7 evidencia documental, datos objetivos y métodos de investigación reconocidos.
+8 Artículo 4.- Política Pública
+9 El Gobierno de Puerto Rico declara como política pública prioritaria la
+10 integración sistemática de la alfabetización mediática e informacional como
+11 componente transversal y permanente del currículo del sistema público de enseñanza.
+12 Esta política reconoce que en la era de la información digital, la capacidad de analizar
+13 críticamente contenidos mediáticos, identificar desinformación, comprender el
+14 funcionamiento de tecnologías emergentes y participar responsablemente en espacios
+15 digitales constituye una competencia fundamental e indispensable para el pleno
+16 ejercicio de la ciudadanía democrática, el desarrollo personal integral y la preparación
+17 para el mundo laboral del Siglo XXI.
+18 Esta política pública busca que cada estudiante desarrolle las competencias
+19 necesarias para analizar información, identificar desinformación, comprender el
+20 funcionamiento de las tecnologías modernas y participar responsablemente en los
+21 espacios digitales.
+22 Artículo 5.- Integración Curricular
+
+6
+1 a) El Departamento de Educación de Puerto Rico (DEPR) incorporará de manera
+2 transversal competencias de alfabetización mediática e informacional en los marcos
+3 curriculares de todas las materias del nivel elemental, intermedio y superior, con énfasis
+4 particular en las asignaturas de Español, Estudios Sociales, Ciencias y Matemáticas,
+5 comenzando en un término no mayor de dos (2) años académicos.
+6 b) Las competencias de alfabetización mediática e informacional que se
+7 integrarán al currículo incluirán, sin limitarse a:
+8 1. Evaluación crítica de fuentes y verificación de información.
+9 2. Identificación de desinformación y manipulación, ya sea información falsa,
+10 deepfakes, imágenes manipuladas, titulares sensacionalistas (clickbait) y otras
+11 formas de manipulación mediática.
+12 3. Comprensión básica del funcionamiento de algoritmos e inteligencia artificial.
+13 4. Verificación de hechos y corroboración, aplicación de metodologías de fact-
+14 checking, uso de herramientas de verificación digital, búsqueda inversa de
+15 imágenes, consulta de múltiples fuentes confiables y triangulación de
+16 información para confirmar veracidad.
+17 5. Producción responsable de contenido digital, incluyendo precisión de los
+18 hechos, cita adecuada de fuentes, y responsabilidad en la difusión de
+19 información.
+20 6. Respeto a la privacidad, propiedad intelectual y derechos digitales.
+21 7. Desarrollo de hábitos saludables en el uso de la tecnología.
+
+7
+1 c) El DEPR promoverá activamente proyectos interdisciplinarios y actividades
+2 prácticas donde el estudiantado aplique estas destrezas en la vida real. Estas actividades
+3 incluirán, sin limitarse a:
+4 1. Análisis comparativo de coberturas noticiosas sobre eventos actuales de
+5 diferentes fuentes mediáticas.
+6 2. Verificación colaborativa de afirmaciones virales en redes sociales usando
+7 herramientas de fact-checking.
+8 3. Creación de campañas educativas comunitarias sobre identificación de
+9 desinformación.
+10 4. Producción de contenido informativo multimedia responsable y verificado.
+11 5. Simulaciones de debates y discusiones sobre dilemas éticos relacionados con
+12 tecnología y medios.
+13 6. Investigaciones sobre el impacto de algoritmos en la formación de opinión
+14 pública.
+15 Artículo 6.- Formación y Desarrollo Profesional Docente
+16 a) El DEPR, en colaboración con universidades, instituciones públicas y
+17 privadas acreditadas, organizaciones especializadas y expertos en tecnología educativa,
+18 desarrollará un programa continuo de formación docente en alfabetización mediática y
+19 digital que permitan al personal docente actualizar constantemente sus conocimientos
+20 ante la evolución acelerada del sistema digital.
+21 b) Este programa incluirá, módulos de capacitación virtual y presencial, talleres
+22 prácticos, comunidades de aprendizaje profesional y recursos de autoformación. Las
+
+8
+1 Certificaciones o microcredenciales obtenidas contarán como horas de desarrollo
+2 profesional.
+3 c) Se dará prioridad inicial a maestros de Español, Estudios Sociales,
+4 Bibliotecarios y Especialistas en Tecnología Educativa, expandiendo progresivamente la
+5 formación a todo el personal docente.
+6 Artículo 7.- Evaluación, Monitoreo e Informes
+7 El DEPR preparará y someterá un informe anual detallado a la Asamblea
+8 Legislativa de Puerto Rico, que incluya:
+9 a) El progreso de la implementación curricular.
+10 b) La cantidad de maestros que han completado formación en alfabetización
+11 mediática y digital.
+12 c) Estado de implementación curricular en cada nivel educativo.
+13 d) Las escuelas que han integrado el programa.
+14 e) Resultados de evaluaciones y recomendaciones de mejora.
+15 f) Identificación de desafíos, obstáculos y barreras encontradas durante la
+16 implementación.
+17 g) Recomendaciones específicas y fundamentadas para mejorar la efectividad
+18 del programa, incluyendo necesidades de recursos adicionales, ajustes curriculares o
+19 cambios legislativos.
+20 Artículo 8.- Reglamentación
+21 El Secretario del Departamento de Educación de Puerto Rico adoptará,
+22 promulgará y publicará, en un término no mayor de ciento ochenta (180) días contados
+
+9
+1 a partir de la fecha de aprobación de esta Ley, los reglamentos, normas administrativas
+2 y guías técnicas necesarias para la implementación efectiva de todas las disposiciones
+3 contenidas en esta Ley.
+4 Artículo 9.- Cláusula de Separabilidad
+5 Si cualquier artículo, sección, párrafo, oración, cláusula o parte de esta Ley fuera
+6 declarada inconstitucional, nula o inválida por un tribunal con jurisdicción competente,
+7 dicha determinación no afectará, perjudicará ni invalidará el resto de esta Ley, cuyo
+8 efecto se limitará al artículo, sección, párrafo, oración, cláusula o parte de la misma así
+9 declarada inconstitucional, nula o inválida.
+10 Artículo 10.- Implementación
+11 La implementación inicial de esta Ley se llevará a cabo mediante la optimización
+12 de recursos humanos, tecnológicos, financieros e infraestructura existente en el
+13 Departamento de Educación, maximizando el uso de plataformas virtuales de bajo
+14 costo o gratuitas, recursos educativos abiertos, alianzas colaborativas con universidades
+15 y organizaciones sin fines de lucro, y capacitación en modalidades híbridas y virtuales
+16 que reduzcan costos operativos.
+17 El DEPR podrá coordinar con la Oficina de Gerencia y Presupuesto y el
+18 Departamento de Hacienda la identificación de fondos para la implementación de esta
+19 Ley.
+20 El Departamento deberá completar su implantación plena en un término no mayor
+21 de dos (2) años académicos a partir de su promulgación, permitiendo una
+
+10
+1 implementación gradual, reflexiva y de calidad que garantice efectividad y
+2 sostenibilidad.
+3 Artículo 11.- Vigencia
+4 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:    2  .dL   d a m y d d s f e u d l t y d l i a ( y f l t h p l p d i e t y c d m q s d c r s]
+[DELETED:  c y e l h m s a l e d l m a s b a y c e l E b e l d t p u t y l c d e m r u r r p s P R l e d l ú a h d c l o v P l a m e t l e a c C h r e u m l d l L A 8 ( y s e e 2 q i l m y d e e c e K E i]
+[DELETED:  l m d r i c P R d d l d e i f e c d a t e A L e u m l p i l a a y d l p d C e s b l r i y c f a l m i e b i d l n y j y g q l p d p c p p p c c y)F)P a l n y j d l e d l d l]
+[DELETED: )F l c d s e p p f)A m e i C d c m e i e m f ( a y)C ))D I f e o p d c l)I)M c E q d l c y c)M]
+[DELETED: )S a s e l q u s d o d i o g m q a o E p o p l d u p)V d i ( P s d d a f m e a d f p G d P R d c p p p l s d l a m e i c c m i d c e c u c f e i p e p p p b q c e d l c p a i i d c e d l t m y p r e l]
+[DELETED: )E c d a m e i e l m e l a d E E S C y M)L c d a m e i q s.E.I().C.V u d h d v d b i d c d m f c y t d.P r d c d i p d l c a d f y r e l d d.R.D]
+[DELETED:  E D p a p i y a.A c d c n s e a d.V c d a v e r s u.C d c e c s i d.P.S.I)E D e c c u i p y)E c d a p y r d a L]
+[DELETED:  o m o c c h d d)S d p i a m d E E S D p y s u i a d a l A)E)L c d m q h c f e a)E)L)R)I d d o y b e d l)R e y f p m l e p i n d r a a c o S d D d E d P R a]
+[DELETED:  d n a p n i e r d e L c r h t f e i e e e d E m e u d p v d b D p c c l O d G y P y e d ( a a a p d s p p u]
+[DELETED:  g r y d c q g e y]
