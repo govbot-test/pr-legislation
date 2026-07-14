@@ -1,0 +1,61 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0747",
+  "title": "Para ordenar a la Comisi\u00f3n de Gobierno de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la determinaci\u00f3n del Departamento de Salud de no renovar el contrato de servicios de vigilancia de la empresa Genesis Security Services, Inc. en el Hospital Universitario Ram\u00f3n Ruiz Arnau, con el prop\u00f3sito de otorgarlo a otras compa\u00f1\u00edas; indagar sobre los criterios econ\u00f3micos y operacionales que justifican esta decisi\u00f3n cuando la propuesta de Genesis hab\u00eda sido catalogada como la m\u00e1s ventajosa para el erario; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc747"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jos\u00e9 M. Varela  Fern\u00e1ndez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Varela  Fern\\u00e1ndez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161689",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:27:13Z"
+  }
+}

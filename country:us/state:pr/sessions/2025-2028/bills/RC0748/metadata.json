@@ -1,0 +1,61 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0748",
+  "title": "Para ordenar a la Comisi\u00f3n de Seguridad P\u00fablica de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre la implementaci\u00f3n de los Objetivos de la Superintendencia Auxiliar en Educaci\u00f3n y Adiestramiento de la Polic\u00eda de Puerto Rico en conformidad con la Ley 83-2025, conocida como \u201cLey de la Polic\u00eda de Puerto Rico\u201d, la cual dispone que como parte de estos objetivos se establezca de forma compulsoria un seminario anual de Lenguaje de Se\u00f1as como parte de la educaci\u00f3n continua que reciben los miembros de la Polic\u00eda; evaluar su cumplimiento en cuanto al ofrecimiento, participaci\u00f3n y efectividad; auscultar la viabilidad de incluir un curso de Lenguaje de Se\u00f1as como parte del ofrecimiento acad\u00e9mico por el Colegio Universitario de Justicia Criminal de Puerto Rico; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc748"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-07-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Edgardo   Feliciano S\u00e1nchez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Edgardo   Feliciano S\\u00e1nchez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161690",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:27:13Z"
+  }
+}
