@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1385",
+  "title": "Para crear la \u201cLey sobre Representaciones Sint\u00e9ticas e Interacciones Automatizadas en el \nComercio\u201d, a los fines de requerir divulgaciones conspicuas en anuncios comerciales \ndirigidos a consumidores en Puerto Rico que utilicen int\u00e9rpretes sint\u00e9ticos o r\u00e9plicas \ndigitales; establecer deberes de informaci\u00f3n en determinadas interacciones entre \nsistemas de inteligencia artificial generativa y consumidores, incluyendo aquellas de \nalto riesgo vinculadas a servicios reglamentados; disponer excepciones para usos \nt\u00e9cnicos, incidentales, de traducci\u00f3n y promoci\u00f3n de obras expresivas; establecer \nresponsabilidad por la utilizaci\u00f3n comercial de sistemas de inteligencia artificial; \nfacultar al Departamento de Asuntos del Consumidor para fiscalizar su cumplimiento \ne imponer multas administrativas; preservar los dem\u00e1s derechos y remedios \nreconocidos por ley; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1385"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:48Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161693/ps1385-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161693",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:29:48Z"
+  }
+}

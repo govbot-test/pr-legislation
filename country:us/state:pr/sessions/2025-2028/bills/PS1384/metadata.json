@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS1384",
+  "title": "Para a\u00f1adir un nuevo subinciso (26) al inciso (c) del Art\u00edculo 2.25 de la Ley 22-2000, seg\u00fan \nenmendada, conocida como la \u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, a los \nfines de incluir la enfermedad de Crohn, la colitis ulcerosa y el s\u00edndrome de intestino \nirritable, tambi\u00e9n conocido como s\u00edndrome de colon irritado o colon irritable, entre \nlas condiciones reconocidas para la expedici\u00f3n de permisos autorizando estacionar en \n\u00e1reas designadas para personas con impedimentos; enmendar los Art\u00edculos 3, 4 y 8, \na\u00f1adir un nuevo Art\u00edculo 6 y renumerar los actuales Art\u00edculos 6, 7, 8, 9, 10 y 11 como \nlos nuevos Art\u00edculos 7, 8, 9, 10, 11 y 12 de la Ley 297-2018, seg\u00fan enmendada, conocida \ncomo la \u201cLey Uniforme Sobre Filas de Servicio Expreso y Cesi\u00f3n de Turnos de \nPrioridad\u201d, a los fines de incluir a las personas con enfermedad de Crohn, colitis \nulcerosa, s\u00edndrome de intestino irritable u otra condici\u00f3n o necesidad especial de \nsalud cubierta entre las beneficiarias del sistema de fila de servicio expreso y turnos \nde prioridad; actualizar los avisos requeridos; establecer un mecanismo uniforme de \nacceso razonable a servicios sanitarios mediante tarjeta de identificaci\u00f3n expedida por \nel Departamento de Salud; facultar al Departamento de Salud a investigar querellas, \nemitir \u00f3rdenes de cumplimiento e imponer multas administrativas por la negativa \ninjustificada de dicho acceso; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1384"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:48Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161692/ps1384-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161692",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:29:48Z"
+  }
+}
