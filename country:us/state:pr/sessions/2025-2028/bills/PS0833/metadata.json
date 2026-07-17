@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0833",
-  "title": "\u201cPara declarar el mes de octubre de cada a\u00f1o como el \u201cMes de la Ortopedia y Traumatolog\u00eda en\nPuerto Rico\u201d, establecer responsabilidades y otros fines relacionados.\u201d",
+  "title": "Para declarar el mes de octubre de cada afio como el \"Mes de la Ortopedia Traumatolog\u00eda en  Puerto Rico\", establecer  responsabilidades; y otros fine relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -248,6 +248,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:54Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:21:09Z"
+      }
+    },
+    {
+      "description": "Ley 127-2026",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:21:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -349,6 +369,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "Ley 127-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159303/Ley 127-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -367,7 +398,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:54Z",
+    "logs_latest_update": "2026-07-17T13:21:09Z",
     "text_extraction_latest_update": "2026-07-13T13:14:44.322828Z"
   }
 }

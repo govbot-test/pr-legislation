@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1001",
-  "title": "Para enmendar el inciso (b) de la Secci\u00f3n 2023.02 del Subcap\u00edtulo C del Cap\u00edtulo 2 del\nSubt\u00edtulo B de la Ley 60-2019, seg\u00fan enmendada, mejor conocida como \u201cC\u00f3digo de\nIncentivos de Puerto Rico\u201d; a los fines de a\u00f1adir a la Corporaci\u00f3n del Fondo del\nSeguro del Estado, a la Administraci\u00f3n de Compensaciones por Accidentes de\nAutom\u00f3viles, a la Administraci\u00f3n de Servicios de Salud Mental y Contra la\nAdicci\u00f3n y al Programa de Salud Correccional del Departamento de Correcci\u00f3n y\nRehabilitaci\u00f3n como entidades elegibles para que un M\u00e9dico Cualificado pueda\ncumplir con el requisito de ciento ochenta (180) horas anuales de servicios\ncomunitarios con remuneraci\u00f3n.",
+  "title": "Para enmendar el inciso (b) de la Secci\u00f3n 2023.02 del Subcap\u00edtulo C del Cap\u00edtulo 2 del Subtitulo B de la Ley 60-2019, seg\u00fan enmendada, mejor conocida como \"C\u00f3digo de Incentivos de Puerto Rico\", a los fines de a\u00f1adir a la Corporaci\u00f3n del Fondo del Segura del Estado, a la Administraci\u00f3n de Compensaciones por Accidentes de Autom\u00f3viles, a la Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n y al Programa de Salud Correccional del Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n como entidades elegibles para que un M\u00e9dico Cualificado pueda cumplir con el requisito de ciento ochenta (180) horas anuales de servicios comunitarios con remuneraci\u00f3n.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -205,22 +205,22 @@
     },
     {
       "description": "Firmado por el Presidente del Senado",
-      "date": "2026-06-23T04:00:00+00:00",
+      "date": "2026-07-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:00Z"
+        "log_file_created": "2026-07-17T13:21:09Z"
       }
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-06-25T04:00:00+00:00",
+      "date": "2026-07-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:00Z"
+        "log_file_created": "2026-07-17T13:21:09Z"
       }
     },
     {
@@ -232,23 +232,33 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:00Z"
       }
+    },
+    {
+      "description": "Ley 128-2026",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:21:09Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -330,6 +340,17 @@
       ],
       "date": "2026-06-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 128-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160157/Ley 128-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -348,7 +369,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:00Z",
+    "logs_latest_update": "2026-07-17T13:21:09Z",
     "text_extraction_latest_update": "2026-07-13T11:50:29.568355Z"
   }
 }

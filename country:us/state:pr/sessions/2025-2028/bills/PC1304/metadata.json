@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1304",
-  "title": "Para derogar la Ley 12-2008, con el prop\u00f3sito de eliminar el modelo obligatorio de escaneo de contenedores en los puertos de Puerto Rico; establecer la \u201cLey para Promover la Seguridad en las Instalaciones Portuarias de Puerto Rico\u201d, promulgar la pol\u00edtica p\u00fablica sobre la seguridad en todas nuestras instalaciones portuarias, la cual se ejecutar\u00e1 en estrecha coordinaci\u00f3n con el gobierno federal para evitar la imposici\u00f3n de cargos o estructuras regulatorias innecesarias que encarezcan el comercio y afecten al consumidor; y para otros fines relacionados.",
+  "title": "Para derogar la Ley N\u00fam. 12-2008, con el prop\u00f3sito de eliminar el modelo obligatorio de escaneo de contenedores en los puertos de Puerto Rico; establecer la \"Ley para Promover la Seguridad en las Instalaciones Portuarias de Puerto Rico\", promulgar la pol\u00edtica p\u00fablica sobre la seguridad en todas nuestras instalaciones portuarias, la cual se ejecutara en estrecha coordinaci\u00f3n con el gobierno federal para evitar la imposici6n de cargos o estructuras regulatorias innecesarias que encarezcan el comercio y afecten al consumidor; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -256,23 +256,33 @@
       "_processing": {
         "log_file_created": "2026-07-15T13:29:48Z"
       }
+    },
+    {
+      "description": "Ley 126-2026",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:21:09Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -365,6 +375,17 @@
       ],
       "date": "2026-06-24",
       "classification": ""
+    },
+    {
+      "note": "Ley 126-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161459/Ley 126-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -383,7 +404,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T13:29:48Z",
+    "logs_latest_update": "2026-07-17T13:21:09Z",
     "text_extraction_latest_update": "2026-07-13T07:04:26.796671Z"
   }
 }

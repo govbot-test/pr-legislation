@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1129",
-  "title": "Para enmendar los Art\u00edculos 1 y 2 de la Ley 20-2023 para declarar el s\u00e1bado siguiente al D\u00eda de Acci\u00f3n de Gracias de cada a\u00f1o como el \u201cD\u00eda Nacional del Mundillo Puertorrique\u00f1o\u201d, en lugar del primer domingo de mayo de cada a\u00f1o; para a\u00f1adir un nuevo Art\u00edculo 2 que reconozca al Municipio de Moca como \u201cLa Capital del Mundillo Puertorrique\u00f1o\u201d, reenumerar los Art\u00edculos 2 al 4 como Art\u00edculos 3 al 5 respectivamente; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 1; a\u00f1adir un nuevo Art\u00edculo 2; reenumerar el actual Art\u00edculo 2 como Art\u00edculo 3 y enmendarlo; y reenumerar los actuales Art\u00edculos 3 y 4 como 4 y 5 de la Ley 20-2023 con el prop\u00f3sito de declarar el s\u00e1bado siguiente al Dia de Acci\u00f3n de Gracias de cada a\u00f1o como el \"Dia Nacional del Mundillo Puertorrique\u00f1o\u201d; reconocer al Municipio de Moca como \"La Capital del Mundillo Puertorrique\u00f1o\"; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -302,6 +302,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:54Z"
       }
+    },
+    {
+      "description": "Ley 129-2026",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:21:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -425,6 +435,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "Ley 129-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160448/Ley 129-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -443,7 +464,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:54Z",
+    "logs_latest_update": "2026-07-17T13:21:09Z",
     "text_extraction_latest_update": "2026-07-13T06:39:38.418002Z"
   }
 }
