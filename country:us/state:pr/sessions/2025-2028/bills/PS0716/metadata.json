@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0716",
-  "title": "Para enmendar el Art\u00edculo 6.14A de la Ley 22-2000, seg\u00fan enmendada, conocida como\n\u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, con el prop\u00f3sito de aumentar de cien\n(100) d\u00f3lares, a quinientos (500) d\u00f3lares, la multa por violar dicho Art\u00edculo; y para\notros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 6.14A de la Ley 22-2000, seg\u00fan enmendada, conocida coma \"Ley de Veh\u00edculos y Transito de Puerto Rico\", con el prop\u00f3sito de aumentar de cien (100) d\u00f3lares, a quinientos (500) d\u00f3lares, la multa incumplir con la obligaci\u00f3n de ceder el paso a veh\u00edculos de emergencia autorizados que se encuentren emitiendo se\u00f1ales de alarma; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -290,23 +290,43 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:54Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
+    },
+    {
+      "description": "Ley 133-2026",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -421,6 +441,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 133-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158327/Ley 133-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -439,7 +470,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:54Z",
+    "logs_latest_update": "2026-07-18T13:06:48Z",
     "text_extraction_latest_update": "2026-07-13T13:07:00.172391Z"
   }
 }

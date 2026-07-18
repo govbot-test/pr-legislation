@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1015",
-  "title": "Para a\u00f1adir un nuevo Art\u00edculo 2.003B de la Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d, a los fines de requerir un Enlace Municipal de Asuntos de la Mujer y V\u00edctimas de Violencia Dom\u00e9stica en cada municipio; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 2.003A a la Ley 107-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Municipal de Puerto Rico\", a los fines de requerir un Enlace Municipal de Asuntos de la Mujer y V\u00edctimas de Violencia Domestica en cada municipio de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -312,6 +312,16 @@
       "_processing": {
         "log_file_created": "2026-07-15T13:29:48Z"
       }
+    },
+    {
+      "description": "Ley 138-2026",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -443,6 +453,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 138-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159626/Ley 138-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -461,7 +482,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T13:29:48Z",
+    "logs_latest_update": "2026-07-18T13:06:48Z",
     "text_extraction_latest_update": "2026-07-13T11:08:09.926587Z"
   }
 }

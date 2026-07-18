@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0735",
-  "title": "Para declarar el d\u00eda 14 de octubre de cada a\u00f1o como el \u201cD\u00eda de Concientizaci\u00f3n del Trastorno Obsesivo-Compulsivo (TOC)\u201d, disponer lo concerniente a efecto de su celebraci\u00f3n; y para otros fines relacionados.",
+  "title": "Para declarar el d\u00eda 14 de octubre de cada afio como el \"D\u00eda de Concientizaci\u00f3n del Trastorno  Obsesivo-Compulsivo  (TOC)\",  disponer  lo  concerniente  a  su celebraci\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -258,23 +258,43 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:58Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
+    },
+    {
+      "description": "Ley 134-2026",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -378,6 +398,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 134-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158655/Ley 134-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -396,7 +427,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:58Z",
+    "logs_latest_update": "2026-07-18T13:06:48Z",
     "text_extraction_latest_update": "2026-07-13T07:56:30.262635Z"
   }
 }

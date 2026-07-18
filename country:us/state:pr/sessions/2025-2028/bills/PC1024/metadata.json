@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1024",
-  "title": "Para enmendar el Art\u00edculo 1.21 a la Ley 20-2017, seg\u00fan enmendada, conocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d; el Art\u00edculo 5 de la Ley 83-2025, conocida como \u201cLey de la Polic\u00eda de Puerto Rico\u201d; el Art\u00edculo 5 de la Ley 23 de 20 de junio de 1972, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Recursos Naturales y Ambientales\u201d; el Art\u00edculo 7 del Plan de Reorganizaci\u00f3n 2-2011, seg\u00fan enmendado, conocido como \"Plan de Reorganizaci\u00f3n del Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n de 2011\" con el prop\u00f3sito de incluir como parte de las experiencias educativas y preventivas del Programa Experience del Departamento de Seguridad P\u00fablica, a la Polic\u00eda de Puerto Rico, el Cuerpo de Vigilantes de Recursos Naturales y al Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n; establecer la obligaci\u00f3n de colaborar y promover el programa; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 1.21 a la Ley 20-2017, seg\u00fan enmendada, conocida como \"Ley del Departamento de Seguridad P\u00fablica de Puerto Rico\"; el Art\u00edculo 5 de la Ley 83-2025, conocida como \"Ley de la Polic\u00eda de Puerto Rico\"; el Articulo 5 de la Ley N\u00fam. 23 de 20 de junio de 1972, seg\u00fan enmendada, conocida como \"Ley Org\u00e1nica del Departamento de Recursos Naturales y Ambientales\"; el Art\u00edculo 7 del Plan de Reorganizaci\u00f3n  2-2011,  seg\u00fan  enmendado,  conocido  como  \"Plan  de Reorganizaci\u00f3n del Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n de 201111 con el prop\u00f3sito de incluir como parte de las experiencias educativas y preventivas del Programa Experience del Departamento de Seguridad P\u00fablica, a la Polic\u00eda de Puerto Rico, el Cuerpo de Vigilantes de Recursos Naturales y Ambientales y al Departamento  de  Correcci\u00f3n  y  Rehabilitaci\u00f3n; establecer  la  obligaci\u00f3n  de colaborar y promover el programa; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -270,6 +270,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:55Z"
       }
+    },
+    {
+      "description": "Ley 139-2026",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -390,6 +400,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "Ley 139-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159638/Ley 139-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -408,7 +429,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:55Z",
+    "logs_latest_update": "2026-07-18T13:06:48Z",
     "text_extraction_latest_update": "2026-07-13T06:32:16.608627Z"
   }
 }

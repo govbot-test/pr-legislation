@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0971",
-  "title": "Para enmendar el Art\u00edculo 2.048 de la Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d con el fin de realizar enmiendas t\u00e9cnicas.",
+  "title": "Para enmendar el Art\u00edculo 2.048 de  la Ley 107-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Municipal de Puerto Rico\" a los fines de realizar enmiendas t\u00e9cnicas para restablecer, dentro de las Condiciones Generales para el Ingreso al Servicio P\u00fablico Municipal, el requisito de que el solicitante no haya sometido ni intentado someter informaci\u00f3n falsa, incorrecta o enga\u00f1osa en solicitudes de examen, reclutamiento o empleo, reincorporando as\u00ed texto vigente previamente omitido; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -288,6 +288,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:55Z"
       }
+    },
+    {
+      "description": "Ley 137-2026",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -411,6 +421,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "Ley 137-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159402/Ley 137-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -429,7 +450,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:55Z",
+    "logs_latest_update": "2026-07-18T13:06:48Z",
     "text_extraction_latest_update": "2026-07-13T09:41:51.530370Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0915",
-  "title": "Para enmendar el Art\u00edculo 4 de la Ley 21-2021, seg\u00fan enmendada, mejor conocida como\n\u201cLey contra la Venganza Pornogr\u00e1fica de Puerto Rico\u201d para tipificar delito grave los\ncasos en que una persona amenace a la victima de divulgar, difundir, revelar o\nentregar a terceros materiales explicito que la involucre, por cualquier medio de\ncomunicaci\u00f3n, incluyendo medios electr\u00f3nicos y digitales, en el contexto de una\nrelaci\u00f3n de pareja, y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 2, 3 y 4 de la Ley 21-2021, seg\u00fan enmendada, mejor conocida como \"Ley Contra la Venganza Pornogr\u00e1fica de Puerto Rico\", a los fines de fortalecer la pol\u00edtica p\u00fablica contra la difusi\u00f3n no consentida de im\u00e1genes privadas y la amenaza de divulgaci\u00f3n de material explicito; ampliar y precisar las definiciones aplicables, incluyendo el t\u00e9rmino \"tercero\"; tipificar como delito grave la amenaza de difundir, divulgar, revelar, ceder o entregar a terceros material expl\u00edcito de la v\u00edctima o que la involucre, mediante cualquier tipo de comunicaci\u00f3n, incluyendo comunicaciones electr\u00f3nicas o medios de comunicaci\u00f3n electr\u00f3nica o cibern\u00e9tica; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -244,6 +244,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:53Z"
       }
+    },
+    {
+      "description": "Ley 135-2026",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-18T13:06:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -342,6 +352,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Ley 135-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159654/Ley 135-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -360,7 +381,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:27:13Z",
+    "logs_latest_update": "2026-07-18T13:06:48Z",
     "text_extraction_latest_update": "2026-07-13T08:42:47.847395Z"
   }
 }
